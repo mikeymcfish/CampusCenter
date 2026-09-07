@@ -1,7 +1,7 @@
 {
+  "revision": 15,
   "destination": "P:\\_code\\CampusCenter",
-  "files": 144,
-  "bytes": 487644298,
+  "files": 137,
   "all_copies_verified": true,
   "git_commit_created": false,
   "git_push_performed": false,
@@ -18,13 +18,13 @@
     },
     {
       "path": "ASSET_MANIFEST.json",
-      "bytes": 40382,
-      "sha256": "59e3c9fec7819e8dde6b83c4e667ed16a8a93b5f794d827c8aad1b7b5af06763"
+      "bytes": 38615,
+      "sha256": "914489ec251b71ee8d138f10c3b9256ae824cc6806813bfee853519f94eb8e18"
     },
     {
       "path": "README.md",
-      "bytes": 4950,
-      "sha256": "f469683c6b11d41b4e127d218ace4bd2d31a01a3f49f4474e95670eb6da4594d"
+      "bytes": 5380,
+      "sha256": "fb44d543ecaa12289e42d561df431b8cee81adebb04294e847cf19371066fb68"
     },
     {
       "path": "THIRD_PARTY_SOURCES.md",
@@ -203,13 +203,13 @@
     },
     {
       "path": "scene/Campus_Center_Current.blend",
-      "bytes": 13084535,
-      "sha256": "899990939f7e1b3ee68e22a5d3bc5198ed52da12b6cf60ab3e3324249c6e6d0d"
+      "bytes": 13573554,
+      "sha256": "b0d1081a8301b2eb0af422121632a1ae8aba608188fb34fa7a1c5e2a2e5595b1"
     },
     {
       "path": "scene/Campus_Center_Current.glb",
-      "bytes": 27144192,
-      "sha256": "23d8a9387df9d10e439ac4bd8071a230bd25d89045ebb526b73bb4dc78ea2d78"
+      "bytes": 31018288,
+      "sha256": "046166a5042fb0e7733fb8c2f9503cf087d7107b9c5d91a096b5d984c1c715bc"
     },
     {
       "path": "scene/final_scene_validation.json",
@@ -217,9 +217,24 @@
       "sha256": "fe815b8e048d9abddd4eaf2d603e5f29ba1a610b2ce2e0e085f143bc3b366db1"
     },
     {
+      "path": "scene/FURNITURE_REVISION.md",
+      "bytes": 2643,
+      "sha256": "c250c589e1ae631c041ae361d47c42322d0b7993c8e1c4aa0c7f10e31c982b6f"
+    },
+    {
+      "path": "scene/polish_report.json",
+      "bytes": 581,
+      "sha256": "9220c7d74f8dbdbde6d0b425e12d7b206cb54c6a4d0a848a12bc1afa230cc7ed"
+    },
+    {
       "path": "scene/reopen_validation.json",
-      "bytes": 352,
-      "sha256": "7a5150d91f29c2e13594511195881b21ff4fe0bea83cf44f1ad01496e484d2c4"
+      "bytes": 754,
+      "sha256": "2a8a8a45af4a506b278bffc03fa297b964f46243f66cc47e8f8c0921d18c32fe"
+    },
+    {
+      "path": "scene/revision_report.json",
+      "bytes": 12647,
+      "sha256": "e057d90ed7d25d6f261caeed2931851dad791a6581a3e97c7af86fcbe419ef29"
     },
     {
       "path": "scene/route_collision_review.json",
@@ -557,6 +572,11 @@
       "sha256": "b2371aef77e486d487ba7f3ca452c09d76564109346bcb54006fc7fff84f9239"
     },
     {
+      "path": "references/plans/MEP_Progress_2025-08-20.pdf",
+      "bytes": 8502138,
+      "sha256": "fe69609760aad272008308f908b2be41d0d111e84042897f82d90dae15126f29"
+    },
+    {
       "path": "references/plans/Property and Limited Topographic Survey  King School Campus Center.PDF",
       "bytes": 2158485,
       "sha256": "097655c0d9da60bd2acaf657f9ef23eede3c8be87812c9e11368ade6f38c630a"
@@ -632,99 +652,44 @@
       "sha256": "456222e708e0dfdc5deade94625a66f8f497c8d68db1d8aa4eacda70caece902"
     },
     {
-      "path": "scene/review/Art_display.png",
-      "bytes": 279421,
-      "sha256": "2dbc9bfe3157bb6e99480289ccb63af5607f8850d961cfa4b55b6535538dcb1b"
+      "path": "scene/review/AV_lowered.png",
+      "bytes": 531091,
+      "sha256": "6e659c6f06d1acd1aca603949f941d1ad69060f9cea06ab3d38b871abf2297f4"
     },
     {
-      "path": "scene/review/Bridge.png",
-      "bytes": 303854,
-      "sha256": "f205b9d7c4fc629d7aa2d7e08cd005086a1d8b15bca3bfeaf45b6efa2779287b"
-    },
-    {
-      "path": "scene/review/Classroom_windows.png",
-      "bytes": 288908,
-      "sha256": "97c3e462cb66820f3826925d094c8160283c77dd2e6fd53c52dd2e17c7c0157a"
+      "path": "scene/review/Cafe.png",
+      "bytes": 637967,
+      "sha256": "ec3f45dfdd5e680324013bfa751bf3dbd76114355ac2345da34bb40f557d06e9"
     },
     {
       "path": "scene/review/Commons.png",
-      "bytes": 314789,
-      "sha256": "7ffe2a2efa4810f8368f2bbe81521dc953fd23eb8e649d12cd7402c83d3b3f27"
+      "bytes": 665112,
+      "sha256": "44e7dd84962e8e3676442f52a1f3ae6e448c2a682860f8df879baab6fab4b9ae"
     },
     {
-      "path": "scene/review/Commons_overlook.png",
-      "bytes": 336777,
-      "sha256": "4d7bc87c819e561d0a8777c5a8dfa53242a58636664fbe37eeaa7b023c1be393"
+      "path": "scene/review/Filler_lab.png",
+      "bytes": 529868,
+      "sha256": "1636b42bbd6c34a01a9792c2ef2c57b17b1724e0435c34e193d930b72c263bba"
     },
     {
-      "path": "scene/review/contact_sheet.jpg",
-      "bytes": 113632,
-      "sha256": "39bef88558b3a0d0c1742caea6921e3495948b73c306f58312645589083f12cb"
+      "path": "scene/review/Filler_lockers.png",
+      "bytes": 552840,
+      "sha256": "5fb9a429328697d4726836392f176cd73df45424570eb9ef9ba3f1f00711743c"
     },
     {
-      "path": "scene/review/Entrance.png",
-      "bytes": 301733,
-      "sha256": "e175bd52eaf120ba3deaee02710fccf3a1e44bcf953bcc22cb851b01ed3736a9"
+      "path": "scene/review/Lockers.png",
+      "bytes": 604936,
+      "sha256": "4e011d552f25dc3d766ca4f6f1e2f42331cf7cbb9b223b4d8d01e0984bdba823"
     },
     {
-      "path": "scene/review/Fabrication.png",
-      "bytes": 250878,
-      "sha256": "1474786cb64b00d3801de29786e8ce8fcb85ca0439966c67b9d8cd3aa0e0c9e0"
+      "path": "scene/review/Mens_toilet.png",
+      "bytes": 521918,
+      "sha256": "f95b91f95434cfe07f9dbbe3560b12916bf8f279ac777a450b4552985e7fc4a9"
     },
     {
-      "path": "scene/review/Final_balcony_view.png",
-      "bytes": 291240,
-      "sha256": "8955d038291067a8cfe8d713ded22652ee1a5e9c03eafb75d198ed69d9c817dc"
-    },
-    {
-      "path": "scene/review/Fireplace_and_commons.png",
-      "bytes": 312911,
-      "sha256": "c970aa021b4e61fd928ed202bf2f4234952c7c4cff2f206407ee92b1ab4b4fc0"
-    },
-    {
-      "path": "scene/review/Locker_corridor.png",
-      "bytes": 268940,
-      "sha256": "5d765350b17f8e35babd6af928c2c1fb278ae670c6fdd9572747d7c611e357b5"
-    },
-    {
-      "path": "scene/review/Printers.png",
-      "bytes": 307914,
-      "sha256": "dc61f8c4e8192c0a4aadab876f4ab8893f85db76cf70da42eb5961f2cef37f3c"
-    },
-    {
-      "path": "scene/review/Sink.png",
-      "bytes": 252688,
-      "sha256": "c486ea195e54dbbc97e735277201a631ea8b29ca9bf6414e6f2802f70fd448af"
-    },
-    {
-      "path": "scene/review/Sink_detail.png",
-      "bytes": 294610,
-      "sha256": "c6f450c5112c59b2afb666e608672e7174ac49eec04c87d94b0c8cef3073acda"
-    },
-    {
-      "path": "scene/review/Skylight_corridor.png",
-      "bytes": 287698,
-      "sha256": "b247949a03e3ce1847fe6a20590847c455b22c09f1f57d5fbc634a1e7510ce93"
-    },
-    {
-      "path": "scene/review/Spray_booth.png",
-      "bytes": 265915,
-      "sha256": "f4503a36bf8f0f4d64bb25edaa94f57e7ca13c02949c5a8bf7217701ff55e0eb"
-    },
-    {
-      "path": "scene/review/Spray_corner.png",
-      "bytes": 266499,
-      "sha256": "3029841e10c65da85973105375e56fc41d998ffbbf6d5661af3addecbd2c6096"
-    },
-    {
-      "path": "scene/review/Upper_corridor.png",
-      "bytes": 298381,
-      "sha256": "903b9cf8a959e53e31b88a032ae01e70184c84be0bd14e68373d1bfc8cdd2512"
-    },
-    {
-      "path": "scene/review/West_stair.png",
-      "bytes": 257843,
-      "sha256": "157bc017cdb8be99bc061113c3a55ac70ce0a081e4e1d8c9e4fac961eb6109fa"
+      "path": "scene/review/Showers.png",
+      "bytes": 515883,
+      "sha256": "82494568f1f32d29864677ef92c6607808af108e60aa6fc1e6f8da1053ccc7ed"
     }
   ]
 }

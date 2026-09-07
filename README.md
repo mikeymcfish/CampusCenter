@@ -12,6 +12,10 @@ Current architectural scene, fabrication models and source references, compiled 
 | [LEGO guide](lego/Campus_Center_LEGO_Build_Guide.pdf) | 35-page ground-floor guide, 662 parts, stud maps and editable LDraw model |
 | [Structural STEP](cad/Campus_Center_Structure.step) | Generic architectural solids; detailed furniture and mannequins remain in Blender/GLB |
 
+## Furniture revision 15
+
+The current scene includes the E-102/P-100 furniture and fixture update: commons seating, cafe equipment with two POS tablets, detailed locker banks/showers, corrected restroom fixtures and recessed fountains. See [revision notes and collection controls](scene/FURNITURE_REVISION.md). The projector hardware and lowered screen have separate collection toggles. Review images are from this revision.
+
 ## Blender and walkthrough
 
 Open `scene/Campus_Center_Current.blend`. Units are metres. Disable the entire **STUDENTS - toggle entire collection** collection to hide the mannequins. They share one low-poly mesh and have no facial, clothing or gender details.

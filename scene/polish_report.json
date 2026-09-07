@@ -1,0 +1,26 @@
+{
+  "moved_students_clear_of_furniture": [
+    "Student_001",
+    "Student_002",
+    "Student_005",
+    "Student_007",
+    "Student_008",
+    "Student_009",
+    "Student_012",
+    "Student_013",
+    "Student_014",
+    "Student_015",
+    "Student_017",
+    "Student_019",
+    "Student_022",
+    "Student_023",
+    "Student_024",
+    "Student_027",
+    "Student_065"
+  ],
+  "student_count": 112,
+  "north_bench_replaces_conflicting_west_bench": true,
+  "lavatories_face_shared_wet_wall": true,
+  "wet_room_lights": 5,
+  "office_four_seat_table_added": true
+}

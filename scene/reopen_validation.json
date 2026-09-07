@@ -1,13 +1,27 @@
 {
   "source_unchanged": true,
-  "saved_blender_student_count": 112,
-  "shared_student_meshes": 1,
-  "booth_position_verified": true,
-  "texture_nodes": 0,
-  "camera_bank_max_right_vector_z": 4.470348358154297e-07,
-  "camera_end_frame": 5517,
-  "blend_meshes": 3636,
-  "glb_meshes": 3689,
+  "blend_reopened": true,
   "glb_reopened": true,
-  "glb_static_model": true
+  "blend_meshes": 3428,
+  "glb_meshes": 3481,
+  "students": 112,
+  "texture_nodes": 0,
+  "camera_frames": 5517,
+  "POS_count": 2,
+  "display_cases": 2,
+  "fountain_recesses": [
+    {
+      "wall": "Lab_east_wall0",
+      "ray_distance": 1.039999861717215,
+      "recess_confirmed": true
+    },
+    {
+      "wall": "Gym_west_end",
+      "ray_distance": 1.0400008933356923,
+      "recess_confirmed": true
+    }
+  ],
+  "optional_screen_hidden_in_blend": true,
+  "GLB_note": "Static GLB includes all geometry including optional screen; toggle by object in importer. Blender retains collection visibility controls.",
+  "route_furniture_collisions": []
 }
