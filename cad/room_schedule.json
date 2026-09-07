@@ -1,0 +1,552 @@
+[
+  {
+    "floor": "GROUND",
+    "number": "129",
+    "name": "ATHLETICS TRAINERS",
+    "center_mm": [
+      -42927.32984293194,
+      35586.596858638746,
+      0
+    ],
+    "source": "A-101"
+  },
+  {
+    "floor": "GROUND",
+    "number": "127",
+    "name": "TRAINERS OFFICE",
+    "center_mm": [
+      -38725.02617801047,
+      37607.958115183246,
+      0
+    ],
+    "source": "A-101"
+  },
+  {
+    "floor": "GROUND",
+    "number": "128",
+    "name": "TRAINERS STORAGE",
+    "center_mm": [
+      -38725.02617801047,
+      33352.46073298429,
+      0
+    ],
+    "source": "A-101"
+  },
+  {
+    "floor": "GROUND",
+    "number": "125",
+    "name": "ATHLETICS OFFICE",
+    "center_mm": [
+      -34682.30366492146,
+      37820.732984293194,
+      0
+    ],
+    "source": "A-101"
+  },
+  {
+    "floor": "GROUND",
+    "number": "126",
+    "name": "ATHLETICS OFFICE",
+    "center_mm": [
+      -35958.95287958115,
+      33618.429319371724,
+      0
+    ],
+    "source": "A-101"
+  },
+  {
+    "floor": "GROUND",
+    "number": "124",
+    "name": "ATHLETICS OFFICE",
+    "center_mm": [
+      -33086.49214659686,
+      33618.429319371724,
+      0
+    ],
+    "source": "A-101"
+  },
+  {
+    "floor": "GROUND",
+    "number": "130",
+    "name": "CORRIDOR",
+    "center_mm": [
+      -37341.98952879581,
+      30479.999999999996,
+      0
+    ],
+    "source": "A-101"
+  },
+  {
+    "floor": "GROUND",
+    "number": "123",
+    "name": "TROPHY HALL / CORRIDOR",
+    "center_mm": [
+      -28192.670157068063,
+      22447.748691099474,
+      0
+    ],
+    "source": "A-101"
+  },
+  {
+    "floor": "GROUND",
+    "number": "122",
+    "name": "LOCKER ROOM",
+    "center_mm": [
+      -36224.92146596859,
+      25958.534031413612,
+      0
+    ],
+    "source": "A-101"
+  },
+  {
+    "floor": "GROUND",
+    "number": "121",
+    "name": "LOCKER ROOM",
+    "center_mm": [
+      -36224.92146596859,
+      19362.513089005235,
+      0
+    ],
+    "source": "A-101"
+  },
+  {
+    "floor": "GROUND",
+    "number": "119",
+    "name": "ATHLETICS STORAGE",
+    "center_mm": [
+      -43512.46073298429,
+      13989.947643979056,
+      0
+    ],
+    "source": "A-101"
+  },
+  {
+    "floor": "GROUND",
+    "number": "118",
+    "name": "JANITOR",
+    "center_mm": [
+      -41012.3560209424,
+      12074.973821989528,
+      0
+    ],
+    "source": "A-101"
+  },
+  {
+    "floor": "GROUND",
+    "number": "120",
+    "name": "MECH / ELECTRICAL",
+    "center_mm": [
+      -43140.10471204188,
+      9042.931937172774,
+      0
+    ],
+    "source": "A-101"
+  },
+  {
+    "floor": "GROUND",
+    "number": "117",
+    "name": "MENS TOILET",
+    "center_mm": [
+      -38565.44502617801,
+      10053.612565445026,
+      0
+    ],
+    "source": "A-101"
+  },
+  {
+    "floor": "GROUND",
+    "number": "116",
+    "name": "WOMENS TOILET",
+    "center_mm": [
+      -35107.85340314136,
+      10053.612565445026,
+      0
+    ],
+    "source": "A-101"
+  },
+  {
+    "floor": "GROUND",
+    "number": "115",
+    "name": "CORRIDOR",
+    "center_mm": [
+      -36171.7277486911,
+      14894.240837696334,
+      0
+    ],
+    "source": "A-101"
+  },
+  {
+    "floor": "GROUND",
+    "number": "114",
+    "name": "VESTIBULE",
+    "center_mm": [
+      -31916.230366492146,
+      9149.319371727748,
+      0
+    ],
+    "source": "A-101"
+  },
+  {
+    "floor": "GROUND",
+    "number": "GYM",
+    "name": "EXISTING GYM",
+    "center_mm": [
+      -12766.492146596858,
+      31916.230366492146,
+      0
+    ],
+    "source": "A-101"
+  },
+  {
+    "floor": "GROUND",
+    "number": "113",
+    "name": "COLLABORATION ROOM",
+    "center_mm": [
+      -23618.010471204187,
+      9308.900523560209,
+      0
+    ],
+    "source": "A-101"
+  },
+  {
+    "floor": "GROUND",
+    "number": "112",
+    "name": "ASPIRE CLASSROOM",
+    "center_mm": [
+      -18139.057591623037,
+      9255.706806282722,
+      0
+    ],
+    "source": "A-101"
+  },
+  {
+    "floor": "GROUND",
+    "number": "111",
+    "name": "OFFICE",
+    "center_mm": [
+      -13245.23560209424,
+      11755.811518324606,
+      0
+    ],
+    "source": "A-101"
+  },
+  {
+    "floor": "GROUND",
+    "number": "109",
+    "name": "STORAGE / IT / MECH",
+    "center_mm": [
+      -13192.041884816754,
+      8085.44502617801,
+      0
+    ],
+    "source": "A-101"
+  },
+  {
+    "floor": "GROUND",
+    "number": "108",
+    "name": "INNOVATION LAB",
+    "center_mm": [
+      -5957.696335078534,
+      4574.659685863874,
+      0
+    ],
+    "source": "A-101"
+  },
+  {
+    "floor": "GROUND",
+    "number": "110",
+    "name": "CORRIDOR",
+    "center_mm": [
+      -17021.98952879581,
+      14947.434554973823,
+      0
+    ],
+    "source": "A-101"
+  },
+  {
+    "floor": "GROUND",
+    "number": "106",
+    "name": "CORRIDOR / DISPLAY HALL",
+    "center_mm": [
+      -6170.471204188481,
+      12128.167539267017,
+      0
+    ],
+    "source": "A-101"
+  },
+  {
+    "floor": "GROUND",
+    "number": "102",
+    "name": "STUDENT COMMONS",
+    "center_mm": [
+      6276.858638743455,
+      22713.717277486907,
+      0
+    ],
+    "source": "A-101"
+  },
+  {
+    "floor": "GROUND",
+    "number": "101",
+    "name": "CAFE",
+    "center_mm": [
+      14521.884816753927,
+      17500.732984293194,
+      0
+    ],
+    "source": "A-101"
+  },
+  {
+    "floor": "GROUND",
+    "number": "103",
+    "name": "RECEPTION",
+    "center_mm": [
+      14149.528795811517,
+      7074.764397905758,
+      0
+    ],
+    "source": "A-101"
+  },
+  {
+    "floor": "GROUND",
+    "number": "104",
+    "name": "ADMISSIONS OFFICE",
+    "center_mm": [
+      14149.528795811517,
+      2659.6858638743456,
+      0
+    ],
+    "source": "A-101"
+  },
+  {
+    "floor": "GROUND",
+    "number": "105",
+    "name": "CRI GALLERY",
+    "center_mm": [
+      6755.602094240838,
+      2978.848167539267,
+      0
+    ],
+    "source": "A-101"
+  },
+  {
+    "floor": "GROUND",
+    "number": "100",
+    "name": "ENTRY VESTIBULE",
+    "center_mm": [
+      17713.50785340314,
+      12074.973821989528,
+      0
+    ],
+    "source": "A-101"
+  },
+  {
+    "floor": "UPPER",
+    "number": "218",
+    "name": "WEIGHTS / FITNESS",
+    "center_mm": [
+      -35542.23776223777,
+      24085.59440559441,
+      4267.2
+    ],
+    "source": "A-102"
+  },
+  {
+    "floor": "UPPER",
+    "number": "213",
+    "name": "TOILET",
+    "center_mm": [
+      -44227.972027972035,
+      17371.468531468534,
+      4267.2
+    ],
+    "source": "A-102"
+  },
+  {
+    "floor": "UPPER",
+    "number": "216",
+    "name": "TOILET",
+    "center_mm": [
+      -44281.258741258745,
+      14707.132867132868,
+      4267.2
+    ],
+    "source": "A-102"
+  },
+  {
+    "floor": "UPPER",
+    "number": "211",
+    "name": "TOILET",
+    "center_mm": [
+      -44281.258741258745,
+      12202.657342657343,
+      4267.2
+    ],
+    "source": "A-102"
+  },
+  {
+    "floor": "UPPER",
+    "number": "212",
+    "name": "TOILET",
+    "center_mm": [
+      -41883.356643356645,
+      9378.461538461539,
+      4267.2
+    ],
+    "source": "A-102"
+  },
+  {
+    "floor": "UPPER",
+    "number": "214",
+    "name": "JANITOR / MECH / ELEC",
+    "center_mm": [
+      -36234.96503496503,
+      17637.902097902097,
+      4267.2
+    ],
+    "source": "A-102"
+  },
+  {
+    "floor": "UPPER",
+    "number": "215",
+    "name": "STORAGE",
+    "center_mm": [
+      -32131.888111888115,
+      17637.902097902097,
+      4267.2
+    ],
+    "source": "A-102"
+  },
+  {
+    "floor": "UPPER",
+    "number": "220",
+    "name": "CORRIDOR",
+    "center_mm": [
+      -38792.72727272728,
+      14813.706293706296,
+      4267.2
+    ],
+    "source": "A-102"
+  },
+  {
+    "floor": "UPPER",
+    "number": "219",
+    "name": "COLLABORATION ROOM",
+    "center_mm": [
+      -37513.846153846156,
+      10390.909090909092,
+      4267.2
+    ],
+    "source": "A-102"
+  },
+  {
+    "floor": "UPPER",
+    "number": "210",
+    "name": "COLLABORATION ROOM",
+    "center_mm": [
+      -24245.454545454548,
+      10071.188811188811,
+      4267.2
+    ],
+    "source": "A-102"
+  },
+  {
+    "floor": "UPPER",
+    "number": "209",
+    "name": "CLASSROOM",
+    "center_mm": [
+      -18756.923076923078,
+      10071.188811188811,
+      4267.2
+    ],
+    "source": "A-102"
+  },
+  {
+    "floor": "UPPER",
+    "number": "208",
+    "name": "SEMINAR ROOM",
+    "center_mm": [
+      -13641.398601398603,
+      10071.188811188811,
+      4267.2
+    ],
+    "source": "A-102"
+  },
+  {
+    "floor": "UPPER",
+    "number": "205",
+    "name": "IT CLOSET",
+    "center_mm": [
+      -8845.594405594407,
+      9005.454545454546,
+      4267.2
+    ],
+    "source": "A-102"
+  },
+  {
+    "floor": "UPPER",
+    "number": "203",
+    "name": "ADMIN",
+    "center_mm": [
+      -6074.685314685315,
+      7513.426573426574,
+      4267.2
+    ],
+    "source": "A-102"
+  },
+  {
+    "floor": "UPPER",
+    "number": "204",
+    "name": "CONFERENCE ROOM",
+    "center_mm": [
+      -9698.18181818182,
+      3143.916083916084,
+      4267.2
+    ],
+    "source": "A-102"
+  },
+  {
+    "floor": "UPPER",
+    "number": "202",
+    "name": "HEAD OF SCHOOL",
+    "center_mm": [
+      -2397.902097902098,
+      3410.349650349651,
+      4267.2
+    ],
+    "source": "A-102"
+  },
+  {
+    "floor": "UPPER",
+    "number": "207",
+    "name": "CORRIDOR",
+    "center_mm": [
+      -16572.167832167834,
+      15240.0,
+      4267.2
+    ],
+    "source": "A-102"
+  },
+  {
+    "floor": "UPPER",
+    "number": "201",
+    "name": "CORRIDOR / BRIDGE",
+    "center_mm": [
+      -266.43356643356645,
+      12309.23076923077,
+      4267.2
+    ],
+    "source": "A-102"
+  },
+  {
+    "floor": "UPPER",
+    "number": "200",
+    "name": "ROOF TERRACE",
+    "center_mm": [
+      14334.125874125873,
+      19769.37062937063,
+      4267.2
+    ],
+    "source": "A-102"
+  }
+]

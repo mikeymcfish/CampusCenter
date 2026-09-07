@@ -1,0 +1,8269 @@
+{
+  "studs": [
+    96,
+    64
+  ],
+  "board_mm": [
+    768,
+    512
+  ],
+  "horizontal_scale": 125,
+  "wall_courses": 4,
+  "wall_height_mm": 38.4,
+  "origin_world_m": [
+    -60,
+    -8
+  ],
+  "placements": [
+    {
+      "id": 1,
+      "layer": 0,
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "d": 32,
+      "color": "Light bluish gray",
+      "part": "3811",
+      "role": "baseplate"
+    },
+    {
+      "id": 2,
+      "layer": 0,
+      "x": 32,
+      "y": 0,
+      "w": 32,
+      "d": 32,
+      "color": "Light bluish gray",
+      "part": "3811",
+      "role": "baseplate"
+    },
+    {
+      "id": 3,
+      "layer": 0,
+      "x": 64,
+      "y": 0,
+      "w": 32,
+      "d": 32,
+      "color": "Light bluish gray",
+      "part": "3811",
+      "role": "baseplate"
+    },
+    {
+      "id": 4,
+      "layer": 0,
+      "x": 0,
+      "y": 32,
+      "w": 32,
+      "d": 32,
+      "color": "Light bluish gray",
+      "part": "3811",
+      "role": "baseplate"
+    },
+    {
+      "id": 5,
+      "layer": 0,
+      "x": 32,
+      "y": 32,
+      "w": 32,
+      "d": 32,
+      "color": "Light bluish gray",
+      "part": "3811",
+      "role": "baseplate"
+    },
+    {
+      "id": 6,
+      "layer": 0,
+      "x": 64,
+      "y": 32,
+      "w": 32,
+      "d": 32,
+      "color": "Light bluish gray",
+      "part": "3811",
+      "role": "baseplate"
+    },
+    {
+      "id": 7,
+      "layer": 1,
+      "x": 60,
+      "y": 7,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 8,
+      "layer": 1,
+      "x": 48,
+      "y": 8,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 9,
+      "layer": 1,
+      "x": 52,
+      "y": 8,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 10,
+      "layer": 1,
+      "x": 56,
+      "y": 8,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 11,
+      "layer": 1,
+      "x": 61,
+      "y": 8,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 12,
+      "layer": 1,
+      "x": 65,
+      "y": 8,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 13,
+      "layer": 1,
+      "x": 69,
+      "y": 8,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 14,
+      "layer": 1,
+      "x": 73,
+      "y": 8,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 15,
+      "layer": 1,
+      "x": 48,
+      "y": 9,
+      "w": 1,
+      "d": 2,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 16,
+      "layer": 1,
+      "x": 60,
+      "y": 9,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 17,
+      "layer": 1,
+      "x": 72,
+      "y": 9,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 18,
+      "layer": 1,
+      "x": 76,
+      "y": 9,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 19,
+      "layer": 1,
+      "x": 48,
+      "y": 13,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 20,
+      "layer": 1,
+      "x": 60,
+      "y": 13,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 21,
+      "layer": 1,
+      "x": 72,
+      "y": 13,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 22,
+      "layer": 1,
+      "x": 76,
+      "y": 13,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 23,
+      "layer": 1,
+      "x": 34,
+      "y": 14,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 24,
+      "layer": 1,
+      "x": 38,
+      "y": 14,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 25,
+      "layer": 1,
+      "x": 42,
+      "y": 14,
+      "w": 2,
+      "d": 1,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 26,
+      "layer": 1,
+      "x": 45,
+      "y": 14,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 27,
+      "layer": 1,
+      "x": 46,
+      "y": 14,
+      "w": 2,
+      "d": 1,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 28,
+      "layer": 1,
+      "x": 72,
+      "y": 14,
+      "w": 1,
+      "d": 2,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 29,
+      "layer": 1,
+      "x": 15,
+      "y": 15,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 30,
+      "layer": 1,
+      "x": 19,
+      "y": 15,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 31,
+      "layer": 1,
+      "x": 23,
+      "y": 15,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 32,
+      "layer": 1,
+      "x": 27,
+      "y": 15,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 33,
+      "layer": 1,
+      "x": 28,
+      "y": 15,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 34,
+      "layer": 1,
+      "x": 30,
+      "y": 15,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 35,
+      "layer": 1,
+      "x": 34,
+      "y": 15,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 36,
+      "layer": 1,
+      "x": 39,
+      "y": 15,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 37,
+      "layer": 1,
+      "x": 15,
+      "y": 16,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 38,
+      "layer": 1,
+      "x": 20,
+      "y": 16,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 39,
+      "layer": 1,
+      "x": 23,
+      "y": 16,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 40,
+      "layer": 1,
+      "x": 30,
+      "y": 16,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 41,
+      "layer": 1,
+      "x": 60,
+      "y": 17,
+      "w": 1,
+      "d": 2,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 42,
+      "layer": 1,
+      "x": 76,
+      "y": 17,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 43,
+      "layer": 1,
+      "x": 45,
+      "y": 18,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 44,
+      "layer": 1,
+      "x": 49,
+      "y": 18,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 45,
+      "layer": 1,
+      "x": 53,
+      "y": 18,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 46,
+      "layer": 1,
+      "x": 57,
+      "y": 18,
+      "w": 2,
+      "d": 1,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 47,
+      "layer": 1,
+      "x": 77,
+      "y": 18,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 48,
+      "layer": 1,
+      "x": 16,
+      "y": 19,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 49,
+      "layer": 1,
+      "x": 27,
+      "y": 19,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 50,
+      "layer": 1,
+      "x": 29,
+      "y": 19,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 51,
+      "layer": 1,
+      "x": 34,
+      "y": 19,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 52,
+      "layer": 1,
+      "x": 39,
+      "y": 19,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 53,
+      "layer": 1,
+      "x": 45,
+      "y": 19,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 54,
+      "layer": 1,
+      "x": 48,
+      "y": 19,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 55,
+      "layer": 1,
+      "x": 79,
+      "y": 19,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 56,
+      "layer": 1,
+      "x": 15,
+      "y": 20,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 57,
+      "layer": 1,
+      "x": 18,
+      "y": 20,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 58,
+      "layer": 1,
+      "x": 20,
+      "y": 20,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 59,
+      "layer": 1,
+      "x": 23,
+      "y": 20,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 60,
+      "layer": 1,
+      "x": 30,
+      "y": 20,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 61,
+      "layer": 1,
+      "x": 28,
+      "y": 21,
+      "w": 2,
+      "d": 1,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 62,
+      "layer": 1,
+      "x": 19,
+      "y": 22,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 63,
+      "layer": 1,
+      "x": 22,
+      "y": 22,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 64,
+      "layer": 1,
+      "x": 24,
+      "y": 22,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 65,
+      "layer": 1,
+      "x": 26,
+      "y": 22,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 66,
+      "layer": 1,
+      "x": 31,
+      "y": 22,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 67,
+      "layer": 1,
+      "x": 35,
+      "y": 22,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 68,
+      "layer": 1,
+      "x": 40,
+      "y": 22,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 69,
+      "layer": 1,
+      "x": 46,
+      "y": 22,
+      "w": 2,
+      "d": 1,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 70,
+      "layer": 1,
+      "x": 49,
+      "y": 22,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 71,
+      "layer": 1,
+      "x": 76,
+      "y": 22,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 72,
+      "layer": 1,
+      "x": 79,
+      "y": 22,
+      "w": 1,
+      "d": 2,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 73,
+      "layer": 1,
+      "x": 77,
+      "y": 23,
+      "w": 2,
+      "d": 1,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 74,
+      "layer": 1,
+      "x": 15,
+      "y": 24,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 75,
+      "layer": 1,
+      "x": 19,
+      "y": 24,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 76,
+      "layer": 1,
+      "x": 23,
+      "y": 24,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 77,
+      "layer": 1,
+      "x": 27,
+      "y": 24,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 78,
+      "layer": 1,
+      "x": 34,
+      "y": 24,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 79,
+      "layer": 1,
+      "x": 40,
+      "y": 24,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 80,
+      "layer": 1,
+      "x": 44,
+      "y": 24,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 81,
+      "layer": 1,
+      "x": 48,
+      "y": 24,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 82,
+      "layer": 1,
+      "x": 52,
+      "y": 24,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 83,
+      "layer": 1,
+      "x": 56,
+      "y": 24,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 84,
+      "layer": 1,
+      "x": 60,
+      "y": 24,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 85,
+      "layer": 1,
+      "x": 15,
+      "y": 25,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 86,
+      "layer": 1,
+      "x": 18,
+      "y": 25,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 87,
+      "layer": 1,
+      "x": 34,
+      "y": 25,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 88,
+      "layer": 1,
+      "x": 30,
+      "y": 26,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 89,
+      "layer": 1,
+      "x": 76,
+      "y": 26,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 90,
+      "layer": 1,
+      "x": 60,
+      "y": 28,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 91,
+      "layer": 1,
+      "x": 15,
+      "y": 29,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 92,
+      "layer": 1,
+      "x": 18,
+      "y": 29,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 93,
+      "layer": 1,
+      "x": 34,
+      "y": 29,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 94,
+      "layer": 1,
+      "x": 30,
+      "y": 30,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 95,
+      "layer": 1,
+      "x": 76,
+      "y": 30,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 96,
+      "layer": 1,
+      "x": 16,
+      "y": 31,
+      "w": 2,
+      "d": 1,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 97,
+      "layer": 1,
+      "x": 19,
+      "y": 31,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 98,
+      "layer": 1,
+      "x": 23,
+      "y": 31,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 99,
+      "layer": 1,
+      "x": 27,
+      "y": 31,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 100,
+      "layer": 1,
+      "x": 60,
+      "y": 32,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 101,
+      "layer": 1,
+      "x": 15,
+      "y": 33,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 102,
+      "layer": 1,
+      "x": 18,
+      "y": 33,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 103,
+      "layer": 1,
+      "x": 34,
+      "y": 33,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 104,
+      "layer": 1,
+      "x": 30,
+      "y": 34,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 105,
+      "layer": 1,
+      "x": 76,
+      "y": 34,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 106,
+      "layer": 1,
+      "x": 18,
+      "y": 35,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 107,
+      "layer": 1,
+      "x": 60,
+      "y": 36,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 108,
+      "layer": 1,
+      "x": 15,
+      "y": 37,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 109,
+      "layer": 1,
+      "x": 19,
+      "y": 37,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 110,
+      "layer": 1,
+      "x": 23,
+      "y": 37,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 111,
+      "layer": 1,
+      "x": 27,
+      "y": 37,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 112,
+      "layer": 1,
+      "x": 34,
+      "y": 37,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 113,
+      "layer": 1,
+      "x": 30,
+      "y": 38,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 114,
+      "layer": 1,
+      "x": 76,
+      "y": 38,
+      "w": 1,
+      "d": 2,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 115,
+      "layer": 1,
+      "x": 61,
+      "y": 39,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 116,
+      "layer": 1,
+      "x": 65,
+      "y": 39,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 117,
+      "layer": 1,
+      "x": 69,
+      "y": 39,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 118,
+      "layer": 1,
+      "x": 73,
+      "y": 39,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 119,
+      "layer": 1,
+      "x": 15,
+      "y": 40,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 120,
+      "layer": 1,
+      "x": 20,
+      "y": 40,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 121,
+      "layer": 1,
+      "x": 24,
+      "y": 40,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 122,
+      "layer": 1,
+      "x": 26,
+      "y": 40,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 123,
+      "layer": 1,
+      "x": 60,
+      "y": 40,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 124,
+      "layer": 1,
+      "x": 15,
+      "y": 41,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 125,
+      "layer": 1,
+      "x": 20,
+      "y": 41,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 126,
+      "layer": 1,
+      "x": 23,
+      "y": 41,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 127,
+      "layer": 1,
+      "x": 25,
+      "y": 41,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 128,
+      "layer": 1,
+      "x": 28,
+      "y": 41,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 129,
+      "layer": 1,
+      "x": 34,
+      "y": 41,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 130,
+      "layer": 1,
+      "x": 21,
+      "y": 43,
+      "w": 2,
+      "d": 1,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 131,
+      "layer": 1,
+      "x": 24,
+      "y": 44,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 132,
+      "layer": 1,
+      "x": 26,
+      "y": 44,
+      "w": 2,
+      "d": 1,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 133,
+      "layer": 1,
+      "x": 60,
+      "y": 44,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 134,
+      "layer": 1,
+      "x": 15,
+      "y": 45,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 135,
+      "layer": 1,
+      "x": 20,
+      "y": 45,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 136,
+      "layer": 1,
+      "x": 23,
+      "y": 45,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 137,
+      "layer": 1,
+      "x": 28,
+      "y": 45,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 138,
+      "layer": 1,
+      "x": 34,
+      "y": 45,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 139,
+      "layer": 1,
+      "x": 16,
+      "y": 48,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 140,
+      "layer": 1,
+      "x": 21,
+      "y": 48,
+      "w": 2,
+      "d": 1,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 141,
+      "layer": 1,
+      "x": 24,
+      "y": 48,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 142,
+      "layer": 1,
+      "x": 31,
+      "y": 48,
+      "w": 2,
+      "d": 1,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 143,
+      "layer": 1,
+      "x": 35,
+      "y": 48,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 144,
+      "layer": 1,
+      "x": 60,
+      "y": 48,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 145,
+      "layer": 1,
+      "x": 34,
+      "y": 49,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 146,
+      "layer": 1,
+      "x": 60,
+      "y": 52,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 147,
+      "layer": 1,
+      "x": 34,
+      "y": 53,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 148,
+      "layer": 1,
+      "x": 35,
+      "y": 55,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 149,
+      "layer": 1,
+      "x": 39,
+      "y": 55,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 150,
+      "layer": 1,
+      "x": 43,
+      "y": 55,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 151,
+      "layer": 1,
+      "x": 47,
+      "y": 55,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 152,
+      "layer": 1,
+      "x": 51,
+      "y": 55,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 153,
+      "layer": 1,
+      "x": 55,
+      "y": 55,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 154,
+      "layer": 1,
+      "x": 59,
+      "y": 55,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 155,
+      "layer": 2,
+      "x": 15,
+      "y": 15,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 156,
+      "layer": 2,
+      "x": 15,
+      "y": 19,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 157,
+      "layer": 2,
+      "x": 15,
+      "y": 23,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 158,
+      "layer": 2,
+      "x": 15,
+      "y": 27,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 159,
+      "layer": 2,
+      "x": 15,
+      "y": 31,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 160,
+      "layer": 2,
+      "x": 15,
+      "y": 35,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 161,
+      "layer": 2,
+      "x": 15,
+      "y": 40,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 162,
+      "layer": 2,
+      "x": 15,
+      "y": 44,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 163,
+      "layer": 2,
+      "x": 15,
+      "y": 48,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 164,
+      "layer": 2,
+      "x": 16,
+      "y": 15,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 165,
+      "layer": 2,
+      "x": 16,
+      "y": 19,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 166,
+      "layer": 2,
+      "x": 16,
+      "y": 24,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 167,
+      "layer": 2,
+      "x": 16,
+      "y": 31,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 168,
+      "layer": 2,
+      "x": 16,
+      "y": 37,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 169,
+      "layer": 2,
+      "x": 16,
+      "y": 40,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 170,
+      "layer": 2,
+      "x": 16,
+      "y": 48,
+      "w": 3,
+      "d": 1,
+      "color": "White",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 171,
+      "layer": 2,
+      "x": 18,
+      "y": 20,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 172,
+      "layer": 2,
+      "x": 18,
+      "y": 25,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 173,
+      "layer": 2,
+      "x": 18,
+      "y": 29,
+      "w": 1,
+      "d": 2,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 174,
+      "layer": 2,
+      "x": 18,
+      "y": 32,
+      "w": 1,
+      "d": 2,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 175,
+      "layer": 2,
+      "x": 18,
+      "y": 35,
+      "w": 1,
+      "d": 2,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 176,
+      "layer": 2,
+      "x": 19,
+      "y": 22,
+      "w": 2,
+      "d": 1,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 177,
+      "layer": 2,
+      "x": 19,
+      "y": 48,
+      "w": 2,
+      "d": 1,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 178,
+      "layer": 2,
+      "x": 20,
+      "y": 15,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 179,
+      "layer": 2,
+      "x": 20,
+      "y": 19,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 180,
+      "layer": 2,
+      "x": 20,
+      "y": 24,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 181,
+      "layer": 2,
+      "x": 20,
+      "y": 31,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 182,
+      "layer": 2,
+      "x": 20,
+      "y": 37,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 183,
+      "layer": 2,
+      "x": 20,
+      "y": 40,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 184,
+      "layer": 2,
+      "x": 20,
+      "y": 45,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 185,
+      "layer": 2,
+      "x": 21,
+      "y": 15,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 186,
+      "layer": 2,
+      "x": 21,
+      "y": 40,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 187,
+      "layer": 2,
+      "x": 21,
+      "y": 43,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 188,
+      "layer": 2,
+      "x": 21,
+      "y": 48,
+      "w": 1,
+      "d": 1,
+      "color": "White",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 189,
+      "layer": 2,
+      "x": 22,
+      "y": 22,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 190,
+      "layer": 2,
+      "x": 22,
+      "y": 48,
+      "w": 2,
+      "d": 1,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 191,
+      "layer": 2,
+      "x": 23,
+      "y": 16,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 192,
+      "layer": 2,
+      "x": 23,
+      "y": 20,
+      "w": 1,
+      "d": 2,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 193,
+      "layer": 2,
+      "x": 23,
+      "y": 41,
+      "w": 1,
+      "d": 2,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 194,
+      "layer": 2,
+      "x": 23,
+      "y": 44,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 195,
+      "layer": 2,
+      "x": 24,
+      "y": 24,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 196,
+      "layer": 2,
+      "x": 24,
+      "y": 31,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 197,
+      "layer": 2,
+      "x": 24,
+      "y": 37,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 198,
+      "layer": 2,
+      "x": 24,
+      "y": 44,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 199,
+      "layer": 2,
+      "x": 24,
+      "y": 48,
+      "w": 2,
+      "d": 1,
+      "color": "White",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 200,
+      "layer": 2,
+      "x": 25,
+      "y": 15,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 201,
+      "layer": 2,
+      "x": 25,
+      "y": 41,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 202,
+      "layer": 2,
+      "x": 26,
+      "y": 22,
+      "w": 2,
+      "d": 1,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 203,
+      "layer": 2,
+      "x": 26,
+      "y": 40,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 204,
+      "layer": 2,
+      "x": 26,
+      "y": 48,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 205,
+      "layer": 2,
+      "x": 27,
+      "y": 16,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 206,
+      "layer": 2,
+      "x": 27,
+      "y": 20,
+      "w": 1,
+      "d": 2,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 207,
+      "layer": 2,
+      "x": 28,
+      "y": 15,
+      "w": 1,
+      "d": 1,
+      "color": "White",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 208,
+      "layer": 2,
+      "x": 28,
+      "y": 21,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 209,
+      "layer": 2,
+      "x": 28,
+      "y": 24,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 210,
+      "layer": 2,
+      "x": 28,
+      "y": 31,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 211,
+      "layer": 2,
+      "x": 28,
+      "y": 37,
+      "w": 2,
+      "d": 1,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 212,
+      "layer": 2,
+      "x": 28,
+      "y": 41,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 213,
+      "layer": 2,
+      "x": 28,
+      "y": 45,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 214,
+      "layer": 2,
+      "x": 29,
+      "y": 19,
+      "w": 2,
+      "d": 1,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 215,
+      "layer": 2,
+      "x": 30,
+      "y": 15,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 216,
+      "layer": 2,
+      "x": 30,
+      "y": 20,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 217,
+      "layer": 2,
+      "x": 30,
+      "y": 22,
+      "w": 1,
+      "d": 2,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 218,
+      "layer": 2,
+      "x": 30,
+      "y": 26,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 219,
+      "layer": 2,
+      "x": 30,
+      "y": 30,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 220,
+      "layer": 2,
+      "x": 30,
+      "y": 32,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 221,
+      "layer": 2,
+      "x": 30,
+      "y": 36,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 222,
+      "layer": 2,
+      "x": 30,
+      "y": 38,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 223,
+      "layer": 2,
+      "x": 31,
+      "y": 15,
+      "w": 2,
+      "d": 1,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 224,
+      "layer": 2,
+      "x": 31,
+      "y": 22,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 225,
+      "layer": 2,
+      "x": 31,
+      "y": 48,
+      "w": 2,
+      "d": 1,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 226,
+      "layer": 2,
+      "x": 33,
+      "y": 15,
+      "w": 1,
+      "d": 1,
+      "color": "White",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 227,
+      "layer": 2,
+      "x": 34,
+      "y": 14,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 228,
+      "layer": 2,
+      "x": 34,
+      "y": 18,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 229,
+      "layer": 2,
+      "x": 34,
+      "y": 22,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 230,
+      "layer": 2,
+      "x": 34,
+      "y": 24,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 231,
+      "layer": 2,
+      "x": 34,
+      "y": 28,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 232,
+      "layer": 2,
+      "x": 34,
+      "y": 32,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 233,
+      "layer": 2,
+      "x": 34,
+      "y": 36,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 234,
+      "layer": 2,
+      "x": 34,
+      "y": 40,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 235,
+      "layer": 2,
+      "x": 34,
+      "y": 44,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 236,
+      "layer": 2,
+      "x": 34,
+      "y": 49,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 237,
+      "layer": 2,
+      "x": 34,
+      "y": 53,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 238,
+      "layer": 2,
+      "x": 35,
+      "y": 14,
+      "w": 2,
+      "d": 1,
+      "color": "White",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 239,
+      "layer": 2,
+      "x": 35,
+      "y": 24,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 240,
+      "layer": 2,
+      "x": 35,
+      "y": 48,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 241,
+      "layer": 2,
+      "x": 35,
+      "y": 55,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 242,
+      "layer": 2,
+      "x": 37,
+      "y": 14,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 243,
+      "layer": 2,
+      "x": 38,
+      "y": 22,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 244,
+      "layer": 2,
+      "x": 39,
+      "y": 15,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 245,
+      "layer": 2,
+      "x": 39,
+      "y": 19,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 246,
+      "layer": 2,
+      "x": 39,
+      "y": 55,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 247,
+      "layer": 2,
+      "x": 40,
+      "y": 14,
+      "w": 3,
+      "d": 1,
+      "color": "White",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 248,
+      "layer": 2,
+      "x": 40,
+      "y": 22,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 249,
+      "layer": 2,
+      "x": 40,
+      "y": 24,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 250,
+      "layer": 2,
+      "x": 43,
+      "y": 14,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 251,
+      "layer": 2,
+      "x": 43,
+      "y": 55,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 252,
+      "layer": 2,
+      "x": 44,
+      "y": 24,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 253,
+      "layer": 2,
+      "x": 45,
+      "y": 14,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 254,
+      "layer": 2,
+      "x": 45,
+      "y": 18,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 255,
+      "layer": 2,
+      "x": 45,
+      "y": 22,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 256,
+      "layer": 2,
+      "x": 46,
+      "y": 14,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 257,
+      "layer": 2,
+      "x": 46,
+      "y": 18,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 258,
+      "layer": 2,
+      "x": 47,
+      "y": 55,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 259,
+      "layer": 2,
+      "x": 48,
+      "y": 8,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 260,
+      "layer": 2,
+      "x": 48,
+      "y": 13,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 261,
+      "layer": 2,
+      "x": 48,
+      "y": 15,
+      "w": 1,
+      "d": 2,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 262,
+      "layer": 2,
+      "x": 48,
+      "y": 19,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 263,
+      "layer": 2,
+      "x": 48,
+      "y": 24,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 264,
+      "layer": 2,
+      "x": 49,
+      "y": 8,
+      "w": 2,
+      "d": 1,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 265,
+      "layer": 2,
+      "x": 49,
+      "y": 22,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 266,
+      "layer": 2,
+      "x": 50,
+      "y": 18,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 267,
+      "layer": 2,
+      "x": 51,
+      "y": 8,
+      "w": 2,
+      "d": 1,
+      "color": "White",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 268,
+      "layer": 2,
+      "x": 51,
+      "y": 18,
+      "w": 4,
+      "d": 1,
+      "color": "White",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 269,
+      "layer": 2,
+      "x": 51,
+      "y": 55,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 270,
+      "layer": 2,
+      "x": 52,
+      "y": 24,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 271,
+      "layer": 2,
+      "x": 53,
+      "y": 8,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 272,
+      "layer": 2,
+      "x": 55,
+      "y": 18,
+      "w": 3,
+      "d": 1,
+      "color": "White",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 273,
+      "layer": 2,
+      "x": 55,
+      "y": 55,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 274,
+      "layer": 2,
+      "x": 56,
+      "y": 8,
+      "w": 3,
+      "d": 1,
+      "color": "White",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 275,
+      "layer": 2,
+      "x": 56,
+      "y": 24,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 276,
+      "layer": 2,
+      "x": 58,
+      "y": 18,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 277,
+      "layer": 2,
+      "x": 59,
+      "y": 8,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 278,
+      "layer": 2,
+      "x": 59,
+      "y": 55,
+      "w": 2,
+      "d": 1,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 279,
+      "layer": 2,
+      "x": 60,
+      "y": 7,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 280,
+      "layer": 2,
+      "x": 60,
+      "y": 9,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 281,
+      "layer": 2,
+      "x": 60,
+      "y": 13,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 282,
+      "layer": 2,
+      "x": 60,
+      "y": 17,
+      "w": 1,
+      "d": 2,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 283,
+      "layer": 2,
+      "x": 60,
+      "y": 24,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 284,
+      "layer": 2,
+      "x": 60,
+      "y": 28,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 285,
+      "layer": 2,
+      "x": 60,
+      "y": 32,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 286,
+      "layer": 2,
+      "x": 60,
+      "y": 36,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 287,
+      "layer": 2,
+      "x": 60,
+      "y": 40,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 288,
+      "layer": 2,
+      "x": 60,
+      "y": 44,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 289,
+      "layer": 2,
+      "x": 60,
+      "y": 48,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 290,
+      "layer": 2,
+      "x": 60,
+      "y": 52,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 291,
+      "layer": 2,
+      "x": 61,
+      "y": 8,
+      "w": 2,
+      "d": 1,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 292,
+      "layer": 2,
+      "x": 61,
+      "y": 39,
+      "w": 4,
+      "d": 1,
+      "color": "White",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 293,
+      "layer": 2,
+      "x": 63,
+      "y": 8,
+      "w": 4,
+      "d": 1,
+      "color": "White",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 294,
+      "layer": 2,
+      "x": 65,
+      "y": 39,
+      "w": 4,
+      "d": 1,
+      "color": "White",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 295,
+      "layer": 2,
+      "x": 67,
+      "y": 8,
+      "w": 4,
+      "d": 1,
+      "color": "White",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 296,
+      "layer": 2,
+      "x": 69,
+      "y": 39,
+      "w": 4,
+      "d": 1,
+      "color": "White",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 297,
+      "layer": 2,
+      "x": 71,
+      "y": 8,
+      "w": 1,
+      "d": 1,
+      "color": "White",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 298,
+      "layer": 2,
+      "x": 72,
+      "y": 8,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 299,
+      "layer": 2,
+      "x": 72,
+      "y": 13,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 300,
+      "layer": 2,
+      "x": 72,
+      "y": 14,
+      "w": 1,
+      "d": 2,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 301,
+      "layer": 2,
+      "x": 73,
+      "y": 8,
+      "w": 3,
+      "d": 1,
+      "color": "White",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 302,
+      "layer": 2,
+      "x": 73,
+      "y": 39,
+      "w": 3,
+      "d": 1,
+      "color": "White",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 303,
+      "layer": 2,
+      "x": 76,
+      "y": 8,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 304,
+      "layer": 2,
+      "x": 76,
+      "y": 9,
+      "w": 1,
+      "d": 4,
+      "color": "White",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 305,
+      "layer": 2,
+      "x": 76,
+      "y": 13,
+      "w": 1,
+      "d": 4,
+      "color": "White",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 306,
+      "layer": 2,
+      "x": 76,
+      "y": 17,
+      "w": 1,
+      "d": 2,
+      "color": "White",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 307,
+      "layer": 2,
+      "x": 76,
+      "y": 19,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 308,
+      "layer": 2,
+      "x": 76,
+      "y": 22,
+      "w": 1,
+      "d": 1,
+      "color": "White",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 309,
+      "layer": 2,
+      "x": 76,
+      "y": 23,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 310,
+      "layer": 2,
+      "x": 76,
+      "y": 24,
+      "w": 1,
+      "d": 4,
+      "color": "White",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 311,
+      "layer": 2,
+      "x": 76,
+      "y": 28,
+      "w": 1,
+      "d": 4,
+      "color": "White",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 312,
+      "layer": 2,
+      "x": 76,
+      "y": 32,
+      "w": 1,
+      "d": 4,
+      "color": "White",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 313,
+      "layer": 2,
+      "x": 76,
+      "y": 36,
+      "w": 1,
+      "d": 3,
+      "color": "White",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 314,
+      "layer": 2,
+      "x": 76,
+      "y": 39,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 315,
+      "layer": 2,
+      "x": 77,
+      "y": 18,
+      "w": 3,
+      "d": 1,
+      "color": "White",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 316,
+      "layer": 2,
+      "x": 77,
+      "y": 23,
+      "w": 2,
+      "d": 1,
+      "color": "White",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 317,
+      "layer": 2,
+      "x": 79,
+      "y": 19,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 318,
+      "layer": 2,
+      "x": 79,
+      "y": 22,
+      "w": 1,
+      "d": 1,
+      "color": "White",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 319,
+      "layer": 2,
+      "x": 79,
+      "y": 23,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 320,
+      "layer": 3,
+      "x": 15,
+      "y": 37,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "door lintel"
+    },
+    {
+      "id": 321,
+      "layer": 3,
+      "x": 18,
+      "y": 40,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "door lintel"
+    },
+    {
+      "id": 322,
+      "layer": 3,
+      "x": 24,
+      "y": 40,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "door lintel"
+    },
+    {
+      "id": 323,
+      "layer": 3,
+      "x": 20,
+      "y": 43,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "door lintel"
+    },
+    {
+      "id": 324,
+      "layer": 3,
+      "x": 28,
+      "y": 43,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "door lintel"
+    },
+    {
+      "id": 325,
+      "layer": 3,
+      "x": 28,
+      "y": 48,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "door lintel"
+    },
+    {
+      "id": 326,
+      "layer": 3,
+      "x": 32,
+      "y": 48,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "door lintel"
+    },
+    {
+      "id": 327,
+      "layer": 3,
+      "x": 30,
+      "y": 36,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "door lintel"
+    },
+    {
+      "id": 328,
+      "layer": 3,
+      "x": 30,
+      "y": 24,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "door lintel"
+    },
+    {
+      "id": 329,
+      "layer": 3,
+      "x": 18,
+      "y": 33,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "door lintel"
+    },
+    {
+      "id": 330,
+      "layer": 3,
+      "x": 18,
+      "y": 27,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "door lintel"
+    },
+    {
+      "id": 331,
+      "layer": 3,
+      "x": 28,
+      "y": 15,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "door lintel"
+    },
+    {
+      "id": 332,
+      "layer": 3,
+      "x": 18,
+      "y": 22,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "door lintel"
+    },
+    {
+      "id": 333,
+      "layer": 3,
+      "x": 20,
+      "y": 22,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "door lintel"
+    },
+    {
+      "id": 334,
+      "layer": 3,
+      "x": 24,
+      "y": 22,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "door lintel"
+    },
+    {
+      "id": 335,
+      "layer": 3,
+      "x": 27,
+      "y": 19,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "door lintel"
+    },
+    {
+      "id": 336,
+      "layer": 3,
+      "x": 31,
+      "y": 22,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "door lintel"
+    },
+    {
+      "id": 337,
+      "layer": 3,
+      "x": 37,
+      "y": 24,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "door lintel"
+    },
+    {
+      "id": 338,
+      "layer": 3,
+      "x": 38,
+      "y": 22,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "door lintel"
+    },
+    {
+      "id": 339,
+      "layer": 3,
+      "x": 43,
+      "y": 22,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "door lintel"
+    },
+    {
+      "id": 340,
+      "layer": 3,
+      "x": 47,
+      "y": 22,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "door lintel"
+    },
+    {
+      "id": 341,
+      "layer": 3,
+      "x": 43,
+      "y": 14,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "door lintel"
+    },
+    {
+      "id": 342,
+      "layer": 3,
+      "x": 48,
+      "y": 16,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "door lintel"
+    },
+    {
+      "id": 343,
+      "layer": 3,
+      "x": 48,
+      "y": 10,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "door lintel"
+    },
+    {
+      "id": 344,
+      "layer": 3,
+      "x": 58,
+      "y": 18,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "door lintel"
+    },
+    {
+      "id": 345,
+      "layer": 3,
+      "x": 60,
+      "y": 7,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "door lintel"
+    },
+    {
+      "id": 346,
+      "layer": 3,
+      "x": 76,
+      "y": 19,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "door lintel"
+    },
+    {
+      "id": 347,
+      "layer": 3,
+      "x": 79,
+      "y": 19,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "door lintel"
+    },
+    {
+      "id": 348,
+      "layer": 3,
+      "x": 72,
+      "y": 11,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "door lintel"
+    },
+    {
+      "id": 349,
+      "layer": 3,
+      "x": 48,
+      "y": 8,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 350,
+      "layer": 3,
+      "x": 51,
+      "y": 8,
+      "w": 2,
+      "d": 1,
+      "color": "White",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 351,
+      "layer": 3,
+      "x": 53,
+      "y": 8,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 352,
+      "layer": 3,
+      "x": 56,
+      "y": 8,
+      "w": 3,
+      "d": 1,
+      "color": "White",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 353,
+      "layer": 3,
+      "x": 59,
+      "y": 8,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 354,
+      "layer": 3,
+      "x": 61,
+      "y": 8,
+      "w": 2,
+      "d": 1,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 355,
+      "layer": 3,
+      "x": 63,
+      "y": 8,
+      "w": 4,
+      "d": 1,
+      "color": "White",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 356,
+      "layer": 3,
+      "x": 67,
+      "y": 8,
+      "w": 4,
+      "d": 1,
+      "color": "White",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 357,
+      "layer": 3,
+      "x": 71,
+      "y": 8,
+      "w": 1,
+      "d": 1,
+      "color": "White",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 358,
+      "layer": 3,
+      "x": 72,
+      "y": 8,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 359,
+      "layer": 3,
+      "x": 73,
+      "y": 8,
+      "w": 3,
+      "d": 1,
+      "color": "White",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 360,
+      "layer": 3,
+      "x": 76,
+      "y": 8,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 361,
+      "layer": 3,
+      "x": 48,
+      "y": 9,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 362,
+      "layer": 3,
+      "x": 76,
+      "y": 9,
+      "w": 1,
+      "d": 4,
+      "color": "White",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 363,
+      "layer": 3,
+      "x": 60,
+      "y": 10,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 364,
+      "layer": 3,
+      "x": 73,
+      "y": 13,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 365,
+      "layer": 3,
+      "x": 76,
+      "y": 13,
+      "w": 1,
+      "d": 4,
+      "color": "White",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 366,
+      "layer": 3,
+      "x": 34,
+      "y": 14,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 367,
+      "layer": 3,
+      "x": 35,
+      "y": 14,
+      "w": 2,
+      "d": 1,
+      "color": "White",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 368,
+      "layer": 3,
+      "x": 37,
+      "y": 14,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 369,
+      "layer": 3,
+      "x": 40,
+      "y": 14,
+      "w": 3,
+      "d": 1,
+      "color": "White",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 370,
+      "layer": 3,
+      "x": 46,
+      "y": 14,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 371,
+      "layer": 3,
+      "x": 60,
+      "y": 14,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 372,
+      "layer": 3,
+      "x": 72,
+      "y": 14,
+      "w": 1,
+      "d": 2,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 373,
+      "layer": 3,
+      "x": 15,
+      "y": 15,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 374,
+      "layer": 3,
+      "x": 19,
+      "y": 15,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 375,
+      "layer": 3,
+      "x": 23,
+      "y": 15,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 376,
+      "layer": 3,
+      "x": 27,
+      "y": 15,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 377,
+      "layer": 3,
+      "x": 31,
+      "y": 15,
+      "w": 2,
+      "d": 1,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 378,
+      "layer": 3,
+      "x": 33,
+      "y": 15,
+      "w": 1,
+      "d": 1,
+      "color": "White",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 379,
+      "layer": 3,
+      "x": 39,
+      "y": 15,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 380,
+      "layer": 3,
+      "x": 45,
+      "y": 15,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 381,
+      "layer": 3,
+      "x": 48,
+      "y": 15,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 382,
+      "layer": 3,
+      "x": 15,
+      "y": 16,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 383,
+      "layer": 3,
+      "x": 20,
+      "y": 16,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 384,
+      "layer": 3,
+      "x": 23,
+      "y": 16,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 385,
+      "layer": 3,
+      "x": 30,
+      "y": 16,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 386,
+      "layer": 3,
+      "x": 76,
+      "y": 17,
+      "w": 1,
+      "d": 2,
+      "color": "White",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 387,
+      "layer": 3,
+      "x": 34,
+      "y": 18,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 388,
+      "layer": 3,
+      "x": 46,
+      "y": 18,
+      "w": 2,
+      "d": 1,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 389,
+      "layer": 3,
+      "x": 49,
+      "y": 18,
+      "w": 2,
+      "d": 1,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 390,
+      "layer": 3,
+      "x": 51,
+      "y": 18,
+      "w": 4,
+      "d": 1,
+      "color": "White",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 391,
+      "layer": 3,
+      "x": 55,
+      "y": 18,
+      "w": 3,
+      "d": 1,
+      "color": "White",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 392,
+      "layer": 3,
+      "x": 77,
+      "y": 18,
+      "w": 3,
+      "d": 1,
+      "color": "White",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 393,
+      "layer": 3,
+      "x": 16,
+      "y": 19,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 394,
+      "layer": 3,
+      "x": 39,
+      "y": 19,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 395,
+      "layer": 3,
+      "x": 45,
+      "y": 19,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 396,
+      "layer": 3,
+      "x": 48,
+      "y": 19,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 397,
+      "layer": 3,
+      "x": 15,
+      "y": 20,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 398,
+      "layer": 3,
+      "x": 18,
+      "y": 20,
+      "w": 1,
+      "d": 2,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 399,
+      "layer": 3,
+      "x": 20,
+      "y": 20,
+      "w": 1,
+      "d": 2,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 400,
+      "layer": 3,
+      "x": 23,
+      "y": 20,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 401,
+      "layer": 3,
+      "x": 27,
+      "y": 20,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 402,
+      "layer": 3,
+      "x": 30,
+      "y": 20,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 403,
+      "layer": 3,
+      "x": 28,
+      "y": 21,
+      "w": 2,
+      "d": 1,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 404,
+      "layer": 3,
+      "x": 19,
+      "y": 22,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 405,
+      "layer": 3,
+      "x": 35,
+      "y": 22,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 406,
+      "layer": 3,
+      "x": 41,
+      "y": 22,
+      "w": 2,
+      "d": 1,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 407,
+      "layer": 3,
+      "x": 46,
+      "y": 22,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 408,
+      "layer": 3,
+      "x": 76,
+      "y": 23,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 409,
+      "layer": 3,
+      "x": 77,
+      "y": 23,
+      "w": 2,
+      "d": 1,
+      "color": "White",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 410,
+      "layer": 3,
+      "x": 79,
+      "y": 23,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 411,
+      "layer": 3,
+      "x": 15,
+      "y": 24,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 412,
+      "layer": 3,
+      "x": 16,
+      "y": 24,
+      "w": 2,
+      "d": 1,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 413,
+      "layer": 3,
+      "x": 19,
+      "y": 24,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 414,
+      "layer": 3,
+      "x": 23,
+      "y": 24,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 415,
+      "layer": 3,
+      "x": 27,
+      "y": 24,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 416,
+      "layer": 3,
+      "x": 34,
+      "y": 24,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 417,
+      "layer": 3,
+      "x": 35,
+      "y": 24,
+      "w": 2,
+      "d": 1,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 418,
+      "layer": 3,
+      "x": 41,
+      "y": 24,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 419,
+      "layer": 3,
+      "x": 45,
+      "y": 24,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 420,
+      "layer": 3,
+      "x": 49,
+      "y": 24,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 421,
+      "layer": 3,
+      "x": 53,
+      "y": 24,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 422,
+      "layer": 3,
+      "x": 57,
+      "y": 24,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 423,
+      "layer": 3,
+      "x": 76,
+      "y": 24,
+      "w": 1,
+      "d": 4,
+      "color": "White",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 424,
+      "layer": 3,
+      "x": 18,
+      "y": 25,
+      "w": 1,
+      "d": 2,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 425,
+      "layer": 3,
+      "x": 60,
+      "y": 25,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 426,
+      "layer": 3,
+      "x": 30,
+      "y": 27,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 427,
+      "layer": 3,
+      "x": 15,
+      "y": 28,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 428,
+      "layer": 3,
+      "x": 34,
+      "y": 28,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 429,
+      "layer": 3,
+      "x": 76,
+      "y": 28,
+      "w": 1,
+      "d": 4,
+      "color": "White",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 430,
+      "layer": 3,
+      "x": 60,
+      "y": 29,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 431,
+      "layer": 3,
+      "x": 18,
+      "y": 30,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 432,
+      "layer": 3,
+      "x": 16,
+      "y": 31,
+      "w": 2,
+      "d": 1,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 433,
+      "layer": 3,
+      "x": 19,
+      "y": 31,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 434,
+      "layer": 3,
+      "x": 23,
+      "y": 31,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 435,
+      "layer": 3,
+      "x": 27,
+      "y": 31,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 436,
+      "layer": 3,
+      "x": 15,
+      "y": 32,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 437,
+      "layer": 3,
+      "x": 30,
+      "y": 32,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 438,
+      "layer": 3,
+      "x": 34,
+      "y": 32,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 439,
+      "layer": 3,
+      "x": 76,
+      "y": 32,
+      "w": 1,
+      "d": 4,
+      "color": "White",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 440,
+      "layer": 3,
+      "x": 60,
+      "y": 33,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 441,
+      "layer": 3,
+      "x": 15,
+      "y": 36,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 442,
+      "layer": 3,
+      "x": 18,
+      "y": 36,
+      "w": 1,
+      "d": 2,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 443,
+      "layer": 3,
+      "x": 34,
+      "y": 36,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 444,
+      "layer": 3,
+      "x": 76,
+      "y": 36,
+      "w": 1,
+      "d": 3,
+      "color": "White",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 445,
+      "layer": 3,
+      "x": 16,
+      "y": 37,
+      "w": 2,
+      "d": 1,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 446,
+      "layer": 3,
+      "x": 19,
+      "y": 37,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 447,
+      "layer": 3,
+      "x": 23,
+      "y": 37,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 448,
+      "layer": 3,
+      "x": 27,
+      "y": 37,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 449,
+      "layer": 3,
+      "x": 60,
+      "y": 37,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 450,
+      "layer": 3,
+      "x": 61,
+      "y": 39,
+      "w": 4,
+      "d": 1,
+      "color": "White",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 451,
+      "layer": 3,
+      "x": 65,
+      "y": 39,
+      "w": 4,
+      "d": 1,
+      "color": "White",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 452,
+      "layer": 3,
+      "x": 69,
+      "y": 39,
+      "w": 4,
+      "d": 1,
+      "color": "White",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 453,
+      "layer": 3,
+      "x": 73,
+      "y": 39,
+      "w": 3,
+      "d": 1,
+      "color": "White",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 454,
+      "layer": 3,
+      "x": 76,
+      "y": 39,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 455,
+      "layer": 3,
+      "x": 16,
+      "y": 40,
+      "w": 2,
+      "d": 1,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 456,
+      "layer": 3,
+      "x": 21,
+      "y": 40,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 457,
+      "layer": 3,
+      "x": 27,
+      "y": 40,
+      "w": 2,
+      "d": 1,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 458,
+      "layer": 3,
+      "x": 34,
+      "y": 40,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 459,
+      "layer": 3,
+      "x": 15,
+      "y": 41,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 460,
+      "layer": 3,
+      "x": 20,
+      "y": 41,
+      "w": 1,
+      "d": 2,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 461,
+      "layer": 3,
+      "x": 23,
+      "y": 41,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 462,
+      "layer": 3,
+      "x": 25,
+      "y": 41,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 463,
+      "layer": 3,
+      "x": 28,
+      "y": 41,
+      "w": 1,
+      "d": 2,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 464,
+      "layer": 3,
+      "x": 60,
+      "y": 41,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 465,
+      "layer": 3,
+      "x": 21,
+      "y": 43,
+      "w": 2,
+      "d": 1,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 466,
+      "layer": 3,
+      "x": 24,
+      "y": 44,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 467,
+      "layer": 3,
+      "x": 26,
+      "y": 44,
+      "w": 2,
+      "d": 1,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 468,
+      "layer": 3,
+      "x": 34,
+      "y": 44,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 469,
+      "layer": 3,
+      "x": 15,
+      "y": 45,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 470,
+      "layer": 3,
+      "x": 23,
+      "y": 45,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 471,
+      "layer": 3,
+      "x": 60,
+      "y": 45,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 472,
+      "layer": 3,
+      "x": 20,
+      "y": 46,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 473,
+      "layer": 3,
+      "x": 28,
+      "y": 46,
+      "w": 1,
+      "d": 2,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 474,
+      "layer": 3,
+      "x": 16,
+      "y": 48,
+      "w": 3,
+      "d": 1,
+      "color": "White",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 475,
+      "layer": 3,
+      "x": 19,
+      "y": 48,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 476,
+      "layer": 3,
+      "x": 21,
+      "y": 48,
+      "w": 1,
+      "d": 1,
+      "color": "White",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 477,
+      "layer": 3,
+      "x": 22,
+      "y": 48,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 478,
+      "layer": 3,
+      "x": 24,
+      "y": 48,
+      "w": 2,
+      "d": 1,
+      "color": "White",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 479,
+      "layer": 3,
+      "x": 26,
+      "y": 48,
+      "w": 2,
+      "d": 1,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 480,
+      "layer": 3,
+      "x": 34,
+      "y": 49,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 481,
+      "layer": 3,
+      "x": 60,
+      "y": 49,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 482,
+      "layer": 3,
+      "x": 34,
+      "y": 53,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 483,
+      "layer": 3,
+      "x": 60,
+      "y": 53,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 484,
+      "layer": 3,
+      "x": 35,
+      "y": 55,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 485,
+      "layer": 3,
+      "x": 39,
+      "y": 55,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 486,
+      "layer": 3,
+      "x": 43,
+      "y": 55,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 487,
+      "layer": 3,
+      "x": 47,
+      "y": 55,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 488,
+      "layer": 3,
+      "x": 51,
+      "y": 55,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 489,
+      "layer": 3,
+      "x": 55,
+      "y": 55,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 490,
+      "layer": 3,
+      "x": 59,
+      "y": 55,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 491,
+      "layer": 4,
+      "x": 15,
+      "y": 15,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 492,
+      "layer": 4,
+      "x": 15,
+      "y": 19,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 493,
+      "layer": 4,
+      "x": 15,
+      "y": 23,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 494,
+      "layer": 4,
+      "x": 15,
+      "y": 27,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 495,
+      "layer": 4,
+      "x": 15,
+      "y": 31,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 496,
+      "layer": 4,
+      "x": 15,
+      "y": 35,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 497,
+      "layer": 4,
+      "x": 15,
+      "y": 39,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 498,
+      "layer": 4,
+      "x": 15,
+      "y": 43,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 499,
+      "layer": 4,
+      "x": 15,
+      "y": 47,
+      "w": 1,
+      "d": 2,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 500,
+      "layer": 4,
+      "x": 16,
+      "y": 15,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 501,
+      "layer": 4,
+      "x": 16,
+      "y": 19,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 502,
+      "layer": 4,
+      "x": 16,
+      "y": 24,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 503,
+      "layer": 4,
+      "x": 16,
+      "y": 31,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 504,
+      "layer": 4,
+      "x": 16,
+      "y": 37,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 505,
+      "layer": 4,
+      "x": 16,
+      "y": 40,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 506,
+      "layer": 4,
+      "x": 16,
+      "y": 48,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 507,
+      "layer": 4,
+      "x": 18,
+      "y": 20,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 508,
+      "layer": 4,
+      "x": 18,
+      "y": 25,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 509,
+      "layer": 4,
+      "x": 18,
+      "y": 29,
+      "w": 1,
+      "d": 2,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 510,
+      "layer": 4,
+      "x": 18,
+      "y": 32,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 511,
+      "layer": 4,
+      "x": 18,
+      "y": 36,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 512,
+      "layer": 4,
+      "x": 19,
+      "y": 22,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 513,
+      "layer": 4,
+      "x": 20,
+      "y": 15,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 514,
+      "layer": 4,
+      "x": 20,
+      "y": 19,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 515,
+      "layer": 4,
+      "x": 20,
+      "y": 24,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 516,
+      "layer": 4,
+      "x": 20,
+      "y": 31,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 517,
+      "layer": 4,
+      "x": 20,
+      "y": 37,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 518,
+      "layer": 4,
+      "x": 20,
+      "y": 40,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 519,
+      "layer": 4,
+      "x": 20,
+      "y": 44,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 520,
+      "layer": 4,
+      "x": 20,
+      "y": 48,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 521,
+      "layer": 4,
+      "x": 21,
+      "y": 15,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 522,
+      "layer": 4,
+      "x": 21,
+      "y": 40,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 523,
+      "layer": 4,
+      "x": 21,
+      "y": 43,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 524,
+      "layer": 4,
+      "x": 23,
+      "y": 16,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 525,
+      "layer": 4,
+      "x": 23,
+      "y": 20,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 526,
+      "layer": 4,
+      "x": 23,
+      "y": 41,
+      "w": 1,
+      "d": 2,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 527,
+      "layer": 4,
+      "x": 23,
+      "y": 44,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 528,
+      "layer": 4,
+      "x": 24,
+      "y": 22,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 529,
+      "layer": 4,
+      "x": 24,
+      "y": 24,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 530,
+      "layer": 4,
+      "x": 24,
+      "y": 31,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 531,
+      "layer": 4,
+      "x": 24,
+      "y": 37,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 532,
+      "layer": 4,
+      "x": 24,
+      "y": 44,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 533,
+      "layer": 4,
+      "x": 24,
+      "y": 48,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 534,
+      "layer": 4,
+      "x": 25,
+      "y": 15,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 535,
+      "layer": 4,
+      "x": 25,
+      "y": 40,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 536,
+      "layer": 4,
+      "x": 26,
+      "y": 40,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 537,
+      "layer": 4,
+      "x": 27,
+      "y": 16,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 538,
+      "layer": 4,
+      "x": 27,
+      "y": 20,
+      "w": 1,
+      "d": 2,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 539,
+      "layer": 4,
+      "x": 28,
+      "y": 19,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 540,
+      "layer": 4,
+      "x": 28,
+      "y": 21,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 541,
+      "layer": 4,
+      "x": 28,
+      "y": 24,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 542,
+      "layer": 4,
+      "x": 28,
+      "y": 31,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 543,
+      "layer": 4,
+      "x": 28,
+      "y": 37,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 544,
+      "layer": 4,
+      "x": 28,
+      "y": 41,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 545,
+      "layer": 4,
+      "x": 28,
+      "y": 45,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 546,
+      "layer": 4,
+      "x": 29,
+      "y": 15,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 547,
+      "layer": 4,
+      "x": 29,
+      "y": 48,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 548,
+      "layer": 4,
+      "x": 30,
+      "y": 16,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 549,
+      "layer": 4,
+      "x": 30,
+      "y": 20,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 550,
+      "layer": 4,
+      "x": 30,
+      "y": 22,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 551,
+      "layer": 4,
+      "x": 30,
+      "y": 23,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 552,
+      "layer": 4,
+      "x": 30,
+      "y": 25,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 553,
+      "layer": 4,
+      "x": 30,
+      "y": 29,
+      "w": 1,
+      "d": 2,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 554,
+      "layer": 4,
+      "x": 30,
+      "y": 32,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 555,
+      "layer": 4,
+      "x": 30,
+      "y": 36,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 556,
+      "layer": 4,
+      "x": 30,
+      "y": 38,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 557,
+      "layer": 4,
+      "x": 33,
+      "y": 15,
+      "w": 2,
+      "d": 1,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 558,
+      "layer": 4,
+      "x": 33,
+      "y": 48,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 559,
+      "layer": 4,
+      "x": 34,
+      "y": 14,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 560,
+      "layer": 4,
+      "x": 34,
+      "y": 16,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 561,
+      "layer": 4,
+      "x": 34,
+      "y": 20,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 562,
+      "layer": 4,
+      "x": 34,
+      "y": 24,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 563,
+      "layer": 4,
+      "x": 34,
+      "y": 28,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 564,
+      "layer": 4,
+      "x": 34,
+      "y": 32,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 565,
+      "layer": 4,
+      "x": 34,
+      "y": 36,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 566,
+      "layer": 4,
+      "x": 34,
+      "y": 40,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 567,
+      "layer": 4,
+      "x": 34,
+      "y": 44,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 568,
+      "layer": 4,
+      "x": 34,
+      "y": 49,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 569,
+      "layer": 4,
+      "x": 34,
+      "y": 53,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 570,
+      "layer": 4,
+      "x": 35,
+      "y": 22,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 571,
+      "layer": 4,
+      "x": 35,
+      "y": 24,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 572,
+      "layer": 4,
+      "x": 35,
+      "y": 55,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 573,
+      "layer": 4,
+      "x": 38,
+      "y": 14,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 574,
+      "layer": 4,
+      "x": 39,
+      "y": 15,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 575,
+      "layer": 4,
+      "x": 39,
+      "y": 19,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 576,
+      "layer": 4,
+      "x": 39,
+      "y": 24,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 577,
+      "layer": 4,
+      "x": 39,
+      "y": 55,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 578,
+      "layer": 4,
+      "x": 40,
+      "y": 22,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 579,
+      "layer": 4,
+      "x": 42,
+      "y": 14,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 580,
+      "layer": 4,
+      "x": 43,
+      "y": 24,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 581,
+      "layer": 4,
+      "x": 43,
+      "y": 55,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 582,
+      "layer": 4,
+      "x": 44,
+      "y": 22,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 583,
+      "layer": 4,
+      "x": 45,
+      "y": 15,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 584,
+      "layer": 4,
+      "x": 45,
+      "y": 19,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 585,
+      "layer": 4,
+      "x": 46,
+      "y": 14,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 586,
+      "layer": 4,
+      "x": 46,
+      "y": 18,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 587,
+      "layer": 4,
+      "x": 47,
+      "y": 24,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 588,
+      "layer": 4,
+      "x": 47,
+      "y": 55,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 589,
+      "layer": 4,
+      "x": 48,
+      "y": 8,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 590,
+      "layer": 4,
+      "x": 48,
+      "y": 12,
+      "w": 1,
+      "d": 2,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 591,
+      "layer": 4,
+      "x": 48,
+      "y": 15,
+      "w": 1,
+      "d": 3,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 592,
+      "layer": 4,
+      "x": 48,
+      "y": 19,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 593,
+      "layer": 4,
+      "x": 49,
+      "y": 8,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 594,
+      "layer": 4,
+      "x": 49,
+      "y": 22,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 595,
+      "layer": 4,
+      "x": 50,
+      "y": 18,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 596,
+      "layer": 4,
+      "x": 51,
+      "y": 24,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 597,
+      "layer": 4,
+      "x": 51,
+      "y": 55,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 598,
+      "layer": 4,
+      "x": 53,
+      "y": 8,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 599,
+      "layer": 4,
+      "x": 54,
+      "y": 18,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 600,
+      "layer": 4,
+      "x": 55,
+      "y": 24,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 601,
+      "layer": 4,
+      "x": 55,
+      "y": 55,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 602,
+      "layer": 4,
+      "x": 57,
+      "y": 8,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 603,
+      "layer": 4,
+      "x": 58,
+      "y": 18,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 604,
+      "layer": 4,
+      "x": 59,
+      "y": 24,
+      "w": 2,
+      "d": 1,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 605,
+      "layer": 4,
+      "x": 59,
+      "y": 55,
+      "w": 2,
+      "d": 1,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 606,
+      "layer": 4,
+      "x": 60,
+      "y": 7,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 607,
+      "layer": 4,
+      "x": 60,
+      "y": 9,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 608,
+      "layer": 4,
+      "x": 60,
+      "y": 13,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 609,
+      "layer": 4,
+      "x": 60,
+      "y": 17,
+      "w": 1,
+      "d": 1,
+      "color": "Black",
+      "part": "3005",
+      "role": "wall"
+    },
+    {
+      "id": 610,
+      "layer": 4,
+      "x": 60,
+      "y": 25,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 611,
+      "layer": 4,
+      "x": 60,
+      "y": 29,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 612,
+      "layer": 4,
+      "x": 60,
+      "y": 33,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 613,
+      "layer": 4,
+      "x": 60,
+      "y": 37,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 614,
+      "layer": 4,
+      "x": 60,
+      "y": 41,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 615,
+      "layer": 4,
+      "x": 60,
+      "y": 45,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 616,
+      "layer": 4,
+      "x": 60,
+      "y": 49,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 617,
+      "layer": 4,
+      "x": 60,
+      "y": 53,
+      "w": 1,
+      "d": 2,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 618,
+      "layer": 4,
+      "x": 61,
+      "y": 8,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 619,
+      "layer": 4,
+      "x": 61,
+      "y": 39,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 620,
+      "layer": 4,
+      "x": 65,
+      "y": 8,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 621,
+      "layer": 4,
+      "x": 65,
+      "y": 39,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 622,
+      "layer": 4,
+      "x": 69,
+      "y": 8,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 623,
+      "layer": 4,
+      "x": 69,
+      "y": 39,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 624,
+      "layer": 4,
+      "x": 72,
+      "y": 9,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 625,
+      "layer": 4,
+      "x": 72,
+      "y": 13,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 626,
+      "layer": 4,
+      "x": 72,
+      "y": 14,
+      "w": 1,
+      "d": 2,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 627,
+      "layer": 4,
+      "x": 73,
+      "y": 8,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 628,
+      "layer": 4,
+      "x": 73,
+      "y": 39,
+      "w": 4,
+      "d": 1,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 629,
+      "layer": 4,
+      "x": 76,
+      "y": 9,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 630,
+      "layer": 4,
+      "x": 76,
+      "y": 13,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 631,
+      "layer": 4,
+      "x": 76,
+      "y": 17,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 632,
+      "layer": 4,
+      "x": 76,
+      "y": 21,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 633,
+      "layer": 4,
+      "x": 76,
+      "y": 25,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 634,
+      "layer": 4,
+      "x": 76,
+      "y": 29,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 635,
+      "layer": 4,
+      "x": 76,
+      "y": 33,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 636,
+      "layer": 4,
+      "x": 76,
+      "y": 37,
+      "w": 1,
+      "d": 2,
+      "color": "Black",
+      "part": "3004",
+      "role": "wall"
+    },
+    {
+      "id": 637,
+      "layer": 4,
+      "x": 77,
+      "y": 18,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 638,
+      "layer": 4,
+      "x": 77,
+      "y": 23,
+      "w": 3,
+      "d": 1,
+      "color": "Black",
+      "part": "3622",
+      "role": "wall"
+    },
+    {
+      "id": 639,
+      "layer": 4,
+      "x": 79,
+      "y": 19,
+      "w": 1,
+      "d": 4,
+      "color": "Black",
+      "part": "3010",
+      "role": "wall"
+    },
+    {
+      "id": 640,
+      "layer": 1,
+      "x": 63,
+      "y": 28,
+      "w": 2,
+      "d": 2,
+      "color": "Dark bluish gray",
+      "part": "3003",
+      "role": "commons seat"
+    },
+    {
+      "id": 641,
+      "layer": 1,
+      "x": 70,
+      "y": 28,
+      "w": 2,
+      "d": 2,
+      "color": "Dark bluish gray",
+      "part": "3003",
+      "role": "commons seat"
+    },
+    {
+      "id": 642,
+      "layer": 1,
+      "x": 63,
+      "y": 34,
+      "w": 2,
+      "d": 2,
+      "color": "Dark bluish gray",
+      "part": "3003",
+      "role": "commons seat"
+    },
+    {
+      "id": 643,
+      "layer": 1,
+      "x": 70,
+      "y": 34,
+      "w": 2,
+      "d": 2,
+      "color": "Dark bluish gray",
+      "part": "3003",
+      "role": "commons seat"
+    },
+    {
+      "id": 644,
+      "layer": 1,
+      "x": 52,
+      "y": 10,
+      "w": 2,
+      "d": 4,
+      "color": "Tan",
+      "part": "3001",
+      "role": "iLab fabrication bench"
+    },
+    {
+      "id": 645,
+      "layer": 1,
+      "x": 52,
+      "y": 14,
+      "w": 2,
+      "d": 4,
+      "color": "Tan",
+      "part": "3001",
+      "role": "iLab fabrication bench"
+    },
+    {
+      "id": 646,
+      "layer": 1,
+      "x": 57,
+      "y": 10,
+      "w": 2,
+      "d": 4,
+      "color": "Tan",
+      "part": "3001",
+      "role": "iLab collaboration table"
+    },
+    {
+      "id": 647,
+      "layer": 1,
+      "x": 57,
+      "y": 14,
+      "w": 2,
+      "d": 4,
+      "color": "Tan",
+      "part": "3001",
+      "role": "iLab collaboration table"
+    },
+    {
+      "id": 648,
+      "layer": 1,
+      "x": 54,
+      "y": 11,
+      "w": 2,
+      "d": 2,
+      "color": "Dark bluish gray",
+      "part": "3003",
+      "role": "iLab equipment"
+    },
+    {
+      "id": 649,
+      "layer": 2,
+      "x": 54,
+      "y": 11,
+      "w": 2,
+      "d": 2,
+      "color": "Dark bluish gray",
+      "part": "3003",
+      "role": "iLab equipment"
+    },
+    {
+      "id": 650,
+      "layer": 1,
+      "x": 50,
+      "y": 15,
+      "w": 2,
+      "d": 2,
+      "color": "Dark bluish gray",
+      "part": "3003",
+      "role": "iLab equipment"
+    },
+    {
+      "id": 651,
+      "layer": 2,
+      "x": 50,
+      "y": 15,
+      "w": 2,
+      "d": 2,
+      "color": "Dark bluish gray",
+      "part": "3003",
+      "role": "iLab equipment"
+    },
+    {
+      "id": 652,
+      "layer": 1,
+      "x": 73,
+      "y": 25,
+      "w": 2,
+      "d": 2,
+      "color": "Tan",
+      "part": "3003",
+      "role": "cafe counter"
+    },
+    {
+      "id": 653,
+      "layer": 1,
+      "x": 73,
+      "y": 14,
+      "w": 2,
+      "d": 2,
+      "color": "Tan",
+      "part": "3003",
+      "role": "reception"
+    },
+    {
+      "id": 654,
+      "layer": 1,
+      "x": 31,
+      "y": 17,
+      "w": 2,
+      "d": 2,
+      "color": "Light bluish gray",
+      "part": "3003",
+      "role": "stair step"
+    },
+    {
+      "id": 655,
+      "layer": 1,
+      "x": 31,
+      "y": 19,
+      "w": 2,
+      "d": 2,
+      "color": "Light bluish gray",
+      "part": "3003",
+      "role": "stair step"
+    },
+    {
+      "id": 656,
+      "layer": 2,
+      "x": 31,
+      "y": 19,
+      "w": 2,
+      "d": 2,
+      "color": "Light bluish gray",
+      "part": "3003",
+      "role": "stair step"
+    },
+    {
+      "id": 657,
+      "layer": 1,
+      "x": 61,
+      "y": 14,
+      "w": 2,
+      "d": 2,
+      "color": "Light bluish gray",
+      "part": "3003",
+      "role": "stair step"
+    },
+    {
+      "id": 658,
+      "layer": 1,
+      "x": 61,
+      "y": 16,
+      "w": 2,
+      "d": 2,
+      "color": "Light bluish gray",
+      "part": "3003",
+      "role": "stair step"
+    },
+    {
+      "id": 659,
+      "layer": 2,
+      "x": 61,
+      "y": 16,
+      "w": 2,
+      "d": 2,
+      "color": "Light bluish gray",
+      "part": "3003",
+      "role": "stair step"
+    },
+    {
+      "id": 660,
+      "layer": 1,
+      "x": 61,
+      "y": 18,
+      "w": 2,
+      "d": 2,
+      "color": "Light bluish gray",
+      "part": "3003",
+      "role": "stair step"
+    },
+    {
+      "id": 661,
+      "layer": 2,
+      "x": 61,
+      "y": 18,
+      "w": 2,
+      "d": 2,
+      "color": "Light bluish gray",
+      "part": "3003",
+      "role": "stair step"
+    },
+    {
+      "id": 662,
+      "layer": 3,
+      "x": 61,
+      "y": 18,
+      "w": 2,
+      "d": 2,
+      "color": "Light bluish gray",
+      "part": "3003",
+      "role": "stair step"
+    }
+  ],
+  "doors": [
+    {
+      "name": "Athletics_west_door0",
+      "hole": [
+        [
+          15,
+          38
+        ],
+        [
+          15,
+          39
+        ]
+      ],
+      "ends": [
+        [
+          15,
+          37
+        ],
+        [
+          15,
+          40
+        ]
+      ],
+      "hor": false
+    },
+    {
+      "name": "Athletics_south_door0",
+      "hole": [
+        [
+          19,
+          40
+        ]
+      ],
+      "ends": [
+        [
+          18,
+          40
+        ],
+        [
+          20,
+          40
+        ]
+      ],
+      "hor": true
+    },
+    {
+      "name": "Athletics_south_door1",
+      "hole": [
+        [
+          25,
+          40
+        ]
+      ],
+      "ends": [
+        [
+          24,
+          40
+        ],
+        [
+          26,
+          40
+        ]
+      ],
+      "hor": true
+    },
+    {
+      "name": "Trainer_office_wall_door0",
+      "hole": [
+        [
+          20,
+          44
+        ]
+      ],
+      "ends": [
+        [
+          20,
+          43
+        ],
+        [
+          20,
+          45
+        ]
+      ],
+      "hor": false
+    },
+    {
+      "name": "Athletics_east_door0",
+      "hole": [
+        [
+          28,
+          44
+        ]
+      ],
+      "ends": [
+        [
+          28,
+          43
+        ],
+        [
+          28,
+          45
+        ]
+      ],
+      "hor": false
+    },
+    {
+      "name": "North_corridor_entry_door0",
+      "hole": [
+        [
+          29,
+          48
+        ],
+        [
+          30,
+          48
+        ]
+      ],
+      "ends": [
+        [
+          28,
+          48
+        ],
+        [
+          31,
+          48
+        ]
+      ],
+      "hor": true
+    },
+    {
+      "name": "North_corridor_entry_door1",
+      "hole": [
+        [
+          33,
+          48
+        ],
+        [
+          34,
+          48
+        ]
+      ],
+      "ends": [
+        [
+          32,
+          48
+        ],
+        [
+          35,
+          48
+        ]
+      ],
+      "hor": true
+    },
+    {
+      "name": "Locker122_east_door0",
+      "hole": [
+        [
+          30,
+          37
+        ]
+      ],
+      "ends": [
+        [
+          30,
+          36
+        ],
+        [
+          30,
+          38
+        ]
+      ],
+      "hor": false
+    },
+    {
+      "name": "Locker121_east_door0",
+      "hole": [
+        [
+          30,
+          25
+        ]
+      ],
+      "ends": [
+        [
+          30,
+          24
+        ],
+        [
+          30,
+          26
+        ]
+      ],
+      "hor": false
+    },
+    {
+      "name": "Locker122_wet_partition_door0",
+      "hole": [
+        [
+          18,
+          34
+        ]
+      ],
+      "ends": [
+        [
+          18,
+          33
+        ],
+        [
+          18,
+          35
+        ]
+      ],
+      "hor": false
+    },
+    {
+      "name": "Locker121_wet_partition_door0",
+      "hole": [
+        [
+          18,
+          28
+        ]
+      ],
+      "ends": [
+        [
+          18,
+          27
+        ],
+        [
+          18,
+          29
+        ]
+      ],
+      "hor": false
+    },
+    {
+      "name": "West_entry_storefront_door1",
+      "hole": [
+        [
+          29,
+          15
+        ]
+      ],
+      "ends": [
+        [
+          28,
+          15
+        ],
+        [
+          30,
+          15
+        ]
+      ],
+      "hor": true
+    },
+    {
+      "name": "Athletic_store_east_door0",
+      "hole": [
+        [
+          18,
+          23
+        ]
+      ],
+      "ends": [
+        [
+          18,
+          22
+        ],
+        [
+          18,
+          24
+        ]
+      ],
+      "hor": false
+    },
+    {
+      "name": "Restrooms_north_door0",
+      "hole": [
+        [
+          21,
+          22
+        ]
+      ],
+      "ends": [
+        [
+          20,
+          22
+        ],
+        [
+          22,
+          22
+        ]
+      ],
+      "hor": true
+    },
+    {
+      "name": "Restrooms_north_door1",
+      "hole": [
+        [
+          25,
+          22
+        ]
+      ],
+      "ends": [
+        [
+          24,
+          22
+        ],
+        [
+          26,
+          22
+        ]
+      ],
+      "hor": true
+    },
+    {
+      "name": "Lift_B_s_door0",
+      "hole": [
+        [
+          28,
+          19
+        ]
+      ],
+      "ends": [
+        [
+          27,
+          19
+        ],
+        [
+          29,
+          19
+        ]
+      ],
+      "hor": true
+    },
+    {
+      "name": "StairB_north_door0",
+      "hole": [
+        [
+          32,
+          22
+        ],
+        [
+          33,
+          22
+        ]
+      ],
+      "ends": [
+        [
+          31,
+          22
+        ],
+        [
+          34,
+          22
+        ]
+      ],
+      "hor": true
+    },
+    {
+      "name": "Gym_south_door0",
+      "hole": [
+        [
+          38,
+          24
+        ],
+        [
+          39,
+          24
+        ]
+      ],
+      "ends": [
+        [
+          37,
+          24
+        ],
+        [
+          40,
+          24
+        ]
+      ],
+      "hor": true
+    },
+    {
+      "name": "Classrooms_north_door0",
+      "hole": [
+        [
+          39,
+          22
+        ]
+      ],
+      "ends": [
+        [
+          38,
+          22
+        ],
+        [
+          40,
+          22
+        ]
+      ],
+      "hor": true
+    },
+    {
+      "name": "Classrooms_north_door1",
+      "hole": [
+        [
+          44,
+          22
+        ]
+      ],
+      "ends": [
+        [
+          43,
+          22
+        ],
+        [
+          45,
+          22
+        ]
+      ],
+      "hor": true
+    },
+    {
+      "name": "Office111_north_door0",
+      "hole": [
+        [
+          48,
+          22
+        ]
+      ],
+      "ends": [
+        [
+          47,
+          22
+        ],
+        [
+          49,
+          22
+        ]
+      ],
+      "hor": true
+    },
+    {
+      "name": "Classrooms_south_door2",
+      "hole": [
+        [
+          44,
+          14
+        ]
+      ],
+      "ends": [
+        [
+          43,
+          14
+        ],
+        [
+          45,
+          14
+        ]
+      ],
+      "hor": true
+    },
+    {
+      "name": "Lab_west_door0",
+      "hole": [
+        [
+          48,
+          17
+        ]
+      ],
+      "ends": [
+        [
+          48,
+          16
+        ],
+        [
+          48,
+          18
+        ]
+      ],
+      "hor": false
+    },
+    {
+      "name": "Lab_west_door1",
+      "hole": [
+        [
+          48,
+          11
+        ],
+        [
+          48,
+          12
+        ]
+      ],
+      "ends": [
+        [
+          48,
+          10
+        ],
+        [
+          48,
+          13
+        ]
+      ],
+      "hor": false
+    },
+    {
+      "name": "Lab_north_door2",
+      "hole": [
+        [
+          59,
+          18
+        ]
+      ],
+      "ends": [
+        [
+          58,
+          18
+        ],
+        [
+          60,
+          18
+        ]
+      ],
+      "hor": true
+    },
+    {
+      "name": "Lab_east_door0",
+      "hole": [
+        [
+          60,
+          8
+        ]
+      ],
+      "ends": [
+        [
+          60,
+          7
+        ],
+        [
+          60,
+          9
+        ]
+      ],
+      "hor": false
+    },
+    {
+      "name": "Vestibule_internal_door0",
+      "hole": [
+        [
+          76,
+          20
+        ],
+        [
+          76,
+          21
+        ]
+      ],
+      "ends": [
+        [
+          76,
+          19
+        ],
+        [
+          76,
+          22
+        ]
+      ],
+      "hor": false
+    },
+    {
+      "name": "Vestibule_external_door0",
+      "hole": [
+        [
+          79,
+          20
+        ],
+        [
+          79,
+          21
+        ]
+      ],
+      "ends": [
+        [
+          79,
+          19
+        ],
+        [
+          79,
+          22
+        ]
+      ],
+      "hor": false
+    },
+    {
+      "name": "Admissions_west_door0",
+      "hole": [
+        [
+          72,
+          12
+        ]
+      ],
+      "ends": [
+        [
+          72,
+          11
+        ],
+        [
+          72,
+          13
+        ]
+      ],
+      "hor": false
+    }
+  ],
+  "rooms": [
+    {
+      "floor": "GROUND",
+      "number": "129",
+      "name": "ATHLETICS TRAINERS",
+      "center_mm": [
+        -42927.32984293194,
+        35586.596858638746,
+        0
+      ],
+      "source": "A-101"
+    },
+    {
+      "floor": "GROUND",
+      "number": "127",
+      "name": "TRAINERS OFFICE",
+      "center_mm": [
+        -38725.02617801047,
+        37607.958115183246,
+        0
+      ],
+      "source": "A-101"
+    },
+    {
+      "floor": "GROUND",
+      "number": "128",
+      "name": "TRAINERS STORAGE",
+      "center_mm": [
+        -38725.02617801047,
+        33352.46073298429,
+        0
+      ],
+      "source": "A-101"
+    },
+    {
+      "floor": "GROUND",
+      "number": "125",
+      "name": "ATHLETICS OFFICE",
+      "center_mm": [
+        -34682.30366492146,
+        37820.732984293194,
+        0
+      ],
+      "source": "A-101"
+    },
+    {
+      "floor": "GROUND",
+      "number": "126",
+      "name": "ATHLETICS OFFICE",
+      "center_mm": [
+        -35958.95287958115,
+        33618.429319371724,
+        0
+      ],
+      "source": "A-101"
+    },
+    {
+      "floor": "GROUND",
+      "number": "124",
+      "name": "ATHLETICS OFFICE",
+      "center_mm": [
+        -33086.49214659686,
+        33618.429319371724,
+        0
+      ],
+      "source": "A-101"
+    },
+    {
+      "floor": "GROUND",
+      "number": "130",
+      "name": "CORRIDOR",
+      "center_mm": [
+        -37341.98952879581,
+        30479.999999999996,
+        0
+      ],
+      "source": "A-101"
+    },
+    {
+      "floor": "GROUND",
+      "number": "123",
+      "name": "TROPHY HALL / CORRIDOR",
+      "center_mm": [
+        -28192.670157068063,
+        22447.748691099474,
+        0
+      ],
+      "source": "A-101"
+    },
+    {
+      "floor": "GROUND",
+      "number": "122",
+      "name": "LOCKER ROOM",
+      "center_mm": [
+        -36224.92146596859,
+        25958.534031413612,
+        0
+      ],
+      "source": "A-101"
+    },
+    {
+      "floor": "GROUND",
+      "number": "121",
+      "name": "LOCKER ROOM",
+      "center_mm": [
+        -36224.92146596859,
+        19362.513089005235,
+        0
+      ],
+      "source": "A-101"
+    },
+    {
+      "floor": "GROUND",
+      "number": "119",
+      "name": "ATHLETICS STORAGE",
+      "center_mm": [
+        -43512.46073298429,
+        13989.947643979056,
+        0
+      ],
+      "source": "A-101"
+    },
+    {
+      "floor": "GROUND",
+      "number": "118",
+      "name": "JANITOR",
+      "center_mm": [
+        -41012.3560209424,
+        12074.973821989528,
+        0
+      ],
+      "source": "A-101"
+    },
+    {
+      "floor": "GROUND",
+      "number": "120",
+      "name": "MECH / ELECTRICAL",
+      "center_mm": [
+        -43140.10471204188,
+        9042.931937172774,
+        0
+      ],
+      "source": "A-101"
+    },
+    {
+      "floor": "GROUND",
+      "number": "117",
+      "name": "MENS TOILET",
+      "center_mm": [
+        -38565.44502617801,
+        10053.612565445026,
+        0
+      ],
+      "source": "A-101"
+    },
+    {
+      "floor": "GROUND",
+      "number": "116",
+      "name": "WOMENS TOILET",
+      "center_mm": [
+        -35107.85340314136,
+        10053.612565445026,
+        0
+      ],
+      "source": "A-101"
+    },
+    {
+      "floor": "GROUND",
+      "number": "115",
+      "name": "CORRIDOR",
+      "center_mm": [
+        -36171.7277486911,
+        14894.240837696334,
+        0
+      ],
+      "source": "A-101"
+    },
+    {
+      "floor": "GROUND",
+      "number": "114",
+      "name": "VESTIBULE",
+      "center_mm": [
+        -31916.230366492146,
+        9149.319371727748,
+        0
+      ],
+      "source": "A-101"
+    },
+    {
+      "floor": "GROUND",
+      "number": "GYM",
+      "name": "EXISTING GYM",
+      "center_mm": [
+        -12766.492146596858,
+        31916.230366492146,
+        0
+      ],
+      "source": "A-101"
+    },
+    {
+      "floor": "GROUND",
+      "number": "113",
+      "name": "COLLABORATION ROOM",
+      "center_mm": [
+        -23618.010471204187,
+        9308.900523560209,
+        0
+      ],
+      "source": "A-101"
+    },
+    {
+      "floor": "GROUND",
+      "number": "112",
+      "name": "ASPIRE CLASSROOM",
+      "center_mm": [
+        -18139.057591623037,
+        9255.706806282722,
+        0
+      ],
+      "source": "A-101"
+    },
+    {
+      "floor": "GROUND",
+      "number": "111",
+      "name": "OFFICE",
+      "center_mm": [
+        -13245.23560209424,
+        11755.811518324606,
+        0
+      ],
+      "source": "A-101"
+    },
+    {
+      "floor": "GROUND",
+      "number": "109",
+      "name": "STORAGE / IT / MECH",
+      "center_mm": [
+        -13192.041884816754,
+        8085.44502617801,
+        0
+      ],
+      "source": "A-101"
+    },
+    {
+      "floor": "GROUND",
+      "number": "108",
+      "name": "INNOVATION LAB",
+      "center_mm": [
+        -5957.696335078534,
+        4574.659685863874,
+        0
+      ],
+      "source": "A-101"
+    },
+    {
+      "floor": "GROUND",
+      "number": "110",
+      "name": "CORRIDOR",
+      "center_mm": [
+        -17021.98952879581,
+        14947.434554973823,
+        0
+      ],
+      "source": "A-101"
+    },
+    {
+      "floor": "GROUND",
+      "number": "106",
+      "name": "CORRIDOR / DISPLAY HALL",
+      "center_mm": [
+        -6170.471204188481,
+        12128.167539267017,
+        0
+      ],
+      "source": "A-101"
+    },
+    {
+      "floor": "GROUND",
+      "number": "102",
+      "name": "STUDENT COMMONS",
+      "center_mm": [
+        6276.858638743455,
+        22713.717277486907,
+        0
+      ],
+      "source": "A-101"
+    },
+    {
+      "floor": "GROUND",
+      "number": "101",
+      "name": "CAFE",
+      "center_mm": [
+        14521.884816753927,
+        17500.732984293194,
+        0
+      ],
+      "source": "A-101"
+    },
+    {
+      "floor": "GROUND",
+      "number": "103",
+      "name": "RECEPTION",
+      "center_mm": [
+        14149.528795811517,
+        7074.764397905758,
+        0
+      ],
+      "source": "A-101"
+    },
+    {
+      "floor": "GROUND",
+      "number": "104",
+      "name": "ADMISSIONS OFFICE",
+      "center_mm": [
+        14149.528795811517,
+        2659.6858638743456,
+        0
+      ],
+      "source": "A-101"
+    },
+    {
+      "floor": "GROUND",
+      "number": "105",
+      "name": "CRI GALLERY",
+      "center_mm": [
+        6755.602094240838,
+        2978.848167539267,
+        0
+      ],
+      "source": "A-101"
+    },
+    {
+      "floor": "GROUND",
+      "number": "100",
+      "name": "ENTRY VESTIBULE",
+      "center_mm": [
+        17713.50785340314,
+        12074.973821989528,
+        0
+      ],
+      "source": "A-101"
+    }
+  ],
+  "validation": {
+    "overlaps": [],
+    "unsupported": [],
+    "parts": 662,
+    "physical_build_tested": false
+  },
+  "sources": [
+    "https://www.ldraw.org/article/218.html",
+    "https://library.ldraw.org/library/official/parts/3004.dat",
+    "https://library.ldraw.org/library/official/parts/3811.dat"
+  ]
+}

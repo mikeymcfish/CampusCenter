@@ -1,0 +1,14 @@
+[
+  {
+    "interface": "ground to upper",
+    "penetration_mm": 0.0,
+    "contact_mm2": 2102.1875,
+    "upper_centroid_within_support_hull": true
+  },
+  {
+    "interface": "upper to roof",
+    "penetration_mm": 0.0,
+    "contact_mm2": 1475.875,
+    "upper_centroid_within_support_hull": true
+  }
+]

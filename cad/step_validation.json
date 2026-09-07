@@ -1,0 +1,10 @@
+{
+  "cad_kernel": "OpenCascade via OCP 7.9.3",
+  "step_file": "Campus_Center_3D_v4.step",
+  "reopened_solids": 2041,
+  "all_solids_valid": true,
+  "volume_preserved": true,
+  "sum_part_volume_m3": 2330.4444800789047,
+  "units": "mm",
+  "note": "Separate solids may touch or overlap at architectural joins; this is not one fused printing solid."
+}

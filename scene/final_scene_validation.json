@@ -1,0 +1,12 @@
+{
+  "camera_frames": 5517,
+  "duration_seconds": 229.875,
+  "max_speed_m_s": 0.954726645967277,
+  "max_yaw_rate_deg_s": 68.7549354156988,
+  "roll": "World-up reconstruction; no camera banking",
+  "students": 112,
+  "removed_for_fixture_view": [],
+  "camera_constraints": [],
+  "texture_nodes": 0,
+  "linked_libraries": 0
+}

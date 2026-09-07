@@ -1,0 +1,9 @@
+{
+  "parts": 157,
+  "sheets": 2,
+  "errors": [],
+  "wall_aabb_collisions": [],
+  "floor_solid_clashes": [],
+  "all_number_labels_are_vector_lines": true,
+  "units": "mm"
+}

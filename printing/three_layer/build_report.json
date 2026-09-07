@@ -1,0 +1,32 @@
+{
+  "scale": "1:350",
+  "assembly_z_mm": {
+    "Ground": 0,
+    "Upper": 12.192,
+    "Roof": 23.077714285714286
+  },
+  "roof_seat_above_upper_base_mm": 10.885714285714286,
+  "roof_contact_area_mm2": 1475.875,
+  "upper_updated_to_fit_roof": true,
+  "athletics_low_roof_integrated_in_upper": true,
+  "roof_bottom_flat_for_support_free_print": true,
+  "skylight": "Raised solid interpretation from existing Blender corridor 207 detail",
+  "meshes": {
+    "Upper": {
+      "dimensions_mm": [
+        192.5,
+        140.5,
+        13.82800006866455
+      ],
+      "triangles": 670768
+    },
+    "Roof": {
+      "dimensions_mm": [
+        177.75,
+        135.25,
+        6.847714424133301
+      ],
+      "triangles": 1049848
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "scale_denominator": 200.0,
+  "stock_thickness_mm": 3.175,
+  "assumed_kerf_mm": 0.15,
+  "joint_clearance_mm": 0.05,
+  "sheet_mm": [
+    609.6,
+    304.8
+  ],
+  "edge_margin_mm": 8.0,
+  "part_gap_mm": 3.0
+}

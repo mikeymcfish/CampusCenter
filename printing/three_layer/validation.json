@@ -1,0 +1,35 @@
+[
+  {
+    "level": "Ground",
+    "components": 1,
+    "nonmanifold_edges": 0,
+    "volume_mm3": 54235.84039171477,
+    "dimensions_mm": [
+      185.75,
+      140.5,
+      13.392000198364258
+    ]
+  },
+  {
+    "level": "Upper",
+    "components": 1,
+    "nonmanifold_edges": 0,
+    "volume_mm3": 32780.56881690092,
+    "dimensions_mm": [
+      192.5,
+      140.5,
+      13.82800006866455
+    ]
+  },
+  {
+    "level": "Roof",
+    "components": 1,
+    "nonmanifold_edges": 0,
+    "volume_mm3": 49922.11983312618,
+    "dimensions_mm": [
+      177.75,
+      135.25,
+      6.847714424133301
+    ]
+  }
+]

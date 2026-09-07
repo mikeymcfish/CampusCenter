@@ -1,0 +1,158 @@
+﻿ID,Sheet,Kind,Floor,Name,Width_mm,Height_mm
+1,1,FLOOR,GROUND,GROUND floor plate,329.579,247.253
+2,2,FLOOR,UPPER,UPPER floor plate,338.519,176.379
+3,2,WALL,GROUND,Lab_south panel,57.715,21.336
+4,1,WALL,GROUND,Gallery_south_lintel0 panel,5.053,21.336
+5,2,WALL,GROUND,Gallery_south_head1 panel,71.28,21.336
+6,1,WALL,GROUND,Admissions_north_end panel,22.341,21.336
+7,2,WALL,GROUND,Classrooms_south panel,53.726,21.336
+8,1,WALL,GROUND,Store109_south_end panel,16.224,21.336
+9,2,WALL,GROUND,West_south_envelope_end panel,60.375,21.336
+10,1,WALL,GROUND,West_entry_storefront_head0 panel,8.245,21.336
+11,1,WALL,GROUND,West_entry_storefront_lintel1 panel,8.245,21.336
+12,2,WALL,GROUND,West_entry_storefront_lintel3 panel,9.043,21.336
+13,1,WALL,GROUND,West_entry_storefront_head4 panel,4.255,21.336
+14,1,WALL,GROUND,Vestibule_south_head0 panel,11.171,21.336
+15,2,WALL,GROUND,Office111_south_end panel,74.205,21.336
+16,1,WALL,GROUND,Store_to_mechanical_end panel,25.267,21.336
+17,1,WALL,GROUND,Lift_B_s panel,12.766,21.336
+18,1,WALL,GROUND,Lift_B_n_end panel,12.766,21.336
+19,2,WALL,GROUND,StairB_north panel,74.471,21.336
+20,2,WALL,GROUND,Office111_north panel,16.756,21.336
+21,1,WALL,GROUND,Janitor_north_lintel0 panel,4.787,21.336
+22,2,WALL,GROUND,Restrooms_north panel,35.108,21.336
+23,1,WALL,GROUND,Vestibule_north_head0 panel,11.171,21.336
+24,1,WALL,GROUND,Locker121_south_end panel,76.067,21.336
+25,1,WALL,GROUND,Gym_south panel,129.527,21.336
+26,1,WALL,GROUND,Locker_divider_end panel,76.067,21.336
+27,1,WALL,GROUND,Locker122_north_end panel,76.067,21.336
+28,1,WALL,GROUND,Commons_north_head0 panel,80.057,21.336
+29,1,WALL,GROUND,Athletics_south panel,54.258,21.336
+30,1,WALL,GROUND,Athletics_south_lintel2 panel,13.564,21.336
+31,1,WALL,GROUND,Trainer_storage_divider_end panel,14.096,21.336
+32,2,WALL,GROUND,Offices_divider_end panel,28.459,21.336
+33,2,WALL,GROUND,Athletics_north_sill0 panel,66.226,21.336
+34,1,WALL,GROUND,North_corridor_entry_lintel0 panel,26.331,21.336
+35,2,WALL,GROUND,Gym_north panel,127.665,46.61
+36,1,WALL,GROUND,West_locker_and_service_envelope_end panel,14.279,21.336
+37,1,WALL,GROUND,West_locker_and_service_envelope_end panel,22.79,21.336
+38,2,WALL,GROUND,West_locker_and_service_envelope_end panel,28.907,21.336
+39,2,WALL,GROUND,West_locker_and_service_envelope_end panel,29.971,21.336
+40,2,WALL,GROUND,Athletics_west_lintel0 panel,9.226,21.336
+41,2,WALL,GROUND,Athletics_west_lintel0 panel,37.46,21.336
+42,1,WALL,GROUND,Locker121_wet_partition_end panel,28.907,21.336
+43,2,WALL,GROUND,Locker121_wet_partition_end panel,29.971,21.336
+44,1,WALL,GROUND,Athletic_store_east_end panel,10.023,21.336
+45,1,WALL,GROUND,Athletic_store_east_end panel,9.491,21.336
+46,1,WALL,GROUND,Janitor_east_end panel,14.279,21.336
+47,1,WALL,GROUND,Janitor_east_end panel,10.023,21.336
+48,1,WALL,GROUND,Trainer_office panel,12.949,21.336
+49,2,WALL,GROUND,Trainer_office panel,19.598,21.336
+50,1,WALL,GROUND,Athletics_centre_end panel,12.949,21.336
+51,2,WALL,GROUND,Athletics_centre_end panel,16.673,21.336
+52,1,WALL,GROUND,Restroom_divider_end panel,27.577,21.336
+53,2,WALL,GROUND,Office124_126_end panel,15.875,21.336
+54,1,WALL,GROUND,Restrooms_east_end panel,15.875,21.336
+55,2,WALL,GROUND,Restrooms_east_end panel,6.3,21.336
+56,2,WALL,GROUND,Athletics_east_end panel,15.875,21.336
+57,1,WALL,GROUND,Athletics_east_end panel,16.673,21.336
+58,1,WALL,GROUND,Corridor_stair_boundary_lintel1 panel,27.311,21.336
+59,1,WALL,GROUND,Corridor_stair_boundary_lintel1 panel,9.757,21.336
+60,1,WALL,GROUND,Corridor_stair_boundary_lintel1 panel,28.907,21.336
+61,2,WALL,GROUND,Corridor_stair_boundary_lintel1 panel,29.971,21.336
+62,1,WALL,GROUND,Classroom_strip_west_end panel,3.108,21.336
+63,1,WALL,GROUND,Classroom_strip_west_end panel,27.311,21.336
+64,2,WALL,GROUND,Gym_west_end panel,150.987,46.61
+65,2,WALL,GROUND,Folding_partition_113_112_end panel,33.695,21.336
+66,2,WALL,GROUND,Office111_west_end panel,14.811,21.336
+67,2,WALL,GROUND,Office111_west_end panel,15.077,21.336
+68,2,WALL,GROUND,Lab_west_end panel,29.173,21.336
+69,1,WALL,GROUND,Lab_west_end panel,14.321,21.336
+70,2,WALL,GROUND,Office111_east_end panel,15.077,21.336
+71,2,WALL,GROUND,Gym_east panel,150.987,46.61
+72,2,WALL,GROUND,Lab_east_lintel0 panel,47.259,21.336
+73,2,WALL,GROUND,Admissions_west_end panel,18.268,21.336
+74,1,WALL,GROUND,Reception_return_end panel,11.661,21.336
+75,1,WALL,GROUND,Reception_admissions_east_head0 panel,18.842,21.336
+76,2,WALL,GROUND,Reception_admissions_east_head0 panel,20.928,21.336
+77,1,WALL,GROUND,Vestibule_internal_end panel,21.726,21.336
+78,1,WALL,GROUND,Commons_east_head0 panel,78.643,21.336
+79,1,WALL,GROUND,Vestibule_external_end panel,21.726,21.336
+80,2,WALL,UPPER,Offices_upper_south panel,58.349,25.146
+81,2,WALL,UPPER,Gallery_upper_south_head0 panel,58.615,25.146
+82,1,WALL,UPPER,Admin_south_end panel,18.384,25.146
+83,1,WALL,UPPER,Shaft_south_end panel,10.657,25.146
+84,2,WALL,UPPER,Classrooms_upper_south_sill0 panel,70.072,25.146
+85,2,WALL,UPPER,West_upper_south panel,59.948,25.146
+86,1,WALL,UPPER,Upper_entry_storefront_head0 panel,13.055,25.146
+87,2,WALL,UPPER,Upper_entry_storefront_head1 panel,17.318,25.146
+88,1,WALL,UPPER,IT205_south_end panel,10.657,25.146
+89,2,WALL,UPPER,IT_Admin_north panel,28.508,25.146
+90,1,WALL,UPPER,IT_Admin_north_lintel1 panel,18.917,25.146
+91,2,WALL,UPPER,Toilet211_divider_end panel,30.64,25.146
+92,1,WALL,UPPER,LiftB_upper_s panel,13.588,25.146
+93,1,WALL,UPPER,LiftB_upper_n panel,13.588,25.146
+94,1,WALL,UPPER,Toilet216_divider_end panel,13.588,25.146
+95,2,WALL,UPPER,StairB_upper_north panel,20.249,25.146
+96,2,WALL,UPPER,Collab219_north panel,45.56,25.146
+97,2,WALL,UPPER,Upper_classrooms_north panel,71.937,25.146
+98,1,WALL,UPPER,Toilet213_divider_end panel,13.588,25.146
+99,2,WALL,UPPER,Service214_south panel,39.166,25.146
+100,2,WALL,UPPER,Gym_south panel,124.39,25.146
+101,2,WALL,UPPER,Fitness_south panel,97.7,25.146
+102,2,WALL,UPPER,Fitness_north panel,97.7,25.146
+103,2,WALL,UPPER,Upper_commons_north_head0 panel,58.615,25.146
+104,1,WALL,UPPER,Toilets_west_end panel,11.645,25.146
+105,1,WALL,UPPER,Toilets_west_end panel,11.379,25.146
+106,1,WALL,UPPER,Toilets_west_end panel,7.915,25.146
+107,1,WALL,UPPER,Toilets_west_end panel,11.912,25.146
+108,2,WALL,UPPER,Toilets_west_end panel,50.278,25.146
+109,1,WALL,UPPER,Collab219_west_end panel,11.379,25.146
+110,2,WALL,UPPER,Toilet216_east_lintel0 panel,7.116,25.146
+111,1,WALL,UPPER,Toilet213_east_lintel0 panel,11.912,25.146
+112,1,WALL,UPPER,Toilet212_east_end panel,11.645,25.146
+113,1,WALL,UPPER,Service214_west_end panel,10.313,25.146
+114,1,WALL,UPPER,Service214_east_end panel,10.313,25.146
+115,2,WALL,UPPER,Collab219_east_end panel,27.098,25.146
+116,2,WALL,UPPER,StairB_upper_west_end panel,14.842,25.146
+117,2,WALL,UPPER,StairB_upper_west_end panel,6.583,25.146
+118,2,WALL,UPPER,Storage215_east_end panel,10.313,25.146
+119,2,WALL,UPPER,Class210_west_end panel,33.532,25.146
+120,2,WALL,UPPER,Class210_209_end panel,32.427,25.146
+121,2,WALL,UPPER,Class209_208_end panel,32.427,25.146
+122,2,WALL,UPPER,Class208_east_end panel,29.763,25.146
+123,2,WALL,UPPER,Class208_east_end panel,32.427,25.146
+124,2,WALL,UPPER,IT205_west_end panel,5.784,25.146
+125,2,WALL,UPPER,IT205_west_end panel,7.382,25.146
+126,1,WALL,UPPER,Admin_west_end panel,24.701,25.146
+127,1,WALL,UPPER,Admin_west_end panel,5.784,25.146
+128,2,WALL,UPPER,Admin_west_end panel,7.382,25.146
+129,2,WALL,UPPER,Admin_east_lintel0 panel,19.372,25.146
+130,2,WALL,UPPER,Head_school_east_end panel,43.884,25.146
+131,2,WALL,UPPER,Gallery_upper_east_head0 panel,48.718,25.146
+132,2,WALL,UPPER,Terrace_access panel,12.256,25.146
+133,2,WALL,UPPER,Upper_commons_east_head0 panel,85.486,25.146
+134,1,STAIR,GROUND,North_flight lamination 1/2,24.245,20.574
+135,1,STAIR,GROUND,North_flight lamination 2/2,24.245,23.749
+136,1,STAIR,GROUND,North_grade_landing lamination 1/2,7.46,7.62
+137,1,STAIR,GROUND,North_grade_landing lamination 2/2,7.46,10.795
+138,1,STAIR,GROUND,South_lower lamination 1/2,15.187,10.668
+139,1,STAIR,GROUND,South_lower lamination 2/2,15.187,13.843
+140,1,STAIR,GROUND,South_mid_landing lamination 1/2,6.661,10.668
+141,2,STAIR,GROUND,South_mid_landing lamination 2/2,6.661,13.843
+142,1,STAIR,GROUND,South_upper lamination 1/2,16.785,20.574
+143,2,STAIR,GROUND,South_upper lamination 2/2,16.785,23.749
+144,1,STAIR,GROUND,Stair_A_half_landing lamination 1/2,17.318,10.668
+145,1,STAIR,GROUND,Stair_A_half_landing lamination 2/2,17.318,13.843
+146,1,STAIR,GROUND,Stair_A_lower lamination 1/2,21.848,10.668
+147,1,STAIR,GROUND,Stair_A_lower lamination 2/2,21.848,13.843
+148,1,STAIR,GROUND,Stair_A_upper lamination 1/2,21.848,21.336
+149,1,STAIR,GROUND,Stair_A_upper lamination 2/2,21.848,24.511
+150,1,STAIR,GROUND,Stair_B_landing lamination 1/2,17.851,10.668
+151,1,STAIR,GROUND,Stair_B_landing lamination 2/2,17.851,13.843
+152,1,STAIR,GROUND,Stair_B_lower lamination 1/2,19.716,10.668
+153,1,STAIR,GROUND,Stair_B_lower lamination 2/2,19.716,13.843
+154,2,STAIR,GROUND,Stair_B_upper lamination 1/2,19.716,18.161
+155,2,STAIR,GROUND,Stair_B_upper lamination 2/2,19.716,21.336
+156,2,COUPON,TEST,Fit coupon - uncorrected trial slots,115.0,35.0
+157,2,COUPON,TEST,Fit coupon insert tongue,10.0,25.0

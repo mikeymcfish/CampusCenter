@@ -1,0 +1,730 @@
+{
+  "destination": "P:\\_code\\CampusCenter",
+  "files": 144,
+  "bytes": 487644298,
+  "all_copies_verified": true,
+  "git_commit_created": false,
+  "git_push_performed": false,
+  "files_manifest": [
+    {
+      "path": ".gitattributes",
+      "bytes": 371,
+      "sha256": "aa264969f13865ecb64bab81aa524da3fca9e735d0e8088c171a161abe0424e7"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 72,
+      "sha256": "eb53cfddc3004b6c827a806e83c08a7deb144371b4a8ac818504d7911fb9713a"
+    },
+    {
+      "path": "ASSET_MANIFEST.json",
+      "bytes": 40382,
+      "sha256": "59e3c9fec7819e8dde6b83c4e667ed16a8a93b5f794d827c8aad1b7b5af06763"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4950,
+      "sha256": "f469683c6b11d41b4e127d218ace4bd2d31a01a3f49f4474e95670eb6da4594d"
+    },
+    {
+      "path": "THIRD_PARTY_SOURCES.md",
+      "bytes": 2056,
+      "sha256": "63158e97a21c71b205294e4b42454f90f67ecf477c1e94e4c84e8d770a713263"
+    },
+    {
+      "path": "cad/Campus_Center_Structure.step",
+      "bytes": 37737368,
+      "sha256": "20016e068e2722590bc6f4da5e737b4acf59a68a02ecc9e069b4ea85454994c7"
+    },
+    {
+      "path": "cad/door_schedule.csv",
+      "bytes": 9210,
+      "sha256": "dacc951919b877d511638346896a42e135e8f7402bfaaceb9072215860db8e9b"
+    },
+    {
+      "path": "cad/door_schedule.json",
+      "bytes": 55285,
+      "sha256": "b72e4e58630cf0e559004d78ba3cb4cad4eab38558e4e10ec3810b4820fe41b2"
+    },
+    {
+      "path": "cad/room_schedule.csv",
+      "bytes": 1593,
+      "sha256": "6e4271a29fd09addc4dc7cc9028b40b50106c72f2ef45e1ebd9671a466a5cc7a"
+    },
+    {
+      "path": "cad/room_schedule.json",
+      "bytes": 10093,
+      "sha256": "6b49ad8a2be30f2ab218d16a46a3f688ea05e793809f85c9c00a0639ae5c75c1"
+    },
+    {
+      "path": "cad/step_validation.json",
+      "bytes": 355,
+      "sha256": "f5239a87934d5bf9d4a2c6a72203467c722de8d2c78f532739f8ce84d7091bbc"
+    },
+    {
+      "path": "cad/structural_geometry.json",
+      "bytes": 1356975,
+      "sha256": "b13b2b709f4652cf8c778ebf0dc8b711a7492c6c16a3c012db07654759a409cd"
+    },
+    {
+      "path": "equipment/asset_inventory.json",
+      "bytes": 12669,
+      "sha256": "a3594a073e35378137f3a4e1bd105d2deee15d91efd142d916cd0adf1a1ebc91"
+    },
+    {
+      "path": "equipment/Current_iLab_Equipment.blend",
+      "bytes": 10062170,
+      "sha256": "7e995855e273f23e46273c7315d39a8e6d93766d175cedd1d122a10d02f298fe"
+    },
+    {
+      "path": "laser/assembled_preview.png",
+      "bytes": 1607004,
+      "sha256": "dfe70ad5804cd1c90d765ea4e7235ae036e251385522fc839b26444239041e24"
+    },
+    {
+      "path": "laser/audit.json",
+      "bytes": 179,
+      "sha256": "e44dfc272cb081d6b7861570f3a3fb1a1a3e0f304d55328faf85cb4995b2d8cf"
+    },
+    {
+      "path": "laser/Campus_Center_Laser_Assembly.blend",
+      "bytes": 354155,
+      "sha256": "a72a0f53c0a17cf572bab60111d4e8342fe0cd70b8e1383c572144c659f5df37"
+    },
+    {
+      "path": "laser/Campus_Center_Laser_Assembly_Guide.pdf",
+      "bytes": 3121696,
+      "sha256": "c7c63f0e11af5cac36953dd7d68e0d87789943a56b55e55f581d44381523771a"
+    },
+    {
+      "path": "laser/config.json",
+      "bytes": 220,
+      "sha256": "bb2c93032b1064f7e2b31c51e8c49069078553d15e656999b31eac36860c92e0"
+    },
+    {
+      "path": "laser/exploded_preview.png",
+      "bytes": 1669695,
+      "sha256": "1e4f2631d738817b7b066429c7b118746d6a576fdae10a1327fa2e483e449567"
+    },
+    {
+      "path": "laser/ground_preview.png",
+      "bytes": 1546316,
+      "sha256": "419a5044d4519a2c7e922eafbee229132ee28e6ec70b11b271420abeac5ecef5"
+    },
+    {
+      "path": "laser/parts_list.csv",
+      "bytes": 9314,
+      "sha256": "bf373edcbd7ff496e5347e17c806ec939a21d38dca882ee935617a87017c3994"
+    },
+    {
+      "path": "laser/parts_manifest.json",
+      "bytes": 1243846,
+      "sha256": "01256690f3eb25328f6929a96e0689a4e4adfb4aafbff6f069027331359a76b8"
+    },
+    {
+      "path": "laser/README.md",
+      "bytes": 2469,
+      "sha256": "83025f2e11bdc62b7a3eb114669e7480aaa2473731fbfc83f4294f1f74e5ee01"
+    },
+    {
+      "path": "laser/Sheet_01_12x24.dxf",
+      "bytes": 506603,
+      "sha256": "1604fd24dd59b3fffe668eb4e31d5b875318b069d49fd2d3889dea4df9c274f9"
+    },
+    {
+      "path": "laser/Sheet_01_12x24.svg",
+      "bytes": 146671,
+      "sha256": "48bc6eb2705ebe50ede3450652ea211ab7a3a38cc236abe0e4d548ef84c75b49"
+    },
+    {
+      "path": "laser/Sheet_02_12x24.dxf",
+      "bytes": 430593,
+      "sha256": "8a1bdd0359cc84a8776438454443e468c4c3559f9b4574289da1b755c4051f02"
+    },
+    {
+      "path": "laser/Sheet_02_12x24.svg",
+      "bytes": 124440,
+      "sha256": "e7fec2d55370e77e00283997a8cae10ef694395dbc5f8e00033d16310a2ba2a2"
+    },
+    {
+      "path": "laser/Test_Fit_Coupon.dxf",
+      "bytes": 33785,
+      "sha256": "932b1c15e998ed2f391fe0b96da7ae238c56ae4d1379186cc14ec33b2f91ef31"
+    },
+    {
+      "path": "laser/Test_Fit_Coupon.svg",
+      "bytes": 6055,
+      "sha256": "1df4da501a2aafe196f7dbab35a440d63673c09d37a71d12ec5e5084da76a57f"
+    },
+    {
+      "path": "laser/upper_preview.png",
+      "bytes": 1411111,
+      "sha256": "85b41515b420e672aa8f337c772a337e09d2d6c1acd4947dd9c81cef33849bec"
+    },
+    {
+      "path": "lego/brick_placements.csv",
+      "bytes": 22428,
+      "sha256": "6444dfb3489f11a835f271026c9b91b2408b7c2ad6ed3fd628143ff31d064e00"
+    },
+    {
+      "path": "lego/Campus_Center_Ground_Floor.ldr",
+      "bytes": 33301,
+      "sha256": "3c9b3bf8934ebad9045431661ea4b32493dbe16d38f7d44fb72e0c1e4fcae411"
+    },
+    {
+      "path": "lego/Campus_Center_LEGO_Build_Guide.pdf",
+      "bytes": 2012115,
+      "sha256": "dc48acd53b4f37fd9a473b95a569bf72a7f04292939ec647cde1c2f779bd4145"
+    },
+    {
+      "path": "lego/LEGO_Assembly_Preview.blend",
+      "bytes": 2543462,
+      "sha256": "d84f970a2ab03ef4724140204bf54b13a86af3c079c66ded8ed14debbf9fd912"
+    },
+    {
+      "path": "lego/lego_model.json",
+      "bytes": 138475,
+      "sha256": "77baad4558858c2c1746fbe7a5ed338dbd46534a91555b7b1d40c2145c17bb10"
+    },
+    {
+      "path": "lego/LEGO_preview.png",
+      "bytes": 1821215,
+      "sha256": "db0e1ad56537355428d3a6323e1c201f1b79d62e371b12e43eb534ec3d0a0cf5"
+    },
+    {
+      "path": "lego/parts_list.csv",
+      "bytes": 243,
+      "sha256": "5b4106706d771cde2789ca1b04890b33a8cd95e182dd137ce26d25625691c313"
+    },
+    {
+      "path": "lego/README.md",
+      "bytes": 1189,
+      "sha256": "de137aa0307f234f98f2362bbfc73f9ce77b8b6a49a69e52054bbda2fd3a8e43"
+    },
+    {
+      "path": "scene/Campus_Center_Current.blend",
+      "bytes": 13084535,
+      "sha256": "899990939f7e1b3ee68e22a5d3bc5198ed52da12b6cf60ab3e3324249c6e6d0d"
+    },
+    {
+      "path": "scene/Campus_Center_Current.glb",
+      "bytes": 27144192,
+      "sha256": "23d8a9387df9d10e439ac4bd8071a230bd25d89045ebb526b73bb4dc78ea2d78"
+    },
+    {
+      "path": "scene/final_scene_validation.json",
+      "bytes": 333,
+      "sha256": "fe815b8e048d9abddd4eaf2d603e5f29ba1a610b2ce2e0e085f143bc3b366db1"
+    },
+    {
+      "path": "scene/reopen_validation.json",
+      "bytes": 352,
+      "sha256": "7a5150d91f29c2e13594511195881b21ff4fe0bea83cf44f1ad01496e484d2c4"
+    },
+    {
+      "path": "scene/route_collision_review.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "scene/walkthrough_route.json",
+      "bytes": 1837620,
+      "sha256": "bcac3150182afede4fc5381f4713ca4ab0998863a8641572fe8806620f1cbe99"
+    },
+    {
+      "path": "tools/build_lego_v14.py",
+      "bytes": 7927,
+      "sha256": "f33705289298c76ab2584303a337b0520d1f1c25dc1bfb9a99226b2af4e7bcc0"
+    },
+    {
+      "path": "tools/guide_lego_v14.py",
+      "bytes": 11577,
+      "sha256": "1b5c53849d22f53bd3527248d27705667eddd56447f755c6a1d4b4b16240f263"
+    },
+    {
+      "path": "tools/render_lego_v14.py",
+      "bytes": 2519,
+      "sha256": "1813e47f6b69626e3a7095c3c4d80a8cc9b4d39703277d98641f67e66144011b"
+    },
+    {
+      "path": "tools/requirements.txt",
+      "bytes": 11,
+      "sha256": "33aa3730f3e4793a20c9a397cfd73df20e0851e8094437bfc3b0fce323dfd6c7"
+    },
+    {
+      "path": "equipment/licenses/Kenney_CC0.txt",
+      "bytes": 614,
+      "sha256": "bc0de1a0742cb490f9ed4bae0bd284286ebb27e23149b9917c7d8c0d590b8b29"
+    },
+    {
+      "path": "equipment/source_cad/FORM 3+ - SPACE PLANNING MODEL.STEP",
+      "bytes": 858189,
+      "sha256": "e61f67dbd8e21b50ba07274bc4ddcfcf0e57a46318840707f59972e8b9cfa312"
+    },
+    {
+      "path": "equipment/source_cad/FORM 4 - SPACE PLANNING MODEL.step",
+      "bytes": 40992236,
+      "sha256": "6272a78c3f346fe2935170261e37932fdc1853bf47e257c3286c4197e787efde"
+    },
+    {
+      "path": "equipment/source_cad/FORM CURE V1- SPACE PLANNING MODEL.STEP",
+      "bytes": 366019,
+      "sha256": "8699e9fa1711944098ae505e59c589a0b98528f9d987626e5b49b03eb1fd5252"
+    },
+    {
+      "path": "equipment/source_cad/FORM WASH V1- SPACE PLANNING MODEL.STEP",
+      "bytes": 615826,
+      "sha256": "28e7124ba01280a74a87ee99648dd5e9fa2cf122cca73b633bb2e73a3987185a"
+    },
+    {
+      "path": "equipment/source_cad/OLSK Vinyl Cutter V3.step",
+      "bytes": 64298191,
+      "sha256": "9b4a5e36a396e4c2d422b7c2be8e1eb997fb8a896f9ef0031c03f4ce23d1ad16"
+    },
+    {
+      "path": "equipment/source_cad/OLSK_LICENSE_CC_BY_SA_4.0.txt",
+      "bytes": 20138,
+      "sha256": "3b2890eacd851373001c4a14623458e3adaf1b1967939aa9c38a318e28d61c00"
+    },
+    {
+      "path": "equipment/source_cad/OLSK_LICENSE_CERN_OHL_W_V2.txt",
+      "bytes": 14540,
+      "sha256": "9682f98d4fe43f33e618a14da9b324f7b4c170fdc811ea261041898e4e0744ce"
+    },
+    {
+      "path": "equipment/source_cad/source.txt",
+      "bytes": 209,
+      "sha256": "735b861041ec67c68ac084e931b5a539d02f560ed854abb6da417e0eede2bffe"
+    },
+    {
+      "path": "laser/editable_source/audit_laser_v13.py",
+      "bytes": 2527,
+      "sha256": "60b21be9cbf2b1943491cdd3dc668ca57cfcfc25750af9ab143f47fbd67739ff"
+    },
+    {
+      "path": "laser/editable_source/build_laser_v13.py",
+      "bytes": 18460,
+      "sha256": "f3c2905e1d7f498cac75421b54b072c02076900c8b9d92ae92c46acd0773168e"
+    },
+    {
+      "path": "laser/editable_source/create_laser_guide_v13.py",
+      "bytes": 16358,
+      "sha256": "291ce4163d9955859381c7682de5650b8aa55c0752e092b62a720d495716136c"
+    },
+    {
+      "path": "laser/editable_source/finish_laser_v13.py",
+      "bytes": 2292,
+      "sha256": "f1f040a166bf2f3f4f4a190d02a1e2fdde2c2e38af138dc2e11a93a0efcad622"
+    },
+    {
+      "path": "laser/editable_source/README.md",
+      "bytes": 1398,
+      "sha256": "2f038098c11236f1d33c447adb4dcb581e09746b43068b61f6bebc2da493bc46"
+    },
+    {
+      "path": "laser/editable_source/requirements.txt",
+      "bytes": 39,
+      "sha256": "af7b7538a5c5fba7e9e563ae30036bc726901d3f9f64141c0793f4e5fc009dec"
+    },
+    {
+      "path": "laser/editable_source/output_3d_v4/model_geometry.json",
+      "bytes": 1356975,
+      "sha256": "b13b2b709f4652cf8c778ebf0dc8b711a7492c6c16a3c012db07654759a409cd"
+    },
+    {
+      "path": "laser/editable_source/output_v10_stack_print/validation.json",
+      "bytes": 16872,
+      "sha256": "5f5cd81272c7681044f80dd3d937c47a2dcfdd1cec03b592b2f8fe4fcbfae2a9"
+    },
+    {
+      "path": "laser/editable_source/output_v13_laser/assembled_preview.png",
+      "bytes": 1607004,
+      "sha256": "dfe70ad5804cd1c90d765ea4e7235ae036e251385522fc839b26444239041e24"
+    },
+    {
+      "path": "laser/editable_source/output_v13_laser/config.json",
+      "bytes": 220,
+      "sha256": "bb2c93032b1064f7e2b31c51e8c49069078553d15e656999b31eac36860c92e0"
+    },
+    {
+      "path": "laser/editable_source/output_v13_laser/exploded_preview.png",
+      "bytes": 1669695,
+      "sha256": "1e4f2631d738817b7b066429c7b118746d6a576fdae10a1327fa2e483e449567"
+    },
+    {
+      "path": "laser/editable_source/output_v13_laser/ground_preview.png",
+      "bytes": 1546316,
+      "sha256": "419a5044d4519a2c7e922eafbee229132ee28e6ec70b11b271420abeac5ecef5"
+    },
+    {
+      "path": "laser/editable_source/output_v13_laser/upper_preview.png",
+      "bytes": 1411111,
+      "sha256": "85b41515b420e672aa8f337c772a337e09d2d6c1acd4947dd9c81cef33849bec"
+    },
+    {
+      "path": "printing/keychain/Black_structure.stl",
+      "bytes": 373284,
+      "sha256": "8da4ee3b0c3333470605d9b8d0f36d1389b8192d84d49f863a0285605bc5c718"
+    },
+    {
+      "path": "printing/keychain/Campus_Center_Two_Color.3mf",
+      "bytes": 91525,
+      "sha256": "9566a3942c6d15dc7b20f17a2a4d69b1ecc4571ebf1dd75437a1c9e62a18429e"
+    },
+    {
+      "path": "printing/keychain/Campus_Center_Two_Color.blend",
+      "bytes": 282020,
+      "sha256": "abd88fa514a3da41b06c8a462036e375b66145a97b060ddff83f9022dd9579d9"
+    },
+    {
+      "path": "printing/keychain/README.md",
+      "bytes": 945,
+      "sha256": "a087be209c1865e70f4cf0ae918054df81f56b014dc7dc69cabd1e3e45b945a6"
+    },
+    {
+      "path": "printing/keychain/reopened_mesh_validation.json",
+      "bytes": 156,
+      "sha256": "53c8c31c4eb6b289170e5be2b2552383a42ee259a58f2f07f4d05e9f39bdeb1e"
+    },
+    {
+      "path": "printing/keychain/Two_color_preview.png",
+      "bytes": 818226,
+      "sha256": "905de933ee6e330bf0074caa0b670ed0d034d725a70b9439154e6ee3c3283037"
+    },
+    {
+      "path": "printing/keychain/Two_color_rear.png",
+      "bytes": 857434,
+      "sha256": "8d637918aff86fca30ddf411acaeed9ee4d3245ad982a2a6a7d171b6a8af599e"
+    },
+    {
+      "path": "printing/keychain/validation.json",
+      "bytes": 1603,
+      "sha256": "bc83d185b39735ce346dcdb6232a252b5354edcb72785323852de907a4457549"
+    },
+    {
+      "path": "printing/keychain/White_glazing.stl",
+      "bytes": 140784,
+      "sha256": "0e8c5d2d3d32a0b090c8c44de63f60b6b9ded72715c14cbca440f057e2da16d9"
+    },
+    {
+      "path": "printing/three_layer/assembly_fit_validation.json",
+      "bytes": 310,
+      "sha256": "e204e2bdff25ae19f904df77b5ad8a652caf3f8128e805bfbef5ba91c3a71867"
+    },
+    {
+      "path": "printing/three_layer/build_report.json",
+      "bytes": 761,
+      "sha256": "a2a0271e1d0f6b8426f04cbe7c9a6fedfd0a366fd34858c76c5344a4328059bc"
+    },
+    {
+      "path": "printing/three_layer/Campus_Center_Ground_v12.stl",
+      "bytes": 62549484,
+      "sha256": "f51309d579527ddffd2dbfe4d832b2f1a3c59c3079c1a6d3e1494bdcf1125ab4"
+    },
+    {
+      "path": "printing/three_layer/Campus_Center_Roof_v12.stl",
+      "bytes": 52492484,
+      "sha256": "993f67064673faf4cfa0ccc51bcedb55f8485681d89f03a63feafd912632c453"
+    },
+    {
+      "path": "printing/three_layer/Campus_Center_Three_Layer_Assembly.blend",
+      "bytes": 58204695,
+      "sha256": "4e02e3f86471b9fdf28fd80baa048ece6fa1d7ab7bbf5b933e0838bff0dbd5d1"
+    },
+    {
+      "path": "printing/three_layer/Campus_Center_Upper_v12.stl",
+      "bytes": 33538484,
+      "sha256": "6c120c450eadad02e15fd7a7eaa065c7b19cc563ee413f9bf4c8e2aa5c6509c9"
+    },
+    {
+      "path": "printing/three_layer/Exploded_preview.png",
+      "bytes": 931753,
+      "sha256": "210a9746a7225f285c4d920b3dbfb2f981d3644df6e03ffab086098a909a7587"
+    },
+    {
+      "path": "printing/three_layer/README.md",
+      "bytes": 2105,
+      "sha256": "f72ec31296eb8e96a8b807574be4429283865e5d98a3a44af0489f1137b958da"
+    },
+    {
+      "path": "printing/three_layer/Roof_preview.png",
+      "bytes": 781154,
+      "sha256": "c5ae7991af4faac01a15f3cf695edf9f18e7d50313adc12ce417897b973f7b5f"
+    },
+    {
+      "path": "printing/three_layer/Stacked_preview.png",
+      "bytes": 867941,
+      "sha256": "d2844dfef4e5789f7d158d3b5d556d127001622b36df720843780225fbf710a8"
+    },
+    {
+      "path": "printing/three_layer/validation.json",
+      "bytes": 628,
+      "sha256": "f40cbed879543748dbca2b4f6251d5e2d11d6dae16c362a376ebfe99e79842f1"
+    },
+    {
+      "path": "references/camera_route/Screenshot 2026-09-07 082500.png",
+      "bytes": 104939,
+      "sha256": "f588d48455236214155c53c2455f956dcef8da49367124a8a746056fc3634eb1"
+    },
+    {
+      "path": "references/camera_route/Screenshot 2026-09-07 082514.png",
+      "bytes": 85753,
+      "sha256": "8a5cd0325fd2c219ac8a50ff94c45634b6f8caa0ede5bf7ae86db81661171e88"
+    },
+    {
+      "path": "references/interior_appearance/01_exterior_entrance.png",
+      "bytes": 3259670,
+      "sha256": "f31b5a1dffcbaa3c89715ab61326a47738b3198abe604e9c521e12562ea1dffc"
+    },
+    {
+      "path": "references/interior_appearance/02_main_commons_innovation.png",
+      "bytes": 3191067,
+      "sha256": "168730aee26ac58033ba6a170da7157a5520d1759a5df4cab72fbeab76f59e60"
+    },
+    {
+      "path": "references/interior_appearance/03_cafe_commons.png",
+      "bytes": 3000043,
+      "sha256": "2bbe93ca9f222cee9372deeff1f693f6f21edecdea3e670b50a066fd3938b3f9"
+    },
+    {
+      "path": "references/interior_appearance/04_student_art_hallway.png",
+      "bytes": 2945289,
+      "sha256": "5460ba4fe7c1f981c98c8c717118183922ca1d2cd51f0537037b72502c7c1130"
+    },
+    {
+      "path": "references/interior_appearance/05_hallway_stair_landing.png",
+      "bytes": 3111445,
+      "sha256": "0a3e363be9405d4d2963ac7fef7b36fc220cec1f989bc3279063375e9a70a3bf"
+    },
+    {
+      "path": "references/interior_appearance/06_upper_hallway_overlook.png",
+      "bytes": 2767721,
+      "sha256": "0b445ece97d5b24b5a393b201a2339c0e4b2aa1f1d35b9a1a7504b81a69e800d"
+    },
+    {
+      "path": "references/interior_appearance/07_upper_atrium_bridge.png",
+      "bytes": 2776572,
+      "sha256": "f612b593480dca002b6d4d23bb932d6c77915db0ec35dbaa15107d7c81d4ebf0"
+    },
+    {
+      "path": "references/interior_appearance/08_wide_commons_mezzanine.png",
+      "bytes": 3141620,
+      "sha256": "1e0086d3f2424f2d2fdf2ed5a09f778386168ccc2d7f7622b1e7418f6543adfd"
+    },
+    {
+      "path": "references/interior_appearance/09_atrium_windows_overlook.png",
+      "bytes": 2015087,
+      "sha256": "f4ed447e79dca8f58abae1c3c949c7a2b8d9b30be62e46dd76ed55e14884bca0"
+    },
+    {
+      "path": "references/interior_appearance/10_mezzanine_commons_alt.png",
+      "bytes": 2562152,
+      "sha256": "08469320466a6079a069361398f7cec05476e854e40024e512200f6b7debbb31"
+    },
+    {
+      "path": "references/interior_appearance/CampusCenterCommons.jpg",
+      "bytes": 104948,
+      "sha256": "05fee1b6534a17695e2d6031c8ef4020cc7b06a80adf1c900ea1f3ac3d113572"
+    },
+    {
+      "path": "references/interior_appearance/CampusCenterEntrance.jpg",
+      "bytes": 74370,
+      "sha256": "d8e9d5f8dcafe1adbd432947a10ef143c89a1ca1543dc84c9ce72c36781cf395"
+    },
+    {
+      "path": "references/interior_appearance/preferred_contact_sheet.jpg",
+      "bytes": 379970,
+      "sha256": "92ca6cebceeb75870536c92afed750002d5c8889fa0b0dc5fea8f594f3de0aa6"
+    },
+    {
+      "path": "references/interior_appearance/_CampusCenterMezzanine.jpg",
+      "bytes": 108338,
+      "sha256": "f3070f6077facc6bae4e7778d37a1f8780ece52e5814815cde7f5fd9c145d39c"
+    },
+    {
+      "path": "references/plans/250825 Innovation Lab REV Design.pdf",
+      "bytes": 353062,
+      "sha256": "1bbb438115025c8fa3fe83c41da8c1caeab1e060f99ea0eae33324c0e1ac1424"
+    },
+    {
+      "path": "references/plans/Architectural Plans  King School Campus Center.PDF",
+      "bytes": 1957381,
+      "sha256": "0e3267332fba5a3fba3292faa48bf30552560c3968f46e916c74963d8e4f86ae"
+    },
+    {
+      "path": "references/plans/Landscape Plans  King School Campus Center.PDF",
+      "bytes": 984630,
+      "sha256": "b2371aef77e486d487ba7f3ca452c09d76564109346bcb54006fc7fff84f9239"
+    },
+    {
+      "path": "references/plans/Property and Limited Topographic Survey  King School Campus Center.PDF",
+      "bytes": 2158485,
+      "sha256": "097655c0d9da60bd2acaf657f9ef23eede3c8be87812c9e11368ade6f38c630a"
+    },
+    {
+      "path": "references/equipment/generated/ams2pro.png",
+      "bytes": 1139566,
+      "sha256": "aa84d9f718ec9cc6635d0e5ac9716874f917211010d2f48a2788bd09837fc413"
+    },
+    {
+      "path": "references/equipment/generated/bambu_h2d.png",
+      "bytes": 1311924,
+      "sha256": "560448af67b42290894c76cb933bc346f1ecba58ecaf15ee677b3c83642650ab"
+    },
+    {
+      "path": "references/equipment/generated/bigrep.png",
+      "bytes": 1197996,
+      "sha256": "c0c66fe687b6d32d7c7395a517545919134bbe6215327bddee9885248c8b3dad"
+    },
+    {
+      "path": "references/equipment/generated/epson.png",
+      "bytes": 1000315,
+      "sha256": "d9538ce0d28df128f3b1daca22e4d6baaa051246081832164b3975a5e805bf96"
+    },
+    {
+      "path": "references/equipment/generated/spraybooth.png",
+      "bytes": 1312419,
+      "sha256": "cf399cbbce06c00ac45239af8db0553008be41d3a4f97a2691d52610b605926b"
+    },
+    {
+      "path": "references/equipment/generated/uvflatbed.png",
+      "bytes": 1008411,
+      "sha256": "91b42cff5a6eaacb67bc3966e89415ac04bab411e9c018cd60b7368422b1f317"
+    },
+    {
+      "path": "references/equipment/generated/wazer.png",
+      "bytes": 1298351,
+      "sha256": "a53535beaf0567ec71ae6bac562f047bf41347db2f847162eb86098a0b74acfe"
+    },
+    {
+      "path": "references/equipment/references/bambu_h2d_ams.jpg",
+      "bytes": 128552,
+      "sha256": "4dca4789c979bda5de2ae3bd0ce46a636d6ee2c4a10eecc329c31b2fd2021780"
+    },
+    {
+      "path": "references/equipment/references/bigrep.png",
+      "bytes": 505256,
+      "sha256": "60ff97a8e0d3645d80aa92edc8c0fe2fd592059511dd74b42499cd0a5235adc9"
+    },
+    {
+      "path": "references/equipment/references/epson.png",
+      "bytes": 343351,
+      "sha256": "add9e2bd5d045a8dbec11b244067eec5946f7a699685c122d65a85a34fbd4cfd"
+    },
+    {
+      "path": "references/equipment/references/formlabs.png",
+      "bytes": 228399,
+      "sha256": "457e4b39a4a2d14b5ce943c2d0a44c09a2cb844292ffcfefce0f71b58d394f34"
+    },
+    {
+      "path": "references/equipment/references/spraybooth.jpg",
+      "bytes": 211727,
+      "sha256": "0066da3f1d0593dc0a4d99d3101a30c21cd16766057911c54790517e14031ef0"
+    },
+    {
+      "path": "references/equipment/references/uvflatbed.png",
+      "bytes": 400451,
+      "sha256": "f5b3256a91e51b615f221dcf8cda7febea7a9bd6a32b33260732a61a46501854"
+    },
+    {
+      "path": "references/equipment/references/wazer.png",
+      "bytes": 260205,
+      "sha256": "456222e708e0dfdc5deade94625a66f8f497c8d68db1d8aa4eacda70caece902"
+    },
+    {
+      "path": "scene/review/Art_display.png",
+      "bytes": 279421,
+      "sha256": "2dbc9bfe3157bb6e99480289ccb63af5607f8850d961cfa4b55b6535538dcb1b"
+    },
+    {
+      "path": "scene/review/Bridge.png",
+      "bytes": 303854,
+      "sha256": "f205b9d7c4fc629d7aa2d7e08cd005086a1d8b15bca3bfeaf45b6efa2779287b"
+    },
+    {
+      "path": "scene/review/Classroom_windows.png",
+      "bytes": 288908,
+      "sha256": "97c3e462cb66820f3826925d094c8160283c77dd2e6fd53c52dd2e17c7c0157a"
+    },
+    {
+      "path": "scene/review/Commons.png",
+      "bytes": 314789,
+      "sha256": "7ffe2a2efa4810f8368f2bbe81521dc953fd23eb8e649d12cd7402c83d3b3f27"
+    },
+    {
+      "path": "scene/review/Commons_overlook.png",
+      "bytes": 336777,
+      "sha256": "4d7bc87c819e561d0a8777c5a8dfa53242a58636664fbe37eeaa7b023c1be393"
+    },
+    {
+      "path": "scene/review/contact_sheet.jpg",
+      "bytes": 113632,
+      "sha256": "39bef88558b3a0d0c1742caea6921e3495948b73c306f58312645589083f12cb"
+    },
+    {
+      "path": "scene/review/Entrance.png",
+      "bytes": 301733,
+      "sha256": "e175bd52eaf120ba3deaee02710fccf3a1e44bcf953bcc22cb851b01ed3736a9"
+    },
+    {
+      "path": "scene/review/Fabrication.png",
+      "bytes": 250878,
+      "sha256": "1474786cb64b00d3801de29786e8ce8fcb85ca0439966c67b9d8cd3aa0e0c9e0"
+    },
+    {
+      "path": "scene/review/Final_balcony_view.png",
+      "bytes": 291240,
+      "sha256": "8955d038291067a8cfe8d713ded22652ee1a5e9c03eafb75d198ed69d9c817dc"
+    },
+    {
+      "path": "scene/review/Fireplace_and_commons.png",
+      "bytes": 312911,
+      "sha256": "c970aa021b4e61fd928ed202bf2f4234952c7c4cff2f206407ee92b1ab4b4fc0"
+    },
+    {
+      "path": "scene/review/Locker_corridor.png",
+      "bytes": 268940,
+      "sha256": "5d765350b17f8e35babd6af928c2c1fb278ae670c6fdd9572747d7c611e357b5"
+    },
+    {
+      "path": "scene/review/Printers.png",
+      "bytes": 307914,
+      "sha256": "dc61f8c4e8192c0a4aadab876f4ab8893f85db76cf70da42eb5961f2cef37f3c"
+    },
+    {
+      "path": "scene/review/Sink.png",
+      "bytes": 252688,
+      "sha256": "c486ea195e54dbbc97e735277201a631ea8b29ca9bf6414e6f2802f70fd448af"
+    },
+    {
+      "path": "scene/review/Sink_detail.png",
+      "bytes": 294610,
+      "sha256": "c6f450c5112c59b2afb666e608672e7174ac49eec04c87d94b0c8cef3073acda"
+    },
+    {
+      "path": "scene/review/Skylight_corridor.png",
+      "bytes": 287698,
+      "sha256": "b247949a03e3ce1847fe6a20590847c455b22c09f1f57d5fbc634a1e7510ce93"
+    },
+    {
+      "path": "scene/review/Spray_booth.png",
+      "bytes": 265915,
+      "sha256": "f4503a36bf8f0f4d64bb25edaa94f57e7ca13c02949c5a8bf7217701ff55e0eb"
+    },
+    {
+      "path": "scene/review/Spray_corner.png",
+      "bytes": 266499,
+      "sha256": "3029841e10c65da85973105375e56fc41d998ffbbf6d5661af3addecbd2c6096"
+    },
+    {
+      "path": "scene/review/Upper_corridor.png",
+      "bytes": 298381,
+      "sha256": "903b9cf8a959e53e31b88a032ae01e70184c84be0bd14e68373d1bfc8cdd2512"
+    },
+    {
+      "path": "scene/review/West_stair.png",
+      "bytes": 257843,
+      "sha256": "157bc017cdb8be99bc061113c3a55ac70ce0a081e4e1d8c9e4fac961eb6109fa"
+    }
+  ]
+}
