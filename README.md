@@ -62,3 +62,15 @@ Large model formats are configured for Git LFS in `.gitattributes`. Git LFS must
 ## Unreal interactive prototype
 
 See [Unreal handoff](unreal/README.md) for the editable project, standalone exploration launcher, guided tour, review images and validation.
+
+## Blender Cycles studio
+
+See [Cycles Studio v01](blender_cycles/v01/README.md) for the packed rendering scene, three 1080p stills, EXR passes and measured render times.
+
+Previous Blender finish revision: [Cycles Studio v02 - blue walls and commons carpet](blender_cycles/v02/README.md).
+
+Previous Blender detail revision: [Cycles Studio v03 - graphics, planting, furniture and printer details](blender_cycles/v03/README.md).
+
+Latest Blender environment revision: [Cycles Studio v04 - planting, grass/concrete, fire, larger banners and photographic sky](blender_cycles/v04/README.md).
+
+Latest Blender revision: [Cycles Studio v05 - student artwork, larger banners and modern fireplace](blender_cycles/v05/README.md).

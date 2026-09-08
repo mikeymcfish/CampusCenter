@@ -1,0 +1,637 @@
+{
+  "added": [
+    "V05 Frame 0",
+    "V05 portrait 0",
+    "V05 Tape 2",
+    "V05 Tape 3",
+    "V05 landscape 1",
+    "V05 Frame 2",
+    "V05 portrait2 2",
+    "V05 Frame 3",
+    "V05 still_life 3",
+    "V05 Tape 9",
+    "V05 Tape 10",
+    "V05 portrait 4",
+    "V05 Frame 5",
+    "V05 landscape 5",
+    "V05 Frame 6",
+    "V05 portrait2 6",
+    "V05 Tape 16",
+    "V05 Tape 17",
+    "V05 still_life 7",
+    "V05 Frame 8",
+    "V05 portrait 8",
+    "V05 Frame 9",
+    "V05 landscape 9",
+    "V05 Frame 10",
+    "V05 landscape 10",
+    "V05 Tape 25",
+    "V05 Tape 26",
+    "V05 portrait2 11",
+    "V05 Frame 12",
+    "V05 still_life 12",
+    "V05 Frame 13",
+    "V05 portrait 13",
+    "V05 Tape 32",
+    "V05 Tape 33",
+    "V05 landscape 14",
+    "V05 Frame 15",
+    "V05 portrait2 15",
+    "V05 Frame 16",
+    "V05 still_life 16",
+    "V05 Tape 39",
+    "V05 Tape 40",
+    "V05 portrait 17",
+    "V05 Frame 18",
+    "V05 landscape 18",
+    "V05 Frame 19",
+    "V05 portrait2 19",
+    "V05 Commons community board",
+    "V05 Tape 47",
+    "V05 Tape 48",
+    "V05 clubs 20",
+    "V05 Tape 50",
+    "V05 Tape 51",
+    "V05 food_drive 21",
+    "V05 Tape 53",
+    "V05 Tape 54",
+    "V05 ilab 22",
+    "V05 Tape 56",
+    "V05 Tape 57",
+    "V05 repair 23",
+    "V05 Tape 59",
+    "V05 Tape 60",
+    "V05 food_drive 24",
+    "V05 Tape 62",
+    "V05 Tape 63",
+    "V05 clubs 25",
+    "V05 Tape 65",
+    "V05 Tape 66",
+    "V05 repair 26",
+    "V05 Tape 68",
+    "V05 Tape 69",
+    "V05 ilab 27",
+    "V05 Tape 71",
+    "V05 Tape 72",
+    "V05 repair 28",
+    "V05 Tape 74",
+    "V05 Tape 75",
+    "V05 still_life 29",
+    "V05 Tape 77",
+    "V05 Tape 78",
+    "V05 ilab 30",
+    "V05 Tape 80",
+    "V05 Tape 81",
+    "V05 clubs 31",
+    "V05 Tape 83",
+    "V05 Tape 84",
+    "V05 repair 32",
+    "V05 Tape 86",
+    "V05 Tape 87",
+    "V05 repair 33",
+    "V05 Frame 34",
+    "V05 landscape 34",
+    "V05 Tape 91",
+    "V05 Tape 92",
+    "V05 ilab 35",
+    "V05 Wide limestone hearth",
+    "V05 Surround left",
+    "V05 Surround right",
+    "V05 Surround upper",
+    "V05 Surround lower",
+    "V05 Oak mantel",
+    "V05 Dark firebox back",
+    "V05 Firebox return",
+    "V05 Firebox return.001",
+    "V05 Firebox lintel sill",
+    "V05 Firebox lintel sill.001",
+    "V05 Wide natural flame insert"
+  ],
+  "hidden": [
+    "V03 Gallery frame 0",
+    "V03 Gallery mat 0",
+    "V03 Art shape 0 0",
+    "V03 Art shape 0 1",
+    "V03 Art shape 0 2",
+    "V03 Art shape 0 3",
+    "V03 Art shape 0 4",
+    "V03 Gallery caption 0",
+    "V03 Gallery frame 1",
+    "V03 Gallery mat 1",
+    "V03 Art shape 1 0",
+    "V03 Art shape 1 1",
+    "V03 Art shape 1 2",
+    "V03 Art shape 1 3",
+    "V03 Art shape 1 4",
+    "V03 Gallery caption 1",
+    "V03 Gallery frame 2",
+    "V03 Gallery mat 2",
+    "V03 Art shape 2 0",
+    "V03 Art shape 2 1",
+    "V03 Art shape 2 2",
+    "V03 Art shape 2 3",
+    "V03 Art shape 2 4",
+    "V03 Gallery caption 2",
+    "V03 Gallery frame 3",
+    "V03 Gallery mat 3",
+    "V03 Art shape 3 0",
+    "V03 Art shape 3 1",
+    "V03 Art shape 3 2",
+    "V03 Art shape 3 3",
+    "V03 Art shape 3 4",
+    "V03 Gallery caption 3",
+    "V03 Gallery frame 4",
+    "V03 Gallery mat 4",
+    "V03 Art shape 4 0",
+    "V03 Art shape 4 1",
+    "V03 Art shape 4 2",
+    "V03 Art shape 4 3",
+    "V03 Art shape 4 4",
+    "V03 Gallery caption 4",
+    "V03 Gallery frame 5",
+    "V03 Gallery mat 5",
+    "V03 Art shape 5 0",
+    "V03 Art shape 5 1",
+    "V03 Art shape 5 2",
+    "V03 Art shape 5 3",
+    "V03 Art shape 5 4",
+    "V03 Gallery caption 5",
+    "V6_V5_Fireplace_hearth_corrected",
+    "V04 Fire billboard"
+  ],
+  "artwork": [
+    {
+      "object": "V05 portrait 0",
+      "asset": "portrait",
+      "position": [
+        -24.0,
+        16.045000076293945,
+        5.8434882164001465
+      ],
+      "size": [
+        0.52,
+        0.6933333333333334
+      ]
+    },
+    {
+      "object": "V05 landscape 1",
+      "asset": "landscape",
+      "position": [
+        -22.0,
+        16.045000076293945,
+        6.067164897918701
+      ],
+      "size": [
+        0.7,
+        0.9333333333333332
+      ]
+    },
+    {
+      "object": "V05 portrait2 2",
+      "asset": "portrait2",
+      "position": [
+        -20.0,
+        16.045000076293945,
+        6.014255523681641
+      ],
+      "size": [
+        0.43,
+        0.5733333333333334
+      ]
+    },
+    {
+      "object": "V05 still_life 3",
+      "asset": "still_life",
+      "position": [
+        -18.0,
+        16.045000076293945,
+        5.89850378036499
+      ],
+      "size": [
+        0.6,
+        0.7999999999999999
+      ]
+    },
+    {
+      "object": "V05 portrait 4",
+      "asset": "portrait",
+      "position": [
+        -16.0,
+        16.045000076293945,
+        5.911422252655029
+      ],
+      "size": [
+        0.52,
+        0.6933333333333334
+      ]
+    },
+    {
+      "object": "V05 landscape 5",
+      "asset": "landscape",
+      "position": [
+        -14.0,
+        16.045000076293945,
+        5.9605512619018555
+      ],
+      "size": [
+        0.7,
+        0.9333333333333332
+      ]
+    },
+    {
+      "object": "V05 portrait2 6",
+      "asset": "portrait2",
+      "position": [
+        -12.0,
+        16.045000076293945,
+        5.920854091644287
+      ],
+      "size": [
+        0.43,
+        0.5733333333333334
+      ]
+    },
+    {
+      "object": "V05 still_life 7",
+      "asset": "still_life",
+      "position": [
+        -10.0,
+        16.045000076293945,
+        5.925492286682129
+      ],
+      "size": [
+        0.6,
+        0.7999999999999999
+      ]
+    },
+    {
+      "object": "V05 portrait 8",
+      "asset": "portrait",
+      "position": [
+        -8.0,
+        16.045000076293945,
+        5.984046459197998
+      ],
+      "size": [
+        0.52,
+        0.6933333333333334
+      ]
+    },
+    {
+      "object": "V05 landscape 9",
+      "asset": "landscape",
+      "position": [
+        -6.0,
+        16.045000076293945,
+        5.98445463180542
+      ],
+      "size": [
+        0.7,
+        0.9333333333333332
+      ]
+    },
+    {
+      "object": "V05 landscape 10",
+      "asset": "landscape",
+      "position": [
+        -24.0,
+        16.045000076293945,
+        1.7306667566299438
+      ],
+      "size": [
+        0.52,
+        0.6933333333333334
+      ]
+    },
+    {
+      "object": "V05 portrait2 11",
+      "asset": "portrait2",
+      "position": [
+        -22.0,
+        16.045000076293945,
+        1.779958963394165
+      ],
+      "size": [
+        0.7,
+        0.9333333333333332
+      ]
+    },
+    {
+      "object": "V05 still_life 12",
+      "asset": "still_life",
+      "position": [
+        -20.0,
+        16.045000076293945,
+        1.7336463928222656
+      ],
+      "size": [
+        0.43,
+        0.5733333333333334
+      ]
+    },
+    {
+      "object": "V05 portrait 13",
+      "asset": "portrait",
+      "position": [
+        -18.0,
+        16.045000076293945,
+        1.7802497148513794
+      ],
+      "size": [
+        0.6,
+        0.7999999999999999
+      ]
+    },
+    {
+      "object": "V05 landscape 14",
+      "asset": "landscape",
+      "position": [
+        -16.0,
+        16.045000076293945,
+        1.8505123853683472
+      ],
+      "size": [
+        0.52,
+        0.6933333333333334
+      ]
+    },
+    {
+      "object": "V05 portrait2 15",
+      "asset": "portrait2",
+      "position": [
+        -14.0,
+        16.045000076293945,
+        1.8267040252685547
+      ],
+      "size": [
+        0.7,
+        0.9333333333333332
+      ]
+    },
+    {
+      "object": "V05 still_life 16",
+      "asset": "still_life",
+      "position": [
+        -12.0,
+        16.045000076293945,
+        1.7994725704193115
+      ],
+      "size": [
+        0.43,
+        0.5733333333333334
+      ]
+    },
+    {
+      "object": "V05 portrait 17",
+      "asset": "portrait",
+      "position": [
+        -10.0,
+        16.045000076293945,
+        1.9356580972671509
+      ],
+      "size": [
+        0.6,
+        0.7999999999999999
+      ]
+    },
+    {
+      "object": "V05 landscape 18",
+      "asset": "landscape",
+      "position": [
+        -8.0,
+        16.045000076293945,
+        1.814196228981018
+      ],
+      "size": [
+        0.52,
+        0.6933333333333334
+      ]
+    },
+    {
+      "object": "V05 portrait2 19",
+      "asset": "portrait2",
+      "position": [
+        -6.0,
+        16.045000076293945,
+        1.772800087928772
+      ],
+      "size": [
+        0.7,
+        0.9333333333333332
+      ]
+    },
+    {
+      "object": "V05 clubs 20",
+      "asset": "clubs",
+      "position": [
+        0.23000000417232513,
+        21.329999923706055,
+        2.1600000858306885
+      ],
+      "size": [
+        0.43,
+        0.5733333333333334
+      ]
+    },
+    {
+      "object": "V05 food_drive 21",
+      "asset": "food_drive",
+      "position": [
+        0.23000000417232513,
+        21.940000534057617,
+        2.1600000858306885
+      ],
+      "size": [
+        0.43,
+        0.5733333333333334
+      ]
+    },
+    {
+      "object": "V05 ilab 22",
+      "asset": "ilab",
+      "position": [
+        0.23000000417232513,
+        22.549999237060547,
+        2.1600000858306885
+      ],
+      "size": [
+        0.43,
+        0.5733333333333334
+      ]
+    },
+    {
+      "object": "V05 repair 23",
+      "asset": "repair",
+      "position": [
+        0.23000000417232513,
+        23.15999984741211,
+        2.1600000858306885
+      ],
+      "size": [
+        0.43,
+        0.5733333333333334
+      ]
+    },
+    {
+      "object": "V05 food_drive 24",
+      "asset": "food_drive",
+      "position": [
+        -23.0,
+        16.040000915527344,
+        2.0
+      ],
+      "size": [
+        0.4,
+        0.5333333333333333
+      ]
+    },
+    {
+      "object": "V05 clubs 25",
+      "asset": "clubs",
+      "position": [
+        -18.0,
+        16.040000915527344,
+        2.0
+      ],
+      "size": [
+        0.4,
+        0.5333333333333333
+      ]
+    },
+    {
+      "object": "V05 repair 26",
+      "asset": "repair",
+      "position": [
+        -13.0,
+        16.040000915527344,
+        2.0
+      ],
+      "size": [
+        0.4,
+        0.5333333333333333
+      ]
+    },
+    {
+      "object": "V05 ilab 27",
+      "asset": "ilab",
+      "position": [
+        -0.14499999582767487,
+        2.200000047683716,
+        2.6500000953674316
+      ],
+      "size": [
+        0.6,
+        0.7999999999999999
+      ]
+    },
+    {
+      "object": "V05 repair 28",
+      "asset": "repair",
+      "position": [
+        -0.14499999582767487,
+        3.450000047683716,
+        2.6500000953674316
+      ],
+      "size": [
+        0.48,
+        0.64
+      ]
+    },
+    {
+      "object": "V05 still_life 29",
+      "asset": "still_life",
+      "position": [
+        -0.14499999582767487,
+        4.699999809265137,
+        2.6500000953674316
+      ],
+      "size": [
+        0.6,
+        0.7999999999999999
+      ]
+    },
+    {
+      "object": "V05 ilab 30",
+      "asset": "ilab",
+      "position": [
+        -0.14499999582767487,
+        6.0,
+        2.6500000953674316
+      ],
+      "size": [
+        0.48,
+        0.64
+      ]
+    },
+    {
+      "object": "V05 clubs 31",
+      "asset": "clubs",
+      "position": [
+        -0.14499999582767487,
+        7.400000095367432,
+        2.6500000953674316
+      ],
+      "size": [
+        0.6,
+        0.7999999999999999
+      ]
+    },
+    {
+      "object": "V05 repair 32",
+      "asset": "repair",
+      "position": [
+        -0.14499999582767487,
+        8.5,
+        2.6500000953674316
+      ],
+      "size": [
+        0.48,
+        0.64
+      ]
+    },
+    {
+      "object": "V05 repair 33",
+      "asset": "repair",
+      "position": [
+        -11.4350004196167,
+        4.5,
+        2.6500000953674316
+      ],
+      "size": [
+        0.52,
+        0.6933333333333334
+      ]
+    },
+    {
+      "object": "V05 landscape 34",
+      "asset": "landscape",
+      "position": [
+        -11.4350004196167,
+        5.650000095367432,
+        2.6500000953674316
+      ],
+      "size": [
+        0.52,
+        0.6933333333333334
+      ]
+    },
+    {
+      "object": "V05 ilab 35",
+      "asset": "ilab",
+      "position": [
+        -11.4350004196167,
+        6.800000190734863,
+        2.6500000953674316
+      ],
+      "size": [
+        0.52,
+        0.6933333333333334
+      ]
+    }
+  ],
+  "banner_dimensions": [
+    1.75,
+    5.25
+  ],
+  "source_sha256": "9240d1905a2af631c19ed2a4b3f6025c5509966079924a52f15427288290f013"
+}

@@ -1,0 +1,72 @@
+{
+  "status": "passed",
+  "materials": [
+    {
+      "material": "/Game/Campus/PolishV03/Materials/M_Anodized_aluminum.M_Anodized_aluminum",
+      "base_color_connected": true
+    },
+    {
+      "material": "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware",
+      "base_color_connected": true
+    },
+    {
+      "material": "/Game/Campus/PolishV03/Materials/M_Ceiling_Oak_PBR.M_Ceiling_Oak_PBR",
+      "base_color_connected": true
+    },
+    {
+      "material": "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+      "base_color_connected": true
+    },
+    {
+      "material": "/Game/Campus/PolishV03/Materials/M_Gray_thin_brick.M_Gray_thin_brick",
+      "base_color_connected": true
+    },
+    {
+      "material": "/Game/Campus/PolishV03/Materials/M_Gray_thin_brick1.M_Gray_thin_brick1",
+      "base_color_connected": true
+    },
+    {
+      "material": "/Game/Campus/PolishV03/Materials/M_Light_stone_paving.M_Light_stone_paving",
+      "base_color_connected": true
+    },
+    {
+      "material": "/Game/Campus/PolishV03/Materials/M_Light_stone_paving1.M_Light_stone_paving1",
+      "base_color_connected": true
+    },
+    {
+      "material": "/Game/Campus/PolishV03/Materials/M_Natural_Oak_PBR.M_Natural_Oak_PBR",
+      "base_color_connected": true
+    },
+    {
+      "material": "/Game/Campus/PolishV03/Materials/M_Warm_ivory_facade_brick.M_Warm_ivory_facade_brick",
+      "base_color_connected": true
+    },
+    {
+      "material": "/Game/Campus/PolishV03/Materials/M_Warm_ivory_facade_brick1.M_Warm_ivory_facade_brick1",
+      "base_color_connected": true
+    },
+    {
+      "material": "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric",
+      "base_color_connected": true
+    },
+    {
+      "material": "/Game/Campus/PolishV02/Materials/M_Warm_Painted_Plaster.M_Warm_Painted_Plaster",
+      "base_color_connected": true
+    }
+  ],
+  "maps": [
+    "/Game/Campus/Maps/Campus_GuidedTour.Campus_GuidedTour",
+    "/Game/Campus/Maps/Campus_NoStudents.Campus_NoStudents",
+    "/Game/Campus/Maps/CampusCenter.CampusCenter",
+    "/Game/Campus/Maps/Room_00.Room_00",
+    "/Game/Campus/Maps/Room_01.Room_01",
+    "/Game/Campus/Maps/Room_02.Room_02",
+    "/Game/Campus/Maps/Room_03.Room_03",
+    "/Game/Campus/Maps/Room_04.Room_04",
+    "/Game/Campus/Maps/Room_05.Room_05",
+    "/Game/Campus/Maps/Room_06.Room_06",
+    "/Game/Campus/Maps/Room_07.Room_07",
+    "/Game/Campus/Maps/Room_08.Room_08"
+  ],
+  "layout_validation": "saved_validation.json"
+}

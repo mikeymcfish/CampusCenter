@@ -1,0 +1,1400 @@
+[
+  {
+    "mesh": "Architecture_Ground_04_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Ground_04_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Ground_04_13",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Ground_04_14",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Ground_05_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Ground_05_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Ground_05_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Ground_05_13",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Ground_05_14",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Ground_06_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Ground_06_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Ground_06_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Ground_06_13",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Ground_06_14",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Ground_07_09",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Ground_07_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Ground_07_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Ground_07_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Ground_08_09",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Ground_08_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Ground_08_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Ground_08_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Ground_08_13",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Ground_09_09",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Ground_09_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Ground_09_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Ground_10_09",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Ground_10_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Ground_10_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Ground_10_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Ground_10_13",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Ground_10_14",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Ground_11_09",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Ground_11_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Ground_11_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Ground_11_13",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Ground_11_14",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Ground_12_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Ground_12_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Ground_12_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Ground_12_13",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Upper_04_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Upper_04_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Upper_04_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Upper_04_13",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Upper_05_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Upper_05_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Upper_05_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Upper_05_13",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Upper_06_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Upper_06_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Upper_06_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Upper_06_13",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Upper_06_14",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Upper_06_15",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Upper_07_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Upper_07_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Upper_07_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Upper_08_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Upper_08_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Upper_08_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Upper_08_15",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Upper_09_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Upper_09_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Upper_09_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Upper_09_13",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Upper_10_09",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Upper_10_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Upper_10_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Upper_10_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Upper_10_13",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Upper_11_09",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Upper_11_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Upper_11_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Upper_11_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Upper_11_13",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Upper_11_14",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Upper_12_09",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Upper_12_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Upper_12_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Upper_12_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Architecture_Upper_12_13",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Doors_Ground_04_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Doors_Ground_04_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Doors_Ground_04_13",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Doors_Ground_04_14",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Doors_Ground_05_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Doors_Ground_05_13",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Doors_Ground_05_14",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Doors_Ground_06_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Doors_Ground_06_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Doors_Ground_06_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Doors_Ground_06_13",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Doors_Ground_06_14",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Doors_Ground_06_15",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Doors_Ground_07_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Doors_Ground_07_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Doors_Ground_07_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Doors_Ground_08_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Doors_Ground_08_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Doors_Ground_09_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Doors_Ground_10_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Doors_Ground_11_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Doors_Ground_12_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Doors_Upper_04_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Doors_Upper_04_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Doors_Upper_05_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Doors_Upper_05_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Doors_Upper_06_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Doors_Upper_06_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Doors_Upper_07_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Doors_Upper_08_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Doors_Upper_08_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Doors_Upper_09_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Doors_Upper_09_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Doors_Upper_11_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Equipment_Ground_04_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Equipment_Ground_04_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Equipment_Ground_04_13",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Equipment_Ground_05_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Equipment_Ground_06_13",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Equipment_Ground_08_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Equipment_Ground_09_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Equipment_Ground_09_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Equipment_Ground_10_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Equipment_Ground_11_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Equipment_Upper_04_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Equipment_Upper_04_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Equipment_Upper_04_13",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Equipment_Upper_05_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Equipment_Upper_05_13",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Equipment_Upper_06_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Equipment_Upper_06_13",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Equipment_Upper_10_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Equipment_Upper_10_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Equipment_Upper_10_13",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Equipment_Upper_11_13",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Furniture_Ground_04_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Furniture_Ground_04_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Furniture_Ground_04_13",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Furniture_Ground_04_14",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Furniture_Ground_05_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Furniture_Ground_05_13",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Furniture_Ground_05_14",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Furniture_Ground_06_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Furniture_Ground_06_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Furniture_Ground_06_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Furniture_Ground_06_13",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Furniture_Ground_06_14",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Furniture_Ground_07_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Furniture_Ground_07_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Furniture_Ground_08_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Furniture_Ground_08_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Furniture_Ground_09_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Furniture_Ground_09_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Furniture_Ground_10_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Furniture_Ground_10_13",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Furniture_Ground_11_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Furniture_Ground_11_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Furniture_Ground_11_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Furniture_Ground_11_13",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Furniture_Upper_04_13",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Furniture_Upper_05_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Furniture_Upper_05_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Furniture_Upper_05_13",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Furniture_Upper_06_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Furniture_Upper_06_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Furniture_Upper_06_13",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Furniture_Upper_07_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Furniture_Upper_08_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Furniture_Upper_08_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Furniture_Upper_09_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Furniture_Upper_09_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Furniture_Upper_11_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Furniture_Upper_11_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Furniture_Upper_11_13",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Roof_Upper_04_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Roof_Upper_05_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Roof_Upper_05_13",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Roof_Upper_05_14",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Roof_Upper_06_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Roof_Upper_06_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Roof_Upper_06_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Roof_Upper_07_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Roof_Upper_07_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Roof_Upper_08_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Roof_Upper_08_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Roof_Upper_08_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Roof_Upper_08_13",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Roof_Upper_09_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Roof_Upper_09_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Roof_Upper_10_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Roof_Upper_10_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Roof_Upper_10_13",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Roof_Upper_11_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Roof_Upper_11_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Roof_Upper_11_13",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Roof_Upper_12_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Roof_Upper_12_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Roof_Upper_12_13",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Screen_Ground_10_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Students_Ground_04_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Students_Ground_04_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Students_Ground_05_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Students_Ground_05_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Students_Ground_05_13",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Students_Ground_05_14",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Students_Ground_06_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Students_Ground_06_13",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Students_Ground_07_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Students_Ground_08_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Students_Ground_08_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Students_Ground_09_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Students_Ground_09_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Students_Ground_10_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Students_Ground_10_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Students_Ground_10_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Students_Ground_10_13",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Students_Ground_11_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Students_Ground_11_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Students_Ground_11_13",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Students_Upper_04_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Students_Upper_05_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Students_Upper_06_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Students_Upper_07_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Students_Upper_08_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Students_Upper_08_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Students_Upper_09_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Students_Upper_09_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Students_Upper_10_11",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Students_Upper_11_10",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Students_Upper_11_12",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  },
+  {
+    "mesh": "Students_Upper_11_13",
+    "previous_error": 1.0,
+    "new_error": 0,
+    "fallback_triangles": 1
+  }
+]

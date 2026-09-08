@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "source_unchanged": true,
+  "original_meshes_preserved": 3422,
+  "new_objects": 1652,
+  "retained_hidden_standins": 22,
+  "missing_images": [],
+  "packed_images": 16,
+  "original_geometry_transform_errors": [],
+  "walkthrough_retained": true,
+  "blue_paint_and_carpet_retained": true
+}

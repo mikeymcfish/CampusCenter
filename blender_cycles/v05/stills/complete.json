@@ -1,0 +1,109 @@
+{
+  "outputs": [
+    {
+      "camera": "01_Entrance",
+      "seconds": 31.865318199968897,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "max_samples": 256,
+      "adaptive_threshold": 0.009999999776482582,
+      "engine": "Cycles",
+      "device": "CUDA",
+      "preview": false
+    },
+    {
+      "camera": "02_Commons",
+      "seconds": 19.076876399922185,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "max_samples": 256,
+      "adaptive_threshold": 0.009999999776482582,
+      "engine": "Cycles",
+      "device": "CUDA",
+      "preview": false
+    },
+    {
+      "camera": "03_iLab",
+      "seconds": 19.3108796000015,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "max_samples": 256,
+      "adaptive_threshold": 0.009999999776482582,
+      "engine": "Cycles",
+      "device": "CUDA",
+      "preview": false
+    },
+    {
+      "camera": "04_Gallery",
+      "seconds": 20.09514620003756,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "max_samples": 256,
+      "adaptive_threshold": 0.009999999776482582,
+      "engine": "Cycles",
+      "device": "CUDA",
+      "preview": false
+    },
+    {
+      "camera": "05_Printer_Detail",
+      "seconds": 19.641797699965537,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "max_samples": 256,
+      "adaptive_threshold": 0.009999999776482582,
+      "engine": "Cycles",
+      "device": "CUDA",
+      "preview": false
+    },
+    {
+      "camera": "06_Entrance_Planting",
+      "seconds": 23.282537100021727,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "max_samples": 256,
+      "adaptive_threshold": 0.009999999776482582,
+      "engine": "Cycles",
+      "device": "CUDA",
+      "preview": false
+    },
+    {
+      "camera": "07_Fireplace",
+      "seconds": 18.360981700010598,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "max_samples": 256,
+      "adaptive_threshold": 0.009999999776482582,
+      "engine": "Cycles",
+      "device": "CUDA",
+      "preview": false
+    },
+    {
+      "camera": "08_iLab_Posters",
+      "seconds": 19.152763499994762,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "max_samples": 256,
+      "adaptive_threshold": 0.009999999776482582,
+      "engine": "Cycles",
+      "device": "CUDA",
+      "preview": false
+    }
+  ],
+  "status": "rendered"
+}

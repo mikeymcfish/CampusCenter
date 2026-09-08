@@ -1,0 +1,44 @@
+{
+  "outputs": [
+    {
+      "camera": "01_Entrance",
+      "seconds": 26.216792899998836,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "max_samples": 256,
+      "adaptive_threshold": 0.009999999776482582,
+      "engine": "Cycles",
+      "device": "CUDA",
+      "preview": false
+    },
+    {
+      "camera": "02_Commons",
+      "seconds": 15.545725799980573,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "max_samples": 256,
+      "adaptive_threshold": 0.009999999776482582,
+      "engine": "Cycles",
+      "device": "CUDA",
+      "preview": false
+    },
+    {
+      "camera": "03_iLab",
+      "seconds": 17.477663500001654,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "max_samples": 256,
+      "adaptive_threshold": 0.009999999776482582,
+      "engine": "Cycles",
+      "device": "CUDA",
+      "preview": false
+    }
+  ],
+  "status": "rendered"
+}

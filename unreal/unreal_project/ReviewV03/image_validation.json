@@ -1,0 +1,78 @@
+{
+  "images": [
+    {
+      "file": "room_00.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "name": "Entrance"
+    },
+    {
+      "file": "room_01.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "name": "Commons"
+    },
+    {
+      "file": "room_02.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "name": "Innovation Lab"
+    },
+    {
+      "file": "room_03.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "name": "Printers"
+    },
+    {
+      "file": "room_04.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "name": "Student lockers"
+    },
+    {
+      "file": "room_05.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "name": "Student bathroom"
+    },
+    {
+      "file": "room_06.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "name": "Fitness"
+    },
+    {
+      "file": "room_07.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "name": "Upper commons"
+    },
+    {
+      "file": "room_08.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "name": "Balcony"
+    }
+  ],
+  "count": 9,
+  "status": "passed"
+}

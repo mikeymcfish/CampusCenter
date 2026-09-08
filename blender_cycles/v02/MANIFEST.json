@@ -1,0 +1,90 @@
+[
+  {
+    "path": "README.md",
+    "sha256": "dffd7c655859a791aa05e2b15413e1f8796f2fa5f6ced8d9bd606a45bafefe67"
+  },
+  {
+    "path": "Source_Copy.blend",
+    "sha256": "6783e1030b24a905c656c979a69dc67bbebc597a0ff9525a8ab416a7468eff43"
+  },
+  {
+    "path": "Campus_Center_Cycles_Studio.blend",
+    "sha256": "dbe1f882f090e0711c3c5dd4c7dfc9c83702c3e70a1a434493ad79f8360da59d"
+  },
+  {
+    "path": "build_colors.py",
+    "sha256": "90f7d9b75a06cdf8c5adfc2df6e9864564aab7bd4ee319d6b167378594a41d54"
+  },
+  {
+    "path": "render_stills.py",
+    "sha256": "1f86d77cd750b9f7bb58f6afa0a28b8b8e3aeba61e18faf5c3cbca7b33f22389"
+  },
+  {
+    "path": "verify_colors.py",
+    "sha256": "4b6af5fef0286e43f72891225fda374fa8c966509862ea0c1624cdab20549f56"
+  },
+  {
+    "path": "validate_images.py",
+    "sha256": "56f5713dced2b8469aa30da0c6ad43775dd94d44213fe9440fc75a0d2cc2914e"
+  },
+  {
+    "path": "build_report.json",
+    "sha256": "62f80b86cfbc788b2c156c3107df0a9ed185fb9ba9ffdadfa5bbb79817b8a72f"
+  },
+  {
+    "path": "scene_validation.json",
+    "sha256": "6158a6ad73af72911c1d906bc3c95d0f56dd0e8ba13916a6e843892dbae5bcfd"
+  },
+  {
+    "path": "image_validation.json",
+    "sha256": "e64b990fa0a8ec31308e6576e85a0c772a9116ff8d10e74a7bd3f31b4827ac7c"
+  },
+  {
+    "path": "stills/01_Entrance.exr",
+    "sha256": "f589ee86831d70ade48e3d71eed76cf941d985abfda978f90a85d01b691966a4"
+  },
+  {
+    "path": "stills/01_Entrance.png",
+    "sha256": "14b4b41328eeb49de23c37bff9d4f388c2ee7ffaa2da51100d2c171418238fed"
+  },
+  {
+    "path": "stills/01_Entrance_preview.jpg",
+    "sha256": "34d2ee5fffd1954ed6c65ea7b9f15741663692cd99702975034f294863bde4db"
+  },
+  {
+    "path": "stills/02_Commons.exr",
+    "sha256": "356487bdae5ebb6e552c60bc0306e821162fa50b6cc0fde008e9bc8568eef1fd"
+  },
+  {
+    "path": "stills/02_Commons.png",
+    "sha256": "7a27d0e39b6301185a0dad34d7043582b59f89e7dbc900f97691d6a32f7ee2d7"
+  },
+  {
+    "path": "stills/02_Commons_preview.jpg",
+    "sha256": "7978a98260576a7e393032addca4afae44278b9a6f370a7a58b173437d5b9c93"
+  },
+  {
+    "path": "stills/03_iLab.exr",
+    "sha256": "2a73fd43d68d3b5cca31f3e8efaa1c2c4ed50e1edeaaa0d8081669caf6ef8682"
+  },
+  {
+    "path": "stills/03_iLab.png",
+    "sha256": "c01aa9310374e4d124b9fc155cafb934252416a6f73b91fe180f759a028f0827"
+  },
+  {
+    "path": "stills/03_iLab_preview.jpg",
+    "sha256": "38022840b145a6520a8aa3a10fd6c87a7732348d8ce04b6bc2e2a642dcfb2bf8"
+  },
+  {
+    "path": "stills/complete.json",
+    "sha256": "0fc3a4d87636a4604e18080482b93493f8fb18831826c914728c0c2169f595be"
+  },
+  {
+    "path": "stills/Three_Views.jpg",
+    "sha256": "0920c49c739c301deb89073bfa020d92b4937986a9c8ce0f0b76d43a528e4610"
+  },
+  {
+    "path": "stills/timings.json",
+    "sha256": "05e6615a0f48c6671fa33ecd49b6aae438f0a9327e24fffc0b91c9616fb198fd"
+  }
+]

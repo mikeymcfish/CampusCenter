@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "source_v01_unchanged": true,
+  "meshes": 3422,
+  "painted_faces": 926,
+  "painted_objects": 307,
+  "walkthrough_retained": true,
+  "missing_images": [],
+  "packed_images": 15
+}

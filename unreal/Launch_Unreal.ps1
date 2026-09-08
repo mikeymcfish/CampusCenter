@@ -16,9 +16,11 @@ $selection = (Read-Host 'Choose E/I/L/B/F/U/G/N (Enter = entrance)').ToUpperInva
 if (-not $maps.ContainsKey($selection)) { $selection='E' }
 $map = '/Game/Campus/Maps/' + $maps[$selection]
 if (Test-Path -LiteralPath $standalone) {
- Start-Process -FilePath $standalone -ArgumentList @($map,'-windowed','-ResX=1600','-ResY=900')
+ Start-Process -FilePath $standalone -ArgumentList @($map,'-windowed','-ForceRes','-ResX=1920','-ResY=1080')
 } else {
  $editorExe='C:\Program Files\Epic Games\UE_5.8\Engine\Binaries\Win64\UnrealEditor.exe'
  if (-not (Test-Path -LiteralPath $editorExe)) { throw 'Unreal 5.8 editor was not found; open CampusCenter.uproject with your installed editor.' }
- Start-Process -FilePath $editorExe -ArgumentList @(('"'+$projectFile+'"'),$map,'-game','-windowed','-ResX=1600','-ResY=900','-nosplash')
+ Start-Process -FilePath $editorExe -ArgumentList @(('"'+$projectFile+'"'),$map,'-game','-windowed','-ForceRes','-ResX=1920','-ResY=1080','-nosplash')
 }
+
+

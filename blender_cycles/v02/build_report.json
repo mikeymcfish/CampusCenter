@@ -1,0 +1,1253 @@
+{
+  "source_sha256": "6783e1030b24a905c656c979a69dc67bbebc597a0ff9525a8ab416a7468eff43",
+  "paint_objects": [
+    {
+      "object": "Athletics_north_wall0",
+      "painted_faces": 1
+    },
+    {
+      "object": "Athletics_north_sill0",
+      "painted_faces": 1
+    },
+    {
+      "object": "Athletics_north_head0",
+      "painted_faces": 1
+    },
+    {
+      "object": "Athletics_north_wall1",
+      "painted_faces": 1
+    },
+    {
+      "object": "Athletics_north_sill1",
+      "painted_faces": 1
+    },
+    {
+      "object": "Athletics_north_head1",
+      "painted_faces": 1
+    },
+    {
+      "object": "Athletics_north_wall2",
+      "painted_faces": 1
+    },
+    {
+      "object": "Athletics_north_sill2",
+      "painted_faces": 1
+    },
+    {
+      "object": "Athletics_north_head2",
+      "painted_faces": 1
+    },
+    {
+      "object": "Athletics_north_end",
+      "painted_faces": 1
+    },
+    {
+      "object": "Athletics_west_wall0",
+      "painted_faces": 1
+    },
+    {
+      "object": "Athletics_west_lintel0",
+      "painted_faces": 1
+    },
+    {
+      "object": "Athletics_west_end",
+      "painted_faces": 1
+    },
+    {
+      "object": "Athletics_south_wall0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Athletics_south_lintel0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Athletics_south_wall1",
+      "painted_faces": 4
+    },
+    {
+      "object": "Athletics_south_lintel1",
+      "painted_faces": 4
+    },
+    {
+      "object": "Athletics_south_wall2",
+      "painted_faces": 4
+    },
+    {
+      "object": "Athletics_south_lintel2",
+      "painted_faces": 4
+    },
+    {
+      "object": "Athletics_south_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Trainer_office_wall_wall0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Trainer_office_wall_lintel0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Trainer_office_wall_wall1",
+      "painted_faces": 4
+    },
+    {
+      "object": "Trainer_office_wall_lintel1",
+      "painted_faces": 4
+    },
+    {
+      "object": "Trainer_office_wall_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Athletics_centre_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Trainer_storage_divider_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Offices_divider_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Office124_126_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Athletics_east_wall0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Athletics_east_lintel0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Athletics_east_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "North_corridor_entry_wall0",
+      "painted_faces": 4
+    },
+    {
+      "object": "North_corridor_entry_lintel0",
+      "painted_faces": 4
+    },
+    {
+      "object": "North_corridor_entry_wall1",
+      "painted_faces": 4
+    },
+    {
+      "object": "North_corridor_entry_lintel1",
+      "painted_faces": 4
+    },
+    {
+      "object": "North_corridor_entry_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Locker122_north_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Locker_divider_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Locker121_south_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Locker122_east_lintel0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Locker122_east_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Locker121_east_wall0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Locker121_east_lintel0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Locker122_wet_partition_wall0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Locker122_wet_partition_lintel0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Locker122_wet_partition_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Locker121_wet_partition_wall0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Locker121_wet_partition_lintel0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Locker121_wet_partition_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "West_south_envelope_end",
+      "painted_faces": 1
+    },
+    {
+      "object": "West_entry_storefront_wall0",
+      "painted_faces": 4
+    },
+    {
+      "object": "West_entry_storefront_head0",
+      "painted_faces": 4
+    },
+    {
+      "object": "West_entry_storefront_wall1",
+      "painted_faces": 4
+    },
+    {
+      "object": "West_entry_storefront_lintel1",
+      "painted_faces": 4
+    },
+    {
+      "object": "West_entry_storefront_wall2",
+      "painted_faces": 4
+    },
+    {
+      "object": "West_entry_storefront_head2",
+      "painted_faces": 4
+    },
+    {
+      "object": "West_entry_storefront_wall3",
+      "painted_faces": 4
+    },
+    {
+      "object": "West_entry_storefront_lintel3",
+      "painted_faces": 4
+    },
+    {
+      "object": "West_entry_storefront_wall4",
+      "painted_faces": 4
+    },
+    {
+      "object": "West_entry_storefront_head4",
+      "painted_faces": 4
+    },
+    {
+      "object": "West_entry_storefront_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Athletic_store_east_wall0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Athletic_store_east_lintel0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Athletic_store_east_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Store_to_mechanical_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Janitor_east_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Janitor_north_lintel0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Janitor_north_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Restrooms_north_wall0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Restrooms_north_lintel0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Restrooms_north_wall1",
+      "painted_faces": 4
+    },
+    {
+      "object": "Restrooms_north_lintel1",
+      "painted_faces": 4
+    },
+    {
+      "object": "Restrooms_north_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Restroom_divider_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Restrooms_east_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Corridor_stair_boundary_wall0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Corridor_stair_boundary_lintel0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Corridor_stair_boundary_wall1",
+      "painted_faces": 4
+    },
+    {
+      "object": "Corridor_stair_boundary_lintel1",
+      "painted_faces": 4
+    },
+    {
+      "object": "Corridor_stair_boundary_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Lift_B_n_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Lift_B_w_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Lift_B_e_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Lift_B_s_wall0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Lift_B_s_lintel0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Lift_B_s_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "StairB_north_wall0",
+      "painted_faces": 4
+    },
+    {
+      "object": "StairB_north_lintel0",
+      "painted_faces": 4
+    },
+    {
+      "object": "StairB_north_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "StairB_east_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Classroom_strip_west_end",
+      "painted_faces": 1
+    },
+    {
+      "object": "Classrooms_north_wall0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Classrooms_north_lintel0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Classrooms_north_wall1",
+      "painted_faces": 4
+    },
+    {
+      "object": "Classrooms_north_lintel1",
+      "painted_faces": 4
+    },
+    {
+      "object": "Classrooms_north_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Office111_west_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Office111_north_wall0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Office111_north_lintel0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Office111_north_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Office111_south_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Office111_east_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Classrooms_south_wall0",
+      "painted_faces": 1
+    },
+    {
+      "object": "Classrooms_south_sill0",
+      "painted_faces": 1
+    },
+    {
+      "object": "Classrooms_south_head0",
+      "painted_faces": 1
+    },
+    {
+      "object": "Classrooms_south_wall1",
+      "painted_faces": 1
+    },
+    {
+      "object": "Classrooms_south_sill1",
+      "painted_faces": 1
+    },
+    {
+      "object": "Classrooms_south_head1",
+      "painted_faces": 1
+    },
+    {
+      "object": "Classrooms_south_wall2",
+      "painted_faces": 1
+    },
+    {
+      "object": "Classrooms_south_lintel2",
+      "painted_faces": 1
+    },
+    {
+      "object": "Classrooms_south_end",
+      "painted_faces": 1
+    },
+    {
+      "object": "Store109_west_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Store109_south_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Lab_west_wall0",
+      "painted_faces": 1
+    },
+    {
+      "object": "Lab_west_lintel0",
+      "painted_faces": 1
+    },
+    {
+      "object": "Lab_west_wall1",
+      "painted_faces": 1
+    },
+    {
+      "object": "Lab_west_lintel1",
+      "painted_faces": 1
+    },
+    {
+      "object": "Lab_west_end",
+      "painted_faces": 1
+    },
+    {
+      "object": "Lab_north_wall0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Lab_north_lintel0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Lab_north_wall1",
+      "painted_faces": 4
+    },
+    {
+      "object": "Lab_north_head1",
+      "painted_faces": 4
+    },
+    {
+      "object": "Lab_north_wall2",
+      "painted_faces": 4
+    },
+    {
+      "object": "Lab_north_lintel2",
+      "painted_faces": 4
+    },
+    {
+      "object": "Lab_north_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Lab_east_wall0",
+      "painted_faces": 1
+    },
+    {
+      "object": "Lab_east_lintel0",
+      "painted_faces": 1
+    },
+    {
+      "object": "Lab_east_end",
+      "painted_faces": 1
+    },
+    {
+      "object": "Lab_south_wall0",
+      "painted_faces": 1
+    },
+    {
+      "object": "Lab_south_sill0",
+      "painted_faces": 1
+    },
+    {
+      "object": "Lab_south_head0",
+      "painted_faces": 1
+    },
+    {
+      "object": "Lab_south_wall1",
+      "painted_faces": 1
+    },
+    {
+      "object": "Lab_south_sill1",
+      "painted_faces": 1
+    },
+    {
+      "object": "Lab_south_head1",
+      "painted_faces": 1
+    },
+    {
+      "object": "Lab_south_end",
+      "painted_faces": 1
+    },
+    {
+      "object": "Commons_gym_party_wall_end",
+      "painted_faces": 1
+    },
+    {
+      "object": "Commons_north_wall0",
+      "painted_faces": 1
+    },
+    {
+      "object": "Commons_north_head0",
+      "painted_faces": 1
+    },
+    {
+      "object": "Commons_north_end",
+      "painted_faces": 1
+    },
+    {
+      "object": "Commons_east_wall0",
+      "painted_faces": 1
+    },
+    {
+      "object": "Commons_east_head0",
+      "painted_faces": 1
+    },
+    {
+      "object": "Commons_east_end",
+      "painted_faces": 1
+    },
+    {
+      "object": "Vestibule_north_wall0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Vestibule_north_head0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Vestibule_north_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Vestibule_south_wall0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Vestibule_south_head0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Vestibule_south_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Reception_admissions_east_wall0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Reception_admissions_east_head0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Reception_admissions_east_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Gallery_south_wall0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Gallery_south_lintel0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Gallery_south_wall1",
+      "painted_faces": 4
+    },
+    {
+      "object": "Gallery_south_head1",
+      "painted_faces": 4
+    },
+    {
+      "object": "Gallery_south_wall2",
+      "painted_faces": 4
+    },
+    {
+      "object": "Gallery_south_head2",
+      "painted_faces": 4
+    },
+    {
+      "object": "Gallery_south_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Admissions_north_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Admissions_west_wall0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Admissions_west_lintel0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Admissions_west_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Reception_return_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Fitness_north_wall0",
+      "painted_faces": 1
+    },
+    {
+      "object": "Fitness_north_sill0",
+      "painted_faces": 1
+    },
+    {
+      "object": "Fitness_north_head0",
+      "painted_faces": 1
+    },
+    {
+      "object": "Fitness_north_wall1",
+      "painted_faces": 1
+    },
+    {
+      "object": "Fitness_north_sill1",
+      "painted_faces": 1
+    },
+    {
+      "object": "Fitness_north_head1",
+      "painted_faces": 1
+    },
+    {
+      "object": "Fitness_north_end",
+      "painted_faces": 1
+    },
+    {
+      "object": "Fitness_west_wall0",
+      "painted_faces": 1
+    },
+    {
+      "object": "Fitness_west_sill0",
+      "painted_faces": 1
+    },
+    {
+      "object": "Fitness_west_head0",
+      "painted_faces": 1
+    },
+    {
+      "object": "Fitness_west_end",
+      "painted_faces": 1
+    },
+    {
+      "object": "Fitness_gym_wall_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Fitness_south_wall0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Fitness_south_head0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Fitness_south_wall1",
+      "painted_faces": 4
+    },
+    {
+      "object": "Fitness_south_lintel1",
+      "painted_faces": 4
+    },
+    {
+      "object": "Fitness_south_wall2",
+      "painted_faces": 4
+    },
+    {
+      "object": "Fitness_south_head2",
+      "painted_faces": 4
+    },
+    {
+      "object": "Fitness_south_wall3",
+      "painted_faces": 4
+    },
+    {
+      "object": "Fitness_south_lintel3",
+      "painted_faces": 4
+    },
+    {
+      "object": "Fitness_south_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Toilets_west_wall0",
+      "painted_faces": 1
+    },
+    {
+      "object": "Toilets_west_sill0",
+      "painted_faces": 1
+    },
+    {
+      "object": "Toilets_west_head0",
+      "painted_faces": 1
+    },
+    {
+      "object": "Toilets_west_wall1",
+      "painted_faces": 1
+    },
+    {
+      "object": "Toilets_west_sill1",
+      "painted_faces": 1
+    },
+    {
+      "object": "Toilets_west_head1",
+      "painted_faces": 1
+    },
+    {
+      "object": "Toilets_west_wall2",
+      "painted_faces": 1
+    },
+    {
+      "object": "Toilets_west_sill2",
+      "painted_faces": 1
+    },
+    {
+      "object": "Toilets_west_head2",
+      "painted_faces": 1
+    },
+    {
+      "object": "Toilets_west_wall3",
+      "painted_faces": 1
+    },
+    {
+      "object": "Toilets_west_sill3",
+      "painted_faces": 1
+    },
+    {
+      "object": "Toilets_west_head3",
+      "painted_faces": 1
+    },
+    {
+      "object": "Toilets_west_end",
+      "painted_faces": 1
+    },
+    {
+      "object": "Toilet213_divider_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Toilet216_divider_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Toilet211_divider_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Toilet213_east_wall0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Toilet213_east_lintel0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Toilet213_east_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Toilet216_east_wall0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Toilet216_east_lintel0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Toilet216_east_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Toilet211_east_wall0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Toilet211_east_lintel0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Toilet211_east_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Toilet212_east_wall0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Toilet212_east_lintel0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Toilet212_east_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Toilet212_north_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Service214_west_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Service214_east_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Service214_south_wall0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Service214_south_lintel0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Service214_south_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Storage215_south_wall0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Storage215_south_lintel0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Storage215_south_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Storage215_east_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Collab219_north_wall0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Collab219_north_lintel0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Collab219_north_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Collab219_west_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Collab219_east_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "West_upper_south_wall0",
+      "painted_faces": 1
+    },
+    {
+      "object": "West_upper_south_sill0",
+      "painted_faces": 1
+    },
+    {
+      "object": "West_upper_south_head0",
+      "painted_faces": 1
+    },
+    {
+      "object": "West_upper_south_end",
+      "painted_faces": 1
+    },
+    {
+      "object": "Upper_entry_storefront_wall0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Upper_entry_storefront_head0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Upper_entry_storefront_wall1",
+      "painted_faces": 4
+    },
+    {
+      "object": "Upper_entry_storefront_head1",
+      "painted_faces": 4
+    },
+    {
+      "object": "Upper_entry_storefront_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "StairB_upper_west_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "StairB_upper_east_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "StairB_upper_north_wall0",
+      "painted_faces": 4
+    },
+    {
+      "object": "StairB_upper_north_lintel0",
+      "painted_faces": 4
+    },
+    {
+      "object": "StairB_upper_north_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "LiftB_upper_s_wall0",
+      "painted_faces": 4
+    },
+    {
+      "object": "LiftB_upper_s_lintel0",
+      "painted_faces": 4
+    },
+    {
+      "object": "LiftB_upper_s_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Upper_classrooms_north_wall0",
+      "painted_faces": 8
+    },
+    {
+      "object": "Upper_classrooms_north_lintel0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Upper_classrooms_north_wall1",
+      "painted_faces": 8
+    },
+    {
+      "object": "Upper_classrooms_north_lintel1",
+      "painted_faces": 4
+    },
+    {
+      "object": "Upper_classrooms_north_wall2",
+      "painted_faces": 8
+    },
+    {
+      "object": "Upper_classrooms_north_lintel2",
+      "painted_faces": 4
+    },
+    {
+      "object": "Upper_classrooms_north_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Class210_west_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Class210_209_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Class209_208_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Class208_east_wall0",
+      "painted_faces": 1
+    },
+    {
+      "object": "Class208_east_lintel0",
+      "painted_faces": 1
+    },
+    {
+      "object": "Class208_east_end",
+      "painted_faces": 1
+    },
+    {
+      "object": "Classrooms_upper_south_wall0",
+      "painted_faces": 1
+    },
+    {
+      "object": "Classrooms_upper_south_sill0",
+      "painted_faces": 1
+    },
+    {
+      "object": "Classrooms_upper_south_head0",
+      "painted_faces": 1
+    },
+    {
+      "object": "Classrooms_upper_south_wall1",
+      "painted_faces": 1
+    },
+    {
+      "object": "Classrooms_upper_south_sill1",
+      "painted_faces": 1
+    },
+    {
+      "object": "Classrooms_upper_south_head1",
+      "painted_faces": 1
+    },
+    {
+      "object": "Classrooms_upper_south_wall2",
+      "painted_faces": 1
+    },
+    {
+      "object": "Classrooms_upper_south_sill2",
+      "painted_faces": 1
+    },
+    {
+      "object": "Classrooms_upper_south_head2",
+      "painted_faces": 1
+    },
+    {
+      "object": "Classrooms_upper_south_end",
+      "painted_faces": 1
+    },
+    {
+      "object": "IT_Admin_north_wall0",
+      "painted_faces": 4
+    },
+    {
+      "object": "IT_Admin_north_lintel0",
+      "painted_faces": 4
+    },
+    {
+      "object": "IT_Admin_north_wall1",
+      "painted_faces": 4
+    },
+    {
+      "object": "IT_Admin_north_lintel1",
+      "painted_faces": 4
+    },
+    {
+      "object": "IT_Admin_north_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "IT205_west_wall0",
+      "painted_faces": 4
+    },
+    {
+      "object": "IT205_west_lintel0",
+      "painted_faces": 4
+    },
+    {
+      "object": "IT205_west_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "IT205_south_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Admin_west_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Shaft_south_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Admin_east_wall0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Admin_east_lintel0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Admin_east_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Admin_south_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Head_school_east_end",
+      "painted_faces": 2
+    },
+    {
+      "object": "Offices_upper_south_wall0",
+      "painted_faces": 1
+    },
+    {
+      "object": "Offices_upper_south_sill0",
+      "painted_faces": 1
+    },
+    {
+      "object": "Offices_upper_south_head0",
+      "painted_faces": 1
+    },
+    {
+      "object": "Offices_upper_south_wall1",
+      "painted_faces": 1
+    },
+    {
+      "object": "Offices_upper_south_sill1",
+      "painted_faces": 1
+    },
+    {
+      "object": "Offices_upper_south_head1",
+      "painted_faces": 1
+    },
+    {
+      "object": "Offices_upper_south_wall2",
+      "painted_faces": 1
+    },
+    {
+      "object": "Offices_upper_south_sill2",
+      "painted_faces": 1
+    },
+    {
+      "object": "Offices_upper_south_head2",
+      "painted_faces": 1
+    },
+    {
+      "object": "Offices_upper_south_end",
+      "painted_faces": 1
+    },
+    {
+      "object": "Upper_commons_north_wall0",
+      "painted_faces": 1
+    },
+    {
+      "object": "Upper_commons_north_head0",
+      "painted_faces": 1
+    },
+    {
+      "object": "Upper_commons_north_end",
+      "painted_faces": 1
+    },
+    {
+      "object": "Upper_commons_east_wall0",
+      "painted_faces": 1
+    },
+    {
+      "object": "Upper_commons_east_head0",
+      "painted_faces": 1
+    },
+    {
+      "object": "Upper_commons_east_end",
+      "painted_faces": 1
+    },
+    {
+      "object": "Gallery_upper_east_wall0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Gallery_upper_east_head0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Gallery_upper_east_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Gallery_upper_south_wall0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Gallery_upper_south_head0",
+      "painted_faces": 4
+    },
+    {
+      "object": "Gallery_upper_south_end",
+      "painted_faces": 4
+    },
+    {
+      "object": "Gym_east",
+      "painted_faces": 1
+    }
+  ],
+  "paint_faces": 926,
+  "carpet_bounds_m": [
+    [
+      "X",
+      0.15,
+      16.312
+    ],
+    [
+      "Y",
+      14.6283,
+      30.887
+    ],
+    [
+      "Z",
+      -0.001,
+      0.001
+    ]
+  ],
+  "mesh_count": 3422,
+  "geometry_changed": false
+}

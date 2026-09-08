@@ -1,0 +1,207 @@
+[
+  {
+    "path": "README.md",
+    "sha256": "2c94ca8a555225da4a45870a5d485ca22b5ff4a17b2f3b75ad9d6dc6e1335f4a",
+    "bytes": 3131
+  },
+  {
+    "path": "SOURCES.md",
+    "sha256": "9d52163068e6a14b4f380186af6fc11bb26712b3c619cd26ece695b844243188",
+    "bytes": 2409
+  },
+  {
+    "path": "Source_Copy.blend",
+    "sha256": "dbe1f882f090e0711c3c5dd4c7dfc9c83702c3e70a1a434493ad79f8360da59d",
+    "bytes": 43523246
+  },
+  {
+    "path": "Campus_Center_Cycles_Studio.blend",
+    "sha256": "f82d0da0db2cb60e6f663d40f0dcf3824f235762cf669a0ea4653ccba628dbfd",
+    "bytes": 45263321
+  },
+  {
+    "path": "build_details.py",
+    "sha256": "34cfc8bfccdf327b3522beb3924ee42c4e5e2f9e6490669e510db607bd08e1c7",
+    "bytes": 17492
+  },
+  {
+    "path": "make_graphics.py",
+    "sha256": "f041e73aefd4122a78522a36449a466cce62fed5a264b40ba0fe82a07304579e",
+    "bytes": 1082
+  },
+  {
+    "path": "probe.py",
+    "sha256": "771fc3f461a1e288b9a61d5aaff8c0d0b3652fd97c25526fc9042203e32ef863",
+    "bytes": 838
+  },
+  {
+    "path": "render_stills.py",
+    "sha256": "cdfa2fb627481dc64c073c1243a94251226bb9dbd5ce25b0b4df4466085b3118",
+    "bytes": 2010
+  },
+  {
+    "path": "verify_details.py",
+    "sha256": "65536e141b6f7ade234c756f0e1457935c090610e5bf3e97cfc46a135b9a566c",
+    "bytes": 2171
+  },
+  {
+    "path": "validate_images.py",
+    "sha256": "9dc07f8031f6612fbdf646337b5331d4c00e59bc84cdfba617720594ee140ea9",
+    "bytes": 2035
+  },
+  {
+    "path": "preflight.json",
+    "sha256": "d5f0cf7d5dda9459293e1239e3680b3a0069f3dfc80f318b735d6dd193ce2045",
+    "bytes": 2435587
+  },
+  {
+    "path": "build_report.json",
+    "sha256": "89ac884a578c3d0f4d13ae37a08d477e09948dcf859896b7706f2f3128f6fc99",
+    "bytes": 56529
+  },
+  {
+    "path": "render_contract.json",
+    "sha256": "9c0c4d42ba7ad71a1c83d169fd12b47b088f6d89968299327c14374507fdd7d0",
+    "bytes": 1588
+  },
+  {
+    "path": "scene_validation.json",
+    "sha256": "213d31e3bf38232fdf5df117e13672efe581f0fa4018b7981a5ba17fd2e5d654",
+    "bytes": 322
+  },
+  {
+    "path": "image_validation.json",
+    "sha256": "78bde689a7e0128da2d92207424bcbcb8ab18ab4eed8505d350ba21d463a8b15",
+    "bytes": 10741
+  },
+  {
+    "path": "assets/King_seal.svg",
+    "sha256": "587d1396f1d6fc13a082407da55ece78adde38ec8216d1a0c116fa3af97ae055",
+    "bytes": 9098
+  },
+  {
+    "path": "assets/King_seal.png",
+    "sha256": "8e27e57680fedf5bc07699ece068484ccca3b15fe39e4477aa02b99496c02ad9",
+    "bytes": 115030
+  },
+  {
+    "path": "assets/King_wordmark.svg",
+    "sha256": "3c179854aac0fc527dc3fc665b23e89895ae9bcd5e8b2345db36ce67e456ecfc",
+    "bytes": 21850
+  },
+  {
+    "path": "assets/King_wordmark.png",
+    "sha256": "6ce37eba377051cdb99d15f8de9a5ce7470f187d49c3834917ef3830fcf5a280",
+    "bytes": 56094
+  },
+  {
+    "path": "assets/King_banner.png",
+    "sha256": "55157933b239dea59e175b298d383c314f0a4edc024de9693d903df6d84712e1",
+    "bytes": 81897
+  },
+  {
+    "path": "stills/01_Entrance.exr",
+    "sha256": "3bd0231aabbfacf782809f949726c21f802a97be983691a652383eff1e6b5b98",
+    "bytes": 73061000
+  },
+  {
+    "path": "stills/01_Entrance.png",
+    "sha256": "779d9f49fe295e14469a27fc3752d44228a5a19a17065409bec4eaa211ece237",
+    "bytes": 8741263
+  },
+  {
+    "path": "stills/01_Entrance_preview.jpg",
+    "sha256": "7a621e318ae1e67cb876f9f02a7356ec062ff6a872d072c36b8486ea9e0d87c8",
+    "bytes": 312720
+  },
+  {
+    "path": "stills/02_Commons.exr",
+    "sha256": "aafbf8a27b826b7d9dcc472093e932bcdd405f940e87c026eb8f567de421b44f",
+    "bytes": 98705560
+  },
+  {
+    "path": "stills/02_Commons.png",
+    "sha256": "04f479fcd43c942ce6a314869a4b6f702fd3433d81af8225716f0525aa199d1a",
+    "bytes": 8863788
+  },
+  {
+    "path": "stills/02_Commons_preview.jpg",
+    "sha256": "d92008f26968b54350953fb954956b3407fe7a8aa128453d28656625d8f01477",
+    "bytes": 382977
+  },
+  {
+    "path": "stills/03_iLab.exr",
+    "sha256": "9ab4ade5864de5b2a83ff034d866918a164c445e9f59693d2a734f4e58f9837f",
+    "bytes": 99754267
+  },
+  {
+    "path": "stills/03_iLab.png",
+    "sha256": "972fea09a3e89376ee4a1c3986991f1a269800de77454caca3a33ca98a038d0e",
+    "bytes": 8568489
+  },
+  {
+    "path": "stills/03_iLab_preview.jpg",
+    "sha256": "16b386674b4a853a95437a611a6c20cd0b69b49084a155e9a89fc0c36653d93f",
+    "bytes": 320256
+  },
+  {
+    "path": "stills/04_Gallery.exr",
+    "sha256": "2b92164842521be26bad903ad023692e91ca19ef71df5ff670b800ff459ecc24",
+    "bytes": 105070336
+  },
+  {
+    "path": "stills/04_Gallery.png",
+    "sha256": "86bb355740213ca3fdf36969381aaf873e506a84c2013a0dade81268d60561e1",
+    "bytes": 9512214
+  },
+  {
+    "path": "stills/04_Gallery_preview.jpg",
+    "sha256": "e2d7f06f0d9598434f83ccc7e7f33c5836b6ac855cc80fde554acd204f923457",
+    "bytes": 401357
+  },
+  {
+    "path": "stills/05_Printer_Detail.exr",
+    "sha256": "0a5285a8113890234341c7ff3130c1ad3602315160b7f0f1cc84b6e4258ddfd5",
+    "bytes": 89441271
+  },
+  {
+    "path": "stills/05_Printer_Detail.png",
+    "sha256": "e5d97effe0720da9411d80c8443a4348480d560d8d672a899e64715fb81129ad",
+    "bytes": 8245808
+  },
+  {
+    "path": "stills/05_Printer_Detail_preview.jpg",
+    "sha256": "12ec20eb6d35df5cf77f4c9bf57e06db9b8315a555533a496b7dc258cd330606",
+    "bytes": 277309
+  },
+  {
+    "path": "stills/06_Entrance_Planting.exr",
+    "sha256": "f57655695318568f0e39d5dadf3c2c2bb9f6d4dbd96a3a3a2c6cc4e206a6360b",
+    "bytes": 73911283
+  },
+  {
+    "path": "stills/06_Entrance_Planting.png",
+    "sha256": "6a02ea30513e8106d4a6d932cd4374daef9db140724b9d460638504641ce9de2",
+    "bytes": 8297217
+  },
+  {
+    "path": "stills/06_Entrance_Planting_preview.jpg",
+    "sha256": "cf59827f2f8932aba65c6b64bfcaeaa8e1a79e4e7b828745ab34a953a1e03821",
+    "bytes": 425421
+  },
+  {
+    "path": "stills/complete.json",
+    "sha256": "4171c193bc9e5d66bdbc9dd80205aef45ee7f309a40a75c5af9bcc76b52c20a8",
+    "bytes": 1861
+  },
+  {
+    "path": "stills/Six_Views.jpg",
+    "sha256": "690ae6aa2ff4c2b78c7ccdf5763e9e2622155d888880037f772fac58778acd7b",
+    "bytes": 754458
+  },
+  {
+    "path": "stills/timings.json",
+    "sha256": "2cede11e2819b9f21272574711e240b8fd872d7acbd1ca9673a68baaf3bb6d98",
+    "bytes": 1659
+  }
+]

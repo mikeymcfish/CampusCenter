@@ -1,0 +1,28 @@
+{
+  "asset": "ambientCG Wood049",
+  "source": "https://ambientcg.com/view?id=Wood049",
+  "download": "https://ambientcg.com/get?file=Wood049_2K-JPG.zip",
+  "license": "CC0",
+  "physical_size_m": [
+    0.8,
+    0.8
+  ],
+  "usage": "Native Unreal oak materials; existing UVs retiled 3 x 1.5 to preserve physical grain scale",
+  "files": [
+    {
+      "path": "assets/Wood049/Wood049_2K-JPG_Color.jpg",
+      "bytes": 3643718,
+      "sha256": "447ca1455fa88d37465319638f1c99107f02f50fcf491d3c15314658d21e4d5e"
+    },
+    {
+      "path": "assets/Wood049/Wood049_2K-JPG_NormalDX.jpg",
+      "bytes": 6564932,
+      "sha256": "74ef47dae64a2508e703df3f6b68be7c3f5a25fbaf5017add8c27d41959c94a4"
+    },
+    {
+      "path": "assets/Wood049/Wood049_2K-JPG_Roughness.jpg",
+      "bytes": 2988190,
+      "sha256": "bb20736bb4b18533cce8c1f36ea8fff7216653b3516ec60f1aedb83362151691"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "old": "Gray_thin_brick",
+    "new": "/Game/Campus/PolishV03/Materials/M_Gray_thin_brick",
+    "base_texture": "/Game/Campus/Imported/Campus_Transfer/Textures/brick_gray_base.brick_gray_base"
+  },
+  {
+    "old": "Gray_thin_brick1",
+    "new": "/Game/Campus/PolishV03/Materials/M_Gray_thin_brick1",
+    "base_texture": "/Game/Campus/Imported/Campus_Transfer/Textures/brick_gray_base.brick_gray_base"
+  },
+  {
+    "old": "Warm_ivory_facade_brick",
+    "new": "/Game/Campus/PolishV03/Materials/M_Warm_ivory_facade_brick",
+    "base_texture": "/Game/Campus/Imported/Campus_Transfer/Textures/brick_ivory_base.brick_ivory_base"
+  },
+  {
+    "old": "Warm_ivory_facade_brick1",
+    "new": "/Game/Campus/PolishV03/Materials/M_Warm_ivory_facade_brick1",
+    "base_texture": "/Game/Campus/Imported/Campus_Transfer/Textures/brick_ivory_base.brick_ivory_base"
+  },
+  {
+    "old": "Light_stone_paving",
+    "new": "/Game/Campus/PolishV03/Materials/M_Light_stone_paving",
+    "base_texture": "/Game/Campus/Imported/Campus_Transfer/Textures/stone_base.stone_base"
+  },
+  {
+    "old": "Light_stone_paving1",
+    "new": "/Game/Campus/PolishV03/Materials/M_Light_stone_paving1",
+    "base_texture": "/Game/Campus/Imported/Campus_Transfer/Textures/stone_base.stone_base"
+  },
+  {
+    "old": "Anodized_aluminum",
+    "new": "/Game/Campus/PolishV03/Materials/M_Anodized_aluminum",
+    "base_texture": "/InterchangeAssets/gltf/Textures/T_White_srgb.T_White_srgb"
+  },
+  {
+    "old": "Brushed_stainless_hardware",
+    "new": "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware",
+    "base_texture": "/InterchangeAssets/gltf/Textures/T_White_srgb.T_White_srgb"
+  },
+  {
+    "old": "Dark_metal",
+    "new": "/Game/Campus/PolishV03/Materials/M_Dark_metal",
+    "base_texture": "/InterchangeAssets/gltf/Textures/T_White_srgb.T_White_srgb"
+  }
+]

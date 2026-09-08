@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "source_v04_unchanged": true,
+  "original_mesh_objects_retained": 5089,
+  "artwork_placements": 36,
+  "unique_imagegen_designs": 8,
+  "banner_dimensions_m": [
+    1.75,
+    5.25
+  ],
+  "missing_images": [],
+  "original_walkthrough_retained": true,
+  "packed_images": 38
+}

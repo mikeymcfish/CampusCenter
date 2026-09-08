@@ -1,0 +1,59 @@
+{
+  "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\cycles_studio_v04\\Source_Copy.blend",
+  "source_sha256": "f82d0da0db2cb60e6f663d40f0dcf3824f235762cf669a0ea4653ccba628dbfd",
+  "working_file": "Campus_Center_Cycles_Studio.blend",
+  "blender": "5.0.0",
+  "engine": "Cycles",
+  "device": "RTX 4090 CUDA GPU only",
+  "final_samples": 256,
+  "adaptive_threshold": 0.01,
+  "denoiser": "OpenImageDenoise",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "preview_resolution": [
+    960,
+    540
+  ],
+  "preview_samples": 32,
+  "frame": 1,
+  "outputs": [
+    "01_Entrance.png",
+    "02_Commons.png",
+    "03_iLab.png",
+    "04_Gallery.png",
+    "05_Printer_Detail.png",
+    "06_Entrance_Planting.png",
+    "07_Fireplace.png"
+  ],
+  "supplemental_outputs": [
+    "01_Entrance.exr",
+    "02_Commons.exr",
+    "03_iLab.exr",
+    "04_Gallery.exr",
+    "05_Printer_Detail.exr",
+    "06_Entrance_Planting.exr",
+    "07_Fireplace.exr"
+  ],
+  "png": "16-bit RGB AgX",
+  "exr": "16-bit multilayer linear ZIP",
+  "passes": [
+    "Combined",
+    "Denoising Normal",
+    "Denoising Albedo",
+    "Depth",
+    "Normal",
+    "Diffuse Direct",
+    "Diffuse Indirect",
+    "Diffuse Color",
+    "Glossy Direct",
+    "Glossy Indirect",
+    "Glossy Color",
+    "Emission"
+  ],
+  "visibility": "Students hidden for clean architectural views; original collection retained",
+  "geometry": "Versioned site and planting additions, banners doubled, obstructing curved group retained hidden; structural geometry unchanged",
+  "source_save": false,
+  "overwrite_policy": "Only generated files in this isolated output directory"
+}

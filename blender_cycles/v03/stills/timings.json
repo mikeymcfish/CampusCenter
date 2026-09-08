@@ -1,0 +1,80 @@
+[
+  {
+    "camera": "01_Entrance",
+    "seconds": 28.35598949994892,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "max_samples": 256,
+    "adaptive_threshold": 0.009999999776482582,
+    "engine": "Cycles",
+    "device": "CUDA",
+    "preview": false
+  },
+  {
+    "camera": "02_Commons",
+    "seconds": 17.14972400001716,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "max_samples": 256,
+    "adaptive_threshold": 0.009999999776482582,
+    "engine": "Cycles",
+    "device": "CUDA",
+    "preview": false
+  },
+  {
+    "camera": "03_iLab",
+    "seconds": 18.072041199891828,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "max_samples": 256,
+    "adaptive_threshold": 0.009999999776482582,
+    "engine": "Cycles",
+    "device": "CUDA",
+    "preview": false
+  },
+  {
+    "camera": "04_Gallery",
+    "seconds": 17.902842100011185,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "max_samples": 256,
+    "adaptive_threshold": 0.009999999776482582,
+    "engine": "Cycles",
+    "device": "CUDA",
+    "preview": false
+  },
+  {
+    "camera": "05_Printer_Detail",
+    "seconds": 17.85239040001761,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "max_samples": 256,
+    "adaptive_threshold": 0.009999999776482582,
+    "engine": "Cycles",
+    "device": "CUDA",
+    "preview": false
+  },
+  {
+    "camera": "06_Entrance_Planting",
+    "seconds": 18.248506799922325,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "max_samples": 256,
+    "adaptive_threshold": 0.009999999776482582,
+    "engine": "Cycles",
+    "device": "CUDA",
+    "preview": false
+  }
+]

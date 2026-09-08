@@ -1,0 +1,142 @@
+[
+  {
+    "file": "potted_plant_01\\potted_plant_01.blend",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/2k/potted_plant_01/potted_plant_01_2k.blend",
+    "bytes": 2784329,
+    "sha256": "2dfc6297b611f991e1847ffc20514dee561aa23b8fa064870a8cce48c3d52627",
+    "license": "CC0"
+  },
+  {
+    "file": "potted_plant_01\\textures\\potted_plant_01_leaves_alpha_2k.png",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/potted_plant_01/potted_plant_01_leaves_alpha_2k.png",
+    "bytes": 199855,
+    "sha256": "06f49590ff6e0480528ded4b69c3e19eb4009cb81b3031e28b52c5a6e662bd8f",
+    "license": "CC0"
+  },
+  {
+    "file": "potted_plant_01\\textures\\potted_plant_01_pot_rough_2k.png",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/potted_plant_01/potted_plant_01_pot_rough_2k.png",
+    "bytes": 5865763,
+    "sha256": "5198ca9cc09898c86c00af23d54ea331480bf1c4cfc19f4a92821fb96a2bd96d",
+    "license": "CC0"
+  },
+  {
+    "file": "potted_plant_01\\textures\\potted_plant_01_leaves_nor_gl_2k.png",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/potted_plant_01/potted_plant_01_leaves_nor_gl_2k.png",
+    "bytes": 14782653,
+    "sha256": "aa0d16ce0a0880370f37844408ca2d62af9a90cc30e29851bf8fabeb73bfac5c",
+    "license": "CC0"
+  },
+  {
+    "file": "potted_plant_01\\textures\\potted_plant_01_pot_diff_2k.png",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/potted_plant_01/potted_plant_01_pot_diff_2k.png",
+    "bytes": 17994581,
+    "sha256": "9d31469c28c987e2ef9acb75b0e69de21d01ff172aa78745b0872a95cfd98166",
+    "license": "CC0"
+  },
+  {
+    "file": "potted_plant_01\\textures\\potted_plant_01_leaves_rough_2k.png",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/potted_plant_01/potted_plant_01_leaves_rough_2k.png",
+    "bytes": 3726462,
+    "sha256": "dcbc6c5783fe82107d8634d427270621eadad73ddebaf6d8a997ebd547ae4421",
+    "license": "CC0"
+  },
+  {
+    "file": "potted_plant_01\\textures\\potted_plant_01_pot_nor_gl_2k.png",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/potted_plant_01/potted_plant_01_pot_nor_gl_2k.png",
+    "bytes": 18083982,
+    "sha256": "e82e83dcfa821c8824e7a5b4f04f1a21739010d98f362ae88ed7e91bb840b561",
+    "license": "CC0"
+  },
+  {
+    "file": "potted_plant_01\\textures\\potted_plant_01_leaves_diff_2k.png",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/potted_plant_01/potted_plant_01_leaves_diff_2k.png",
+    "bytes": 12648810,
+    "sha256": "43970f143fb35553bd78f048acfce149b8152c5b9fdbcd90897403b519494192",
+    "license": "CC0"
+  },
+  {
+    "file": "shrub_03\\shrub_03.blend",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/2k/shrub_03/shrub_03_2k.blend",
+    "bytes": 346512,
+    "sha256": "23b5e7f9b6c6312930b474bc5e5c4b76b0c589a08a414c03001d480820cdfc37",
+    "license": "CC0"
+  },
+  {
+    "file": "shrub_03\\textures\\shrub_03_alpha_2k.png",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/shrub_03/shrub_03_alpha_2k.png",
+    "bytes": 183836,
+    "sha256": "250606877093a81e791cc52e434f271a843838e6bed460a1c88a1955f52af50c",
+    "license": "CC0"
+  },
+  {
+    "file": "shrub_03\\textures\\shrub_03_diff_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/shrub_03/shrub_03_diff_2k.jpg",
+    "bytes": 1520137,
+    "sha256": "66290b6c5366dd0259f5a2a7d84deaac1dfe35f6be661c97752d98dbcdb427ed",
+    "license": "CC0"
+  },
+  {
+    "file": "shrub_03\\textures\\shrub_03_rough_2k.exr",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/shrub_03/shrub_03_rough_2k.exr",
+    "bytes": 931451,
+    "sha256": "c35c354227c7cc367f758eb9f6fac29b3ed500eb9be14c3cec3417e5be796f54",
+    "license": "CC0"
+  },
+  {
+    "file": "shrub_03\\textures\\shrub_03_nor_gl_2k.exr",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/shrub_03/shrub_03_nor_gl_2k.exr",
+    "bytes": 2885663,
+    "sha256": "b08fdc361b7b63db0cc6c708c414e95470a636aa0a11789ee3c40d9ed36920ec",
+    "license": "CC0"
+  },
+  {
+    "file": "grass_medium_01\\grass_medium_01.blend",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/2k/grass_medium_01/grass_medium_01_2k.blend",
+    "bytes": 1832480,
+    "sha256": "c5ec75dd54a425d39d9e26fbeeee4c6428bd5f60c4e24006425321be43bf055f",
+    "license": "CC0"
+  },
+  {
+    "file": "grass_medium_01\\textures\\grass_medium_01_alpha_2k.png",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/grass_medium_01/grass_medium_01_alpha_2k.png",
+    "bytes": 1580653,
+    "sha256": "4af2c3d5ebf167764ad3746f8c925dc4fbe28f0df023656599123cb593b793dd",
+    "license": "CC0"
+  },
+  {
+    "file": "grass_medium_01\\textures\\grass_medium_01_diff_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/grass_medium_01/grass_medium_01_diff_2k.jpg",
+    "bytes": 1166527,
+    "sha256": "f768aa68daf14f37a92dd96621628a5252b169f4d94b4d1cc830d62cd3ac9e68",
+    "license": "CC0"
+  },
+  {
+    "file": "grass_medium_01\\textures\\grass_medium_01_dry_diff_2k.png",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/grass_medium_01/grass_medium_01_dry_diff_2k.png",
+    "bytes": 6652964,
+    "sha256": "b41838fcdbf5d0387cc0441dce8ffde10bf79d0256a372ac01dbf3f2175b7273",
+    "license": "CC0"
+  },
+  {
+    "file": "grass_medium_01\\textures\\grass_medium_01_nor_gl_2k.exr",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/grass_medium_01/grass_medium_01_nor_gl_2k.exr",
+    "bytes": 7389519,
+    "sha256": "37488442da10568ce47a24096df77ab82f35b2ccf294ca1c960b7506c95d47f1",
+    "license": "CC0"
+  },
+  {
+    "file": "grass_medium_01\\textures\\grass_medium_01_rough_2k.exr",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/grass_medium_01/grass_medium_01_rough_2k.exr",
+    "bytes": 2627410,
+    "sha256": "f71e4e0c66f7ab0e53ea4352824b86ab074471eba1864c8a7b81fa8fca785470",
+    "license": "CC0"
+  },
+  {
+    "file": "greenwich_park_4k.hdr",
+    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/greenwich_park_4k.hdr",
+    "bytes": 27933684,
+    "sha256": "a576ad8a8bb7e34c91dc8b6820618238f2a88827ea4972bb16947af0593b8b5c",
+    "license": "CC0"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "file": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\cycles_studio_v01\\Campus_Center_Cycles_Studio.blend",
+  "engine": "CYCLES",
+  "samples": 256,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "camera_names": [
+    "01_Entrance",
+    "02_Commons",
+    "03_iLab"
+  ],
+  "missing_images": [],
+  "packed_file_images": 15,
+  "mesh_count": 3422,
+  "source_mesh_count": 3422,
+  "walkthrough_retained": true,
+  "source_unchanged": true,
+  "status": "passed"
+}

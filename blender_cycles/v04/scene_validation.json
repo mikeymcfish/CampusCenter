@@ -1,0 +1,27 @@
+{
+  "status": "passed",
+  "source_v03_unchanged": true,
+  "original_objects_retained": 5058,
+  "errors": [],
+  "missing_images": [],
+  "packed_images": 30,
+  "banner_sizes_m": [
+    [
+      1.4000015258789062,
+      4.200000762939453
+    ],
+    [
+      1.4000015258789062,
+      4.200000762939453
+    ],
+    [
+      1.4000015258789062,
+      4.200000762939453
+    ]
+  ],
+  "fireplace_obstructing_group_disabled": true,
+  "imagegen_fire_packed": true,
+  "hdr_environment_packed": true,
+  "original_walkthrough_retained": true,
+  "new_plant_instances": 332
+}

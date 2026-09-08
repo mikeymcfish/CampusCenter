@@ -1,0 +1,96 @@
+{
+  "outputs": [
+    {
+      "camera": "01_Entrance",
+      "seconds": 32.9093343000859,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "max_samples": 256,
+      "adaptive_threshold": 0.009999999776482582,
+      "engine": "Cycles",
+      "device": "CUDA",
+      "preview": false
+    },
+    {
+      "camera": "02_Commons",
+      "seconds": 18.942421599989757,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "max_samples": 256,
+      "adaptive_threshold": 0.009999999776482582,
+      "engine": "Cycles",
+      "device": "CUDA",
+      "preview": false
+    },
+    {
+      "camera": "03_iLab",
+      "seconds": 18.979547300026752,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "max_samples": 256,
+      "adaptive_threshold": 0.009999999776482582,
+      "engine": "Cycles",
+      "device": "CUDA",
+      "preview": false
+    },
+    {
+      "camera": "04_Gallery",
+      "seconds": 19.90711349993944,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "max_samples": 256,
+      "adaptive_threshold": 0.009999999776482582,
+      "engine": "Cycles",
+      "device": "CUDA",
+      "preview": false
+    },
+    {
+      "camera": "05_Printer_Detail",
+      "seconds": 19.504327000002377,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "max_samples": 256,
+      "adaptive_threshold": 0.009999999776482582,
+      "engine": "Cycles",
+      "device": "CUDA",
+      "preview": false
+    },
+    {
+      "camera": "06_Entrance_Planting",
+      "seconds": 23.408699200022966,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "max_samples": 256,
+      "adaptive_threshold": 0.009999999776482582,
+      "engine": "Cycles",
+      "device": "CUDA",
+      "preview": false
+    },
+    {
+      "camera": "07_Fireplace",
+      "seconds": 19.711679399944842,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "max_samples": 256,
+      "adaptive_threshold": 0.009999999776482582,
+      "engine": "Cycles",
+      "device": "CUDA",
+      "preview": false
+    }
+  ],
+  "status": "rendered"
+}

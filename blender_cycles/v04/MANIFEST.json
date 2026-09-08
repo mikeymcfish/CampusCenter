@@ -1,0 +1,392 @@
+[
+  {
+    "file": "README.md",
+    "bytes": 3621,
+    "sha256": "82ff5ddaa0ca7984a496a9f5fab9ceed85833d32f19ea37e40434b250be7652e"
+  },
+  {
+    "file": "SOURCES.md",
+    "bytes": 1684,
+    "sha256": "360365b1648d3bab1cf137dbaec06ac3f4533cc28432e1932ef38bcf5845b380"
+  },
+  {
+    "file": "FIRE_PROMPT.md",
+    "bytes": 1325,
+    "sha256": "de96ba27e3d10df11ed5f380e52aa7364a218340d20531248d39ac50a801ff1e"
+  },
+  {
+    "file": "Source_Copy.blend",
+    "bytes": 45263321,
+    "sha256": "f82d0da0db2cb60e6f663d40f0dcf3824f235762cf669a0ea4653ccba628dbfd"
+  },
+  {
+    "file": "Campus_Center_Cycles_Studio.blend",
+    "bytes": 187619755,
+    "sha256": "9240d1905a2af631c19ed2a4b3f6025c5509966079924a52f15427288290f013"
+  },
+  {
+    "file": "build_environment.py",
+    "bytes": 16620,
+    "sha256": "960c2b90f25f2e98de0d820c8d5931275f7989d7630c2687f488d39f1f4de284"
+  },
+  {
+    "file": "probe.py",
+    "bytes": 1188,
+    "sha256": "83b204646a26c5a9cbb5088945e4035dda7579aa0aac43896d1669044a62c20e"
+  },
+  {
+    "file": "download_assets.py",
+    "bytes": 1201,
+    "sha256": "b426c9de4bcc8d92d5e8eb599bb1b885a36d7d243b555803244830ddb44d9c3e"
+  },
+  {
+    "file": "render_stills.py",
+    "bytes": 2025,
+    "sha256": "e119917155d21ec5f4435f79708f0eecd08ec503a6661314ab2c26935c091d7e"
+  },
+  {
+    "file": "verify_environment.py",
+    "bytes": 2388,
+    "sha256": "cadc3cbdf0410cd07461af265cbd6fa8bb765b11ac20bf92bcd7b0d3499d3ba6"
+  },
+  {
+    "file": "validate_images.py",
+    "bytes": 2052,
+    "sha256": "7ad8566e0a979d4752edf9166621c5c2096db4db9e7ac650769c3732df4f8ee1"
+  },
+  {
+    "file": "preflight.json",
+    "bytes": 3575388,
+    "sha256": "473f6ec98c305a0950ed2762f48c6d3a64111967fd99570a048e28e17573a9e8"
+  },
+  {
+    "file": "build_report.json",
+    "bytes": 63438,
+    "sha256": "563419ca8035ffbbf24a624cbc42afe37be8aad7350567519933dd02fd7741d4"
+  },
+  {
+    "file": "render_contract.json",
+    "bytes": 1667,
+    "sha256": "d9d9c0c628aa641ece1a295a31474c3ef0ea33ca46853d5ffb39da194868f3de"
+  },
+  {
+    "file": "scene_validation.json",
+    "bytes": 582,
+    "sha256": "4da256102c36c935ef58ee531c639c5fbc270e04a2fc858286e1f6c5a0d8b6e4"
+  },
+  {
+    "file": "image_validation.json",
+    "bytes": 12523,
+    "sha256": "76455ceff57e36221437a37d675be990cc3df1f52b68b345838721d1569320de"
+  },
+  {
+    "file": "stills/01_Entrance.exr",
+    "bytes": 74750098,
+    "sha256": "04238c8d0b21d4ba09b68ddd203ea4a7d0aa5f3b4036dc204f4a3beff2fe0882"
+  },
+  {
+    "file": "stills/01_Entrance.png",
+    "bytes": 9010559,
+    "sha256": "aa7e907cf5472f1bff40189440d509463ea9435a2add983227f3fbfcef054000"
+  },
+  {
+    "file": "stills/01_Entrance_preview.jpg",
+    "bytes": 346055,
+    "sha256": "2f36c3421b9442258708fe60c20ef5074ec4bb77c715fe336b9e5eeb3ba85028"
+  },
+  {
+    "file": "stills/02_Commons.exr",
+    "bytes": 102206851,
+    "sha256": "acb99b85a50322d316924113e20c3adf73e1ed4bdb9cbdd593cc3aa8c69013b3"
+  },
+  {
+    "file": "stills/02_Commons.png",
+    "bytes": 9047394,
+    "sha256": "19e2c48ccd57c295bd9746469058c5119383058a1591b0d139c79daecd0694ec"
+  },
+  {
+    "file": "stills/02_Commons_preview.jpg",
+    "bytes": 396207,
+    "sha256": "ce712e9454a8369b21e7ed54f2aeb8c48bf5abea939fe27f3149b143ad8ff78d"
+  },
+  {
+    "file": "stills/03_iLab.exr",
+    "bytes": 98228247,
+    "sha256": "98decdb90f522c15efaaffcada4b8d093cdcf898944e60b32fd8d87394d3dc02"
+  },
+  {
+    "file": "stills/03_iLab.png",
+    "bytes": 8899047,
+    "sha256": "454bb5b34f04bced22e57baf87daa8386a191ee55173d55a4bd4ca378d2b5eae"
+  },
+  {
+    "file": "stills/03_iLab_preview.jpg",
+    "bytes": 333247,
+    "sha256": "a9e13fc18a1ded4c93c3b1d3eac54ef4e10c6a62db69ab37c616f2fe28814f63"
+  },
+  {
+    "file": "stills/04_Gallery.exr",
+    "bytes": 97842821,
+    "sha256": "a0ace8ff6e2c717c81becf0fba6f595ffae3a1f1a04b1469f817739366c0a4e9"
+  },
+  {
+    "file": "stills/04_Gallery.png",
+    "bytes": 9020273,
+    "sha256": "fa9f9d26fb65e7a4c4e0adc5c14ac58fac473893faa89b592ce044f354d791e3"
+  },
+  {
+    "file": "stills/04_Gallery_preview.jpg",
+    "bytes": 307747,
+    "sha256": "ff656e66757c8db22b59e4c7fafebf12074908383d239513d5f79c0372d4a1ba"
+  },
+  {
+    "file": "stills/05_Printer_Detail.exr",
+    "bytes": 89093621,
+    "sha256": "41290806b59d6dc238aa90ff9e299af4c1d984770aaffc9e4a6c7db9eb700c8a"
+  },
+  {
+    "file": "stills/05_Printer_Detail.png",
+    "bytes": 8561248,
+    "sha256": "6f0efbc5a5125d211b6d7b493b6ab15c11f368d78ab7b3fa9940dfdd0949e740"
+  },
+  {
+    "file": "stills/05_Printer_Detail_preview.jpg",
+    "bytes": 290193,
+    "sha256": "eb85968e8706192bb0077fe599202c7de7172e23afb38a97f833693045549365"
+  },
+  {
+    "file": "stills/06_Entrance_Planting.exr",
+    "bytes": 93539910,
+    "sha256": "fd79e39201317c0763a718e38fde511a3eb3bb65f91d77fca0c0a67b221dfe91"
+  },
+  {
+    "file": "stills/06_Entrance_Planting.png",
+    "bytes": 9542622,
+    "sha256": "45729b79f07f10a81947f021bd1ff5cf7e0cda2fce70be24711a6e35aa22115b"
+  },
+  {
+    "file": "stills/06_Entrance_Planting_preview.jpg",
+    "bytes": 476765,
+    "sha256": "37571b758af4777bc3bc838cb9521dcbfc9eb76c6ca4f8372e7b4cee2cbf45e6"
+  },
+  {
+    "file": "stills/07_Fireplace.exr",
+    "bytes": 78350454,
+    "sha256": "feb95573b5e207a2e84d713a4711e9331e7fed95cd5dc76879321b6ac6f41b07"
+  },
+  {
+    "file": "stills/07_Fireplace.png",
+    "bytes": 8806238,
+    "sha256": "0317851801fe46b884832a26cf7b81ebc35ee1ea955c7e221c10fd91106d1248"
+  },
+  {
+    "file": "stills/07_Fireplace_preview.jpg",
+    "bytes": 371201,
+    "sha256": "8370943005c76511d758481db1ebea2c17da61b6df5b353f9d2e18b27a916b04"
+  },
+  {
+    "file": "stills/complete.json",
+    "bytes": 2163,
+    "sha256": "e7d5c8eeb3abdfad20fafb7485adf648787d579bb702d389e4a1d47c9ca8c704"
+  },
+  {
+    "file": "stills/Seven_Views.jpg",
+    "bytes": 922464,
+    "sha256": "2b4e6ff4d0c2d9d0a60ab6d0fc941fe5d3616cc6cd69babc1c19a41cc185b387"
+  },
+  {
+    "file": "stills/timings.json",
+    "bytes": 1935,
+    "sha256": "a01c337ec59da3760872db2339d15a28bd280cb1e0fe20618a7771446b038712"
+  },
+  {
+    "file": "assets/DOWNLOADS.json",
+    "bytes": 6335,
+    "sha256": "d817a618b52ff15305b2e41921fefa15847e30deced4df5706b0885e865df18d"
+  },
+  {
+    "file": "assets/fire_insert.png",
+    "bytes": 1330199,
+    "sha256": "0d3cd31574d3060c84402dc3f7c430e9571ea6677ef92e880cd16369f21a5a19"
+  },
+  {
+    "file": "assets/Grass001_2K-JPG.zip",
+    "bytes": 38930280,
+    "sha256": "a47570077b55f260a6c54890a560087caffb9eb8b2b78a84f8247ba1966d7d1d"
+  },
+  {
+    "file": "assets/grass_files.json",
+    "bytes": 33591,
+    "sha256": "daa882bd7a3925042501536763269b064f66c736779dd90fd9bd1cb405cb4d53"
+  },
+  {
+    "file": "assets/greenwich_park_4k.hdr",
+    "bytes": 27933684,
+    "sha256": "a576ad8a8bb7e34c91dc8b6820618238f2a88827ea4972bb16947af0593b8b5c"
+  },
+  {
+    "file": "assets/hdri_files.json",
+    "bytes": 2019,
+    "sha256": "c7230fd9252edf860428c24b9c852d3bb6863c93ec43cb86d5c0e1effc1b6dbb"
+  },
+  {
+    "file": "assets/plant_files.json",
+    "bytes": 57227,
+    "sha256": "26431ac0c2b7b18afab85735b061610bd3bcfb3520fdc966ad1c77588450f3ec"
+  },
+  {
+    "file": "assets/shrub_files.json",
+    "bytes": 20853,
+    "sha256": "01c34bcc8da5e97b9a84350254de868016d348f067df98782a368e7fca088a03"
+  },
+  {
+    "file": "assets/Grass001/Grass001.png",
+    "bytes": 513474,
+    "sha256": "84a3be21509aad8878c2fbdbcfccfe3fc83c00c98b05f8ea7c37e9a54ac937c6"
+  },
+  {
+    "file": "assets/Grass001/Grass001_2K-JPG.blend",
+    "bytes": 1109012,
+    "sha256": "bfcbf5afe4e4a5ee6c94299901f67c37e77ef4e45929deb21bdfac5d15611f56"
+  },
+  {
+    "file": "assets/Grass001/Grass001_2K-JPG.mtlx",
+    "bytes": 2257,
+    "sha256": "f36528e236c247acd62c7e2a8458b9cc76f33409fee9eca0a395f6d38081fb2a"
+  },
+  {
+    "file": "assets/Grass001/Grass001_2K-JPG.tres",
+    "bytes": 1015,
+    "sha256": "fb500e7975631aa5e1029008e0dd9673008604ad163e5f486370729248c3b338"
+  },
+  {
+    "file": "assets/Grass001/Grass001_2K-JPG.usdc",
+    "bytes": 2966,
+    "sha256": "46c1e1769e3aa08e243eeaca333f83799e35676aeabc490794942ee960c3e85f"
+  },
+  {
+    "file": "assets/Grass001/Grass001_2K-JPG_AmbientOcclusion.jpg",
+    "bytes": 3644975,
+    "sha256": "7aa2c5ac4db77005b92bed77399189c9219300ada2f3d86c3c0fea51bba5a3f1"
+  },
+  {
+    "file": "assets/Grass001/Grass001_2K-JPG_Color.jpg",
+    "bytes": 6953345,
+    "sha256": "8a8bfcffd087134caad2a7def216f3dd2d307fbe02340ca47e3c5c71f49d50b4"
+  },
+  {
+    "file": "assets/Grass001/Grass001_2K-JPG_Displacement.jpg",
+    "bytes": 3460522,
+    "sha256": "1c6b8ad765f374958cc3fb35e4965830d3f967ec5764957d913c07494d8ea12d"
+  },
+  {
+    "file": "assets/Grass001/Grass001_2K-JPG_NormalDX.jpg",
+    "bytes": 9975086,
+    "sha256": "26343d7d725a2d5e3f82d0c3fbc9319f517715df08297a4ee42c96dde88815c7"
+  },
+  {
+    "file": "assets/Grass001/Grass001_2K-JPG_NormalGL.jpg",
+    "bytes": 9979388,
+    "sha256": "7ccaf9e28ea7a533e590c2e07a39e141017a5a5db8b7241730a3c287c540e881"
+  },
+  {
+    "file": "assets/Grass001/Grass001_2K-JPG_Roughness.jpg",
+    "bytes": 3286058,
+    "sha256": "2a2a3f9220a351f14858075d4c6ba1ff7fde8bedd7009c94cb432bc2b9a362e4"
+  },
+  {
+    "file": "assets/grass_medium_01/grass_medium_01.blend",
+    "bytes": 1832480,
+    "sha256": "c5ec75dd54a425d39d9e26fbeeee4c6428bd5f60c4e24006425321be43bf055f"
+  },
+  {
+    "file": "assets/potted_plant_01/potted_plant_01.blend",
+    "bytes": 2784329,
+    "sha256": "2dfc6297b611f991e1847ffc20514dee561aa23b8fa064870a8cce48c3d52627"
+  },
+  {
+    "file": "assets/shrub_03/shrub_03.blend",
+    "bytes": 346512,
+    "sha256": "23b5e7f9b6c6312930b474bc5e5c4b76b0c589a08a414c03001d480820cdfc37"
+  },
+  {
+    "file": "assets/grass_medium_01/textures/grass_medium_01_alpha_2k.png",
+    "bytes": 1580653,
+    "sha256": "4af2c3d5ebf167764ad3746f8c925dc4fbe28f0df023656599123cb593b793dd"
+  },
+  {
+    "file": "assets/grass_medium_01/textures/grass_medium_01_diff_2k.jpg",
+    "bytes": 1166527,
+    "sha256": "f768aa68daf14f37a92dd96621628a5252b169f4d94b4d1cc830d62cd3ac9e68"
+  },
+  {
+    "file": "assets/grass_medium_01/textures/grass_medium_01_dry_diff_2k.png",
+    "bytes": 6652964,
+    "sha256": "b41838fcdbf5d0387cc0441dce8ffde10bf79d0256a372ac01dbf3f2175b7273"
+  },
+  {
+    "file": "assets/grass_medium_01/textures/grass_medium_01_nor_gl_2k.exr",
+    "bytes": 7389519,
+    "sha256": "37488442da10568ce47a24096df77ab82f35b2ccf294ca1c960b7506c95d47f1"
+  },
+  {
+    "file": "assets/grass_medium_01/textures/grass_medium_01_rough_2k.exr",
+    "bytes": 2627410,
+    "sha256": "f71e4e0c66f7ab0e53ea4352824b86ab074471eba1864c8a7b81fa8fca785470"
+  },
+  {
+    "file": "assets/potted_plant_01/textures/potted_plant_01_leaves_alpha_2k.png",
+    "bytes": 199855,
+    "sha256": "06f49590ff6e0480528ded4b69c3e19eb4009cb81b3031e28b52c5a6e662bd8f"
+  },
+  {
+    "file": "assets/potted_plant_01/textures/potted_plant_01_leaves_diff_2k.png",
+    "bytes": 12648810,
+    "sha256": "43970f143fb35553bd78f048acfce149b8152c5b9fdbcd90897403b519494192"
+  },
+  {
+    "file": "assets/potted_plant_01/textures/potted_plant_01_leaves_nor_gl_2k.png",
+    "bytes": 14782653,
+    "sha256": "aa0d16ce0a0880370f37844408ca2d62af9a90cc30e29851bf8fabeb73bfac5c"
+  },
+  {
+    "file": "assets/potted_plant_01/textures/potted_plant_01_leaves_rough_2k.png",
+    "bytes": 3726462,
+    "sha256": "dcbc6c5783fe82107d8634d427270621eadad73ddebaf6d8a997ebd547ae4421"
+  },
+  {
+    "file": "assets/potted_plant_01/textures/potted_plant_01_pot_diff_2k.png",
+    "bytes": 17994581,
+    "sha256": "9d31469c28c987e2ef9acb75b0e69de21d01ff172aa78745b0872a95cfd98166"
+  },
+  {
+    "file": "assets/potted_plant_01/textures/potted_plant_01_pot_nor_gl_2k.png",
+    "bytes": 18083982,
+    "sha256": "e82e83dcfa821c8824e7a5b4f04f1a21739010d98f362ae88ed7e91bb840b561"
+  },
+  {
+    "file": "assets/potted_plant_01/textures/potted_plant_01_pot_rough_2k.png",
+    "bytes": 5865763,
+    "sha256": "5198ca9cc09898c86c00af23d54ea331480bf1c4cfc19f4a92821fb96a2bd96d"
+  },
+  {
+    "file": "assets/shrub_03/textures/shrub_03_alpha_2k.png",
+    "bytes": 183836,
+    "sha256": "250606877093a81e791cc52e434f271a843838e6bed460a1c88a1955f52af50c"
+  },
+  {
+    "file": "assets/shrub_03/textures/shrub_03_diff_2k.jpg",
+    "bytes": 1520137,
+    "sha256": "66290b6c5366dd0259f5a2a7d84deaac1dfe35f6be661c97752d98dbcdb427ed"
+  },
+  {
+    "file": "assets/shrub_03/textures/shrub_03_nor_gl_2k.exr",
+    "bytes": 2885663,
+    "sha256": "b08fdc361b7b63db0cc6c708c414e95470a636aa0a11789ee3c40d9ed36920ec"
+  },
+  {
+    "file": "assets/shrub_03/textures/shrub_03_rough_2k.exr",
+    "bytes": 931451,
+    "sha256": "c35c354227c7cc367f758eb9f6fac29b3ed500eb9be14c3cec3417e5be796f54"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "material": "M_Ceiling_Oak_PBR",
+    "world_tile_cm": [
+      80,
+      80
+    ]
+  },
+  {
+    "material": "M_Gray_thin_brick",
+    "world_tile_cm": [
+      100,
+      120
+    ]
+  },
+  {
+    "material": "M_Gray_thin_brick1",
+    "world_tile_cm": [
+      100,
+      120
+    ]
+  },
+  {
+    "material": "M_Light_stone_paving",
+    "world_tile_cm": [
+      120,
+      120
+    ]
+  },
+  {
+    "material": "M_Light_stone_paving1",
+    "world_tile_cm": [
+      120,
+      120
+    ]
+  },
+  {
+    "material": "M_Natural_Oak_PBR",
+    "world_tile_cm": [
+      80,
+      80
+    ]
+  },
+  {
+    "material": "M_Warm_ivory_facade_brick",
+    "world_tile_cm": [
+      100,
+      120
+    ]
+  },
+  {
+    "material": "M_Warm_ivory_facade_brick1",
+    "world_tile_cm": [
+      100,
+      120
+    ]
+  }
+]
