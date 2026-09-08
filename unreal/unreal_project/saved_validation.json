@@ -1,0 +1,27 @@
+{
+  "mesh_groups": 233,
+  "review_cameras": 9,
+  "missing_meshes": [],
+  "missing_material_slots": [],
+  "collision_groups": 200,
+  "students_groups": 32,
+  "maps": [
+    "/Game/Campus/Maps/Campus_GuidedTour.Campus_GuidedTour",
+    "/Game/Campus/Maps/Campus_NoStudents.Campus_NoStudents",
+    "/Game/Campus/Maps/CampusCenter.CampusCenter",
+    "/Game/Campus/Maps/Room_00.Room_00",
+    "/Game/Campus/Maps/Room_01.Room_01",
+    "/Game/Campus/Maps/Room_02.Room_02",
+    "/Game/Campus/Maps/Room_03.Room_03",
+    "/Game/Campus/Maps/Room_04.Room_04",
+    "/Game/Campus/Maps/Room_05.Room_05",
+    "/Game/Campus/Maps/Room_06.Room_06",
+    "/Game/Campus/Maps/Room_07.Room_07",
+    "/Game/Campus/Maps/Room_08.Room_08"
+  ],
+  "sequences": [
+    "/Game/Campus/Tours/Campus_Guided_Tour.Campus_Guided_Tour",
+    "/Game/Campus/Tours/Campus_Preview_20s.Campus_Preview_20s"
+  ],
+  "status": "passed"
+}

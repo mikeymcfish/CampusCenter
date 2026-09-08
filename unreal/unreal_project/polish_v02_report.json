@@ -1,0 +1,105 @@
+{
+  "adjusted": [
+    {
+      "name": "Natural_oak",
+      "roughness": 0.38,
+      "metallic": 0,
+      "normal_strength": 0.13
+    },
+    {
+      "name": "Acoustic_panel_neutral",
+      "roughness": 0.62,
+      "metallic": 0,
+      "normal_strength": 0.11
+    },
+    {
+      "name": "Gray_thin_brick",
+      "roughness": 0.9,
+      "metallic": 0,
+      "normal_strength": 0.3
+    },
+    {
+      "name": "Gray_thin_brick1",
+      "roughness": 0.9,
+      "metallic": 0,
+      "normal_strength": 0.3
+    },
+    {
+      "name": "Warm_ivory_facade_brick",
+      "roughness": 0.88,
+      "metallic": 0,
+      "normal_strength": 0.24
+    },
+    {
+      "name": "Warm_ivory_facade_brick1",
+      "roughness": 0.88,
+      "metallic": 0,
+      "normal_strength": 0.24
+    },
+    {
+      "name": "Light_stone_paving",
+      "roughness": 0.57,
+      "metallic": 0,
+      "normal_strength": 0.12
+    },
+    {
+      "name": "Light_stone_paving1",
+      "roughness": 0.57,
+      "metallic": 0,
+      "normal_strength": 0.12
+    },
+    {
+      "name": "Anodized_aluminum",
+      "roughness": 0.31,
+      "metallic": 1,
+      "normal_strength": null
+    },
+    {
+      "name": "Brushed_stainless_hardware",
+      "roughness": 0.24,
+      "metallic": 1,
+      "normal_strength": null
+    },
+    {
+      "name": "Dark_metal",
+      "roughness": 0.34,
+      "metallic": 0.9,
+      "normal_strength": null
+    },
+    {
+      "name": "V8_plain_porcelain",
+      "roughness": 0.16,
+      "metallic": 0,
+      "normal_strength": null
+    },
+    {
+      "name": "V8_plain_rubber",
+      "roughness": 0.92,
+      "metallic": 0,
+      "normal_strength": null
+    },
+    {
+      "name": "V8_plain_light_table_surface",
+      "roughness": 0.39,
+      "metallic": 0,
+      "normal_strength": null
+    },
+    {
+      "name": "V8_plain_chair_shell",
+      "roughness": 0.43,
+      "metallic": 0,
+      "normal_strength": null
+    },
+    {
+      "name": "V8_plain_dark_screen",
+      "roughness": 0.21,
+      "metallic": 0,
+      "normal_strength": null
+    }
+  ],
+  "slot_replacements": 97,
+  "new_materials": [
+    "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric",
+    "/Game/Campus/PolishV02/Materials/M_Warm_Painted_Plaster.M_Warm_Painted_Plaster"
+  ]
+}

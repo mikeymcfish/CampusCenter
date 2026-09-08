@@ -1,0 +1,26 @@
+[
+  {
+    "file": "01_entrance_00s.png",
+    "size": [
+      1672,
+      941
+    ],
+    "sha256": "1195b181de1a1a459a355bf68fb9c79986bf31af5c74415d8402793c58197c93"
+  },
+  {
+    "file": "02_ilab_03s.png",
+    "size": [
+      1672,
+      940
+    ],
+    "sha256": "5bf243e5ab5adfeaeea486bf25e02c962c7b198a7dee74dc91961a52a9d9b1a3"
+  },
+  {
+    "file": "03_athletics_corridor_06s.png",
+    "size": [
+      1672,
+      941
+    ],
+    "sha256": "40a0e35141d84d9f2d4aa4f9bda2a6c7ff636b62dfa950eaf41e09baec24a76f"
+  }
+]

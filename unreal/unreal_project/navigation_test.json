@@ -1,0 +1,119 @@
+{
+  "start": 571456.609,
+  "stage": 9,
+  "next": 571500.609,
+  "results": [
+    {
+      "room": "Entrance",
+      "position_cm": [
+        2199.8132759435425,
+        -1207.0,
+        89.15000009536743
+      ],
+      "expected_capsule_z": 88.0,
+      "height_error_cm": 1.1500000953674316,
+      "floor_ok": true
+    },
+    {
+      "room": "Commons",
+      "position_cm": [
+        1200.0,
+        -1300.0,
+        90.0
+      ],
+      "expected_capsule_z": 88.0,
+      "height_error_cm": 2.0,
+      "floor_ok": true
+    },
+    {
+      "room": "iLab entry",
+      "position_cm": [
+        -64.0,
+        -919.9999999999999,
+        90.0
+      ],
+      "expected_capsule_z": 88.0,
+      "height_error_cm": 2.0,
+      "floor_ok": true
+    },
+    {
+      "room": "Printers",
+      "position_cm": [
+        -375.0,
+        -919.9999999999999,
+        90.0
+      ],
+      "expected_capsule_z": 88.0,
+      "height_error_cm": 2.0,
+      "floor_ok": true
+    },
+    {
+      "room": "Student lockers",
+      "position_cm": [
+        -3500.0,
+        -2805.0,
+        90.0
+      ],
+      "expected_capsule_z": 88.0,
+      "height_error_cm": 2.0,
+      "floor_ok": true
+    },
+    {
+      "room": "Student bathroom",
+      "position_cm": [
+        -3920.0000000000005,
+        -1180.0,
+        90.0
+      ],
+      "expected_capsule_z": 88.0,
+      "height_error_cm": 2.0,
+      "floor_ok": true
+    },
+    {
+      "room": "Fitness room",
+      "position_cm": [
+        -3400.0,
+        -2500.0,
+        516.7199999999999
+      ],
+      "expected_capsule_z": 514.7199999999999,
+      "height_error_cm": 2.0,
+      "floor_ok": true
+    },
+    {
+      "room": "Commons overlook",
+      "position_cm": [
+        300.0,
+        -1220.0,
+        516.7199999999999
+      ],
+      "expected_capsule_z": 514.7199999999999,
+      "height_error_cm": 2.0,
+      "floor_ok": true
+    },
+    {
+      "room": "Balcony",
+      "position_cm": [
+        1460.0,
+        -1500.0,
+        516.7199999999999
+      ],
+      "expected_capsule_z": 514.7199999999999,
+      "height_error_cm": 2.0,
+      "floor_ok": true
+    }
+  ],
+  "walking": false,
+  "walk_start": [
+    2200.0,
+    -1207.0,
+    89.15000009536743
+  ],
+  "walk_end": [
+    1504.914701574427,
+    -1207.0,
+    89.95866921625496
+  ],
+  "walk_distance_cm": 695.0857688322463,
+  "status": "passed"
+}

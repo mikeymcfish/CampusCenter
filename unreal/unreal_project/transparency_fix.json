@@ -1,0 +1,50 @@
+[
+  {
+    "map": "/Game/Campus/Maps/Campus_GuidedTour.Campus_GuidedTour",
+    "transparent_mesh_groups": 64
+  },
+  {
+    "map": "/Game/Campus/Maps/Campus_NoStudents.Campus_NoStudents",
+    "transparent_mesh_groups": 64
+  },
+  {
+    "map": "/Game/Campus/Maps/CampusCenter.CampusCenter",
+    "transparent_mesh_groups": 64
+  },
+  {
+    "map": "/Game/Campus/Maps/Room_00.Room_00",
+    "transparent_mesh_groups": 64
+  },
+  {
+    "map": "/Game/Campus/Maps/Room_01.Room_01",
+    "transparent_mesh_groups": 64
+  },
+  {
+    "map": "/Game/Campus/Maps/Room_02.Room_02",
+    "transparent_mesh_groups": 64
+  },
+  {
+    "map": "/Game/Campus/Maps/Room_03.Room_03",
+    "transparent_mesh_groups": 64
+  },
+  {
+    "map": "/Game/Campus/Maps/Room_04.Room_04",
+    "transparent_mesh_groups": 64
+  },
+  {
+    "map": "/Game/Campus/Maps/Room_05.Room_05",
+    "transparent_mesh_groups": 64
+  },
+  {
+    "map": "/Game/Campus/Maps/Room_06.Room_06",
+    "transparent_mesh_groups": 64
+  },
+  {
+    "map": "/Game/Campus/Maps/Room_07.Room_07",
+    "transparent_mesh_groups": 64
+  },
+  {
+    "map": "/Game/Campus/Maps/Room_08.Room_08",
+    "transparent_mesh_groups": 64
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "objects": [
+    {
+      "name": "trophy",
+      "polygons": 1514,
+      "modifiers": []
+    }
+  ],
+  "triangles": 3028,
+  "height_m": 0.3,
+  "dimensions_m": [
+    0.270999014377594,
+    0.1657513827085495,
+    0.30000001192092896
+  ],
+  "source": "https://opengameart.org/content/trophy",
+  "license": "CC0",
+  "author": "JeremyWoods",
+  "status": "prepared candidate; not placed in building"
+}

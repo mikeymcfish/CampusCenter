@@ -1,0 +1,3100 @@
+{
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 4364,
+      "sha256": "2060dd62be0874ebbdf729931e5afcdd7b665b04e073543177287003bd3264c5"
+    },
+    {
+      "path": "Launch_Unreal.ps1",
+      "bytes": 1712,
+      "sha256": "1a527ee3d1a70ee4935f9d3713f346beff01dc70901cf95467e931a69a85a44b"
+    },
+    {
+      "path": "Launch_Unreal.cmd",
+      "bytes": 91,
+      "sha256": "9df99046b65b5257c5031f1e9e65acbdb3c86d526492e4375d68b6411b594071"
+    },
+    {
+      "path": "Build_Unreal.ps1",
+      "bytes": 559,
+      "sha256": "c2b944b42a014a374a717f2f67947b229925637cc07b7290cabeb84c66545501"
+    },
+    {
+      "path": "unreal_project/CampusCenter.uproject",
+      "bytes": 314,
+      "sha256": "ce0b37fdc5f15bf3246219287954359d306974a0042c47a9fa2ad3d907cc52fa"
+    },
+    {
+      "path": "unreal_project/.gitignore",
+      "bytes": 59,
+      "sha256": "fbcab0a2656d535134bf93c66c5bac423d2972a15c60da4e940dca109dcc6dd3"
+    },
+    {
+      "path": "unreal_project/import_build.py",
+      "bytes": 5234,
+      "sha256": "0449faae33e48a3051420af50b1799508fea69c57fb6e0b930a4d28985cdf169"
+    },
+    {
+      "path": "unreal_project/configure_navigation.py",
+      "bytes": 1746,
+      "sha256": "0137c42d231e0a2b8eb4da36491fa24c999930fea28bd7591bc060e207f97667"
+    },
+    {
+      "path": "unreal_project/build_tours.py",
+      "bytes": 4400,
+      "sha256": "c91904ef89c29bd048c134b57fdce41d809408f896b2fab4aba101e98aa47213"
+    },
+    {
+      "path": "unreal_project/fix_transparency.py",
+      "bytes": 845,
+      "sha256": "58046fdc81f6fa5fef35fec69405f81f9143366c10e17ebf28cb0cba4c16fe08"
+    },
+    {
+      "path": "unreal_project/fix_orientations.py",
+      "bytes": 1654,
+      "sha256": "81b382b102d9b35d8af1a63c2db8e9e9b60244c0681da0ce4113146d9eb89892"
+    },
+    {
+      "path": "unreal_project/refine_glass.py",
+      "bytes": 1693,
+      "sha256": "38bd9decb9c0a80cf1afadca51bfd3ce7615538fda399af4bc98b444d5abd6d2"
+    },
+    {
+      "path": "unreal_project/validate_saved.py",
+      "bytes": 1519,
+      "sha256": "9bb15305f99f1ce1292f4a26b3cfb0e7941101364e2fdc3253f05e84029daa84"
+    },
+    {
+      "path": "unreal_project/capture_review.py",
+      "bytes": 1473,
+      "sha256": "accad7704e151931360651587bed1cfa206f5ffb42810e423d822ac31c858138"
+    },
+    {
+      "path": "unreal_project/capture_preview_frames.py",
+      "bytes": 1785,
+      "sha256": "ce83b84c643ded4d9ec75cd5dc254c1e50f7de0dc572796cd6eb3a6d9cdd828a"
+    },
+    {
+      "path": "unreal_project/test_navigation.py",
+      "bytes": 2271,
+      "sha256": "f2ea7a1e6f0b40ee034db78bc352c6f5971d2246870e17a408e212b5ce8e77ea"
+    },
+    {
+      "path": "unreal_project/test_route.py",
+      "bytes": 2079,
+      "sha256": "132a410a23d283cc03758788f2cebe524f8a63732f9b73bbf19816d17cca2309"
+    },
+    {
+      "path": "unreal_project/import_report.json",
+      "bytes": 124975,
+      "sha256": "a5a578c06fcb55ca2091fd0ffab913d84e9370a787522d2b04c78796c41ca2c6"
+    },
+    {
+      "path": "unreal_project/navigation_test.json",
+      "bytes": 2446,
+      "sha256": "ec8d63eda59e21484bd663133ab7e3ac790d5936f5e2b0e359607c5de2aa426b"
+    },
+    {
+      "path": "unreal_project/route_movement_test.json",
+      "bytes": 925,
+      "sha256": "593064c595587d9f0aaf9178055ac88c45b8d0f0c56b791d1e0971e12ce8d56e"
+    },
+    {
+      "path": "unreal_project/saved_validation.json",
+      "bytes": 910,
+      "sha256": "440eb6a1d7f1e1f63b0a8c643be2968770b07598f60b900d89b063e70fd24338"
+    },
+    {
+      "path": "unreal_project/glass_refinement.json",
+      "bytes": 153,
+      "sha256": "3baaa18885650c33ce4bf53be2ef9fe6e424776fc2aaa9b59cdd94d114925bdb"
+    },
+    {
+      "path": "unreal_project/transparency_fix.json",
+      "bytes": 1193,
+      "sha256": "0713ccf128c72465261c6e3f018b06a44b5765f675d6e86c5805cda4c91b6d5e"
+    },
+    {
+      "path": "unreal_project/orientation_fix.json",
+      "bytes": 173,
+      "sha256": "52542e0390d1daf1f2b3b6b5c250b1f2268e215beccb1508ddc26207fee1ecce"
+    },
+    {
+      "path": "unreal_project/preview_render_result.json",
+      "bytes": 103,
+      "sha256": "01f3daaa9244db50eefc192ceeae1f9e5f0ffcfe661a3e6f26d8895eccdbadb2"
+    },
+    {
+      "path": "unreal_project/packaged_smoke.log",
+      "bytes": 83248,
+      "sha256": "f6a17f3ee67cc8ee9c47baebd72a865ba772de1310a54095aa36e1dd3e70529c"
+    },
+    {
+      "path": "unreal_project/Config/DefaultEngine.ini",
+      "bytes": 1288,
+      "sha256": "9f6a5085e3dcc4e2407b936526a40f5653bba7cfc35e379302bd22c5e96e9a81"
+    },
+    {
+      "path": "unreal_project/Config/DefaultGame.ini",
+      "bytes": 931,
+      "sha256": "0e1abeeecc104ac7b1619c144c077a2270698ac625576a757419d05a4f1ba964"
+    },
+    {
+      "path": "unreal_project/Config/DefaultInput.ini",
+      "bytes": 13907,
+      "sha256": "24a5a55f97b4ddf2912acde45b252e5a477199cb2b35eeafa74bad4c9c78a4e0"
+    },
+    {
+      "path": "unreal_project/test_guided_tour.py",
+      "bytes": 1310,
+      "sha256": "cf25224df6958e1b0bc65123f440313616cc6361f8fb4d6279d5d07953a9d5f8"
+    },
+    {
+      "path": "unreal_project/guided_tour_test.json",
+      "bytes": 425,
+      "sha256": "c85eb8ea19a51554273f44de78e2505b98c845366c76f25a0171966bdfdfb19e"
+    },
+    {
+      "path": "unreal_project/tour_setup.json",
+      "bytes": 2093,
+      "sha256": "1e78e1157793721463e4db947349b69ce9491c066cf5181d6d04d41a6462bfa8"
+    },
+    {
+      "path": "unreal_project/fix_tour_binding.py",
+      "bytes": 1103,
+      "sha256": "5863e58b88dc1cb6c2f8a5d8c547f7a805191889b7ba08cc1e8cfee4a250339e"
+    },
+    {
+      "path": "unreal_project/tour_binding_fix.json",
+      "bytes": 250,
+      "sha256": "cb155c5a5fafe51d41ecb494858ce00832a7214fc7e26dfa7328f3ae64c58ec0"
+    },
+    {
+      "path": "unreal_project/packaged_tour_smoke.log",
+      "bytes": 82872,
+      "sha256": "62dba059821c73492951775cbae02d0497490f5e20928b5ca27b729edefc2887"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Maps/CampusCenter.umap",
+      "bytes": 474213,
+      "sha256": "5ab79825a8401457a36c012d900c80e58bd9169869f23799c99ba308a22bfbc5"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Maps/Campus_GuidedTour.umap",
+      "bytes": 480649,
+      "sha256": "053c9d6f6864f1eee88cb71dc61ba17974ef277d6d4338857f57368cb70e484c"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Maps/Campus_NoStudents.umap",
+      "bytes": 477670,
+      "sha256": "78c3a5d0ddd15472f7d75644119a8a8b4b3380828c3ef1824299534fea15cc3e"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Maps/Room_00.umap",
+      "bytes": 471428,
+      "sha256": "1c96aa35610195f3b2158f7c8d421fc6e05c5f38f817d184845816856145e8c9"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Maps/Room_01.umap",
+      "bytes": 471428,
+      "sha256": "dee2f51e395b402604e49771b2d76535ed6fdbb848cd28e14525a0157eac58b7"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Maps/Room_02.umap",
+      "bytes": 471428,
+      "sha256": "9e0e47b30c696b1927f7bb6a126ee6e2fe4daf829077478429d251dce7d6caf9"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Maps/Room_03.umap",
+      "bytes": 471428,
+      "sha256": "8651cc7a077dd24c5170aaf8a07c7c578d19e66c3d77e62b8fb3d0ebc1f6396e"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Maps/Room_04.umap",
+      "bytes": 471428,
+      "sha256": "b67387d877c4160b89de950d325b7bde9e84437ff6a0d0d8ba689545f4cbe744"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Maps/Room_05.umap",
+      "bytes": 471428,
+      "sha256": "40611826b295f4dc651c8ed7870430722798bfb3ead5e2a2bdfe3f9a39407cff"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Maps/Room_06.umap",
+      "bytes": 471428,
+      "sha256": "dcfdf24f024e41c6cd7cbda3e8ffa1746ef8881cc9fe8108ff78c4982d3acd86"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Maps/Room_07.umap",
+      "bytes": 471428,
+      "sha256": "1ce129ed9e5822a336266b007eb210a5129c6f3c39d05865319bfbeff884ceb5"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Maps/Room_08.umap",
+      "bytes": 471428,
+      "sha256": "dabfd428e7ca9d990774eeeb9f0e062cba6932399fb3c6f6ce93785e9277b0a3"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Materials/M_ArchitecturalGlass.uasset",
+      "bytes": 6432,
+      "sha256": "c3dc5792051d1504754689eddcafc817aad17d0a41693c322fcb31697e057def"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Tours/Campus_Guided_Tour.uasset",
+      "bytes": 495380,
+      "sha256": "99c50c07df7fdfa72908ccedcf25eb74433bcc493e3950c1479d8148ad9be02b"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Tours/Campus_Preview_20s.uasset",
+      "bytes": 87140,
+      "sha256": "ad0daae60f26a2684ffb1bdb92d88ca314535ccc7dd0218118dd0bdb287e0d84"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/Materials/Acoustic_panel_neutral.uasset",
+      "bytes": 70736,
+      "sha256": "3b8defccd3b27641cd71f806e59e039f3a48f90df5539234f9a76d761020903d"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/Materials/Anodized_aluminum.uasset",
+      "bytes": 64721,
+      "sha256": "5b9b9924424cab656d40af11321136a2cfd7957960305fa6a3bc3469bf938b07"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/Materials/Blockout_equipment_-_untextured.uasset",
+      "bytes": 64878,
+      "sha256": "e0bafad66da3ba854d79d66f59fa35527eb2ab2c78d03d093144eb85ccaffe60"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/Materials/Blockout_furniture_-_untextured.uasset",
+      "bytes": 64875,
+      "sha256": "7f4a2b9f84452d3985478dad6ac7b2a86f19fcb16c6cb3b089b7252d09b6d013"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/Materials/Brushed_stainless_hardware.uasset",
+      "bytes": 64820,
+      "sha256": "81046e7fb75b34ad43c5b10610d1c350b7fe8bc782767709c2f6329aebb38476"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/Materials/Clear_architectural_glazing.uasset",
+      "bytes": 66485,
+      "sha256": "f35294a7e25e7028abe6bcd8c2b53b2f49a70a535f8b89cbaf9b6f2598338460"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/Materials/Dark_metal.uasset",
+      "bytes": 64644,
+      "sha256": "9a1c0a6227b6b0d0107e9b35b30f1953ae7e530a87dcf9ea04233967e18eaa6c"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/Materials/Gray_thin_brick.uasset",
+      "bytes": 70696,
+      "sha256": "eb644a0a7a4ce8c109bbf8ff90485da15270f85e84791112f76e0e6524ec7a3a"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/Materials/Gray_thin_brick1.uasset",
+      "bytes": 71830,
+      "sha256": "0cdc6d91696691a9f9b037a47e3769d0fec9e7a3346a61714cfee1d55ee6503e"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/Materials/Light_stone_paving.uasset",
+      "bytes": 70629,
+      "sha256": "31aee53328b8551eeb9bff9ffd19b7a63e1042e33fa5c04823f433d1a6278548"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/Materials/Light_stone_paving1.uasset",
+      "bytes": 71769,
+      "sha256": "c96e785b9e85132568fa4f5ad6dc7bd6ca0db48a4c4acb896e1a46ef333a1df6"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/Materials/Muted_blue_canopy_fascia.uasset",
+      "bytes": 64801,
+      "sha256": "211024f433f111149143c0744bf66e82554f68197f086f3225c6604bc9da1869"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/Materials/Natural_oak.uasset",
+      "bytes": 70515,
+      "sha256": "1056ba0b70159fb8b6b6b45985c0c69b882dd032d8f8dc1b82788a5528e25b9c"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/Materials/Roof_membrane.uasset",
+      "bytes": 64680,
+      "sha256": "1d7a8bcb63ee5fa19432b703cbe1f4e8b269c40b0294b4deb00ad9264e75d291"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/Materials/Texture-free_equipment_gray.uasset",
+      "bytes": 64834,
+      "sha256": "5771b0af1efbf0cb4e21f667f1eb556c0c356af651d7d695a19f304f393fe94a"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/Materials/Untextured_mannequin_clay.uasset",
+      "bytes": 64812,
+      "sha256": "1d77e8e5b8830f9c3b8043fc9c2fa43ee4ed84563e17cc75936a7257588d2cf5"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/Materials/V8_plain_chair_shell.uasset",
+      "bytes": 64757,
+      "sha256": "3df5b7e5da800365b4e2f4def0a2f13fdb84e5f40dbc7601735e21fe52a2fcbc"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/Materials/V8_plain_dark_screen.uasset",
+      "bytes": 64757,
+      "sha256": "5cbd65502f201aac5ab02f892d5c2071221429671224d8918a472649e1e10228"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/Materials/V8_plain_light_table_surface.uasset",
+      "bytes": 64845,
+      "sha256": "51b76872c8a9a0c8f9e7ef61d6b73476220a47c99399ae0d639f2f393cf270e4"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/Materials/V8_plain_porcelain.uasset",
+      "bytes": 64735,
+      "sha256": "b6a600219f7fd3b6d1c962149ebb15c3ab8b78f46100f710566078cea4cd16bf"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/Materials/V8_plain_rubber.uasset",
+      "bytes": 64702,
+      "sha256": "d0f681362d10c81ff04ada8278239b15a64e4638439e6d53a77915a0902a7905"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/Materials/V8_plain_sage_upholstery.uasset",
+      "bytes": 64801,
+      "sha256": "3086e99055bb83ad1ff3a63a36342ffd84163235aec10e09086a321136841bab"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/Materials/V8_recess_shade.uasset",
+      "bytes": 64702,
+      "sha256": "4b2989404e731f86c7c320c0c497357cd17d694e1a2f71debbc7bbd8472fa9dc"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/Materials/V9_Untextured_equipment_clay.uasset",
+      "bytes": 64842,
+      "sha256": "ccd9e481e84fe33cc42d2dfdcaec4628d9a53a8d4232639b233385e712f28743"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/Materials/Warm_ivory_facade_brick.uasset",
+      "bytes": 70804,
+      "sha256": "abed80c4ec491c9b24fe11b91c70138793a8c01ef2ac891f57b1e37d562a1d2d"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/Materials/Warm_ivory_facade_brick1.uasset",
+      "bytes": 71954,
+      "sha256": "c74d29ef716bc29d79eccb9fa2717f7094141ebdc313558adc6d56a051ae5b66"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/Materials/Warm_light_diffuser.uasset",
+      "bytes": 65708,
+      "sha256": "ccb3e86a07417343662d4a864ab904e4e699e7f39e014b7ca2bb5cd113dae66c"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/Materials/Warm_white_plaster.uasset",
+      "bytes": 64732,
+      "sha256": "1bb52fe45a4a04e60506a17d1dc458bcde6869bbf1c64b7e6469478f9c5d1700"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Ground_04_11.uasset",
+      "bytes": 90602,
+      "sha256": "dd6cf5e9a0752947c84c066c353179ecc81661e5cac95dc4cf9cd825f5cc3795"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Ground_04_12.uasset",
+      "bytes": 98165,
+      "sha256": "9a6f3ae235d26565ef2281f6b4517cff1e088389834a283ac1fd6c15829dcf97"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Ground_04_13.uasset",
+      "bytes": 100410,
+      "sha256": "8274a0fcb1411bdf9bd17ab374e3dd485731bbf44eea021d0a96c24df245a534"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Ground_04_14.uasset",
+      "bytes": 105867,
+      "sha256": "32fd1564ceccfcf60327781b3928af3ad55e5639c9ef8e54d564d000a59e1189"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Ground_05_10.uasset",
+      "bytes": 101442,
+      "sha256": "29a59e606ce1b372b061b7fe9ac66f9615abc7c1566f5e28f68e414344a76258"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Ground_05_11.uasset",
+      "bytes": 91706,
+      "sha256": "27e32bde9b5dad2c0518c7660bb8f2bb10a508f4eee3908af9a5f7f6c5299bba"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Ground_05_12.uasset",
+      "bytes": 82115,
+      "sha256": "04bafa4835d2a6b92fea2bb5d190f8b668471ac4ebeeeeec8a33f1b322a832a2"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Ground_05_13.uasset",
+      "bytes": 89942,
+      "sha256": "9d1b2bf28fa6f1fc8a5862783d810d947e8ee8854ed62ca81a721903cb7a6e71"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Ground_05_14.uasset",
+      "bytes": 106094,
+      "sha256": "a465dfe528e91f6a46d333aecba93e1f03c0675f7922a6cfe305ddb55c86a648"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Ground_06_10.uasset",
+      "bytes": 108570,
+      "sha256": "581de157f584e0cea788930a20737611f23a5a2572b1d649227bf824050115dd"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Ground_06_11.uasset",
+      "bytes": 178125,
+      "sha256": "08c1524af4fc07746c1198567fbc2dde8e6413a3e0fa73834192afc178a01e84"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Ground_06_12.uasset",
+      "bytes": 87926,
+      "sha256": "ee8f663546bb9c2c7107df7581849811f0d36894190ac2cd874e81f039e77477"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Ground_06_13.uasset",
+      "bytes": 88464,
+      "sha256": "7ae64a6f9c4df2f682df4dcf8e53f56749cf74d4c8fd5c03952e6a9282121e7a"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Ground_06_14.uasset",
+      "bytes": 91639,
+      "sha256": "af6f66e8c213cc5d8fec368915417cce16176be6e551ba5f25de748fec6dc1eb"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Ground_07_09.uasset",
+      "bytes": 91438,
+      "sha256": "916510ba48fa6dda97b9afedcf627b4b399d3200f88b29c1d8ad78f02a4ce935"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Ground_07_10.uasset",
+      "bytes": 128288,
+      "sha256": "fe64fa17fa2838c2ddf44cf134ae8aa6f8c24ac549460ea4973a23a07b25e61d"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Ground_07_11.uasset",
+      "bytes": 88289,
+      "sha256": "ea70dc77d8a9d8a0d8588754cc0970d9308d813f90ec3b6fb46653270cf925ad"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Ground_07_12.uasset",
+      "bytes": 77766,
+      "sha256": "b0b68cfdbee96a7d9378c4d37d374baea8befd4b36613ad6890e91d2ad160177"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Ground_08_09.uasset",
+      "bytes": 104585,
+      "sha256": "a27e2499b7fe7631d5b5cea257bf31087e90fed78c094a5393d6e663417b6fcc"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Ground_08_10.uasset",
+      "bytes": 132782,
+      "sha256": "a69e623d8ffe40786b1cc9b5b82e01366890daea189f0747d560c5a6440c283c"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Ground_08_11.uasset",
+      "bytes": 104257,
+      "sha256": "50084fea7cde29e1e5f97c1ca88b6273072d05c56e136fd61a93ee1292900c7c"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Ground_08_12.uasset",
+      "bytes": 88320,
+      "sha256": "a0d4addb5ee514cded90d1b3afa3c2a13c9e4d999940b771db6f494da89893ed"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Ground_08_13.uasset",
+      "bytes": 82609,
+      "sha256": "7a7a2fcaa6a4f1e90203e3f55cd25992f52bfcdc1aa70449fb1d6d2d8825b272"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Ground_09_09.uasset",
+      "bytes": 94051,
+      "sha256": "f8629946748127a6a6fd1c0f1a13261fdce23a38a036c76d4184c85b42652a86"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Ground_09_10.uasset",
+      "bytes": 80473,
+      "sha256": "3a9f18274a7455949de4fb15548f112aa45bcc2f22a739eaf84ef52f8ae7ea38"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Ground_09_11.uasset",
+      "bytes": 112456,
+      "sha256": "b938f134881c7ec74e4fec4c52c9a85d75a92a128d662e15c4796792adf83c9a"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Ground_10_09.uasset",
+      "bytes": 104664,
+      "sha256": "bf4c11ebe6308960798b3f5557278f698b575b24bbb251cee6967e923339e3a0"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Ground_10_10.uasset",
+      "bytes": 120986,
+      "sha256": "6e1f3ef71c079141f4917e7dc22b7bb896facb46a49bb0de6e662f14340850d7"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Ground_10_11.uasset",
+      "bytes": 174914,
+      "sha256": "17f44c4e0e5eccc7b993c948ba2e5382999513f28326cc08a68b934fc1f5b0d0"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Ground_10_12.uasset",
+      "bytes": 96569,
+      "sha256": "6905116e8047904ac65b388992c30bc4c804dcc141bbc44a78daa821b4018918"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Ground_10_13.uasset",
+      "bytes": 87635,
+      "sha256": "77a5a7dc4ce5036206c19e81a908e22f9ac8eb506408f9dba4ce002896da9690"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Ground_10_14.uasset",
+      "bytes": 94514,
+      "sha256": "f66d65c8348d41477ccd2da9f56a052d7185e02aaff9971fc2eb573f6ee9d458"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Ground_11_09.uasset",
+      "bytes": 126097,
+      "sha256": "49a0a58483002238a2c96dd817f0b060d501a24327e787b8585a092ca0e554e1"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Ground_11_10.uasset",
+      "bytes": 95232,
+      "sha256": "23d21d0adc79517adcb4ad02cba76cd0fd45360868a2d3851b44a9fc9901e85c"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Ground_11_11.uasset",
+      "bytes": 93744,
+      "sha256": "50fd3a72dec5a2436cddd7f6ec451093ce225ea8d45e988a832160c651ff8101"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Ground_11_13.uasset",
+      "bytes": 84086,
+      "sha256": "32b699718b66030ca76ddb2be731849dee3d4544471b4439e46a985ae8d94436"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Ground_11_14.uasset",
+      "bytes": 105565,
+      "sha256": "db602fc0c455d70546060dd2c89467be4b4f51ae7a4d58f6f04dd15acdf38e27"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Ground_12_10.uasset",
+      "bytes": 98129,
+      "sha256": "f2fe0428017f8e7c6a4bd059593d2f1dedbb0da057a2efaf82f13f0beea1a4e3"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Ground_12_11.uasset",
+      "bytes": 110515,
+      "sha256": "18ae8d3827f1394962ee3b24a035de97c2e9ba7ae13bdb510c1e294df3bded35"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Ground_12_12.uasset",
+      "bytes": 88874,
+      "sha256": "0cba33e9bdc951c14c300f62978279ed3d0a8ca153ec227d600853c8ec1e68aa"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Ground_12_13.uasset",
+      "bytes": 88203,
+      "sha256": "f1d879cdd8911a70b742aaf35cb4d50bc95adae5ccc7388786effca30a535a83"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Upper_04_10.uasset",
+      "bytes": 82888,
+      "sha256": "11b5b161cbd458acda9c19123cb2296318cf7d50b190753003d36fb00706f900"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Upper_04_11.uasset",
+      "bytes": 110798,
+      "sha256": "4c3601935ac517baddf45c05d4b88b33f523b8d55549a0ca020e3226e414d470"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Upper_04_12.uasset",
+      "bytes": 106238,
+      "sha256": "b9eb8f10aeea62b452a1b0e8e0a00cb3645130e2ad574cd0ef83843c138a2026"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Upper_04_13.uasset",
+      "bytes": 96281,
+      "sha256": "b1ff4e163eaf65394b8dfd0c27e96363c750b1f06b45142394f3ce208ba58440"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Upper_05_10.uasset",
+      "bytes": 103302,
+      "sha256": "d4ca80b6f6d4d57ddb03e499d3a46a38e7d45f7a031b3ae6e8b2563fb102320e"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Upper_05_11.uasset",
+      "bytes": 91090,
+      "sha256": "c15e826d1e8cdad386d74cbac7052a897150eac1aee4d77b5d1be156df9578af"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Upper_05_12.uasset",
+      "bytes": 95673,
+      "sha256": "76ac2f901a2110f52cacfaba7666e8e246e010abf89b67cc2a38e10901c7d886"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Upper_05_13.uasset",
+      "bytes": 93347,
+      "sha256": "e01580914b3291c7b8b37fbb7bcba65076a653ff6e3b6afb3b8fcb2200ebc542"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Upper_06_10.uasset",
+      "bytes": 106292,
+      "sha256": "38481077b4456e3d8e9133c048d5f8c36cf09b584fa1ed438949c8b0825508a3"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Upper_06_11.uasset",
+      "bytes": 97494,
+      "sha256": "bf99a171962c1a25a26346d28a5a7d31753f334c31d66b47ed76e69d53e58715"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Upper_06_12.uasset",
+      "bytes": 101132,
+      "sha256": "f0b6a605e32297d782bf034c3c66df0658f26044c94a0a623771af3d0fa0313d"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Upper_06_13.uasset",
+      "bytes": 92908,
+      "sha256": "f9268cb8ead91121be12bf3dd6adfa355cce8e1f49f693ef131f03f039680031"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Upper_06_14.uasset",
+      "bytes": 82957,
+      "sha256": "a7a7b92dd9caae6c332f8dc64d175499bcc3300617bd00c805b4e1d4d09e058f"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Upper_06_15.uasset",
+      "bytes": 82702,
+      "sha256": "2c8e3b49843d8fb7ec122b72b3f8619cac567591b03be69750ae6592d6156f57"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Upper_07_10.uasset",
+      "bytes": 93981,
+      "sha256": "e33885fd32714d8daa4620c0349e64ea13f3707fe03ff21cb2512a5b3ff73d06"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Upper_07_11.uasset",
+      "bytes": 110877,
+      "sha256": "41e1386d558c3c419f136d941e9850f5a692615466a028721eb63f430e0be67b"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Upper_07_12.uasset",
+      "bytes": 87605,
+      "sha256": "ef96fe84bf02e355de30583c539f7658550005a2add918c3ec7ff45d00a8ce27"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Upper_08_10.uasset",
+      "bytes": 107114,
+      "sha256": "f6758abda1cb617c23387d8c29ce4270b0651c03ed2ec38756fc5e4f2c07fdc6"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Upper_08_11.uasset",
+      "bytes": 116141,
+      "sha256": "90a456a5852e09e4f6a7d2332c2922c2ffa3ba1e9783f4f5bfb85da65ca34774"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Upper_08_12.uasset",
+      "bytes": 152616,
+      "sha256": "50648a2eea118503f95994f9ed93453abd64dab963e291c3e7e9f2d636211940"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Upper_08_15.uasset",
+      "bytes": 82717,
+      "sha256": "cdd780648ca797654fba6564c7f178fdec0079aaaac496675feba8b109b03be9"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Upper_09_10.uasset",
+      "bytes": 129542,
+      "sha256": "b0a3ebf2260bc40e20f9b8189eaf0e978e6dbf9ab90f20825c53e7cd962655a4"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Upper_09_11.uasset",
+      "bytes": 94800,
+      "sha256": "520baa62a3bd036cc08a488cd9c93b76288e77f6b59553df243222133d7e8668"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Upper_09_12.uasset",
+      "bytes": 76817,
+      "sha256": "7de68ce908c89e4ea01d7bb8bb230da550623b9e6af4af59b6e50faa39f035d2"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Upper_09_13.uasset",
+      "bytes": 82708,
+      "sha256": "7e2374c1dd293162070971e9233623402737df0c9c69687d215cf3066a6a8cd0"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Upper_10_09.uasset",
+      "bytes": 89473,
+      "sha256": "08e577e8a0a0ac3a91ef3269d4241511e5614ff3cab345e571aaf5f5bfa8fa77"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Upper_10_10.uasset",
+      "bytes": 120330,
+      "sha256": "f7970c351ab5ce0fe8cf47957f262baba6c0e230d9f24195380f4b932d5a1ff4"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Upper_10_11.uasset",
+      "bytes": 107811,
+      "sha256": "1203bec5aeb9d380e7a4055543bfd233f292f9c5f029d83b41602d8670e17f3f"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Upper_10_12.uasset",
+      "bytes": 96649,
+      "sha256": "5e72912d4db152f31bae5a84d4f379870daec16ee0b3b6acab324f0a9bbf5b74"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Upper_10_13.uasset",
+      "bytes": 104939,
+      "sha256": "3b6adb9dc1c94581abe8382ef44545a32af1b29cf56c7b0e78c094546dec92d9"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Upper_11_09.uasset",
+      "bytes": 110049,
+      "sha256": "719aa3ded2ddb8199281c517df7d67c1264494604986ee754c83f6407fa1cbd5"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Upper_11_10.uasset",
+      "bytes": 94486,
+      "sha256": "ce2f550dc23215f276458020f2624c7598fb1e418d97edf23abf053846750af1"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Upper_11_11.uasset",
+      "bytes": 130563,
+      "sha256": "b964a1219099efd871027fe370e1c6dbd7a666f70030759cf91d313152d62ccf"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Upper_11_12.uasset",
+      "bytes": 92938,
+      "sha256": "4745bae430e82267eb2e10b400cbea9174838d28f8c759f7ac92e619fde06718"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Upper_11_13.uasset",
+      "bytes": 104667,
+      "sha256": "16b28b48594dc11ea14fbee091ea71489a8ce0687bfe779da2487d97e582d515"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Upper_11_14.uasset",
+      "bytes": 111782,
+      "sha256": "5f3f46f6ab88e36acd628a5d01b5a136240705a19bc2a1eb5675d9af2418b911"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Upper_12_09.uasset",
+      "bytes": 82786,
+      "sha256": "c82510d77cf6a1dafc22bb50fa83969a0714854d329a1a06f9bb9648605a5cde"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Upper_12_10.uasset",
+      "bytes": 94019,
+      "sha256": "e2981c60a88b31934fed3519bd4ef971a95eaabf5e155401f1b6528e81954acc"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Upper_12_11.uasset",
+      "bytes": 144930,
+      "sha256": "0222f17b30dc391a7b8f2a4e2c7ce9dd97d25dbf4da6067b7e3c3bd01e40878b"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Upper_12_12.uasset",
+      "bytes": 93789,
+      "sha256": "0fde5c068a49d18f2a2b605a6e4511def818f5a7cd5d2d6568b20008953ab06f"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Architecture_Upper_12_13.uasset",
+      "bytes": 85212,
+      "sha256": "eb65fc57ac859aef10366e2e74a971c807395b5601f4d56836de0f3fcfda0aa5"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Doors_Ground_04_11.uasset",
+      "bytes": 171353,
+      "sha256": "2553d6e85421576d28be451958b662187a4451ab066de2bbae75def855487593"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Doors_Ground_04_12.uasset",
+      "bytes": 135222,
+      "sha256": "5a7b4a619ff66bbf3bd3eaef067682ab34cf880785b40509e256a1b60b194c7e"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Doors_Ground_04_13.uasset",
+      "bytes": 238839,
+      "sha256": "81bc739a5b450944fc81e87fa4e1882304f3b0e03498ddfd132111362ebe0c64"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Doors_Ground_04_14.uasset",
+      "bytes": 140041,
+      "sha256": "924f14090901f715725fa2d9480c67bd89247fff7a6264430a15bc743b5b7f7e"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Doors_Ground_05_11.uasset",
+      "bytes": 187151,
+      "sha256": "e231d0f41a887e24ac16007ccecea9ce825125eeb74d2bbf6639b9315c843152"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Doors_Ground_05_13.uasset",
+      "bytes": 106778,
+      "sha256": "defa86c2160d527775869022821c4fd2d76a5411a7715dfaed92bdd70715ae8e"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Doors_Ground_05_14.uasset",
+      "bytes": 179573,
+      "sha256": "fa73107158b8b6764cdb9719f04f4d1394c418a005dc35df8e940c603c3a0837"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Doors_Ground_06_10.uasset",
+      "bytes": 257566,
+      "sha256": "015392711b0535e6cb5f2038c720b33da1cd66d961dfe1eedbb7fa9406806767"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Doors_Ground_06_11.uasset",
+      "bytes": 327645,
+      "sha256": "bc7a04400de1b0c0c8fadfa177b7142d670a4bca3c755136a40a751ec6e3f47e"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Doors_Ground_06_12.uasset",
+      "bytes": 132175,
+      "sha256": "30a9e2e26b84ed0372ff68275cc192739feba888efc7f5c5b788ee8636ac0983"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Doors_Ground_06_13.uasset",
+      "bytes": 242942,
+      "sha256": "f48f3b8d810df7a7f44e9af67ffb2a4ce4875ec377835c32f59c63094a409de6"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Doors_Ground_06_14.uasset",
+      "bytes": 431348,
+      "sha256": "b542f68d57c79129fa03484453dd9ca335bc5144c6480d17670bbe9449a2c337"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Doors_Ground_06_15.uasset",
+      "bytes": 137953,
+      "sha256": "f0c5e46edcef711f536007db05b158df6503750d7a72b9c35d0199c393da4d4d"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Doors_Ground_07_10.uasset",
+      "bytes": 103267,
+      "sha256": "eb3423992a7c5329016a5c15c73c34e78a933a32ad4e62c5bcf54556f56d5b1f"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Doors_Ground_07_11.uasset",
+      "bytes": 162817,
+      "sha256": "61e9606a5404baf87c740fb899695f8b529cfa7b159b8aaa1cc966be4d44b219"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Doors_Ground_07_12.uasset",
+      "bytes": 201540,
+      "sha256": "06841148b004d11d764c0a9958fc333f1d0eb8af976a007fc8377cb71ca3b7ff"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Doors_Ground_08_10.uasset",
+      "bytes": 232186,
+      "sha256": "b3116f7d8d9d9502e4f6a6e6a36a45361cd1d7332a60f89ac619e42edbb04b3d"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Doors_Ground_08_11.uasset",
+      "bytes": 261300,
+      "sha256": "4d620972d8e4e4c6d4eb0d39e85aef3ac9d383ae6b346d87b6130653124a71c6"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Doors_Ground_09_11.uasset",
+      "bytes": 137372,
+      "sha256": "876ef4469d8b387e91d93e539992567e1b63c782b52799479d0747db1918ad72"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Doors_Ground_10_10.uasset",
+      "bytes": 171928,
+      "sha256": "456433d5ac4ab8543b44df69a217c6a3e5906e29397af768a33d747bfefd32ff"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Doors_Ground_11_10.uasset",
+      "bytes": 131504,
+      "sha256": "79d6e26ff25ae4ea8a199bd7f9db5a294c34d2bfea1155486efb7c48684ea46b"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Doors_Ground_12_11.uasset",
+      "bytes": 335176,
+      "sha256": "dc0408e314c735cf5f35d8e9e1768aa848a4c0b8e9c3256520820105bd406b83"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Doors_Upper_04_11.uasset",
+      "bytes": 180524,
+      "sha256": "e6b6e93e60d220fd1f8ff5de091c7210de22b4071c314e21575ff97d418dac12"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Doors_Upper_04_12.uasset",
+      "bytes": 207735,
+      "sha256": "4206fdfe887eef1a4cadf0420b0ac3558410f36a0c8461933db2b1609c9d97e6"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Doors_Upper_05_11.uasset",
+      "bytes": 200721,
+      "sha256": "6aefbf7d8a8e8f011d88be910d968296fd3fe216644c5f1a113285a347db2d2b"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Doors_Upper_05_12.uasset",
+      "bytes": 205300,
+      "sha256": "98db6061696a98574b895bb329207ef3ed9baf2f537d1bd562c92a418093b232"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Doors_Upper_06_11.uasset",
+      "bytes": 179747,
+      "sha256": "765c51d739ae8d96ceb6369f5e6f2c6a69f3c32f4955931ec8700fdf2c5e391e"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Doors_Upper_06_12.uasset",
+      "bytes": 253957,
+      "sha256": "393b8eb2d308673a49e030d882e5b210ffa632d5b43a7398c9d7cacb8f9abd53"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Doors_Upper_07_11.uasset",
+      "bytes": 175160,
+      "sha256": "7c257a0d391d5991642b196b2512cc174c590e607782b6d8fdfacefd7e447e9a"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Doors_Upper_08_10.uasset",
+      "bytes": 129418,
+      "sha256": "5334bc699749455a4f6b8c8eac6fabadd2f201c662b716204579f4b7dcf313e7"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Doors_Upper_08_11.uasset",
+      "bytes": 235694,
+      "sha256": "ab60d2b7ca0cca001eabd0e2d0a69ea4c2f3a2ec52552cc5d2d7076355f68ee7"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Doors_Upper_09_10.uasset",
+      "bytes": 135803,
+      "sha256": "88d3e821c4539e15ad9562f25d9abaa76721a2f77a311a2ec509766d6e40ecb3"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Doors_Upper_09_11.uasset",
+      "bytes": 169631,
+      "sha256": "6cd1f73d5028321d7596cc47c4f41a8f96e8b74c9079f3b7e911d409ce5414c2"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Doors_Upper_11_11.uasset",
+      "bytes": 218485,
+      "sha256": "b0e21e4bc3eb8c813ae93d8b6a469a661b93bc8bfddebb302c9e9ff9a5475bca"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Equipment_Ground_04_11.uasset",
+      "bytes": 105167,
+      "sha256": "c1f0efc17cbaa876ebce0160e4afd7aba8017f1aaefef241bd8dd66660bf64d2"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Equipment_Ground_04_12.uasset",
+      "bytes": 180228,
+      "sha256": "f8d10232b858e5a44c0fe31a33651c9084b96b6b048a9c9781b3f720869ff20b"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Equipment_Ground_04_13.uasset",
+      "bytes": 144022,
+      "sha256": "23a30fdee86b164bce7a7b538e25b7f956ccc566a7238388a88a0e455f7fd178"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Equipment_Ground_05_11.uasset",
+      "bytes": 179696,
+      "sha256": "da9c61bd1d9206489ca76022b26b72703f5a66d0fdc16ea8020444e2a95ef35e"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Equipment_Ground_06_13.uasset",
+      "bytes": 98877,
+      "sha256": "e5781545625510c89a1076701a5ee2c6a909ac6bb4148ba43a2c4ce290483a7e"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Equipment_Ground_08_10.uasset",
+      "bytes": 2704399,
+      "sha256": "3183a62cf097f4f7ed4947f53e15a9fabbda1d571fcf3ff8c37a3dbf05decc2f"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Equipment_Ground_09_10.uasset",
+      "bytes": 7779116,
+      "sha256": "0681169fd2e64961b1ad318ba5de6f1fcb80e9983f7e548e5f575763cfc0a865"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Equipment_Ground_09_11.uasset",
+      "bytes": 879646,
+      "sha256": "d9621597b341a101baea5626b3b3b49988bfd074ed6fa8498e2825f8468ef78d"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Equipment_Ground_10_11.uasset",
+      "bytes": 98850,
+      "sha256": "ad535c2bee770dac45b159908837858bfeaa27c881364364c674351c270699e7"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Equipment_Ground_11_12.uasset",
+      "bytes": 151902,
+      "sha256": "fcfc088a558e8075469dcf812f75055987152dcc7d49dbe9d4caf7a03d2331ff"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Equipment_Upper_04_11.uasset",
+      "bytes": 139032,
+      "sha256": "d804ebeeda6d5a4d15502f34736a9f364c70b9a44a5d2b2f460466e8c9baa60b"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Equipment_Upper_04_12.uasset",
+      "bytes": 138348,
+      "sha256": "42f31bb47ed0cc572b247cbc3336beafe9100b48d51489d7db7c13f91965f8e7"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Equipment_Upper_04_13.uasset",
+      "bytes": 91863,
+      "sha256": "e0337c3add1a0cd7647a4bbbe4d8d8c362e5c114cee44de5c8ae989eb8d930fe"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Equipment_Upper_05_12.uasset",
+      "bytes": 103318,
+      "sha256": "421d55e4c77c7c67ebecd729d4b350f71257a2642ba14387c434f4b3f7a5440a"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Equipment_Upper_05_13.uasset",
+      "bytes": 109731,
+      "sha256": "6039952a74444a277a459ef1bdda8a27d8a87fd69a99551f86179f6c5ac8b1c1"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Equipment_Upper_06_12.uasset",
+      "bytes": 98934,
+      "sha256": "d3e2fc14278a10a8bba5a6d94f9b221b00f96a5fd2a64256b32784419509a9ce"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Equipment_Upper_06_13.uasset",
+      "bytes": 98949,
+      "sha256": "e197e72a78148b8b47e769bd1e446ad3e175e8d4d64b439d2cbfefe08769ccdd"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Equipment_Upper_10_10.uasset",
+      "bytes": 108281,
+      "sha256": "b4f40d4919b6a7ff6a2cf722c5bde846cf17537e91ee00cdcc3ca10efc41e680"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Equipment_Upper_10_12.uasset",
+      "bytes": 129329,
+      "sha256": "fb5f7c281ba3817a5273fcc7c0c9e24e3a2e5b8795ba8c4a32e5b183d4ef10d2"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Equipment_Upper_10_13.uasset",
+      "bytes": 110280,
+      "sha256": "110cb166250ad8dddfe7e0d0f1d3f0e723d08e574ec22ff128f22851f7f0829d"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Equipment_Upper_11_13.uasset",
+      "bytes": 107808,
+      "sha256": "311ff5933a36df667421f2553c6f2ecc159a46396b41449bdf37f70411ed86f5"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Furniture_Ground_04_11.uasset",
+      "bytes": 83495,
+      "sha256": "69eada10e9ce22cdbb00d96530d7d214970069c99aa340df6cdbbf656916192f"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Furniture_Ground_04_12.uasset",
+      "bytes": 163737,
+      "sha256": "7d30f6295a592f5573143c9ea710a59c7354905bccd19c60a4f67aacc584f1ca"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Furniture_Ground_04_13.uasset",
+      "bytes": 163983,
+      "sha256": "48439576d7d6d9479797e7f72ef7077d56c8265a1dc745fe3f2d9460871ef851"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Furniture_Ground_04_14.uasset",
+      "bytes": 78787,
+      "sha256": "522a9c7fe22e6fbfe7353acccac1b2698b36248be5699de70148eae7088fc4bc"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Furniture_Ground_05_12.uasset",
+      "bytes": 624166,
+      "sha256": "b8d5c3743aa21a4b7b741dd77143b3b00c7b281b8ef6cbebf5d547121df2c898"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Furniture_Ground_05_13.uasset",
+      "bytes": 410527,
+      "sha256": "1cafc92c14e4568b9bf4b9f05646d57636787266bcb4085622ee2503f4354c01"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Furniture_Ground_05_14.uasset",
+      "bytes": 205207,
+      "sha256": "bf1adc8792062ffedce454cc3d0f5b54e063b3c5aed93f78d593f17507d32187"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Furniture_Ground_06_10.uasset",
+      "bytes": 76659,
+      "sha256": "1260972d5baf3c77c779ee3d8c75bf67b5821369d64d5d1119653a7a540aa593"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Furniture_Ground_06_11.uasset",
+      "bytes": 108902,
+      "sha256": "853b7ac17ba44af5921a8bd7e9636e4b14e91d9ac52d97f1e5a6871ce350e61f"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Furniture_Ground_06_12.uasset",
+      "bytes": 134606,
+      "sha256": "7ac90a03b5fda32b931f04e07714288c440ad1ed65a7585b53db2ceb34c9a550"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Furniture_Ground_06_13.uasset",
+      "bytes": 199934,
+      "sha256": "6347a68644f5af34841201c67724bac38247dcd4325a7ce4576e1e76590c5281"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Furniture_Ground_06_14.uasset",
+      "bytes": 76659,
+      "sha256": "481d5eb95eeca57bfa380d313145c7d4b6568fba15f52bc4dd1b9e11cd224d85"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Furniture_Ground_07_10.uasset",
+      "bytes": 79222,
+      "sha256": "e96de66e00fcad9b82b3c19bcc670c8b280afe2a2659da590b3e3435e749857a"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Furniture_Ground_07_11.uasset",
+      "bytes": 172769,
+      "sha256": "0a8b6ef3200f6971b42cdd5412aca3e2c7b8b65f84bbdb69090dea6df964abd5"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Furniture_Ground_08_10.uasset",
+      "bytes": 178156,
+      "sha256": "cf19008e1bf3c35b1110fa0358b1a8848bbc41f0b069e905ceb266f762d8ef15"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Furniture_Ground_08_11.uasset",
+      "bytes": 125761,
+      "sha256": "305666b02515cd680a45689542c40941eadc8dd2771d035edf0f51f1bf16c278"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Furniture_Ground_09_10.uasset",
+      "bytes": 199914,
+      "sha256": "ebf880d4d5680667f0a7d9f0d106681ea87eee1ff33a6562a330235c43ef9cf2"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Furniture_Ground_09_11.uasset",
+      "bytes": 93704,
+      "sha256": "6f2a082d87220d0e494998bb8090255486d27105796ef8078d729c7317f07aaa"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Furniture_Ground_10_12.uasset",
+      "bytes": 289506,
+      "sha256": "f8b05323833bb7153bc51323e76d780f276e3a795fb7c4f86448bb1fde621426"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Furniture_Ground_10_13.uasset",
+      "bytes": 185891,
+      "sha256": "1f1019e28ee59eec77cc92d803626fbcaceb261d1f77b8b8297b8647e0077636"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Furniture_Ground_11_10.uasset",
+      "bytes": 144633,
+      "sha256": "4233e370044e9f902750a718cb9406bc154606791243a59176f241e334379eb9"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Furniture_Ground_11_11.uasset",
+      "bytes": 76779,
+      "sha256": "781409d1669aca96fe06e49ce6b9462b8b3b49e8f3c02d6f2fc00565835bd712"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Furniture_Ground_11_12.uasset",
+      "bytes": 206363,
+      "sha256": "aacbe9803e89acd6062f499f328ceb96540605e664702d241fe3a1da31986334"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Furniture_Ground_11_13.uasset",
+      "bytes": 189902,
+      "sha256": "04f807d8464a55d558abd64b2ab02716882b5b0f0071169471fdb549ebe9ff5b"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Furniture_Upper_04_13.uasset",
+      "bytes": 77790,
+      "sha256": "0fae6abbb9d871d8d919408604602ed5bec321c01589b55bdb60d63b620a3483"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Furniture_Upper_05_11.uasset",
+      "bytes": 139017,
+      "sha256": "c3f71b68be68e6e5db006438d8ca285c3a258acef03060fe6059260671182080"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Furniture_Upper_05_12.uasset",
+      "bytes": 83756,
+      "sha256": "666ede9592f3b5f201a83fccd23d73ff9bbd7de1b38f5fac08a96edc10105869"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Furniture_Upper_05_13.uasset",
+      "bytes": 78470,
+      "sha256": "33117d0897d5c9491f2ffd05c272730eb9d47600f1bddad09df5ba87d59dfe64"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Furniture_Upper_06_11.uasset",
+      "bytes": 126871,
+      "sha256": "c597b585265967909430ebd24ec59c7feeed30a0dd084013eee3a52a0942d3ee"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Furniture_Upper_06_12.uasset",
+      "bytes": 77030,
+      "sha256": "0dc3ff177ff602c7635c2c88e7fb275aebaedaab38c28b80fa48cfb0dc0af609"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Furniture_Upper_06_13.uasset",
+      "bytes": 77039,
+      "sha256": "4f50499ff49385d183e0ed57e31f34aa9803b8bb6d2d5974392bcb04625f69ac"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Furniture_Upper_07_11.uasset",
+      "bytes": 192200,
+      "sha256": "906ab8e5e275bf3096356d81ea1d6536ea752eb7017083a513602bb3cdf15523"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Furniture_Upper_08_10.uasset",
+      "bytes": 138831,
+      "sha256": "0258ffd7cfdf9623760820e19c6901b42d0c5f4bb7645c044020b3001718cb77"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Furniture_Upper_08_11.uasset",
+      "bytes": 142723,
+      "sha256": "8c1aaa3add98c040178817a5a3d8161246cff7cfe77d57e3f5a87b3077ca5b7e"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Furniture_Upper_09_10.uasset",
+      "bytes": 150735,
+      "sha256": "6be94dfa00cf220c29494e5a6712261e5698e1ef1cf7fb0073c6718c218af505"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Furniture_Upper_09_11.uasset",
+      "bytes": 99108,
+      "sha256": "b3e1959a0a120da82db5e34a7bb8a452aa9630053a7cc6b8b61d1a98e07c66dd"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Furniture_Upper_11_10.uasset",
+      "bytes": 138596,
+      "sha256": "e34babdc233a914ba71371ba96534d088e82db8449108701f8332ed07f12951f"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Furniture_Upper_11_12.uasset",
+      "bytes": 138699,
+      "sha256": "d9fb7a921df0890e1a633e0f723392dbdfba7c6de799bedd53392a95dd57c6c2"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Furniture_Upper_11_13.uasset",
+      "bytes": 119318,
+      "sha256": "b645997bc157dc18e4866230f6efbba52e5bb340fc513bec7c2096c0a9431a15"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Roof_Upper_04_12.uasset",
+      "bytes": 76848,
+      "sha256": "9eeef006beaf6c68697be6863349d3d05a53182ed9fdb2fece0b291bc62b9e99"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Roof_Upper_05_10.uasset",
+      "bytes": 76862,
+      "sha256": "c6aa7e322b1bfb2754e324f1ef40881f09616a978b1ed883b01a345a74be3d1c"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Roof_Upper_05_13.uasset",
+      "bytes": 76859,
+      "sha256": "e1cf6ca4414e914833dc5cc3969de4439e0d447a9e8a12a6dfcd5a7d5c4fe53a"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Roof_Upper_05_14.uasset",
+      "bytes": 76442,
+      "sha256": "d60eb0ac12b49bb98e9d596aa43c2aed0eb8299a27bfafad38023a57215fbb83"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Roof_Upper_06_10.uasset",
+      "bytes": 76846,
+      "sha256": "8eeeb63f4539cda1b506bd059e20615395ffaca59c70b5a93b8b2e01e3a08c47"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Roof_Upper_06_11.uasset",
+      "bytes": 77972,
+      "sha256": "3a484fe1e05509c3835b3621bf5350481d5dd39e9d189cf3d74849b77f6f88c3"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Roof_Upper_06_12.uasset",
+      "bytes": 76854,
+      "sha256": "4285b9be0a10ca22a7b3bea521bcc7e3a0a295027fdf73deea20d9199e0072ad"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Roof_Upper_07_10.uasset",
+      "bytes": 76862,
+      "sha256": "0de95b93dbfcf9a6cd44718769fc079929cdaf1d3de577b4c677d8c660d69a0f"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Roof_Upper_07_11.uasset",
+      "bytes": 93400,
+      "sha256": "724385fdf585af7bf1d43de531122f11d02101838060485ae0e943b791e49650"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Roof_Upper_08_10.uasset",
+      "bytes": 76849,
+      "sha256": "fa2a2130e2889c9eaf1d972f829d453cbdc2ddc3c1fa6d1556940f4444d40382"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Roof_Upper_08_11.uasset",
+      "bytes": 83890,
+      "sha256": "ce6fad28a9dbdb6f65e26755ed41aba4ef616ead1cdb0c0ae042c9c1e55c8eb4"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Roof_Upper_08_12.uasset",
+      "bytes": 81516,
+      "sha256": "c8f6a6bb197692ae900d28d64efe1f2f2f800cf2df2d781ba849c442660abe73"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Roof_Upper_08_13.uasset",
+      "bytes": 76444,
+      "sha256": "cfec5741c937b76a5f97e831406eeea2c8cc13aec154acfb88954c6e4738027e"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Roof_Upper_09_10.uasset",
+      "bytes": 76843,
+      "sha256": "78e7f931a148c8c0f7daa36884b4b4c6f1fb98d801e3add5bede33b01ccb8d79"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Roof_Upper_09_11.uasset",
+      "bytes": 78720,
+      "sha256": "e9a6331aee8198aacec4975c80d2403d52f9104f902b4192c48e488532ebcc3a"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Roof_Upper_10_10.uasset",
+      "bytes": 77635,
+      "sha256": "3f2274c62ba7e581e9ea5f0147d62f1e821952992b35cc47a9c5810df0258fb1"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Roof_Upper_10_12.uasset",
+      "bytes": 76844,
+      "sha256": "1581266d85776c137ad4369931d87515b5e017766b4d3a4416ce4d5709d0cd9f"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Roof_Upper_10_13.uasset",
+      "bytes": 76855,
+      "sha256": "33f3b97e3e6d4ea5d9aaed756a59b760b57dc9a19cb08f5cc4228d16381cda50"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Roof_Upper_11_11.uasset",
+      "bytes": 76870,
+      "sha256": "22e7d5e88f17adf1a3c28530c635f88ecf48cbb003d30a541e9f5518d2f2762e"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Roof_Upper_11_12.uasset",
+      "bytes": 92246,
+      "sha256": "4bb553032c102942521a0d83f5a3b2d57bce33b5dae49eba1fdeb7b284477ee0"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Roof_Upper_11_13.uasset",
+      "bytes": 76655,
+      "sha256": "b3e3ff8d6623be26a571daef9b16627aba7be235b6a4bacad7c48930bc7e0e40"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Roof_Upper_12_11.uasset",
+      "bytes": 91074,
+      "sha256": "926e711c8409cb881e7d79be2747b305834b288d9f0ff7e83557d3858bc09bcc"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Roof_Upper_12_12.uasset",
+      "bytes": 77787,
+      "sha256": "a3b71c51dc31a48aede380690f9d580f9fdd326b4cfa430ff18d66e4b689595e"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Roof_Upper_12_13.uasset",
+      "bytes": 76638,
+      "sha256": "2d8411fe9df0cd3e32e574bf3d99000c7d38ed0ba06e6126e2452f00a77f071c"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Screen_Ground_10_12.uasset",
+      "bytes": 82430,
+      "sha256": "2c2166a879fa1b91828777c4eaef8279fa7820204e2245b990bb72917dfa4a7a"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Students_Ground_04_11.uasset",
+      "bytes": 211290,
+      "sha256": "7770f334cf21c52a55ad75c02710cc31cb9e65e114dc9edc5a3a6f42d5d61164"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Students_Ground_04_12.uasset",
+      "bytes": 212985,
+      "sha256": "6ec9ed832115e79cab6140d584789d6f4fdffc784b56832c5ff436ecde7d8d9a"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Students_Ground_05_11.uasset",
+      "bytes": 521425,
+      "sha256": "ceea1f63616a7fc2ddbad216944bb382b6908be1c29de3ad698d086c289e7e83"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Students_Ground_05_12.uasset",
+      "bytes": 209580,
+      "sha256": "7f5a6f5151362c6c1a1a7f3839019462866daff623a08a6ec4f9f18a0d35df68"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Students_Ground_05_13.uasset",
+      "bytes": 528832,
+      "sha256": "1365dc03ec5f1f92942e6d260cfd2666c30021ecb7d1491522df9906fa26aa9e"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Students_Ground_05_14.uasset",
+      "bytes": 369841,
+      "sha256": "57a4950e4aedc5be4b8a12832b5400c4669dc86def42419c80e92ea8b227c9d6"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Students_Ground_06_11.uasset",
+      "bytes": 474354,
+      "sha256": "98113533571914c690bf04abbe91f81cc13f3b5932f6f3867d8fd68bd9af1a69"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Students_Ground_06_13.uasset",
+      "bytes": 275697,
+      "sha256": "f6859364dc526ddc81de807418ff98b5bc388789e03de8ec6a151b9bd8652259"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Students_Ground_07_11.uasset",
+      "bytes": 320661,
+      "sha256": "9d9d8520bf1181ff5ddc2933935925b236c217f45aff60a354d77dc6ec6dd0a1"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Students_Ground_08_10.uasset",
+      "bytes": 210707,
+      "sha256": "c554002bd601b7b13d27638222457bdfb3ee05ef38cd529dc5cc4f1ded134752"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Students_Ground_08_11.uasset",
+      "bytes": 332035,
+      "sha256": "b69952eb1bc9d5ddad5cd93d7d48c162bce1141fd83b3c42dd27eaf03034b8ed"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Students_Ground_09_10.uasset",
+      "bytes": 951624,
+      "sha256": "9120095f0a81e4f849e3c8a1be44def3336cadfefa0c95f7114c69dcc926f5a3"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Students_Ground_09_11.uasset",
+      "bytes": 476163,
+      "sha256": "d9f5c1a20a484e5ec03ea726972dc00c92ab9a9137a323e0e672693c87bb81c5"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Students_Ground_10_10.uasset",
+      "bytes": 605773,
+      "sha256": "f7fd73b0b2eafca8fd114f5ccabe5d3369e641a282ff379f89eb98c823475ba3"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Students_Ground_10_11.uasset",
+      "bytes": 209840,
+      "sha256": "23e33d0c0ab97223a4d7ce01bb5e279022a829565b28eb186990f1b63171168b"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Students_Ground_10_12.uasset",
+      "bytes": 1198731,
+      "sha256": "5127fac3f5b9f4b13ac1fb209621e82691445f9b67036cbafa0b566327fa3c94"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Students_Ground_10_13.uasset",
+      "bytes": 819234,
+      "sha256": "153b03e054d6d8b9689642ab7f637f99e3b5fd2c90906c40293d4628924a8373"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Students_Ground_11_10.uasset",
+      "bytes": 325291,
+      "sha256": "e5743c8e67ebb08c5c0176aee9afb10ab2a0697f6cd7e6046c383c4b106348da"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Students_Ground_11_12.uasset",
+      "bytes": 719881,
+      "sha256": "6c744bada6f65a4865d94ba201df4ae437d9d4cee07d474f69be12c68d53525e"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Students_Ground_11_13.uasset",
+      "bytes": 511326,
+      "sha256": "6e40d9f6f397014ec76f331bef821468ba78a733ecf7c95febb25cff757a8fe6"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Students_Upper_04_11.uasset",
+      "bytes": 207955,
+      "sha256": "45e80597c391f4f7411e35492fe31ca4e995370db1c119c832e2de96d54772c7"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Students_Upper_05_11.uasset",
+      "bytes": 208790,
+      "sha256": "7b9c6b4b655b4bb446badb8e562c5f5025823234e28e5f57e75e909fe4980777"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Students_Upper_06_11.uasset",
+      "bytes": 207033,
+      "sha256": "a93af6f61ba6596aa639ff0d70980f31ae507daae1f87daff76f2e58ef8a1c23"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Students_Upper_07_11.uasset",
+      "bytes": 858260,
+      "sha256": "cd3ec089b0cd1854ff1aae449c0b304d59428584156383604dfb3eb26fea8618"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Students_Upper_08_10.uasset",
+      "bytes": 316652,
+      "sha256": "fa5eb09525029cf12fbc4ac316a9c4723e5f7bf74758b855f683ba5aa52780d0"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Students_Upper_08_11.uasset",
+      "bytes": 794745,
+      "sha256": "cfa26a8bcc3fff9adfbd344909e26ac6a21f19aef007fd50e5e4ccf90a32c7d9"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Students_Upper_09_10.uasset",
+      "bytes": 210907,
+      "sha256": "80de776f581b148eed099c4d77d496a894a248720a1a495648392c5945b0877e"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Students_Upper_09_11.uasset",
+      "bytes": 798301,
+      "sha256": "087de627b6b7c5b6cf79607233c52d8395e13a199b613617449fd0f013df9f2e"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Students_Upper_10_11.uasset",
+      "bytes": 694812,
+      "sha256": "d38573a3d7dc29db8fad8800f74c4caedafe17958ee9e2ecfdf6c3e9aac02fe9"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Students_Upper_11_10.uasset",
+      "bytes": 210936,
+      "sha256": "3b17a0eceb7b15bfa76bda97bf74122157ecf92d4ab43c055de4702070831375"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Students_Upper_11_12.uasset",
+      "bytes": 308820,
+      "sha256": "3098727bf332ef29eab3fffa8b0ab8fee634eb52e5c2ac6b9bf1da5138672e3c"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/StaticMeshes/Students_Upper_11_13.uasset",
+      "bytes": 213985,
+      "sha256": "f4e487fed4035049a7b32fc7d09d909e44b6d2c0d104fd8057496e7d9a4b02ee"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/Textures/brick_gray_base.uasset",
+      "bytes": 691224,
+      "sha256": "5f6daa887215e030d6dcdf051b034a6f9ba0288ae0a646a3a72527d1b61e5676"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/Textures/brick_gray_normal.uasset",
+      "bytes": 2326788,
+      "sha256": "6e007d71fc1d779d4094bf1563d324739b0e5366cc64f25d8c9ef5ad45f722eb"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/Textures/brick_ivory_base.uasset",
+      "bytes": 690941,
+      "sha256": "eed97d227ca5a619feac2588222d5ee34cadfbdb68fd1fd0f875b2db3b12c0df"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/Textures/brick_ivory_normal.uasset",
+      "bytes": 2326800,
+      "sha256": "86d86456aa66e6f5c1d1a58e6d076d7a82d4cf3a575179fff90d09683b50fa12"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/Textures/oak_base.uasset",
+      "bytes": 466555,
+      "sha256": "4e1c61ba6a263e00ea9352b6747a80ae310906f214da16171d9ce8b4ed78e7ba"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/Textures/oak_base1.uasset",
+      "bytes": 466603,
+      "sha256": "4663537b541afe1581d37ee578407dd56a288fd6d50e5343112008f1ba8c69f6"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/Textures/oak_normal.uasset",
+      "bytes": 302838,
+      "sha256": "35e2c6b7883fcbcbe4bbd705041b03e6dc1411b3edb2cf2002ae930659389605"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/Textures/oak_normal1.uasset",
+      "bytes": 302894,
+      "sha256": "cb9cb4ab632b38f62a7b4154759c4e2b59117b693fc8986dd5913684a4872639"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/Textures/stone_base.uasset",
+      "bytes": 684088,
+      "sha256": "02f4bc72d0a1ddeda48cde3851bda2a6b85b22f72b00bac633cc566f93886e5b"
+    },
+    {
+      "path": "unreal_project/Content/Campus/Imported/Campus_Transfer/Textures/stone_normal.uasset",
+      "bytes": 1643753,
+      "sha256": "9e9261ed34585a4622375bbe85f5cc17fa31268c6d75a115f2cd7e475a85098a"
+    },
+    {
+      "path": "unreal_project/Content/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.uasset",
+      "bytes": 11364,
+      "sha256": "50bc74505757f87599650ab44383b1033429f9d6d2aacc48b25b9b83c4d04b96"
+    },
+    {
+      "path": "unreal_project/Content/Campus/PolishV02/Materials/M_Warm_Painted_Plaster.uasset",
+      "bytes": 11427,
+      "sha256": "cf57a7f4884f5907937a16b3a71848f5e015beb92d421c6e319c4d226352c5ba"
+    },
+    {
+      "path": "unreal_project/Content/Campus/PolishV02/Textures/Fabric030_1K-JPG_Color.uasset",
+      "bytes": 1692274,
+      "sha256": "344eae7b87010a5d032b153586dd756c0a4b7539b6adbf4acd13f181899ce30c"
+    },
+    {
+      "path": "unreal_project/Content/Campus/PolishV02/Textures/Fabric030_1K-JPG_NormalDX.uasset",
+      "bytes": 2692545,
+      "sha256": "0bcbfa967481f683fc885d9a027a036dd66d6365e442df927e39cc62a330ac36"
+    },
+    {
+      "path": "unreal_project/Content/Campus/PolishV02/Textures/Fabric030_1K-JPG_Roughness.uasset",
+      "bytes": 878029,
+      "sha256": "767250437267d860a1e61383bf64979e7fc5857c2093db671819d1ba50870616"
+    },
+    {
+      "path": "unreal_project/Content/Campus/PolishV02/Textures/PaintedPlaster017_1K-JPG_Color.uasset",
+      "bytes": 389609,
+      "sha256": "d92c8a878bb4a14f5585a3576b95192de923557141a36ebcf4656fbef0ff1ac3"
+    },
+    {
+      "path": "unreal_project/Content/Campus/PolishV02/Textures/PaintedPlaster017_1K-JPG_NormalDX.uasset",
+      "bytes": 1128975,
+      "sha256": "9b6f223c2e2b248cf3f32e84a3858eae843f256767b657e29dd75eb839d34de1"
+    },
+    {
+      "path": "unreal_project/Content/Campus/PolishV02/Textures/PaintedPlaster017_1K-JPG_Roughness.uasset",
+      "bytes": 204623,
+      "sha256": "ce5d469a6d1413445b122a6ce5b39359cf59ebf13432e7a9b81b18c74ffdaa13"
+    },
+    {
+      "path": "unreal_project/Content/FirstPerson/MI_FirstPersonColorway.uasset",
+      "bytes": 9419,
+      "sha256": "d0821072d542c67e5eb8802456cf0f4744ea3eeb843fbf59baeae1771e939d23"
+    },
+    {
+      "path": "unreal_project/Content/FirstPerson/Anims/ABP_FP_Copy.uasset",
+      "bytes": 57892,
+      "sha256": "a9d36cac5bb30f5a5ecdb175dc4fcbd50d8ae74405ad57802436fbedbab02455"
+    },
+    {
+      "path": "unreal_project/Content/FirstPerson/Anims/CtrlRig_FPWarp.uasset",
+      "bytes": 248824,
+      "sha256": "7cab27cf0fdec19da9dd6ec98c5c1e8308774c460dda518ca0753c276af85078"
+    },
+    {
+      "path": "unreal_project/Content/FirstPerson/Blueprints/BP_FirstPersonCameraManager.uasset",
+      "bytes": 15761,
+      "sha256": "3426584f105e39755833ebc2ede7b586cfde5a11fcebeecaf0eac37d819cce57"
+    },
+    {
+      "path": "unreal_project/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+      "bytes": 138384,
+      "sha256": "32d47177b176a430adb28897153e9bf5d2a3807bfca232815aa60ad58b6ae6a3"
+    },
+    {
+      "path": "unreal_project/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+      "bytes": 16060,
+      "sha256": "b23709651a847a05a85c9e258d60d98f6a9bad15bcad798cd7c0b02c1729696e"
+    },
+    {
+      "path": "unreal_project/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset",
+      "bytes": 83021,
+      "sha256": "0ad6c2154837e1aafbbd6da30c9f49697c031d8ae2221d481956f08e827edc14"
+    },
+    {
+      "path": "unreal_project/Content/Input/IMC_Default.uasset",
+      "bytes": 7787,
+      "sha256": "133bda6567aaeea1aae05c03597345e4b1d9ef24d868a0275203b3203a7aae98"
+    },
+    {
+      "path": "unreal_project/Content/Input/IMC_MouseLook.uasset",
+      "bytes": 2521,
+      "sha256": "6a00157cd520edcf0b037d7091bfe188fa6eb7c48465f695981f7cbe5fb4cc80"
+    },
+    {
+      "path": "unreal_project/Content/Input/Actions/IA_Jump.uasset",
+      "bytes": 1695,
+      "sha256": "73c14789fee45a6e1eff57f3304a0bafee23790cc8ea6a6a5bf0056e75d7b3e4"
+    },
+    {
+      "path": "unreal_project/Content/Input/Actions/IA_Look.uasset",
+      "bytes": 1385,
+      "sha256": "0d4a2cb59db11a0a080834e1b292207e530b8df217446afb46e382d9fa12f5a9"
+    },
+    {
+      "path": "unreal_project/Content/Input/Actions/IA_MouseLook.uasset",
+      "bytes": 1410,
+      "sha256": "2901132a04ceb384e2693107b8f5455de48b7c325d6cc5ce07556c6425c19f48"
+    },
+    {
+      "path": "unreal_project/Content/Input/Actions/IA_Move.uasset",
+      "bytes": 1385,
+      "sha256": "85567b9d91ffd9f7106c3062557a6fa864a791233380353f63eb563470985add"
+    },
+    {
+      "path": "unreal_project/Content/Input/Touch/BPI_TouchInterface.uasset",
+      "bytes": 16393,
+      "sha256": "e778ae087305a34cd6957fcf9b29670f0a2a01be96bad89c79b83286496ec45f"
+    },
+    {
+      "path": "unreal_project/Content/Input/Touch/UI_Thumbstick.uasset",
+      "bytes": 223040,
+      "sha256": "49c8c04b2e8c88beb55935b05d9af72c35d89512ea6435f20d5e3123be139f8b"
+    },
+    {
+      "path": "unreal_project/Content/Input/Touch/UI_TouchSimple.uasset",
+      "bytes": 70301,
+      "sha256": "81f45f11e73180f0964ee3f59f77c8c55e61d355e5c69427e1de67e5aa5db77b"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Materials/M_Mannequin.uasset",
+      "bytes": 59292,
+      "sha256": "d7ffe412d906380bd5bd4462f464b2a1fe48fdb79b9077f29bd0f958a782035c"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Meshes/SKM_Manny_Simple.uasset",
+      "bytes": 15825101,
+      "sha256": "be9f011191ee1887b97cd13bce09886a6066c2fd62c619991070ec142184e1bf"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uasset",
+      "bytes": 16252577,
+      "sha256": "1ef45d92507a76d74a5e06737f94cad40eb7d5f5769dfbb63f7f74e784a178c6"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+      "bytes": 191198,
+      "sha256": "22029d47455f24471195b26a0e04a1e1389f27d6a924e88c9f46a0f600c9a530"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Rigs/CR_Mannequin_Body.uasset",
+      "bytes": 17057558,
+      "sha256": "57f84458a160c35b77f0442d2af41054e41e021ebbb496c2c76dea76d1d89580"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Rigs/CR_Mannequin_FootIK.uasset",
+      "bytes": 498698,
+      "sha256": "aa01be065d2efa2dfd3b258f60b94b09fcd5d351356d16bb52578ef5bcbfb5c5"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.uasset",
+      "bytes": 2575944,
+      "sha256": "057818dd3e0e16ff90c147e25a8fc5ab309c49c4c60360477cf4742e767d151e"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Rigs/PA_Mannequin.uasset",
+      "bytes": 301538,
+      "sha256": "c0ceaf003947088ff076555b81a46e5ccb11149c94025eb2a9e74263fbaa0d67"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Death/MM_Death_Back_01.uasset",
+      "bytes": 308880,
+      "sha256": "fdee63c4a4dc23076dda04b32eb8505bcd41fb791e574a264026c43e700bf923"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Death/MM_Death_Front_01.uasset",
+      "bytes": 308516,
+      "sha256": "c9daa694dda4639b106a29401712b03376344b301b6161955a92ba64ea60ae6d"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Death/MM_Death_Front_02.uasset",
+      "bytes": 314751,
+      "sha256": "dda4f9d6a4c8fc3bf79458d4d2f490965ff01401256e90fdf98a938a58c61986"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Death/MM_Death_Front_03.uasset",
+      "bytes": 277478,
+      "sha256": "bf3a411d465002756eb1a19cdb2bef63b75a57a9fab7ce121ee71941e010d2cc"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Death/MM_Death_Left_01.uasset",
+      "bytes": 283231,
+      "sha256": "712a25024fe931bd518fff6c935b82bc0ee2070a77caef63edd0d6fc7ff66508"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Death/MM_Death_Right_01.uasset",
+      "bytes": 302339,
+      "sha256": "7968e7e1bc3d8e33c3f0d8479e6753d011ced0e05a831eb7f10e28ceb536b9a4"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Pistol/MF_Pistol_Idle_ADS.uasset",
+      "bytes": 2068319,
+      "sha256": "766a02544f06604946d8c47c47c6bb877e14208904306188bc1f5b174fd7715b"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Pistol/MM_Pistol_DryFire.uasset",
+      "bytes": 250601,
+      "sha256": "64b3c6dc7357f8a1b380057ef76e1cbb984d69e7d0732eaefd70befe2be7b67f"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Pistol/MM_Pistol_Equip.uasset",
+      "bytes": 360966,
+      "sha256": "7f5a1ed2c1b72a9bb27b417cb0d5315440af2b22b7b846254fbce50e2fbb3d17"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Pistol/MM_Pistol_Fire.uasset",
+      "bytes": 186765,
+      "sha256": "ebd8467dbb3de5ba0e1b2eac0092352e270b37e616bc443872341cde2f5c22d8"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Pistol/MM_Pistol_Fire_Montage.uasset",
+      "bytes": 10119,
+      "sha256": "2eabacc1911be6c5b0dff7cf8a5c29c0506a25ffa6f3e7fa5946e76f992e38ee"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Pistol/MM_Pistol_Reload.uasset",
+      "bytes": 479562,
+      "sha256": "a821a774302ce5121efff744620da09587752290e35e4413b8e40db8ad9c0391"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Rifle/MF_Rifle_Idle_ADS.uasset",
+      "bytes": 1700234,
+      "sha256": "cfa32b19207a25546bb5bc2dde8454dc633cc27c3de45747e941756e23da5d4d"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Rifle/MM_Rifle_DryFire.uasset",
+      "bytes": 249623,
+      "sha256": "131e01f0a31f999e7fd09ef190b314314c851f39101412161dabdb00d2dda801"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Rifle/MM_Rifle_Equip.uasset",
+      "bytes": 416648,
+      "sha256": "136b19498b8bac4119dde48236d22127e8463c0becff775069e0b6399b7939d6"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Rifle/MM_Rifle_Fire.uasset",
+      "bytes": 184600,
+      "sha256": "1c5b983bd6c09431c83866f772ccf13871ad9626426c86cc08a0c87c150555f7"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Rifle/MM_Rifle_Reload.uasset",
+      "bytes": 547351,
+      "sha256": "ac1e17d2acb7e3cea6e4c9ca967400dc3052d5ec6514e155b33d8e4701e80784"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.uasset",
+      "bytes": 385911,
+      "sha256": "60ae8c970189979d9e070beb0fd8675f4afb2b04d8aaa8d11a0f03c5b7ebf4b2"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Unarmed/BS_Idle_Walk_Run.uasset",
+      "bytes": 52333,
+      "sha256": "bc71af8768b569695d4bcb69c79867f998e085693f5e8230854d228de359f5bb"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Unarmed/MM_Idle.uasset",
+      "bytes": 1436554,
+      "sha256": "11ee7fdeb84db89c1a66785b43b9bfc1415782122b8ac229517f4c5125d9cb0d"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Pistol/Aim/AO_Pistol.uasset",
+      "bytes": 8824,
+      "sha256": "a4f2fca2458488be2d05cb2188bd641293d06bdcc4e598feee59ba1b23156c24"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Pistol/Aim/MF_Pistol_Idle_ADS1.uasset",
+      "bytes": 2056489,
+      "sha256": "4d7113f1799219db01d8394c2984d5afd2957de07d66cfa463c9c33822e11d89"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Pistol/Aim/MF_Pistol_Idle_ADS_AO_CD.uasset",
+      "bytes": 170203,
+      "sha256": "2898b38d8ef305d1d2e285f519be72cde7e2b0106bb85657fda47e35dc27b15d"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Pistol/Aim/MF_Pistol_Idle_ADS_AO_CU.uasset",
+      "bytes": 173260,
+      "sha256": "e5c5855b58743d51bf1abe11b470749f50ae6074fac734da446d1c4a9b076650"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Pistol/Jog/MF_Pistol_Jog_Bwd.uasset",
+      "bytes": 365135,
+      "sha256": "f93aacabf40a36d906896e5c5998e4a63445749efa25c973092b9ae82ef1477f"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Pistol/Jog/MF_Pistol_Jog_Bwd_Left.uasset",
+      "bytes": 255387,
+      "sha256": "dc8a45c6259a8a51808ff3de4688302a65ce4988a05a5b0f70fbced01001ea6b"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Pistol/Jog/MF_Pistol_Jog_Bwd_Right.uasset",
+      "bytes": 255329,
+      "sha256": "e6f80eb946a12e3056a53d67b8134f5e9bd028eb66333a8a665c13d6cf14d1ee"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Pistol/Jog/MF_Pistol_Jog_Fwd.uasset",
+      "bytes": 432796,
+      "sha256": "caba32a2584600031bca7cec76875e50eb80e4c1d6fea3e249f2532388d4f221"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Pistol/Jog/MF_Pistol_Jog_Fwd_Left.uasset",
+      "bytes": 309345,
+      "sha256": "8ed2295bbfbbe7800395b2fc2023e082f6c9b2b7127dd6ceb5c7ec055486c39b"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Pistol/Jog/MF_Pistol_Jog_Fwd_Right.uasset",
+      "bytes": 309527,
+      "sha256": "d80c0c9bb0a8fae52095506f7f83c42bdd11b4d62ebfe57b1d9c7f40e8a9478a"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Pistol/Jog/MF_Pistol_Jog_Left.uasset",
+      "bytes": 310960,
+      "sha256": "4d8fcf3a8b6e581f4d06bc4fe2b307e1dcdcc7432cc114173c201a0115cad2c9"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Pistol/Jog/MF_Pistol_Jog_Right.uasset",
+      "bytes": 354844,
+      "sha256": "017f902b0a80b4fff2115c5c39f640b7622ad562a0ec137d25aae61d511d0b53"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Pistol/Jump/MM_Pistol_Jump_Fall_Loop.uasset",
+      "bytes": 255338,
+      "sha256": "7b01836fa36515fcb523644e82f2f130289a69a14314b6b939d5a580b3c5950e"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Pistol/Jump/MM_Pistol_Jump_RecoveryAdditive.uasset",
+      "bytes": 268356,
+      "sha256": "e9935321b5ee3fe9445cfa2a6c9f0d0391d888fbb9db71b1eaf76b3bc5345d6d"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Pistol/Jump/MM_Pistol_Jump_Start.uasset",
+      "bytes": 144542,
+      "sha256": "58c1e69b2690611740c465f92e3763fd9747b9a6e75fe6a7629b16c5fcc37e7a"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Pistol/Walk/MF_Pistol_Walk_Bwd.uasset",
+      "bytes": 545138,
+      "sha256": "704dd7e116a755b086a8d685321f23e332bba6cb77dd6ae95542d38c462feb9b"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Pistol/Walk/MF_Pistol_Walk_Bwd_Left.uasset",
+      "bytes": 450957,
+      "sha256": "fff084ed3ca270a8d926f810f078a69347507851744cf399f3142c97e36e2fa6"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Pistol/Walk/MF_Pistol_Walk_Bwd_Right.uasset",
+      "bytes": 451022,
+      "sha256": "26a82255db90c0dc4e8c01d52a55f73b5f5a532ef161812faf63be65869f3504"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Pistol/Walk/MF_Pistol_Walk_Fwd.uasset",
+      "bytes": 474209,
+      "sha256": "7ac6171e3b841b09fff67dc4162b0c70f99f3107f549a20a213d5e05405dc69e"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Pistol/Walk/MF_Pistol_Walk_Fwd_Left.uasset",
+      "bytes": 374604,
+      "sha256": "bdd682c2a45cf6a73a34df6499f8bb4ccf8b68a42b8888c47b8532bfecb200d1"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Pistol/Walk/MF_Pistol_Walk_Fwd_Right.uasset",
+      "bytes": 374748,
+      "sha256": "b9b42e230d6fdf9f4f836592507c3f8a17dfd76d7b054b78b633a11722f94100"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Pistol/Walk/MF_Pistol_Walk_Left.uasset",
+      "bytes": 580040,
+      "sha256": "bc5f5b9f355e755023d1aa153070a073156f6d902b08e7cf78463f5e0bc8f629"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Pistol/Walk/MF_Pistol_Walk_Right.uasset",
+      "bytes": 498997,
+      "sha256": "e72f68c9a306ec44f7bc4f37e3533f2918ee19d99a1d8e60986036f2a4405d68"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Rifle/AIM/AO_Rifle.uasset",
+      "bytes": 10402,
+      "sha256": "a3cfb9e380d881fa8561df0515f4ff24d96af4d3e1430df829c7ede641a12b1d"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Rifle/AIM/MM_Rifle_Idle_ADS_AO_CC.uasset",
+      "bytes": 94995,
+      "sha256": "9521c1941980dc784cedb3df736d7c1edf56afaa0201f28b41c5ae9923e88bbb"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Rifle/AIM/MM_Rifle_Idle_ADS_AO_CD.uasset",
+      "bytes": 94882,
+      "sha256": "09b2c98aa7778b6a970b0d90882555cf920c03d761f1e50bb3feaf0e3c9a6fef"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Rifle/AIM/MM_Rifle_Idle_ADS_AO_CU.uasset",
+      "bytes": 95154,
+      "sha256": "60969c39ff3c1bd1e30e7c728a9dbe49c236857659b1ae8d20ae7605d8152324"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Rifle/HitReact/MM_HitReact_Back_Med_01.uasset",
+      "bytes": 252342,
+      "sha256": "ecb41ae9339d797408a7b9c0270dc1f917b680a21f1c189ac0e3890f41185e0b"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Rifle/HitReact/MM_HitReact_Front_Hvy_01.uasset",
+      "bytes": 247961,
+      "sha256": "e5caf5938c73d131c9254c1af09cb7fd4335516c9a406be77c17ad5e1f2cdebe"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Rifle/HitReact/MM_HitReact_Front_Lgt_01.uasset",
+      "bytes": 224756,
+      "sha256": "ae8728f698434dd1e63978d5d92c5984d086d7ee39ce618598122b6fa87dc820"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Rifle/HitReact/MM_HitReact_Front_Lgt_02.uasset",
+      "bytes": 238345,
+      "sha256": "dcb6c068d81d5be1d84c88895805eb29c2f3f345668a10884836f00759b0647b"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Rifle/HitReact/MM_HitReact_Front_Lgt_03.uasset",
+      "bytes": 281622,
+      "sha256": "3949df1228e6c14047477538424f9440216915a0637da33cf6c7298400128073"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Rifle/HitReact/MM_HitReact_Front_Lgt_04.uasset",
+      "bytes": 318893,
+      "sha256": "e0ed26de9c333968631cc040e82aebac289a2fd655a1f348a3b09ce3b40f1ef5"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Rifle/HitReact/MM_HitReact_Front_Med_01.uasset",
+      "bytes": 225043,
+      "sha256": "cca3c893d68d8270a9eec9eb7572f7ed6bfcfdf6ce6345dc8b2860d6135dbe00"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Rifle/HitReact/MM_HitReact_Front_Med_02.uasset",
+      "bytes": 234402,
+      "sha256": "3acb6956f9eb6512e386b575c4c3e390f7d0280b037ca52e0eef813fb1f729d6"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Rifle/Jog/MF_Rifle_Jog_Bwd.uasset",
+      "bytes": 582054,
+      "sha256": "0fd489f5c8d4d63e84f8a25c2db46c3ae54eae828212b2a32622726e593b5d3c"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Rifle/Jog/MF_Rifle_Jog_Bwd_Left.uasset",
+      "bytes": 458365,
+      "sha256": "c3939c4aa298e6be0834256ef6f642cff0465a40d676ec7e464aaf504b44f729"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Rifle/Jog/MF_Rifle_Jog_Bwd_Right.uasset",
+      "bytes": 458272,
+      "sha256": "907cb106c1c466aac0b38753b7551af73a09c082a652c82c43df5418eb33b089"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Rifle/Jog/MF_Rifle_Jog_Fwd.uasset",
+      "bytes": 516328,
+      "sha256": "287d39883a65ccf6f89d91c7ca13b23184f04ae6eb5cc3867dd7ef7cfb35ec1c"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Rifle/Jog/MF_Rifle_Jog_Fwd_Left.uasset",
+      "bytes": 384314,
+      "sha256": "4103ea6388d484e8f71cd30b955c3c954750d922a0c030bf3d902bdb3e02c13d"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Rifle/Jog/MF_Rifle_Jog_Fwd_Right.uasset",
+      "bytes": 384322,
+      "sha256": "2ca8d8ec88d086d4cb6027a2eefdde258142587bca40e98dee021abe9c8824f8"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Rifle/Jog/MF_Rifle_Jog_Left.uasset",
+      "bytes": 296415,
+      "sha256": "4feaf1bd5b370e28f5dce611b28d955bbf84bbeb72b7e22972a0e143022621a7"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Rifle/Jog/MF_Rifle_Jog_Right.uasset",
+      "bytes": 420984,
+      "sha256": "e3c5cae5448dbb8c4e3bda5406202a8e55b08247695082270e1fef3dbdd6e533"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Rifle/Jump/MM_Rifle_Jump_Apex.uasset",
+      "bytes": 228355,
+      "sha256": "39acbd6bcfc5ec2795ee2497bb353fbe954766bda545c3318c3cd6ee5f1ee008"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Rifle/Jump/MM_Rifle_Jump_Fall_Land.uasset",
+      "bytes": 179028,
+      "sha256": "ce74e83b9b88fa3722951c1c6b2cc36ae7159b8141f5347e5b47d760cee41c42"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Rifle/Jump/MM_Rifle_Jump_Fall_Loop.uasset",
+      "bytes": 645680,
+      "sha256": "d17c0a4fe1d9bb970b3208909e1c35b7183568c7968a0d6d0de391cca216b472"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Rifle/Jump/MM_Rifle_Jump_RecoveryAdditive.uasset",
+      "bytes": 294517,
+      "sha256": "9d663743ac0fd361303751c55688a34053fbed145aaa88a004abd7b02533d5e5"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Rifle/Jump/MM_Rifle_Jump_Start.uasset",
+      "bytes": 146783,
+      "sha256": "925f27182be45054a1bbb5d458cb53d38773b356dd61e18b82fa9a72880dc8e7"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Rifle/Jump/MM_Rifle_Jump_Start_Loop.uasset",
+      "bytes": 441727,
+      "sha256": "c2da3d291df2070e1aaa62a45e445a7979948489b9e811e0d17f94b3e627d14e"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Rifle/Walk/MF_Rifle_Walk_Bwd.uasset",
+      "bytes": 449720,
+      "sha256": "e1400dc7a7bfca224e0aa7796e5c230236ad634c808b2a1540cbad8903fa897b"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Rifle/Walk/MF_Rifle_Walk_Bwd_Left.uasset",
+      "bytes": 332682,
+      "sha256": "8d535eb181e756f56974efae068f34da050747fd8836fe2bb5f0c693f51325c2"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Rifle/Walk/MF_Rifle_Walk_Bwd_Right.uasset",
+      "bytes": 332577,
+      "sha256": "6e0bd9b3ba2e982ac9ffd60a643dab78cf886d194a26af518170a02dc4f3eac0"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Rifle/Walk/MF_Rifle_Walk_Fwd.uasset",
+      "bytes": 490267,
+      "sha256": "540a6a77c48027e13be84d483c6afd18d82fb115b7532334597ebefe2249ecd0"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Rifle/Walk/MF_Rifle_Walk_Fwd_Left.uasset",
+      "bytes": 384794,
+      "sha256": "f7797a7841cb86c3dc9e68dcdf968e538c9a7335abb1b0d9db95e0983b2226d7"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Rifle/Walk/MF_Rifle_Walk_Fwd_Right.uasset",
+      "bytes": 384793,
+      "sha256": "787c7b69a054c6f2850503c016a2ef2fade7ad0941375c8e521c3534bf695d12"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Rifle/Walk/MF_Rifle_Walk_Left.uasset",
+      "bytes": 453120,
+      "sha256": "a99d18722e504801616e1c0c495711c43c2d82c4465f7f388cdae8a45502bd1e"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Rifle/Walk/MF_Rifle_Walk_Right.uasset",
+      "bytes": 510650,
+      "sha256": "2c2c12d6a959d69c96962ca340bdfe984942df621ee2ff7e7e955662ddaee52a"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Unarmed/Attack/MM_Attack_01.uasset",
+      "bytes": 757637,
+      "sha256": "f796113f17c91eca7e48ef57bbadc4fc36245a86b127e75a34ca4771500639ed"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Unarmed/Attack/MM_Attack_02.uasset",
+      "bytes": 661409,
+      "sha256": "fb3c74b8e32fb5a88c6d659cae8717294af85d4eaa7f684b2a36c36d245559dc"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Unarmed/Attack/MM_Attack_03.uasset",
+      "bytes": 1036132,
+      "sha256": "1c66016fc3bd386453ac7fb1229a5f0644c6bd5f98ead29f6e6a1be80632ba1f"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Unarmed/Attack/MM_ChargedAttack.uasset",
+      "bytes": 1057890,
+      "sha256": "5d9b0fc6892519095cb6930aba5c0dd063acf647612a06e0f2f7e19c463223ee"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Bwd.uasset",
+      "bytes": 483265,
+      "sha256": "1f6e9448f0e0737f506d9e8f11b8d661d6d65c818f0e3160938f1e24082b16c3"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Bwd_Left.uasset",
+      "bytes": 417528,
+      "sha256": "e6e68e6cf4175f85c0e16a60f80335a1fab3f8c76a014d02bc0cd18aabe3314a"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Bwd_Right.uasset",
+      "bytes": 417530,
+      "sha256": "ee3137ff2b7d2cb721c935e2de91d55479e20f030ff230e9f912f6b70658c399"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Fwd.uasset",
+      "bytes": 531789,
+      "sha256": "0ccbe851f85a6d4cd7c6438c219cb6af8e281784107b5be8e9b052e4df3069cb"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Fwd_Left.uasset",
+      "bytes": 466995,
+      "sha256": "12ee5a11f277af90429980f120026f430ae1e438f6eae42c10222e175f9dbe12"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Fwd_Right.uasset",
+      "bytes": 467310,
+      "sha256": "66a7561d60453794864edd7e0c55487817068b6b66e31e179c98b9f2bab4c76b"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Left.uasset",
+      "bytes": 487864,
+      "sha256": "f7842445f0c2b2f8d3cd9d43b9f58bc3ea888adeb1e161398b492097358431bd"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Right.uasset",
+      "bytes": 521907,
+      "sha256": "208f642310d9627d12a5125889b480e051a1f1fc5397a10b83975903a0c59aea"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Unarmed/Jump/MM_Dash.uasset",
+      "bytes": 663135,
+      "sha256": "8a1c964403b7b1d9d9f5e0dd8c20c1ae809606c5e8021b2983edfc65ac0a66f0"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Unarmed/Jump/MM_Fall_Loop.uasset",
+      "bytes": 925351,
+      "sha256": "408be742c63adffe8c6c1d22442e99ea34a7618cd33c6e78e0eed3d7db877433"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Unarmed/Jump/MM_Jump.uasset",
+      "bytes": 403730,
+      "sha256": "252cbf69b07b797d3c3c6177d3ae9df17e9873f4872c4fa040c0d441dc3b3cef"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Unarmed/Jump/MM_Land.uasset",
+      "bytes": 410017,
+      "sha256": "a00de25a6beca56ff6d8077081531e5cef238c92825b6c184351d0aa99ef3fcb"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Unarmed/Jump/MM_WallJump.uasset",
+      "bytes": 409179,
+      "sha256": "e29af6dc13219cb813097e596c143d964a18c118caca138015574009e50859c0"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Bwd.uasset",
+      "bytes": 606821,
+      "sha256": "ae0c2ee1c1178fd1b9493f6c327e52d10a3d6bbde29eae54dcb07c13a27dcf46"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Bwd_Left.uasset",
+      "bytes": 537758,
+      "sha256": "7c25a8eebb9883085ac8f82de3c83fc34fd19b02567f17fafde9dd60c09cf3e5"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Bwd_Right.uasset",
+      "bytes": 537632,
+      "sha256": "8c71b9bbf7b15d75cacddbeb8827e22888cfa63a359ecbc0e017aec822d1a522"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Fwd.uasset",
+      "bytes": 475783,
+      "sha256": "c74b2fc0cb651c4924804b364e534856a1b44dee818127c408dc055e4bda5ed9"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Fwd_Left.uasset",
+      "bytes": 411535,
+      "sha256": "a7d8ff5a55eb0c445da2c74b2fd9460b6a3aff0db206be9e99aed319158d5770"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Fwd_Right.uasset",
+      "bytes": 411529,
+      "sha256": "67d3d4fed066023a14220277f5598db83f19efee97de908b1397b0ae998e5599"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Left.uasset",
+      "bytes": 486552,
+      "sha256": "81500e4fcdd9ae9aa6433e652e67dea8f9dd9fa7b9ef1714e29f6ab0a1bb9d97"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Right.uasset",
+      "bytes": 491934,
+      "sha256": "f5922b4e632351353224b32f719af97e85512ab4f6553b15315cf14ad04f675f"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Materials/Manny/MI_Manny_01_New.uasset",
+      "bytes": 17963,
+      "sha256": "9f1e4ed382304d020b750c81505140fc1de4d339b0909430adb5380a6bb89b65"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Materials/Manny/MI_Manny_02_New.uasset",
+      "bytes": 18706,
+      "sha256": "26389db06f0b7928b487494bef3320d6b0e6bccd58193bccedd67c2c89132a46"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Materials/Quinn/MI_Quinn_01.uasset",
+      "bytes": 11184,
+      "sha256": "62a3050ef24b823f9fe84ac5d9c477099494982d35dafcc3d8078f32b0d4a865"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Materials/Quinn/MI_Quinn_02.uasset",
+      "bytes": 10718,
+      "sha256": "6aec77489fdfab0e1ea299de60fbd4f332face4495bbbd20b97fb0308bb9c5b4"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_BN.uasset",
+      "bytes": 1422785,
+      "sha256": "2f623209571ecbd8185b5b463786be033c3284190b4fc7b249e8d1d2ed995fd8"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_D.uasset",
+      "bytes": 699555,
+      "sha256": "6ae0f4f9908c30ecc9aedf1ebb442e4983e526a7832ec791542064c7853f9999"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_MRA.uasset",
+      "bytes": 712594,
+      "sha256": "3e42e888aed8aefff68da7d7dda4f177c5647b19473e4e913f61375c1319abd8"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_BN.uasset",
+      "bytes": 20999487,
+      "sha256": "c9575d21c9e2872b3358c0efb9e202535ce2efce94c338b9d3bd04cb9831e353"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_D.uasset",
+      "bytes": 1036712,
+      "sha256": "474728713232c6833f55c041548f555bc62c5c49e74082a5d16e68a5ce488cfe"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_MRA.uasset",
+      "bytes": 1059559,
+      "sha256": "6697972eaf2dfe201923dba6a302f024b0ef4c4e46b4ecf578178717098e8277"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_N.uasset",
+      "bytes": 1680197,
+      "sha256": "61a9db73f72fe2d7d8821b33a79f57f3f11df9da9455822392b84b199c78e8df"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_D.uasset",
+      "bytes": 674768,
+      "sha256": "04e5ed207b7df0d2ad1bbc668916bcf170545fc2a72875e49ec99c6e2667002f"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_MRA.uasset",
+      "bytes": 791597,
+      "sha256": "0988d4d9f25597224910e1043591cb2a089a8607a4fe4a63cbc68f3eb2ab473e"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_N.uasset",
+      "bytes": 1263741,
+      "sha256": "10fbe9ac3e18e0a890d19756d3470ca372a1aeaffefbe9a22d6b0e6182293551"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_D.uasset",
+      "bytes": 943331,
+      "sha256": "f0ccb2f465894c6f9ff4dd142351ed33186c5f861283a75f3e08d1531a253c49"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_MRA.uasset",
+      "bytes": 974099,
+      "sha256": "9f7e495cbe0430aed7084b5508f87186f98346eb04f003734c9b378891da7887"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_N.uasset",
+      "bytes": 1524635,
+      "sha256": "0bc26466e9fdc954cc276bb6ac1350e22c3dabbe1b54b6bf78ed5ae2e339d9fc"
+    },
+    {
+      "path": "unreal_project/Content/Characters/Mannequins/Textures/Shared/T_UE_Logo_M.uasset",
+      "bytes": 59927,
+      "sha256": "34e6fa3414c04a86b7a5287e5569ea9d6e53c319d6e7dbfc8b09dab5b70611a6"
+    },
+    {
+      "path": "unreal_project/Content/LevelPrototyping/Materials/MF_ProcGrid.uasset",
+      "bytes": 49820,
+      "sha256": "e5ee13abdb241d9811f6c1bcc0a607d229fa7adc5f46bfd5a9d5fedbfa279683"
+    },
+    {
+      "path": "unreal_project/Content/LevelPrototyping/Materials/MI_DefaultColorway.uasset",
+      "bytes": 9260,
+      "sha256": "786a4dfcaaa6f4daf459c77bda247c2c138140680a8246d521974d0cc4fc8a8e"
+    },
+    {
+      "path": "unreal_project/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset",
+      "bytes": 13121,
+      "sha256": "084681bf680dad66b8c8ca803d927053cf46756f2f2e62d18fcc439e07de7263"
+    },
+    {
+      "path": "unreal_project/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02.uasset",
+      "bytes": 11922,
+      "sha256": "fa0f2a06a7d937127d7d737c13bacb3f8fe88c8e0479f5e6b7cda81fd225d077"
+    },
+    {
+      "path": "unreal_project/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_Round.uasset",
+      "bytes": 11413,
+      "sha256": "901ec868e81e7a73c9f3ad4814e1205af27abc772949e5a30550a00f31ce4437"
+    },
+    {
+      "path": "unreal_project/Content/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark.uasset",
+      "bytes": 11957,
+      "sha256": "838034e5afc7ab3a70bfff6de2e1237aa02337fb423e95c1b536b3e30c61c982"
+    },
+    {
+      "path": "unreal_project/Content/LevelPrototyping/Materials/M_FlatCol.uasset",
+      "bytes": 11771,
+      "sha256": "41dbbda4b463a224c29ee01765e1f52a8ae63f2f94f1440ee267fe7b1a481585"
+    },
+    {
+      "path": "unreal_project/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset",
+      "bytes": 79863,
+      "sha256": "bf8625ad5917cee705867038d8a590b25465e6b5d5818a738a584e515d7cbdfc"
+    },
+    {
+      "path": "unreal_project/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset",
+      "bytes": 128849,
+      "sha256": "b20a3ae9668ec599db519af3f84b67952d0e31ac4427b80ee812232edde91f53"
+    },
+    {
+      "path": "unreal_project/Content/LevelPrototyping/Meshes/SM_Cube.uasset",
+      "bytes": 18279,
+      "sha256": "4680317a8c87f983e077f6c0a6b93ffaa0ba4dbddbc810960d4553e6ad380a89"
+    },
+    {
+      "path": "unreal_project/Content/LevelPrototyping/Meshes/SM_Cylinder.uasset",
+      "bytes": 193636,
+      "sha256": "76aaa3c2b812ff790fb57ae7736b748e4e1556afbb13466fd787d4bacd2c7dfe"
+    },
+    {
+      "path": "unreal_project/Content/LevelPrototyping/Meshes/SM_Plane.uasset",
+      "bytes": 15581,
+      "sha256": "39ab83dc57a9a27a80476711610f72e81c0685a05d4aa95413b3e4e7f6c4a3f2"
+    },
+    {
+      "path": "unreal_project/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uasset",
+      "bytes": 135087,
+      "sha256": "4087b3f85753d9ccbced7d00d42208dad4d21185f24a97b0c86db31be867b733"
+    },
+    {
+      "path": "unreal_project/Content/LevelPrototyping/Meshes/SM_QuarterCylinderOuter.uasset",
+      "bytes": 79741,
+      "sha256": "ab58a5224da57452f367c9d55ea4976466138fc2cb8ec9e2fa92748c86a07f11"
+    },
+    {
+      "path": "unreal_project/Content/LevelPrototyping/Meshes/SM_Ramp.uasset",
+      "bytes": 18690,
+      "sha256": "e5b472deb37a9956b9112dccee3d09498a456baeacc574db8c5d725463b73597"
+    },
+    {
+      "path": "unreal_project/Content/LevelPrototyping/Textures/T_GridChecker_A.uasset",
+      "bytes": 9600,
+      "sha256": "bb8334767064b107ec4f4407ef1365e8b9e2dfeff5984e66d4a6232254ddd02a"
+    },
+    {
+      "path": "unreal_project/Content/LevelPrototyping/Interactable/Door/BP_DoorFrame.uasset",
+      "bytes": 448616,
+      "sha256": "4386d7d71b8d5241fd8150aa47900711eb0d8bd069c00de25fce07f011d698fa"
+    },
+    {
+      "path": "unreal_project/Content/LevelPrototyping/Interactable/JumpPad/BP_JumpPad.uasset",
+      "bytes": 92487,
+      "sha256": "42ba8262f07355cdf36e33977f3bb415810390cf210b75573d766bd819cf8401"
+    },
+    {
+      "path": "unreal_project/Content/LevelPrototyping/Interactable/Target/BP_WobbleTarget.uasset",
+      "bytes": 45551,
+      "sha256": "8bd8784bf03cb945d63deb2c4c22261a9a9ea2af1f84766805ca92ec7b521ab3"
+    },
+    {
+      "path": "unreal_project/Content/LevelPrototyping/Interactable/Door/Meshes/SM_Door.uasset",
+      "bytes": 59267,
+      "sha256": "fa98c4fc5083393e085d7b44d0b67a7e830922e2601a439167916616bbc29993"
+    },
+    {
+      "path": "unreal_project/Content/LevelPrototyping/Interactable/Door/Meshes/SM_DoorFrame_Corner.uasset",
+      "bytes": 86885,
+      "sha256": "383dea9555e76303d60d0011fae6651a4be07c24033c0aceeecd137c954ee3fc"
+    },
+    {
+      "path": "unreal_project/Content/LevelPrototyping/Interactable/Door/Meshes/SM_DoorFrame_Edge.uasset",
+      "bytes": 69088,
+      "sha256": "26eb76a2ce36be334bf0770561475a9e06be928e9ca75b4a31f5df3debb36592"
+    },
+    {
+      "path": "unreal_project/Content/LevelPrototyping/Interactable/JumpPad/Assets/NS_JumpPad.uasset",
+      "bytes": 795908,
+      "sha256": "2e76849cbb139160e5e73c226fe6aaa66a63fbf75cbd1213f871cca65e409817"
+    },
+    {
+      "path": "unreal_project/Content/LevelPrototyping/Interactable/JumpPad/Assets/Materials/MI_GlowNT.uasset",
+      "bytes": 4145,
+      "sha256": "6fd40bc38bfea9418fa54fe365732a1219e615169542a0a4d2e1d518318c864b"
+    },
+    {
+      "path": "unreal_project/Content/LevelPrototyping/Interactable/JumpPad/Assets/Materials/M_GradientGlow.uasset",
+      "bytes": 17587,
+      "sha256": "c1b29ad29c2eac3dba6dd6a90aed9de8c6147a13b6288a42bd73fe14b78970a8"
+    },
+    {
+      "path": "unreal_project/Content/LevelPrototyping/Interactable/JumpPad/Assets/Materials/M_SimpleGlow.uasset",
+      "bytes": 15213,
+      "sha256": "e6098242541b34be6aba19ea1fbfa35107f891e8f55d30d4061aa11b065b8bd8"
+    },
+    {
+      "path": "unreal_project/Content/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularBand.uasset",
+      "bytes": 70608,
+      "sha256": "97fbe3da2d907279dcbfbbf285e1b111ceb8d5f4a1c9d6bd48fcb8defc86842b"
+    },
+    {
+      "path": "unreal_project/Content/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularGlow.uasset",
+      "bytes": 71705,
+      "sha256": "6ddb27bf7020f4980d3f8435cb0928fb48b32c1ab3ea24bac7e253435081bf6b"
+    },
+    {
+      "path": "unreal_project/Content/LevelPrototyping/Interactable/Target/Assets/SM_TargetBaseMesh.uasset",
+      "bytes": 283425,
+      "sha256": "378ace355b8f5e71a12e459d9f8cf4958626884142fec34be8630db6d8412cad"
+    },
+    {
+      "path": "unreal_project/Review/CampusCenter_Unreal_20s.mp4",
+      "bytes": 4186361,
+      "sha256": "cd9de25fe2ea75902ceaace5179699bf89bf90c261d28c2ec638373f5435ff86"
+    },
+    {
+      "path": "unreal_project/Review/Campus_Review_Contact.jpg",
+      "bytes": 123453,
+      "sha256": "68d37a75d1fbb79b1e0f6f9a0f87139822f4b2dd3d88b3165c4c8edde29f754f"
+    },
+    {
+      "path": "unreal_project/Review/capture_complete.json",
+      "bytes": 238,
+      "sha256": "bc325c3de8aef0658b1ca115b8d02d912985505cc14dc2680726040e527bc6cc"
+    },
+    {
+      "path": "unreal_project/Review/Preview_Contact.jpg",
+      "bytes": 72164,
+      "sha256": "ebb3ee9ff3f2bd67df4afae44b67a612b85652ec72d9ff9bfc025ec49c82c30a"
+    },
+    {
+      "path": "unreal_project/Review/room_00.png",
+      "bytes": 1358628,
+      "sha256": "a9899f5a38bd05d2f104607ce4a82f87acae99c9594f796f0b4c6683237160d1"
+    },
+    {
+      "path": "unreal_project/Review/room_01.png",
+      "bytes": 1586942,
+      "sha256": "b94d292737fbd3adcb8a2fc8acc2f26383e3eba21c552a012845e2d5ffaf6e26"
+    },
+    {
+      "path": "unreal_project/Review/room_02.png",
+      "bytes": 1551587,
+      "sha256": "bba4a49e7c12abe019788d9419fd5cc67931832ae5ecedda13e524ac509dda2c"
+    },
+    {
+      "path": "unreal_project/Review/room_03.png",
+      "bytes": 1659751,
+      "sha256": "6bd96fa7032892d3a503809df83b93b3d59cd78cac5b6918361d229aaa7e8d1b"
+    },
+    {
+      "path": "unreal_project/Review/room_04.png",
+      "bytes": 1242451,
+      "sha256": "d21dd11d4a65687b5a929a52483f603475ea581d484da598524a39328557ee3c"
+    },
+    {
+      "path": "unreal_project/Review/room_05.png",
+      "bytes": 1071095,
+      "sha256": "51b05275b00f306affb04a7c27558652adaa2f63e4a97b9f614836f2b49b3531"
+    },
+    {
+      "path": "unreal_project/Review/room_06.png",
+      "bytes": 1321030,
+      "sha256": "32bee009660c12f507d815ab8eded655c67dcb96110a520d803d2870be97ce37"
+    },
+    {
+      "path": "unreal_project/Review/room_07.png",
+      "bytes": 1621211,
+      "sha256": "0dd6731d21dbfb639af6051936bea9b7bc4d76d8a063004538ec6b3d84956cd7"
+    },
+    {
+      "path": "unreal_project/Review/room_08.png",
+      "bytes": 1280653,
+      "sha256": "6e80ca57d83897efddf75e5158d6dcb88db2a422cc67e2743d8a7d7ff92e1533"
+    },
+    {
+      "path": "unreal_project/ReviewV02/capture_complete.json",
+      "bytes": 238,
+      "sha256": "bc325c3de8aef0658b1ca115b8d02d912985505cc14dc2680726040e527bc6cc"
+    },
+    {
+      "path": "unreal_project/ReviewV02/Material_Review.jpg",
+      "bytes": 124445,
+      "sha256": "420192506ad74639a56a92c0dd7d5f3c0fb6b40289dcb8974925206bd6df3626"
+    },
+    {
+      "path": "unreal_project/ReviewV02/room_00.png",
+      "bytes": 1410285,
+      "sha256": "d16b67d711e2892726b223fbfe437592b6e050e2231873e0ec24e366d994e971"
+    },
+    {
+      "path": "unreal_project/ReviewV02/room_01.png",
+      "bytes": 1597377,
+      "sha256": "f2be7a2dcf512edf1ef531f545b531f1f33d5b7fcc643e51ad2db3de7e64b20d"
+    },
+    {
+      "path": "unreal_project/ReviewV02/room_02.png",
+      "bytes": 1565501,
+      "sha256": "669963f16da7d522f389ab2132633b937d3fd89c2bd363f093e65d14f7cc110e"
+    },
+    {
+      "path": "unreal_project/ReviewV02/room_03.png",
+      "bytes": 1670176,
+      "sha256": "208b66b0f08d6b0f5762970e904e4ab6300eeec41d8508617cb95965e3c8e8e4"
+    },
+    {
+      "path": "unreal_project/ReviewV02/room_04.png",
+      "bytes": 1269621,
+      "sha256": "836590b92716fc36e3d7168c23ddc1acc3b125eb8cd8543b6e3ac14b843c9bb3"
+    },
+    {
+      "path": "unreal_project/ReviewV02/room_05.png",
+      "bytes": 1153132,
+      "sha256": "479c2be5775d99dd323c094c4d3502d742f83d329da74c61e107b470bed750ce"
+    },
+    {
+      "path": "unreal_project/ReviewV02/room_06.png",
+      "bytes": 1334673,
+      "sha256": "10935d3a51f6c1465d69e59fdf10e3d16deb7edc1d66788f9442ca449d65bfd4"
+    },
+    {
+      "path": "unreal_project/ReviewV02/room_07.png",
+      "bytes": 1635136,
+      "sha256": "7ec4bbe6ebdcc433d5f84ad7b86a7258d89190a46c10b866b1efb697be3a9e4d"
+    },
+    {
+      "path": "unreal_project/ReviewV02/room_08.png",
+      "bytes": 1297568,
+      "sha256": "f872af798ddd382f7e00e010144090c9768c8d442fda5e6fcecfffca1587d1d3"
+    },
+    {
+      "path": "unreal_project/polish_materials_v02.py",
+      "bytes": 5092,
+      "sha256": "39b3f3734d67de027e392969fc7063329542c1bcd6a8302e6893788a2460a36e"
+    },
+    {
+      "path": "unreal_project/capture_review_v02.py",
+      "bytes": 1478,
+      "sha256": "24248e1f01de95d91a0fa5099dc4bb588b7bb061e06bc185473587b592e37238"
+    },
+    {
+      "path": "unreal_project/polish_v02_report.json",
+      "bytes": 2356,
+      "sha256": "975d2962dffe5f30fe418303c93d0a569ce0983cf42d94ef4fb28b9c4b7a4be4"
+    },
+    {
+      "path": "polish_v02/ASSET_SHORTLIST.md",
+      "bytes": 2740,
+      "sha256": "65750edac39e445de3a039ef0c76153335d0cae1c7c8df780bc7c2c9bc7a5011"
+    },
+    {
+      "path": "polish_v02/fetch_assets.py",
+      "bytes": 1296,
+      "sha256": "d2b4d29d9f00bd651f48c8161680cbdff64a79647714b0c885197f7e78723494"
+    },
+    {
+      "path": "polish_v02/prepare_trophy.py",
+      "bytes": 2732,
+      "sha256": "b007b8a14ad86c1b5c13704471f7dcf705320477ce31d4233b6149b5f5b3b6c8"
+    },
+    {
+      "path": "polish_v02/verify_trophy.py",
+      "bytes": 817,
+      "sha256": "719a1c2626ef29335c5205f4ff2fca2de0ae5195f1475eaf19ff095b4e3cc78e"
+    },
+    {
+      "path": "polish_v02/Trophy_Optimized.glb",
+      "bytes": 71340,
+      "sha256": "1e050d7d32acbedc0d7b08eb69e6d6771d998c2fae6d3a3d359577c1a37fefbc"
+    },
+    {
+      "path": "polish_v02/Trophy_Review.png",
+      "bytes": 31044,
+      "sha256": "43f5d1c882154ecba213db809ea6712dd9d08c457ed2819f2bba41313fffdb25"
+    },
+    {
+      "path": "polish_v02/trophy_report.json",
+      "bytes": 418,
+      "sha256": "e4aa78da67db70861249c2d33487832dc3d80cd9433c8d8b9cc177111ad77620"
+    },
+    {
+      "path": "polish_v02/trophy_reopen.json",
+      "bytes": 125,
+      "sha256": "e46cf03acfc73158d00004a7b5f4925638820316fede25a107a4a48fad8fc7bc"
+    },
+    {
+      "path": "polish_v02/assets/Fabric030.zip",
+      "bytes": 11064340,
+      "sha256": "82d4d00ccf901cf4707c5489005945ab8574933fc60437e26c6737f0436699e0"
+    },
+    {
+      "path": "polish_v02/assets/PaintedPlaster017.zip",
+      "bytes": 4721132,
+      "sha256": "bae0380d82b6ccac8943b4980417cb3c9de5c896218339c108056f1dfb8e886c"
+    },
+    {
+      "path": "polish_v02/assets/SOURCES.json",
+      "bytes": 936,
+      "sha256": "e44af19114b5764358c24a4c78746d2b581af07755b9f87b0ac29bcc021c4f41"
+    },
+    {
+      "path": "polish_v02/assets/trophy_5.blend",
+      "bytes": 639832,
+      "sha256": "4562fcc64c8a0db55edfe52d88695f1b3c2158d49a3a7474e28b8dc26932ce3c"
+    },
+    {
+      "path": "polish_v02/assets/Fabric030/Fabric030.png",
+      "bytes": 366770,
+      "sha256": "579a4e76de8322f2bc012acf033141576dba8d87f687b048fa31d195fb0cf25e"
+    },
+    {
+      "path": "polish_v02/assets/Fabric030/Fabric030_1K-JPG.blend",
+      "bytes": 1109012,
+      "sha256": "518585854839686a93887b818148a801808698076b154c054240eb0c5703f2ea"
+    },
+    {
+      "path": "polish_v02/assets/Fabric030/Fabric030_1K-JPG.mtlx",
+      "bytes": 2272,
+      "sha256": "b69ae035a7f249eca43db3acc7116aa9ba64b011ad6abf8243f23540e0bf114c"
+    },
+    {
+      "path": "polish_v02/assets/Fabric030/Fabric030_1K-JPG.tres",
+      "bytes": 1020,
+      "sha256": "19775efd360513034a66747301f7cc8324b1f446dfab0feab35f65a430c0ad10"
+    },
+    {
+      "path": "polish_v02/assets/Fabric030/Fabric030_1K-JPG.usdc",
+      "bytes": 2971,
+      "sha256": "4e9f00d9f3b51458b0d1522669d3da76e7935ea232ded0b30dbe09653ead1151"
+    },
+    {
+      "path": "polish_v02/assets/Fabric030/Fabric030_1K-JPG_AmbientOcclusion.jpg",
+      "bytes": 835879,
+      "sha256": "c0f6be3cc6141868a44204dac5dc4a4f890ea585c0938bf9c06b7bf7ef99f802"
+    },
+    {
+      "path": "polish_v02/assets/Fabric030/Fabric030_1K-JPG_Color.jpg",
+      "bytes": 1681447,
+      "sha256": "6388762708722de48cdbdfb4878b9ae6d8012de5948d564006067b629f0b84ef"
+    },
+    {
+      "path": "polish_v02/assets/Fabric030/Fabric030_1K-JPG_Displacement.jpg",
+      "bytes": 831560,
+      "sha256": "6d1ac26fe23f4f4a54ebb29c03051e8597d1f1159582ada708715575c74316c3"
+    },
+    {
+      "path": "polish_v02/assets/Fabric030/Fabric030_1K-JPG_NormalDX.jpg",
+      "bytes": 2681333,
+      "sha256": "647a5bffaec6a0775ce6995e6bf4835d101c77840ba7e479b3d67491a1426f67"
+    },
+    {
+      "path": "polish_v02/assets/Fabric030/Fabric030_1K-JPG_NormalGL.jpg",
+      "bytes": 2682952,
+      "sha256": "c9a8f4ff15527af0b226b8a8840405f944c45a32c2e4462864d3b0136827e6e2"
+    },
+    {
+      "path": "polish_v02/assets/Fabric030/Fabric030_1K-JPG_Roughness.jpg",
+      "bytes": 866950,
+      "sha256": "221bf708cb614b01ae83b856376fa79fff22dc249d8a397ab0f89dd3b7fe6da6"
+    },
+    {
+      "path": "polish_v02/assets/PaintedPlaster017/PaintedPlaster017.png",
+      "bytes": 408251,
+      "sha256": "c840a51aeaf8d0820acd716bd7ddd85bac1b63a8816b24c42faec8ddc7dbda8c"
+    },
+    {
+      "path": "polish_v02/assets/PaintedPlaster017/PaintedPlaster017_1K-JPG.blend",
+      "bytes": 1099204,
+      "sha256": "ba6a23910aa4ea4877d576498a9cb8943b93a19be46f45cf0b86462725c43066"
+    },
+    {
+      "path": "polish_v02/assets/PaintedPlaster017/PaintedPlaster017_1K-JPG.mtlx",
+      "bytes": 2392,
+      "sha256": "91a91c1e8193555a8df8d4543bbcbd6a70b64f42da55ecb6e7a41aaa2a0ef656"
+    },
+    {
+      "path": "polish_v02/assets/PaintedPlaster017/PaintedPlaster017_1K-JPG.tres",
+      "bytes": 840,
+      "sha256": "1fc7d25d5fe993b5cfa16ec55b127e1d502332d14a1c0bbecc35ee782b4a8bf1"
+    },
+    {
+      "path": "polish_v02/assets/PaintedPlaster017/PaintedPlaster017_1K-JPG.usdc",
+      "bytes": 2896,
+      "sha256": "1b01169c9f2b263e71fabbe975c86b088287e7c533abe562ced6a3b9ae1d4409"
+    },
+    {
+      "path": "polish_v02/assets/PaintedPlaster017/PaintedPlaster017_1K-JPG_Color.jpg",
+      "bytes": 378542,
+      "sha256": "ed8a69a6437de9d41d2cf380f7e6a216232fc4754f256c3405985c857547ffef"
+    },
+    {
+      "path": "polish_v02/assets/PaintedPlaster017/PaintedPlaster017_1K-JPG_Displacement.jpg",
+      "bytes": 400789,
+      "sha256": "4633e8055001943dc749865e7a4c52ca91b87bf31d8bd78e5c51561bd1a6da7c"
+    },
+    {
+      "path": "polish_v02/assets/PaintedPlaster017/PaintedPlaster017_1K-JPG_NormalDX.jpg",
+      "bytes": 1117523,
+      "sha256": "d94a1d7db9bbd8f63e47a8379301c06c6e359d952d8ba9c538487b58fc6a9d5d"
+    },
+    {
+      "path": "polish_v02/assets/PaintedPlaster017/PaintedPlaster017_1K-JPG_NormalGL.jpg",
+      "bytes": 1115299,
+      "sha256": "1bef1887c10e1ce104be1a557e4dbd7634ef6d5ece6e3b4237dab2d0962f57fa"
+    },
+    {
+      "path": "polish_v02/assets/PaintedPlaster017/PaintedPlaster017_1K-JPG_Roughness.jpg",
+      "bytes": 193304,
+      "sha256": "a83ecc2ba5b9d80bb9a27381f3389ccdb20c77ef6358b92f3d11455403d651d8"
+    },
+    {
+      "path": "unreal_transfer/inspect_blender.py",
+      "bytes": 1082,
+      "sha256": "5d36ebbab7415b687cc3c481e8f13bcdc65ccbf423303d70560495c98841f5ae"
+    },
+    {
+      "path": "unreal_transfer/prepare.py",
+      "bytes": 3289,
+      "sha256": "737ace6d0dcca79bee617bdfd3ece1da3fdc777f038dcb37518992a7cdaed5ca"
+    },
+    {
+      "path": "unreal_transfer/refine_bookmarks.py",
+      "bytes": 482,
+      "sha256": "9088632853b74d5e1d466a074b1f488be0e2280a74f16fa346965a39394f331b"
+    },
+    {
+      "path": "unreal_transfer/blender_inventory.json",
+      "bytes": 1661691,
+      "sha256": "8bb1c771b619d576a6a39ede110868cc5b8daa20a36903335cc04b1073478b7c"
+    },
+    {
+      "path": "unreal_transfer/exports/Campus_Transfer.glb",
+      "bytes": 73694876,
+      "sha256": "5f48b1c6e2d5c707a1b8c96c7e24509d71d36b8581caf2fe66430a36b01c4cf0"
+    },
+    {
+      "path": "unreal_transfer/exports/rooms.json",
+      "bytes": 1677,
+      "sha256": "9f7beb26230c8ee843b590c91e4b5e547aad8eda8e1f9e193340f5dfc5a4bbbf"
+    },
+    {
+      "path": "unreal_transfer/exports/transfer_manifest.json",
+      "bytes": 581436,
+      "sha256": "d7af8a67cd8c39272a58cbc63911a8581f0df5d3767dba6287568f8e57cf7cc2"
+    },
+    {
+      "path": "unreal_transfer/source/Campus_Center_Source.blend",
+      "bytes": 23446250,
+      "sha256": "df9a8c1c453a1e4b2885c9e017a2bee4bbd4b811b1078172fa146e161ec09308"
+    },
+    {
+      "path": "unreal_transfer/source/walkthrough_route.json",
+      "bytes": 1566991,
+      "sha256": "011fedd1b3d948dd3299cd9b8c7adc513708a51a87e4668659bba3bc7166c0e4"
+    },
+    {
+      "path": "unreal_delivery/Windows/CampusCenter.exe",
+      "bytes": 171520,
+      "sha256": "7c36a7641b87573d1624ccca12b5c6cd92c4585bf3932515529b46bcc0d8ff95"
+    },
+    {
+      "path": "unreal_delivery/Windows/Manifest_DebugFiles_Win64.txt",
+      "bytes": 433,
+      "sha256": "24ea89978ac7e6a8be19177584135481e8698a22d9d6110f3acbec80c891f76b"
+    },
+    {
+      "path": "unreal_delivery/Windows/Manifest_NonUFSFiles_Win64.txt",
+      "bytes": 2882,
+      "sha256": "e7040ffc3dad8bfdf465c55eaafe1b4eaae59acc3f6899492d8679a852596b64"
+    },
+    {
+      "path": "unreal_delivery/Windows/Manifest_UFSFiles_Win64.txt",
+      "bytes": 366172,
+      "sha256": "f407f131d9beedce9003b10ce9b5ce7262ea1610f371927a45190f044a840377"
+    },
+    {
+      "path": "unreal_delivery/Windows/NOTICES.txt",
+      "bytes": 111,
+      "sha256": "ba49ae5586f817b36a2772269f71f899cb1f54b5f2720fad951319edd5e140b8"
+    },
+    {
+      "path": "unreal_delivery/Windows/CampusCenter/Content/Paks/CampusCenter-Windows.pak",
+      "bytes": 11409799,
+      "sha256": "f61716d7beb33a83971c8d206d75a91a983bf0e046dfdefa21e56aa8bdc2af8d"
+    },
+    {
+      "path": "unreal_delivery/Windows/CampusCenter/Content/Paks/CampusCenter-Windows.ucas",
+      "bytes": 279428016,
+      "sha256": "034ed7b093b34821cfa848a9cac3f56567082747f75a0671d43d8cdd6fb202e5"
+    },
+    {
+      "path": "unreal_delivery/Windows/CampusCenter/Content/Paks/CampusCenter-Windows.utoc",
+      "bytes": 292773,
+      "sha256": "e4eae946fb0ad62358d64414f020a4b03b909d86e68c5b59721ae1c3c585f5e8"
+    },
+    {
+      "path": "unreal_delivery/Windows/CampusCenter/Content/Paks/global.ucas",
+      "bytes": 3207504,
+      "sha256": "4903a9f5f2cf7256f4c2053d64dfd41b3b13ca2ca241b0c3549ddeb94e4b37d5"
+    },
+    {
+      "path": "unreal_delivery/Windows/CampusCenter/Content/Paks/global.utoc",
+      "bytes": 782,
+      "sha256": "9b3fcd723ba66b8b0289a32a00e0c6aa0b46714f579346614be9ed40c9abccda"
+    },
+    {
+      "path": "unreal_delivery/Windows/Engine/Config/StagedBuild_CampusCenter.ini",
+      "bytes": 3,
+      "sha256": "f1945cd6c19e56b3c1c78943ef5ec18116907a4ca1efc40a57d48ab1db7adfc5"
+    },
+    {
+      "path": "unreal_delivery/Windows/Engine/Binaries/Win64/tbb12.dll",
+      "bytes": 342456,
+      "sha256": "ad416bd2e1b43ea1c72ec88a6a80f6927b974508c6f95eac3fcddf37d7626a98"
+    },
+    {
+      "path": "unreal_delivery/Windows/Engine/Binaries/Win64/tbbmalloc.dll",
+      "bytes": 117176,
+      "sha256": "b2e488024bdf00a62ad4a9e2a49cebcb08ff276cbe40d38bf8783363d89f14a2"
+    },
+    {
+      "path": "unreal_delivery/Windows/Engine/Binaries/Win64/UnrealGame.exe",
+      "bytes": 331774392,
+      "sha256": "dd1abd24aa840dcdc888c718e94bf7541d0ff9427e66f3cc8706653bfdb1e45f"
+    },
+    {
+      "path": "unreal_delivery/Windows/Engine/Binaries/Win64/UnrealGame.pdb",
+      "bytes": 293179392,
+      "sha256": "c19bd6ef8a0fdbaaed4eb5fdf68526d1ea42d9f8743ba0bf1c50e5f70b908367"
+    },
+    {
+      "path": "unreal_delivery/Windows/Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll",
+      "bytes": 2232688,
+      "sha256": "36795e47d9724ee68349efbbe64aba94db108b9cad1e3dfe8bc510f359136f53"
+    },
+    {
+      "path": "unreal_delivery/Windows/Engine/Binaries/ThirdParty/MsQuic/v220/win64/msquic.dll",
+      "bytes": 2547080,
+      "sha256": "5c6b07bf263dd8b85cb146b59468a22eb1fbd8635d4a6c56a8e41b67ce5eca2b"
+    },
+    {
+      "path": "unreal_delivery/Windows/Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll",
+      "bytes": 5799016,
+      "sha256": "82d7a3e50710d660927db2f318cbed471049c962b7c05de12c2b2b3e40a35af9"
+    },
+    {
+      "path": "unreal_delivery/Windows/Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll",
+      "bytes": 59832,
+      "sha256": "f23df1213c4bf23b5c666bafa7ec18743847a2e18192ae8e0d096a2fb7c28bf9"
+    },
+    {
+      "path": "unreal_delivery/Windows/Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll",
+      "bytes": 48568,
+      "sha256": "d64e67ca918716be8b6056a6f7a1f6256e910754425db8369d952943264b40eb"
+    },
+    {
+      "path": "unreal_delivery/Windows/Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll",
+      "bytes": 1724856,
+      "sha256": "a56d43a98e197f5e73a1dadf5c1dc7a07ad40327b199faa4ff1247abd6eccd5b"
+    },
+    {
+      "path": "unreal_delivery/Windows/Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_api_dump.dll",
+      "bytes": 8161680,
+      "sha256": "8c5af98e2d899d4aec744c63a8bc99b90124d8fc3bdc120d4c178e1df3a3e5e8"
+    },
+    {
+      "path": "unreal_delivery/Windows/Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_api_dump.json",
+      "bytes": 13848,
+      "sha256": "9e55221c225dce4b5448bac7dadb7e39fd216f51354dde02e58f950f4a0dd80b"
+    },
+    {
+      "path": "unreal_delivery/Windows/Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_crash_diagnostic.dll",
+      "bytes": 2890128,
+      "sha256": "7972fa60e084dc7da6c8a69ac1645b112f5e98a078fc27a7d3df469f2da4f811"
+    },
+    {
+      "path": "unreal_delivery/Windows/Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_crash_diagnostic.json",
+      "bytes": 23055,
+      "sha256": "578bde354874789671dee1a96468c965619c9f3ba16cfa65f850e81a80674087"
+    },
+    {
+      "path": "unreal_delivery/Windows/Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_gfxreconstruct.dll",
+      "bytes": 8166288,
+      "sha256": "dd72d28450db1b52bd6c5dc12228741b680940c5fb5eb6b6a0e26f0ee5c3fc3e"
+    },
+    {
+      "path": "unreal_delivery/Windows/Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_gfxreconstruct.json",
+      "bytes": 28099,
+      "sha256": "71d4e243a2af74874f4f61378bdfe3753cb01ce5eb9b98400d83612bf882a815"
+    },
+    {
+      "path": "unreal_delivery/Windows/Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_profiles.dll",
+      "bytes": 1485200,
+      "sha256": "93227f57ddca0084e1655a65d2cc915d65b5191f6c645a17c0b36cfa2f714b38"
+    },
+    {
+      "path": "unreal_delivery/Windows/Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_profiles.json",
+      "bytes": 66696,
+      "sha256": "6095c28691757e083a8c1bef3c69ca76a8b5017e21acaf55d1bc7e82221a0fbe"
+    },
+    {
+      "path": "unreal_delivery/Windows/Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_shader_object.dll",
+      "bytes": 415632,
+      "sha256": "eebd555aab6df20b21520564d0eb2341ad0e9cdde6148ee1c71ef76805c5e7df"
+    },
+    {
+      "path": "unreal_delivery/Windows/Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_shader_object.json",
+      "bytes": 4455,
+      "sha256": "18ecafc9a65e1b7af8cd0e36dc936026cdb3aed333c4ea5a7c17d6d9465cfaf4"
+    },
+    {
+      "path": "unreal_delivery/Windows/Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_synchronization2.dll",
+      "bytes": 397200,
+      "sha256": "341b6b5eedbf4b7aeb4439af85b23974b820b1413dfaf6356911476df44ed559"
+    },
+    {
+      "path": "unreal_delivery/Windows/Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_synchronization2.json",
+      "bytes": 1910,
+      "sha256": "a1e980a24be9a16a826b00c27d61b85ee0e2e17226dc9c4e8eec031879e5f26a"
+    },
+    {
+      "path": "unreal_delivery/Windows/Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_validation.dll",
+      "bytes": 19509136,
+      "sha256": "ea37bfda6749684d88a1944ae7103a87d9b38468579f397c3c82ede1ceaa40d6"
+    },
+    {
+      "path": "unreal_delivery/Windows/Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_validation.json",
+      "bytes": 95917,
+      "sha256": "5c464b84457776d92a674de506f7b7a489294583a7d7609f78fcc52bc4406d09"
+    },
+    {
+      "path": "unreal_delivery/Windows/Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64/WinPixEventRuntime.dll",
+      "bytes": 69056,
+      "sha256": "ba40d206c6113ac1a35993a06390c93e55602713a902d7ba7b2f2f0ed13e3d3f"
+    },
+    {
+      "path": "unreal_delivery/Windows/Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll",
+      "bytes": 858152,
+      "sha256": "0ca010abcabe52493fdb744d79c4c8132ae6756046b68aa7c88bdc03ec1effcd"
+    },
+    {
+      "path": "unreal_delivery/Windows/Engine/Binaries/Win64/D3D12/x64/D3D12Core.dll",
+      "bytes": 4831768,
+      "sha256": "06f77420f1e6010ccda213fccbd110b052b9e9e3b51160942e60655c4a9037cc"
+    },
+    {
+      "path": "unreal_delivery/Windows/Engine/Binaries/Win64/D3D12/x64/d3d12SDKLayers.dll",
+      "bytes": 4943344,
+      "sha256": "4af858e3cc01bba078172742b27f927ce8b0468bd68fd560aa55621fbe571dd6"
+    },
+    {
+      "path": "unreal_delivery/Windows/Engine/Binaries/Win64/DML/x64/DirectML.dll",
+      "bytes": 18538488,
+      "sha256": "4b17d87230be520466dc61a12bf39a2defc299596af2b595db3ab9eb77359895"
+    },
+    {
+      "path": "unreal_delivery/Windows/Engine/Content/Renderer/TessellationTable.bin",
+      "bytes": 259568,
+      "sha256": "edc4f3b628a139c5e185bbaeca661c95c1f427368d3b92892c5cff36c56dd941"
+    },
+    {
+      "path": "unreal_delivery/Windows/Engine/Content/Slate/Cursor/invisible.cur",
+      "bytes": 326,
+      "sha256": "fef3980fa567e9c45d5d8dcaa432a2c1a3f3bb17fe67d7ab198164f56c142aa1"
+    },
+    {
+      "path": "unreal_delivery/Windows/Engine/Content/SlateDebug/Fonts/LastResort.tps",
+      "bytes": 930,
+      "sha256": "0f775fa99d05e21d43d2d06d55982b23dcdccdb512a9a5a07aff674f212c41b8"
+    },
+    {
+      "path": "unreal_delivery/Windows/Engine/Content/SlateDebug/Fonts/LastResort.ttf",
+      "bytes": 5395052,
+      "sha256": "fff0f8de0b868b964950fe97c9b60f893e9bc85a4f90b3629c5693db058b97b9"
+    },
+    {
+      "path": "unreal_delivery/Windows/Engine/Extras/GPUDumpViewer/GPUDumpViewer.html",
+      "bytes": 195428,
+      "sha256": "eb599b5171e99d7c2e35732abf9525baeb39b9c2ac86619522f307c57cc90384"
+    },
+    {
+      "path": "unreal_delivery/Windows/Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.bat",
+      "bytes": 879,
+      "sha256": "e8f7ef9c88697041bd87902b76e52558979ca866c7450b1da108a94a027f441b"
+    },
+    {
+      "path": "unreal_delivery/Windows/Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.sh",
+      "bytes": 2165,
+      "sha256": "1b222b5d5aad6dd9b5b9f0a1c72d38635149540f2c7a368600ec76c1d304390a"
+    },
+    {
+      "path": "unreal_delivery/Windows/Engine/Plugins/NNE/NNERuntimeORT/Binaries/ThirdParty/Onnxruntime/Win64/onnxruntime.dll",
+      "bytes": 17339384,
+      "sha256": "5df3d744b5cc4421181e9e2c97cadff4e9b1b2b25e80202160e80fc94ff948f2"
+    }
+  ],
+  "count": 619
+}

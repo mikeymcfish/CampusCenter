@@ -1,0 +1,2043 @@
+{
+  "source": "P:\\_code\\CampusCenter\\scene\\Campus_Center_Current.blend",
+  "source_sha256": "b0d1081a8301b2eb0af422121632a1ae8aba608188fb34fa7a1c5e2a2e5595b1",
+  "source_unchanged": true,
+  "students": 112,
+  "styles": {
+    "male": 56,
+    "female": 56
+  },
+  "pose_counts": {
+    "sit_relaxed": 9,
+    "sit_talk": 7,
+    "sit_lounge": 7,
+    "sit_work": 13,
+    "stand_weight_shift": 10,
+    "read": 9,
+    "stand_relaxed": 10,
+    "talk_left": 10,
+    "walk_right": 11,
+    "listen": 10,
+    "walk_left": 8,
+    "talk_both": 8
+  },
+  "seated_by_zone": {
+    "commons": 15,
+    "ilab": 7,
+    "upper": 8,
+    "other": 6
+  },
+  "shared_meshes": 26,
+  "unique_vertices": 59363,
+  "instanced_vertices": 254686,
+  "armatures": 0,
+  "modifiers": 0,
+  "unresolved_placement_checks": [],
+  "repositioned": [
+    "Student_017",
+    "Student_038",
+    "Student_046",
+    "Student_052",
+    "Student_053",
+    "Student_071",
+    "Student_102"
+  ],
+  "placements": [
+    {
+      "name": "Student_023",
+      "style": "male",
+      "pose": "sit_relaxed",
+      "position": [
+        1.020999939739704,
+        17.621000289916992,
+        0.006
+      ],
+      "rotation": -1.5707963267948966,
+      "seat": {
+        "center": [
+          0.9859999418258667,
+          17.621000289916992,
+          0.46000000834465027
+        ],
+        "top": 0.4950000047683716,
+        "front": [
+          0.9999999403953552,
+          0.0,
+          0.0
+        ],
+        "floor": 0,
+        "host": "V15_Commons_four_seat_table_1",
+        "zone": "commons"
+      },
+      "mesh": "Baked_male_sit_relaxed_seat_0.5"
+    },
+    {
+      "name": "Student_022",
+      "style": "female",
+      "pose": "sit_talk",
+      "position": [
+        7.785700645446777,
+        16.8572998046875,
+        0.006
+      ],
+      "rotation": 1.5707963267948966,
+      "seat": {
+        "center": [
+          7.820700645446777,
+          16.8572998046875,
+          0.44749999046325684
+        ],
+        "top": 0.48499998450279236,
+        "front": [
+          -1.0,
+          0.0,
+          0.0
+        ],
+        "floor": 0,
+        "host": "V15_Commons_long_collaboration_table",
+        "zone": "commons"
+      },
+      "mesh": "Baked_female_sit_talk_seat_0.48"
+    },
+    {
+      "name": "Student_013",
+      "style": "male",
+      "pose": "sit_relaxed",
+      "position": [
+        12.968392437398434,
+        22.606692379415037,
+        0.006
+      ],
+      "rotation": 2.356194490192345,
+      "seat": {
+        "center": [
+          12.993141174316406,
+          22.631441116333008,
+          0.46000000834465027
+        ],
+        "top": 0.4950000047683716,
+        "front": [
+          -0.7071067690849304,
+          -0.7071067690849304,
+          0.0
+        ],
+        "floor": 0,
+        "host": "V15_Commons_round_dining_2",
+        "zone": "commons"
+      },
+      "mesh": "Baked_male_sit_relaxed_seat_0.5"
+    },
+    {
+      "name": "Student_091",
+      "style": "male",
+      "pose": "sit_relaxed",
+      "position": [
+        13.356678159534932,
+        27.442657470703125,
+        4.2732
+      ],
+      "rotation": -1.5707963267948966,
+      "seat": {
+        "center": [
+          13.321678161621094,
+          27.442657470703125,
+          4.727200031280518
+        ],
+        "top": 4.762199878692627,
+        "front": [
+          0.9999999403953552,
+          0.0,
+          0.0
+        ],
+        "floor": 4.2672,
+        "host": "V8_DETAIL_V6_200_outdoor_chair_0_1231",
+        "zone": "upper"
+      },
+      "mesh": "Baked_male_sit_relaxed_seat_0.49"
+    },
+    {
+      "name": "Student_010",
+      "style": "female",
+      "pose": "sit_lounge",
+      "position": [
+        2.901467464007437,
+        21.485970023572445,
+        0.006
+      ],
+      "rotation": -0.08726694998599924,
+      "seat": {
+        "center": [
+          2.8984169960021973,
+          21.45110321044922,
+          0.4300000071525574
+        ],
+        "top": 0.5099999904632568,
+        "front": [
+          0.08715622872114182,
+          0.9961946606636047,
+          0.0
+        ],
+        "floor": 0,
+        "host": "V15_Commons_lounge_cluster_2",
+        "zone": "commons"
+      },
+      "mesh": "Baked_female_sit_lounge_seat_0.51"
+    },
+    {
+      "name": "Student_027",
+      "style": "male",
+      "pose": "sit_lounge",
+      "position": [
+        9.370478752478958,
+        23.885453596115113,
+        0.006
+      ],
+      "rotation": 2.96706095350729,
+      "seat": {
+        "center": [
+          9.376556396484375,
+          23.919921875,
+          0.4300000071525574
+        ],
+        "top": 0.5099999904632568,
+        "front": [
+          -0.1736469715833664,
+          -0.9848079681396484,
+          0.0
+        ],
+        "floor": 0,
+        "host": "V15_Commons_lounge_cluster_1",
+        "zone": "commons"
+      },
+      "mesh": "Baked_male_sit_lounge_seat_0.51"
+    },
+    {
+      "name": "Student_111",
+      "style": "male",
+      "pose": "sit_work",
+      "position": [
+        14.096335411071777,
+        3.156622974574566,
+        0.006
+      ],
+      "rotation": -3.141592653589793,
+      "seat": {
+        "center": [
+          14.096335411071777,
+          3.1916229724884033,
+          0.46000000834465027
+        ],
+        "top": 0.4950000047683716,
+        "front": [
+          0.0,
+          -0.9999999403953552,
+          0.0
+        ],
+        "floor": 0,
+        "host": "V8_DETAIL_V6_104_desk_chair",
+        "zone": "other"
+      },
+      "mesh": "Baked_male_sit_work_seat_0.5"
+    },
+    {
+      "name": "Student_006",
+      "style": "female",
+      "pose": "sit_lounge",
+      "position": [
+        12.0,
+        17.965000002086164,
+        0.006
+      ],
+      "rotation": -3.141592653589793,
+      "seat": {
+        "center": [
+          12.0,
+          18.0,
+          0.4599999785423279
+        ],
+        "top": 0.4949999749660492,
+        "front": [
+          0.0,
+          -0.9999999403953552,
+          0.0
+        ],
+        "floor": 0,
+        "host": "V8_DETAIL_V5_Lounge_chair_1",
+        "zone": "commons"
+      },
+      "mesh": "Baked_female_sit_lounge_seat_0.49"
+    },
+    {
+      "name": "Student_002",
+      "style": "female",
+      "pose": "sit_relaxed",
+      "position": [
+        11.815808230936527,
+        22.606692379415037,
+        0.006
+      ],
+      "rotation": -2.356194490192345,
+      "seat": {
+        "center": [
+          11.791059494018555,
+          22.631441116333008,
+          0.46000000834465027
+        ],
+        "top": 0.4950000047683716,
+        "front": [
+          0.7071067690849304,
+          -0.7071067690849304,
+          0.0
+        ],
+        "floor": 0,
+        "host": "V15_Commons_round_dining_2",
+        "zone": "commons"
+      },
+      "mesh": "Baked_female_sit_relaxed_seat_0.5"
+    },
+    {
+      "name": "Student_024",
+      "style": "female",
+      "pose": "sit_lounge",
+      "position": [
+        9.988678871020674,
+        25.87964494228363,
+        0.006
+      ],
+      "rotation": 0.17453703120864758,
+      "seat": {
+        "center": [
+          9.994756698608398,
+          25.845176696777344,
+          0.4300000071525574
+        ],
+        "top": 0.5099999904632568,
+        "front": [
+          -0.17365221679210663,
+          0.984807014465332,
+          0.0
+        ],
+        "floor": 0,
+        "host": "V15_Commons_lounge_cluster_0",
+        "zone": "commons"
+      },
+      "mesh": "Baked_female_sit_lounge_seat_0.51"
+    },
+    {
+      "name": "Student_004",
+      "style": "female",
+      "pose": "sit_relaxed",
+      "position": [
+        6.095699939727783,
+        17.4773006439209,
+        0.006
+      ],
+      "rotation": -1.5707963267948966,
+      "seat": {
+        "center": [
+          6.060699939727783,
+          17.4773006439209,
+          0.44749999046325684
+        ],
+        "top": 0.48499998450279236,
+        "front": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "floor": 0,
+        "host": "V15_Commons_long_collaboration_table",
+        "zone": "commons"
+      },
+      "mesh": "Baked_female_sit_relaxed_seat_0.48"
+    },
+    {
+      "name": "Student_001",
+      "style": "male",
+      "pose": "sit_lounge",
+      "position": [
+        5.961454666852951,
+        21.849954251945018,
+        0.006
+      ],
+      "rotation": 0.2617996931896635,
+      "seat": {
+        "center": [
+          5.970513343811035,
+          21.816146850585938,
+          0.4300000071525574
+        ],
+        "top": 0.5099999904632568,
+        "front": [
+          -0.2588193416595459,
+          0.9659257531166077,
+          0.0
+        ],
+        "floor": 0,
+        "host": "V15_Commons_lounge_cluster_5",
+        "zone": "commons"
+      },
+      "mesh": "Baked_male_sit_lounge_seat_0.51"
+    },
+    {
+      "name": "Student_081",
+      "style": "male",
+      "pose": "sit_talk",
+      "position": [
+        -20.888391494750977,
+        11.794649927318096,
+        4.2732
+      ],
+      "rotation": -3.141592653589793,
+      "seat": {
+        "center": [
+          -20.888391494750977,
+          11.829649925231934,
+          4.727200031280518
+        ],
+        "top": 4.762199878692627,
+        "front": [
+          0.0,
+          -0.9999999403953552,
+          0.0
+        ],
+        "floor": 4.2672,
+        "host": "V8_DETAIL_V6_209_student_chair_00",
+        "zone": "upper"
+      },
+      "mesh": "Baked_male_sit_talk_seat_0.49"
+    },
+    {
+      "name": "Student_106",
+      "style": "female",
+      "pose": "sit_relaxed",
+      "position": [
+        -16.732027053833008,
+        11.794649927318096,
+        4.2732
+      ],
+      "rotation": -3.141592653589793,
+      "seat": {
+        "center": [
+          -16.732027053833008,
+          11.829649925231934,
+          4.727200031280518
+        ],
+        "top": 4.762199878692627,
+        "front": [
+          0.0,
+          -0.9999999403953552,
+          0.0
+        ],
+        "floor": 4.2672,
+        "host": "V8_DETAIL_V6_209_student_chair_20",
+        "zone": "upper"
+      },
+      "mesh": "Baked_female_sit_relaxed_seat_0.49"
+    },
+    {
+      "name": "Student_015",
+      "style": "male",
+      "pose": "sit_lounge",
+      "position": [
+        10.474132854677737,
+        20.186334129869937,
+        0.006
+      ],
+      "rotation": 3.0543251543589087,
+      "seat": {
+        "center": [
+          10.47718334197998,
+          20.221200942993164,
+          0.4300000071525574
+        ],
+        "top": 0.5099999904632568,
+        "front": [
+          -0.08715678006410599,
+          -0.9961946606636047,
+          0.0
+        ],
+        "floor": 0,
+        "host": "V15_Commons_lounge_cluster_4",
+        "zone": "commons"
+      },
+      "mesh": "Baked_male_sit_lounge_seat_0.51"
+    },
+    {
+      "name": "Student_039",
+      "style": "male",
+      "pose": "sit_work",
+      "position": [
+        -1.2350000455975532,
+        7.69999963809277,
+        0.006
+      ],
+      "rotation": 1.5708012174342356,
+      "seat": {
+        "center": [
+          -1.2000000476837158,
+          7.699999809265137,
+          0.4599999785423279
+        ],
+        "top": 0.4949999749660492,
+        "front": [
+          -0.9999999403953552,
+          -4.890639047516743e-06,
+          0.0
+        ],
+        "floor": 0,
+        "host": "V8_DETAIL_V5_Lab_east_chair_5",
+        "zone": "ilab"
+      },
+      "mesh": "Baked_male_sit_work_seat_0.49"
+    },
+    {
+      "name": "Student_019",
+      "style": "male",
+      "pose": "sit_talk",
+      "position": [
+        7.785700645446777,
+        18.717300415039062,
+        0.006
+      ],
+      "rotation": 1.5707963267948966,
+      "seat": {
+        "center": [
+          7.820700645446777,
+          18.717300415039062,
+          0.44749999046325684
+        ],
+        "top": 0.48499998450279236,
+        "front": [
+          -1.0,
+          0.0,
+          0.0
+        ],
+        "floor": 0,
+        "host": "V15_Commons_long_collaboration_table",
+        "zone": "commons"
+      },
+      "mesh": "Baked_male_sit_talk_seat_0.48"
+    },
+    {
+      "name": "Student_032",
+      "style": "female",
+      "pose": "sit_work",
+      "position": [
+        -3.1150000974535943,
+        5.4999999144138165,
+        0.006
+      ],
+      "rotation": -1.5707987721145662,
+      "seat": {
+        "center": [
+          -3.1500000953674316,
+          5.5,
+          0.4599999785423279
+        ],
+        "top": 0.4949999749660492,
+        "front": [
+          0.9999999403953552,
+          -2.4453195237583714e-06,
+          0.0
+        ],
+        "floor": 0,
+        "host": "V8_DETAIL_V5_Lab_west_chair_3",
+        "zone": "ilab"
+      },
+      "mesh": "Baked_female_sit_work_seat_0.49"
+    },
+    {
+      "name": "Student_037",
+      "style": "male",
+      "pose": "sit_work",
+      "position": [
+        -1.2350000455975532,
+        2.200000004890624,
+        0.006
+      ],
+      "rotation": 1.5707975494547313,
+      "seat": {
+        "center": [
+          -1.2000000476837158,
+          2.200000047683716,
+          0.4599999785423279
+        ],
+        "top": 0.4949999749660492,
+        "front": [
+          -0.9999999403953552,
+          -1.2226597618791857e-06,
+          0.0
+        ],
+        "floor": 0,
+        "host": "V8_DETAIL_V5_Lab_east_chair_0",
+        "zone": "ilab"
+      },
+      "mesh": "Baked_male_sit_work_seat_0.49"
+    },
+    {
+      "name": "Student_100",
+      "style": "female",
+      "pose": "sit_talk",
+      "position": [
+        -18.810209274291992,
+        9.716468660533428,
+        4.2732
+      ],
+      "rotation": -3.141592653589793,
+      "seat": {
+        "center": [
+          -18.810209274291992,
+          9.751468658447266,
+          4.727200031280518
+        ],
+        "top": 4.762199878692627,
+        "front": [
+          0.0,
+          -0.9999999403953552,
+          0.0
+        ],
+        "floor": 4.2672,
+        "host": "V8_DETAIL_V6_209_student_chair_11",
+        "zone": "upper"
+      },
+      "mesh": "Baked_female_sit_talk_seat_0.49"
+    },
+    {
+      "name": "Student_025",
+      "style": "male",
+      "pose": "sit_lounge",
+      "position": [
+        3.60439026594162,
+        22.993390094339848,
+        0.006
+      ],
+      "rotation": 2.356196723975448,
+      "seat": {
+        "center": [
+          3.629138946533203,
+          23.018138885498047,
+          0.4300000071525574
+        ],
+        "top": 0.5099999904632568,
+        "front": [
+          -0.7071051597595215,
+          -0.7071083188056946,
+          0.0
+        ],
+        "floor": 0,
+        "host": "V15_Commons_lounge_cluster_2",
+        "zone": "commons"
+      },
+      "mesh": "Baked_male_sit_lounge_seat_0.51"
+    },
+    {
+      "name": "Student_012",
+      "style": "female",
+      "pose": "sit_talk",
+      "position": [
+        12.349707538187504,
+        27.636591976583006,
+        0.006
+      ],
+      "rotation": -2.356194490192345,
+      "seat": {
+        "center": [
+          12.324958801269531,
+          27.661340713500977,
+          0.46000000834465027
+        ],
+        "top": 0.4950000047683716,
+        "front": [
+          0.7071067690849304,
+          -0.7071067690849304,
+          0.0
+        ],
+        "floor": 0,
+        "host": "V15_Commons_round_dining_0",
+        "zone": "commons"
+      },
+      "mesh": "Baked_female_sit_talk_seat_0.5"
+    },
+    {
+      "name": "Student_005",
+      "style": "male",
+      "pose": "sit_relaxed",
+      "position": [
+        12.799792355000973,
+        23.98310750156641,
+        0.006
+      ],
+      "rotation": 0.7853981633974483,
+      "seat": {
+        "center": [
+          12.824541091918945,
+          23.958358764648438,
+          0.46000000834465027
+        ],
+        "top": 0.4950000047683716,
+        "front": [
+          -0.7071067690849304,
+          0.7071067690849304,
+          0.0
+        ],
+        "floor": 0,
+        "host": "V15_Commons_round_dining_1",
+        "zone": "commons"
+      },
+      "mesh": "Baked_male_sit_relaxed_seat_0.5"
+    },
+    {
+      "name": "Student_092",
+      "style": "female",
+      "pose": "sit_relaxed",
+      "position": [
+        13.356678159534932,
+        5.861538410186768,
+        4.2732
+      ],
+      "rotation": -1.5707963267948966,
+      "seat": {
+        "center": [
+          13.321678161621094,
+          5.861538410186768,
+          4.727200031280518
+        ],
+        "top": 4.762199878692627,
+        "front": [
+          0.9999999403953552,
+          0.0,
+          0.0
+        ],
+        "floor": 4.2672,
+        "host": "V8_DETAIL_V6_200_outdoor_chair_3_1231",
+        "zone": "upper"
+      },
+      "mesh": "Baked_female_sit_relaxed_seat_0.49"
+    },
+    {
+      "name": "Student_033",
+      "style": "male",
+      "pose": "sit_work",
+      "position": [
+        -1.2350000455975532,
+        3.2999998667301007,
+        0.006
+      ],
+      "rotation": 1.5707987721145662,
+      "seat": {
+        "center": [
+          -1.2000000476837158,
+          3.299999952316284,
+          0.4599999785423279
+        ],
+        "top": 0.4949999749660492,
+        "front": [
+          -0.9999999403953552,
+          -2.4453195237583714e-06,
+          0.0
+        ],
+        "floor": 0,
+        "host": "V8_DETAIL_V5_Lab_east_chair_1",
+        "zone": "ilab"
+      },
+      "mesh": "Baked_male_sit_work_seat_0.49"
+    },
+    {
+      "name": "Student_101",
+      "style": "male",
+      "pose": "sit_work",
+      "position": [
+        -5.968111991882324,
+        8.650733797252178,
+        4.2732
+      ],
+      "rotation": -3.141592653589793,
+      "seat": {
+        "center": [
+          -5.968111991882324,
+          8.685733795166016,
+          4.727200031280518
+        ],
+        "top": 4.762199878692627,
+        "front": [
+          0.0,
+          -0.9999999403953552,
+          0.0
+        ],
+        "floor": 4.2672,
+        "host": "V8_DETAIL_V6_203_desk_chair",
+        "zone": "upper"
+      },
+      "mesh": "Baked_male_sit_work_seat_0.49"
+    },
+    {
+      "name": "Student_029",
+      "style": "male",
+      "pose": "sit_work",
+      "position": [
+        -3.1150000974535943,
+        6.599999819046385,
+        0.006
+      ],
+      "rotation": -1.5707987721145662,
+      "seat": {
+        "center": [
+          -3.1500000953674316,
+          6.599999904632568,
+          0.4599999785423279
+        ],
+        "top": 0.4949999749660492,
+        "front": [
+          0.9999999403953552,
+          -2.4453195237583714e-06,
+          0.0
+        ],
+        "floor": 0,
+        "host": "V8_DETAIL_V5_Lab_west_chair_4",
+        "zone": "ilab"
+      },
+      "mesh": "Baked_male_sit_work_seat_0.49"
+    },
+    {
+      "name": "Student_048",
+      "style": "female",
+      "pose": "sit_work",
+      "position": [
+        -3.1150000974535943,
+        7.69999963809277,
+        0.006
+      ],
+      "rotation": -1.5708012174342356,
+      "seat": {
+        "center": [
+          -3.1500000953674316,
+          7.699999809265137,
+          0.4599999785423279
+        ],
+        "top": 0.4949999749660492,
+        "front": [
+          0.9999999403953552,
+          -4.890639047516743e-06,
+          0.0
+        ],
+        "floor": 0,
+        "host": "V8_DETAIL_V5_Lab_west_chair_5",
+        "zone": "ilab"
+      },
+      "mesh": "Baked_female_sit_work_seat_0.49"
+    },
+    {
+      "name": "Student_090",
+      "style": "female",
+      "pose": "sit_relaxed",
+      "position": [
+        13.356678159534932,
+        23.7658748626709,
+        4.2732
+      ],
+      "rotation": -1.5707963267948966,
+      "seat": {
+        "center": [
+          13.321678161621094,
+          23.7658748626709,
+          4.727200031280518
+        ],
+        "top": 4.762199878692627,
+        "front": [
+          0.9999999403953552,
+          0.0,
+          0.0
+        ],
+        "floor": 4.2672,
+        "host": "V8_DETAIL_V6_200_outdoor_chair_1_1231",
+        "zone": "upper"
+      },
+      "mesh": "Baked_female_sit_relaxed_seat_0.49"
+    },
+    {
+      "name": "Student_088",
+      "style": "female",
+      "pose": "sit_talk",
+      "position": [
+        13.356678159534932,
+        19.60951042175293,
+        4.2732
+      ],
+      "rotation": -1.5707963267948966,
+      "seat": {
+        "center": [
+          13.321678161621094,
+          19.60951042175293,
+          4.727200031280518
+        ],
+        "top": 4.762199878692627,
+        "front": [
+          0.9999999403953552,
+          0.0,
+          0.0
+        ],
+        "floor": 4.2672,
+        "host": "V8_DETAIL_V6_200_outdoor_chair_2_1231",
+        "zone": "upper"
+      },
+      "mesh": "Baked_female_sit_talk_seat_0.49"
+    },
+    {
+      "name": "Student_035",
+      "style": "male",
+      "pose": "sit_work",
+      "position": [
+        -8.715000002086162,
+        3.4000000953674316,
+        0.006
+      ],
+      "rotation": -1.5707963267948966,
+      "seat": {
+        "center": [
+          -8.75,
+          3.4000000953674316,
+          0.6265000104904175
+        ],
+        "top": 0.6790000200271606,
+        "front": [
+          0.9999999403953552,
+          0.0,
+          0.0
+        ],
+        "floor": 0,
+        "host": "V8_DETAIL_V5_Lab_island_stool_1",
+        "zone": "ilab"
+      },
+      "mesh": "Baked_male_sit_work_seat_0.68"
+    },
+    {
+      "name": "Student_108",
+      "style": "female",
+      "pose": "sit_talk",
+      "position": [
+        13.989947319030762,
+        7.358926622569561,
+        0.006
+      ],
+      "rotation": -3.141592653589793,
+      "seat": {
+        "center": [
+          13.989947319030762,
+          7.393926620483398,
+          0.46000000834465027
+        ],
+        "top": 0.4950000047683716,
+        "front": [
+          0.0,
+          -0.9999999403953552,
+          0.0
+        ],
+        "floor": 0,
+        "host": "V8_DETAIL_V6_Reception_staff_chair",
+        "zone": "other"
+      },
+      "mesh": "Baked_female_sit_talk_seat_0.5"
+    },
+    {
+      "name": "Student_057",
+      "style": "male",
+      "pose": "sit_work",
+      "position": [
+        -36.01214599609375,
+        34.966464845836164,
+        0.006
+      ],
+      "rotation": -3.141592653589793,
+      "seat": {
+        "center": [
+          -36.01214599609375,
+          35.00146484375,
+          0.46000000834465027
+        ],
+        "top": 0.4950000047683716,
+        "front": [
+          0.0,
+          -0.9999999403953552,
+          0.0
+        ],
+        "floor": 0,
+        "host": "V8_DETAIL_V6_126_desk_chair",
+        "zone": "other"
+      },
+      "mesh": "Baked_male_sit_work_seat_0.5"
+    },
+    {
+      "name": "Student_050",
+      "style": "female",
+      "pose": "sit_work",
+      "position": [
+        -13.298429489135742,
+        12.784685938060283,
+        0.006
+      ],
+      "rotation": -3.141592653589793,
+      "seat": {
+        "center": [
+          -13.298429489135742,
+          12.819685935974121,
+          0.46000000834465027
+        ],
+        "top": 0.4950000047683716,
+        "front": [
+          0.0,
+          -0.9999999403953552,
+          0.0
+        ],
+        "floor": 0,
+        "host": "V8_DETAIL_V6_111_desk_chair",
+        "zone": "other"
+      },
+      "mesh": "Baked_female_sit_work_seat_0.5"
+    },
+    {
+      "name": "Student_061",
+      "style": "male",
+      "pose": "sit_work",
+      "position": [
+        -34.68230438232422,
+        38.63683304041624,
+        0.006
+      ],
+      "rotation": -3.141592653589793,
+      "seat": {
+        "center": [
+          -34.68230438232422,
+          38.67183303833008,
+          0.46000000834465027
+        ],
+        "top": 0.4950000047683716,
+        "front": [
+          0.0,
+          -0.9999999403953552,
+          0.0
+        ],
+        "floor": 0,
+        "host": "V8_DETAIL_V6_125_desk_chair",
+        "zone": "other"
+      },
+      "mesh": "Baked_male_sit_work_seat_0.5"
+    },
+    {
+      "name": "Student_060",
+      "style": "female",
+      "pose": "sit_work",
+      "position": [
+        -38.778221130371094,
+        38.63683304041624,
+        0.006
+      ],
+      "rotation": -3.141592653589793,
+      "seat": {
+        "center": [
+          -38.778221130371094,
+          38.67183303833008,
+          0.46000000834465027
+        ],
+        "top": 0.4950000047683716,
+        "front": [
+          0.0,
+          -0.9999999403953552,
+          0.0
+        ],
+        "floor": 0,
+        "host": "V8_DETAIL_V6_127_desk_chair",
+        "zone": "other"
+      },
+      "mesh": "Baked_female_sit_work_seat_0.5"
+    },
+    {
+      "name": "Student_003",
+      "style": "male",
+      "pose": "stand_weight_shift",
+      "position": [
+        3.7896764278411865,
+        24.643138885498047,
+        0.008
+      ],
+      "rotation": 5.6663103103637695,
+      "seat": null,
+      "mesh": "Baked_male_stand_weight_shift"
+    },
+    {
+      "name": "Student_007",
+      "style": "male",
+      "pose": "read",
+      "position": [
+        3.9628336429595947,
+        29.128067016601562,
+        0.008
+      ],
+      "rotation": 0.17404909431934357,
+      "seat": null,
+      "mesh": "Baked_male_read"
+    },
+    {
+      "name": "Student_008",
+      "style": "female",
+      "pose": "stand_relaxed",
+      "position": [
+        3.067045211791992,
+        17.197355270385742,
+        0.008
+      ],
+      "rotation": 4.157961368560791,
+      "seat": null,
+      "mesh": "Baked_female_stand_relaxed"
+    },
+    {
+      "name": "Student_009",
+      "style": "male",
+      "pose": "talk_left",
+      "position": [
+        4.851171016693115,
+        27.818416595458984,
+        0.008
+      ],
+      "rotation": 0.5960140471399304,
+      "seat": null,
+      "mesh": "Baked_male_talk_left"
+    },
+    {
+      "name": "Student_011",
+      "style": "male",
+      "pose": "stand_weight_shift",
+      "position": [
+        6.890999794006348,
+        23.949562072753906,
+        0.008
+      ],
+      "rotation": 3.991880178451538,
+      "seat": null,
+      "mesh": "Baked_male_stand_weight_shift"
+    },
+    {
+      "name": "Student_014",
+      "style": "female",
+      "pose": "walk_right",
+      "position": [
+        7.641368865966797,
+        26.955385208129883,
+        0.008
+      ],
+      "rotation": 5.202862739562988,
+      "seat": null,
+      "mesh": "Baked_female_walk_right"
+    },
+    {
+      "name": "Student_016",
+      "style": "female",
+      "pose": "stand_relaxed",
+      "position": [
+        3.7938921451568604,
+        19.597925186157227,
+        0.008
+      ],
+      "rotation": 6.0122599601745605,
+      "seat": null,
+      "mesh": "Baked_female_stand_relaxed"
+    },
+    {
+      "name": "Student_017",
+      "style": "male",
+      "pose": "talk_left",
+      "position": [
+        3.930471086502075,
+        17.171852111816406,
+        0.008
+      ],
+      "rotation": 1.4518660300662414,
+      "seat": null,
+      "mesh": "Baked_male_talk_left"
+    },
+    {
+      "name": "Student_018",
+      "style": "female",
+      "pose": "listen",
+      "position": [
+        6.616659164428711,
+        27.827762603759766,
+        0.008
+      ],
+      "rotation": -1.4369928148633266,
+      "seat": null,
+      "mesh": "Baked_female_listen"
+    },
+    {
+      "name": "Student_020",
+      "style": "female",
+      "pose": "walk_left",
+      "position": [
+        5.366230487823486,
+        25.3530330657959,
+        0.008
+      ],
+      "rotation": 2.614899158477783,
+      "seat": null,
+      "mesh": "Baked_female_walk_left"
+    },
+    {
+      "name": "Student_021",
+      "style": "male",
+      "pose": "talk_both",
+      "position": [
+        8.421441078186035,
+        27.800682067871094,
+        0.008
+      ],
+      "rotation": -1.043794468588808,
+      "seat": null,
+      "mesh": "Baked_male_talk_both"
+    },
+    {
+      "name": "Student_026",
+      "style": "female",
+      "pose": "listen",
+      "position": [
+        7.556477069854736,
+        27.954269409179688,
+        0.008
+      ],
+      "rotation": -1.7465296937464763,
+      "seat": null,
+      "mesh": "Baked_female_listen"
+    },
+    {
+      "name": "Student_028",
+      "style": "female",
+      "pose": "walk_left",
+      "position": [
+        9.747109413146973,
+        17.245405197143555,
+        0.008
+      ],
+      "rotation": 2.4225046634674072,
+      "seat": null,
+      "mesh": "Baked_female_walk_left"
+    },
+    {
+      "name": "Student_034",
+      "style": "female",
+      "pose": "listen",
+      "position": [
+        -6.892520904541016,
+        5.958029270172119,
+        0.008
+      ],
+      "rotation": -2.7468969259901668,
+      "seat": null,
+      "mesh": "Baked_female_listen"
+    },
+    {
+      "name": "Student_036",
+      "style": "female",
+      "pose": "walk_left",
+      "position": [
+        -7.676912307739258,
+        8.799421310424805,
+        0.008
+      ],
+      "rotation": 5.7113447189331055,
+      "seat": null,
+      "mesh": "Baked_female_walk_left"
+    },
+    {
+      "name": "Student_038",
+      "style": "female",
+      "pose": "walk_right",
+      "position": [
+        -6.591058158874512,
+        7.818151950836182,
+        0.008
+      ],
+      "rotation": 3.4313220977783203,
+      "seat": null,
+      "mesh": "Baked_female_walk_right"
+    },
+    {
+      "name": "Student_040",
+      "style": "female",
+      "pose": "stand_relaxed",
+      "position": [
+        -6.934932231903076,
+        2.5919010639190674,
+        0.008
+      ],
+      "rotation": 3.1898880004882812,
+      "seat": null,
+      "mesh": "Baked_female_stand_relaxed"
+    },
+    {
+      "name": "Student_041",
+      "style": "male",
+      "pose": "talk_left",
+      "position": [
+        -24.21369743347168,
+        15.731393814086914,
+        0.008
+      ],
+      "rotation": 1.5831203721206288,
+      "seat": null,
+      "mesh": "Baked_male_talk_left"
+    },
+    {
+      "name": "Student_042",
+      "style": "female",
+      "pose": "listen",
+      "position": [
+        -2.8169026374816895,
+        12.33083438873291,
+        0.008
+      ],
+      "rotation": 2.3293233957888986,
+      "seat": null,
+      "mesh": "Baked_female_listen"
+    },
+    {
+      "name": "Student_043",
+      "style": "male",
+      "pose": "stand_weight_shift",
+      "position": [
+        -25.67075538635254,
+        11.34689998626709,
+        0.008
+      ],
+      "rotation": 2.19966459274292,
+      "seat": null,
+      "mesh": "Baked_male_stand_weight_shift"
+    },
+    {
+      "name": "Student_044",
+      "style": "female",
+      "pose": "walk_left",
+      "position": [
+        -6.575590133666992,
+        12.997293472290039,
+        0.008
+      ],
+      "rotation": 2.474729299545288,
+      "seat": null,
+      "mesh": "Baked_female_walk_left"
+    },
+    {
+      "name": "Student_045",
+      "style": "male",
+      "pose": "talk_both",
+      "position": [
+        -1.9241700172424316,
+        15.55335521697998,
+        0.008
+      ],
+      "rotation": 2.871340819075551,
+      "seat": null,
+      "mesh": "Baked_male_talk_both"
+    },
+    {
+      "name": "Student_046",
+      "style": "female",
+      "pose": "walk_right",
+      "position": [
+        -15.507157737704734,
+        11.919807688368696,
+        0.008
+      ],
+      "rotation": 5.388321876525879,
+      "seat": null,
+      "mesh": "Baked_female_walk_right"
+    },
+    {
+      "name": "Student_047",
+      "style": "male",
+      "pose": "read",
+      "position": [
+        -21.384214401245117,
+        11.845576286315918,
+        0.008
+      ],
+      "rotation": 3.2968814373016357,
+      "seat": null,
+      "mesh": "Baked_male_read"
+    },
+    {
+      "name": "Student_049",
+      "style": "male",
+      "pose": "talk_left",
+      "position": [
+        -22.442598342895508,
+        11.243804931640625,
+        0.008
+      ],
+      "rotation": -1.0538035071676608,
+      "seat": null,
+      "mesh": "Baked_male_talk_left"
+    },
+    {
+      "name": "Student_051",
+      "style": "male",
+      "pose": "stand_weight_shift",
+      "position": [
+        -26.564558029174805,
+        15.702420234680176,
+        0.008
+      ],
+      "rotation": 0.10160904377698898,
+      "seat": null,
+      "mesh": "Baked_male_stand_weight_shift"
+    },
+    {
+      "name": "Student_052",
+      "style": "female",
+      "pose": "walk_left",
+      "position": [
+        -25.54148413337602,
+        13.069731300381203,
+        0.008
+      ],
+      "rotation": 4.7311625480651855,
+      "seat": null,
+      "mesh": "Baked_female_walk_left"
+    },
+    {
+      "name": "Student_053",
+      "style": "male",
+      "pose": "talk_both",
+      "position": [
+        -42.416590278652684,
+        18.31404043830766,
+        0.008
+      ],
+      "rotation": 2.8233771828715795,
+      "seat": null,
+      "mesh": "Baked_male_talk_both"
+    },
+    {
+      "name": "Student_054",
+      "style": "female",
+      "pose": "walk_right",
+      "position": [
+        -37.35526657104492,
+        30.921281814575195,
+        0.008
+      ],
+      "rotation": 6.216634273529053,
+      "seat": null,
+      "mesh": "Baked_female_walk_right"
+    },
+    {
+      "name": "Student_055",
+      "style": "male",
+      "pose": "read",
+      "position": [
+        -35.40586853027344,
+        12.494949340820312,
+        0.008
+      ],
+      "rotation": 5.2152557373046875,
+      "seat": null,
+      "mesh": "Baked_male_read"
+    },
+    {
+      "name": "Student_056",
+      "style": "female",
+      "pose": "stand_relaxed",
+      "position": [
+        -31.908082962036133,
+        24.07741928100586,
+        0.008
+      ],
+      "rotation": 2.065340995788574,
+      "seat": null,
+      "mesh": "Baked_female_stand_relaxed"
+    },
+    {
+      "name": "Student_058",
+      "style": "female",
+      "pose": "listen",
+      "position": [
+        -36.26066589355469,
+        15.001363754272461,
+        0.008
+      ],
+      "rotation": -1.148536247074449,
+      "seat": null,
+      "mesh": "Baked_female_listen"
+    },
+    {
+      "name": "Student_059",
+      "style": "male",
+      "pose": "stand_weight_shift",
+      "position": [
+        -31.740156173706055,
+        31.060155868530273,
+        0.008
+      ],
+      "rotation": 4.462421894073486,
+      "seat": null,
+      "mesh": "Baked_male_stand_weight_shift"
+    },
+    {
+      "name": "Student_062",
+      "style": "female",
+      "pose": "walk_right",
+      "position": [
+        -34.997215270996094,
+        25.523223876953125,
+        0.008
+      ],
+      "rotation": 4.5683817863464355,
+      "seat": null,
+      "mesh": "Baked_female_walk_right"
+    },
+    {
+      "name": "Student_063",
+      "style": "male",
+      "pose": "read",
+      "position": [
+        -43.291690826416016,
+        15.740716934204102,
+        0.008
+      ],
+      "rotation": 1.8653483390808105,
+      "seat": null,
+      "mesh": "Baked_male_read"
+    },
+    {
+      "name": "Student_064",
+      "style": "female",
+      "pose": "stand_relaxed",
+      "position": [
+        -38.858673095703125,
+        12.533526420593262,
+        0.008
+      ],
+      "rotation": 6.11091947555542,
+      "seat": null,
+      "mesh": "Baked_female_stand_relaxed"
+    },
+    {
+      "name": "Student_065",
+      "style": "male",
+      "pose": "talk_left",
+      "position": [
+        -33.656005859375,
+        21.181869506835938,
+        0.008
+      ],
+      "rotation": -0.28236791120223237,
+      "seat": null,
+      "mesh": "Baked_male_talk_left"
+    },
+    {
+      "name": "Student_066",
+      "style": "female",
+      "pose": "listen",
+      "position": [
+        -34.52914047241211,
+        15.779314041137695,
+        0.008
+      ],
+      "rotation": 1.9930564065153444,
+      "seat": null,
+      "mesh": "Baked_female_listen"
+    },
+    {
+      "name": "Student_067",
+      "style": "male",
+      "pose": "stand_weight_shift",
+      "position": [
+        -36.25336456298828,
+        31.310476303100586,
+        0.008
+      ],
+      "rotation": 4.628869533538818,
+      "seat": null,
+      "mesh": "Baked_male_stand_weight_shift"
+    },
+    {
+      "name": "Student_068",
+      "style": "female",
+      "pose": "walk_left",
+      "position": [
+        -32.73125457763672,
+        24.36935043334961,
+        0.008
+      ],
+      "rotation": 1.149218201637268,
+      "seat": null,
+      "mesh": "Baked_female_walk_left"
+    },
+    {
+      "name": "Student_069",
+      "style": "male",
+      "pose": "talk_both",
+      "position": [
+        -3.978365182876587,
+        13.374062538146973,
+        4.2752
+      ],
+      "rotation": 0.43369886173997646,
+      "seat": null,
+      "mesh": "Baked_male_talk_both"
+    },
+    {
+      "name": "Student_070",
+      "style": "female",
+      "pose": "walk_right",
+      "position": [
+        -9.34994125366211,
+        15.764596939086914,
+        4.2752
+      ],
+      "rotation": 1.6496384143829346,
+      "seat": null,
+      "mesh": "Baked_female_walk_right"
+    },
+    {
+      "name": "Student_071",
+      "style": "male",
+      "pose": "read",
+      "position": [
+        -23.96330032348633,
+        13.161375999450684,
+        4.2752
+      ],
+      "rotation": 5.948955059051514,
+      "seat": null,
+      "mesh": "Baked_male_read"
+    },
+    {
+      "name": "Student_072",
+      "style": "female",
+      "pose": "stand_relaxed",
+      "position": [
+        -3.321639060974121,
+        14.370926856994629,
+        4.2752
+      ],
+      "rotation": 0.31753504276275635,
+      "seat": null,
+      "mesh": "Baked_female_stand_relaxed"
+    },
+    {
+      "name": "Student_073",
+      "style": "male",
+      "pose": "talk_left",
+      "position": [
+        -11.031194686889648,
+        14.014307022094727,
+        4.2752
+      ],
+      "rotation": -1.6939517833404008,
+      "seat": null,
+      "mesh": "Baked_male_talk_left"
+    },
+    {
+      "name": "Student_074",
+      "style": "female",
+      "pose": "listen",
+      "position": [
+        -8.350580215454102,
+        13.442300796508789,
+        4.2752
+      ],
+      "rotation": -1.789887056790768,
+      "seat": null,
+      "mesh": "Baked_female_listen"
+    },
+    {
+      "name": "Student_075",
+      "style": "male",
+      "pose": "stand_weight_shift",
+      "position": [
+        -5.042174816131592,
+        13.83297348022461,
+        4.2752
+      ],
+      "rotation": 3.5064139366149902,
+      "seat": null,
+      "mesh": "Baked_male_stand_weight_shift"
+    },
+    {
+      "name": "Student_076",
+      "style": "female",
+      "pose": "walk_left",
+      "position": [
+        -12.631321907043457,
+        14.09981918334961,
+        4.2752
+      ],
+      "rotation": 5.6986565589904785,
+      "seat": null,
+      "mesh": "Baked_female_walk_left"
+    },
+    {
+      "name": "Student_077",
+      "style": "male",
+      "pose": "talk_both",
+      "position": [
+        -4.403500556945801,
+        14.292072296142578,
+        4.2752
+      ],
+      "rotation": 2.194049021769294,
+      "seat": null,
+      "mesh": "Baked_male_talk_both"
+    },
+    {
+      "name": "Student_078",
+      "style": "female",
+      "pose": "walk_right",
+      "position": [
+        -16.05660057067871,
+        15.644258499145508,
+        4.2752
+      ],
+      "rotation": 1.5615313053131104,
+      "seat": null,
+      "mesh": "Baked_female_walk_right"
+    },
+    {
+      "name": "Student_079",
+      "style": "male",
+      "pose": "read",
+      "position": [
+        -7.068686008453369,
+        13.156867980957031,
+        4.2752
+      ],
+      "rotation": 2.5032589435577393,
+      "seat": null,
+      "mesh": "Baked_male_read"
+    },
+    {
+      "name": "Student_080",
+      "style": "female",
+      "pose": "stand_relaxed",
+      "position": [
+        -14.29018497467041,
+        15.79610824584961,
+        4.2752
+      ],
+      "rotation": 0.13225975632667542,
+      "seat": null,
+      "mesh": "Baked_female_stand_relaxed"
+    },
+    {
+      "name": "Student_082",
+      "style": "female",
+      "pose": "listen",
+      "position": [
+        -10.076325416564941,
+        13.896111488342285,
+        4.2752
+      ],
+      "rotation": 1.4476408702493926,
+      "seat": null,
+      "mesh": "Baked_female_listen"
+    },
+    {
+      "name": "Student_083",
+      "style": "male",
+      "pose": "stand_weight_shift",
+      "position": [
+        -2.5875375270843506,
+        13.640809059143066,
+        4.2752
+      ],
+      "rotation": 4.0901336669921875,
+      "seat": null,
+      "mesh": "Baked_male_stand_weight_shift"
+    },
+    {
+      "name": "Student_084",
+      "style": "female",
+      "pose": "walk_left",
+      "position": [
+        -24.64217185974121,
+        13.100403785705566,
+        4.2752
+      ],
+      "rotation": 2.299226760864258,
+      "seat": null,
+      "mesh": "Baked_female_walk_left"
+    },
+    {
+      "name": "Student_085",
+      "style": "male",
+      "pose": "talk_both",
+      "position": [
+        -21.567651748657227,
+        15.799027442932129,
+        4.2752
+      ],
+      "rotation": 3.0378136799902102,
+      "seat": null,
+      "mesh": "Baked_male_talk_both"
+    },
+    {
+      "name": "Student_086",
+      "style": "female",
+      "pose": "walk_right",
+      "position": [
+        -23.227462768554688,
+        15.727018356323242,
+        4.2752
+      ],
+      "rotation": 2.7264630794525146,
+      "seat": null,
+      "mesh": "Baked_female_walk_right"
+    },
+    {
+      "name": "Student_087",
+      "style": "male",
+      "pose": "read",
+      "position": [
+        6.89264440536499,
+        13.164406776428223,
+        4.2752
+      ],
+      "rotation": 3.1944739818573,
+      "seat": null,
+      "mesh": "Baked_male_read"
+    },
+    {
+      "name": "Student_089",
+      "style": "male",
+      "pose": "talk_left",
+      "position": [
+        5.955413341522217,
+        13.146086692810059,
+        4.2752
+      ],
+      "rotation": -1.5512517858862465,
+      "seat": null,
+      "mesh": "Baked_male_talk_left"
+    },
+    {
+      "name": "Student_093",
+      "style": "male",
+      "pose": "talk_both",
+      "position": [
+        4.966452121734619,
+        11.345015525817871,
+        4.2752
+      ],
+      "rotation": -1.545505155884236,
+      "seat": null,
+      "mesh": "Baked_male_talk_both"
+    },
+    {
+      "name": "Student_094",
+      "style": "female",
+      "pose": "walk_right",
+      "position": [
+        2.9156665802001953,
+        11.248098373413086,
+        4.2752
+      ],
+      "rotation": 5.196354866027832,
+      "seat": null,
+      "mesh": "Baked_female_walk_right"
+    },
+    {
+      "name": "Student_095",
+      "style": "male",
+      "pose": "read",
+      "position": [
+        6.041272163391113,
+        11.372204780578613,
+        4.2752
+      ],
+      "rotation": 6.219985008239746,
+      "seat": null,
+      "mesh": "Baked_male_read"
+    },
+    {
+      "name": "Student_096",
+      "style": "female",
+      "pose": "stand_relaxed",
+      "position": [
+        3.3546347618103027,
+        13.282674789428711,
+        4.2752
+      ],
+      "rotation": 5.973331928253174,
+      "seat": null,
+      "mesh": "Baked_female_stand_relaxed"
+    },
+    {
+      "name": "Student_097",
+      "style": "male",
+      "pose": "talk_left",
+      "position": [
+        -6.264350414276123,
+        2.0976052284240723,
+        4.2752
+      ],
+      "rotation": 0.6595746144418089,
+      "seat": null,
+      "mesh": "Baked_male_talk_left"
+    },
+    {
+      "name": "Student_098",
+      "style": "female",
+      "pose": "listen",
+      "position": [
+        -8.666338920593262,
+        5.195252418518066,
+        4.2752
+      ],
+      "rotation": 1.2173662690330327,
+      "seat": null,
+      "mesh": "Baked_female_listen"
+    },
+    {
+      "name": "Student_099",
+      "style": "male",
+      "pose": "stand_weight_shift",
+      "position": [
+        -14.754988670349121,
+        8.032739639282227,
+        4.2752
+      ],
+      "rotation": 1.656430721282959,
+      "seat": null,
+      "mesh": "Baked_male_stand_weight_shift"
+    },
+    {
+      "name": "Student_102",
+      "style": "female",
+      "pose": "walk_right",
+      "position": [
+        -34.06196349331997,
+        8.81330801643266,
+        4.2752
+      ],
+      "rotation": 0.12978480756282806,
+      "seat": null,
+      "mesh": "Baked_female_walk_right"
+    },
+    {
+      "name": "Student_103",
+      "style": "male",
+      "pose": "read",
+      "position": [
+        -11.223600387573242,
+        6.138678550720215,
+        4.2752
+      ],
+      "rotation": 3.611147165298462,
+      "seat": null,
+      "mesh": "Baked_male_read"
+    },
+    {
+      "name": "Student_104",
+      "style": "female",
+      "pose": "stand_relaxed",
+      "position": [
+        -23.893293380737305,
+        8.521446228027344,
+        4.2752
+      ],
+      "rotation": 5.30214786529541,
+      "seat": null,
+      "mesh": "Baked_female_stand_relaxed"
+    },
+    {
+      "name": "Student_105",
+      "style": "male",
+      "pose": "talk_left",
+      "position": [
+        -42.3206672668457,
+        10.069975852966309,
+        4.2752
+      ],
+      "rotation": -1.7568814374895962,
+      "seat": null,
+      "mesh": "Baked_male_talk_left"
+    },
+    {
+      "name": "Student_107",
+      "style": "male",
+      "pose": "stand_weight_shift",
+      "position": [
+        5.13250732421875,
+        7.125026226043701,
+        0.008
+      ],
+      "rotation": 2.4931137561798096,
+      "seat": null,
+      "mesh": "Baked_male_stand_weight_shift"
+    },
+    {
+      "name": "Student_109",
+      "style": "male",
+      "pose": "talk_both",
+      "position": [
+        7.248083591461182,
+        5.143577575683594,
+        0.008
+      ],
+      "rotation": 2.260874158061751,
+      "seat": null,
+      "mesh": "Baked_male_talk_both"
+    },
+    {
+      "name": "Student_110",
+      "style": "female",
+      "pose": "walk_right",
+      "position": [
+        6.269288063049316,
+        4.335614204406738,
+        0.008
+      ],
+      "rotation": 4.903017520904541,
+      "seat": null,
+      "mesh": "Baked_female_walk_right"
+    },
+    {
+      "name": "Student_112",
+      "style": "female",
+      "pose": "stand_relaxed",
+      "position": [
+        5.429485321044922,
+        1.6446300745010376,
+        0.008
+      ],
+      "rotation": 5.359124660491943,
+      "seat": null,
+      "mesh": "Baked_female_stand_relaxed"
+    },
+    {
+      "name": "Student_113",
+      "style": "male",
+      "pose": "talk_left",
+      "position": [
+        4.807840347290039,
+        8.864167213439941,
+        0.008
+      ],
+      "rotation": -2.9570346731700874,
+      "seat": null,
+      "mesh": "Baked_male_talk_left"
+    },
+    {
+      "name": "Student_114",
+      "style": "female",
+      "pose": "listen",
+      "position": [
+        2.146972417831421,
+        5.239246845245361,
+        0.008
+      ],
+      "rotation": -1.0074373537006376,
+      "seat": null,
+      "mesh": "Baked_female_listen"
+    }
+  ]
+}

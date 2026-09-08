@@ -1,0 +1,20 @@
+[
+  {
+    "time_seconds": 0,
+    "video_frame_one_based": 1,
+    "blender_source_frame": 1,
+    "input": "inputs/guide_00s.png"
+  },
+  {
+    "time_seconds": 3,
+    "video_frame_one_based": 37,
+    "blender_source_frame": 1356,
+    "input": "inputs/guide_03s.png"
+  },
+  {
+    "time_seconds": 6,
+    "video_frame_one_based": 73,
+    "blender_source_frame": 2710,
+    "input": "inputs/guide_06s.png"
+  }
+]

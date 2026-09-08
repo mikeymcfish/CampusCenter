@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Fabric030",
+    "source": "https://ambientcg.com/view?id=Fabric030",
+    "download": "https://ambientcg.com/get?file=Fabric030_1K-JPG.zip",
+    "license": "CC0",
+    "sha256": "82d4d00ccf901cf4707c5489005945ab8574933fc60437e26c6737f0436699e0",
+    "bytes": 11064340
+  },
+  {
+    "name": "PaintedPlaster017",
+    "source": "https://ambientcg.com/view?id=PaintedPlaster017",
+    "download": "https://ambientcg.com/get?file=PaintedPlaster017_1K-JPG.zip",
+    "license": "CC0",
+    "sha256": "bae0380d82b6ccac8943b4980417cb3c9de5c896218339c108056f1dfb8e886c",
+    "bytes": 4721132
+  },
+  {
+    "name": "trophy_5.blend",
+    "source": "https://opengameart.org/content/trophy",
+    "download": "https://opengameart.org/sites/default/files/trophy_5.blend",
+    "license": "CC0, JeremyWoods",
+    "sha256": "4562fcc64c8a0db55edfe52d88695f1b3c2158d49a3a7474e28b8dc26932ce3c",
+    "bytes": 639832
+  }
+]

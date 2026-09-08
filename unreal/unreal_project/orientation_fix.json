@@ -1,0 +1,5 @@
+{
+  "status": "corrected",
+  "reason": "Use explicit keyword arguments for Python Rotator construction; positional order differs from C++ FRotator",
+  "maps_fixed": 12
+}

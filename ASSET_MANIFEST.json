@@ -1,24 +1,24 @@
 {
-  "revision": 15,
+  "revision": 18,
   "description": "Current deliverables only; raw experiments, older scene revisions and superseded walkthrough/H3 output excluded.",
   "assets": [
     {
       "path": "scene/Campus_Center_Current.blend",
-      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v15\\Campus_Center_Current.blend",
-      "bytes": 13573554,
-      "sha256": "b0d1081a8301b2eb0af422121632a1ae8aba608188fb34fa7a1c5e2a2e5595b1"
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v18\\Campus_Center_Textured.blend",
+      "bytes": 23446250,
+      "sha256": "df9a8c1c453a1e4b2885c9e017a2bee4bbd4b811b1078172fa146e161ec09308"
     },
     {
       "path": "scene/Campus_Center_Current.glb",
-      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v15\\Campus_Center_Current.glb",
-      "bytes": 31018288,
-      "sha256": "046166a5042fb0e7733fb8c2f9503cf087d7107b9c5d91a096b5d984c1c715bc"
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v18\\Campus_Center_Textured.glb",
+      "bytes": 41313452,
+      "sha256": "9549eb5ac0a57429af89d1444bd1713a0f1d7c0dc6dc9b0183d203b0e1d40d80"
     },
     {
       "path": "scene/walkthrough_route.json",
-      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v14\\walkthrough_route.json",
-      "bytes": 1837620,
-      "sha256": "bcac3150182afede4fc5381f4713ca4ab0998863a8641572fe8806620f1cbe99"
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v18\\walkthrough_route.json",
+      "bytes": 1566991,
+      "sha256": "011fedd1b3d948dd3299cd9b8c7adc513708a51a87e4668659bba3bc7166c0e4"
     },
     {
       "path": "scene/final_scene_validation.json",
@@ -28,9 +28,9 @@
     },
     {
       "path": "scene/reopen_validation.json",
-      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v15\\reopen_validation.json",
-      "bytes": 754,
-      "sha256": "2a8a8a45af4a506b278bffc03fa297b964f46243f66cc47e8f8c0921d18c32fe"
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v18\\reopen_validation.json",
+      "bytes": 675,
+      "sha256": "2bda41f1b27824da041a1d111fee5ca2ec36a82d40e6db5d0f97b9eff4b65c06"
     },
     {
       "path": "scene/route_collision_review.json",
@@ -712,51 +712,51 @@
     },
     {
       "path": "scene/review/AV_lowered.png",
-      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v15\\review\\AV_lowered.png",
-      "bytes": 531091,
-      "sha256": "6e659c6f06d1acd1aca603949f941d1ad69060f9cea06ab3d38b871abf2297f4"
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v16\\review\\AV_lowered.png",
+      "bytes": 668074,
+      "sha256": "15fb5e906c3cbaaf20fa4088ba5cbf6a87d57b99b170d26e571f2750fe905500"
     },
     {
       "path": "scene/review/Cafe.png",
-      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v15\\review\\Cafe.png",
-      "bytes": 637967,
-      "sha256": "ec3f45dfdd5e680324013bfa751bf3dbd76114355ac2345da34bb40f557d06e9"
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v16\\review\\Cafe.png",
+      "bytes": 830283,
+      "sha256": "589e46ed608d00a479e8a6836a7d4a21022b2a6d7a268c8c185508149a0fb03b"
     },
     {
       "path": "scene/review/Commons.png",
-      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v15\\review\\Commons.png",
-      "bytes": 665112,
-      "sha256": "44e7dd84962e8e3676442f52a1f3ae6e448c2a682860f8df879baab6fab4b9ae"
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v16\\review\\Commons.png",
+      "bytes": 822197,
+      "sha256": "c5254a8a35dd7eb0a2a513b12fc2c0638d3db4d128f5727bc0253ecdef1db88b"
     },
     {
       "path": "scene/review/Filler_lab.png",
-      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v15\\review\\Filler_lab.png",
-      "bytes": 529868,
-      "sha256": "1636b42bbd6c34a01a9792c2ef2c57b17b1724e0435c34e193d930b72c263bba"
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v16\\review\\Filler_lab.png",
+      "bytes": 688134,
+      "sha256": "e80dc2ec09c614763a40e1b3083b37a0c7e47be7936ffd548edb763f0b07d5a6"
     },
     {
       "path": "scene/review/Filler_lockers.png",
-      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v15\\review\\Filler_lockers.png",
-      "bytes": 552840,
-      "sha256": "5fb9a429328697d4726836392f176cd73df45424570eb9ef9ba3f1f00711743c"
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v16\\review\\Filler_lockers.png",
+      "bytes": 710555,
+      "sha256": "c5ffc31e016de02ca42b88b58dea3d2c6ba142a624cbab9c6710533a0e1dca4f"
     },
     {
       "path": "scene/review/Lockers.png",
-      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v15\\review\\Lockers.png",
-      "bytes": 604936,
-      "sha256": "4e011d552f25dc3d766ca4f6f1e2f42331cf7cbb9b223b4d8d01e0984bdba823"
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v16\\review\\Lockers.png",
+      "bytes": 774700,
+      "sha256": "15e49e2f8052675f7be30b1b91182a991c395aec45cf913263104d59f56f7fdc"
     },
     {
       "path": "scene/review/Mens_toilet.png",
-      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v15\\review\\Mens_toilet.png",
-      "bytes": 521918,
-      "sha256": "f95b91f95434cfe07f9dbbe3560b12916bf8f279ac777a450b4552985e7fc4a9"
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v16\\review\\Mens_toilet.png",
+      "bytes": 672552,
+      "sha256": "e36d4c8121c833f53e2c25446d1318781e119b5c6b51859fcda4af0d7f04dc7d"
     },
     {
       "path": "scene/review/Showers.png",
-      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v15\\review\\Showers.png",
-      "bytes": 515883,
-      "sha256": "82494568f1f32d29864677ef92c6607808af108e60aa6fc1e6f8da1053ccc7ed"
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v16\\review\\Showers.png",
+      "bytes": 659842,
+      "sha256": "ca4488f4f9a200afaf248827bf780144e5a7941ac18149f60d73017cfd86cb33"
     },
     {
       "path": "references/plans/MEP_Progress_2025-08-20.pdf",
@@ -772,9 +772,231 @@
     },
     {
       "path": "README.md",
-      "source": "Current repository index updated for revision 15",
-      "bytes": 5380,
-      "sha256": "fb44d543ecaa12289e42d561df431b8cee81adebb04294e847cf19371066fb68"
+      "source": "Added 20-second preview link",
+      "bytes": 6435,
+      "sha256": "41eda0363160025d3479dadb309bcf899c0af047264b4f895cf115551020bda4"
+    },
+    {
+      "path": "scene/student_revision.json",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v16\\student_revision.json",
+      "bytes": 48310,
+      "sha256": "5eea56b43ec05a26fffcb8b80f2dea05241a19366b184a6b8ded369d79fe10c1"
+    },
+    {
+      "path": "scene/mannequins/Mannequin_Pose_Library.blend",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v16\\Mannequin_Pose_Library.blend",
+      "bytes": 2491607,
+      "sha256": "3d82c135f20f842e67861b9be9bd2149a9640d5c23687b1a700409bc7e7b2cf0"
+    },
+    {
+      "path": "scene/mannequins/pose_library.json",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v16\\pose_library.json",
+      "bytes": 50278,
+      "sha256": "7d9c7d902f94abf2656619a73f57072c95da30c347fb6222d9e172d2b616d0c0"
+    },
+    {
+      "path": "scene/mannequins/pose_library_preview.png",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v16\\pose_library_preview.png",
+      "bytes": 1143917,
+      "sha256": "24ef00eabfe042a1a1a4dce8d35c691c1ffef16cc48409c398a8a92d4523a223"
+    },
+    {
+      "path": "scene/mannequins/source/mannequin_library_v16.py",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\mannequin_library_v16.py",
+      "bytes": 5628,
+      "sha256": "98af9132d7d9be9cd3e20ead402ac62e392088989afedfb1973d473318b7186b"
+    },
+    {
+      "path": "scene/mannequins/source/build_mannequin_library_v16.py",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\build_mannequin_library_v16.py",
+      "bytes": 2424,
+      "sha256": "82f4e72e00f36035040296e1cad073e8b032abc64a6bac08c446a46142eaac83"
+    },
+    {
+      "path": "scene/review/Commons_seating.png",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v16\\review\\Commons_seating.png",
+      "bytes": 745340,
+      "sha256": "820ae3eb0c169399cfdf010cce28ce5c378348c817670cf2b444dd8536669b89"
+    },
+    {
+      "path": "scene/review/iLab_students.png",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v16\\review\\iLab_students.png",
+      "bytes": 759537,
+      "sha256": "1cae32be9d6b8ac8921505ed3cabee3dfd99e3a5c48962b7f63f9f8c65a81ff1"
+    },
+    {
+      "path": "scene/review/Upper_classroom.png",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v16\\review\\Upper_meeting.png",
+      "bytes": 737804,
+      "sha256": "36a446a5cbcf66968d5a2df5f7457d58ccdcfca29136580297900382a03ce0b8"
+    },
+    {
+      "path": "scene/mannequins/README.md",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v16\\MANNEQUINS.md",
+      "bytes": 2688,
+      "sha256": "7d14b80201d9918aa5f51602738bb54554306aac700419bac59e8763ef38f399"
+    },
+    {
+      "path": "scene/changes.json",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v18\\changes.json",
+      "bytes": 4305,
+      "sha256": "12be51f3696ac34f1b3058adb4ef27556bf4edef238c6e90023b065970fcf9f5"
+    },
+    {
+      "path": "scene/route_collisions.json",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v18\\route_collisions.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "scene/render_contract.json",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v18\\render_contract.json",
+      "bytes": 532,
+      "sha256": "b363a86494a2ebaf4a004f4fef10eb43e0095e77301708e6e43a5b218487e93d"
+    },
+    {
+      "path": "scene/route_preview_contract.json",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v18\\route_preview_contract.json",
+      "bytes": 409,
+      "sha256": "524bd322eafc1675678c7171772fa5a5834d40938d1fc28343d841bd6180d124"
+    },
+    {
+      "path": "scene/review_v18/Bathroom.png",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v18\\preview\\Bathroom.png",
+      "bytes": 255993,
+      "sha256": "a0c3afa3e2d261def0372ef6a96d1b841a8b8bb9506eb2d5cf643911b5f282dd"
+    },
+    {
+      "path": "scene/review_v18/Commons.png",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v18\\preview\\Commons.png",
+      "bytes": 354781,
+      "sha256": "e15e3b0fe9a6692e37178e992f9a4376a86dc6155a35d05e25ed5bdfe61ba37b"
+    },
+    {
+      "path": "scene/review_v18/Fitness.png",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v18\\preview\\Fitness.png",
+      "bytes": 281087,
+      "sha256": "9375662e4ce2ed61fafc957442cbefb419c216729cc06f751249d186178c1c40"
+    },
+    {
+      "path": "scene/review_v18/iLab.png",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v18\\preview\\iLab.png",
+      "bytes": 306859,
+      "sha256": "826583e65b9cd57bdebfc58e6dbdf2c54378bd6756cdb3812b4e1229f381d381"
+    },
+    {
+      "path": "scene/review_v18/Lockers.png",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v18\\preview\\Lockers.png",
+      "bytes": 272568,
+      "sha256": "f91e5b2e527c61b025b22a7587e67e7510f09a4e372d62186653c4dcdea6a056"
+    },
+    {
+      "path": "scene/review_v18/Upper_corridor.png",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v18\\preview\\Upper_corridor.png",
+      "bytes": 309771,
+      "sha256": "9aea3c0a014462a771384ab8a64a7f5e4196682d9811a16e461fd63746f55eb3"
+    },
+    {
+      "path": "scene/review_v18/route/Locker_aisle.png",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v18\\route_preview\\Locker_aisle.png",
+      "bytes": 507201,
+      "sha256": "531855310ab865337f1a21f041bde81a0b6c30d019e723a169fbadfd6076e36b"
+    },
+    {
+      "path": "scene/review_v18/route/Student_bathroom.png",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v18\\route_preview\\Student_bathroom.png",
+      "bytes": 528299,
+      "sha256": "1f4ee9c464885fe0564a3182b3008d5ed38e909ed56428a9ffc20dfe28b2a4a9"
+    },
+    {
+      "path": "scene/review_v18/route/Fitness_room.png",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v18\\route_preview\\Fitness_room.png",
+      "bytes": 631650,
+      "sha256": "b90787d2e8975f127d6ed0003d7e801c4828b7ab100d394b8e03154e90ce0de0"
+    },
+    {
+      "path": "scene/review_v18/repairs/Athletics.png",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v18\\repair_review\\Athletics.png",
+      "bytes": 552441,
+      "sha256": "91ab7d113b5363e422eecb431cbaaca44962d141c8b1caddab1d2ad34a9b2626"
+    },
+    {
+      "path": "scene/review_v18/repairs/Commons.png",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v18\\repair_review\\Commons.png",
+      "bytes": 598575,
+      "sha256": "cbd4e5438ad1bff05c67d5d39f6a313149953c42d1809b23be2903ee86274ab7"
+    },
+    {
+      "path": "scene/review_v18/repairs/Laundry.png",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v18\\repair_review\\Laundry.png",
+      "bytes": 516565,
+      "sha256": "8970d762590261d9d798239be2bfe866e9829728d217df0dd9d16dc276f0c813"
+    },
+    {
+      "path": "scene/review_v18/repairs/Lockers.png",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v18\\repair_review\\Lockers.png",
+      "bytes": 533951,
+      "sha256": "8fbd2daeb7b337d43225e03791bdb4198e3c05cbb2c79ff0cd1aa344ca4fe30d"
+    },
+    {
+      "path": "tools/revision18/build_revision_v18.py",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\build_revision_v18.py",
+      "bytes": 5782,
+      "sha256": "2966f38abc7cd3ea91bf5140ec3c8f411e7749fba8bf35c0405d98e6668e2d4f"
+    },
+    {
+      "path": "tools/revision18/polish_revision_v18.py",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\polish_revision_v18.py",
+      "bytes": 1797,
+      "sha256": "6a8b73f6c879ba157aae228e5681f3c68519c0aae70afd5caa4a584ca47662d3"
+    },
+    {
+      "path": "tools/revision18/route_revision_v18.py",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\route_revision_v18.py",
+      "bytes": 5100,
+      "sha256": "f953431dd4577b5cc096d1a1502ab102565df91289395e48717eb9c78df1338a"
+    },
+    {
+      "path": "tools/revision18/validate_revision_v18.py",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\validate_revision_v18.py",
+      "bytes": 5434,
+      "sha256": "f69ebc5fac3fc943e59600d319223a3c8c7753b88859895f6a1dd8c67f95f28d"
+    },
+    {
+      "path": "tools/revision18/export_revision_v18.py",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\export_revision_v18.py",
+      "bytes": 1756,
+      "sha256": "a71f7d4917d89884d9e94172aee8f4a418d84344769279151e2609acbe06219e"
+    },
+    {
+      "path": "scene/REVISION18.md",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v18\\REVISION18.md",
+      "bytes": 2511,
+      "sha256": "64a069730f255b23ef1b63f8c921cd2eb7cdcc9007028f7408b8e554620538ab"
+    },
+    {
+      "path": "scene/walkthrough_20s/Campus_Center_20s_Walkthrough.mp4",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\walkthrough_v19_20s\\Campus_Center_20s_Walkthrough.mp4",
+      "bytes": 1634987,
+      "sha256": "38b854a94f5c8f2c8184bd83e6a613d37285a117b07dfa5b3e3d5774b25c65ac"
+    },
+    {
+      "path": "scene/walkthrough_20s/contact_sheet.jpg",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\walkthrough_v19_20s\\contact_sheet.jpg",
+      "bytes": 109199,
+      "sha256": "ee3fd226c0d546fa789f9caf87c4a1734c85a59d48fec384760149448b117ae8"
+    },
+    {
+      "path": "scene/walkthrough_20s/render_contract.json",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\walkthrough_v19_20s\\render_contract.json",
+      "bytes": 3560,
+      "sha256": "e1fc3961eccb17013d1109d8dbdc42c45f3100a3d01ccd9b73f10ed8faa8e77e"
+    },
+    {
+      "path": "scene/walkthrough_20s/video_validation.json",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\walkthrough_v19_20s\\video_validation.json",
+      "bytes": 559,
+      "sha256": "eaedee95d86d158619b8e0ec0e01c658c779f4efffe4730bb4aff31c74346a86"
     }
   ]
 }

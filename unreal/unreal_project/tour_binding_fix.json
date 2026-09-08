@@ -1,0 +1,1 @@
+{"binding": "<Struct 'Guid' (0x000002E212A67B80) {}>", "camera": "/Game/Campus/Maps/Campus_GuidedTour.Campus_GuidedTour:PersistentLevel.CameraActor_9", "reason": "Bind cloned tour map camera explicitly instead of resolving the source-map actor path"}

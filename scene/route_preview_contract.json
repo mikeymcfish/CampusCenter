@@ -1,0 +1,23 @@
+{
+  "source_sha256": "9e5317014f72783b17716961472eb1f0ae47a9906ce9e1cb4a2c5419301d60f4",
+  "frames": [
+    {
+      "label": "Locker aisle",
+      "frame": 3372
+    },
+    {
+      "label": "Student bathroom",
+      "frame": 4698
+    },
+    {
+      "label": "Fitness room",
+      "frame": 6685
+    }
+  ],
+  "engine": "Cycles CUDA",
+  "samples": 24,
+  "resolution": [
+    960,
+    640
+  ]
+}

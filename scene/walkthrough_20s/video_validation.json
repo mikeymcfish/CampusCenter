@@ -1,0 +1,24 @@
+{
+  "video": "Campus_Center_20s_Walkthrough.mp4",
+  "source_unchanged": true,
+  "sha256": "38b854a94f5c8f2c8184bd83e6a613d37285a117b07dfa5b3e3d5774b25c65ac",
+  "pngs_verified": 240,
+  "decode_errors": 0,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "width": 480,
+        "height": 270,
+        "r_frame_rate": "12/1",
+        "duration": "20.000000",
+        "nb_read_frames": "240"
+      }
+    ],
+    "format": {
+      "duration": "20.000000"
+    }
+  },
+  "continuous_source_order": true
+}
