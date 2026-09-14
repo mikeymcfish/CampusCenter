@@ -1,0 +1,17 @@
+{
+  "asset": "Campus_Center_Projection_Promo_v01.png",
+  "type": "AI-generated promotional concept photograph",
+  "tool": "Built-in ImageGen",
+  "reference_images": [
+    "../Information_On_Model_01.png",
+    "../Furnished_Print_Preview.png"
+  ],
+  "prompt": "Prompt_v01.txt",
+  "dimensions_px": [
+    1672,
+    941
+  ],
+  "image_sha256": "191edfa0fe337f21079f8e794e63a542916d6a75b3ce00be23db19361618bd47",
+  "source_generated_image": "C:\\Users\\mikef\\.codex\\generated_images\\01a076a2-2c14-7603-9e9e-a781aa7bdba7\\exec-e59d5546-c583-4e05-a1c3-7d9af4e32aa3.png",
+  "model_files_modified": false
+}

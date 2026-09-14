@@ -1,0 +1,14 @@
+{
+  "asset": "Campus_Center_Projection_Promo_v02.png",
+  "type": "AI-generated promotional concept photograph",
+  "tool": "Built-in ImageGen",
+  "edit_source": "Campus_Center_Projection_Promo_v01.png",
+  "prompt": "Prompt_v02.txt",
+  "revision": "Model flat on the horizontal table; all five people looking down; higher camera angle",
+  "dimensions_px": [
+    1672,
+    941
+  ],
+  "sha256": "59f6d006cc1f96dbc45bf096af6730a3c1191302811078d8698bdc7165863c0f",
+  "model_files_modified": false
+}
