@@ -1,0 +1,405 @@
+{
+  "status": "verified",
+  "created": "2026-09-14",
+  "files": [
+    {
+      "file": "README.md",
+      "bytes": 10419,
+      "sha256": "5666e1b16082d8e1f3f94b2593bf22366ae898c25b86fcdf8e12772f60cdf90c",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\README.md"
+    },
+    {
+      "file": "Campus_Center_Ground_Furnished_1_87p5.stl",
+      "bytes": 1355984,
+      "sha256": "11f355746ae6515ea36037e61366d81f7f6e46f449a40da756002588211a4777",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\Campus_Center_Ground_Furnished_1_87p5.stl"
+    },
+    {
+      "file": "Campus_Center_Ground_Furnished_1_87p5.step",
+      "bytes": 33612295,
+      "sha256": "0abcfe6b48ed5e708e648e5082038b17c7a91e7eb83bf80fe1fe039e016d36a5",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\Campus_Center_Ground_Furnished_1_87p5.step"
+    },
+    {
+      "file": "Campus_Center_Furnished_Assembly.3mf",
+      "bytes": 240074,
+      "sha256": "e6000739ae780c79d594f798fe47a673876d9746803adff8a69d1cda2225109a",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\Campus_Center_Furnished_Assembly.3mf"
+    },
+    {
+      "file": "Campus_Center_Furnished_Print.blend",
+      "bytes": 660527,
+      "sha256": "9676310c2da77b51688a52fb9ca367ba153c4764d25bb21d7c0413ce62b9daf6",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\Campus_Center_Furnished_Print.blend"
+    },
+    {
+      "file": "Campus_Center_Projection_Receiver.blend",
+      "bytes": 663932,
+      "sha256": "e6bb77d6a8773d559e205eccee9c9b64dcec4279938d671b4adb754b8e29ca4e",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\Campus_Center_Projection_Receiver.blend"
+    },
+    {
+      "file": "Campus_Center_Information_Preview.blend",
+      "bytes": 869420,
+      "sha256": "305ee8d2b677dbeb1444348b31dd783c8b723233016b3f6739207c8bb93edde5",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\Campus_Center_Information_Preview.blend"
+    },
+    {
+      "file": "Furnished_Print_Preview.png",
+      "bytes": 587540,
+      "sha256": "b0121733e59787cde9e0b788f6713f25c1ef155d478c552cb3622e55620cc6c2",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\Furnished_Print_Preview.png"
+    },
+    {
+      "file": "Furnished_Print_Top.png",
+      "bytes": 1031744,
+      "sha256": "d0a78699fefc18092c953a61c8b898f47b6275966902b204bf93518c45d9d162",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\Furnished_Print_Top.png"
+    },
+    {
+      "file": "Furnished_Detail_Preview.png",
+      "bytes": 757151,
+      "sha256": "a820414de1820f697bb291db73faaa2303c476797e3e9f61bc2aa54f8c00aa77",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\Furnished_Detail_Preview.png"
+    },
+    {
+      "file": "Information_On_Model_01.png",
+      "bytes": 869820,
+      "sha256": "72118fe1a0078997b420eba5c1f1c60ed2443cf338cc5b7349c6d1b2698f6372",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\Information_On_Model_01.png"
+    },
+    {
+      "file": "Information_On_Model_03.png",
+      "bytes": 755627,
+      "sha256": "6d0564a9312efccb6e552460bfd5e1d4a114e0bc11e6c8a8b3d47abbac97971b",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\Information_On_Model_03.png"
+    },
+    {
+      "file": "Assembly_Map.png",
+      "bytes": 55499,
+      "sha256": "3eff159cdc72363b9ae1a664b21549716bb39f894e3b2150729af4045fe6cae4",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\Assembly_Map.png"
+    },
+    {
+      "file": "floor_mask.png",
+      "bytes": 59052,
+      "sha256": "d0c4d79f701ae4b881532c4b1cf4b685b52f6c699715dd22236a0ece4e47c4e3",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\floor_mask.png"
+    },
+    {
+      "file": "furniture_mask.png",
+      "bytes": 56735,
+      "sha256": "53e51cc8e40576d25fec8f461723f377ed88e12bd041b16943e6a924a7b6cbb3",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\furniture_mask.png"
+    },
+    {
+      "file": "receiver_mask.png",
+      "bytes": 51795,
+      "sha256": "c32fe1de4b865387f860fa46b01cbb4350aad2a6f9a6f412a52c159bfaf01e51",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\receiver_mask.png"
+    },
+    {
+      "file": "print_validation.json",
+      "bytes": 4934,
+      "sha256": "fe940c1755b484adc7ad478d29d9e7e0f68423df23c55bc8aea84ff5ef41a5a0",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\print_validation.json"
+    },
+    {
+      "file": "cad_validation.json",
+      "bytes": 465,
+      "sha256": "fa7829a03e3f52735aa3c2580f45377da7d1099f4298f8051ce525b64cb5946e",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\cad_validation.json"
+    },
+    {
+      "file": "delivery_validation.json",
+      "bytes": 5952,
+      "sha256": "3ccc463a656520c2043ad3ec4a97400a0ea505758df72b0ef36750a68903f864",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\delivery_validation.json"
+    },
+    {
+      "file": "receiver_contract.json",
+      "bytes": 368,
+      "sha256": "f113dee66b67bca02ad1be50f910dff2351db93da2eb5cbea41beeccc42df757",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\receiver_contract.json"
+    },
+    {
+      "file": "furniture_source.json",
+      "bytes": 366518,
+      "sha256": "75d2ab878dabe5851996e50f283a21b3e8bfd4e6a7298b2ac2eda8dd99fa7394",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\furniture_source.json"
+    },
+    {
+      "file": "print_height_data.npz",
+      "bytes": 57967,
+      "sha256": "80784269ba81581ad30862adab0c9a48b5bf4043c23843b4cfa01816bb3fd1ac",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\print_height_data.npz"
+    },
+    {
+      "file": "cad_mesh.npz",
+      "bytes": 173206,
+      "sha256": "1cd46f8866d9e27e1c4042ae72ee3454cf654706b3d4df72455f1a49d5a4eaf6",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\cad_mesh.npz"
+    },
+    {
+      "file": "build_information.py",
+      "bytes": 12846,
+      "sha256": "ef28fea21414cefd734d8ace896b5277ba8a0dd772febd7ab61a24a1404419b7",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\build_information.py"
+    },
+    {
+      "file": "serve_player.py",
+      "bytes": 1985,
+      "sha256": "2ccfeea640ae7f898fad530cf44c7cf94f39b4677248810f28d6b3852e956fc0",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\serve_player.py"
+    },
+    {
+      "file": "browser_validation.json",
+      "bytes": 860,
+      "sha256": "069bc1d7b36961228db84ec6819a74d7cf6256d8ca3496b005a7a4d64016c4b6",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\browser_validation.json"
+    },
+    {
+      "file": "print_tiles/Furnished_A1.3mf",
+      "bytes": 32275,
+      "sha256": "8588526dfc66341e04d2fd0f41e1618b7f1c431ddaa09043c44b44cb01ac1d19",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\print_tiles\\Furnished_A1.3mf"
+    },
+    {
+      "file": "print_tiles/Furnished_A1.stl",
+      "bytes": 178884,
+      "sha256": "12b78848347510489be0aaa3de097eccc1fe37fa40d508171ca6122262993bc9",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\print_tiles\\Furnished_A1.stl"
+    },
+    {
+      "file": "print_tiles/Furnished_A2.3mf",
+      "bytes": 37594,
+      "sha256": "394c53c09dc4e328bf82ab37347f19c30016679aab29091fd98452305ccde814",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\print_tiles\\Furnished_A2.3mf"
+    },
+    {
+      "file": "print_tiles/Furnished_A2.stl",
+      "bytes": 210484,
+      "sha256": "28ef0261fc40e49f47da83e3180326a4231035040ebd3f779bb7023f45123ee3",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\print_tiles\\Furnished_A2.stl"
+    },
+    {
+      "file": "print_tiles/Furnished_A3.3mf",
+      "bytes": 83993,
+      "sha256": "99ff14546ca7b75c996ff772915f365ad0f7592af1a59430752def29ecb4e31c",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\print_tiles\\Furnished_A3.3mf"
+    },
+    {
+      "file": "print_tiles/Furnished_A3.stl",
+      "bytes": 486684,
+      "sha256": "0753c2ca24b81697efd579af359b87293229ced2950fa12ec74011dc7ac3ef90",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\print_tiles\\Furnished_A3.stl"
+    },
+    {
+      "file": "print_tiles/Furnished_B1.3mf",
+      "bytes": 38870,
+      "sha256": "21a54b115e82af8c66fb3598bd4066890fe15644bea6f59e700dec1dbc36b160",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\print_tiles\\Furnished_B1.3mf"
+    },
+    {
+      "file": "print_tiles/Furnished_B1.stl",
+      "bytes": 218084,
+      "sha256": "82e85963c26571885d12d7ef4781bb9dcdc5d7fde92151f723c63dbac493a8f5",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\print_tiles\\Furnished_B1.stl"
+    },
+    {
+      "file": "print_tiles/Furnished_B2.3mf",
+      "bytes": 2341,
+      "sha256": "373d2ae1f98d9688fd42cfc483812d7d968ea31c28bebd122c27583efffd1116",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\print_tiles\\Furnished_B2.3mf"
+    },
+    {
+      "file": "print_tiles/Furnished_B2.stl",
+      "bytes": 8484,
+      "sha256": "977d4709699965e1b5cafdbf118753ee4cf9ce3b10b86b677a965f969b96c339",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\print_tiles\\Furnished_B2.stl"
+    },
+    {
+      "file": "print_tiles/Furnished_B3.3mf",
+      "bytes": 49528,
+      "sha256": "0beae95ae48c39e03c0be757ea1f7283520f4fa651bf9691ce68684d3f0d3372",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\print_tiles\\Furnished_B3.3mf"
+    },
+    {
+      "file": "print_tiles/Furnished_B3.stl",
+      "bytes": 281984,
+      "sha256": "5a198ea93e2e9d503cab288e8bdd23eebe737781f442f5780aa5571a000797d8",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\print_tiles\\Furnished_B3.stl"
+    },
+    {
+      "file": "information/Calibration_25mm.png",
+      "bytes": 18319,
+      "sha256": "2ae4deb5c9cda862f70424f6b3edbb9c734d320ee7b39b4b78050eb8a1c3af9b",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\information\\Calibration_25mm.png"
+    },
+    {
+      "file": "information/Campus_Center_Information_1024x786_RGB.mp4",
+      "bytes": 10203166,
+      "sha256": "4863dba441cda9b381a942d3661dd2cfe6d1c586064db1a08ede32c4f772e83e",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\information\\Campus_Center_Information_1024x786_RGB.mp4"
+    },
+    {
+      "file": "information/Campus_Center_Information_Master_RGB.mp4",
+      "bytes": 14649283,
+      "sha256": "14a73fe11a17608062af4c8abc7538caad5e1f549b957de28db44db3421b8f02",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\information\\Campus_Center_Information_Master_RGB.mp4"
+    },
+    {
+      "file": "information/Campus_Center_Information_Preview.mp4",
+      "bytes": 1814050,
+      "sha256": "fd7a78d76697a3f7ddeae985a50a01afb2e11b06783faeb665e10e720aeb80a3",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\information\\Campus_Center_Information_Preview.mp4"
+    },
+    {
+      "file": "information/Chapter_01.png",
+      "bytes": 60488,
+      "sha256": "18480576a063d9ebc7cb0255505830497667e7f0692c2d885082038954aaf993",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\information\\Chapter_01.png"
+    },
+    {
+      "file": "information/Chapter_02.png",
+      "bytes": 52976,
+      "sha256": "7132e01d20aa9f9d536c254691f5b8965885126141073e5a8250dc43b26a2d37",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\information\\Chapter_02.png"
+    },
+    {
+      "file": "information/Chapter_03.png",
+      "bytes": 49918,
+      "sha256": "6f2ff5b327e32cc9105d2e5181d65c6eac6398a629d0eeb4614d12c73efb766e",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\information\\Chapter_03.png"
+    },
+    {
+      "file": "information/Chapter_04.png",
+      "bytes": 53844,
+      "sha256": "aeb1e59b31ae71eabacf336b23ddb3ca2f9d911dcbc59ed96a9f5748395e4a9f",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\information\\Chapter_04.png"
+    },
+    {
+      "file": "information/Chapter_05.png",
+      "bytes": 52345,
+      "sha256": "fa3d20a2c0224d18e966d89134e7379cd07d57ea4647c1b150d6c644d8cdb20b",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\information\\Chapter_05.png"
+    },
+    {
+      "file": "information/Chapter_06.png",
+      "bytes": 61238,
+      "sha256": "b12b7b8897d34111733d787fde592e0b74d7511f02715fa3dfd28d1558b72e28",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\information\\Chapter_06.png"
+    },
+    {
+      "file": "information/Furniture_Only.png",
+      "bytes": 25048,
+      "sha256": "872a712db79858e2eabb4188fd37048c5ad616387393698e6cb2ad5e46567537",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\information\\Furniture_Only.png"
+    },
+    {
+      "file": "information/index.html",
+      "bytes": 6274,
+      "sha256": "12e7c7144f392a2963bcb5ef151d32db78ac27416b374d584f02ebd08924670e",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\information\\index.html"
+    },
+    {
+      "file": "information/Information_Overview.png",
+      "bytes": 60488,
+      "sha256": "18480576a063d9ebc7cb0255505830497667e7f0692c2d885082038954aaf993",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\information\\Information_Overview.png"
+    },
+    {
+      "file": "information/Native_Validity.png",
+      "bytes": 3802,
+      "sha256": "0f7e95872b420b401cae6ab89b2ef7d1c58ee6b01d42c9ee9eb155908547c9e4",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\information\\Native_Validity.png"
+    },
+    {
+      "file": "information/Projection_Validity.png",
+      "bytes": 8996,
+      "sha256": "a9c453ea2aec93966c230e076da8c632eaffe10bc3d9558a8c9ad9a0c99a52a1",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\information\\Projection_Validity.png"
+    },
+    {
+      "file": "information/render_hashes.json",
+      "bytes": 147211,
+      "sha256": "ed6350bd567ba4b966494d2909570d2d2b2aed9d446062ab78036283c9424a7e",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\information\\render_hashes.json"
+    },
+    {
+      "file": "information/show_plan.json",
+      "bytes": 158719,
+      "sha256": "66ee103ca61a0805b92778c9ac3c148ec9bb13d7156b09955b87f1465d876dc6",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\information\\show_plan.json"
+    },
+    {
+      "file": "source_scripts/extract_furniture.py",
+      "bytes": 2909,
+      "sha256": "dc3d7d3a9e879da559c765a8cd37f51b42ebfc126a451a61b5385193ca70bb20",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\extract_furniture.py"
+    },
+    {
+      "file": "source_scripts/build_print.py",
+      "bytes": 7791,
+      "sha256": "83dc5ad29e1951f55e2135e8c1fea49772b81f30b3a2c64f46e7b5f6c49f4d68",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\build_print.py"
+    },
+    {
+      "file": "source_scripts/retile.py",
+      "bytes": 2200,
+      "sha256": "6dfba1df31de00e9dee2c557afc6c0f4be9f04ab0585e04070e5446ab524f564",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\retile.py"
+    },
+    {
+      "file": "source_scripts/export_cad.py",
+      "bytes": 2763,
+      "sha256": "d64f45dbd8fce24c64ee89f6839f53b049662c21956ec9104a2bcff5cbe77605",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\export_cad.py"
+    },
+    {
+      "file": "source_scripts/render_print.py",
+      "bytes": 4765,
+      "sha256": "a502e07a44ea43c4fe8edc5502ae977ab6bc6d33c281b58a768298627e8cba04",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\render_print.py"
+    },
+    {
+      "file": "source_scripts/render_presentation.py",
+      "bytes": 3236,
+      "sha256": "4c1688c08c30594ad407fa47d95e47146a73ad3d5da114ae14a1bfadd457c0c2",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\render_presentation.py"
+    },
+    {
+      "file": "source_scripts/validate_delivery.py",
+      "bytes": 5214,
+      "sha256": "396eca9eb4d4f914dbddb68a972a051d3622154c0bce911eff41d5bbb5860979",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\validate_delivery.py"
+    },
+    {
+      "file": "source_scripts/create_assembly_map.py",
+      "bytes": 1914,
+      "sha256": "962fc0bb8e98a4d849544e3bf5016fea9f611d20b4a2e1e81ed444d39ee87507",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\create_assembly_map.py"
+    },
+    {
+      "file": "source_scripts/package_delivery.py",
+      "bytes": 6052,
+      "sha256": "99574a375e83a9b14470358b9cc05eeb9558cb71e3e86b1d2e6dedcbdb8432a5",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\package_delivery.py"
+    },
+    {
+      "file": "README_Print.md",
+      "bytes": 4317,
+      "sha256": "3ecebea723e1baefc0db255dd5f2dfb4d324bb4b1c1c1d07c0158ce6411ea258",
+      "source": "Generated delivery package"
+    },
+    {
+      "file": "Campus_Center_Furnished_Print_Package.zip",
+      "bytes": 8028995,
+      "sha256": "7495a5db0b7ce3db2bfa0409e70711d83dba1e84cd00e470cba7ebacfdb76f33",
+      "source": "Generated delivery package"
+    }
+  ],
+  "print_zip_entries": 21,
+  "source_files_preserved": true,
+  "scope": "Ground-floor furnished print, informational projection and matched masks"
+}

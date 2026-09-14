@@ -1,0 +1,299 @@
+{
+  "status": "passed",
+  "meshes": [
+    {
+      "file": "Campus_Center_Ground_Furnished_1_87p5.stl",
+      "watertight": true,
+      "consistent_winding": true,
+      "components": 1,
+      "elevated_downward_faces": 0,
+      "bounds_mm": [
+        [
+          13.0,
+          8.0,
+          0.0
+        ],
+        [
+          756.0,
+          570.0,
+          53.56800079345703
+        ]
+      ],
+      "volume_mm3": 3789375.7878551204
+    },
+    {
+      "file": "Furnished_A1.stl",
+      "watertight": true,
+      "consistent_winding": true,
+      "components": 1,
+      "elevated_downward_faces": 0,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          247.66665649414062,
+          197.0,
+          48.768001556396484
+        ]
+      ],
+      "volume_mm3": 908620.0075781333
+    },
+    {
+      "file": "Furnished_A2.stl",
+      "watertight": true,
+      "consistent_winding": true,
+      "components": 1,
+      "elevated_downward_faces": 0,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          247.66668701171875,
+          270.0,
+          48.768001556396484
+        ]
+      ],
+      "volume_mm3": 674544.6254580993
+    },
+    {
+      "file": "Furnished_A3.stl",
+      "watertight": true,
+      "consistent_winding": true,
+      "components": 1,
+      "elevated_downward_faces": 0,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          247.66665649414062,
+          281.0,
+          53.56800079345703
+        ]
+      ],
+      "volume_mm3": 614124.4083363587
+    },
+    {
+      "file": "Furnished_B1.stl",
+      "watertight": true,
+      "consistent_winding": true,
+      "components": 1,
+      "elevated_downward_faces": 0,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          247.66665649414062,
+          281.0,
+          48.768001556396484
+        ]
+      ],
+      "volume_mm3": 813357.0661437567
+    },
+    {
+      "file": "Furnished_B2.stl",
+      "watertight": true,
+      "consistent_winding": true,
+      "components": 1,
+      "elevated_downward_faces": 0,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          247.66668701171875,
+          281.0,
+          48.768001556396484
+        ]
+      ],
+      "volume_mm3": 453113.76631429116
+    },
+    {
+      "file": "Furnished_B3.stl",
+      "watertight": true,
+      "consistent_winding": true,
+      "components": 1,
+      "elevated_downward_faces": 0,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          219.66665649414062,
+          281.0,
+          53.56800079345703
+        ]
+      ],
+      "volume_mm3": 325615.9105518425
+    }
+  ],
+  "three_mf": [
+    {
+      "file": "Campus_Center_Furnished_Assembly.3mf",
+      "units": "millimeter",
+      "mesh_count": 6,
+      "STL_equivalence": true,
+      "assembly_bounds_mm": [
+        [
+          13.0,
+          8.0,
+          0.0
+        ],
+        [
+          756.0,
+          570.0,
+          53.568001
+        ]
+      ]
+    },
+    {
+      "file": "Furnished_A1.3mf",
+      "units": "millimeter",
+      "mesh_count": 1,
+      "STL_equivalence": true,
+      "assembly_bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          247.666656,
+          197.0,
+          48.768002
+        ]
+      ]
+    },
+    {
+      "file": "Furnished_A2.3mf",
+      "units": "millimeter",
+      "mesh_count": 1,
+      "STL_equivalence": true,
+      "assembly_bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          247.666687,
+          270.0,
+          48.768002
+        ]
+      ]
+    },
+    {
+      "file": "Furnished_A3.3mf",
+      "units": "millimeter",
+      "mesh_count": 1,
+      "STL_equivalence": true,
+      "assembly_bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          247.666656,
+          281.0,
+          53.568001
+        ]
+      ]
+    },
+    {
+      "file": "Furnished_B1.3mf",
+      "units": "millimeter",
+      "mesh_count": 1,
+      "STL_equivalence": true,
+      "assembly_bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          247.666656,
+          281.0,
+          48.768002
+        ]
+      ]
+    },
+    {
+      "file": "Furnished_B2.3mf",
+      "units": "millimeter",
+      "mesh_count": 1,
+      "STL_equivalence": true,
+      "assembly_bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          247.666687,
+          281.0,
+          48.768002
+        ]
+      ]
+    },
+    {
+      "file": "Furnished_B3.3mf",
+      "units": "millimeter",
+      "mesh_count": 1,
+      "STL_equivalence": true,
+      "assembly_bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          219.666656,
+          281.0,
+          53.568001
+        ]
+      ]
+    }
+  ],
+  "videos": [
+    {
+      "file": "Campus_Center_Information_Master_RGB.mp4",
+      "resolution": [
+        2048,
+        1572
+      ],
+      "frames": 1008,
+      "seconds": 42,
+      "decoded_frames_match_source_hashes": true,
+      "blackout_pixels_all_zero": true
+    },
+    {
+      "file": "Campus_Center_Information_1024x786_RGB.mp4",
+      "resolution": [
+        1024,
+        786
+      ],
+      "frames": 1008,
+      "seconds": 42,
+      "decoded_frames_match_source_hashes": true,
+      "blackout_pixels_all_zero": true
+    }
+  ],
+  "source_hashes_unchanged": true,
+  "first_last_frames_identical": true
+}

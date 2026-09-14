@@ -1,0 +1,18 @@
+{
+  "status": "passed",
+  "date": "2026-09-14",
+  "surface": "Codex in-app browser, local loopback player",
+  "tested": [
+    "Player loads with the overview poster and local video metadata",
+    "Video plays with duration 42 seconds and no media error",
+    "Innovation-lab chapter seeks to 13.8 seconds and plays",
+    "Furniture mode pauses video and displays the complete 2048-pixel image",
+    "25 mm calibration mode displays the expected local grid",
+    "Blackout hides both the video and still image",
+    "Full screen isolates the projection stage; F returns to the player controls",
+    "Overview restores the static informational overview",
+    "Browser error and warning log is empty at the final check"
+  ],
+  "video_serving": "Byte-range support in serve_player.py verified by successful chapter seeking",
+  "physical_projector_tested": false
+}

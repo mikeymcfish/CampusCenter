@@ -77,4 +77,11 @@ Latest Blender revision: [Cycles Studio v05 - student artwork, larger banners an
 
 Ground floor 4x print: [six H2D-sized tiles and assembly map](printing/ground_4x_projection_v01/README.md).
 
-Current floor-only projection: [v03 - 93 students, detailed court and furnishings, 24 fps loop and 24 reference images](printing/ground_4x_projection_v03/README.md). Black walls and exterior; static lighting.
+Previous floor-only projection: [v03 - 93 students, detailed court and furnishings, 24 fps loop and 24 reference images](printing/ground_4x_projection_v03/README.md). Black walls and exterior; static lighting.
+
+
+## Furnished ground-floor print and informational mapping
+
+Current ground-floor projection model: [v04 — furniture integrated into the support-free print](printing/ground_furnished_projection_v04/README.md). Six STL/3MF tiles, a complete furnished STEP, unchanged 1:87.5 footprint, and no extra ground plane. [Print package](printing/ground_furnished_projection_v04/Campus_Center_Furnished_Print_Package.zip).
+
+The matching [42-second informational tour](printing/ground_furnished_projection_v04/information/Campus_Center_Information_Preview.mp4) highlights commons/cafe, iLab, learning/gallery and athletics, with room captions and checked circulation routes. [Player and alignment modes](printing/ground_furnished_projection_v04/information/index.html). Wall tops and exterior pixels remain black in the RGB masters. Digital geometry and decoded-frame checks passed; physical printing and projector calibration remain to be done.
