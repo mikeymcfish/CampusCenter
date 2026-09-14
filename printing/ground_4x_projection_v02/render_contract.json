@@ -1,0 +1,23 @@
+{
+  "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_print_v01\\Campus_Center_Projection.blend",
+  "source_sha256": "162df7bf4e1b55b222ac216e50b58d9f546ad9c8e20c52752935b3ddd5dc5407",
+  "working_copy": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_print_v02\\Campus_Center_Top_Down_Projection.blend",
+  "resolution": [
+    1024,
+    786
+  ],
+  "base_count": 1,
+  "generated_frames": 24,
+  "frame_names": "frames/0001.png .. 0024.png",
+  "camera": "Orthographic, vertical downward; north is image top",
+  "engine": "Cycles CUDA",
+  "samples": 64,
+  "denoising": true,
+  "sun_lights": 0,
+  "animated_lighting": false,
+  "mask": "Exact printed floor top faces at full-scale Z=0; everything else black; one-pixel conservative inset",
+  "composite": "Immutable Blender furniture base with independently generated people artwork on top; hard floor mask last",
+  "format": "8-bit RGB PNG; black RGB 0,0,0",
+  "source_policy": "Never overwrite source; preserve existing print tiles",
+  "validation": "Visual review, source hashes, floor-mask black pixels, output count and dimensions, loop seam"
+}

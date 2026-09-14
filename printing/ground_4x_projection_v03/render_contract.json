@@ -1,0 +1,23 @@
+{
+  "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_print_v02\\Campus_Center_Top_Down_Projection.blend",
+  "source_sha256": "d58fa93314eb637a4a0eeaa6af81305ecf688491e4a9d2b328c8a36709e0c4bd",
+  "base_resolution": [
+    3072,
+    2358
+  ],
+  "output_resolution": [
+    1024,
+    786
+  ],
+  "camera": "unchanged vertical ORTHO",
+  "samples": 96,
+  "engine": "Cycles CUDA",
+  "moving_sun": false,
+  "walls": "exact existing binary mask",
+  "court": "representative fit, not a verified survey of existing gym markings",
+  "reference_images": 24,
+  "video_frames": 144,
+  "fps": 24,
+  "duration_seconds": 6,
+  "student_count": 93
+}

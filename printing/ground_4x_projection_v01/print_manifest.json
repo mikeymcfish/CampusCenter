@@ -1,0 +1,172 @@
+{
+  "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v12_roof_set\\Campus_Center_Ground_v12.stl",
+  "source_sha256": "f51309d579527ddffd2dbfe4d832b2f1a3c59c3079c1a6d3e1494bdcf1125ab4",
+  "source_bounds_mm": [
+    [
+      3.25,
+      2.0,
+      0.0
+    ],
+    [
+      189.0,
+      142.5,
+      13.392000198364258
+    ]
+  ],
+  "scale_multiplier": 4,
+  "architectural_scale": "1:87.5",
+  "assembly_bounds_mm": [
+    [
+      13.0,
+      8.0,
+      0.0
+    ],
+    [
+      756.0,
+      570.0,
+      53.56800079345703
+    ]
+  ],
+  "assembly_dimensions_mm": [
+    743.0,
+    562.0,
+    53.56800079345703
+  ],
+  "source_scaled_volume_mm3": 3471093.785072724,
+  "tiles_volume_mm3": 3471093.785072724,
+  "relative_volume_error": 0.0,
+  "tile_maximum_mm": [
+    290,
+    300,
+    315
+  ],
+  "split_x_mm": [
+    13.0,
+    260.66666666666663,
+    508.3333333333333,
+    756.0
+  ],
+  "split_y_mm": [
+    8.0,
+    289.0,
+    570.0
+  ],
+  "tiles": [
+    {
+      "name": "Ground_A1",
+      "file": "Ground_A1.stl",
+      "assembly_offset_mm": [
+        13.0,
+        92.0,
+        0.0
+      ],
+      "dimensions_mm": [
+        247.66665649414062,
+        197.0,
+        48.768001556396484
+      ],
+      "volume_mm3": 837031.9252308183,
+      "triangles": 182380,
+      "watertight": true,
+      "single_component": true,
+      "sha256": "6cb3ec3dc3e13f44a95ca7cc3d4611e0207d733eb02c9321f30fe7ef8b15380d"
+    },
+    {
+      "name": "Ground_A2",
+      "file": "Ground_A2.stl",
+      "assembly_offset_mm": [
+        260.6666564941406,
+        19.0,
+        0.0
+      ],
+      "dimensions_mm": [
+        247.66668701171875,
+        270.0,
+        48.768001556396484
+      ],
+      "volume_mm3": 610772.1762073861,
+      "triangles": 241578,
+      "watertight": true,
+      "single_component": true,
+      "sha256": "3db33366c52dbf83cc3adf370b3b9f6ed738dce2da49507ac19880185b8075a1"
+    },
+    {
+      "name": "Ground_A3",
+      "file": "Ground_A3.stl",
+      "assembly_offset_mm": [
+        508.3333435058594,
+        8.0,
+        0.0
+      ],
+      "dimensions_mm": [
+        247.66665649414062,
+        281.0,
+        53.56800079345703
+      ],
+      "volume_mm3": 560009.8443383375,
+      "triangles": 239898,
+      "watertight": true,
+      "single_component": true,
+      "sha256": "101b7d8d81711ad912430e7e647af70632399165aeeb9af61c0321f20035cee0"
+    },
+    {
+      "name": "Ground_B1",
+      "file": "Ground_B1.stl",
+      "assembly_offset_mm": [
+        13.0,
+        289.0,
+        0.0
+      ],
+      "dimensions_mm": [
+        247.66665649414062,
+        281.0,
+        48.768001556396484
+      ],
+      "volume_mm3": 732399.3665425383,
+      "triangles": 198946,
+      "watertight": true,
+      "single_component": true,
+      "sha256": "92f1c68b92dd28bf12fbf11a266b671c430d591595fb93dc35e28316eea99f3b"
+    },
+    {
+      "name": "Ground_B2",
+      "file": "Ground_B2.stl",
+      "assembly_offset_mm": [
+        260.6666564941406,
+        289.0,
+        0.0
+      ],
+      "dimensions_mm": [
+        247.66668701171875,
+        281.0,
+        48.768001556396484
+      ],
+      "volume_mm3": 437502.22842669423,
+      "triangles": 278810,
+      "watertight": true,
+      "single_component": true,
+      "sha256": "aaaea59a2f076b21ed100b54113b039f5a164fbe9659571e77ad412965cff921"
+    },
+    {
+      "name": "Ground_B3",
+      "file": "Ground_B3.stl",
+      "assembly_offset_mm": [
+        508.3333435058594,
+        289.0,
+        0.0
+      ],
+      "dimensions_mm": [
+        219.66665649414062,
+        281.0,
+        53.56800079345703
+      ],
+      "volume_mm3": 293378.2443269494,
+      "triangles": 108550,
+      "watertight": true,
+      "single_component": true,
+      "sha256": "6bef9f4d6a9dca39321de575c12cfc83152b074b69189872e76ee5e74e778fe8"
+    }
+  ],
+  "extra_ground_plane": false,
+  "joints": "Exact planar butt joints; align using assembly map, glue only after dry fit."
+}

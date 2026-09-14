@@ -1,0 +1,24 @@
+{
+  "status": "passed",
+  "scene": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_print_v03\\Campus_Center_Lively_Projection.blend",
+  "camera": "ORTHO vertical",
+  "resolution": [
+    1024,
+    786
+  ],
+  "frames": [
+    1,
+    144
+  ],
+  "fps": 24,
+  "missing_images": [],
+  "student_count": 93,
+  "visible_lights": 0,
+  "loop_transform_max_error": 0.0,
+  "reopened_render_frames": [
+    1,
+    109,
+    145
+  ],
+  "source_unchanged": true
+}

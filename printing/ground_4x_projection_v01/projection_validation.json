@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "source_unchanged": true,
+  "missing_images": [],
+  "loop_endpoint_transforms_match": true,
+  "projection_camera": "Perspective, 60 degrees down, no DOF",
+  "physical_receiver_meshes": 6
+}

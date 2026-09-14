@@ -1,0 +1,137 @@
+[
+  {
+    "file": "README.md",
+    "sha256": "c07cb04f61e19407f06d3aa52805749536ae02949088102291a1db2e3b07b890",
+    "bytes": 6132
+  },
+  {
+    "file": "Assembly_Map.png",
+    "sha256": "86de00567d7698dd9d7df6d453fecd56f3f748d69099c2d582043e919b607a2a",
+    "bytes": 51487
+  },
+  {
+    "file": "print_manifest.json",
+    "sha256": "ddf7debfc9d620b89c74f7fcec0dc7642f84cdd8606530b6781750d517802ef9",
+    "bytes": 4072
+  },
+  {
+    "file": "projector_config.json",
+    "sha256": "2958551047a4fd4ac351695d47725f172eb8f1ea704e5127ab5fe029c78f9c10",
+    "bytes": 318
+  },
+  {
+    "file": "projection_manifest.json",
+    "sha256": "a42b4643895af5232b1c813e6c0e8940d2053d85e8b1872d7957dc791472972c",
+    "bytes": 143752
+  },
+  {
+    "file": "projection_validation.json",
+    "sha256": "35fa8ae2efb0864a5dd58b532026b8196742885969543f7627e9d268d7676cab",
+    "bytes": 221
+  },
+  {
+    "file": "render_contract.json",
+    "sha256": "7ea1a990bd97488af4e1032c3fae85d7358fcf16a4fef6d9d85ad1477e358572",
+    "bytes": 642
+  },
+  {
+    "file": "Campus_Center_Projection.blend",
+    "sha256": "162df7bf4e1b55b222ac216e50b58d9f546ad9c8e20c52752935b3ddd5dc5407",
+    "bytes": 235590223
+  },
+  {
+    "file": "split_ground.py",
+    "sha256": "7bc4021670cd8659dfea2e212bfa6896049ecc4811e328399829bfda0ba91b0f",
+    "bytes": 2394
+  },
+  {
+    "file": "build_projection.py",
+    "sha256": "085624380960317f7e73d2fe1c48632c2e298fa88c5b9857981be60b3177ce58",
+    "bytes": 7941
+  },
+  {
+    "file": "render_projection.py",
+    "sha256": "622cff78dde55e23965a06a56ef91678a4ccb18184d22451e782aa0b3814a0c2",
+    "bytes": 2751
+  },
+  {
+    "file": "verify_projection.py",
+    "sha256": "b29d2925ff81d8bb3b0bbbfed1499dbe03c0f4831ce496b617c037b95985a2b2",
+    "bytes": 1437
+  },
+  {
+    "file": "finish_video.py",
+    "sha256": "b76bc19ee0119bebecafd8f21ab1e70104fe30396fb48810e0083d50dc980a33",
+    "bytes": 2840
+  },
+  {
+    "file": "make_guide.py",
+    "sha256": "0eda19581a6b06058014b92ad576960f2a3bf9c7a08c00f159640f2cd217e46d",
+    "bytes": 7111
+  },
+  {
+    "file": "print_tiles\\Ground_A1.stl",
+    "sha256": "6cb3ec3dc3e13f44a95ca7cc3d4611e0207d733eb02c9321f30fe7ef8b15380d",
+    "bytes": 9119084
+  },
+  {
+    "file": "print_tiles\\Ground_A2.stl",
+    "sha256": "3db33366c52dbf83cc3adf370b3b9f6ed738dce2da49507ac19880185b8075a1",
+    "bytes": 12078984
+  },
+  {
+    "file": "print_tiles\\Ground_A3.stl",
+    "sha256": "101b7d8d81711ad912430e7e647af70632399165aeeb9af61c0321f20035cee0",
+    "bytes": 11994984
+  },
+  {
+    "file": "print_tiles\\Ground_B1.stl",
+    "sha256": "92f1c68b92dd28bf12fbf11a266b671c430d591595fb93dc35e28316eea99f3b",
+    "bytes": 9947384
+  },
+  {
+    "file": "print_tiles\\Ground_B2.stl",
+    "sha256": "aaaea59a2f076b21ed100b54113b039f5a164fbe9659571e77ad412965cff921",
+    "bytes": 13940584
+  },
+  {
+    "file": "print_tiles\\Ground_B3.stl",
+    "sha256": "6bef9f4d6a9dca39321de575c12cfc83152b074b69189872e76ee5e74e778fe8",
+    "bytes": 5427584
+  },
+  {
+    "file": "projection\\Campus_Center_Ground_Loop_1024x786.mp4",
+    "sha256": "e7d1e3da7b7eede9e8ca99afe74f0ddcc117432cc369f6de4bcabf0f950ac1c3",
+    "bytes": 755289
+  },
+  {
+    "file": "projection\\Projection_Preview.jpg",
+    "sha256": "03cd72b5b8e943b04caad845e92a4b51d226800ed0a6a08ad7f6516332cacde8",
+    "bytes": 99791
+  },
+  {
+    "file": "projection\\receiver_mask_black.png",
+    "sha256": "a51269f10016a8e9e6fc59072491ed9a623bdba3cb2d0849b8829988371326ea",
+    "bytes": 149620
+  },
+  {
+    "file": "projection\\calibration_25mm_black.png",
+    "sha256": "6f5e28801c1468802ce6ca633fecde2098d11d2c33323cdc90435579957bafff",
+    "bytes": 397173
+  },
+  {
+    "file": "projection\\render_complete.json",
+    "sha256": "77beb731ad87191dd1950001d5ad9fcb48f1a6a06a58a13824268235ca178835",
+    "bytes": 84
+  },
+  {
+    "file": "projection\\video_validation.json",
+    "sha256": "262b8bbd193c50d92d9fab772b082deb977a8ad21d7bdb27fa7626ce1f845f30",
+    "bytes": 569
+  },
+  {
+    "file": "Ground_4x_Print_Tiles.zip",
+    "sha256": "bd74778dcc0d2c247740b5160bb520f9e365127af22765f24bc1ee330f3dd3fb",
+    "bytes": 7075827
+  }
+]

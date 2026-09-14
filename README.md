@@ -74,3 +74,7 @@ Previous Blender detail revision: [Cycles Studio v03 - graphics, planting, furni
 Latest Blender environment revision: [Cycles Studio v04 - planting, grass/concrete, fire, larger banners and photographic sky](blender_cycles/v04/README.md).
 
 Latest Blender revision: [Cycles Studio v05 - student artwork, larger banners and modern fireplace](blender_cycles/v05/README.md).
+
+Ground floor 4x print: [six H2D-sized tiles and assembly map](printing/ground_4x_projection_v01/README.md).
+
+Current floor-only projection: [v03 - 93 students, detailed court and furnishings, 24 fps loop and 24 reference images](printing/ground_4x_projection_v03/README.md). Black walls and exterior; static lighting.

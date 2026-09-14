@@ -1,0 +1,1409 @@
+{
+  "student_count": 93,
+  "groups": {
+    "Seated study and social groups": 53,
+    "Standing conversations": 10,
+    "Gym players and spectators": 18,
+    "Walking students": 12
+  },
+  "people": [
+    {
+      "name": "Commons lounge 0 student 0",
+      "asset": "seated",
+      "quadrant": 0,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        855.3642805832217,
+        323.65421293134034
+      ],
+      "heading": -3.1361650441149,
+      "size_pixels": 17.2,
+      "motion_radii": null,
+      "phase": 4.074628204318127
+    },
+    {
+      "name": "Commons lounge 0 student 1",
+      "asset": "seated",
+      "quadrant": 1,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        842.2071068892666,
+        340.8010014525828
+      ],
+      "heading": -1.3116482800298805,
+      "size_pixels": 17.2,
+      "motion_radii": null,
+      "phase": 4.4068347947176685
+    },
+    {
+      "name": "Commons lounge 0 student 2",
+      "asset": "seated",
+      "quadrant": 2,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        857.7296007427058,
+        350.6898885764865
+      ],
+      "heading": 0.16939617649053829,
+      "size_pixels": 17.2,
+      "motion_radii": null,
+      "phase": 6.013303665381434
+    },
+    {
+      "name": "Commons lounge 1 student 0",
+      "asset": "seated",
+      "quadrant": 1,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        848.576670073088,
+        379.1947378732282
+      ],
+      "heading": 2.9712064746422833,
+      "size_pixels": 17.2,
+      "motion_radii": null,
+      "phase": 1.2340371293071182
+    },
+    {
+      "name": "Commons lounge 1 student 1",
+      "asset": "seated",
+      "quadrant": 2,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        833.4115186461858,
+        397.26787532850784
+      ],
+      "heading": -1.2268941633726045,
+      "size_pixels": 17.2,
+      "motion_radii": null,
+      "phase": 0.4107270193094537
+    },
+    {
+      "name": "Commons lounge 1 student 2",
+      "asset": "seated",
+      "quadrant": 3,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        859.0111988308738,
+        397.26787532850784
+      ],
+      "heading": 1.2245378120695563,
+      "size_pixels": 17.2,
+      "motion_radii": null,
+      "phase": 5.17896217340871
+    },
+    {
+      "name": "Commons lounge 2 student 0",
+      "asset": "seated",
+      "quadrant": 2,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        763.481726226091,
+        392.546356452874
+      ],
+      "heading": 2.3554241493231367,
+      "size_pixels": 17.2,
+      "motion_radii": null,
+      "phase": 2.092719491766017
+    },
+    {
+      "name": "Commons lounge 2 student 1",
+      "asset": "seated",
+      "quadrant": 3,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        742.69208686551,
+        394.3652230853
+      ],
+      "heading": -2.178651152630213,
+      "size_pixels": 17.2,
+      "motion_radii": null,
+      "phase": 2.339699367180671
+    },
+    {
+      "name": "Commons lounge 2 student 2",
+      "asset": "seated",
+      "quadrant": 0,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        752.6628331188876,
+        415.747552406822
+      ],
+      "heading": -0.08855153408825847,
+      "size_pixels": 17.2,
+      "motion_radii": null,
+      "phase": 5.1199529670982065
+    },
+    {
+      "name": "Commons lounge 3 student 0",
+      "asset": "seated",
+      "quadrant": 3,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        733.443510767292,
+        409.758774182503
+      ],
+      "heading": 2.181850412872586,
+      "size_pixels": 17.2,
+      "motion_radii": null,
+      "phase": 1.1519263310542438
+    },
+    {
+      "name": "Commons lounge 3 student 1",
+      "asset": "seated",
+      "quadrant": 0,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        726.9443500177381,
+        430.37148525266645
+      ],
+      "heading": 0.34491826510708523,
+      "size_pixels": 17.2,
+      "motion_radii": null,
+      "phase": 5.715697112290912
+    },
+    {
+      "name": "Commons lounge 4 student 0",
+      "asset": "seated",
+      "quadrant": 0,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        864.8722980283351,
+        433.95720087472665
+      ],
+      "heading": 3.058002152911444,
+      "size_pixels": 17.2,
+      "motion_radii": null,
+      "phase": 3.086108960850897
+    },
+    {
+      "name": "Commons lounge 4 student 1",
+      "asset": "seated",
+      "quadrant": 1,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        850.2707593142679,
+        449.8919952627798
+      ],
+      "heading": -1.4018471453364507,
+      "size_pixels": 17.2,
+      "motion_radii": null,
+      "phase": 0.4482249322762317
+    },
+    {
+      "name": "Commons lounge 4 student 2",
+      "asset": "seated",
+      "quadrant": 2,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        866.0504326861133,
+        460.94105655541966
+      ],
+      "heading": 0.17219512799755265,
+      "size_pixels": 17.2,
+      "motion_radii": null,
+      "phase": 5.76678517948109
+    },
+    {
+      "name": "Commons lounge 5 student 0",
+      "asset": "seated",
+      "quadrant": 1,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        806.4185379921882,
+        390.3749305037091
+      ],
+      "heading": 2.097593038975987,
+      "size_pixels": 17.2,
+      "motion_radii": null,
+      "phase": 3.6002558422240285
+    },
+    {
+      "name": "Commons lounge 5 student 1",
+      "asset": "seated",
+      "quadrant": 2,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        798.147584529552,
+        410.3427301143534
+      ],
+      "heading": 0.2656867348080995,
+      "size_pixels": 17.2,
+      "motion_radii": null,
+      "phase": 0.4946885156802541
+    },
+    {
+      "name": "Commons cafe table student",
+      "asset": "seated",
+      "quadrant": 0,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        725.4436598732387,
+        355.65243721506516
+      ],
+      "heading": -1.5707963267948966,
+      "size_pixels": 16.7,
+      "motion_radii": null,
+      "phase": 5.2689500275882635
+    },
+    {
+      "name": "Commons cafe table student",
+      "asset": "seated",
+      "quadrant": 1,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        744.0989284069067,
+        355.65243721506516
+      ],
+      "heading": 1.5707963267948966,
+      "size_pixels": 16.7,
+      "motion_radii": null,
+      "phase": 4.868306574769716
+    },
+    {
+      "name": "Commons cafe table student",
+      "asset": "seated",
+      "quadrant": 2,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        734.7712941400728,
+        346.4728606350063
+      ],
+      "heading": -3.141592653589793,
+      "size_pixels": 16.7,
+      "motion_radii": null,
+      "phase": 4.650620789662001
+    },
+    {
+      "name": "Commons cafe table student",
+      "asset": "seated",
+      "quadrant": 3,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        734.7712941400728,
+        364.83201379512406
+      ],
+      "heading": -0.0,
+      "size_pixels": 16.7,
+      "motion_radii": null,
+      "phase": 4.131371541191853
+    },
+    {
+      "name": "Commons cafe table student",
+      "asset": "seated",
+      "quadrant": 0,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        725.4436598732387,
+        479.5767210458596
+      ],
+      "heading": -1.5707963267948966,
+      "size_pixels": 16.7,
+      "motion_radii": null,
+      "phase": 6.237350906386141
+    },
+    {
+      "name": "Commons cafe table student",
+      "asset": "seated",
+      "quadrant": 1,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        744.0989284069067,
+        479.5767210458596
+      ],
+      "heading": 1.5707963267948966,
+      "size_pixels": 16.7,
+      "motion_radii": null,
+      "phase": 0.076048794311156
+    },
+    {
+      "name": "Commons cafe table student",
+      "asset": "seated",
+      "quadrant": 2,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        734.7712941400728,
+        470.39714446580075
+      ],
+      "heading": -3.141592653589793,
+      "size_pixels": 16.7,
+      "motion_radii": null,
+      "phase": 6.122530724786542
+    },
+    {
+      "name": "Commons cafe table student",
+      "asset": "seated",
+      "quadrant": 3,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        734.7712941400728,
+        488.7562976259185
+      ],
+      "heading": -0.0,
+      "size_pixels": 16.7,
+      "motion_radii": null,
+      "phase": 4.03850531609351
+    },
+    {
+      "name": "Commons collaboration student",
+      "asset": "seated",
+      "quadrant": 0,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        799.3244455740349,
+        486.09125926396587
+      ],
+      "heading": -1.5707963267948966,
+      "size_pixels": 16.7,
+      "motion_radii": null,
+      "phase": 1.5892623385305922
+    },
+    {
+      "name": "Commons collaboration student",
+      "asset": "seated",
+      "quadrant": 0,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        825.5306561332352,
+        486.09125926396587
+      ],
+      "heading": 1.5707963267948966,
+      "size_pixels": 16.7,
+      "motion_radii": null,
+      "phase": 3.8480990361432
+    },
+    {
+      "name": "Commons collaboration student",
+      "asset": "seated",
+      "quadrant": 1,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        799.3244455740349,
+        469.80491371870016
+      ],
+      "heading": -1.5707963267948966,
+      "size_pixels": 16.7,
+      "motion_radii": null,
+      "phase": 2.122662890236951
+    },
+    {
+      "name": "Commons collaboration student",
+      "asset": "seated",
+      "quadrant": 1,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        825.5306561332352,
+        469.80491371870016
+      ],
+      "heading": 1.5707963267948966,
+      "size_pixels": 16.7,
+      "motion_radii": null,
+      "phase": 4.08604517969957
+    },
+    {
+      "name": "Commons collaboration student",
+      "asset": "seated",
+      "quadrant": 2,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        799.3244455740349,
+        454.9991450411859
+      ],
+      "heading": -1.5707963267948966,
+      "size_pixels": 16.7,
+      "motion_radii": null,
+      "phase": 4.424914848861909
+    },
+    {
+      "name": "Commons collaboration student",
+      "asset": "seated",
+      "quadrant": 2,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        825.5306561332352,
+        454.9991450411859
+      ],
+      "heading": 1.5707963267948966,
+      "size_pixels": 16.7,
+      "motion_radii": null,
+      "phase": 3.2938571998298167
+    },
+    {
+      "name": "North bench conversation",
+      "asset": "seated",
+      "quadrant": 0,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        748.2445436366107,
+        298.0579970595347
+      ],
+      "heading": -3.141592653589793,
+      "size_pixels": 17,
+      "motion_radii": null,
+      "phase": 0.6203913954891794
+    },
+    {
+      "name": "North bench conversation",
+      "asset": "seated",
+      "quadrant": 1,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        758.6085817108708,
+        298.0579970595347
+      ],
+      "heading": -3.141592653589793,
+      "size_pixels": 17,
+      "motion_radii": null,
+      "phase": 2.462637240668379
+    },
+    {
+      "name": "North bench conversation",
+      "asset": "seated",
+      "quadrant": 2,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        888.8993460729962,
+        298.0579970595347
+      ],
+      "heading": -3.141592653589793,
+      "size_pixels": 17,
+      "motion_radii": null,
+      "phase": 1.8977478399125773
+    },
+    {
+      "name": "North bench conversation",
+      "asset": "seated",
+      "quadrant": 3,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        899.2633841472563,
+        298.0579970595347
+      ],
+      "heading": -3.141592653589793,
+      "size_pixels": 17,
+      "motion_radii": null,
+      "phase": 4.708688700946929
+    },
+    {
+      "name": "Collaboration 113 student 0",
+      "asset": "seated",
+      "quadrant": 0,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        341.1824059218782,
+        572.6825215284066
+      ],
+      "heading": -1.5707963267948966,
+      "size_pixels": 16.5,
+      "motion_radii": null,
+      "phase": 5.851070766913454
+    },
+    {
+      "name": "Collaboration 113 student 1",
+      "asset": "seated",
+      "quadrant": 1,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        371.0753525116621,
+        572.6825215284066
+      ],
+      "heading": 1.5707963267948966,
+      "size_pixels": 16.5,
+      "motion_radii": null,
+      "phase": 4.873573279370321
+    },
+    {
+      "name": "Collaboration 113 student 2",
+      "asset": "seated",
+      "quadrant": 2,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        341.1824059218782,
+        586.0712753959303
+      ],
+      "heading": -1.5707963267948966,
+      "size_pixels": 16.5,
+      "motion_radii": null,
+      "phase": 3.3331296894740405
+    },
+    {
+      "name": "Collaboration 113 student 3",
+      "asset": "seated",
+      "quadrant": 3,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        371.0753525116621,
+        586.0712753959303
+      ],
+      "heading": 1.5707963267948966,
+      "size_pixels": 16.5,
+      "motion_radii": null,
+      "phase": 1.0692865902088675
+    },
+    {
+      "name": "Collaboration 112 student 0",
+      "asset": "seated",
+      "quadrant": 0,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        423.87763710846014,
+        569.5322348065665
+      ],
+      "heading": -1.5707963267948966,
+      "size_pixels": 16.5,
+      "motion_radii": null,
+      "phase": 4.445600526283521
+    },
+    {
+      "name": "Collaboration 112 student 1",
+      "asset": "seated",
+      "quadrant": 1,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        453.77061193800665,
+        569.5322348065665
+      ],
+      "heading": 1.5707963267948966,
+      "size_pixels": 16.5,
+      "motion_radii": null,
+      "phase": 1.6654049261485504
+    },
+    {
+      "name": "Collaboration 112 student 2",
+      "asset": "seated",
+      "quadrant": 2,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        423.87763710846014,
+        582.9209886740902
+      ],
+      "heading": -1.5707963267948966,
+      "size_pixels": 16.5,
+      "motion_radii": null,
+      "phase": 6.266196828119413
+    },
+    {
+      "name": "Collaboration 112 student 3",
+      "asset": "seated",
+      "quadrant": 3,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        453.77061193800665,
+        582.9209886740902
+      ],
+      "heading": 1.5707963267948966,
+      "size_pixels": 16.5,
+      "motion_radii": null,
+      "phase": 1.0864213407992374
+    },
+    {
+      "name": "iLab table west 0",
+      "asset": "seated",
+      "quadrant": 1,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        662.9633160541285,
+        700.7749050879227
+      ],
+      "heading": -1.5707963267948966,
+      "size_pixels": 16.5,
+      "motion_radii": null,
+      "phase": 6.083620185801788
+    },
+    {
+      "name": "iLab table west 1",
+      "asset": "seated",
+      "quadrant": 2,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        662.9633160541285,
+        668.2022139973914
+      ],
+      "heading": -1.5707963267948966,
+      "size_pixels": 16.5,
+      "motion_radii": null,
+      "phase": 0.09455522797253055
+    },
+    {
+      "name": "iLab table west 2",
+      "asset": "seated",
+      "quadrant": 3,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        662.9633160541285,
+        635.62952290686
+      ],
+      "heading": -1.5707963267948966,
+      "size_pixels": 16.5,
+      "motion_radii": null,
+      "phase": 4.899068148268653
+    },
+    {
+      "name": "iLab table east 0",
+      "asset": "seated",
+      "quadrant": 1,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        692.1306803488317,
+        700.7749050879227
+      ],
+      "heading": 1.5707963267948966,
+      "size_pixels": 16.5,
+      "motion_radii": null,
+      "phase": 2.1762279413843397
+    },
+    {
+      "name": "iLab table east 1",
+      "asset": "seated",
+      "quadrant": 2,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        692.1306803488317,
+        668.2022139973914
+      ],
+      "heading": 1.5707963267948966,
+      "size_pixels": 16.5,
+      "motion_radii": null,
+      "phase": 3.607027066010647
+    },
+    {
+      "name": "iLab table east 2",
+      "asset": "seated",
+      "quadrant": 3,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        692.1306803488317,
+        635.62952290686
+      ],
+      "heading": 1.5707963267948966,
+      "size_pixels": 16.5,
+      "motion_radii": null,
+      "phase": 2.6126236218969554
+    },
+    {
+      "name": "iLab maker bench student 0",
+      "asset": "seated",
+      "quadrant": 0,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        580.1990691468238,
+        683.0079826749056
+      ],
+      "heading": -1.5707963267948966,
+      "size_pixels": 16.2,
+      "motion_radii": null,
+      "phase": 1.9346941325779918
+    },
+    {
+      "name": "iLab maker bench student 1",
+      "asset": "seated",
+      "quadrant": 1,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        580.1990691468238,
+        647.4741378488714
+      ],
+      "heading": -1.5707963267948966,
+      "size_pixels": 16.2,
+      "motion_radii": null,
+      "phase": 2.750056129361716
+    },
+    {
+      "name": "iLab maker bench student 2",
+      "asset": "seated",
+      "quadrant": 2,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        580.1990691468238,
+        629.7072154358543
+      ],
+      "heading": -1.5707963267948966,
+      "size_pixels": 16.2,
+      "motion_radii": null,
+      "phase": 5.125827955507276
+    },
+    {
+      "name": "Court player 1",
+      "asset": "basketball",
+      "quadrant": 0,
+      "group": "Gym players and spectators",
+      "pixel_center": [
+        495.0658992511168,
+        340.9947262243261
+      ],
+      "heading": -0.2874782650458429,
+      "size_pixels": 21,
+      "motion_radii": [
+        3.05811869381411,
+        3.08279955737992
+      ],
+      "phase": 4.909899084125791
+    },
+    {
+      "name": "Court player 2",
+      "asset": "basketball",
+      "quadrant": 3,
+      "group": "Gym players and spectators",
+      "pixel_center": [
+        558.7307045644282,
+        308.4220351337947
+      ],
+      "heading": 0.7204212690218693,
+      "size_pixels": 21,
+      "motion_radii": [
+        2.533125396438132,
+        3.072189335795703
+      ],
+      "phase": 3.244989974215494
+    },
+    {
+      "name": "Court player 3",
+      "asset": "basketball",
+      "quadrant": 1,
+      "group": "Gym players and spectators",
+      "pixel_center": [
+        532.0803209449025,
+        306.94145826604324
+      ],
+      "heading": 0.299665792200118,
+      "size_pixels": 21,
+      "motion_radii": [
+        3.552056228725119,
+        2.509866838334984
+      ],
+      "phase": 4.8030574472275065
+    },
+    {
+      "name": "Court player 4",
+      "asset": "basketball",
+      "quadrant": 0,
+      "group": "Gym players and spectators",
+      "pixel_center": [
+        452.1291700863254,
+        378.00914791811175
+      ],
+      "heading": -0.5198352940133576,
+      "size_pixels": 21,
+      "motion_radii": [
+        3.4674078201289857,
+        2.2743432075065795
+      ],
+      "phase": 2.1260241916386993
+    },
+    {
+      "name": "Court player 5",
+      "asset": "basketball",
+      "quadrant": 1,
+      "group": "Gym players and spectators",
+      "pixel_center": [
+        572.055896374191,
+        367.6451098438518
+      ],
+      "heading": 0.472050772548453,
+      "size_pixels": 21,
+      "motion_radii": [
+        2.1715978397372404,
+        3.0312184312036528
+      ],
+      "phase": 0.7182411558997231
+    },
+    {
+      "name": "Court player 6",
+      "asset": "basketball",
+      "quadrant": 0,
+      "group": "Gym players and spectators",
+      "pixel_center": [
+        502.4687835898739,
+        200.33992378794056
+      ],
+      "heading": -2.891566360870009,
+      "size_pixels": 21,
+      "motion_radii": [
+        2.7630547314056897,
+        3.6677088445873736
+      ],
+      "phase": 4.332512555058388
+    },
+    {
+      "name": "Court player 7",
+      "asset": "basketball",
+      "quadrant": 1,
+      "group": "Gym players and spectators",
+      "pixel_center": [
+        549.8472433579195,
+        185.5341551104263
+      ],
+      "heading": 2.7521490764991827,
+      "size_pixels": 21,
+      "motion_radii": [
+        2.899458239747123,
+        3.390362142430965
+      ],
+      "phase": 3.2246505001245183
+    },
+    {
+      "name": "Court player 8",
+      "asset": "basketball",
+      "quadrant": 3,
+      "group": "Gym players and spectators",
+      "pixel_center": [
+        458.0514775573311,
+        155.92261775539777
+      ],
+      "heading": -2.626499962572167,
+      "size_pixels": 21,
+      "motion_radii": [
+        3.757550269868037,
+        4.720837346128412
+      ],
+      "phase": 1.3609381715919817
+    },
+    {
+      "name": "Court player 9",
+      "asset": "basketball",
+      "quadrant": 0,
+      "group": "Gym players and spectators",
+      "pixel_center": [
+        514.3133985318854,
+        129.2722341358721
+      ],
+      "heading": -3.1115683083610715,
+      "size_pixels": 21,
+      "motion_radii": [
+        4.320105220622674,
+        3.6628138767768936
+      ],
+      "phase": 5.620509397226119
+    },
+    {
+      "name": "Court player 10",
+      "asset": "basketball",
+      "quadrant": 1,
+      "group": "Gym players and spectators",
+      "pixel_center": [
+        579.458780712948,
+        234.39319174622332
+      ],
+      "heading": 1.9999748347961956,
+      "size_pixels": 21,
+      "motion_radii": [
+        4.055333497843115,
+        2.011668248307666
+      ],
+      "phase": 0.36126733284414114
+    },
+    {
+      "name": "Sideline west spectator 0",
+      "asset": "seated",
+      "quadrant": 0,
+      "group": "Gym players and spectators",
+      "pixel_center": [
+        372.62219228807385,
+        314.34434260480043
+      ],
+      "heading": -1.5707963267948966,
+      "size_pixels": 17,
+      "motion_radii": null,
+      "phase": 5.00858224429471
+    },
+    {
+      "name": "Sideline west spectator 1",
+      "asset": "seated",
+      "quadrant": 1,
+      "group": "Gym players and spectators",
+      "pixel_center": [
+        372.62219228807385,
+        287.6939589852747
+      ],
+      "heading": -1.5707963267948966,
+      "size_pixels": 17,
+      "motion_radii": null,
+      "phase": 1.860832531778553
+    },
+    {
+      "name": "Sideline west spectator 2",
+      "asset": "seated",
+      "quadrant": 2,
+      "group": "Gym players and spectators",
+      "pixel_center": [
+        372.62219228807385,
+        250.67953729148905
+      ],
+      "heading": -1.5707963267948966,
+      "size_pixels": 17,
+      "motion_radii": null,
+      "phase": 3.8591298557940448
+    },
+    {
+      "name": "Sideline west spectator 3",
+      "asset": "seated",
+      "quadrant": 3,
+      "group": "Gym players and spectators",
+      "pixel_center": [
+        372.62219228807385,
+        219.58742306870906
+      ],
+      "heading": -1.5707963267948966,
+      "size_pixels": 17,
+      "motion_radii": null,
+      "phase": 0.6100766787428896
+    },
+    {
+      "name": "Sideline east spectator 0",
+      "asset": "seated",
+      "quadrant": 0,
+      "group": "Gym players and spectators",
+      "pixel_center": [
+        670.8103734532111,
+        314.34434260480043
+      ],
+      "heading": 1.5707963267948966,
+      "size_pixels": 17,
+      "motion_radii": null,
+      "phase": 3.5321138094632336
+    },
+    {
+      "name": "Sideline east spectator 1",
+      "asset": "seated",
+      "quadrant": 1,
+      "group": "Gym players and spectators",
+      "pixel_center": [
+        670.8103734532111,
+        287.6939589852747
+      ],
+      "heading": 1.5707963267948966,
+      "size_pixels": 17,
+      "motion_radii": null,
+      "phase": 2.5801474809914984
+    },
+    {
+      "name": "Sideline east spectator 2",
+      "asset": "seated",
+      "quadrant": 2,
+      "group": "Gym players and spectators",
+      "pixel_center": [
+        670.8103734532111,
+        250.67953729148905
+      ],
+      "heading": 1.5707963267948966,
+      "size_pixels": 17,
+      "motion_radii": null,
+      "phase": 2.8940113347649756
+    },
+    {
+      "name": "Sideline east spectator 3",
+      "asset": "seated",
+      "quadrant": 3,
+      "group": "Gym players and spectators",
+      "pixel_center": [
+        670.8103734532111,
+        219.58742306870906
+      ],
+      "heading": 1.5707963267948966,
+      "size_pixels": 17,
+      "motion_radii": null,
+      "phase": 0.021798143227856445
+    },
+    {
+      "name": "Conversation group 0 student 0",
+      "asset": "talking",
+      "quadrant": 0,
+      "group": "Standing conversations",
+      "pixel_center": [
+        777.5599656180889,
+        355.80049490184035
+      ],
+      "heading": -1.5707963267948966,
+      "size_pixels": 19,
+      "motion_radii": null,
+      "phase": 5.62804686567214
+    },
+    {
+      "name": "Conversation group 0 student 1",
+      "asset": "talking",
+      "quadrant": 1,
+      "group": "Standing conversations",
+      "pixel_center": [
+        789.9968113072009,
+        355.80049490184035
+      ],
+      "heading": 1.5707963267948966,
+      "size_pixels": 19,
+      "motion_radii": null,
+      "phase": 5.302851898377151
+    },
+    {
+      "name": "Conversation group 1 student 0",
+      "asset": "talking",
+      "quadrant": 1,
+      "group": "Standing conversations",
+      "pixel_center": [
+        866.3945776831745,
+        555.6783720482829
+      ],
+      "heading": -1.5707963267948966,
+      "size_pixels": 19,
+      "motion_radii": null,
+      "phase": 4.662995342730032
+    },
+    {
+      "name": "Conversation group 1 student 1",
+      "asset": "talking",
+      "quadrant": 2,
+      "group": "Standing conversations",
+      "pixel_center": [
+        878.8314233722865,
+        555.6783720482829
+      ],
+      "heading": 1.5707963267948966,
+      "size_pixels": 19,
+      "motion_radii": null,
+      "phase": 3.901769743697707
+    },
+    {
+      "name": "Conversation group 2 student 0",
+      "asset": "talking",
+      "quadrant": 2,
+      "group": "Standing conversations",
+      "pixel_center": [
+        274.16383058260396,
+        229.9514611429691
+      ],
+      "heading": -1.5707963267948966,
+      "size_pixels": 19,
+      "motion_radii": null,
+      "phase": 1.4254047111587955
+    },
+    {
+      "name": "Conversation group 2 student 1",
+      "asset": "talking",
+      "quadrant": 3,
+      "group": "Standing conversations",
+      "pixel_center": [
+        286.600676271716,
+        229.9514611429691
+      ],
+      "heading": 1.5707963267948966,
+      "size_pixels": 19,
+      "motion_radii": null,
+      "phase": 1.2052151112998264
+    },
+    {
+      "name": "Conversation group 3 student 0",
+      "asset": "talking",
+      "quadrant": 3,
+      "group": "Standing conversations",
+      "pixel_center": [
+        508.09497568732934,
+        514.9625081851187
+      ],
+      "heading": -1.5707963267948966,
+      "size_pixels": 19,
+      "motion_radii": null,
+      "phase": 5.264689088912305
+    },
+    {
+      "name": "Conversation group 3 student 1",
+      "asset": "talking",
+      "quadrant": 0,
+      "group": "Standing conversations",
+      "pixel_center": [
+        520.5318213764414,
+        514.9625081851187
+      ],
+      "heading": 1.5707963267948966,
+      "size_pixels": 19,
+      "motion_radii": null,
+      "phase": 2.0694020558605724
+    },
+    {
+      "name": "Conversation group 4 student 0",
+      "asset": "talking",
+      "quadrant": 0,
+      "group": "Standing conversations",
+      "pixel_center": [
+        644.3080475204606,
+        573.4452944613
+      ],
+      "heading": -1.5707963267948966,
+      "size_pixels": 19,
+      "motion_radii": null,
+      "phase": 2.410794048969524
+    },
+    {
+      "name": "Conversation group 4 student 1",
+      "asset": "talking",
+      "quadrant": 1,
+      "group": "Standing conversations",
+      "pixel_center": [
+        656.7448932095726,
+        573.4452944613
+      ],
+      "heading": 1.5707963267948966,
+      "size_pixels": 19,
+      "motion_radii": null,
+      "phase": 5.529237544757296
+    },
+    {
+      "name": "Locker bench student 0",
+      "asset": "seated",
+      "quadrant": 0,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        133.80514351976876,
+        351.35876429858604
+      ],
+      "heading": -1.5707963267948966,
+      "size_pixels": 16.5,
+      "motion_radii": null,
+      "phase": 2.166837182118496
+    },
+    {
+      "name": "Locker bench student 1",
+      "asset": "seated",
+      "quadrant": 1,
+      "group": "Seated study and social groups",
+      "pixel_center": [
+        193.02821822982582,
+        449.07683757018026
+      ],
+      "heading": -1.5707963267948966,
+      "size_pixels": 16.5,
+      "motion_radii": null,
+      "phase": 6.239723815347532
+    },
+    {
+      "name": "Walking student 1",
+      "asset": "walking",
+      "quadrant": 0,
+      "group": "Walking students",
+      "pixel_center": [
+        823,
+        542
+      ],
+      "heading": 0,
+      "size_pixels": 20,
+      "motion_radii": [
+        25,
+        9
+      ],
+      "phase": 0.3930197932070256
+    },
+    {
+      "name": "Walking student 2",
+      "asset": "walking",
+      "quadrant": 1,
+      "group": "Walking students",
+      "pixel_center": [
+        789,
+        322
+      ],
+      "heading": 0,
+      "size_pixels": 20,
+      "motion_radii": [
+        18,
+        9
+      ],
+      "phase": 1.8500806003948294
+    },
+    {
+      "name": "Walking student 3",
+      "asset": "walking",
+      "quadrant": 2,
+      "group": "Walking students",
+      "pixel_center": [
+        611.5,
+        663
+      ],
+      "heading": 0,
+      "size_pixels": 20,
+      "motion_radii": [
+        0.4,
+        27
+      ],
+      "phase": 5.968569839003795
+    },
+    {
+      "name": "Walking student 4",
+      "asset": "walking",
+      "quadrant": 3,
+      "group": "Walking students",
+      "pixel_center": [
+        291,
+        441
+      ],
+      "heading": 0,
+      "size_pixels": 20,
+      "motion_radii": [
+        7,
+        27
+      ],
+      "phase": 5.180184889139101
+    },
+    {
+      "name": "Walking student 5",
+      "asset": "walking",
+      "quadrant": 0,
+      "group": "Walking students",
+      "pixel_center": [
+        932,
+        551
+      ],
+      "heading": 0,
+      "size_pixels": 20,
+      "motion_radii": [
+        10,
+        7
+      ],
+      "phase": 1.460622472658476
+    },
+    {
+      "name": "Walking student 6",
+      "asset": "walking",
+      "quadrant": 1,
+      "group": "Walking students",
+      "pixel_center": [
+        466,
+        513
+      ],
+      "heading": 0,
+      "size_pixels": 20,
+      "motion_radii": [
+        29,
+        3
+      ],
+      "phase": 5.377280345132344
+    },
+    {
+      "name": "Walking student 7",
+      "asset": "walking",
+      "quadrant": 2,
+      "group": "Walking students",
+      "pixel_center": [
+        291,
+        352
+      ],
+      "heading": 0,
+      "size_pixels": 20,
+      "motion_radii": [
+        6,
+        23
+      ],
+      "phase": 4.140677856000235
+    },
+    {
+      "name": "Walking student 8",
+      "asset": "walking",
+      "quadrant": 3,
+      "group": "Walking students",
+      "pixel_center": [
+        731,
+        551
+      ],
+      "heading": 0,
+      "size_pixels": 20,
+      "motion_radii": [
+        9,
+        6
+      ],
+      "phase": 1.9621665889737387
+    },
+    {
+      "name": "Walking student 9",
+      "asset": "walking",
+      "quadrant": 0,
+      "group": "Walking students",
+      "pixel_center": [
+        194,
+        286
+      ],
+      "heading": 0,
+      "size_pixels": 20,
+      "motion_radii": [
+        25,
+        3
+      ],
+      "phase": 1.343641093856124
+    },
+    {
+      "name": "Walking student 10",
+      "asset": "walking",
+      "quadrant": 1,
+      "group": "Walking students",
+      "pixel_center": [
+        640,
+        552
+      ],
+      "heading": 0,
+      "size_pixels": 20,
+      "motion_radii": [
+        23,
+        4
+      ],
+      "phase": 5.05558409884595
+    },
+    {
+      "name": "Walking student 11",
+      "asset": "walking",
+      "quadrant": 2,
+      "group": "Walking students",
+      "pixel_center": [
+        515,
+        473
+      ],
+      "heading": 0,
+      "size_pixels": 20,
+      "motion_radii": [
+        38,
+        2
+      ],
+      "phase": 1.2784166070512462
+    },
+    {
+      "name": "Walking student 12",
+      "asset": "walking",
+      "quadrant": 3,
+      "group": "Walking students",
+      "pixel_center": [
+        939,
+        365
+      ],
+      "heading": 0,
+      "size_pixels": 20,
+      "motion_radii": [
+        2.5,
+        18
+      ],
+      "phase": 4.515647457793764
+    }
+  ],
+  "frames": 144,
+  "fps": 24,
+  "loop_seconds": 6,
+  "keyframes": [
+    1,
+    7,
+    13,
+    19,
+    25,
+    31,
+    37,
+    43,
+    49,
+    55,
+    61,
+    67,
+    73,
+    79,
+    85,
+    91,
+    97,
+    103,
+    109,
+    115,
+    121,
+    127,
+    133,
+    139
+  ],
+  "geometry_and_light_static": true
+}

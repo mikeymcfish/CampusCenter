@@ -1,0 +1,10 @@
+{
+  "frame": 13,
+  "phase_degrees": 180,
+  "prompt": "Edit the referenced four-character animation asset to create ONE NEW FRAME of the SAME walking cycle, with smooth anatomically plausible change in limb pose.\nKeep exact same four students, hairstyles, navy/coral/green/mustard clothing, body proportions, scale, quadrant centers and direct vertical orthographic camera. Tops of heads at the same pixel locations; no camera or torso rotation. They all walk toward TOP. Keep clothing texture and soft diffuse light unchanged. Upper-left navy/khaki; upper-right coral/blue jeans/ponytail; lower-left green/charcoal; lower-right mustard/navy.\nCRITICAL: change the feet and arms to the requested gait phase rather than copying the original pose. The LEFT side of each person's body is the left of the image because they face image top. Arms swing OPPOSITE their corresponding leg. Limbs foreshorten naturally under the strict overhead camera. No exaggerated lunge or front view.\nOutput square image, four full silhouettes separated in equal quadrants; centers at 25%/75% in x and y. Uniform bright magenta #FF00FF background for later chroma key. No checkerboard, scenery, floor, shadows, labels or new props. This is a single animation frame, not a montage of different times.\nFRAME 13 / 24, phase 180 degrees. Reverse the stride of image 1: RIGHT shoe and leg extended forward toward image top, LEFT foot back toward image bottom. LEFT arm forward, RIGHT arm back. This is the opposite footfall compared with frame 01. See reference 2 only for consistent identity, not its pose. Match frame 01 stance width and total silhouette size, but do not simply reuse its leg arrangement. Heads remain fixed at quadrant centers.",
+  "source": "C:\\Users\\mikef\\.codex\\generated_images\\01a076a2-2c14-7603-9e9e-a781aa7bdba7\\exec-8b9a1113-9037-4565-a11a-8d9baacda40a.png",
+  "refs": [
+    "C:\\Users\\mikef\\.codex\\generated_images\\01a076a2-2c14-7603-9e9e-a781aa7bdba7\\exec-890c2028-7a13-4567-8c7b-4ad88d61b432.png",
+    "C:\\Users\\mikef\\.codex\\generated_images\\01a076a2-2c14-7603-9e9e-a781aa7bdba7\\exec-214819d8-ed88-4df3-afe4-0d5cd9ebf5f3.png"
+  ]
+}

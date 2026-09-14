@@ -1,0 +1,946 @@
+{
+  "width": 1024,
+  "height": 786,
+  "fps": 4,
+  "duration_seconds": 6,
+  "frames": [
+    {
+      "frame": 1,
+      "image": "frames\\0001.png",
+      "people_source": "imagegen_raw/people_0001.png",
+      "actors": [
+        {
+          "name": "Navy student - commons",
+          "pixel_center": [
+            848.0,
+            542.0
+          ],
+          "heading": 3.1415927410125732
+        },
+        {
+          "name": "Coral student - commons aisle",
+          "pixel_center": [
+            789.0,
+            331.0
+          ],
+          "heading": 1.5707963705062866
+        },
+        {
+          "name": "Green student - iLab central aisle",
+          "pixel_center": [
+            613.5,
+            661.0
+          ],
+          "heading": 0.0
+        },
+        {
+          "name": "Mustard student - west corridor",
+          "pixel_center": [
+            291.0,
+            414.0
+          ],
+          "heading": -1.5707963705062866
+        }
+      ]
+    },
+    {
+      "frame": 2,
+      "image": "frames\\0002.png",
+      "people_source": "imagegen_raw/people_0002.png",
+      "actors": [
+        {
+          "name": "Navy student - commons",
+          "pixel_center": [
+            847.1481323242188,
+            544.3293762207031
+          ],
+          "heading": 2.5017473697662354
+        },
+        {
+          "name": "Coral student - commons aisle",
+          "pixel_center": [
+            784.3412475585938,
+            330.6933288574219
+          ],
+          "heading": 1.4376147985458374
+        },
+        {
+          "name": "Green student - iLab central aisle",
+          "pixel_center": [
+            613.5510864257812,
+            653.7530670166016
+          ],
+          "heading": -0.0143534354865551
+        },
+        {
+          "name": "Mustard student - west corridor",
+          "pixel_center": [
+            292.8117370605469,
+            414.9200134277344
+          ],
+          "heading": -2.372675895690918
+        }
+      ]
+    },
+    {
+      "frame": 3,
+      "image": "frames\\0003.png",
+      "people_source": "imagegen_raw/people_0003.png",
+      "actors": [
+        {
+          "name": "Navy student - commons",
+          "pixel_center": [
+            844.650634765625,
+            546.5
+          ],
+          "heading": 2.1283438205718994
+        },
+        {
+          "name": "Coral student - commons aisle",
+          "pixel_center": [
+            780.0,
+            329.7942199707031
+          ],
+          "heading": 1.2897614240646362
+        },
+        {
+          "name": "Green student - iLab central aisle",
+          "pixel_center": [
+            613.7009887695312,
+            647.0
+          ],
+          "heading": -0.030919620767235756
+        },
+        {
+          "name": "Mustard student - west corridor",
+          "pixel_center": [
+            294.5,
+            417.6173095703125
+          ],
+          "heading": -2.719528913497925
+        }
+      ]
+    },
+    {
+      "frame": 4,
+      "image": "frames\\0004.png",
+      "people_source": "imagegen_raw/people_0004.png",
+      "actors": [
+        {
+          "name": "Navy student - commons",
+          "pixel_center": [
+            840.6776733398438,
+            548.3639678955078
+          ],
+          "heading": 1.9163519144058228
+        },
+        {
+          "name": "Coral student - commons aisle",
+          "pixel_center": [
+            776.2720947265625,
+            328.36395263671875
+          ],
+          "heading": 1.1071487665176392
+        },
+        {
+          "name": "Green student - iLab central aisle",
+          "pixel_center": [
+            613.9393310546875,
+            641.2010040283203
+          ],
+          "heading": -0.05352026969194412
+        },
+        {
+          "name": "Mustard student - west corridor",
+          "pixel_center": [
+            295.9497375488281,
+            421.9081115722656
+          ],
+          "heading": -2.887918472290039
+        }
+      ]
+    },
+    {
+      "frame": 5,
+      "image": "frames\\0005.png",
+      "people_source": "imagegen_raw/people_0005.png",
+      "actors": [
+        {
+          "name": "Navy student - commons",
+          "pixel_center": [
+            835.5,
+            549.7942352294922
+          ],
+          "heading": 1.7757246494293213
+        },
+        {
+          "name": "Coral student - commons aisle",
+          "pixel_center": [
+            773.4115600585938,
+            326.5
+          ],
+          "heading": 0.8570719361305237
+        },
+        {
+          "name": "Green student - iLab central aisle",
+          "pixel_center": [
+            614.25,
+            636.7512817382812
+          ],
+          "heading": -0.09252350777387619
+        },
+        {
+          "name": "Mustard student - west corridor",
+          "pixel_center": [
+            297.0621643066406,
+            427.5
+          ],
+          "heading": -2.9930124282836914
+        }
+      ]
+    },
+    {
+      "frame": 6,
+      "image": "frames\\0006.png",
+      "people_source": "imagegen_raw/people_0006.png",
+      "actors": [
+        {
+          "name": "Navy student - commons",
+          "pixel_center": [
+            829.470458984375,
+            550.6933288574219
+          ],
+          "heading": 1.6669604778289795
+        },
+        {
+          "name": "Coral student - commons aisle",
+          "pixel_center": [
+            771.6133422851562,
+            324.3293762207031
+          ],
+          "heading": 0.49195221066474915
+        },
+        {
+          "name": "Green student - iLab central aisle",
+          "pixel_center": [
+            614.6117553710938,
+            633.9540710449219
+          ],
+          "heading": -0.19732949137687683
+        },
+        {
+          "name": "Mustard student - west corridor",
+          "pixel_center": [
+            297.761474609375,
+            434.0118713378906
+          ],
+          "heading": -3.0722358226776123
+        }
+      ]
+    },
+    {
+      "frame": 7,
+      "image": "frames\\0007.png",
+      "people_source": "imagegen_raw/people_0007.png",
+      "actors": [
+        {
+          "name": "Navy student - commons",
+          "pixel_center": [
+            823.0,
+            551.0
+          ],
+          "heading": 1.5707963705062866
+        },
+        {
+          "name": "Coral student - commons aisle",
+          "pixel_center": [
+            771.0,
+            322.0
+          ],
+          "heading": 0.0
+        },
+        {
+          "name": "Green student - iLab central aisle",
+          "pixel_center": [
+            615.0,
+            633.0
+          ],
+          "heading": -1.5707963705062866
+        },
+        {
+          "name": "Mustard student - west corridor",
+          "pixel_center": [
+            298.0,
+            441.0
+          ],
+          "heading": -3.1415927410125732
+        }
+      ]
+    },
+    {
+      "frame": 8,
+      "image": "frames\\0008.png",
+      "people_source": "imagegen_raw/people_0008.png",
+      "actors": [
+        {
+          "name": "Navy student - commons",
+          "pixel_center": [
+            816.529541015625,
+            550.6933288574219
+          ],
+          "heading": 1.4746321439743042
+        },
+        {
+          "name": "Coral student - commons aisle",
+          "pixel_center": [
+            771.6133422851562,
+            319.6706237792969
+          ],
+          "heading": -0.49195221066474915
+        },
+        {
+          "name": "Green student - iLab central aisle",
+          "pixel_center": [
+            615.3882446289062,
+            633.9540710449219
+          ],
+          "heading": -2.944263219833374
+        },
+        {
+          "name": "Mustard student - west corridor",
+          "pixel_center": [
+            297.761474609375,
+            447.9881286621094
+          ],
+          "heading": 3.0722358226776123
+        }
+      ]
+    },
+    {
+      "frame": 9,
+      "image": "frames\\0009.png",
+      "people_source": "imagegen_raw/people_0009.png",
+      "actors": [
+        {
+          "name": "Navy student - commons",
+          "pixel_center": [
+            810.5,
+            549.7942352294922
+          ],
+          "heading": 1.3658679723739624
+        },
+        {
+          "name": "Coral student - commons aisle",
+          "pixel_center": [
+            773.4115600585938,
+            317.5
+          ],
+          "heading": -0.8570719361305237
+        },
+        {
+          "name": "Green student - iLab central aisle",
+          "pixel_center": [
+            615.75,
+            636.7512817382812
+          ],
+          "heading": -3.0490691661834717
+        },
+        {
+          "name": "Mustard student - west corridor",
+          "pixel_center": [
+            297.0621643066406,
+            454.5
+          ],
+          "heading": 2.9930124282836914
+        }
+      ]
+    },
+    {
+      "frame": 10,
+      "image": "frames\\0010.png",
+      "people_source": "imagegen_raw/people_0010.png",
+      "actors": [
+        {
+          "name": "Navy student - commons",
+          "pixel_center": [
+            805.3223266601562,
+            548.3639678955078
+          ],
+          "heading": 1.225240707397461
+        },
+        {
+          "name": "Coral student - commons aisle",
+          "pixel_center": [
+            776.2720947265625,
+            315.63604736328125
+          ],
+          "heading": -1.1071487665176392
+        },
+        {
+          "name": "Green student - iLab central aisle",
+          "pixel_center": [
+            616.0606689453125,
+            641.2010040283203
+          ],
+          "heading": -3.0880722999572754
+        },
+        {
+          "name": "Mustard student - west corridor",
+          "pixel_center": [
+            295.9497375488281,
+            460.0918884277344
+          ],
+          "heading": 2.887918472290039
+        }
+      ]
+    },
+    {
+      "frame": 11,
+      "image": "frames\\0011.png",
+      "people_source": "imagegen_raw/people_0011.png",
+      "actors": [
+        {
+          "name": "Navy student - commons",
+          "pixel_center": [
+            801.349365234375,
+            546.5
+          ],
+          "heading": 1.0132488012313843
+        },
+        {
+          "name": "Coral student - commons aisle",
+          "pixel_center": [
+            780.0,
+            314.2057800292969
+          ],
+          "heading": -1.2897614240646362
+        },
+        {
+          "name": "Green student - iLab central aisle",
+          "pixel_center": [
+            616.2990112304688,
+            647.0
+          ],
+          "heading": -3.110672950744629
+        },
+        {
+          "name": "Mustard student - west corridor",
+          "pixel_center": [
+            294.5,
+            464.3826904296875
+          ],
+          "heading": 2.719528913497925
+        }
+      ]
+    },
+    {
+      "frame": 12,
+      "image": "frames\\0012.png",
+      "people_source": "imagegen_raw/people_0012.png",
+      "actors": [
+        {
+          "name": "Navy student - commons",
+          "pixel_center": [
+            798.8518676757812,
+            544.3293762207031
+          ],
+          "heading": 0.6398453116416931
+        },
+        {
+          "name": "Coral student - commons aisle",
+          "pixel_center": [
+            784.3412475585938,
+            313.3066711425781
+          ],
+          "heading": -1.4376147985458374
+        },
+        {
+          "name": "Green student - iLab central aisle",
+          "pixel_center": [
+            616.4489135742188,
+            653.7530670166016
+          ],
+          "heading": -3.127239227294922
+        },
+        {
+          "name": "Mustard student - west corridor",
+          "pixel_center": [
+            292.8117370605469,
+            467.0799865722656
+          ],
+          "heading": 2.372675895690918
+        }
+      ]
+    },
+    {
+      "frame": 13,
+      "image": "frames\\0013.png",
+      "people_source": "imagegen_raw/people_0013.png",
+      "actors": [
+        {
+          "name": "Navy student - commons",
+          "pixel_center": [
+            798.0,
+            542.0
+          ],
+          "heading": 0.0
+        },
+        {
+          "name": "Coral student - commons aisle",
+          "pixel_center": [
+            789.0,
+            313.0
+          ],
+          "heading": -1.5707963705062866
+        },
+        {
+          "name": "Green student - iLab central aisle",
+          "pixel_center": [
+            616.5,
+            661.0
+          ],
+          "heading": -3.1415927410125732
+        },
+        {
+          "name": "Mustard student - west corridor",
+          "pixel_center": [
+            291.0,
+            468.0
+          ],
+          "heading": 1.5707963705062866
+        }
+      ]
+    },
+    {
+      "frame": 14,
+      "image": "frames\\0014.png",
+      "people_source": "imagegen_raw/people_0014.png",
+      "actors": [
+        {
+          "name": "Navy student - commons",
+          "pixel_center": [
+            798.8518676757812,
+            539.6706237792969
+          ],
+          "heading": -0.6398452520370483
+        },
+        {
+          "name": "Coral student - commons aisle",
+          "pixel_center": [
+            793.6587524414062,
+            313.3066711425781
+          ],
+          "heading": -1.7039778232574463
+        },
+        {
+          "name": "Green student - iLab central aisle",
+          "pixel_center": [
+            616.4489135742188,
+            668.2469329833984
+          ],
+          "heading": 3.127239227294922
+        },
+        {
+          "name": "Mustard student - west corridor",
+          "pixel_center": [
+            289.1882629394531,
+            467.0799865722656
+          ],
+          "heading": 0.7689167261123657
+        }
+      ]
+    },
+    {
+      "frame": 15,
+      "image": "frames\\0015.png",
+      "people_source": "imagegen_raw/people_0015.png",
+      "actors": [
+        {
+          "name": "Navy student - commons",
+          "pixel_center": [
+            801.349365234375,
+            537.5
+          ],
+          "heading": -1.0132488012313843
+        },
+        {
+          "name": "Coral student - commons aisle",
+          "pixel_center": [
+            798.0,
+            314.2057800292969
+          ],
+          "heading": -1.8518311977386475
+        },
+        {
+          "name": "Green student - iLab central aisle",
+          "pixel_center": [
+            616.2990112304688,
+            675.0
+          ],
+          "heading": 3.110672950744629
+        },
+        {
+          "name": "Mustard student - west corridor",
+          "pixel_center": [
+            287.5,
+            464.3826904296875
+          ],
+          "heading": 0.42206379771232605
+        }
+      ]
+    },
+    {
+      "frame": 16,
+      "image": "frames\\0016.png",
+      "people_source": "imagegen_raw/people_0016.png",
+      "actors": [
+        {
+          "name": "Navy student - commons",
+          "pixel_center": [
+            805.3223266601562,
+            535.6360321044922
+          ],
+          "heading": -1.225240707397461
+        },
+        {
+          "name": "Coral student - commons aisle",
+          "pixel_center": [
+            801.7279052734375,
+            315.63604736328125
+          ],
+          "heading": -2.0344438552856445
+        },
+        {
+          "name": "Green student - iLab central aisle",
+          "pixel_center": [
+            616.0606689453125,
+            680.7989883422852
+          ],
+          "heading": 3.0880722999572754
+        },
+        {
+          "name": "Mustard student - west corridor",
+          "pixel_center": [
+            286.0502624511719,
+            460.0918884277344
+          ],
+          "heading": 0.25367408990859985
+        }
+      ]
+    },
+    {
+      "frame": 17,
+      "image": "frames\\0017.png",
+      "people_source": "imagegen_raw/people_0017.png",
+      "actors": [
+        {
+          "name": "Navy student - commons",
+          "pixel_center": [
+            810.5,
+            534.2057647705078
+          ],
+          "heading": -1.3658679723739624
+        },
+        {
+          "name": "Coral student - commons aisle",
+          "pixel_center": [
+            804.5884399414062,
+            317.5
+          ],
+          "heading": -2.2845206260681152
+        },
+        {
+          "name": "Green student - iLab central aisle",
+          "pixel_center": [
+            615.75,
+            685.2487106323242
+          ],
+          "heading": 3.0490691661834717
+        },
+        {
+          "name": "Mustard student - west corridor",
+          "pixel_center": [
+            284.9378356933594,
+            454.5
+          ],
+          "heading": 0.14858029782772064
+        }
+      ]
+    },
+    {
+      "frame": 18,
+      "image": "frames\\0018.png",
+      "people_source": "imagegen_raw/people_0018.png",
+      "actors": [
+        {
+          "name": "Navy student - commons",
+          "pixel_center": [
+            816.529541015625,
+            533.3066711425781
+          ],
+          "heading": -1.4746321439743042
+        },
+        {
+          "name": "Coral student - commons aisle",
+          "pixel_center": [
+            806.3866577148438,
+            319.6706237792969
+          ],
+          "heading": -2.6496405601501465
+        },
+        {
+          "name": "Green student - iLab central aisle",
+          "pixel_center": [
+            615.3882446289062,
+            688.0459213256836
+          ],
+          "heading": 2.944263219833374
+        },
+        {
+          "name": "Mustard student - west corridor",
+          "pixel_center": [
+            284.238525390625,
+            447.9881286621094
+          ],
+          "heading": 0.06935688108205795
+        }
+      ]
+    },
+    {
+      "frame": 19,
+      "image": "frames\\0019.png",
+      "people_source": "imagegen_raw/people_0019.png",
+      "actors": [
+        {
+          "name": "Navy student - commons",
+          "pixel_center": [
+            823.0,
+            533.0
+          ],
+          "heading": -1.5707963705062866
+        },
+        {
+          "name": "Coral student - commons aisle",
+          "pixel_center": [
+            807.0,
+            322.0
+          ],
+          "heading": -3.1415927410125732
+        },
+        {
+          "name": "Green student - iLab central aisle",
+          "pixel_center": [
+            615.0,
+            689.0
+          ],
+          "heading": 1.5707963705062866
+        },
+        {
+          "name": "Mustard student - west corridor",
+          "pixel_center": [
+            284.0,
+            441.0
+          ],
+          "heading": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 20,
+      "image": "frames\\0020.png",
+      "people_source": "imagegen_raw/people_0020.png",
+      "actors": [
+        {
+          "name": "Navy student - commons",
+          "pixel_center": [
+            829.470458984375,
+            533.3066711425781
+          ],
+          "heading": -1.6669604778289795
+        },
+        {
+          "name": "Coral student - commons aisle",
+          "pixel_center": [
+            806.3866577148438,
+            324.3293762207031
+          ],
+          "heading": 2.6496405601501465
+        },
+        {
+          "name": "Green student - iLab central aisle",
+          "pixel_center": [
+            614.6117553710938,
+            688.0459213256836
+          ],
+          "heading": 0.19732949137687683
+        },
+        {
+          "name": "Mustard student - west corridor",
+          "pixel_center": [
+            284.238525390625,
+            434.0118713378906
+          ],
+          "heading": -0.06935688108205795
+        }
+      ]
+    },
+    {
+      "frame": 21,
+      "image": "frames\\0021.png",
+      "people_source": "imagegen_raw/people_0021.png",
+      "actors": [
+        {
+          "name": "Navy student - commons",
+          "pixel_center": [
+            835.5,
+            534.2057647705078
+          ],
+          "heading": -1.7757246494293213
+        },
+        {
+          "name": "Coral student - commons aisle",
+          "pixel_center": [
+            804.5884399414062,
+            326.5
+          ],
+          "heading": 2.2845206260681152
+        },
+        {
+          "name": "Green student - iLab central aisle",
+          "pixel_center": [
+            614.25,
+            685.2487106323242
+          ],
+          "heading": 0.09252350777387619
+        },
+        {
+          "name": "Mustard student - west corridor",
+          "pixel_center": [
+            284.9378356933594,
+            427.5
+          ],
+          "heading": -0.14858029782772064
+        }
+      ]
+    },
+    {
+      "frame": 22,
+      "image": "frames\\0022.png",
+      "people_source": "imagegen_raw/people_0022.png",
+      "actors": [
+        {
+          "name": "Navy student - commons",
+          "pixel_center": [
+            840.6776733398438,
+            535.6360321044922
+          ],
+          "heading": -1.9163519144058228
+        },
+        {
+          "name": "Coral student - commons aisle",
+          "pixel_center": [
+            801.7279052734375,
+            328.36395263671875
+          ],
+          "heading": 2.0344438552856445
+        },
+        {
+          "name": "Green student - iLab central aisle",
+          "pixel_center": [
+            613.9393310546875,
+            680.7989883422852
+          ],
+          "heading": 0.05352026969194412
+        },
+        {
+          "name": "Mustard student - west corridor",
+          "pixel_center": [
+            286.0502624511719,
+            421.9081115722656
+          ],
+          "heading": -0.25367408990859985
+        }
+      ]
+    },
+    {
+      "frame": 23,
+      "image": "frames\\0023.png",
+      "people_source": "imagegen_raw/people_0023.png",
+      "actors": [
+        {
+          "name": "Navy student - commons",
+          "pixel_center": [
+            844.650634765625,
+            537.5
+          ],
+          "heading": -2.1283438205718994
+        },
+        {
+          "name": "Coral student - commons aisle",
+          "pixel_center": [
+            798.0,
+            329.7942199707031
+          ],
+          "heading": 1.8518311977386475
+        },
+        {
+          "name": "Green student - iLab central aisle",
+          "pixel_center": [
+            613.7009887695312,
+            675.0
+          ],
+          "heading": 0.030919620767235756
+        },
+        {
+          "name": "Mustard student - west corridor",
+          "pixel_center": [
+            287.5,
+            417.6173095703125
+          ],
+          "heading": -0.42206379771232605
+        }
+      ]
+    },
+    {
+      "frame": 24,
+      "image": "frames\\0024.png",
+      "people_source": "imagegen_raw/people_0024.png",
+      "actors": [
+        {
+          "name": "Navy student - commons",
+          "pixel_center": [
+            847.1481323242188,
+            539.6706237792969
+          ],
+          "heading": -2.5017473697662354
+        },
+        {
+          "name": "Coral student - commons aisle",
+          "pixel_center": [
+            793.6587524414062,
+            330.6933288574219
+          ],
+          "heading": 1.7039778232574463
+        },
+        {
+          "name": "Green student - iLab central aisle",
+          "pixel_center": [
+            613.5510864257812,
+            668.2469329833984
+          ],
+          "heading": 0.0143534354865551
+        },
+        {
+          "name": "Mustard student - west corridor",
+          "pixel_center": [
+            289.1882629394531,
+            414.9200134277344
+          ],
+          "heading": -0.7689167261123657
+        }
+      ]
+    }
+  ],
+  "motion": "Only Imagegen people; fixed floors, furniture, lighting and camera",
+  "mask_last": true
+}

@@ -1,0 +1,290 @@
+{
+  "status": "passed",
+  "frame_count": 24,
+  "generated_character_asset_count": 24,
+  "resolution": [
+    1024,
+    786
+  ],
+  "keyframe_rate": 4,
+  "video_rate": 24,
+  "video_frames": 144,
+  "duration_seconds": 6,
+  "video_repeats_each_keyframe": 6,
+  "static_background_pixels": 801920,
+  "animated_pixels_union": 2944,
+  "all_walls_and_exterior_exact_rgb_zero": true,
+  "lossless_video_decodes_bit_exact_to_png_frames": true,
+  "frame24_to_frame1_mean_difference": 0.037517725561916876,
+  "largest_other_frame_difference": 0.0417072532336726,
+  "source_unchanged": true,
+  "source_sha256": "162df7bf4e1b55b222ac216e50b58d9f546ad9c8e20c52752935b3ddd5dc5407",
+  "generator": "Built-in image_gen tool; no explicit model-version selector is exposed",
+  "raw_generated_images_unmodified": true,
+  "frame_reports": [
+    {
+      "file": "frames\\0001.png",
+      "sha256": "20f6c55da30c89f53a9be28864fd065511a1f70e9d32d71f9984d04fda096f39",
+      "dimensions": [
+        1024,
+        786
+      ],
+      "mode": "RGB",
+      "changed_pixels": 256,
+      "maximum_channel_outside_floor_mask": 0
+    },
+    {
+      "file": "frames\\0002.png",
+      "sha256": "fbbf81f78c7a06ecbd9848a63c2269fb8bb4a2094035fa09feaf220c487dcbbf",
+      "dimensions": [
+        1024,
+        786
+      ],
+      "mode": "RGB",
+      "changed_pixels": 219,
+      "maximum_channel_outside_floor_mask": 0
+    },
+    {
+      "file": "frames\\0003.png",
+      "sha256": "47fc217bc8c0dcbd87bc3de6f5377016729663b1a6d90ed0496b0e06c947ce63",
+      "dimensions": [
+        1024,
+        786
+      ],
+      "mode": "RGB",
+      "changed_pixels": 231,
+      "maximum_channel_outside_floor_mask": 0
+    },
+    {
+      "file": "frames\\0004.png",
+      "sha256": "bd81ac782d90443a6a67bdbc50e419e79e1af3fc1a516e2e7d3bbcc3e8de96ff",
+      "dimensions": [
+        1024,
+        786
+      ],
+      "mode": "RGB",
+      "changed_pixels": 227,
+      "maximum_channel_outside_floor_mask": 0
+    },
+    {
+      "file": "frames\\0005.png",
+      "sha256": "e6ad5515ae06adfa69a5609f3a9be348ab92791feb632bae35210539ba481dce",
+      "dimensions": [
+        1024,
+        786
+      ],
+      "mode": "RGB",
+      "changed_pixels": 232,
+      "maximum_channel_outside_floor_mask": 0
+    },
+    {
+      "file": "frames\\0006.png",
+      "sha256": "34a63a211282577fe605652ff1cf640ad25ecf562108014ddcf491dfffa49efc",
+      "dimensions": [
+        1024,
+        786
+      ],
+      "mode": "RGB",
+      "changed_pixels": 239,
+      "maximum_channel_outside_floor_mask": 0
+    },
+    {
+      "file": "frames\\0007.png",
+      "sha256": "531df361c35f3ec5a7049566968ab6b1d1e59bc4b014068e08bac093449274c2",
+      "dimensions": [
+        1024,
+        786
+      ],
+      "mode": "RGB",
+      "changed_pixels": 206,
+      "maximum_channel_outside_floor_mask": 0
+    },
+    {
+      "file": "frames\\0008.png",
+      "sha256": "18be67b44b6f626b803881ba2c89cc3934d3dbd4f3ce67f8541ad728dc531f45",
+      "dimensions": [
+        1024,
+        786
+      ],
+      "mode": "RGB",
+      "changed_pixels": 216,
+      "maximum_channel_outside_floor_mask": 0
+    },
+    {
+      "file": "frames\\0009.png",
+      "sha256": "0936c05da4b43092ed43390cdc87d9fac80bc08b8c80f06637ab3d415f2120be",
+      "dimensions": [
+        1024,
+        786
+      ],
+      "mode": "RGB",
+      "changed_pixels": 244,
+      "maximum_channel_outside_floor_mask": 0
+    },
+    {
+      "file": "frames\\0010.png",
+      "sha256": "7dbb8aa2dcb7e6bc4a60dda99267b0300cfed66f09c1f234b5e5558b10cc7544",
+      "dimensions": [
+        1024,
+        786
+      ],
+      "mode": "RGB",
+      "changed_pixels": 223,
+      "maximum_channel_outside_floor_mask": 0
+    },
+    {
+      "file": "frames\\0011.png",
+      "sha256": "6a48522c80298c1175c28f7b881bc79e37a316c09a52b30cb2e5ba5e60394ccb",
+      "dimensions": [
+        1024,
+        786
+      ],
+      "mode": "RGB",
+      "changed_pixels": 231,
+      "maximum_channel_outside_floor_mask": 0
+    },
+    {
+      "file": "frames\\0012.png",
+      "sha256": "38071c1dc528fb520a29503f59976ba61323163c327274427d2f37dd013cb743",
+      "dimensions": [
+        1024,
+        786
+      ],
+      "mode": "RGB",
+      "changed_pixels": 225,
+      "maximum_channel_outside_floor_mask": 0
+    },
+    {
+      "file": "frames\\0013.png",
+      "sha256": "69358f478a32694ffa04f0b31281440fc4869204941f8b15d7c585aed9b4e48e",
+      "dimensions": [
+        1024,
+        786
+      ],
+      "mode": "RGB",
+      "changed_pixels": 240,
+      "maximum_channel_outside_floor_mask": 0
+    },
+    {
+      "file": "frames\\0014.png",
+      "sha256": "080ba689352c43056269cf026bf660659c864226e1058917a06590db0c59b271",
+      "dimensions": [
+        1024,
+        786
+      ],
+      "mode": "RGB",
+      "changed_pixels": 244,
+      "maximum_channel_outside_floor_mask": 0
+    },
+    {
+      "file": "frames\\0015.png",
+      "sha256": "d2ad3db14ade120db18d0219a3bfc5dad41ba124cd5da52e8e33a78804da7ac2",
+      "dimensions": [
+        1024,
+        786
+      ],
+      "mode": "RGB",
+      "changed_pixels": 230,
+      "maximum_channel_outside_floor_mask": 0
+    },
+    {
+      "file": "frames\\0016.png",
+      "sha256": "d6e671d6707a7058b7a51274d7306badb96dd001708216338df5f8e614907716",
+      "dimensions": [
+        1024,
+        786
+      ],
+      "mode": "RGB",
+      "changed_pixels": 235,
+      "maximum_channel_outside_floor_mask": 0
+    },
+    {
+      "file": "frames\\0017.png",
+      "sha256": "f74e472dcb3a9ec532e07d0e374f49b427bd2bb37917c7150a13526ef481fd43",
+      "dimensions": [
+        1024,
+        786
+      ],
+      "mode": "RGB",
+      "changed_pixels": 234,
+      "maximum_channel_outside_floor_mask": 0
+    },
+    {
+      "file": "frames\\0018.png",
+      "sha256": "e6351d628a266b2ef13b88d52b9ec8cfc7b839ce7b7347c5da410cdba32da4d3",
+      "dimensions": [
+        1024,
+        786
+      ],
+      "mode": "RGB",
+      "changed_pixels": 236,
+      "maximum_channel_outside_floor_mask": 0
+    },
+    {
+      "file": "frames\\0019.png",
+      "sha256": "3ec272d40d87901c8b0008feb610b7e2e1c007a13948dca6e016a9fc1356d251",
+      "dimensions": [
+        1024,
+        786
+      ],
+      "mode": "RGB",
+      "changed_pixels": 196,
+      "maximum_channel_outside_floor_mask": 0
+    },
+    {
+      "file": "frames\\0020.png",
+      "sha256": "8499284f53ac8bcb833260ed602ed90d58566b2d5ebb443db036bd1ce7acfd23",
+      "dimensions": [
+        1024,
+        786
+      ],
+      "mode": "RGB",
+      "changed_pixels": 230,
+      "maximum_channel_outside_floor_mask": 0
+    },
+    {
+      "file": "frames\\0021.png",
+      "sha256": "0a2ebe21271a9a153ea2aa5e2851a2a578f5ade7ca770a12cd48c45e4cdb5bb5",
+      "dimensions": [
+        1024,
+        786
+      ],
+      "mode": "RGB",
+      "changed_pixels": 214,
+      "maximum_channel_outside_floor_mask": 0
+    },
+    {
+      "file": "frames\\0022.png",
+      "sha256": "1250c15b6c2ab57988a09a44b1ea3c91a8510989622a61c275faee9fe2089d5a",
+      "dimensions": [
+        1024,
+        786
+      ],
+      "mode": "RGB",
+      "changed_pixels": 223,
+      "maximum_channel_outside_floor_mask": 0
+    },
+    {
+      "file": "frames\\0023.png",
+      "sha256": "cadbaf4a499f7ba3c0f39590da241295921763e1fc66f8d515c3b96aaad8c085",
+      "dimensions": [
+        1024,
+        786
+      ],
+      "mode": "RGB",
+      "changed_pixels": 233,
+      "maximum_channel_outside_floor_mask": 0
+    },
+    {
+      "file": "frames\\0024.png",
+      "sha256": "8c0d4f960dc80488628f8ff4435749852e343612d0d803b655811ed0c55bc7d6",
+      "dimensions": [
+        1024,
+        786
+      ],
+      "mode": "RGB",
+      "changed_pixels": 225,
+      "maximum_channel_outside_floor_mask": 0
+    }
+  ]
+}
