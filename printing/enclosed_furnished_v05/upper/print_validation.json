@@ -1,0 +1,183 @@
+{
+  "status": "passed",
+  "level": "upper",
+  "scale": "1:87.5",
+  "filename": "Campus_Center_Upper_Enclosed_1_87p5.stl",
+  "structural_source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v12_roof_set\\Campus_Center_Upper_v12.stl",
+  "source_sha256": "6c120c450eadad02e15fd7a7eaa065c7b19cc563ee413f9bf4c8e2aa5c6509c9",
+  "assembly_bounds_mm": [
+    [
+      12.0,
+      7.0,
+      0.0
+    ],
+    [
+      784.0,
+      570.0,
+      55.3120002746582
+    ]
+  ],
+  "assembly_dimensions_mm": [
+    772.0,
+    563.0,
+    55.3120002746582
+  ],
+  "floor_thickness_mm": 4.8,
+  "furnished_volume_mm3": 2274227.7134731053,
+  "components": 1,
+  "watertight": true,
+  "downward_faces_above_bed": 0,
+  "extra_ground_plane": false,
+  "solid_exterior_wall_height_mm": 49.3,
+  "terrace_guard_top_mm": 16.8,
+  "enclosure_sources": [
+    "Fitness_north_glass0",
+    "Fitness_north_glass1",
+    "Fitness_west_glass0",
+    "Toilets_west_glass0",
+    "Toilets_west_glass1",
+    "Toilets_west_glass2",
+    "Toilets_west_glass3",
+    "West_upper_south_glass0",
+    "Upper_entry_storefront_glass0",
+    "Upper_entry_storefront_glass1",
+    "Classrooms_upper_south_glass0",
+    "Classrooms_upper_south_glass1",
+    "Classrooms_upper_south_glass2",
+    "Offices_upper_south_glass0",
+    "Offices_upper_south_glass1",
+    "Offices_upper_south_glass2",
+    "Upper_commons_north_glass0",
+    "Upper_commons_east_glass0",
+    "Terrace_access_wall_wall0",
+    "Terrace_access_wall_lintel0",
+    "Terrace_access_wall_door0_leaf1_glass",
+    "Terrace_access_wall_door0_leaf2_glass",
+    "Terrace_access_wall_end",
+    "Gallery_upper_east_glass0",
+    "Gallery_upper_south_glass0"
+  ],
+  "split_x_mm": [
+    12.0,
+    269.3333333333333,
+    526.6666666666666,
+    784.0
+  ],
+  "split_y_mm": [
+    7.0,
+    288.5,
+    570.0
+  ],
+  "tiles": [
+    {
+      "name": "Upper_A1",
+      "file": "Upper_A1.stl",
+      "assembly_offset_mm": [
+        12.0,
+        97.0,
+        0.0
+      ],
+      "dimensions_mm": [
+        257.3333435058594,
+        191.5,
+        52.16228485107422
+      ],
+      "volume_mm3": 691705.784041644,
+      "watertight": true,
+      "single_component": true,
+      "sha256": "9134cd8ded0077b1ed48887f19e822aeb8e2b63eaeb015f0d8f0c964eda67b25"
+    },
+    {
+      "name": "Upper_A2",
+      "file": "Upper_A2.stl",
+      "assembly_offset_mm": [
+        269.3333435058594,
+        22.0,
+        0.0
+      ],
+      "dimensions_mm": [
+        257.3333435058594,
+        195.0,
+        52.16228485107422
+      ],
+      "volume_mm3": 626179.2735357693,
+      "watertight": true,
+      "single_component": true,
+      "sha256": "1dd9116584fce703ee87da139d0107366af788af72a1be610e266bf193159caa"
+    },
+    {
+      "name": "Upper_A3",
+      "file": "Upper_A3.stl",
+      "assembly_offset_mm": [
+        526.6666870117188,
+        7.0,
+        0.0
+      ],
+      "dimensions_mm": [
+        257.33331298828125,
+        281.5,
+        52.16228485107422
+      ],
+      "volume_mm3": 349248.47075019043,
+      "watertight": true,
+      "single_component": true,
+      "sha256": "e061a84abc58b2195f1708ea3e0240eceb30a8c5a0e11064fd098cbc38983fe0"
+    },
+    {
+      "name": "Upper_B1",
+      "file": "Upper_B1.stl",
+      "assembly_offset_mm": [
+        12.0,
+        288.5,
+        0.0
+      ],
+      "dimensions_mm": [
+        257.3333435058594,
+        281.5,
+        55.3120002746582
+      ],
+      "volume_mm3": 292964.37497763993,
+      "watertight": true,
+      "single_component": true,
+      "sha256": "6c820278afba79f311a45c40d970efe915a5fb590e3ea0225360b7710ada828d"
+    },
+    {
+      "name": "Upper_B2",
+      "file": "Upper_B2.stl",
+      "assembly_offset_mm": [
+        269.3333435058594,
+        561.0,
+        0.0
+      ],
+      "dimensions_mm": [
+        257.3333435058594,
+        9.0,
+        55.3120002746582
+      ],
+      "volume_mm3": 111445.33785072551,
+      "watertight": true,
+      "single_component": true,
+      "sha256": "a1ff4de8b7a9f729d2c424e9bc42400ee66eaeb21b3d5df2a9d2a32407900982"
+    },
+    {
+      "name": "Upper_B3",
+      "file": "Upper_B3.stl",
+      "assembly_offset_mm": [
+        526.6666870117188,
+        288.5,
+        0.0
+      ],
+      "dimensions_mm": [
+        201.33331298828125,
+        281.5,
+        55.3120002746582
+      ],
+      "volume_mm3": 202684.4722897274,
+      "watertight": true,
+      "single_component": true,
+      "sha256": "6e929b81699f708a60e7a3982e87c1e7657ea8cdb81368ffad78e6b9be23348f"
+    }
+  ],
+  "tiles_volume_relative_error": 1.205192567505737e-11,
+  "support_basis": "Every added feature is filled vertically to the bed; all exported meshes have no downward-facing faces above their underside."
+}

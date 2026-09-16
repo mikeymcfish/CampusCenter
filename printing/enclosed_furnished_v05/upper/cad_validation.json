@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "file": "Campus_Center_Upper_Enclosed_1_87p5.step",
+  "units": "millimetres",
+  "scale": "1:87.5",
+  "solid_count": 1,
+  "valid_brep": true,
+  "reopened_volume_mm3": 2274227.713473097,
+  "mesh_volume_mm3": 2274227.7134731053,
+  "relative_volume_error": 3.685604181974731e-15,
+  "representation": "Closed faceted B-representation, coplanar faces unified. Exact supported print solid; no original parametric feature history."
+}

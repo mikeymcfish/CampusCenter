@@ -1,0 +1,275 @@
+{
+  "status": "passed",
+  "meshes": [
+    {
+      "file": "Campus_Center_Ground_Enclosed_1_87p5.stl",
+      "watertight": true,
+      "consistent_winding": true,
+      "components": 1,
+      "elevated_downward_faces": 0,
+      "bounds_mm": [
+        [
+          13.0,
+          8.0,
+          0.0
+        ],
+        [
+          756.0,
+          570.0,
+          53.56800079345703
+        ]
+      ],
+      "volume_mm3": 3945904.751670247
+    },
+    {
+      "file": "Ground_A1.stl",
+      "watertight": true,
+      "consistent_winding": true,
+      "components": 1,
+      "elevated_downward_faces": 0,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          247.66665649414062,
+          197.0,
+          48.768001556396484
+        ]
+      ],
+      "volume_mm3": 915186.7294642328
+    },
+    {
+      "file": "Ground_A2.stl",
+      "watertight": true,
+      "consistent_winding": true,
+      "components": 1,
+      "elevated_downward_faces": 0,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          247.66668701171875,
+          270.0,
+          48.768001556396484
+        ]
+      ],
+      "volume_mm3": 703848.6371607389
+    },
+    {
+      "file": "Ground_A3.stl",
+      "watertight": true,
+      "consistent_winding": true,
+      "components": 1,
+      "elevated_downward_faces": 0,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          247.66665649414062,
+          281.0,
+          53.56800079345703
+        ]
+      ],
+      "volume_mm3": 679110.1788431703
+    },
+    {
+      "file": "Ground_B1.stl",
+      "watertight": true,
+      "consistent_winding": true,
+      "components": 1,
+      "elevated_downward_faces": 0,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          247.66665649414062,
+          281.0,
+          48.768001556396484
+        ]
+      ],
+      "volume_mm3": 828897.7387380338
+    },
+    {
+      "file": "Ground_B2.stl",
+      "watertight": true,
+      "consistent_winding": true,
+      "components": 1,
+      "elevated_downward_faces": 0,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          247.66668701171875,
+          281.0,
+          48.768001556396484
+        ]
+      ],
+      "volume_mm3": 453113.7663142911
+    },
+    {
+      "file": "Ground_B3.stl",
+      "watertight": true,
+      "consistent_winding": true,
+      "components": 1,
+      "elevated_downward_faces": 0,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          219.66665649414062,
+          281.0,
+          53.56800079345703
+        ]
+      ],
+      "volume_mm3": 365747.70379835024
+    }
+  ],
+  "three_mf": [
+    {
+      "file": "Campus_Center_Assembly.3mf",
+      "units": "millimeter",
+      "mesh_count": 6,
+      "STL_equivalence": true,
+      "assembly_bounds_mm": [
+        [
+          13.0,
+          8.0,
+          0.0
+        ],
+        [
+          756.0,
+          570.0,
+          53.568001
+        ]
+      ]
+    },
+    {
+      "file": "Ground_A1.3mf",
+      "units": "millimeter",
+      "mesh_count": 1,
+      "STL_equivalence": true,
+      "assembly_bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          247.666656,
+          197.0,
+          48.768002
+        ]
+      ]
+    },
+    {
+      "file": "Ground_A2.3mf",
+      "units": "millimeter",
+      "mesh_count": 1,
+      "STL_equivalence": true,
+      "assembly_bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          247.666687,
+          270.0,
+          48.768002
+        ]
+      ]
+    },
+    {
+      "file": "Ground_A3.3mf",
+      "units": "millimeter",
+      "mesh_count": 1,
+      "STL_equivalence": true,
+      "assembly_bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          247.666656,
+          281.0,
+          53.568001
+        ]
+      ]
+    },
+    {
+      "file": "Ground_B1.3mf",
+      "units": "millimeter",
+      "mesh_count": 1,
+      "STL_equivalence": true,
+      "assembly_bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          247.666656,
+          281.0,
+          48.768002
+        ]
+      ]
+    },
+    {
+      "file": "Ground_B2.3mf",
+      "units": "millimeter",
+      "mesh_count": 1,
+      "STL_equivalence": true,
+      "assembly_bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          247.666687,
+          281.0,
+          48.768002
+        ]
+      ]
+    },
+    {
+      "file": "Ground_B3.3mf",
+      "units": "millimeter",
+      "mesh_count": 1,
+      "STL_equivalence": true,
+      "assembly_bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          219.666656,
+          281.0,
+          53.568001
+        ]
+      ]
+    }
+  ],
+  "videos": [],
+  "source_hashes_unchanged": true
+}

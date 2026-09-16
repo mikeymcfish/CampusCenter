@@ -1,0 +1,526 @@
+{
+  "status": "passed",
+  "files_verified": 102,
+  "files": [
+    {
+      "file": "README.md",
+      "bytes": 790,
+      "sha256": "cca22699059d3e6b1cfa92e9850436f4936547633ffd4e8bbe66f6347088b3e5"
+    },
+    {
+      "file": "ground/cad_validation.json",
+      "bytes": 464,
+      "sha256": "948b13c8beda8f7aa372547037fe8e57b7be5a48f21d75c3a3b11d92658515a1"
+    },
+    {
+      "file": "ground/Campus_Center_Assembly.3mf",
+      "bytes": 240585,
+      "sha256": "45c8dc1d31943476011abe9c3cc5c2849ba4eeb80e6b66e0660fa94d99283753"
+    },
+    {
+      "file": "ground/Campus_Center_Furnished_Print.blend",
+      "bytes": 654662,
+      "sha256": "38cfed35699bcd66ad2fcd8382c268f264a726b422120616306ecf355f08c69a"
+    },
+    {
+      "file": "ground/Campus_Center_Ground_Enclosed_1_87p5.step",
+      "bytes": 33879374,
+      "sha256": "7388cdb6695ad9f9d3e479f11db0ba3610e920503508a8517aa817b9e5385750"
+    },
+    {
+      "file": "ground/Campus_Center_Ground_Enclosed_1_87p5.stl",
+      "bytes": 1363984,
+      "sha256": "8a240733a27443abb859299a34efdc2b682c23c742e536b91b60f9853789b824"
+    },
+    {
+      "file": "ground/Campus_Center_Information_Preview.blend",
+      "bytes": 872641,
+      "sha256": "1d79f1a0773a0074be429ec543fe68785f867294f34020568026c276ff20d15d"
+    },
+    {
+      "file": "ground/Campus_Center_Projection_Receiver.blend",
+      "bytes": 658200,
+      "sha256": "127a27a0af211d8b416f056a502319d46908cde1e4d538c9e27dc51b1a06b3da"
+    },
+    {
+      "file": "ground/delivery_validation.json",
+      "bytes": 5904,
+      "sha256": "11d09b7b58bb144883afa6af0d4db622351c7a44bfc2d2b456dfdac464303afc"
+    },
+    {
+      "file": "ground/floor_mask.png",
+      "bytes": 58532,
+      "sha256": "0cf4c04ff1bc743db88f5d3487a144fc22beeb8ad13b27bb15b1abf49c410586"
+    },
+    {
+      "file": "ground/Furnished_Print_Preview.png",
+      "bytes": 595578,
+      "sha256": "9cf112027b0e672f30230223de98d0c80a07d3905d8a5b40b5d6faf00e487aa4"
+    },
+    {
+      "file": "ground/Furnished_Print_Top.png",
+      "bytes": 984639,
+      "sha256": "8a168d76c25c2d4d1f358a6cd93e02c1d90cca3535bba73b540945967ddcc791"
+    },
+    {
+      "file": "ground/furniture_mask.png",
+      "bytes": 56369,
+      "sha256": "9ebd80f259974d483b366c28ff93b2d46412c8d949f1d7835aa41c52f8b98e9e"
+    },
+    {
+      "file": "ground/Information_On_Model_01.png",
+      "bytes": 883603,
+      "sha256": "f6aeacc3827ade1daa20a699c1ada8eaeec18251f4f2a124b128d25bb1fce2ad"
+    },
+    {
+      "file": "ground/Information_On_Model_06.png",
+      "bytes": 889656,
+      "sha256": "9a2794a05b68fa7fa27e332d7b5b7dbdc518a6d8792d9115d720f121d7c0260f"
+    },
+    {
+      "file": "ground/print_validation.json",
+      "bytes": 4146,
+      "sha256": "5b3077ae4b85e4343bdcccda04897b01f9baa49916c9863f53fa9ffc13e478a8"
+    },
+    {
+      "file": "ground/README.md",
+      "bytes": 3781,
+      "sha256": "505dfff4ad600827750da665c43028b146a4b9bfe8f2e83167befba4506f4d98"
+    },
+    {
+      "file": "ground/receiver_contract.json",
+      "bytes": 371,
+      "sha256": "4bd2d515eeb89579042d140b1d07a394d133e4534685f5535de10aecfe1ede79"
+    },
+    {
+      "file": "ground/receiver_mask.png",
+      "bytes": 51404,
+      "sha256": "09a5c72d6cd98a289edb3202008ecfee2b090a0bf28b0798fd581663bd8ecd50"
+    },
+    {
+      "file": "ground/reopen_print_validation.json",
+      "bytes": 5316,
+      "sha256": "60d9c8deacdc3aed5b84f29c82e4fce44a1a71563215c3684758ca31e5746921"
+    },
+    {
+      "file": "ground/Tile_Assembly.png",
+      "bytes": 715136,
+      "sha256": "9dcaeb9cffb2e868f3b14e07f88d368dc3bffe33cdd74c05ef7972e6918b8813"
+    },
+    {
+      "file": "ground/print_tiles/Ground_A1.3mf",
+      "bytes": 32550,
+      "sha256": "9d82b44bcee5b24ddb0ebe7da148c5ac2a4a51555a1a77760e02db6a42f7c9eb"
+    },
+    {
+      "file": "ground/print_tiles/Ground_A1.stl",
+      "bytes": 180884,
+      "sha256": "3f38c606128d3be70206d668be63fa6bc29b8cdf8e269b3307a837244f899245"
+    },
+    {
+      "file": "ground/print_tiles/Ground_A2.3mf",
+      "bytes": 37888,
+      "sha256": "0606080d034133f610361ce19ae1ff1b46ffd0fbe6925c54a52ef04d298b1234"
+    },
+    {
+      "file": "ground/print_tiles/Ground_A2.stl",
+      "bytes": 212784,
+      "sha256": "6159a5a2682428464b335a49435db126393b5fc3c01049ec5fe6e2ce4a6e3fb1"
+    },
+    {
+      "file": "ground/print_tiles/Ground_A3.3mf",
+      "bytes": 84652,
+      "sha256": "d068231015ba3eeae74bc1c59bca8793fa21b96d4c997e732b1327102a0a151b"
+    },
+    {
+      "file": "ground/print_tiles/Ground_A3.stl",
+      "bytes": 491384,
+      "sha256": "3fd7d7d0ca33a0a39b03b1778cd5ae4b742c3ca70245cba2b67039f94e07da11"
+    },
+    {
+      "file": "ground/print_tiles/Ground_B1.3mf",
+      "bytes": 38682,
+      "sha256": "319aad5689e27e30579e6cd613ac818d308fdc2f881905bf7fdc3a95255cebe5"
+    },
+    {
+      "file": "ground/print_tiles/Ground_B1.stl",
+      "bytes": 218984,
+      "sha256": "b0bdb0dca6aa7c4e5a65b8e1c910918623363dd5c7979b27b5ae6c613aac5ee7"
+    },
+    {
+      "file": "ground/print_tiles/Ground_B2.3mf",
+      "bytes": 2304,
+      "sha256": "bb814d15c4fcd4da60afc7517319704cabd23f88fa6e82d8b42baaceff08285e"
+    },
+    {
+      "file": "ground/print_tiles/Ground_B2.stl",
+      "bytes": 8184,
+      "sha256": "3931ead9715163c685caacdddfbd3ed5b2533035e180e96af2c6f6a4f50b475f"
+    },
+    {
+      "file": "ground/print_tiles/Ground_B3.3mf",
+      "bytes": 49208,
+      "sha256": "78a2982b396d5a5a80f2f664f16685ba4604c1f85359bd659566248f49ee8c29"
+    },
+    {
+      "file": "ground/print_tiles/Ground_B3.stl",
+      "bytes": 281284,
+      "sha256": "c07204b90eaa5aef134dd16adaa08b99e3ecd520d2255a6da95e6aea849f7716"
+    },
+    {
+      "file": "ground/information/Calibration_25mm.png",
+      "bytes": 17823,
+      "sha256": "bbe2a0a6c94650ab39c06ff8b4b7bec638c46b3e90ff54f0b6becbd0a69619ea"
+    },
+    {
+      "file": "ground/information/Campus_Center_Information_1024x786_RGB.mp4",
+      "bytes": 9915155,
+      "sha256": "529a5617f373edd7a039d1c8f750c30832a0cda3a5afadf9261dfc744d497812"
+    },
+    {
+      "file": "ground/information/Campus_Center_Information_Master_RGB.mp4",
+      "bytes": 14349933,
+      "sha256": "be1c1ab65ba1e1a060bba43e0abb2558c5285e8317ee132f455a389ef66ba4ad"
+    },
+    {
+      "file": "ground/information/Campus_Center_Information_Preview.mp4",
+      "bytes": 1711351,
+      "sha256": "74a9684faa4346344e28f0c0d1dfc770a46d683fc3a830045c1538ca0712ace2"
+    },
+    {
+      "file": "ground/information/Chapter_01.png",
+      "bytes": 59378,
+      "sha256": "e3bcc3125b137e0ed6cc35ca9bc90b5fca03bcf309ee4c4ae3a3fb32bce80170"
+    },
+    {
+      "file": "ground/information/Chapter_02.png",
+      "bytes": 52116,
+      "sha256": "2235f641e64fe817eddb4d8b38e12068bec3e09515949b80ae5f8b67bb35ad83"
+    },
+    {
+      "file": "ground/information/Chapter_03.png",
+      "bytes": 49185,
+      "sha256": "8ec44b76651b675bfebc532bdcfb3f988ac3ab944e7ef26638c3a41188e2105c"
+    },
+    {
+      "file": "ground/information/Chapter_04.png",
+      "bytes": 53038,
+      "sha256": "66a581cb2bdf010617eb1c534569013923cdf7f66345efc04b06b6efe194cf49"
+    },
+    {
+      "file": "ground/information/Chapter_05.png",
+      "bytes": 51429,
+      "sha256": "690b19aafd284413cec4dec6850faaf724fa0cc2fd80662b7948b5fe09bc51f9"
+    },
+    {
+      "file": "ground/information/Chapter_06.png",
+      "bytes": 60185,
+      "sha256": "82e79ed3b6236a93d95538fd3910038a266378e275e62041961e4b98dbbc70f6"
+    },
+    {
+      "file": "ground/information/Furniture_Only.png",
+      "bytes": 24391,
+      "sha256": "19993d09bc962f1857e8a6c27f0c6340a831eb5abc529a6668c4d51e6a1e83b0"
+    },
+    {
+      "file": "ground/information/index.html",
+      "bytes": 6318,
+      "sha256": "97d2786defd5c293ee133506ff1262022300d1883f5bc228916419e9870e0cc2"
+    },
+    {
+      "file": "ground/information/Information_Overview.png",
+      "bytes": 59378,
+      "sha256": "e3bcc3125b137e0ed6cc35ca9bc90b5fca03bcf309ee4c4ae3a3fb32bce80170"
+    },
+    {
+      "file": "ground/information/Native_Validity.png",
+      "bytes": 3662,
+      "sha256": "edc81306be77668a54f8719edf76fe5789a0b90a56f38d3e4db85746429af1ef"
+    },
+    {
+      "file": "ground/information/Projection_Validity.png",
+      "bytes": 8634,
+      "sha256": "c491fbd46da17b47b1ccc4a927e87d0e42886938d735ff86157c255868b08a6d"
+    },
+    {
+      "file": "ground/information/render_hashes.json",
+      "bytes": 147211,
+      "sha256": "5023f8dd526863347f8625e11d927f070c9929fff4602430cf8d2ea3a1ecbb0b"
+    },
+    {
+      "file": "ground/information/show_plan.json",
+      "bytes": 151221,
+      "sha256": "f619c147ef9772e98f9122dec04ad374e03cb0867c15d16adb70666aaee9efb9"
+    },
+    {
+      "file": "ground/Ground_Print_Package.zip",
+      "bytes": 7986591,
+      "sha256": "a6d839027df284a46242b2549d5002dbdaa4cfa7c36a9207df1853e83e37f21b"
+    },
+    {
+      "file": "upper/cad_validation.json",
+      "bytes": 462,
+      "sha256": "3add8871d7c62a8129b95eda1a67424f9e8ae2565b39a83e0d7c7259f942eef2"
+    },
+    {
+      "file": "upper/Campus_Center_Assembly.3mf",
+      "bytes": 69153,
+      "sha256": "e47cdd3893068bdec79a895d01d742589b9e5db505244fdf7a1275e731a842f3"
+    },
+    {
+      "file": "upper/Campus_Center_Furnished_Print.blend",
+      "bytes": 244946,
+      "sha256": "2a159799d4cb8fdeb1e4fb8b96e105e11b75325e1f197e0808c2f7b1be8adb32"
+    },
+    {
+      "file": "upper/Campus_Center_Information_Preview.blend",
+      "bytes": 314302,
+      "sha256": "6d9fc0f8bc335479dad7e7f617e95f6c09daa8fe4c5f17f12e3ccd773bb82819"
+    },
+    {
+      "file": "upper/Campus_Center_Projection_Receiver.blend",
+      "bytes": 246233,
+      "sha256": "45de0733532fb01d7ee762b92d42aad9fe69fe263d1c691414457d43f1ba14c6"
+    },
+    {
+      "file": "upper/Campus_Center_Upper_Enclosed_1_87p5.step",
+      "bytes": 8972110,
+      "sha256": "ceadb92c93a645c64009940f53beaebd56b354288ee7c364e832405ea94f4782"
+    },
+    {
+      "file": "upper/Campus_Center_Upper_Enclosed_1_87p5.stl",
+      "bytes": 386184,
+      "sha256": "c42950eaa0753759eb0c8877a86db34ae46eb2eebbedb005b068e81f9d929803"
+    },
+    {
+      "file": "upper/delivery_validation.json",
+      "bytes": 5865,
+      "sha256": "9442c3de1489eaed44be5f0e25d598554a7fb6f0ecabd8104d92dc542c3e3e06"
+    },
+    {
+      "file": "upper/floor_mask.png",
+      "bytes": 50205,
+      "sha256": "82b66f60acda31a8a663c5520a810c1ed2078d79f42e1f5bca25301fd768ea51"
+    },
+    {
+      "file": "upper/Furnished_Print_Preview.png",
+      "bytes": 531309,
+      "sha256": "8449c5ce5daab793ad1b5e3a75c1b4be27c2454a072a3fcf296924dc596e02fb"
+    },
+    {
+      "file": "upper/Furnished_Print_Top.png",
+      "bytes": 653423,
+      "sha256": "8bbaa3ab5e27e16d656148dd2f4b2edf39ffe044460d71c6b21b40bc5fe0e729"
+    },
+    {
+      "file": "upper/furniture_mask.png",
+      "bytes": 46700,
+      "sha256": "5f73083e9f83024bbc530abd3d29bb2b58d20c8a685d18065dc1498efec69c9e"
+    },
+    {
+      "file": "upper/furniture_source.json",
+      "bytes": 46639,
+      "sha256": "e55a2818e4a79a408d589c04be925b4f7236b1a929c4462aafa6bc7020d63333"
+    },
+    {
+      "file": "upper/Information_On_Model_01.png",
+      "bytes": 581167,
+      "sha256": "5822f5531c510e99a2fd135a2f4930c5568b749fe21a56ada30de6c69cb6d460"
+    },
+    {
+      "file": "upper/Information_On_Model_06.png",
+      "bytes": 544765,
+      "sha256": "d7ed4309e5f79be530c78eee8cb00df792d982a69e0de0d7add34303c188696f"
+    },
+    {
+      "file": "upper/print_validation.json",
+      "bytes": 4845,
+      "sha256": "4a23526aa8a62cdaf8a66d8583d0405424cf0f83fc93c5322d5339ab2c743659"
+    },
+    {
+      "file": "upper/README.md",
+      "bytes": 4181,
+      "sha256": "7c202fd83f54427fa7f866f9c957c699ccc0d4ca6d1c36dd72428274d5fa257b"
+    },
+    {
+      "file": "upper/receiver_contract.json",
+      "bytes": 369,
+      "sha256": "c632a4e8c818519739c6f3331ff75b674666ba634d2ed0f62a68fa044f8b85a4"
+    },
+    {
+      "file": "upper/receiver_mask.png",
+      "bytes": 48567,
+      "sha256": "94f256469ea6d4243292986f02b630823ebbed6df8c14648578a56d51279346e"
+    },
+    {
+      "file": "upper/reopen_print_validation.json",
+      "bytes": 5277,
+      "sha256": "e5c7873a6559ac2f98a91bfc96bd5eed8e82502b9755331914e7df5c7e2cc796"
+    },
+    {
+      "file": "upper/Tile_Assembly.png",
+      "bytes": 480151,
+      "sha256": "8a703f92e5a6899e80a797321a3314666a0b64f3648f8b64f7a1f36147b00ec7"
+    },
+    {
+      "file": "upper/print_tiles/Upper_A1.3mf",
+      "bytes": 26599,
+      "sha256": "9f042526121b5cb0ba714682dbc0873102b222603a3cfa6899a522f6bb883b65"
+    },
+    {
+      "file": "upper/print_tiles/Upper_A1.stl",
+      "bytes": 151684,
+      "sha256": "9134cd8ded0077b1ed48887f19e822aeb8e2b63eaeb015f0d8f0c964eda67b25"
+    },
+    {
+      "file": "upper/print_tiles/Upper_A2.3mf",
+      "bytes": 18719,
+      "sha256": "a6a6f7d60b16da95fd5e38ae732000861ea169824905a6d5b9e281a2db407073"
+    },
+    {
+      "file": "upper/print_tiles/Upper_A2.stl",
+      "bytes": 105684,
+      "sha256": "1dd9116584fce703ee87da139d0107366af788af72a1be610e266bf193159caa"
+    },
+    {
+      "file": "upper/print_tiles/Upper_A3.3mf",
+      "bytes": 11292,
+      "sha256": "bd27cd4f0642254cdfad670e680d0d3f5ec77c62720c8bef0b531b91d5287afd"
+    },
+    {
+      "file": "upper/print_tiles/Upper_A3.stl",
+      "bytes": 59284,
+      "sha256": "e061a84abc58b2195f1708ea3e0240eceb30a8c5a0e11064fd098cbc38983fe0"
+    },
+    {
+      "file": "upper/print_tiles/Upper_B1.3mf",
+      "bytes": 11344,
+      "sha256": "1070a24a0e71f09adfcfe1c13d8c073e19c73fd36c055ae55e1fbacce3023417"
+    },
+    {
+      "file": "upper/print_tiles/Upper_B1.stl",
+      "bytes": 62584,
+      "sha256": "6c820278afba79f311a45c40d970efe915a5fb590e3ea0225360b7710ada828d"
+    },
+    {
+      "file": "upper/print_tiles/Upper_B2.3mf",
+      "bytes": 1133,
+      "sha256": "eb3f49b806ff11a2d9ed54ca030c39fee2a207d24e5bce8d670c5bca832b17ad"
+    },
+    {
+      "file": "upper/print_tiles/Upper_B2.stl",
+      "bytes": 1084,
+      "sha256": "a1ff4de8b7a9f729d2c424e9bc42400ee66eaeb21b3d5df2a9d2a32407900982"
+    },
+    {
+      "file": "upper/print_tiles/Upper_B3.3mf",
+      "bytes": 4826,
+      "sha256": "3896d6f23eabeaf150a4e737e9768157bc61ed1f8d53dc6a9c420ec573d35125"
+    },
+    {
+      "file": "upper/print_tiles/Upper_B3.stl",
+      "bytes": 22584,
+      "sha256": "6e929b81699f708a60e7a3982e87c1e7657ea8cdb81368ffad78e6b9be23348f"
+    },
+    {
+      "file": "upper/information/Calibration_25mm.png",
+      "bytes": 14822,
+      "sha256": "18a39c0323ca474467e37d9d0e95ec03d10a889ded421a36bacec31460a21da1"
+    },
+    {
+      "file": "upper/information/Campus_Center_Information_1024x786_RGB.mp4",
+      "bytes": 3317974,
+      "sha256": "e3ba2c73ffbb3a8b58fe7ad2028642da47c684def68ca819e8b8d5af53b2b985"
+    },
+    {
+      "file": "upper/information/Campus_Center_Information_Master_RGB.mp4",
+      "bytes": 3986831,
+      "sha256": "bb69cdb014f5ecd95ae0bb9e16f8a58cbee66c0951322c5361a26aac012c319a"
+    },
+    {
+      "file": "upper/information/Campus_Center_Information_Preview.mp4",
+      "bytes": 664131,
+      "sha256": "ec1d0463dfc459efea953fccb69359714165241c796d62378048724d014b8238"
+    },
+    {
+      "file": "upper/information/Chapter_01.png",
+      "bytes": 25257,
+      "sha256": "7189aa2260e9dc8e6b16e442d7c5a98a36e199f0dea7bd3a7e05ce76cb66467a"
+    },
+    {
+      "file": "upper/information/Chapter_02.png",
+      "bytes": 21197,
+      "sha256": "ae21bb454c550df9a4c6830e1188da3d40fd44b2bba52279a940774bc32aa5b2"
+    },
+    {
+      "file": "upper/information/Chapter_03.png",
+      "bytes": 22380,
+      "sha256": "fc51c185a8a8681a20b29d090ee27aa1f20c6ca102281961fcb29ef60b3b4027"
+    },
+    {
+      "file": "upper/information/Chapter_04.png",
+      "bytes": 22470,
+      "sha256": "ec836033dd08de08c5d4c7c9b8e32843f6a9ebdd889d5d276e8c34bc085ba02b"
+    },
+    {
+      "file": "upper/information/Chapter_05.png",
+      "bytes": 21755,
+      "sha256": "e84826f0881bd801f8b6c13fb50c3c07ba2e7215d6757c129f5647d09f8b41a4"
+    },
+    {
+      "file": "upper/information/Chapter_06.png",
+      "bytes": 25704,
+      "sha256": "51057a22803605ebc853eb5e28eafa32df864dcaee806fc34ddcc14f712022b3"
+    },
+    {
+      "file": "upper/information/Furniture_Only.png",
+      "bytes": 16513,
+      "sha256": "20187a65b58dc517c29a714b2d811b4de57915f382a9389ee79a042a217fa425"
+    },
+    {
+      "file": "upper/information/index.html",
+      "bytes": 6316,
+      "sha256": "a1a4bbc4851fa76b88b9e7f6e9a420ceeb387cce20347e933c647c015386519a"
+    },
+    {
+      "file": "upper/information/Information_Overview.png",
+      "bytes": 25257,
+      "sha256": "7189aa2260e9dc8e6b16e442d7c5a98a36e199f0dea7bd3a7e05ce76cb66467a"
+    },
+    {
+      "file": "upper/information/Native_Validity.png",
+      "bytes": 2663,
+      "sha256": "38dd85951b2cf10dc6b6e34e6ea030b9a650bd2a72b1a2a1513e6ddf849d5704"
+    },
+    {
+      "file": "upper/information/Projection_Validity.png",
+      "bytes": 6800,
+      "sha256": "69226ae16bdf01222e951211e111556ce8f4ca032df24c8f1205555f41f406f6"
+    },
+    {
+      "file": "upper/information/render_hashes.json",
+      "bytes": 147211,
+      "sha256": "f078db8566f0e6da52be7a37f851befeee1a2a0646d9ceb78b12a80aa5711574"
+    },
+    {
+      "file": "upper/information/show_plan.json",
+      "bytes": 78842,
+      "sha256": "2374aa07afeea6f8960121af0f862377c970a0948af0213c7d8f24982eec0c8f"
+    },
+    {
+      "file": "upper/Upper_Print_Package.zip",
+      "bytes": 2854974,
+      "sha256": "ebddf2ec555d84231287c6f0a217f2c99cae4f9b2a05291d99949c894cdb2173"
+    }
+  ],
+  "physical_print_tested": false,
+  "physical_projector_calibrated": false,
+  "shared_canvas_mm": [
+    830,
+    637.08984375
+  ],
+  "scale": "1:87.5",
+  "print_parts_per_floor": 6,
+  "workspace": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_enclosed_v05",
+  "repository_destination": "P:\\_code\\CampusCenter\\printing\\enclosed_furnished_v05"
+}

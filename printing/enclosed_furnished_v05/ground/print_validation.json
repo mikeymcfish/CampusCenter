@@ -1,0 +1,159 @@
+{
+  "status": "passed",
+  "level": "ground",
+  "scale": "1:87.5",
+  "filename": "Campus_Center_Ground_Enclosed_1_87p5.stl",
+  "structural_source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_furnished_v04\\Campus_Center_Ground_Furnished_1_87p5.stl",
+  "source_sha256": "11f355746ae6515ea36037e61366d81f7f6e46f449a40da756002588211a4777",
+  "assembly_bounds_mm": [
+    [
+      13.0,
+      8.0,
+      0.0
+    ],
+    [
+      756.0,
+      570.0,
+      53.56800079345703
+    ]
+  ],
+  "assembly_dimensions_mm": [
+    743.0,
+    562.0,
+    53.56800079345703
+  ],
+  "floor_thickness_mm": 4.8,
+  "furnished_volume_mm3": 3945904.751670247,
+  "components": 1,
+  "watertight": true,
+  "downward_faces_above_bed": 0,
+  "extra_ground_plane": false,
+  "solid_exterior_wall_height_mm": 48.768,
+  "terrace_guard_top_mm": 16.8,
+  "enclosure_sources": [
+    "3.5 mm inward perimeter wall around enclosed ground-floor slabs; exterior door/window openings solid"
+  ],
+  "split_x_mm": [
+    13.0,
+    260.66666666666663,
+    508.3333333333333,
+    756.0
+  ],
+  "split_y_mm": [
+    8.0,
+    289.0,
+    570.0
+  ],
+  "tiles": [
+    {
+      "name": "Ground_A1",
+      "file": "Ground_A1.stl",
+      "assembly_offset_mm": [
+        13.0,
+        92.0,
+        0.0
+      ],
+      "dimensions_mm": [
+        247.66665649414062,
+        197.0,
+        48.768001556396484
+      ],
+      "volume_mm3": 915186.7294642328,
+      "watertight": true,
+      "single_component": true,
+      "sha256": "3f38c606128d3be70206d668be63fa6bc29b8cdf8e269b3307a837244f899245"
+    },
+    {
+      "name": "Ground_A2",
+      "file": "Ground_A2.stl",
+      "assembly_offset_mm": [
+        260.6666564941406,
+        19.0,
+        0.0
+      ],
+      "dimensions_mm": [
+        247.66668701171875,
+        270.0,
+        48.768001556396484
+      ],
+      "volume_mm3": 703848.6371607389,
+      "watertight": true,
+      "single_component": true,
+      "sha256": "6159a5a2682428464b335a49435db126393b5fc3c01049ec5fe6e2ce4a6e3fb1"
+    },
+    {
+      "name": "Ground_A3",
+      "file": "Ground_A3.stl",
+      "assembly_offset_mm": [
+        508.3333435058594,
+        8.0,
+        0.0
+      ],
+      "dimensions_mm": [
+        247.66665649414062,
+        281.0,
+        53.56800079345703
+      ],
+      "volume_mm3": 679110.1788431703,
+      "watertight": true,
+      "single_component": true,
+      "sha256": "3fd7d7d0ca33a0a39b03b1778cd5ae4b742c3ca70245cba2b67039f94e07da11"
+    },
+    {
+      "name": "Ground_B1",
+      "file": "Ground_B1.stl",
+      "assembly_offset_mm": [
+        13.0,
+        289.0,
+        0.0
+      ],
+      "dimensions_mm": [
+        247.66665649414062,
+        281.0,
+        48.768001556396484
+      ],
+      "volume_mm3": 828897.7387380338,
+      "watertight": true,
+      "single_component": true,
+      "sha256": "b0bdb0dca6aa7c4e5a65b8e1c910918623363dd5c7979b27b5ae6c613aac5ee7"
+    },
+    {
+      "name": "Ground_B2",
+      "file": "Ground_B2.stl",
+      "assembly_offset_mm": [
+        260.6666564941406,
+        289.0,
+        0.0
+      ],
+      "dimensions_mm": [
+        247.66668701171875,
+        281.0,
+        48.768001556396484
+      ],
+      "volume_mm3": 453113.7663142911,
+      "watertight": true,
+      "single_component": true,
+      "sha256": "3931ead9715163c685caacdddfbd3ed5b2533035e180e96af2c6f6a4f50b475f"
+    },
+    {
+      "name": "Ground_B3",
+      "file": "Ground_B3.stl",
+      "assembly_offset_mm": [
+        508.3333435058594,
+        289.0,
+        0.0
+      ],
+      "dimensions_mm": [
+        219.66665649414062,
+        281.0,
+        53.56800079345703
+      ],
+      "volume_mm3": 365747.70379835024,
+      "watertight": true,
+      "single_component": true,
+      "sha256": "c07204b90eaa5aef134dd16adaa08b99e3ecd520d2255a6da95e6aea849f7716"
+    }
+  ],
+  "tiles_volume_relative_error": 6.712200981787354e-10,
+  "support_basis": "Every added feature is filled vertically to the bed; all exported meshes have no downward-facing faces above their underside."
+}

@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "file": "Campus_Center_Ground_Enclosed_1_87p5.step",
+  "units": "millimetres",
+  "scale": "1:87.5",
+  "solid_count": 1,
+  "valid_brep": true,
+  "reopened_volume_mm3": 3945904.7516703233,
+  "mesh_volume_mm3": 3945904.751670247,
+  "relative_volume_error": 1.9353850618452847e-14,
+  "representation": "Closed faceted B-representation, coplanar faces unified. Exact supported print solid; no original parametric feature history."
+}

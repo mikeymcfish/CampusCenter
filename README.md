@@ -85,3 +85,8 @@ Previous floor-only projection: [v03 - 93 students, detailed court and furnishin
 Current ground-floor projection model: [v04 — furniture integrated into the support-free print](printing/ground_furnished_projection_v04/README.md). Six STL/3MF tiles, a complete furnished STEP, unchanged 1:87.5 footprint, and no extra ground plane. [Print package](printing/ground_furnished_projection_v04/Campus_Center_Furnished_Print_Package.zip).
 
 The matching [42-second informational tour](printing/ground_furnished_projection_v04/information/Campus_Center_Information_Preview.mp4) highlights commons/cafe, iLab, learning/gallery and athletics, with room captions and checked circulation routes. [Player and alignment modes](printing/ground_furnished_projection_v04/information/index.html). Wall tops and exterior pixels remain black in the RGB masters. Digital geometry and decoded-frame checks passed; physical printing and projector calibration remain to be done.
+
+
+## Standalone enclosed projection prints v05
+
+[Ground and upper print sets](printing/enclosed_furnished_v05/README.md): six furnished, solid-wall printable parts per level, STEP/STL/3MF exports and separate 42-second informational projection loops. Shared new 830 mm canvas; use the matching v05 masks and videos. Originals and the stackable models remain available.
