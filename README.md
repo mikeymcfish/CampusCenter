@@ -1,5 +1,7 @@
 # King School Campus Center
 
+**Latest ground-floor print and projection package:** [Acrylic slots, 31 room references, and interactive Projection Studio v06](printing/acrylic_projection_v06/README.md). Includes six print pieces, 1/16-inch acrylic templates, H3 prompts, alignment and geometry-based animation examples.
+
 Current architectural scene, fabrication models and source references, compiled September 7, 2026.
 
 | Start here | Contents |

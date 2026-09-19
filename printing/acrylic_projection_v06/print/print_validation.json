@@ -1,0 +1,138 @@
+{
+  "watertight": true,
+  "components": 1,
+  "elevated_downward_faces": 0,
+  "dimensions_mm": [
+    743.773193359375,
+    562.0,
+    53.56800079345703
+  ],
+  "volume_mm3": 3750725.4249469335,
+  "status": "passed",
+  "scale": "1:87.5",
+  "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_enclosed_v05\\ground\\Campus_Center_Ground_Enclosed_1_87p5.stl",
+  "source_sha256": "8a240733a27443abb859299a34efdc2b682c23c742e536b91b60f9853789b824",
+  "source_unchanged": true,
+  "glazing_source_count": 36,
+  "pane_count": 40,
+  "slot_width_mm": 1.85,
+  "nominal_acrylic_mm": 1.5875,
+  "top_insertion_verified": true,
+  "split_x_mm": [
+    13.0,
+    260.66666666666663,
+    508.3333333333333,
+    756.773193359375
+  ],
+  "split_y_mm": [
+    8.0,
+    289.0,
+    570.0
+  ],
+  "tiles": [
+    {
+      "watertight": true,
+      "components": 1,
+      "elevated_downward_faces": 0,
+      "dimensions_mm": [
+        247.66665649414062,
+        197.0,
+        48.768001556396484
+      ],
+      "volume_mm3": 902440.5564902732,
+      "name": "Acrylic_A1",
+      "assembly_offset_mm": [
+        13.0,
+        92.0,
+        0.0
+      ]
+    },
+    {
+      "watertight": true,
+      "components": 1,
+      "elevated_downward_faces": 0,
+      "dimensions_mm": [
+        247.66668701171875,
+        270.0,
+        48.768001556396484
+      ],
+      "volume_mm3": 653765.259581219,
+      "name": "Acrylic_A2",
+      "assembly_offset_mm": [
+        260.6666564941406,
+        19.0,
+        0.0
+      ]
+    },
+    {
+      "watertight": true,
+      "components": 1,
+      "elevated_downward_faces": 0,
+      "dimensions_mm": [
+        248.43984985351562,
+        281.0,
+        53.56800079345703
+      ],
+      "volume_mm3": 617271.7003932259,
+      "name": "Acrylic_A3",
+      "assembly_offset_mm": [
+        508.3333435058594,
+        8.0,
+        0.0
+      ]
+    },
+    {
+      "watertight": true,
+      "components": 1,
+      "elevated_downward_faces": 0,
+      "dimensions_mm": [
+        247.66665649414062,
+        281.0,
+        48.768001556396484
+      ],
+      "volume_mm3": 811554.1440098298,
+      "name": "Acrylic_B1",
+      "assembly_offset_mm": [
+        13.0,
+        289.0,
+        0.0
+      ]
+    },
+    {
+      "watertight": true,
+      "components": 1,
+      "elevated_downward_faces": 0,
+      "dimensions_mm": [
+        247.66668701171875,
+        281.0,
+        48.768001556396484
+      ],
+      "volume_mm3": 437940.36788223527,
+      "name": "Acrylic_B2",
+      "assembly_offset_mm": [
+        260.6666564941406,
+        289.0,
+        0.0
+      ]
+    },
+    {
+      "watertight": true,
+      "components": 1,
+      "elevated_downward_faces": 0,
+      "dimensions_mm": [
+        219.66665649414062,
+        281.0,
+        53.56800079345703
+      ],
+      "volume_mm3": 327753.4061113859,
+      "name": "Acrylic_B3",
+      "assembly_offset_mm": [
+        508.3333435058594,
+        289.0,
+        0.0
+      ]
+    }
+  ],
+  "furnished_volume_mm3": 3750725.4249469335,
+  "physical_fit_tested": false
+}

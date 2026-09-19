@@ -1,0 +1,1140 @@
+{
+  "width": 1024,
+  "height": 786,
+  "physical_canvas_mm": [
+    830,
+    637.08984375
+  ],
+  "center_mm": [
+    398,
+    289
+  ],
+  "start": [
+    935,
+    548
+  ],
+  "rooms": [
+    {
+      "floor": "GROUND",
+      "number": "129",
+      "name": "ATHLETICS TRAINERS",
+      "center_mm": [
+        -42927.32984293194,
+        35586.596858638746,
+        0
+      ],
+      "source": "A-101",
+      "mask_bounds_px": [
+        89,
+        322,
+        232,
+        536
+      ],
+      "center_world_m": [
+        -42.79594116210937,
+        35.64722900390625
+      ],
+      "ortho_span_m": 8.1561279296875,
+      "output_resolution": [
+        1024,
+        1024
+      ],
+      "camera_z_m": 3.5,
+      "mask_area_m2": 38.482404209673405,
+      "visit_xy": [
+        78,
+        215
+      ],
+      "index": 1,
+      "image": "cinematic/athletics.png",
+      "image_caption": "RELATED VIEW / ATHLETICS CORRIDOR",
+      "image_is_room_specific": false
+    },
+    {
+      "floor": "GROUND",
+      "number": "127",
+      "name": "TRAINERS OFFICE",
+      "center_mm": [
+        -38725.02617801047,
+        37607.958115183246,
+        0
+      ],
+      "source": "A-101",
+      "mask_bounds_px": [
+        238,
+        322,
+        311,
+        444
+      ],
+      "center_world_m": [
+        -38.75333862304687,
+        37.27845458984375
+      ],
+      "ortho_span_m": 4.8936767578125,
+      "output_resolution": [
+        1024,
+        1024
+      ],
+      "camera_z_m": 3.5,
+      "mask_area_m2": 11.199408270418644,
+      "visit_xy": [
+        138,
+        191
+      ],
+      "index": 2,
+      "image": "cinematic/athletics.png",
+      "image_caption": "RELATED VIEW / ATHLETICS CORRIDOR",
+      "image_is_room_specific": false
+    },
+    {
+      "floor": "GROUND",
+      "number": "128",
+      "name": "TRAINERS STORAGE",
+      "center_mm": [
+        -38725.02617801047,
+        33352.46073298429,
+        0
+      ],
+      "source": "A-101",
+      "mask_bounds_px": [
+        238,
+        450,
+        311,
+        536
+      ],
+      "center_world_m": [
+        -38.75333862304687,
+        33.37769775390625
+      ],
+      "ortho_span_m": 3.6170654296874996,
+      "output_resolution": [
+        1024,
+        1024
+      ],
+      "camera_z_m": 3.5,
+      "mask_area_m2": 7.894664846360683,
+      "visit_xy": [
+        138,
+        247
+      ],
+      "index": 3,
+      "image": "cinematic/athletics.png",
+      "image_caption": "RELATED VIEW / ATHLETICS CORRIDOR",
+      "image_is_room_specific": false
+    },
+    {
+      "floor": "GROUND",
+      "number": "125",
+      "name": "ATHLETICS OFFICE",
+      "center_mm": [
+        -34682.30366492146,
+        37820.732984293194,
+        0
+      ],
+      "source": "A-101",
+      "mask_bounds_px": [
+        317,
+        322,
+        472,
+        428
+      ],
+      "center_world_m": [
+        -34.49796752929687,
+        37.56214599609375
+      ],
+      "ortho_span_m": 6.06390380859375,
+      "output_resolution": [
+        1024,
+        1024
+      ],
+      "camera_z_m": 3.5,
+      "mask_area_m2": 20.66093396395445,
+      "visit_xy": [
+        195,
+        191
+      ],
+      "index": 4,
+      "image": "cinematic/athletics.png",
+      "image_caption": "RELATED VIEW / ATHLETICS CORRIDOR",
+      "image_is_room_specific": false
+    },
+    {
+      "floor": "GROUND",
+      "number": "126",
+      "name": "ATHLETICS OFFICE",
+      "center_mm": [
+        -35958.95287958115,
+        33618.429319371724,
+        0
+      ],
+      "source": "A-101",
+      "mask_bounds_px": [
+        317,
+        434,
+        391,
+        536
+      ],
+      "center_world_m": [
+        -35.9341552734375,
+        33.66138916015625
+      ],
+      "ortho_span_m": 4.1844482421875,
+      "output_resolution": [
+        1024,
+        1024
+      ],
+      "camera_z_m": 3.5,
+      "mask_area_m2": 9.491705998778343,
+      "visit_xy": [
+        177,
+        243
+      ],
+      "index": 5,
+      "image": "cinematic/athletics.png",
+      "image_caption": "RELATED VIEW / ATHLETICS CORRIDOR",
+      "image_is_room_specific": false
+    },
+    {
+      "floor": "GROUND",
+      "number": "124",
+      "name": "ATHLETICS OFFICE",
+      "center_mm": [
+        -33086.49214659686,
+        33618.429319371724,
+        0
+      ],
+      "source": "A-101",
+      "mask_bounds_px": [
+        397,
+        434,
+        472,
+        536
+      ],
+      "center_world_m": [
+        -33.07951049804687,
+        33.66138916015625
+      ],
+      "ortho_span_m": 4.1844482421875,
+      "output_resolution": [
+        1024,
+        1024
+      ],
+      "camera_z_m": 3.5,
+      "mask_area_m2": 9.619972296059132,
+      "visit_xy": [
+        217,
+        243
+      ],
+      "index": 6,
+      "image": "cinematic/athletics.png",
+      "image_caption": "RELATED VIEW / ATHLETICS CORRIDOR",
+      "image_is_room_specific": false
+    },
+    {
+      "floor": "GROUND",
+      "number": "130",
+      "name": "CORRIDOR",
+      "center_mm": [
+        -37341.98952879581,
+        30479.999999999996,
+        0
+      ],
+      "source": "A-101",
+      "mask_bounds_px": [
+        89,
+        322,
+        557,
+        614
+      ],
+      "center_world_m": [
+        -37.03345947265625,
+        34.2642333984375
+      ],
+      "ortho_span_m": 17.163330078125,
+      "output_resolution": [
+        1024,
+        1024
+      ],
+      "camera_z_m": 3.5,
+      "mask_area_m2": 58.9647713676095,
+      "visit_xy": [
+        157,
+        287
+      ],
+      "index": 7,
+      "image": "cinematic/athletics.png",
+      "image_caption": "RELATED VIEW / ATHLETICS CORRIDOR",
+      "image_is_room_specific": false
+    },
+    {
+      "floor": "GROUND",
+      "number": "123",
+      "name": "TROPHY HALL / CORRIDOR",
+      "center_mm": [
+        -28192.670157068063,
+        22447.748691099474,
+        0
+      ],
+      "source": "A-101",
+      "mask_bounds_px": [
+        517,
+        322,
+        660,
+        1049
+      ],
+      "center_world_m": [
+        -27.618450927734376,
+        26.551373291015622
+      ],
+      "ortho_span_m": 26.34783935546875,
+      "output_resolution": [
+        1024,
+        1024
+      ],
+      "camera_z_m": 3.5,
+      "mask_area_m2": 95.69168782234192,
+      "visit_xy": [
+        286,
+        401
+      ],
+      "index": 8,
+      "image": "cinematic/athletics.png",
+      "image_caption": "RELATED VIEW / ATHLETICS CORRIDOR",
+      "image_is_room_specific": false
+    },
+    {
+      "floor": "GROUND",
+      "number": "122",
+      "name": "LOCKER ROOM",
+      "center_mm": [
+        -36224.92146596859,
+        25958.534031413612,
+        0
+      ],
+      "source": "A-101",
+      "mask_bounds_px": [
+        187,
+        612,
+        511,
+        794
+      ],
+      "center_world_m": [
+        -36.11146240234375,
+        25.930798339843747
+      ],
+      "ortho_span_m": 12.056884765625,
+      "output_resolution": [
+        1024,
+        1024
+      ],
+      "camera_z_m": 3.5,
+      "mask_area_m2": 74.15300998091698,
+      "visit_xy": [
+        168,
+        351
+      ],
+      "index": 9,
+      "image": "cinematic/athletics.png",
+      "image_caption": "RELATED VIEW / ATHLETICS CORRIDOR",
+      "image_is_room_specific": false
+    },
+    {
+      "floor": "GROUND",
+      "number": "121",
+      "name": "LOCKER ROOM",
+      "center_mm": [
+        -36224.92146596859,
+        19362.513089005235,
+        0
+      ],
+      "source": "A-101",
+      "mask_bounds_px": [
+        187,
+        800,
+        511,
+        975
+      ],
+      "center_world_m": [
+        -36.11146240234375,
+        19.388165283203122
+      ],
+      "ortho_span_m": 12.056884765625,
+      "output_resolution": [
+        1024,
+        1024
+      ],
+      "camera_z_m": 3.5,
+      "mask_area_m2": 71.3009711354971,
+      "visit_xy": [
+        168,
+        444
+      ],
+      "index": 10,
+      "image": "cinematic/athletics.png",
+      "image_caption": "RELATED VIEW / ATHLETICS CORRIDOR",
+      "image_is_room_specific": false
+    },
+    {
+      "floor": "GROUND",
+      "number": "119",
+      "name": "ATHLETICS STORAGE",
+      "center_mm": [
+        -43512.46073298429,
+        13989.947643979056,
+        0
+      ],
+      "source": "A-101",
+      "mask_bounds_px": [
+        89,
+        981,
+        190,
+        1122
+      ],
+      "center_world_m": [
+        -43.54063110351562,
+        13.572491455078126
+      ],
+      "ortho_span_m": 5.56744384765625,
+      "output_resolution": [
+        1024,
+        1024
+      ],
+      "camera_z_m": 3.5,
+      "mask_area_m2": 17.908238623291254,
+      "visit_xy": [
+        70,
+        520
+      ],
+      "index": 11,
+      "image": "cinematic/athletics.png",
+      "image_caption": "RELATED VIEW / ATHLETICS CORRIDOR",
+      "image_is_room_specific": false
+    },
+    {
+      "floor": "GROUND",
+      "number": "118",
+      "name": "JANITOR",
+      "center_mm": [
+        -41012.3560209424,
+        12074.973821989528,
+        0
+      ],
+      "source": "A-101",
+      "mask_bounds_px": [
+        196,
+        1053,
+        224,
+        1122
+      ],
+      "center_world_m": [
+        -41.0406005859375,
+        12.295880126953126
+      ],
+      "ortho_span_m": 3.01422119140625,
+      "output_resolution": [
+        1024,
+        1024
+      ],
+      "camera_z_m": 3.5,
+      "mask_area_m2": 2.4295145720243454,
+      "visit_xy": [
+        106,
+        546
+      ],
+      "index": 12,
+      "image": "cinematic/athletics.png",
+      "image_caption": "RELATED VIEW / ATHLETICS CORRIDOR",
+      "image_is_room_specific": false
+    },
+    {
+      "floor": "GROUND",
+      "number": "120",
+      "name": "MECH / ELECTRICAL",
+      "center_mm": [
+        -43140.10471204188,
+        9042.931937172774,
+        0
+      ],
+      "source": "A-101",
+      "mask_bounds_px": [
+        89,
+        1128,
+        224,
+        1220
+      ],
+      "center_world_m": [
+        -42.93778686523437,
+        9.228466796875
+      ],
+      "ortho_span_m": 5.35467529296875,
+      "output_resolution": [
+        1024,
+        1024
+      ],
+      "camera_z_m": 3.5,
+      "mask_area_m2": 15.618307963013649,
+      "visit_xy": null,
+      "index": 13,
+      "image": "cinematic/athletics.png",
+      "image_caption": "RELATED VIEW / ATHLETICS CORRIDOR",
+      "image_is_room_specific": false
+    },
+    {
+      "floor": "GROUND",
+      "number": "117",
+      "name": "MENS TOILET",
+      "center_mm": [
+        -38565.44502617801,
+        10053.612565445026,
+        0
+      ],
+      "source": "A-101",
+      "mask_bounds_px": [
+        230,
+        1053,
+        328,
+        1220
+      ],
+      "center_world_m": [
+        -38.59376220703125,
+        10.558270263671876
+      ],
+      "ortho_span_m": 6.48944091796875,
+      "output_resolution": [
+        1024,
+        1024
+      ],
+      "camera_z_m": 3.5,
+      "mask_area_m2": 20.580453149974346,
+      "visit_xy": [
+        140,
+        575
+      ],
+      "index": 14,
+      "image": "cinematic/athletics.png",
+      "image_caption": "RELATED VIEW / ATHLETICS CORRIDOR",
+      "image_is_room_specific": false
+    },
+    {
+      "floor": "GROUND",
+      "number": "116",
+      "name": "WOMENS TOILET",
+      "center_mm": [
+        -35107.85340314136,
+        10053.612565445026,
+        0
+      ],
+      "source": "A-101",
+      "mask_bounds_px": [
+        334,
+        1053,
+        422,
+        1220
+      ],
+      "center_world_m": [
+        -35.0830810546875,
+        10.558270263671876
+      ],
+      "ortho_span_m": 6.48944091796875,
+      "output_resolution": [
+        1024,
+        1024
+      ],
+      "camera_z_m": 3.5,
+      "mask_area_m2": 18.480406910181046,
+      "visit_xy": [
+        189,
+        575
+      ],
+      "index": 15,
+      "image": "cinematic/athletics.png",
+      "image_caption": "RELATED VIEW / ATHLETICS CORRIDOR",
+      "image_is_room_specific": false
+    },
+    {
+      "floor": "GROUND",
+      "number": "115",
+      "name": "CORRIDOR",
+      "center_mm": [
+        -36171.7277486911,
+        14894.240837696334,
+        0
+      ],
+      "source": "A-101",
+      "mask_bounds_px": [
+        196,
+        981,
+        511,
+        1075
+      ],
+      "center_world_m": [
+        -35.95188598632812,
+        14.405834960937497
+      ],
+      "ortho_span_m": 11.73773193359375,
+      "output_resolution": [
+        1024,
+        1024
+      ],
+      "camera_z_m": 3.5,
+      "mask_area_m2": 27.04532603546977,
+      "visit_xy": [
+        174,
+        507
+      ],
+      "index": 16,
+      "image": "cinematic/athletics.png",
+      "image_caption": "RELATED VIEW / ATHLETICS CORRIDOR",
+      "image_is_room_specific": false
+    },
+    {
+      "floor": "GROUND",
+      "number": "114",
+      "name": "VESTIBULE",
+      "center_mm": [
+        -31916.230366492146,
+        9149.319371727748,
+        0
+      ],
+      "source": "A-101",
+      "mask_bounds_px": [
+        428,
+        1036,
+        511,
+        1223
+      ],
+      "center_world_m": [
+        -31.838360595703126,
+        10.806500244140626
+      ],
+      "ortho_span_m": 7.198669433593749,
+      "output_resolution": [
+        1024,
+        1024
+      ],
+      "camera_z_m": 3.5,
+      "mask_area_m2": 11.482348632067442,
+      "visit_xy": [
+        234,
+        588
+      ],
+      "index": 17,
+      "image": "cinematic/entrance.png",
+      "image_caption": "RELATED VIEW / ENTRANCE",
+      "image_is_room_specific": false
+    },
+    {
+      "floor": "GROUND",
+      "number": "GYM",
+      "name": "EXISTING GYM",
+      "center_mm": [
+        -12766.492146596858,
+        31916.230366492146,
+        0
+      ],
+      "source": "A-101",
+      "mask_bounds_px": [
+        648,
+        107,
+        1358,
+        967
+      ],
+      "center_world_m": [
+        -12.919689941406254,
+        31.817395019531244
+      ],
+      "ortho_span_m": 31.064208984374996,
+      "output_resolution": [
+        1024,
+        1024
+      ],
+      "camera_z_m": 3.5,
+      "mask_area_m2": 767.8372658789158,
+      "visit_xy": [
+        504,
+        267
+      ],
+      "index": 18,
+      "image": "cinematic/athletics.png",
+      "image_caption": "RELATED VIEW / ATHLETICS CORRIDOR",
+      "image_is_room_specific": false
+    },
+    {
+      "floor": "GROUND",
+      "number": "113",
+      "name": "COLLABORATION ROOM",
+      "center_mm": [
+        -23618.010471204187,
+        9308.900523560209,
+        0
+      ],
+      "source": "A-101",
+      "mask_bounds_px": [
+        629,
+        1055,
+        773,
+        1256
+      ],
+      "center_world_m": [
+        -23.62904052734375,
+        9.884503173828126
+      ],
+      "ortho_span_m": 7.695129394531249,
+      "output_resolution": [
+        1024,
+        1024
+      ],
+      "camera_z_m": 3.5,
+      "mask_area_m2": 36.39744812250137,
+      "visit_xy": [
+        358,
+        583
+      ],
+      "index": 19,
+      "image": "cinematic/commons.png",
+      "image_caption": "RELATED VIEW / COMMONS",
+      "image_is_room_specific": false
+    },
+    {
+      "floor": "GROUND",
+      "number": "112",
+      "name": "ASPIRE CLASSROOM",
+      "center_mm": [
+        -18139.057591623037,
+        9255.706806282722,
+        0
+      ],
+      "source": "A-101",
+      "mask_bounds_px": [
+        777,
+        1055,
+        941,
+        1256
+      ],
+      "center_world_m": [
+        -18.02613525390625,
+        9.884503173828126
+      ],
+      "ortho_span_m": 7.695129394531249,
+      "output_resolution": [
+        1024,
+        1024
+      ],
+      "camera_z_m": 3.5,
+      "mask_area_m2": 41.452649250626564,
+      "visit_xy": [
+        428,
+        595
+      ],
+      "index": 20,
+      "image": "cinematic/commons.png",
+      "image_caption": "RELATED VIEW / COMMONS",
+      "image_is_room_specific": false
+    },
+    {
+      "floor": "GROUND",
+      "number": "111",
+      "name": "OFFICE",
+      "center_mm": [
+        -13245.23560209424,
+        11755.811518324606,
+        0
+      ],
+      "source": "A-101",
+      "mask_bounds_px": [
+        947,
+        1055,
+        1039,
+        1152
+      ],
+      "center_world_m": [
+        -13.274304199218754,
+        11.728497314453126
+      ],
+      "ortho_span_m": 4.00714111328125,
+      "output_resolution": [
+        1024,
+        1024
+      ],
+      "camera_z_m": 3.5,
+      "mask_area_m2": 11.222043499350548,
+      "visit_xy": [
+        497,
+        555
+      ],
+      "index": 21,
+      "image": "cinematic/commons.png",
+      "image_caption": "RELATED VIEW / COMMONS",
+      "image_is_room_specific": false
+    },
+    {
+      "floor": "GROUND",
+      "number": "109",
+      "name": "STORAGE / IT / MECH",
+      "center_mm": [
+        -13192.041884816754,
+        8085.44502617801,
+        0
+      ],
+      "source": "A-101",
+      "mask_bounds_px": [
+        953,
+        1158,
+        1039,
+        1254
+      ],
+      "center_world_m": [
+        -13.167919921875004,
+        8.093701171875
+      ],
+      "ortho_span_m": 3.9716796874999996,
+      "output_resolution": [
+        1024,
+        1024
+      ],
+      "camera_z_m": 3.5,
+      "mask_area_m2": 10.382025003433228,
+      "visit_xy": [
+        498,
+        603
+      ],
+      "index": 22,
+      "image": "cinematic/lab_detail.png",
+      "image_caption": "RELATED VIEW / LAB DETAIL",
+      "image_is_room_specific": false
+    },
+    {
+      "floor": "GROUND",
+      "number": "108",
+      "name": "INNOVATION LAB",
+      "center_mm": [
+        -5957.696335078534,
+        4574.659685863874,
+        0
+      ],
+      "source": "A-101",
+      "mask_bounds_px": [
+        1045,
+        1156,
+        1363,
+        1436
+      ],
+      "center_world_m": [
+        -5.791943359375004,
+        4.9021728515625
+      ],
+      "ortho_span_m": 11.8441162109375,
+      "output_resolution": [
+        1024,
+        1024
+      ],
+      "camera_z_m": 3.5,
+      "mask_area_m2": 111.73503508418798,
+      "visit_xy": [
+        600,
+        651
+      ],
+      "index": 23,
+      "image": "cinematic/ilab_wide.png",
+      "image_caption": "IMAGEGEN / INNOVATION LAB",
+      "image_is_room_specific": true
+    },
+    {
+      "floor": "GROUND",
+      "number": "110",
+      "name": "CORRIDOR",
+      "center_mm": [
+        -17021.98952879581,
+        14947.434554973823,
+        0
+      ],
+      "source": "A-101",
+      "mask_bounds_px": [
+        625,
+        977,
+        1081,
+        1051
+      ],
+      "center_world_m": [
+        -18.23890380859375,
+        14.902294921874997
+      ],
+      "ortho_span_m": 16.73779296875,
+      "output_resolution": [
+        1024,
+        1024
+      ],
+      "camera_z_m": 3.5,
+      "mask_area_m2": 39.66069362685084,
+      "visit_xy": [
+        444,
+        506
+      ],
+      "index": 24,
+      "image": "cinematic/commons.png",
+      "image_caption": "RELATED VIEW / COMMONS",
+      "image_is_room_specific": false
+    },
+    {
+      "floor": "GROUND",
+      "number": "106",
+      "name": "CORRIDOR / DISPLAY HALL",
+      "center_mm": [
+        -6170.471204188481,
+        12128.167539267017,
+        0
+      ],
+      "source": "A-101",
+      "mask_bounds_px": [
+        1043,
+        977,
+        1828,
+        1186
+      ],
+      "center_world_m": [
+        2.4173767089843707,
+        12.508648681640626
+      ],
+      "ortho_span_m": 28.404602050781246,
+      "output_resolution": [
+        1024,
+        1024
+      ],
+      "camera_z_m": 3.5,
+      "mask_area_m2": 159.51297330856323,
+      "visit_xy": [
+        597,
+        546
+      ],
+      "index": 25,
+      "image": "cinematic/commons.png",
+      "image_caption": "RELATED VIEW / COMMONS",
+      "image_is_room_specific": false
+    },
+    {
+      "floor": "GROUND",
+      "number": "102",
+      "name": "STUDENT COMMONS",
+      "center_mm": [
+        6276.858638743455,
+        22713.717277486907,
+        0
+      ],
+      "source": "A-101",
+      "mask_bounds_px": [
+        1368,
+        561,
+        1830,
+        1021
+      ],
+      "center_world_m": [
+        8.215319824218746,
+        22.810192871093747
+      ],
+      "ortho_span_m": 16.9505615234375,
+      "output_resolution": [
+        1024,
+        1024
+      ],
+      "camera_z_m": 3.5,
+      "mask_area_m2": 240.38864628225565,
+      "visit_xy": [
+        773,
+        399
+      ],
+      "index": 26,
+      "image": "cinematic/commons.png",
+      "image_caption": "IMAGEGEN / COMMONS",
+      "image_is_room_specific": true
+    },
+    {
+      "floor": "GROUND",
+      "number": "101",
+      "name": "CAFE",
+      "center_mm": [
+        14521.884816753927,
+        17500.732984293194,
+        0
+      ],
+      "source": "A-101",
+      "mask_bounds_px": [
+        1709,
+        863,
+        1830,
+        1021
+      ],
+      "center_world_m": [
+        14.26149291992187,
+        17.455517578124997
+      ],
+      "ortho_span_m": 6.1702880859375,
+      "output_resolution": [
+        1024,
+        1024
+      ],
+      "camera_z_m": 3.5,
+      "mask_area_m2": 24.01849292218685,
+      "visit_xy": [
+        888,
+        470
+      ],
+      "index": 27,
+      "image": "cinematic/commons.png",
+      "image_caption": "RELATED VIEW / COMMONS",
+      "image_is_room_specific": false
+    },
+    {
+      "floor": "GROUND",
+      "number": "103",
+      "name": "RECEPTION",
+      "center_mm": [
+        14149.528795811517,
+        7074.764397905758,
+        0
+      ],
+      "source": "A-101",
+      "mask_bounds_px": [
+        1705,
+        1164,
+        1830,
+        1296
+      ],
+      "center_world_m": [
+        14.19057006835937,
+        7.242626953125
+      ],
+      "ortho_span_m": 5.248291015625,
+      "output_resolution": [
+        1024,
+        1024
+      ],
+      "camera_z_m": 3.5,
+      "mask_area_m2": 20.438354212790728,
+      "visit_xy": [
+        883,
+        618
+      ],
+      "index": 28,
+      "image": "cinematic/entrance.png",
+      "image_caption": "RELATED VIEW / ENTRANCE",
+      "image_is_room_specific": false
+    },
+    {
+      "floor": "GROUND",
+      "number": "104",
+      "name": "ADMISSIONS OFFICE",
+      "center_mm": [
+        14149.528795811517,
+        2659.6858638743456,
+        0
+      ],
+      "source": "A-101",
+      "mask_bounds_px": [
+        1708,
+        1302,
+        1830,
+        1420
+      ],
+      "center_world_m": [
+        14.243762207031246,
+        2.59718017578125
+      ],
+      "ortho_span_m": 4.8936767578125,
+      "output_resolution": [
+        1024,
+        1024
+      ],
+      "camera_z_m": 3.5,
+      "mask_area_m2": 18.02392979338765,
+      "visit_xy": [
+        888,
+        675
+      ],
+      "index": 29,
+      "image": "cinematic/entrance.png",
+      "image_caption": "RELATED VIEW / ENTRANCE",
+      "image_is_room_specific": false
+    },
+    {
+      "floor": "GROUND",
+      "number": "105",
+      "name": "CRI GALLERY",
+      "center_mm": [
+        6755.602094240838,
+        2978.848167539267,
+        0
+      ],
+      "source": "A-101",
+      "mask_bounds_px": [
+        1371,
+        1188,
+        1703,
+        1420
+      ],
+      "center_world_m": [
+        6.016711425781246,
+        4.6184814453125
+      ],
+      "ortho_span_m": 12.340576171875,
+      "output_resolution": [
+        1024,
+        1024
+      ],
+      "camera_z_m": 3.5,
+      "mask_area_m2": 96.40092499554157,
+      "visit_xy": [
+        779,
+        675
+      ],
+      "index": 30,
+      "image": "cinematic/commons.png",
+      "image_caption": "RELATED VIEW / COMMONS",
+      "image_is_room_specific": false
+    },
+    {
+      "floor": "GROUND",
+      "number": "100",
+      "name": "ENTRY VESTIBULE",
+      "center_mm": [
+        17713.50785340314,
+        12074.973821989528,
+        0
+      ],
+      "source": "A-101",
+      "mask_bounds_px": [
+        1834,
+        1023,
+        1900,
+        1162
+      ],
+      "center_world_m": [
+        17.718981933593753,
+        12.118572998046876
+      ],
+      "ortho_span_m": 5.49652099609375,
+      "output_resolution": [
+        1024,
+        1024
+      ],
+      "camera_z_m": 3.5,
+      "mask_area_m2": 11.516301475465298,
+      "visit_xy": [
+        933,
+        547
+      ],
+      "index": 31,
+      "image": "cinematic/entrance.png",
+      "image_caption": "IMAGEGEN / ENTRANCE",
+      "image_is_room_specific": true
+    }
+  ],
+  "gym_panel": [
+    347,
+    112,
+    315,
+    245
+  ],
+  "speed_px_per_second": 40,
+  "model_source_sha256": "25e0d975a284bd77e8f3abdf0ad3434b24768e457f0e3e6212b0f1149ba28793",
+  "revision": "r08 open patio and no gym bleachers"
+}

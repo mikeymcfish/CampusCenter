@@ -1,0 +1,343 @@
+[
+  {
+    "room": "129",
+    "alpha_bounds": [
+      194,
+      36,
+      830,
+      988
+    ],
+    "blackout_pass": true,
+    "mask_pixels": 605472
+  },
+  {
+    "room": "127",
+    "alpha_bounds": [
+      241,
+      59,
+      783,
+      965
+    ],
+    "blackout_pass": true,
+    "mask_pixels": 491052
+  },
+  {
+    "room": "128",
+    "alpha_bounds": [
+      146,
+      80,
+      878,
+      944
+    ],
+    "blackout_pass": true,
+    "mask_pixels": 632448
+  },
+  {
+    "room": "125",
+    "alpha_bounds": [
+      48,
+      195,
+      976,
+      829
+    ],
+    "blackout_pass": true,
+    "mask_pixels": 588352
+  },
+  {
+    "room": "126",
+    "alpha_bounds": [
+      191,
+      69,
+      833,
+      955
+    ],
+    "blackout_pass": true,
+    "mask_pixels": 568812
+  },
+  {
+    "room": "124",
+    "alpha_bounds": [
+      187,
+      69,
+      837,
+      955
+    ],
+    "blackout_pass": true,
+    "mask_pixels": 575900
+  },
+  {
+    "room": "130",
+    "alpha_bounds": [
+      17,
+      203,
+      1007,
+      821
+    ],
+    "blackout_pass": true,
+    "mask_pixels": 209503
+  },
+  {
+    "room": "123",
+    "alpha_bounds": [
+      413,
+      11,
+      611,
+      1013
+    ],
+    "blackout_pass": true,
+    "mask_pixels": 144785
+  },
+  {
+    "room": "122",
+    "alpha_bounds": [
+      24,
+      238,
+      1000,
+      786
+    ],
+    "blackout_pass": true,
+    "mask_pixels": 534848
+  },
+  {
+    "room": "121",
+    "alpha_bounds": [
+      24,
+      248,
+      1000,
+      776
+    ],
+    "blackout_pass": true,
+    "mask_pixels": 515328
+  },
+  {
+    "room": "119",
+    "alpha_bounds": [
+      183,
+      52,
+      841,
+      972
+    ],
+    "blackout_pass": true,
+    "mask_pixels": 605360
+  },
+  {
+    "room": "118",
+    "alpha_bounds": [
+      343,
+      96,
+      681,
+      928
+    ],
+    "blackout_pass": true,
+    "mask_pixels": 281216
+  },
+  {
+    "room": "120",
+    "alpha_bounds": [
+      54,
+      200,
+      970,
+      824
+    ],
+    "blackout_pass": true,
+    "mask_pixels": 571584
+  },
+  {
+    "room": "117",
+    "alpha_bounds": [
+      238,
+      45,
+      786,
+      979
+    ],
+    "blackout_pass": true,
+    "mask_pixels": 511832
+  },
+  {
+    "room": "116",
+    "alpha_bounds": [
+      266,
+      45,
+      758,
+      979
+    ],
+    "blackout_pass": true,
+    "mask_pixels": 459528
+  },
+  {
+    "room": "115",
+    "alpha_bounds": [
+      25,
+      367,
+      999,
+      657
+    ],
+    "blackout_pass": true,
+    "mask_pixels": 205578
+  },
+  {
+    "room": "114",
+    "alpha_bounds": [
+      303,
+      40,
+      721,
+      984
+    ],
+    "blackout_pass": true,
+    "mask_pixels": 232055
+  },
+  {
+    "room": "GYM",
+    "alpha_bounds": [
+      97,
+      9,
+      927,
+      1015
+    ],
+    "blackout_pass": true,
+    "mask_pixels": 834980
+  },
+  {
+    "room": "113",
+    "alpha_bounds": [
+      172,
+      38,
+      852,
+      986
+    ],
+    "blackout_pass": true,
+    "mask_pixels": 644640
+  },
+  {
+    "room": "112",
+    "alpha_bounds": [
+      125,
+      38,
+      899,
+      986
+    ],
+    "blackout_pass": true,
+    "mask_pixels": 733752
+  },
+  {
+    "room": "111",
+    "alpha_bounds": [
+      95,
+      72,
+      929,
+      952
+    ],
+    "blackout_pass": true,
+    "mask_pixels": 733920
+  },
+  {
+    "room": "109",
+    "alpha_bounds": [
+      119,
+      73,
+      905,
+      951
+    ],
+    "blackout_pass": true,
+    "mask_pixels": 690108
+  },
+  {
+    "room": "108",
+    "alpha_bounds": [
+      25,
+      83,
+      999,
+      941
+    ],
+    "blackout_pass": true,
+    "mask_pixels": 833988
+  },
+  {
+    "room": "110",
+    "alpha_bounds": [
+      17,
+      432,
+      1007,
+      592
+    ],
+    "blackout_pass": true,
+    "mask_pixels": 148314
+  },
+  {
+    "room": "106",
+    "alpha_bounds": [
+      10,
+      378,
+      1014,
+      646
+    ],
+    "blackout_pass": true,
+    "mask_pixels": 207818
+  },
+  {
+    "room": "102",
+    "alpha_bounds": [
+      17,
+      19,
+      1007,
+      1005
+    ],
+    "blackout_pass": true,
+    "mask_pixels": 877494
+  },
+  {
+    "room": "101",
+    "alpha_bounds": [
+      156,
+      47,
+      868,
+      977
+    ],
+    "blackout_pass": true,
+    "mask_pixels": 661530
+  },
+  {
+    "room": "103",
+    "alpha_bounds": [
+      80,
+      55,
+      944,
+      969
+    ],
+    "blackout_pass": true,
+    "mask_pixels": 778301
+  },
+  {
+    "room": "104",
+    "alpha_bounds": [
+      59,
+      74,
+      965,
+      950
+    ],
+    "blackout_pass": true,
+    "mask_pixels": 790157
+  },
+  {
+    "room": "105",
+    "alpha_bounds": [
+      24,
+      171,
+      1000,
+      853
+    ],
+    "blackout_pass": true,
+    "mask_pixels": 663160
+  },
+  {
+    "room": "100",
+    "alpha_bounds": [
+      294,
+      53,
+      730,
+      971
+    ],
+    "blackout_pass": true,
+    "mask_pixels": 399572
+  }
+]

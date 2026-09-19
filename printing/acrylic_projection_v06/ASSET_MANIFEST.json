@@ -1,0 +1,2216 @@
+{
+  "source_workspace": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06",
+  "files_verified": 442,
+  "files": [
+    {
+      "path": "print/Acrylic_Cut_List.csv",
+      "bytes": 3602,
+      "sha256": "6e009606a52031b73a0e66cf3526ed3604366804e1046cc6dfbb82c754eecee5"
+    },
+    {
+      "path": "print/Acrylic_Cut_Sheet_01.svg",
+      "bytes": 4219,
+      "sha256": "66b56d903ace7b987a46882e721f320423dcb8d26fea214f0b7f84f884e803f8"
+    },
+    {
+      "path": "print/Acrylic_Fit_Coupon.3mf",
+      "bytes": 1687,
+      "sha256": "c3737895e9be7b3d053ca96b265eae9f3c4aeae255b8dce9695f299dcc0aa9bc"
+    },
+    {
+      "path": "print/Acrylic_Fit_Coupon.stl",
+      "bytes": 4684,
+      "sha256": "6759848ef6c4221b0a8c51746be35cc871832f5f8b4beff010777c0c1d6a841c"
+    },
+    {
+      "path": "print/Acrylic_Insert_Map.png",
+      "bytes": 696738,
+      "sha256": "98c47531adbe764755ba90bed2a532b92495f156e48555d6a4605e666cc61e15"
+    },
+    {
+      "path": "print/Acrylic_Installed_Preview.png",
+      "bytes": 632956,
+      "sha256": "88af29c9df351e421c565edb36837139729ffe0d3e43c8cceb9499ff29cfb338"
+    },
+    {
+      "path": "print/Acrylic_Panes_Reference_ONLY.stl",
+      "bytes": 24084,
+      "sha256": "8a20ecf3f8687f449199acc47c58960599c14adfbc1b77fc2032418fff0c3a15"
+    },
+    {
+      "path": "print/cad_mesh.npz",
+      "bytes": 200121,
+      "sha256": "68492007767d57f0c4524adb8431760710d1c073142c61dcbdb42ee29fe748f1"
+    },
+    {
+      "path": "print/cad_validation.json",
+      "bytes": 464,
+      "sha256": "e8ae39c51cee243d8a7035b57a6b0a496de0ced2baff6b2f600be2a467816f97"
+    },
+    {
+      "path": "print/Campus_Center_Acrylic_Assembly.3mf",
+      "bytes": 277933,
+      "sha256": "4546914c8dfe09278b053dc2a4663d7db58aca2ec5b698e8c92a0c1bccbaf090"
+    },
+    {
+      "path": "print/Campus_Center_Acrylic_Assembly_Reference.blend",
+      "bytes": 746776,
+      "sha256": "48ef461648f8bee8272a5c037253580f614224215ff76f30398630b94b03a53f"
+    },
+    {
+      "path": "print/Campus_Center_Furnished_Print.blend",
+      "bytes": 735393,
+      "sha256": "34eca941c0c2052c0ef37e46f841ea6ac6e9604697c63145c68a0976227e35ed"
+    },
+    {
+      "path": "print/Campus_Center_Ground_Acrylic_1_87p5.step",
+      "bytes": 37350552,
+      "sha256": "05c2209e82a4dfd8cf5f57a0ebe43123b684bae01bebac97d03cea552a4e5a60"
+    },
+    {
+      "path": "print/Campus_Center_Ground_Acrylic_1_87p5.stl",
+      "bytes": 1556984,
+      "sha256": "25e0d975a284bd77e8f3abdf0ad3434b24768e457f0e3e6212b0f1149ba28793"
+    },
+    {
+      "path": "print/Campus_Center_Projection_Receiver.blend",
+      "bytes": 738856,
+      "sha256": "5120d423e427db7af155da7e416174adc74ed2629b592afc256eb7f3cd558186"
+    },
+    {
+      "path": "print/floor_mask.png",
+      "bytes": 58437,
+      "sha256": "79819f7ae44dd8e8b5013c3f8d695318277bad88d03b097ce6bf089621d2ca49"
+    },
+    {
+      "path": "print/Furnished_Print_Preview.png",
+      "bytes": 603521,
+      "sha256": "fca304fe7ac8afca89768f45b84b0646643b9d82ff051bb90199b82e7d8e0f26"
+    },
+    {
+      "path": "print/Furnished_Print_Top.png",
+      "bytes": 983924,
+      "sha256": "1540514ef79d9109090d2f23e024f01ae8a8faf99a9881ae6b86c78992f631d8"
+    },
+    {
+      "path": "print/furniture_mask.png",
+      "bytes": 55944,
+      "sha256": "55939c3154af7ef5899e80e68de489a2da2bc1106a92a714a01b85e4ef36e44f"
+    },
+    {
+      "path": "print/glazing_schedule.json",
+      "bytes": 26616,
+      "sha256": "072832060c18b0df0d245a88eef09502271d6891f38a387f878bbf9dc87606bc"
+    },
+    {
+      "path": "print/print_height_data.npz",
+      "bytes": 57307,
+      "sha256": "b150a3809c25fa323bd14e29141fec2b5ab2c5561919f5d32082dd5afb224e41"
+    },
+    {
+      "path": "print/print_validation.json",
+      "bytes": 3153,
+      "sha256": "9e743d80dc321887234dfa343cd92f90e2575891cdd967f74a23fdf742759ea7"
+    },
+    {
+      "path": "print/r08_geometry_edits.json",
+      "bytes": 1995,
+      "sha256": "229b4c64e2ed5ccc6d79adafbfea44d4afe04134911039ca4f854a48f86ab835"
+    },
+    {
+      "path": "print/README.md",
+      "bytes": 3531,
+      "sha256": "8fb80dba6d1a6ef9e058cbca1afb2b5da19ff4105527d9f0a16174b3891ca890"
+    },
+    {
+      "path": "print/receiver_contract.json",
+      "bytes": 371,
+      "sha256": "01c9d9ec16510da0f63490827b2271b29172cd56467ec645bcb6dbd911d7b920"
+    },
+    {
+      "path": "print/receiver_mask.png",
+      "bytes": 51373,
+      "sha256": "928681f9128b210a81552c2f44d48f5913ca9b1a7657aa0bac223714289694b6"
+    },
+    {
+      "path": "print/reopen_validation.json",
+      "bytes": 1284,
+      "sha256": "5ae1c3aa666879f767540939cb087ebf8f62943104f269c5169a76daa68a973b"
+    },
+    {
+      "path": "print/print_tiles/Acrylic_A1.3mf",
+      "bytes": 39160,
+      "sha256": "d7f18db5e4bff4fdf9734a8fae05acc2a932620fd95b858086d953391845938d"
+    },
+    {
+      "path": "print/print_tiles/Acrylic_A1.stl",
+      "bytes": 216684,
+      "sha256": "b68ce54bf090e31ff810a71c6338a9f793a82be10c45bb6eec929f3592bf887b"
+    },
+    {
+      "path": "print/print_tiles/Acrylic_A2.3mf",
+      "bytes": 49055,
+      "sha256": "09026baef052557ccdcb296f582637714a1e82344b4fadbc7bad4f83f88e52ab"
+    },
+    {
+      "path": "print/print_tiles/Acrylic_A2.stl",
+      "bytes": 270884,
+      "sha256": "02bb55e7eb42f87bac4569ea3d6ea8fc5841c3acb74bcfbb6e3010cbc2c4a03c"
+    },
+    {
+      "path": "print/print_tiles/Acrylic_A3.3mf",
+      "bytes": 97732,
+      "sha256": "dce91b7f1d0d04198a1259fc171644e9a884c14bfaf02280ad45a7d7b32dfc98"
+    },
+    {
+      "path": "print/print_tiles/Acrylic_A3.stl",
+      "bytes": 561684,
+      "sha256": "c97c1411fb42ae8cb70155bc05fe971a9cfbbc065b93616ea85de7f4d5d174df"
+    },
+    {
+      "path": "print/print_tiles/Acrylic_B1.3mf",
+      "bytes": 42982,
+      "sha256": "9c2095774b76854bc6b9f13add3ced344cc64861d0cf9286f4e946898a2f01b2"
+    },
+    {
+      "path": "print/print_tiles/Acrylic_B1.stl",
+      "bytes": 240784,
+      "sha256": "e017a7239238b3059cf41119ce0b88b3291e3654edf951bc23d33669ea534ac5"
+    },
+    {
+      "path": "print/print_tiles/Acrylic_B2.3mf",
+      "bytes": 1930,
+      "sha256": "6b55a7cca5527119d939ad6c060776cadc92a8e887f681753724fdd921a01795"
+    },
+    {
+      "path": "print/print_tiles/Acrylic_B2.stl",
+      "bytes": 5584,
+      "sha256": "f2066fdd3a04ebf141e1a345a9430e67f84fb64cf926a3b78b9d9dddb51d2fba"
+    },
+    {
+      "path": "print/print_tiles/Acrylic_B3.3mf",
+      "bytes": 51031,
+      "sha256": "9dd09e52371a146abe70533019b006f5c65735e625db4339d7e84e82f2bfd5ff"
+    },
+    {
+      "path": "print/print_tiles/Acrylic_B3.stl",
+      "bytes": 289984,
+      "sha256": "1b1494bca624d9cc13c4ac54d7fec043fbb0eec2a407a30713a74810a9a9bb64"
+    },
+    {
+      "path": "rooms/index.html",
+      "bytes": 13917,
+      "sha256": "5dd45cded18abfc5752fe0d6395a1e8b754e8056b9e9ee5ad09933f8c59eb312"
+    },
+    {
+      "path": "rooms/mask_validation.json",
+      "bytes": 5059,
+      "sha256": "a45c10728d35ce8e5982bd5ee2e4d834bdb7e5dbd226356db7823117ade6e7f6"
+    },
+    {
+      "path": "rooms/oblique_report.json",
+      "bytes": 5116,
+      "sha256": "e25a937ba628a8ed6411f79528174b867f5a364edaacceca8525dd19fcbde9c4"
+    },
+    {
+      "path": "rooms/README.md",
+      "bytes": 1993,
+      "sha256": "61157395e68e0fcbc98d69a53f13913ee9f0f4f314aea0955613b4674bb042ee"
+    },
+    {
+      "path": "rooms/reference_packs.json",
+      "bytes": 30232,
+      "sha256": "19392c4ca835bb5dbb53933cb5dada156781d7f69682894a2dcb1fd5871bc8ce"
+    },
+    {
+      "path": "rooms/render_report.json",
+      "bytes": 12984,
+      "sha256": "8ff1e53ffc2c5addb3439a2c47d0658b4ff69ecf10d107a26056e1d57aaefb7e"
+    },
+    {
+      "path": "rooms/Room_3D_Contact_Sheet.jpg",
+      "bytes": 414117,
+      "sha256": "4d9959530d33ac421982e68d1aa1f31ed93aff6005f38930cbad4731ffdfff7e"
+    },
+    {
+      "path": "rooms/Room_Contact_Sheet.jpg",
+      "bytes": 189801,
+      "sha256": "b96409be11d26d92b33ed37a006c76fadaf425d1ade0685767038c75700ffc13"
+    },
+    {
+      "path": "rooms/room_contract.json",
+      "bytes": 16502,
+      "sha256": "4dd619ff5b2752659ad69bcd78ac7589061324669ae47394b54ee6578a8d9e5b"
+    },
+    {
+      "path": "rooms/Room_Mask_Review.png",
+      "bytes": 41166,
+      "sha256": "cb29ae0b6e9e7965b85125de1be1399b038d085ac91142973ee41bd12d2ee932"
+    },
+    {
+      "path": "rooms/100/H3_Loop_Prompt.txt",
+      "bytes": 3398,
+      "sha256": "f82b4c4226932c9bfd3fdbfbedac7bf4e3a6df55c0f8bff4e6dbce15ffb81abd"
+    },
+    {
+      "path": "rooms/100/mask_full_canvas.png",
+      "bytes": 3527,
+      "sha256": "e0cb9fce2bf3af4a197bdab8bbff8b6cacd63a31072629284d38fc792364c54a"
+    },
+    {
+      "path": "rooms/100/References.html",
+      "bytes": 1952,
+      "sha256": "3e749abb727eb8866a891654b5f6b8f1a991aa7888245666534741849b59353c"
+    },
+    {
+      "path": "rooms/100/References.md",
+      "bytes": 1344,
+      "sha256": "c5d1adf4b1375af845c662b89b502e019e18d2d55a0883c4a327b99145b54b75"
+    },
+    {
+      "path": "rooms/100/Room_3D.png",
+      "bytes": 2707836,
+      "sha256": "b8a7c4ed591b5ed51741dd8c0cd82a437f9994c2ff008efe109bf58143663a97"
+    },
+    {
+      "path": "rooms/100/Room_Mask_1024.png",
+      "bytes": 2980,
+      "sha256": "d179965373dad56c924950da87f830d217a64431e745eaca7073fb16d757e1dd"
+    },
+    {
+      "path": "rooms/100/Topdown_Alpha.png",
+      "bytes": 908528,
+      "sha256": "dacb54b1206a28833363cdd222ee923ce71a068387f3315dc9e2ff7ee4b46b9b"
+    },
+    {
+      "path": "rooms/100/Topdown_Black.png",
+      "bytes": 299103,
+      "sha256": "4d60570b05eb80685015cd83b9d4c3457bac9198d74a4bb290b1f80b7fcd2934"
+    },
+    {
+      "path": "rooms/101/H3_Loop_Prompt.txt",
+      "bytes": 3980,
+      "sha256": "306a02b16e19da275ef5d25226be9b62897977e8d76ea7b8cd8266e7aa657121"
+    },
+    {
+      "path": "rooms/101/mask_full_canvas.png",
+      "bytes": 3565,
+      "sha256": "dc834ab8ec561a5a9c583310117fd9a0f20c9494c77ec2b6ec2cf165290c0dbd"
+    },
+    {
+      "path": "rooms/101/References.html",
+      "bytes": 2458,
+      "sha256": "4e34acd7fef4e196265cb4b9fbc6bfa82a3be55444dd778726ef101494efd2cd"
+    },
+    {
+      "path": "rooms/101/References.md",
+      "bytes": 1681,
+      "sha256": "95bbae37209a27c0ef0b52d7c6629d80db31f187e93bd7e028bb3adad8426bf0"
+    },
+    {
+      "path": "rooms/101/Room_3D.png",
+      "bytes": 2214740,
+      "sha256": "f25a2dd839b63dca993eb12b1cb379b4132d955e19d1ccdd1fb5d653e7dfaae7"
+    },
+    {
+      "path": "rooms/101/Room_Mask_1024.png",
+      "bytes": 2985,
+      "sha256": "81a150e79a38dee18ab91b552ee771a3951558e055aafef0607d558092138746"
+    },
+    {
+      "path": "rooms/101/Topdown_Alpha.png",
+      "bytes": 980799,
+      "sha256": "69e98c006295966e767b5ddb2c8351cacc94ac1afefd79c0677f7ff5d702f793"
+    },
+    {
+      "path": "rooms/101/Topdown_Black.png",
+      "bytes": 556400,
+      "sha256": "ea242e234cc728b145206e1eb8ced5d0c88b62b69c7256513c4566fb2d9f2872"
+    },
+    {
+      "path": "rooms/102/H3_Loop_Prompt.txt",
+      "bytes": 3419,
+      "sha256": "9f7a8f2c3f508461f1031af4ff1f4d3a7137a053a41c46bffc3c0238a6e127a4"
+    },
+    {
+      "path": "rooms/102/mask_full_canvas.png",
+      "bytes": 4237,
+      "sha256": "dfd9f5bbfbf0d87dfd886a46d289a69f2232eabe3e38ec10bdac697af8ee6166"
+    },
+    {
+      "path": "rooms/102/References.html",
+      "bytes": 1952,
+      "sha256": "9fe3d20cdc8a8ce685c125131e84c50afa9733427927d4ddc7d0c83f776f7e8c"
+    },
+    {
+      "path": "rooms/102/References.md",
+      "bytes": 1344,
+      "sha256": "014fa70ed584cb8bbff880549d0095ad8f3f6b3fef9f6e75916e8fd739c903f3"
+    },
+    {
+      "path": "rooms/102/Room_3D.png",
+      "bytes": 3520170,
+      "sha256": "c92c48f70ba0ba9e20bc16d508bee49a215a5198810b7a8ef256aeccd908f49f"
+    },
+    {
+      "path": "rooms/102/Room_Mask_1024.png",
+      "bytes": 3120,
+      "sha256": "2c6b3fbf3142612ce078d5b15c0429c8a6bd534e05fadb781dceacedb5ebad9e"
+    },
+    {
+      "path": "rooms/102/Topdown_Alpha.png",
+      "bytes": 1012110,
+      "sha256": "d08d3686c6411ba1d773d5c247d68a3b2740810eeeed87b222688185e673e764"
+    },
+    {
+      "path": "rooms/102/Topdown_Black.png",
+      "bytes": 751453,
+      "sha256": "cf2517c30b06216338abf799847d8bdd7077c0d6df070f0fcd8c6bd604c2e191"
+    },
+    {
+      "path": "rooms/103/H3_Loop_Prompt.txt",
+      "bytes": 3413,
+      "sha256": "ec2dae8cf0aaed5f87d75996428ec8c28bc20c26e1160247f92c127b59115307"
+    },
+    {
+      "path": "rooms/103/mask_full_canvas.png",
+      "bytes": 3538,
+      "sha256": "ce2dd96f22aae9aef9dfd8f5815ad8e7530ae18aaebe831237a5d72139213536"
+    },
+    {
+      "path": "rooms/103/References.html",
+      "bytes": 1968,
+      "sha256": "0b122713146011a426f3a27ce8a44c995ef8c0b7b46919786dd3c37d151045e9"
+    },
+    {
+      "path": "rooms/103/References.md",
+      "bytes": 1360,
+      "sha256": "9ea856ba942ef5349e0fedec522ed3e1f1a59a7525d08bd3bdc9f6c24f0f1c12"
+    },
+    {
+      "path": "rooms/103/Room_3D.png",
+      "bytes": 2245275,
+      "sha256": "16652396c8c401b490e16586c27db7ac6663d40c47b6272b02da6135719d26e7"
+    },
+    {
+      "path": "rooms/103/Room_Mask_1024.png",
+      "bytes": 2979,
+      "sha256": "0a535112e8a8b6151cb2e96a9eb6b37c4285e92c215205f96316cd792d1bd6c0"
+    },
+    {
+      "path": "rooms/103/Topdown_Alpha.png",
+      "bytes": 814070,
+      "sha256": "46d983e39e578dccd471f053d9dfed99bbba0b1abb61a329dba9ca6bd6d9fe61"
+    },
+    {
+      "path": "rooms/103/Topdown_Black.png",
+      "bytes": 538640,
+      "sha256": "bf65fa71869668766fa47825aa6542bdddb68411ff4517803372ca1fb49550ab"
+    },
+    {
+      "path": "rooms/104/H3_Loop_Prompt.txt",
+      "bytes": 3421,
+      "sha256": "272a12c2945fe97393dcbc3ec55eb0da5dee66844351befb3b838eca34c3b98e"
+    },
+    {
+      "path": "rooms/104/mask_full_canvas.png",
+      "bytes": 3490,
+      "sha256": "d3ec34a3404ba574319f7bcd73f71abf047dae83df2658c4766fccb0b82c7bff"
+    },
+    {
+      "path": "rooms/104/References.html",
+      "bytes": 1976,
+      "sha256": "2a732cbaf8d96fb6f059f793e52962b21fc76a9d990aa04de7bd9f0b799e0895"
+    },
+    {
+      "path": "rooms/104/References.md",
+      "bytes": 1368,
+      "sha256": "5e55d75ea477493c1bfaa81484a883ff8f7eb670acecec4cd6d4b8a6836c4dc8"
+    },
+    {
+      "path": "rooms/104/Room_3D.png",
+      "bytes": 2662324,
+      "sha256": "40dcc452fe2c7973418f47580f1e863dd00c448007c5833d18856d73119190b2"
+    },
+    {
+      "path": "rooms/104/Room_Mask_1024.png",
+      "bytes": 2890,
+      "sha256": "f65609771355ead83f872ae97a5011d7b3e2a65f7cc0887e55309bb2390d89e4"
+    },
+    {
+      "path": "rooms/104/Topdown_Alpha.png",
+      "bytes": 860354,
+      "sha256": "7cc3bcc4a88d2120b645177738b8bbeeaa22d309aeacd94c56def44874c0a06e"
+    },
+    {
+      "path": "rooms/104/Topdown_Black.png",
+      "bytes": 539564,
+      "sha256": "69004fc0f0d04dfbdb23d6983d8f187bcdd38bb631bd24b30f4df971554af878"
+    },
+    {
+      "path": "rooms/105/H3_Loop_Prompt.txt",
+      "bytes": 3437,
+      "sha256": "97e44a60c9238b0b3a4147324a9f4d9df7aefd8c4b5432a87167895d4891267f"
+    },
+    {
+      "path": "rooms/105/mask_full_canvas.png",
+      "bytes": 3732,
+      "sha256": "985d3a0bdaa3a58fade20fcdc3024c6ecea241172c54d7eb29068239f85c9975"
+    },
+    {
+      "path": "rooms/105/References.html",
+      "bytes": 1970,
+      "sha256": "daa103c58e5299cfd4e513f2a8c800330a81ce18747eac40c8ec634a0115b9fa"
+    },
+    {
+      "path": "rooms/105/References.md",
+      "bytes": 1362,
+      "sha256": "d13bda965ee1fc309b9114b5eaf5d5807873bcc4989983f82fd8d45dfb097e15"
+    },
+    {
+      "path": "rooms/105/Room_3D.png",
+      "bytes": 3040887,
+      "sha256": "63142c30b25ccfc8a1834e07bf52b93240009a20a3942384349d85065eef5524"
+    },
+    {
+      "path": "rooms/105/Room_Mask_1024.png",
+      "bytes": 2498,
+      "sha256": "0e6930c58e9a7521109d6076637f3e8d6ca32bff6e072bb209f29e05bed967f9"
+    },
+    {
+      "path": "rooms/105/Topdown_Alpha.png",
+      "bytes": 1012016,
+      "sha256": "03134143b6cf50b28b7a98a4f81b7a3bf791cd383980b2361a5688fcbb441f63"
+    },
+    {
+      "path": "rooms/105/Topdown_Black.png",
+      "bytes": 469270,
+      "sha256": "1bae4f9959a679b3ba914ea27a9014587682c15bb4f73b51d0d192a1bf8443ea"
+    },
+    {
+      "path": "rooms/106/H3_Loop_Prompt.txt",
+      "bytes": 3449,
+      "sha256": "384eba0405b80ce066fe6365b9b0ba9998520d4cdf42feaa87faa65c4a0de521"
+    },
+    {
+      "path": "rooms/106/mask_full_canvas.png",
+      "bytes": 3835,
+      "sha256": "8c9e745d38bf122947ab535fc94b2751ba4d4ab73adf697c28d29ec6e3e174af"
+    },
+    {
+      "path": "rooms/106/References.html",
+      "bytes": 1982,
+      "sha256": "56e5b1de7e89407c5cdc95ce099d85d7d05d996ac7775044373576a7c3840753"
+    },
+    {
+      "path": "rooms/106/References.md",
+      "bytes": 1374,
+      "sha256": "2e03a1f07cc360834a024064a7123f3ed1fe6c7c27ab11f681d19e6fb7d13674"
+    },
+    {
+      "path": "rooms/106/Room_3D.png",
+      "bytes": 2775950,
+      "sha256": "805cb15a13c6388726b1fc6855720ba97e3b67fd7ca45cdea93d36d5cc01ac20"
+    },
+    {
+      "path": "rooms/106/Room_Mask_1024.png",
+      "bytes": 1803,
+      "sha256": "adc966969feeabcde523e9382e682ee65f09f07a61a3e9dc6444a06d9328172c"
+    },
+    {
+      "path": "rooms/106/Topdown_Alpha.png",
+      "bytes": 1036964,
+      "sha256": "72b47d9381b97728c8f0ba2e73f229020dd0268cb8d51dab05a8158dd4fcfb71"
+    },
+    {
+      "path": "rooms/106/Topdown_Black.png",
+      "bytes": 161083,
+      "sha256": "a82ca9b2148772b38f043098f653aca25aa31d7443d5857c5d55f2ede16136de"
+    },
+    {
+      "path": "rooms/108/H3_Loop_Prompt.txt",
+      "bytes": 6277,
+      "sha256": "15867257b8cb2a0ce7facb46d646270b723004b4ab2ba6f58c5294e14bd844ee"
+    },
+    {
+      "path": "rooms/108/mask_full_canvas.png",
+      "bytes": 3825,
+      "sha256": "eee6bebb86372cc9f9668a18ddb9564d0bcd2f8c4b455871f35cfe9195e1bf1e"
+    },
+    {
+      "path": "rooms/108/References.html",
+      "bytes": 4409,
+      "sha256": "fb9b75756426126c5f92a810ffd7c396f6c22daa39033354b84ffde0d2810e62"
+    },
+    {
+      "path": "rooms/108/References.md",
+      "bytes": 2937,
+      "sha256": "38704613ad2fc6a1b453b1afbd4b78d231614a9af66e333b6a14e22a974e1f20"
+    },
+    {
+      "path": "rooms/108/Room_3D.png",
+      "bytes": 3631493,
+      "sha256": "4f05cdcf5692af41f2634c8d5abbe1fdb4f06e9a47998ed36ca3149c3aa69114"
+    },
+    {
+      "path": "rooms/108/Room_Mask_1024.png",
+      "bytes": 2844,
+      "sha256": "8b09859ad3963d3a0bce02e6ec4804d672386f80de0cc9640e91c0e377981298"
+    },
+    {
+      "path": "rooms/108/Topdown_Alpha.png",
+      "bytes": 927302,
+      "sha256": "5f807913f7c04b5122764c6e43c0c10af0fc9ce7e5ba12c3bb5a710a946ff18f"
+    },
+    {
+      "path": "rooms/108/Topdown_Black.png",
+      "bytes": 617108,
+      "sha256": "3ff8793c3d9c2250e237d209fe6225d41fcdd40b24cff026da0974b45a7560e2"
+    },
+    {
+      "path": "rooms/109/H3_Loop_Prompt.txt",
+      "bytes": 2760,
+      "sha256": "79ce39885db88a647c101e0b1bf0ffb2b9358f1659c803cd879eb46aed39b252"
+    },
+    {
+      "path": "rooms/109/mask_full_canvas.png",
+      "bytes": 3425,
+      "sha256": "62a50b8cb9900d14c99830d517dea7b7487a37c482a97017298ecffb4b49f3fb"
+    },
+    {
+      "path": "rooms/109/References.html",
+      "bytes": 1477,
+      "sha256": "04c2e1f282eba37cf97210f1af1c26696ae835fbe8a67c145eeac2fae1dbc9a8"
+    },
+    {
+      "path": "rooms/109/References.md",
+      "bytes": 1034,
+      "sha256": "c73c0daaf45bc07b3038b5b41da5defee023cb089fd34be6977fa06f13de155d"
+    },
+    {
+      "path": "rooms/109/Room_3D.png",
+      "bytes": 2738658,
+      "sha256": "3a9fc01cdf19113266ae1873d352a2ba73727245d42e64d90964f46efb8073d2"
+    },
+    {
+      "path": "rooms/109/Room_Mask_1024.png",
+      "bytes": 2874,
+      "sha256": "1462b7dfb126b78bcac4f156b3bdef52ec3f1475e2f292cdd41b4e33d17870f4"
+    },
+    {
+      "path": "rooms/109/Topdown_Alpha.png",
+      "bytes": 708074,
+      "sha256": "f8b8512fa81df9210b1a4d50afa97a8157c12408affeacee494a5dfaefe10b70"
+    },
+    {
+      "path": "rooms/109/Topdown_Black.png",
+      "bytes": 469563,
+      "sha256": "bb1a74c76130261ddcb7ecfc4fa7d5998a7af48437fcb19d91e7316e7f5c3d1f"
+    },
+    {
+      "path": "rooms/110/H3_Loop_Prompt.txt",
+      "bytes": 3413,
+      "sha256": "4d62059fc5479aef1785efd46525f0fd98f91ac3794e2bb486fc569d8da37b40"
+    },
+    {
+      "path": "rooms/110/mask_full_canvas.png",
+      "bytes": 3581,
+      "sha256": "2e03f92d53cea9bd95418a6444ec92a796237dfc8afb51c74a9eef946837a793"
+    },
+    {
+      "path": "rooms/110/References.html",
+      "bytes": 1967,
+      "sha256": "9a3e2a740adc07e1e0c9f7aefb99d3e623c8cf70865331574fdb108bd9e25bd7"
+    },
+    {
+      "path": "rooms/110/References.md",
+      "bytes": 1359,
+      "sha256": "ef64833fa33a6527ec3a2da1c9806d6256a0adba60e5dda5097241de64819985"
+    },
+    {
+      "path": "rooms/110/Room_3D.png",
+      "bytes": 2948735,
+      "sha256": "c2eaac3edc1d477ec90fc9a6a6bb51401602e2fa8b517a97e211bc19e6840314"
+    },
+    {
+      "path": "rooms/110/Room_Mask_1024.png",
+      "bytes": 1651,
+      "sha256": "f61b2b792a4fd12bcc73823950937a65d7411ef3d28213ff661ce43c1c003003"
+    },
+    {
+      "path": "rooms/110/Topdown_Alpha.png",
+      "bytes": 837160,
+      "sha256": "8b8888010fa716c6ac230b3d1963bbaa877d6125bef3b34a726ed1c804e58267"
+    },
+    {
+      "path": "rooms/110/Topdown_Black.png",
+      "bytes": 107514,
+      "sha256": "53f2a37e54b2a3394fe7c01e3de3352c0c893de74690a4ca61ac8be0d181f614"
+    },
+    {
+      "path": "rooms/111/H3_Loop_Prompt.txt",
+      "bytes": 3410,
+      "sha256": "90de5cb5e2a4fd13aec6208b617363794247998865400130b01804897315ddac"
+    },
+    {
+      "path": "rooms/111/mask_full_canvas.png",
+      "bytes": 3429,
+      "sha256": "d05fb38bdf275a04b7e09653297e56daec574d47ae6890d3827b662975048268"
+    },
+    {
+      "path": "rooms/111/References.html",
+      "bytes": 1965,
+      "sha256": "ae60d242346a670f8066a730c2f799d11da073b4922aa7b8cf16c3b09e381bb5"
+    },
+    {
+      "path": "rooms/111/References.md",
+      "bytes": 1357,
+      "sha256": "912c1834f19335a840244f79f9a8b6cae6cffad89cdd805ea029b5833283c75c"
+    },
+    {
+      "path": "rooms/111/Room_3D.png",
+      "bytes": 2639419,
+      "sha256": "2d770e79a3eaf46553ea7105d1fad2a21e2273e5b7759936a29cfe38ff29a4b8"
+    },
+    {
+      "path": "rooms/111/Room_Mask_1024.png",
+      "bytes": 2880,
+      "sha256": "4cb89048407eed559c6f5c1ad597127b59909037c58256b5766a497d9e283da9"
+    },
+    {
+      "path": "rooms/111/Topdown_Alpha.png",
+      "bytes": 718228,
+      "sha256": "05ed5f3c566cd795effb10ad8acb015fc75599933af9def62a512267d328a883"
+    },
+    {
+      "path": "rooms/111/Topdown_Black.png",
+      "bytes": 487154,
+      "sha256": "b2c87dcdd6067eef5ff311fd1383c64a277fb5353004b4a5d07a052051d260d4"
+    },
+    {
+      "path": "rooms/112/H3_Loop_Prompt.txt",
+      "bytes": 3328,
+      "sha256": "9ac9ee5361d256c5d56cf06e66fba6b1561f7f75cb70e1ff91349271d3a797fc"
+    },
+    {
+      "path": "rooms/112/mask_full_canvas.png",
+      "bytes": 3650,
+      "sha256": "2c46633a9f4a11a360824864474f08a2ee5093f87985011674e59072f61fc89b"
+    },
+    {
+      "path": "rooms/112/References.html",
+      "bytes": 1975,
+      "sha256": "d23c895e207de0e89cb33970293e085c463745a889c2b90255734e9e174eba1a"
+    },
+    {
+      "path": "rooms/112/References.md",
+      "bytes": 1367,
+      "sha256": "f69b442ba1b111407886f3000d18643397eab08a88cbbede505106c3e5e0e689"
+    },
+    {
+      "path": "rooms/112/Room_3D.png",
+      "bytes": 2952697,
+      "sha256": "6502a43fd0c4cc92727cd6c9c9af1d13ab2b5c7607bb5be8e9705c771ea20b18"
+    },
+    {
+      "path": "rooms/112/Room_Mask_1024.png",
+      "bytes": 3012,
+      "sha256": "950160b785ee2d17cf1e04b23de9937af8a7af481a322f17d09b305d5d39155f"
+    },
+    {
+      "path": "rooms/112/Topdown_Alpha.png",
+      "bytes": 768357,
+      "sha256": "17789edd0be3b2df980b522f76d21358c7335d226b2bef889615e6e91da89832"
+    },
+    {
+      "path": "rooms/112/Topdown_Black.png",
+      "bytes": 504478,
+      "sha256": "2669f1d7185c9d6f04a7b42fb0a6c59e80e3c3bc48776e29204efad355e8ef3e"
+    },
+    {
+      "path": "rooms/113/H3_Loop_Prompt.txt",
+      "bytes": 3330,
+      "sha256": "34e650d05db31aa5e9f3f0766b980e88f1e02bf021119d6ed288715872f68143"
+    },
+    {
+      "path": "rooms/113/mask_full_canvas.png",
+      "bytes": 3650,
+      "sha256": "9ade4b83b2b4058a08f03ff297e87fe76e560da0a0e8b8b3ddeabb2b47f749d7"
+    },
+    {
+      "path": "rooms/113/References.html",
+      "bytes": 1977,
+      "sha256": "16ed84d101e902a243d9b75d505e82e1b9c416b91e0436cc5edeb2a71b524eec"
+    },
+    {
+      "path": "rooms/113/References.md",
+      "bytes": 1369,
+      "sha256": "e80ac4e60adb9e877c1b667eed5846b569f76db9d704e8cb368f46986c8f3bc4"
+    },
+    {
+      "path": "rooms/113/Room_3D.png",
+      "bytes": 2972278,
+      "sha256": "93125c7ec6d4f138bd5891e545ea0d83ed7cd75e3ba4504dbb0bd2ae29344827"
+    },
+    {
+      "path": "rooms/113/Room_Mask_1024.png",
+      "bytes": 3014,
+      "sha256": "686e40320930a4b29ec282853dcd3de31362441298a6cc98be509205dfb2798a"
+    },
+    {
+      "path": "rooms/113/Topdown_Alpha.png",
+      "bytes": 831844,
+      "sha256": "a3e13bd9ef3907991a78fdd3d1268d4dfff34d381bc84b26b22964c3015591de"
+    },
+    {
+      "path": "rooms/113/Topdown_Black.png",
+      "bytes": 451853,
+      "sha256": "f2f51e11577e246fa58a876eeefa5bb75b527def14fc103e24dbe1ff812d034e"
+    },
+    {
+      "path": "rooms/114/H3_Loop_Prompt.txt",
+      "bytes": 3353,
+      "sha256": "a29ad0462291dd5bb7baa3f355a84d1b23eb95cc943e0b2ade638b7eaebe5c29"
+    },
+    {
+      "path": "rooms/114/mask_full_canvas.png",
+      "bytes": 3720,
+      "sha256": "c1adf5dc86eda662d829cc373f442563cf60411348c3380d1befc56bf8cb17f8"
+    },
+    {
+      "path": "rooms/114/References.html",
+      "bytes": 1923,
+      "sha256": "097f4314ee5c6d4e616fd3b917fd0a9c362e11488cb41365330eb063bfc0eaf1"
+    },
+    {
+      "path": "rooms/114/References.md",
+      "bytes": 1321,
+      "sha256": "cfbf6e924d0e9d32cabd89b082fd6f715d4d2c5daf4b917ae1d8aa04cb8b3191"
+    },
+    {
+      "path": "rooms/114/Room_3D.png",
+      "bytes": 2487050,
+      "sha256": "2baf05fa784ecdce813090e0c0cbb14bb254ce41f251ffb2ee3f95c245d9fa32"
+    },
+    {
+      "path": "rooms/114/Room_Mask_1024.png",
+      "bytes": 3172,
+      "sha256": "34d204f2031d36dcc08b700bfd400be0e5be180be3e4e337f64491c4360d1f47"
+    },
+    {
+      "path": "rooms/114/Topdown_Alpha.png",
+      "bytes": 853467,
+      "sha256": "0abe6a0a62790e89fa9cdcc9d079a5a76e553d639d732d6095770523ab4cbfe9"
+    },
+    {
+      "path": "rooms/114/Topdown_Black.png",
+      "bytes": 185775,
+      "sha256": "75a19a876afa00e4a4850984bc7b377a54ea5c30b795735074678b2ff127f0da"
+    },
+    {
+      "path": "rooms/115/H3_Loop_Prompt.txt",
+      "bytes": 3352,
+      "sha256": "360e1b2bd0f33fb8046f793d4c39ada80b89ee03aa87b4166895e4b87c23d7da"
+    },
+    {
+      "path": "rooms/115/mask_full_canvas.png",
+      "bytes": 3504,
+      "sha256": "8ae546c32324be929c7f434ead7b18ecf39cfe8b5a746a3e96dace7b39a7fd12"
+    },
+    {
+      "path": "rooms/115/References.html",
+      "bytes": 1922,
+      "sha256": "1661a16c345027670eb2eab9ff4e46842273f64df6361f08677e1ea9ea6f3f76"
+    },
+    {
+      "path": "rooms/115/References.md",
+      "bytes": 1320,
+      "sha256": "7cca81b5d612005a7634c2be169ea136c6d2f6995e98bda128e81daedb30277a"
+    },
+    {
+      "path": "rooms/115/Room_3D.png",
+      "bytes": 2979061,
+      "sha256": "e7b79a86be19f8033a661357d3433d8b6534b8aca272499b8c62fbcdb822abaa"
+    },
+    {
+      "path": "rooms/115/Room_Mask_1024.png",
+      "bytes": 1805,
+      "sha256": "5612bac3ae5f99c4165bc35822988227da9f3d1414ecf4fab64d86e7cf5b7d58"
+    },
+    {
+      "path": "rooms/115/Topdown_Alpha.png",
+      "bytes": 856355,
+      "sha256": "64c903392c057f9cb4a1604ddac3d5d7e8bbb76acc18b4532528c50d1c0f0206"
+    },
+    {
+      "path": "rooms/115/Topdown_Black.png",
+      "bytes": 151487,
+      "sha256": "78bc0e1a2a50e28c6d6d053d692e900dd3d36f266ec10756fe627a5fe683ed8c"
+    },
+    {
+      "path": "rooms/116/H3_Loop_Prompt.txt",
+      "bytes": 3269,
+      "sha256": "6f643cb7d07c2137c16d032bbf1387c56e204b5e68cc825671426a9952e3371a"
+    },
+    {
+      "path": "rooms/116/mask_full_canvas.png",
+      "bytes": 3578,
+      "sha256": "348cbd0e97acd0a89accad6e0c9aeda6b9bea891dbbb9b57ab172b491dca4d30"
+    },
+    {
+      "path": "rooms/116/References.html",
+      "bytes": 1882,
+      "sha256": "bd0c8aecf3eb1595d7ece6ae3bdc8b100a1e9f5b62c7dc38aa7043cd6f8ce9f5"
+    },
+    {
+      "path": "rooms/116/References.md",
+      "bytes": 1280,
+      "sha256": "f8f5e62a42dfb0343593fe74eb4fdf31d07ce1b9d7dd97d615921104013459f9"
+    },
+    {
+      "path": "rooms/116/Room_3D.png",
+      "bytes": 2595034,
+      "sha256": "2dc289c98f4038064ddc29b1b94c4e7bd4ac71f59d4c16f492b0c91dbcdec75b"
+    },
+    {
+      "path": "rooms/116/Room_Mask_1024.png",
+      "bytes": 2991,
+      "sha256": "6bd7a339a565d5178ee80286ca1bc9a6b6250728fb3e5c57e556509084c9a828"
+    },
+    {
+      "path": "rooms/116/Topdown_Alpha.png",
+      "bytes": 824381,
+      "sha256": "ae48385466710ccad5c6cf0f9545f1beec418fb537723eaf7bc7316e79721580"
+    },
+    {
+      "path": "rooms/116/Topdown_Black.png",
+      "bytes": 345262,
+      "sha256": "50e06d7cf42f8006a07875a3660fdfc63516a99ab8bfeb1cbc35035d75abab25"
+    },
+    {
+      "path": "rooms/117/H3_Loop_Prompt.txt",
+      "bytes": 3267,
+      "sha256": "6992499746df37e44e16a2d144b4d678f5cf7fa7b17c852b8dd2852ebc28da4f"
+    },
+    {
+      "path": "rooms/117/mask_full_canvas.png",
+      "bytes": 3576,
+      "sha256": "7868fd38d2bcfd96afa8533019a3c063222775eafabbd88b9ebf804c49ef4851"
+    },
+    {
+      "path": "rooms/117/References.html",
+      "bytes": 1880,
+      "sha256": "8c426f3e73bfe4d525287a132a8242a6f33d0b382f4fbe817e2d14467ca8ee74"
+    },
+    {
+      "path": "rooms/117/References.md",
+      "bytes": 1278,
+      "sha256": "36f604f77f436112938e7241144c973268492178b961e947fc240ed29ce7e7fc"
+    },
+    {
+      "path": "rooms/117/Room_3D.png",
+      "bytes": 2694999,
+      "sha256": "d46ee2709966eba9146cdc3a110daf9d730d166c5e329ffd38aab4ea4ec45cfe"
+    },
+    {
+      "path": "rooms/117/Room_Mask_1024.png",
+      "bytes": 2985,
+      "sha256": "115b513c702234add369390bdfe4d0e12747f7c4bd29aae407e36286f2ddd3a9"
+    },
+    {
+      "path": "rooms/117/Topdown_Alpha.png",
+      "bytes": 803838,
+      "sha256": "21d35f51d50e37d46293f1c2354b2dbac8ae7476d0eca898ebbe0aea9f2d0e60"
+    },
+    {
+      "path": "rooms/117/Topdown_Black.png",
+      "bytes": 371470,
+      "sha256": "bd3806c67e05b0d42412fa2803300e9e3fd9a2364af7e467ecd1c7e94b72c15b"
+    },
+    {
+      "path": "rooms/118/H3_Loop_Prompt.txt",
+      "bytes": 2748,
+      "sha256": "82953e1cf8d0f45136b37f7123791885e458c3dd152b78721ae1eba60fbaecaa"
+    },
+    {
+      "path": "rooms/118/mask_full_canvas.png",
+      "bytes": 3364,
+      "sha256": "d4b210c53068abe5245fb31a7552f23d9327962d7b93daa7d32f7e8605f402f7"
+    },
+    {
+      "path": "rooms/118/References.html",
+      "bytes": 1465,
+      "sha256": "5ae8bfa63077f3d3fe66d4ba335ef8fd83490b3696817c82b44c170005d6d66c"
+    },
+    {
+      "path": "rooms/118/References.md",
+      "bytes": 1022,
+      "sha256": "cd22f76c2373955e14522a28eb65d01d7681cc9dd353379d367f7ec15fd19910"
+    },
+    {
+      "path": "rooms/118/Room_3D.png",
+      "bytes": 1964291,
+      "sha256": "e190e70454ff4efeaa7acf1eadd87eee095f4be5bb6da6e61f145043f2ee831f"
+    },
+    {
+      "path": "rooms/118/Room_Mask_1024.png",
+      "bytes": 2785,
+      "sha256": "34f565f03d6a99c10f0f31aa333c36f26fb473365f34cdf7a9972a600340c5f1"
+    },
+    {
+      "path": "rooms/118/Topdown_Alpha.png",
+      "bytes": 773359,
+      "sha256": "2d79b764916959cd74ca6c7caf2c5554e6b9ac81acf1735ebdc7de4f37a5c1f1"
+    },
+    {
+      "path": "rooms/118/Topdown_Black.png",
+      "bytes": 218034,
+      "sha256": "936925e0eb4bc00ae8e5db5d4b1b9abb91f07716cc256c8550561a2d8028e549"
+    },
+    {
+      "path": "rooms/119/H3_Loop_Prompt.txt",
+      "bytes": 2758,
+      "sha256": "9b7cb540ebf66f3de8ab6be14ec6d6c53ec55ac93dd52ce8681180bd58d5b2be"
+    },
+    {
+      "path": "rooms/119/mask_full_canvas.png",
+      "bytes": 3518,
+      "sha256": "0147d1ce6f2ba1197256e99bd1273c55e3ac82f8db6ea31653d42d8649ecd213"
+    },
+    {
+      "path": "rooms/119/References.html",
+      "bytes": 1475,
+      "sha256": "fee934657ad70b75489d2efd6ae2b7fab6907fe2f76100df557806326ed94422"
+    },
+    {
+      "path": "rooms/119/References.md",
+      "bytes": 1032,
+      "sha256": "609708b1c2c44e67cb0953c8011c5ea185858771e219a263cd38cebb7d13c75f"
+    },
+    {
+      "path": "rooms/119/Room_3D.png",
+      "bytes": 2857685,
+      "sha256": "6d5f7533eb2f63c8882379c1f6eb3bc6a45559ed99052b56492ccb04d135c226"
+    },
+    {
+      "path": "rooms/119/Room_Mask_1024.png",
+      "bytes": 2958,
+      "sha256": "1fa4982ff6f3576537a5ca42f655d0b6c03882501aed8ddf5ec73404a011566a"
+    },
+    {
+      "path": "rooms/119/Topdown_Alpha.png",
+      "bytes": 1035258,
+      "sha256": "370d9c034f0b8d3faec62b183cb9c5b32b7846e724f24a8d52e7467340730a92"
+    },
+    {
+      "path": "rooms/119/Topdown_Black.png",
+      "bytes": 415604,
+      "sha256": "b04299288c52e7d2f004b3bae7aada2f8f4170613c0c8a3bb0a66e8bd2372af9"
+    },
+    {
+      "path": "rooms/120/H3_Loop_Prompt.txt",
+      "bytes": 2758,
+      "sha256": "028ae82b0db9edd2342579b3d3578f98358c455ca8e2542cd0f7a43072d05d0b"
+    },
+    {
+      "path": "rooms/120/mask_full_canvas.png",
+      "bytes": 3415,
+      "sha256": "a2b13431de7c1c8308444b2e64812e102eb12100d8908df0bde92a050eece057"
+    },
+    {
+      "path": "rooms/120/References.html",
+      "bytes": 1475,
+      "sha256": "19fda555cf02fd6799df711122efbc30ab54da4ef63b761795f4aa6319e55057"
+    },
+    {
+      "path": "rooms/120/References.md",
+      "bytes": 1032,
+      "sha256": "a698d185e1dd26f0ce768004caa1d3cb719fdcf916cd2c683e488224441d4c5b"
+    },
+    {
+      "path": "rooms/120/Room_3D.png",
+      "bytes": 2950591,
+      "sha256": "7c368757445304817d6fbc720b34882625b0391ef88b6ea632cd58d963653f8b"
+    },
+    {
+      "path": "rooms/120/Room_Mask_1024.png",
+      "bytes": 2368,
+      "sha256": "ea5476f285cdfa62c301db31e79bdc2b98d15a4b4d2054fd9e09a8849b81c8e6"
+    },
+    {
+      "path": "rooms/120/Topdown_Alpha.png",
+      "bytes": 955988,
+      "sha256": "70b998dffb99891c193c921ac70ed59a1b8877a7f192e0358f92a5ad9c68b9fe"
+    },
+    {
+      "path": "rooms/120/Topdown_Black.png",
+      "bytes": 385810,
+      "sha256": "0f42a4cbf91688a0484de5799c79dfc26f3256e95de5f82717d37ea59e68c2a7"
+    },
+    {
+      "path": "rooms/121/H3_Loop_Prompt.txt",
+      "bytes": 3267,
+      "sha256": "32ad145c57bda54f07d9b8978e65f5e256f49b49f5976f514aae28259a66f9f0"
+    },
+    {
+      "path": "rooms/121/mask_full_canvas.png",
+      "bytes": 3595,
+      "sha256": "cd6fce215ff7ea30914f51b91881c74cee5cca8d96f49f03540300d446328835"
+    },
+    {
+      "path": "rooms/121/References.html",
+      "bytes": 1880,
+      "sha256": "2c8f37ebce2b5bc9786912fd1b27f3a12189ff82aca29206567385b53bbbeaed"
+    },
+    {
+      "path": "rooms/121/References.md",
+      "bytes": 1278,
+      "sha256": "9777ffd6f7e8a1b05c797954b9ea2e6da5dc54d0afea73ca3e6420f6a08095f3"
+    },
+    {
+      "path": "rooms/121/Room_3D.png",
+      "bytes": 3393918,
+      "sha256": "4777bf0f840334578a6dbd42f12e20df5769fb25c3e3258a4da532a14ee63ead"
+    },
+    {
+      "path": "rooms/121/Room_Mask_1024.png",
+      "bytes": 2176,
+      "sha256": "d52b674d10f4ca64beba062a453d650ebf31791f63dcd766885410adade2a475"
+    },
+    {
+      "path": "rooms/121/Topdown_Alpha.png",
+      "bytes": 848952,
+      "sha256": "f72dbdbb4fdde74828f5bf8c359feff1d322176e3fe988e0abf05e451e8656c8"
+    },
+    {
+      "path": "rooms/121/Topdown_Black.png",
+      "bytes": 376977,
+      "sha256": "b1d9af86e2f40562dd4036c980d5a1282a8e2daf8f087f592f1d82e058b3db7b"
+    },
+    {
+      "path": "rooms/122/H3_Loop_Prompt.txt",
+      "bytes": 3267,
+      "sha256": "1d52156f1927f627a85050ff8341ca19efacf25232c11de2609380377908cbbd"
+    },
+    {
+      "path": "rooms/122/mask_full_canvas.png",
+      "bytes": 3610,
+      "sha256": "826af03259c1a28f96656e59b842a0c247ec8a8c7604f8818eb59cf6902096b8"
+    },
+    {
+      "path": "rooms/122/References.html",
+      "bytes": 1880,
+      "sha256": "de580239c55bffea6f59ae227fd3bc3706d3ddfe6faf44567c3dea17509a1d20"
+    },
+    {
+      "path": "rooms/122/References.md",
+      "bytes": 1278,
+      "sha256": "9ebc92e6d07fcd91046e1850b4bea13d4b05fe885aa4d33fb842a1ea32646362"
+    },
+    {
+      "path": "rooms/122/Room_3D.png",
+      "bytes": 3470626,
+      "sha256": "00c59901cb8cec41fecf86fdf16d997124188aad2f40cba5add56bc8917cc442"
+    },
+    {
+      "path": "rooms/122/Room_Mask_1024.png",
+      "bytes": 2214,
+      "sha256": "351e44ddff0c6bb07e80c8c43b0982db72e52cf1090c2286d54cd457ef5a1105"
+    },
+    {
+      "path": "rooms/122/Topdown_Alpha.png",
+      "bytes": 839213,
+      "sha256": "5a98214c805ffab3c3ca9b82f0af338d22db1f1effc0ae7cb814df4b4a95db87"
+    },
+    {
+      "path": "rooms/122/Topdown_Black.png",
+      "bytes": 378658,
+      "sha256": "cbfef3bc6d6422376e0cf0822a9ff23b792879bd90deebfd63d61d17c4a6de09"
+    },
+    {
+      "path": "rooms/123/H3_Loop_Prompt.txt",
+      "bytes": 3366,
+      "sha256": "7f6b2bf290232202bbaab45eb1bdec0766fda73ff053196e3be50444dd081ac3"
+    },
+    {
+      "path": "rooms/123/mask_full_canvas.png",
+      "bytes": 5014,
+      "sha256": "8ca4f1273a1ed0daa7b3e2b54312a35ed64038782f3eee565b875c68881aefae"
+    },
+    {
+      "path": "rooms/123/References.html",
+      "bytes": 1936,
+      "sha256": "995c3256fc0f0068255657030cfcedfaecdc5e2eab80e8c44ac4e718b9a9da7f"
+    },
+    {
+      "path": "rooms/123/References.md",
+      "bytes": 1334,
+      "sha256": "eb0b65e788de2e2e8da4b12a7016b72213ec34df9b1f2bd0d0fd7f97b18cf213"
+    },
+    {
+      "path": "rooms/123/Room_3D.png",
+      "bytes": 2281026,
+      "sha256": "82a8a2376c6270d6d505ebb7fda449e07dd7d5dd42466367ebfb007e3b03c011"
+    },
+    {
+      "path": "rooms/123/Room_Mask_1024.png",
+      "bytes": 3414,
+      "sha256": "798303e2a7feaa2c9a9ada8f8ab5b9e2fc37167f6163bc21d481454b4e247047"
+    },
+    {
+      "path": "rooms/123/Topdown_Alpha.png",
+      "bytes": 900727,
+      "sha256": "59c57ec030265d33efde277f8c638e8e077e4084f88b6422496a91fc22b74494"
+    },
+    {
+      "path": "rooms/123/Topdown_Black.png",
+      "bytes": 130462,
+      "sha256": "061bce60f6d212ad6ee138e9f01eb5b693fdd5382e43a3caabb5541ee54b6021"
+    },
+    {
+      "path": "rooms/124/H3_Loop_Prompt.txt",
+      "bytes": 2851,
+      "sha256": "81829560e5e2cabf466bf2a8abdde3aba982883507bdb41e340cdd188c890cfb"
+    },
+    {
+      "path": "rooms/124/mask_full_canvas.png",
+      "bytes": 3440,
+      "sha256": "7489c66ff9f90a4a8c0a395ce0bd99f234c5285a3b0b32a88c7a5d4848691c10"
+    },
+    {
+      "path": "rooms/124/References.html",
+      "bytes": 1474,
+      "sha256": "d05cf7e62dfd42a94436f3bc2e0b425edae71b8f73ff51de8e7568b276323dcc"
+    },
+    {
+      "path": "rooms/124/References.md",
+      "bytes": 1031,
+      "sha256": "7af3b1d22c8a13df3a280a9107f0ea0e6ea3b2722a968fb4ae95d46a31705d08"
+    },
+    {
+      "path": "rooms/124/Room_3D.png",
+      "bytes": 2545241,
+      "sha256": "80bcff2900f1a54e920d8b3db172b485844e2cfc5afdff8722c0cbd3598b8dfd"
+    },
+    {
+      "path": "rooms/124/Room_Mask_1024.png",
+      "bytes": 2892,
+      "sha256": "355e673a39d015079e5d0e1971468b06856f40f9e7c72cc9ad2909456639245c"
+    },
+    {
+      "path": "rooms/124/Topdown_Alpha.png",
+      "bytes": 767227,
+      "sha256": "72d42e62f622e74c2046217b905ed91b303191d1dd9c0143c913b30dea4aaf52"
+    },
+    {
+      "path": "rooms/124/Topdown_Black.png",
+      "bytes": 404185,
+      "sha256": "eecaa4dacf9c41c2403477b82e39146eba9ecc925103ca430ceced7fa6009811"
+    },
+    {
+      "path": "rooms/125/H3_Loop_Prompt.txt",
+      "bytes": 2851,
+      "sha256": "7d44ce05c5ece9fdba45a6be500fdaeec06610804dc267359c16d58e4b2f0ccb"
+    },
+    {
+      "path": "rooms/125/mask_full_canvas.png",
+      "bytes": 3447,
+      "sha256": "e0e700cd46f4c06a8a5ed9fd810e969856031f9258446105b8745f3122c7bc42"
+    },
+    {
+      "path": "rooms/125/References.html",
+      "bytes": 1474,
+      "sha256": "a3c49cd05e4312e420d62c155858bb1af092f247e814670520714f013929672a"
+    },
+    {
+      "path": "rooms/125/References.md",
+      "bytes": 1031,
+      "sha256": "294d097ac09afb26d6d8e650a941f7323fe0e6383bdda8871fd240e15dbdfb55"
+    },
+    {
+      "path": "rooms/125/Room_3D.png",
+      "bytes": 2929604,
+      "sha256": "a267965cf318b0dd6efefc90e856e25e659ea1d605b55fbc6e1d4042f669337b"
+    },
+    {
+      "path": "rooms/125/Room_Mask_1024.png",
+      "bytes": 2387,
+      "sha256": "a66232157f91ca822c0c02293464a1f804254341a96853e0c8e2e5d13de1893a"
+    },
+    {
+      "path": "rooms/125/Topdown_Alpha.png",
+      "bytes": 892690,
+      "sha256": "4a9cfd46f6fc7fdef54a28ddb7889b66df1112624aa1489c2e4e60dfc73f4e5d"
+    },
+    {
+      "path": "rooms/125/Topdown_Black.png",
+      "bytes": 412672,
+      "sha256": "5341ee1587ba6edbf3a1a37d4fe7509f7f20418396f8270749994109cc082b0d"
+    },
+    {
+      "path": "rooms/126/H3_Loop_Prompt.txt",
+      "bytes": 2851,
+      "sha256": "e3fa54a74214eb54f300ca31aa85faee32723ec86d5612c5a851acc35f534c07"
+    },
+    {
+      "path": "rooms/126/mask_full_canvas.png",
+      "bytes": 3439,
+      "sha256": "4662a51448d6a8aec2cc765bd1eeb0354bd1fb3c3625851ca67ceaa5a425fd4a"
+    },
+    {
+      "path": "rooms/126/References.html",
+      "bytes": 1474,
+      "sha256": "c8f50178f22cc61d603a27f24ba753039f83856895dff68ea72b5bbede0b0167"
+    },
+    {
+      "path": "rooms/126/References.md",
+      "bytes": 1031,
+      "sha256": "2cc866892736b0184d791d223fc35048482cdaf40cc0fda633360d970a33bbbc"
+    },
+    {
+      "path": "rooms/126/Room_3D.png",
+      "bytes": 2536391,
+      "sha256": "7dca2ab6db51bd937464076d867b11c703365d8c989a3e6f4505a7b7eb728782"
+    },
+    {
+      "path": "rooms/126/Room_Mask_1024.png",
+      "bytes": 2892,
+      "sha256": "66f1fdf6df86b51a7b05f6390fb2c8d19541ab99f4239b45c15bdf6251dd204e"
+    },
+    {
+      "path": "rooms/126/Topdown_Alpha.png",
+      "bytes": 757749,
+      "sha256": "01a18c72b43511b8fb4192a03e1cfb1d2ce1ee4b84d9c42cd1c3ad918db5fda7"
+    },
+    {
+      "path": "rooms/126/Topdown_Black.png",
+      "bytes": 406416,
+      "sha256": "0e003f38d812015c8191b4a2ac3950ea38d9cef7b496d99312f46801b625d86c"
+    },
+    {
+      "path": "rooms/127/H3_Loop_Prompt.txt",
+      "bytes": 2850,
+      "sha256": "a90573f587d44f227c2cfa372780ba9629fac6fd9b36d40c6ba89e23496ffb13"
+    },
+    {
+      "path": "rooms/127/mask_full_canvas.png",
+      "bytes": 3480,
+      "sha256": "1f9b2430dd333246c510e5e269f918d92260fb9b09c42530ac1cd36bd32d88f0"
+    },
+    {
+      "path": "rooms/127/References.html",
+      "bytes": 1473,
+      "sha256": "5a851bfadbc131447c671e06bec43a4c443de99629844d986662f84c85a49ad1"
+    },
+    {
+      "path": "rooms/127/References.md",
+      "bytes": 1030,
+      "sha256": "4e4dbecb279ba50dc46c09fe5c8d6dd93a1fc1a0dde845c546e18bbc4fffb804"
+    },
+    {
+      "path": "rooms/127/Room_3D.png",
+      "bytes": 2477925,
+      "sha256": "678a657fd8ada015a831aafdfa0f0568b7470b1bbd478a4d99255b0d77820d3b"
+    },
+    {
+      "path": "rooms/127/Room_Mask_1024.png",
+      "bytes": 2930,
+      "sha256": "b801060109c28ce67515b666af437a0d9299a74d259f04dfc4b358ce86cf2ca0"
+    },
+    {
+      "path": "rooms/127/Topdown_Alpha.png",
+      "bytes": 749266,
+      "sha256": "f67c65fa0e2f36d47304840acbb34c567ef138f920b1d6d31f092c09751cdc7c"
+    },
+    {
+      "path": "rooms/127/Topdown_Black.png",
+      "bytes": 347234,
+      "sha256": "f93ccacad356e8b14f3a7c48ee83c7dddc481a8dfb2f802ddf804414b3577103"
+    },
+    {
+      "path": "rooms/128/H3_Loop_Prompt.txt",
+      "bytes": 2757,
+      "sha256": "b1139ae62c6c550dfce5b40cb5a13f76399d094acd16ecc4597eb5e5f6ca5227"
+    },
+    {
+      "path": "rooms/128/mask_full_canvas.png",
+      "bytes": 3403,
+      "sha256": "713e584562dd5f20ad36fd390fa42996c2e62ce098d517c20596b629e48ccc10"
+    },
+    {
+      "path": "rooms/128/References.html",
+      "bytes": 1474,
+      "sha256": "0ce294ce295f086b01097ccefbfb063b4d31743d180a068a7c79d340ff1394e7"
+    },
+    {
+      "path": "rooms/128/References.md",
+      "bytes": 1031,
+      "sha256": "0c1866616ccc544484bef5829314aff64290f3b63f227551f5658071d485f511"
+    },
+    {
+      "path": "rooms/128/Room_3D.png",
+      "bytes": 2617857,
+      "sha256": "6d5e98ad2791d3fa87f94b1e4704a8cc1490115b73bc1958dec1f501e5df821b"
+    },
+    {
+      "path": "rooms/128/Room_Mask_1024.png",
+      "bytes": 2846,
+      "sha256": "3199fd925ec5e0d86918bb4049c43b03c1f206af1b2fe80680c0b738490f706c"
+    },
+    {
+      "path": "rooms/128/Topdown_Alpha.png",
+      "bytes": 722138,
+      "sha256": "1d4ae0de0e2d6a0f5057e373f65889745c41552882b3af9f81b0c3e89788cf2d"
+    },
+    {
+      "path": "rooms/128/Topdown_Black.png",
+      "bytes": 439689,
+      "sha256": "2d00b2f4867d2f49340562b7038117c9ab57705d827b32f0b81cb1fea80689af"
+    },
+    {
+      "path": "rooms/129/H3_Loop_Prompt.txt",
+      "bytes": 2853,
+      "sha256": "28fb89e23cc772fd907b357508d2356dfe0901acabc921e9f9e4777e88bb17e2"
+    },
+    {
+      "path": "rooms/129/mask_full_canvas.png",
+      "bytes": 3674,
+      "sha256": "68fcb55bc2e90138d43cb6bdef091cfb9c2c02d0331ba6f6e11a4ddc82ef0a25"
+    },
+    {
+      "path": "rooms/129/References.html",
+      "bytes": 1476,
+      "sha256": "0b89909d9e369968971f647185a770a257e0c8c3d5ccc2e18764fd94e679606e"
+    },
+    {
+      "path": "rooms/129/References.md",
+      "bytes": 1033,
+      "sha256": "705aacc039b9d6bf02d3952fef14a641a93f38b76a16216e2e7a88e1d35c44ba"
+    },
+    {
+      "path": "rooms/129/Room_3D.png",
+      "bytes": 2846348,
+      "sha256": "0a7fc930b71846dc96669661a37e06880feb4a5f76fba357c75b67c7750622d7"
+    },
+    {
+      "path": "rooms/129/Room_Mask_1024.png",
+      "bytes": 3024,
+      "sha256": "bdc17540a9591601266a870d595b250679a5df31c56fb609d0e56d69e2805dd7"
+    },
+    {
+      "path": "rooms/129/Topdown_Alpha.png",
+      "bytes": 1084859,
+      "sha256": "71b4527f4bf18e2fe8cdf9efd9045e217c946963e66c365f6bb2e6926f6de367"
+    },
+    {
+      "path": "rooms/129/Topdown_Black.png",
+      "bytes": 426261,
+      "sha256": "e0032f6a180c9fcf3397dccaa42924b2a3aae7daab13dab7e75925614f3465b3"
+    },
+    {
+      "path": "rooms/130/H3_Loop_Prompt.txt",
+      "bytes": 3352,
+      "sha256": "6d02a99c853c47e9fb33fcc607516658de9cc71645e0f8375a35a83e2c991a7a"
+    },
+    {
+      "path": "rooms/130/mask_full_canvas.png",
+      "bytes": 3981,
+      "sha256": "db8638f32f258190cb51935f1bfa0187c53b7d426068b63c21189acaf0504e2a"
+    },
+    {
+      "path": "rooms/130/References.html",
+      "bytes": 1922,
+      "sha256": "5cd48a365aa9338c1a14e742f547dad0312470a4c8f42a0c17f6ec628d0c41f2"
+    },
+    {
+      "path": "rooms/130/References.md",
+      "bytes": 1320,
+      "sha256": "011018b990ad06d9ce600701aa7adb6be7f9b65dd28149cd9879ebca4344ecab"
+    },
+    {
+      "path": "rooms/130/Room_3D.png",
+      "bytes": 3451811,
+      "sha256": "63a54db4d6c9989eaba898a465a58a16230170eaf0f2dd46ac12be039628bff0"
+    },
+    {
+      "path": "rooms/130/Room_Mask_1024.png",
+      "bytes": 2479,
+      "sha256": "ed7f921d3f4282fff2fc9242189f4229f7c23ab379f11e05b1f863374a143c71"
+    },
+    {
+      "path": "rooms/130/Topdown_Alpha.png",
+      "bytes": 1005197,
+      "sha256": "280eed8723933700f22617dea44e8f81f5bb921a682064cba9ec680fae3d44f3"
+    },
+    {
+      "path": "rooms/130/Topdown_Black.png",
+      "bytes": 170044,
+      "sha256": "b8c69149556f6656f42105762a3af9f90e056070e24f42fa7d3ad278f5821c7e"
+    },
+    {
+      "path": "rooms/GYM/H3_Loop_Prompt.txt",
+      "bytes": 2905,
+      "sha256": "5f3462a31071ab16cc0ee1c5c88bedb50afdbe49ffe3912dba4db48f7849ed91"
+    },
+    {
+      "path": "rooms/GYM/mask_full_canvas.png",
+      "bytes": 5060,
+      "sha256": "dfe4d1936aa516918289e3851a416f7830fcbddf9b361a087ad74663f2b3cf82"
+    },
+    {
+      "path": "rooms/GYM/References.html",
+      "bytes": 1470,
+      "sha256": "3597127fb69a7609f7d634bfeb5d9460c87b30bcf11727356b300b93582067ac"
+    },
+    {
+      "path": "rooms/GYM/References.md",
+      "bytes": 1027,
+      "sha256": "adefb6929993a1664ed4b4dd1ffe4525a083d31edef318e9b1845abd010c37cc"
+    },
+    {
+      "path": "rooms/GYM/Room_3D.png",
+      "bytes": 3504176,
+      "sha256": "dd01cc7f8edacf7cda57c40df1876e4652bd6253b2b84aad7dbefe8c563819ff"
+    },
+    {
+      "path": "rooms/GYM/Room_Mask_1024.png",
+      "bytes": 3132,
+      "sha256": "316f196918decf4160cb83ba88b4a58dc9af9b42add30205521bf356e0074423"
+    },
+    {
+      "path": "rooms/GYM/Topdown_Alpha.png",
+      "bytes": 876852,
+      "sha256": "23f179d6532c5924802104ffda386b92c28f7968cdbf10e35cc1a423a3cf9793"
+    },
+    {
+      "path": "rooms/GYM/Topdown_Black.png",
+      "bytes": 587561,
+      "sha256": "d4207816529cbe67a5708417f072bff36fc0ebeb2fc8096b40baedd0ec8b3775"
+    },
+    {
+      "path": "rooms/shared_references/cafe_detail.png",
+      "bytes": 38688,
+      "sha256": "348896ae78b74b383b286a3cad48a4edcfbaf61bec6f1de8aa8bd2a16e6bde35"
+    },
+    {
+      "path": "rooms/shared_references/commons_furniture_banners.png",
+      "bytes": 2222038,
+      "sha256": "9783cd1685faa905f0cb860c6b4c408dadae9b5030eb46e675550a129783689a"
+    },
+    {
+      "path": "rooms/shared_references/locker_details.png",
+      "bytes": 55531,
+      "sha256": "0420f367e648e05f42de2b61120e8e072b116cf9a35ce92a8b75f43d3f9c2916"
+    },
+    {
+      "path": "rooms/shared_references/toilet_details.png",
+      "bytes": 61184,
+      "sha256": "abafb061b4ba85c590874c21cbe716d6bb48b33a2a0160c6679b84811c9b3fb1"
+    },
+    {
+      "path": "rooms/100/references/02_cinematic.png",
+      "bytes": 2011192,
+      "sha256": "1195b181de1a1a459a355bf68fb9c79986bf31af5c74415d8402793c58197c93"
+    },
+    {
+      "path": "rooms/100/references/03_furniture_banners.png",
+      "bytes": 2222038,
+      "sha256": "9783cd1685faa905f0cb860c6b4c408dadae9b5030eb46e675550a129783689a"
+    },
+    {
+      "path": "rooms/101/references/02_cinematic.png",
+      "bytes": 2289517,
+      "sha256": "99d4fa3b1a17ad52761ab2559c0252d0bf2af5db7e8fdd8a7e97518e5d0da19e"
+    },
+    {
+      "path": "rooms/101/references/03_furniture_banners.png",
+      "bytes": 2222038,
+      "sha256": "9783cd1685faa905f0cb860c6b4c408dadae9b5030eb46e675550a129783689a"
+    },
+    {
+      "path": "rooms/101/references/04_cafe_equipment_plan.png",
+      "bytes": 38688,
+      "sha256": "348896ae78b74b383b286a3cad48a4edcfbaf61bec6f1de8aa8bd2a16e6bde35"
+    },
+    {
+      "path": "rooms/102/references/02_cinematic.png",
+      "bytes": 2289517,
+      "sha256": "99d4fa3b1a17ad52761ab2559c0252d0bf2af5db7e8fdd8a7e97518e5d0da19e"
+    },
+    {
+      "path": "rooms/102/references/03_furniture_banners.png",
+      "bytes": 2222038,
+      "sha256": "9783cd1685faa905f0cb860c6b4c408dadae9b5030eb46e675550a129783689a"
+    },
+    {
+      "path": "rooms/103/references/02_cinematic.png",
+      "bytes": 2011192,
+      "sha256": "1195b181de1a1a459a355bf68fb9c79986bf31af5c74415d8402793c58197c93"
+    },
+    {
+      "path": "rooms/103/references/03_furniture_banners.png",
+      "bytes": 2222038,
+      "sha256": "9783cd1685faa905f0cb860c6b4c408dadae9b5030eb46e675550a129783689a"
+    },
+    {
+      "path": "rooms/104/references/02_cinematic.png",
+      "bytes": 2011192,
+      "sha256": "1195b181de1a1a459a355bf68fb9c79986bf31af5c74415d8402793c58197c93"
+    },
+    {
+      "path": "rooms/104/references/03_furniture_banners.png",
+      "bytes": 2222038,
+      "sha256": "9783cd1685faa905f0cb860c6b4c408dadae9b5030eb46e675550a129783689a"
+    },
+    {
+      "path": "rooms/105/references/02_cinematic.png",
+      "bytes": 2289517,
+      "sha256": "99d4fa3b1a17ad52761ab2559c0252d0bf2af5db7e8fdd8a7e97518e5d0da19e"
+    },
+    {
+      "path": "rooms/105/references/03_furniture_banners.png",
+      "bytes": 2222038,
+      "sha256": "9783cd1685faa905f0cb860c6b4c408dadae9b5030eb46e675550a129783689a"
+    },
+    {
+      "path": "rooms/106/references/02_cinematic.png",
+      "bytes": 2289517,
+      "sha256": "99d4fa3b1a17ad52761ab2559c0252d0bf2af5db7e8fdd8a7e97518e5d0da19e"
+    },
+    {
+      "path": "rooms/106/references/03_furniture_banners.png",
+      "bytes": 2222038,
+      "sha256": "9783cd1685faa905f0cb860c6b4c408dadae9b5030eb46e675550a129783689a"
+    },
+    {
+      "path": "rooms/108/references/02_cinematic.png",
+      "bytes": 2095473,
+      "sha256": "5c0378894ab47be6ccdd7068b1d0e6e1ade77618bd3008ea69db8276075a8e27"
+    },
+    {
+      "path": "rooms/108/references/03_bambu_h2d_ams.jpg",
+      "bytes": 128552,
+      "sha256": "4dca4789c979bda5de2ae3bd0ce46a636d6ee2c4a10eecc329c31b2fd2021780"
+    },
+    {
+      "path": "rooms/108/references/04_formlabs.png",
+      "bytes": 228399,
+      "sha256": "457e4b39a4a2d14b5ce943c2d0a44c09a2cb844292ffcfefce0f71b58d394f34"
+    },
+    {
+      "path": "rooms/108/references/05_bigrep.png",
+      "bytes": 505256,
+      "sha256": "60ff97a8e0d3645d80aa92edc8c0fe2fd592059511dd74b42499cd0a5235adc9"
+    },
+    {
+      "path": "rooms/108/references/06_wazer.png",
+      "bytes": 260205,
+      "sha256": "456222e708e0dfdc5deade94625a66f8f497c8d68db1d8aa4eacda70caece902"
+    },
+    {
+      "path": "rooms/108/references/07_epson.png",
+      "bytes": 343351,
+      "sha256": "add9e2bd5d045a8dbec11b244067eec5946f7a699685c122d65a85a34fbd4cfd"
+    },
+    {
+      "path": "rooms/108/references/08_uvflatbed.png",
+      "bytes": 400451,
+      "sha256": "f5b3256a91e51b615f221dcf8cda7febea7a9bd6a32b33260732a61a46501854"
+    },
+    {
+      "path": "rooms/108/references/09_spraybooth.jpg",
+      "bytes": 211727,
+      "sha256": "0066da3f1d0593dc0a4d99d3101a30c21cd16766057911c54790517e14031ef0"
+    },
+    {
+      "path": "rooms/109/references/02_cinematic.png",
+      "bytes": 1775441,
+      "sha256": "5bf243e5ab5adfeaeea486bf25e02c962c7b198a7dee74dc91961a52a9d9b1a3"
+    },
+    {
+      "path": "rooms/110/references/02_cinematic.png",
+      "bytes": 2289517,
+      "sha256": "99d4fa3b1a17ad52761ab2559c0252d0bf2af5db7e8fdd8a7e97518e5d0da19e"
+    },
+    {
+      "path": "rooms/110/references/03_furniture_banners.png",
+      "bytes": 2222038,
+      "sha256": "9783cd1685faa905f0cb860c6b4c408dadae9b5030eb46e675550a129783689a"
+    },
+    {
+      "path": "rooms/111/references/02_cinematic.png",
+      "bytes": 2289517,
+      "sha256": "99d4fa3b1a17ad52761ab2559c0252d0bf2af5db7e8fdd8a7e97518e5d0da19e"
+    },
+    {
+      "path": "rooms/111/references/03_furniture_banners.png",
+      "bytes": 2222038,
+      "sha256": "9783cd1685faa905f0cb860c6b4c408dadae9b5030eb46e675550a129783689a"
+    },
+    {
+      "path": "rooms/112/references/02_cinematic.png",
+      "bytes": 2289517,
+      "sha256": "99d4fa3b1a17ad52761ab2559c0252d0bf2af5db7e8fdd8a7e97518e5d0da19e"
+    },
+    {
+      "path": "rooms/112/references/03_furniture_banners.png",
+      "bytes": 2222038,
+      "sha256": "9783cd1685faa905f0cb860c6b4c408dadae9b5030eb46e675550a129783689a"
+    },
+    {
+      "path": "rooms/113/references/02_cinematic.png",
+      "bytes": 2289517,
+      "sha256": "99d4fa3b1a17ad52761ab2559c0252d0bf2af5db7e8fdd8a7e97518e5d0da19e"
+    },
+    {
+      "path": "rooms/113/references/03_furniture_banners.png",
+      "bytes": 2222038,
+      "sha256": "9783cd1685faa905f0cb860c6b4c408dadae9b5030eb46e675550a129783689a"
+    },
+    {
+      "path": "rooms/114/references/02_cinematic.png",
+      "bytes": 2011192,
+      "sha256": "1195b181de1a1a459a355bf68fb9c79986bf31af5c74415d8402793c58197c93"
+    },
+    {
+      "path": "rooms/114/references/03_fixture_shapes.png",
+      "bytes": 2487050,
+      "sha256": "2baf05fa784ecdce813090e0c0cbb14bb254ce41f251ffb2ee3f95c245d9fa32"
+    },
+    {
+      "path": "rooms/115/references/02_cinematic.png",
+      "bytes": 1987725,
+      "sha256": "40a0e35141d84d9f2d4aa4f9bda2a6c7ff636b62dfa950eaf41e09baec24a76f"
+    },
+    {
+      "path": "rooms/115/references/03_fixture_shapes.png",
+      "bytes": 2979061,
+      "sha256": "e7b79a86be19f8033a661357d3433d8b6534b8aca272499b8c62fbcdb822abaa"
+    },
+    {
+      "path": "rooms/116/references/02_cinematic.png",
+      "bytes": 1987725,
+      "sha256": "40a0e35141d84d9f2d4aa4f9bda2a6c7ff636b62dfa950eaf41e09baec24a76f"
+    },
+    {
+      "path": "rooms/116/references/03_fixture_detail.png",
+      "bytes": 61184,
+      "sha256": "abafb061b4ba85c590874c21cbe716d6bb48b33a2a0160c6679b84811c9b3fb1"
+    },
+    {
+      "path": "rooms/117/references/02_cinematic.png",
+      "bytes": 1987725,
+      "sha256": "40a0e35141d84d9f2d4aa4f9bda2a6c7ff636b62dfa950eaf41e09baec24a76f"
+    },
+    {
+      "path": "rooms/117/references/03_fixture_detail.png",
+      "bytes": 61184,
+      "sha256": "abafb061b4ba85c590874c21cbe716d6bb48b33a2a0160c6679b84811c9b3fb1"
+    },
+    {
+      "path": "rooms/118/references/02_cinematic.png",
+      "bytes": 1987725,
+      "sha256": "40a0e35141d84d9f2d4aa4f9bda2a6c7ff636b62dfa950eaf41e09baec24a76f"
+    },
+    {
+      "path": "rooms/119/references/02_cinematic.png",
+      "bytes": 1987725,
+      "sha256": "40a0e35141d84d9f2d4aa4f9bda2a6c7ff636b62dfa950eaf41e09baec24a76f"
+    },
+    {
+      "path": "rooms/120/references/02_cinematic.png",
+      "bytes": 1987725,
+      "sha256": "40a0e35141d84d9f2d4aa4f9bda2a6c7ff636b62dfa950eaf41e09baec24a76f"
+    },
+    {
+      "path": "rooms/121/references/02_cinematic.png",
+      "bytes": 1987725,
+      "sha256": "40a0e35141d84d9f2d4aa4f9bda2a6c7ff636b62dfa950eaf41e09baec24a76f"
+    },
+    {
+      "path": "rooms/121/references/03_fixture_detail.png",
+      "bytes": 55531,
+      "sha256": "0420f367e648e05f42de2b61120e8e072b116cf9a35ce92a8b75f43d3f9c2916"
+    },
+    {
+      "path": "rooms/122/references/02_cinematic.png",
+      "bytes": 1987725,
+      "sha256": "40a0e35141d84d9f2d4aa4f9bda2a6c7ff636b62dfa950eaf41e09baec24a76f"
+    },
+    {
+      "path": "rooms/122/references/03_fixture_detail.png",
+      "bytes": 55531,
+      "sha256": "0420f367e648e05f42de2b61120e8e072b116cf9a35ce92a8b75f43d3f9c2916"
+    },
+    {
+      "path": "rooms/123/references/02_cinematic.png",
+      "bytes": 1987725,
+      "sha256": "40a0e35141d84d9f2d4aa4f9bda2a6c7ff636b62dfa950eaf41e09baec24a76f"
+    },
+    {
+      "path": "rooms/123/references/03_fixture_shapes.png",
+      "bytes": 2281026,
+      "sha256": "82a8a2376c6270d6d505ebb7fda449e07dd7d5dd42466367ebfb007e3b03c011"
+    },
+    {
+      "path": "rooms/124/references/02_cinematic.png",
+      "bytes": 1987725,
+      "sha256": "40a0e35141d84d9f2d4aa4f9bda2a6c7ff636b62dfa950eaf41e09baec24a76f"
+    },
+    {
+      "path": "rooms/125/references/02_cinematic.png",
+      "bytes": 1987725,
+      "sha256": "40a0e35141d84d9f2d4aa4f9bda2a6c7ff636b62dfa950eaf41e09baec24a76f"
+    },
+    {
+      "path": "rooms/126/references/02_cinematic.png",
+      "bytes": 1987725,
+      "sha256": "40a0e35141d84d9f2d4aa4f9bda2a6c7ff636b62dfa950eaf41e09baec24a76f"
+    },
+    {
+      "path": "rooms/127/references/02_cinematic.png",
+      "bytes": 1987725,
+      "sha256": "40a0e35141d84d9f2d4aa4f9bda2a6c7ff636b62dfa950eaf41e09baec24a76f"
+    },
+    {
+      "path": "rooms/128/references/02_cinematic.png",
+      "bytes": 1987725,
+      "sha256": "40a0e35141d84d9f2d4aa4f9bda2a6c7ff636b62dfa950eaf41e09baec24a76f"
+    },
+    {
+      "path": "rooms/129/references/02_cinematic.png",
+      "bytes": 1987725,
+      "sha256": "40a0e35141d84d9f2d4aa4f9bda2a6c7ff636b62dfa950eaf41e09baec24a76f"
+    },
+    {
+      "path": "rooms/130/references/02_cinematic.png",
+      "bytes": 1987725,
+      "sha256": "40a0e35141d84d9f2d4aa4f9bda2a6c7ff636b62dfa950eaf41e09baec24a76f"
+    },
+    {
+      "path": "rooms/130/references/03_fixture_shapes.png",
+      "bytes": 3451811,
+      "sha256": "63a54db4d6c9989eaba898a465a58a16230170eaf0f2dd46ac12be039628bff0"
+    },
+    {
+      "path": "rooms/GYM/references/02_cinematic.png",
+      "bytes": 1987725,
+      "sha256": "40a0e35141d84d9f2d4aa4f9bda2a6c7ff636b62dfa950eaf41e09baec24a76f"
+    },
+    {
+      "path": "projection/browser_validation.json",
+      "bytes": 2282,
+      "sha256": "5f185abb461510970b9a864ef9b21283a79ac4abbed6a3f9683e35d6870b0afc"
+    },
+    {
+      "path": "projection/calibration_points.json",
+      "bytes": 1754,
+      "sha256": "d7e54684badc0982dda90a8a871eac8d86cff7bce9096b7816efb63ec97ea11d"
+    },
+    {
+      "path": "projection/index.html",
+      "bytes": 4163,
+      "sha256": "0738b7f23952aae38cc0d2ea7d1afe1a13c014eb01d79008d283a681db8cd91c"
+    },
+    {
+      "path": "projection/map.json",
+      "bytes": 25341,
+      "sha256": "0f726612c78ff9402a541809861494e4b983721c159fafb5fb172700a8e36c4b"
+    },
+    {
+      "path": "projection/navigation_validation.json",
+      "bytes": 3384,
+      "sha256": "ac4b0c978039936624bc88af6d805379df566b78df3f7a160d7a74b6421f8fb3"
+    },
+    {
+      "path": "projection/player.js",
+      "bytes": 10381,
+      "sha256": "c2437a0db6fe5a266300895cd05f0b831d9d95e82f20473923e4309cbdafb3a6"
+    },
+    {
+      "path": "projection/Projection_Examples.jpg",
+      "bytes": 192081,
+      "sha256": "0d53e0d9e66c336160e8b730800609963dc43c3cebf78214e074e4859b42750a"
+    },
+    {
+      "path": "projection/README.md",
+      "bytes": 5896,
+      "sha256": "866c86a8d144636e8a1caaf3b97d26f3608d9da77e0e1c5b2a801c6ad8908da1"
+    },
+    {
+      "path": "projection/assets/Alignment_25mm.png",
+      "bytes": 29338,
+      "sha256": "a394915e8c8ca395006946f5ff3fe6f255b4f30d5e4fc2db04bd45ca9d388ee4"
+    },
+    {
+      "path": "projection/assets/Explorer_Base.png",
+      "bytes": 16393,
+      "sha256": "653e93243119aa1a4b5adb1500709602ba20a397ad0eac5cfbec569edf05ee58"
+    },
+    {
+      "path": "projection/assets/furniture.png",
+      "bytes": 4937,
+      "sha256": "0bcb7e54e76f69830cd48ea50e0c95b9e8b48401a022ff22abac92e46d2c0c66"
+    },
+    {
+      "path": "projection/assets/height.png",
+      "bytes": 14145,
+      "sha256": "586db48e8882cbc96de77af4b79714cc317554b185e58477008ddef4f314ee1e"
+    },
+    {
+      "path": "projection/assets/Ink_Map.png",
+      "bytes": 262313,
+      "sha256": "a40f19789af42945cab6e5b2e9e2a2e7c663801c6ab56933ddb67a509e3fdb5e"
+    },
+    {
+      "path": "projection/assets/navigation.npz",
+      "bytes": 41040,
+      "sha256": "a6f798a491466a12a973eb2a83e46eabafcbce1c2ac695cb771af6ebbc34957f"
+    },
+    {
+      "path": "projection/assets/normal.png",
+      "bytes": 21557,
+      "sha256": "31466f249892952f724890b8e811a94e484247b43596daac0f71752b6abedc05"
+    },
+    {
+      "path": "projection/assets/receiver.png",
+      "bytes": 3733,
+      "sha256": "60e9acf649cb93e51ae25e56bffc9844b0b6221dee22ee06b2c14343ef6c5fe6"
+    },
+    {
+      "path": "projection/assets/room_ids.png",
+      "bytes": 3014,
+      "sha256": "32d007dfb61aa891497c6a1a5c9a9752e7eca794140126f454dac1d671b53130"
+    },
+    {
+      "path": "projection/assets/surface_data.npz",
+      "bytes": 498053,
+      "sha256": "b243e5b00630951a6f08d1141d48934e4a30f43b1210d5ef8ca7ca4a4dac3b03"
+    },
+    {
+      "path": "projection/assets/walkable.png",
+      "bytes": 8124,
+      "sha256": "775af2ed8acc27781d0b9eab57c047cd81fedad319cd4239322b1579f68a359c"
+    },
+    {
+      "path": "projection/cinematic/athletics.png",
+      "bytes": 1987725,
+      "sha256": "40a0e35141d84d9f2d4aa4f9bda2a6c7ff636b62dfa950eaf41e09baec24a76f"
+    },
+    {
+      "path": "projection/cinematic/commons.png",
+      "bytes": 2289517,
+      "sha256": "99d4fa3b1a17ad52761ab2559c0252d0bf2af5db7e8fdd8a7e97518e5d0da19e"
+    },
+    {
+      "path": "projection/cinematic/entrance.png",
+      "bytes": 2011192,
+      "sha256": "1195b181de1a1a459a355bf68fb9c79986bf31af5c74415d8402793c58197c93"
+    },
+    {
+      "path": "projection/cinematic/ilab_wide.png",
+      "bytes": 2095473,
+      "sha256": "5c0378894ab47be6ccdd7068b1d0e6e1ade77618bd3008ea69db8276075a8e27"
+    },
+    {
+      "path": "projection/cinematic/ilab_wide_prompt.txt",
+      "bytes": 1641,
+      "sha256": "4d854b8e9be27a10527d0a353599d7d5265c54da863457576011bd74ee8b785f"
+    },
+    {
+      "path": "projection/cinematic/lab_detail.png",
+      "bytes": 1775441,
+      "sha256": "5bf243e5ab5adfeaeea486bf25e02c962c7b198a7dee74dc91961a52a9d9b1a3"
+    },
+    {
+      "path": "projection/cinematic/Provenance.md",
+      "bytes": 1148,
+      "sha256": "3ba0af71aaa8b3381e8ca68a1d1dd0ce31805c2627e67a4f1131a5bc65890f11"
+    },
+    {
+      "path": "projection/examples/Architecture_Scan_1024x786_RGB.mp4",
+      "bytes": 9805490,
+      "sha256": "5a4d7cdd93ce0930dfb5552fa5a02892f83c2211beca7d59475e5d7eca76f3ad"
+    },
+    {
+      "path": "projection/examples/Architecture_Scan_Browser.mp4",
+      "bytes": 938505,
+      "sha256": "2450928c0749493bd10768119c5787482d9ee4e9bb9edf28263e3abfa4d279ba"
+    },
+    {
+      "path": "projection/examples/Architecture_Scan_Preview.png",
+      "bytes": 45412,
+      "sha256": "17240bd9d2155efaec9f80d8a6bb6badaf6e0f68b1fb7cef8930db342826295e"
+    },
+    {
+      "path": "projection/examples/Depth_Contours_1024x786_RGB.mp4",
+      "bytes": 14938071,
+      "sha256": "9524bbde54a37622d7cc4e099132dad343e639694d0a1f69e42bffee969516f4"
+    },
+    {
+      "path": "projection/examples/Depth_Contours_Browser.mp4",
+      "bytes": 1574583,
+      "sha256": "faa47d0fca9818fddd839202abaa284319887e9ce9758c5fd62d25d80a1990fd"
+    },
+    {
+      "path": "projection/examples/Depth_Contours_Preview.png",
+      "bytes": 79038,
+      "sha256": "b89c3137c495bf48459b7d57a47d58a3956c3eddf5f7ac984811b5a6fd0b6f26"
+    },
+    {
+      "path": "projection/examples/Explorer_Demo_1024x786_RGB.mp4",
+      "bytes": 1049111,
+      "sha256": "6b886b10b6c470957f7d1d575248dd7ef2b73d33e14a4fc54daaf6708b969d8f"
+    },
+    {
+      "path": "projection/examples/Explorer_Demo_Browser.mp4",
+      "bytes": 430879,
+      "sha256": "346e6eeb98637156372231e154e9ac534b684e32baddd09119b57041e0b65b4c"
+    },
+    {
+      "path": "projection/examples/Explorer_Preview.png",
+      "bytes": 122251,
+      "sha256": "bd993aae653f0fb7815774fa30ad428c1117668d6b8dd01623424df9371dd662"
+    },
+    {
+      "path": "projection/examples/explorer_validation.json",
+      "bytes": 378,
+      "sha256": "9918a01cae67b477153cfbf2b7ad172cf78202f4a4bf12f531df245db99cf3e2"
+    },
+    {
+      "path": "projection/examples/Ink_Map_Loop_1024x786_RGB.mp4",
+      "bytes": 17992714,
+      "sha256": "12c6420d28da71bb7f79070d6c53c793148c6a323598093a9275904517c8b90a"
+    },
+    {
+      "path": "projection/examples/Ink_Map_Loop_Browser.mp4",
+      "bytes": 772713,
+      "sha256": "0b69a352d764a1aadfbf27fed6a2173a85ec9f500834edcb9f1e4bc8ed820a71"
+    },
+    {
+      "path": "projection/examples/Ink_Map_Loop_Preview.png",
+      "bytes": 382034,
+      "sha256": "3a8159697bc4e4fd552683fe2e6fb4dbdb75faca922a2bf1d00bcc27fb11fb3c"
+    },
+    {
+      "path": "projection/examples/Surface_Ripples_1024x786_RGB.mp4",
+      "bytes": 38031843,
+      "sha256": "49b2320f1a69efe21ebc83f7b702cf4ec5e36b6b26d6adf867fe0f107e26e325"
+    },
+    {
+      "path": "projection/examples/Surface_Ripples_Browser.mp4",
+      "bytes": 1834001,
+      "sha256": "d7ae9142e8e1772dff3e0858ec3238754f190bfbbcb4d4f20616d2d8c0f66f39"
+    },
+    {
+      "path": "projection/examples/Surface_Ripples_Preview.png",
+      "bytes": 259225,
+      "sha256": "175f4195bdfc31d7c7c4267261219a5b951274ce986357e27fd1bd70586ee8b2"
+    },
+    {
+      "path": "projection/examples/video_validation.json",
+      "bytes": 1101,
+      "sha256": "895a212254e52b41a3b8e1bf7eefaa4266f8985e8a87da6c932c6462797fa924"
+    },
+    {
+      "path": "projection/review/Depth_Contours_On_Print.png",
+      "bytes": 761014,
+      "sha256": "6cb5ebce34275e58b2d0f1147c7045d8a07ad20d25ec9dc4cea09eb2e13b2049"
+    },
+    {
+      "path": "projection/review/Explorer_On_Print.png",
+      "bytes": 799063,
+      "sha256": "111652b3061421982802d5f2caff0d711832d282b4efd6819b7304ae017b9517"
+    },
+    {
+      "path": "projection/review/Ink_Map_On_Print.png",
+      "bytes": 888567,
+      "sha256": "63676607f6d4d5b01a5e25cacde850d63012467d4de4a4790796f251ede5b439"
+    },
+    {
+      "path": "projection/review/r07_validation.json",
+      "bytes": 597,
+      "sha256": "72e75ed5022c024ed002388eb886d0c94bf41a68c80e1a5174ad21d16a591b15"
+    },
+    {
+      "path": "projection/review/Surface_Ripples_On_Print.png",
+      "bytes": 834010,
+      "sha256": "d2e53dde59eec1249ea51439182cc4bd907fb951a2aafaab5864b51a01d5130b"
+    },
+    {
+      "path": "browser_video.py",
+      "bytes": 671,
+      "sha256": "32f75e5b6e0d1cf77e1dc6cf0d121c30eba18e869effc8cab08960272dcc7f76"
+    },
+    {
+      "path": "build_acrylic.py",
+      "bytes": 7030,
+      "sha256": "f6580647d88e03c8d40044b6e426886282febf7840ffb29d4d6ad9e90b2faa62"
+    },
+    {
+      "path": "build_projection.py",
+      "bytes": 8541,
+      "sha256": "82d788f8657a564d8e63151943d61b7ce6d6384d87814711b79282c4ccf4dc78"
+    },
+    {
+      "path": "copy_repository.py",
+      "bytes": 2347,
+      "sha256": "ac6096695d5bee356750990ef0d86c61b2050f66a3652547904b85acbef9472b"
+    },
+    {
+      "path": "export_cad.py",
+      "bytes": 2816,
+      "sha256": "272dc9fa1d1ad3c0b1ecdd95999c2989a74ecb078f970de89bcbdabece158b9a"
+    },
+    {
+      "path": "finish_print.py",
+      "bytes": 4249,
+      "sha256": "9b8ce9d80615536d95f5ff78214b8409c0424e9ece595f59170578f7625c2e06"
+    },
+    {
+      "path": "finish_r08.py",
+      "bytes": 3472,
+      "sha256": "0fa4d934328409e296533e84595ef9e28b5ab05cb5c71c9b2f608dad20864d30"
+    },
+    {
+      "path": "finish_rooms.py",
+      "bytes": 9299,
+      "sha256": "1fdb81000a01fc5559ecf3cfb8b5643f94b8dbc2108f9cc0b54397a07c8e5033"
+    },
+    {
+      "path": "inspect_scene.py",
+      "bytes": 1070,
+      "sha256": "2d27e4577aea6d14dddf01494c01ecdfcef6e99b11e8350457e081aebffc34aa"
+    },
+    {
+      "path": "package_delivery.py",
+      "bytes": 5510,
+      "sha256": "d17d0ce80faaa957424b59811b2b865ecad40c5e2a747414d317e3d67c181637"
+    },
+    {
+      "path": "prepare_print.py",
+      "bytes": 6230,
+      "sha256": "364e450bb91524811be7b63a6c8f68f58509a66f5bc78ff88ce21874bbc33608"
+    },
+    {
+      "path": "prepare_r08.py",
+      "bytes": 2257,
+      "sha256": "2d4d7f8f2a2f3c65f9349d599b9a4059f727b09bc60c38ae4b0bdee4aab7f41c"
+    },
+    {
+      "path": "print_edits_r08.py",
+      "bytes": 2350,
+      "sha256": "19298c4ad6690d77b99c0fef3754ec385fd17ee61a80900e6ffa28db6677a6de"
+    },
+    {
+      "path": "refresh_preview_r07.py",
+      "bytes": 681,
+      "sha256": "16d5360dc8ecb2a0111241e0efe5db4d31a0c61f79b4108090a228b15b241da5"
+    },
+    {
+      "path": "refresh_print_view_r07.py",
+      "bytes": 1273,
+      "sha256": "de27768369fb6187ce84d8c5a304c7f8756a6d644f020e4e3b2a37920cd9c881"
+    },
+    {
+      "path": "render_effects.py",
+      "bytes": 3493,
+      "sha256": "ddd03429038215c1937da3eb3e795372aaef40322f0773d9debed89a664e81a4"
+    },
+    {
+      "path": "render_explorer_demo.py",
+      "bytes": 3816,
+      "sha256": "01f81cfdcf5eb68c549dd6c3c5c28e6c850d6e853d082a44f053074b05cb585a"
+    },
+    {
+      "path": "render_gym_r08.py",
+      "bytes": 1118,
+      "sha256": "b11d23cdd328d833dd7d993515092dabd8e593c4aa768dd0fcab3bafc11bfa14"
+    },
+    {
+      "path": "render_print.py",
+      "bytes": 5783,
+      "sha256": "9c2ddd02f138de150a156339b38ca08eba4fe7d38e5de813496213f02b9d085b"
+    },
+    {
+      "path": "render_projection_views.py",
+      "bytes": 2793,
+      "sha256": "73fd32cd81eabd7471266b24c348300f5dcde704c87f75c0bfcfa31659a4bcbc"
+    },
+    {
+      "path": "render_rooms.py",
+      "bytes": 2784,
+      "sha256": "ba29596026c6caef644f140b204f18e4545ca1eefc061868f5abfba57a8beca9"
+    },
+    {
+      "path": "render_room_3d.py",
+      "bytes": 4937,
+      "sha256": "fb5dc2a40aff5a761717da6653663692b8c64799e8201cf7d88cb6cf494c32dc"
+    },
+    {
+      "path": "room_masks.py",
+      "bytes": 3461,
+      "sha256": "9969d482a4249c62354d7a24d91d83b5021e4b3f7ee6db26172a29bf74aa78db"
+    },
+    {
+      "path": "serve.py",
+      "bytes": 719,
+      "sha256": "dbd8e4a78618b97c2730648509c3559ff4fb9c6f3f08772f48900e6555487982"
+    },
+    {
+      "path": "update_projection_r07.py",
+      "bytes": 20297,
+      "sha256": "be5274347b91db4cc5993afa55d255527fdb55174aa17d8db905bd147fc3f90e"
+    },
+    {
+      "path": "validate_r07.py",
+      "bytes": 2118,
+      "sha256": "e4777d8dc04f11a31a567421b0bed88fa645aa7b4a73b49d787258d5a1ebb449"
+    },
+    {
+      "path": "Start_Projection.cmd",
+      "bytes": 131,
+      "sha256": "700d7a79a8f292a5d34ff66a0f635cd368e0a3b71c93d1b918af52ed6a50e9d7"
+    },
+    {
+      "path": "Ground_Acrylic_Print_Package.zip",
+      "bytes": 10393990,
+      "sha256": "149ece1b87f727481afca049dd2c625446112eef9f3ec481a15bd98e45768966"
+    },
+    {
+      "path": "Ground_Projection_Studio.zip",
+      "bytes": 332864799,
+      "sha256": "a4c3c2e89c72bcbaa591945105876954de37c6d6944a469bcbdd6d37200ff4ef"
+    },
+    {
+      "path": "Ground_Room_References.zip",
+      "bytes": 230891594,
+      "sha256": "a20a51080dfcd4221afd09601c885dc67225d409f99b30a68ba9fedd8d466f43"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5094,
+      "sha256": "1474e10e1676017e57dafce431336e8fc5643cff594480efa97e9ba49cf3bd13"
+    },
+    {
+      "path": "delivery_validation.json",
+      "bytes": 1655,
+      "sha256": "47d2344ac7034f018974fc0a55797587981fe9745247d1078cf0c974b0250af5"
+    },
+    {
+      "path": "scene_inventory.json",
+      "bytes": 2416594,
+      "sha256": "9fee2ecf4b6e9927b946d435c1cfea0099527b024d2459c521d1108a10ea4514"
+    },
+    {
+      "path": "revision_07_validation.json",
+      "bytes": 431,
+      "sha256": "acca0c1bb1c52470c2eee5070b1144d1cc9750a45523c35f2b7f2c58460f5372"
+    },
+    {
+      "path": "revision_08_validation.json",
+      "bytes": 604,
+      "sha256": "b9b446d013785e37a3080eceb4d112a6d492b00879be866f48b2d719abe36fd1"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "frames": 773,
+  "fps": 24,
+  "seconds": 32.208333333333336,
+  "route_points": 1288,
+  "all_route_points_walkable": true,
+  "all_frames_blackout": true,
+  "decoded_exact_rgb": true,
+  "first_last_identical": true,
+  "note": "Recorded procedural demonstration of the same navigation grid and room-display behavior; interactive player remains keyboard controlled."
+}

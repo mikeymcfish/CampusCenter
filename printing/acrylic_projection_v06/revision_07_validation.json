@@ -1,0 +1,15 @@
+{
+  "revision": "r07",
+  "room_packs": 31,
+  "total_reference_assignments": 89,
+  "ilab_references": 9,
+  "max_prompt_characters": 6207,
+  "all_reference_images_reopened": true,
+  "all_reference_urls_http_200": true,
+  "gym_assignments": 31,
+  "unique_imagegen_images": 5,
+  "blender_gym_images": 0,
+  "walking_default_px_per_second": 40,
+  "explorer_seconds": 32.208333333333336,
+  "h3_generation_submitted": false
+}

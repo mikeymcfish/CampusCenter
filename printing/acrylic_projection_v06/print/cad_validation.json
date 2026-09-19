@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "file": "Campus_Center_Ground_Acrylic_1_87p5.step",
+  "units": "millimetres",
+  "scale": "1:87.5",
+  "solid_count": 1,
+  "valid_brep": true,
+  "reopened_volume_mm3": 3750725.4249468544,
+  "mesh_volume_mm3": 3750725.4249469335,
+  "relative_volume_error": 2.1105895493119358e-14,
+  "representation": "Closed faceted B-representation, coplanar faces unified. Exact supported print solid; no original parametric feature history."
+}

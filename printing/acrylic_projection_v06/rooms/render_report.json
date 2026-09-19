@@ -1,0 +1,405 @@
+[
+  {
+    "room": "129",
+    "file": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\rooms\\129\\topdown_raw.png",
+    "seconds": 7.64000000001397,
+    "orthographic": true,
+    "dof": false,
+    "samples": 64,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\Source_Studio.blend"
+  },
+  {
+    "room": "127",
+    "file": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\rooms\\127\\topdown_raw.png",
+    "seconds": 4.954000000027008,
+    "orthographic": true,
+    "dof": false,
+    "samples": 64,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\Source_Studio.blend"
+  },
+  {
+    "room": "128",
+    "file": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\rooms\\128\\topdown_raw.png",
+    "seconds": 5.077999999979511,
+    "orthographic": true,
+    "dof": false,
+    "samples": 64,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\Source_Studio.blend"
+  },
+  {
+    "room": "125",
+    "file": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\rooms\\125\\topdown_raw.png",
+    "seconds": 4.907000000006519,
+    "orthographic": true,
+    "dof": false,
+    "samples": 64,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\Source_Studio.blend"
+  },
+  {
+    "room": "126",
+    "file": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\rooms\\126\\topdown_raw.png",
+    "seconds": 5.062000000034459,
+    "orthographic": true,
+    "dof": false,
+    "samples": 64,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\Source_Studio.blend"
+  },
+  {
+    "room": "124",
+    "file": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\rooms\\124\\topdown_raw.png",
+    "seconds": 5.047000000020489,
+    "orthographic": true,
+    "dof": false,
+    "samples": 64,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\Source_Studio.blend"
+  },
+  {
+    "room": "130",
+    "file": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\rooms\\130\\topdown_raw.png",
+    "seconds": 4.921999999904074,
+    "orthographic": true,
+    "dof": false,
+    "samples": 64,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\Source_Studio.blend"
+  },
+  {
+    "room": "123",
+    "file": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\rooms\\123\\topdown_raw.png",
+    "seconds": 4.875,
+    "orthographic": true,
+    "dof": false,
+    "samples": 64,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\Source_Studio.blend"
+  },
+  {
+    "room": "122",
+    "file": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\rooms\\122\\topdown_raw.png",
+    "seconds": 5.016000000061467,
+    "orthographic": true,
+    "dof": false,
+    "samples": 64,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\Source_Studio.blend"
+  },
+  {
+    "room": "121",
+    "file": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\rooms\\121\\topdown_raw.png",
+    "seconds": 5.077999999979511,
+    "orthographic": true,
+    "dof": false,
+    "samples": 64,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\Source_Studio.blend"
+  },
+  {
+    "room": "119",
+    "file": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\rooms\\119\\topdown_raw.png",
+    "seconds": 5.10999999998603,
+    "orthographic": true,
+    "dof": false,
+    "samples": 64,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\Source_Studio.blend"
+  },
+  {
+    "room": "118",
+    "file": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\rooms\\118\\topdown_raw.png",
+    "seconds": 4.952999999979511,
+    "orthographic": true,
+    "dof": false,
+    "samples": 64,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\Source_Studio.blend"
+  },
+  {
+    "room": "120",
+    "file": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\rooms\\120\\topdown_raw.png",
+    "seconds": 4.922000000020489,
+    "orthographic": true,
+    "dof": false,
+    "samples": 64,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\Source_Studio.blend"
+  },
+  {
+    "room": "117",
+    "file": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\rooms\\117\\topdown_raw.png",
+    "seconds": 5.14000000001397,
+    "orthographic": true,
+    "dof": false,
+    "samples": 64,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\Source_Studio.blend"
+  },
+  {
+    "room": "116",
+    "file": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\rooms\\116\\topdown_raw.png",
+    "seconds": 5.062999999965541,
+    "orthographic": true,
+    "dof": false,
+    "samples": 64,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\Source_Studio.blend"
+  },
+  {
+    "room": "115",
+    "file": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\rooms\\115\\topdown_raw.png",
+    "seconds": 5.202999999979511,
+    "orthographic": true,
+    "dof": false,
+    "samples": 64,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\Source_Studio.blend"
+  },
+  {
+    "room": "114",
+    "file": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\rooms\\114\\topdown_raw.png",
+    "seconds": 5.172000000020489,
+    "orthographic": true,
+    "dof": false,
+    "samples": 64,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\Source_Studio.blend"
+  },
+  {
+    "room": "GYM",
+    "file": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\rooms\\GYM\\topdown_raw.png",
+    "seconds": 4.702999999979511,
+    "orthographic": true,
+    "dof": false,
+    "samples": 64,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\Source_Studio.blend"
+  },
+  {
+    "room": "113",
+    "file": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\rooms\\113\\topdown_raw.png",
+    "seconds": 5.109000000054948,
+    "orthographic": true,
+    "dof": false,
+    "samples": 64,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\Source_Studio.blend"
+  },
+  {
+    "room": "112",
+    "file": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\rooms\\112\\topdown_raw.png",
+    "seconds": 5.187999999965541,
+    "orthographic": true,
+    "dof": false,
+    "samples": 64,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\Source_Studio.blend"
+  },
+  {
+    "room": "111",
+    "file": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\rooms\\111\\topdown_raw.png",
+    "seconds": 5.5,
+    "orthographic": true,
+    "dof": false,
+    "samples": 64,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\Source_Studio.blend"
+  },
+  {
+    "room": "109",
+    "file": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\rooms\\109\\topdown_raw.png",
+    "seconds": 5.062000000034459,
+    "orthographic": true,
+    "dof": false,
+    "samples": 64,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\Source_Studio.blend"
+  },
+  {
+    "room": "108",
+    "file": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\rooms\\108\\topdown_raw.png",
+    "seconds": 5.0,
+    "orthographic": true,
+    "dof": false,
+    "samples": 64,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\Source_Studio.blend"
+  },
+  {
+    "room": "110",
+    "file": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\rooms\\110\\topdown_raw.png",
+    "seconds": 4.98499999998603,
+    "orthographic": true,
+    "dof": false,
+    "samples": 64,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\Source_Studio.blend"
+  },
+  {
+    "room": "106",
+    "file": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\rooms\\106\\topdown_raw.png",
+    "seconds": 5.25,
+    "orthographic": true,
+    "dof": false,
+    "samples": 64,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\Source_Studio.blend"
+  },
+  {
+    "room": "102",
+    "file": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\rooms\\102\\topdown_raw.png",
+    "seconds": 5.172000000020489,
+    "orthographic": true,
+    "dof": false,
+    "samples": 64,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\Source_Studio.blend"
+  },
+  {
+    "room": "101",
+    "file": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\rooms\\101\\topdown_raw.png",
+    "seconds": 5.312999999965541,
+    "orthographic": true,
+    "dof": false,
+    "samples": 64,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\Source_Studio.blend"
+  },
+  {
+    "room": "103",
+    "file": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\rooms\\103\\topdown_raw.png",
+    "seconds": 5.109000000054948,
+    "orthographic": true,
+    "dof": false,
+    "samples": 64,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\Source_Studio.blend"
+  },
+  {
+    "room": "104",
+    "file": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\rooms\\104\\topdown_raw.png",
+    "seconds": 5.125,
+    "orthographic": true,
+    "dof": false,
+    "samples": 64,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\Source_Studio.blend"
+  },
+  {
+    "room": "105",
+    "file": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\rooms\\105\\topdown_raw.png",
+    "seconds": 4.936999999918044,
+    "orthographic": true,
+    "dof": false,
+    "samples": 64,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\Source_Studio.blend"
+  },
+  {
+    "room": "100",
+    "file": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\rooms\\100\\topdown_raw.png",
+    "seconds": 5.10999999998603,
+    "orthographic": true,
+    "dof": false,
+    "samples": 64,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\Source_Studio.blend"
+  }
+]

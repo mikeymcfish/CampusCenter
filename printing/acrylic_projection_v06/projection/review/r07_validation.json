@@ -1,0 +1,13 @@
+{
+  "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\print\\Campus_Center_Projection_Receiver.blend",
+  "source_sha256_unchanged": "c116b707d9661cc6f5457a48074a98c63377a9d36ed488ea154a3f25f042c5b3",
+  "working_copy": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_acrylic_v06\\revision_07_before\\Projection_Receiver_Working.blend",
+  "output": "Explorer_On_Print.png",
+  "resolution": [
+    1600,
+    1200
+  ],
+  "samples": 64,
+  "device": "CUDA",
+  "purpose": "Existing print presentation refreshed with cinematic gym photo"
+}

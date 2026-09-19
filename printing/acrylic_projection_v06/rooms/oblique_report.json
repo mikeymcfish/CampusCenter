@@ -1,0 +1,250 @@
+[
+  {
+    "room": "129",
+    "objects": 50,
+    "seconds": 6.047000000020489,
+    "samples": 96,
+    "cutaway": true,
+    "source_geometry_unchanged": true
+  },
+  {
+    "room": "127",
+    "objects": 31,
+    "seconds": 5.766000000061467,
+    "samples": 96,
+    "cutaway": true,
+    "source_geometry_unchanged": true
+  },
+  {
+    "room": "128",
+    "objects": 36,
+    "seconds": 6.109000000054948,
+    "samples": 96,
+    "cutaway": true,
+    "source_geometry_unchanged": true
+  },
+  {
+    "room": "125",
+    "objects": 29,
+    "seconds": 6.172000000020489,
+    "samples": 96,
+    "cutaway": true,
+    "source_geometry_unchanged": true
+  },
+  {
+    "room": "126",
+    "objects": 24,
+    "seconds": 5.75,
+    "samples": 96,
+    "cutaway": true,
+    "source_geometry_unchanged": true
+  },
+  {
+    "room": "124",
+    "objects": 21,
+    "seconds": 5.60999999998603,
+    "samples": 96,
+    "cutaway": true,
+    "source_geometry_unchanged": true
+  },
+  {
+    "room": "130",
+    "objects": 230,
+    "seconds": 5.968999999924563,
+    "samples": 96,
+    "cutaway": true,
+    "source_geometry_unchanged": true
+  },
+  {
+    "room": "123",
+    "objects": 188,
+    "seconds": 5.608999999938533,
+    "samples": 96,
+    "cutaway": true,
+    "source_geometry_unchanged": true
+  },
+  {
+    "room": "122",
+    "objects": 43,
+    "seconds": 5.969000000040978,
+    "samples": 96,
+    "cutaway": true,
+    "source_geometry_unchanged": true
+  },
+  {
+    "room": "121",
+    "objects": 45,
+    "seconds": 5.937999999965541,
+    "samples": 96,
+    "cutaway": true,
+    "source_geometry_unchanged": true
+  },
+  {
+    "room": "119",
+    "objects": 32,
+    "seconds": 5.640999999945052,
+    "samples": 96,
+    "cutaway": true,
+    "source_geometry_unchanged": true
+  },
+  {
+    "room": "118",
+    "objects": 18,
+    "seconds": 5.422000000020489,
+    "samples": 96,
+    "cutaway": true,
+    "source_geometry_unchanged": true
+  },
+  {
+    "room": "120",
+    "objects": 9,
+    "seconds": 5.563000000081956,
+    "samples": 96,
+    "cutaway": true,
+    "source_geometry_unchanged": true
+  },
+  {
+    "room": "117",
+    "objects": 32,
+    "seconds": 5.73499999998603,
+    "samples": 96,
+    "cutaway": true,
+    "source_geometry_unchanged": true
+  },
+  {
+    "room": "116",
+    "objects": 35,
+    "seconds": 5.703000000095926,
+    "samples": 96,
+    "cutaway": true,
+    "source_geometry_unchanged": true
+  },
+  {
+    "room": "115",
+    "objects": 98,
+    "seconds": 5.905999999959022,
+    "samples": 96,
+    "cutaway": true,
+    "source_geometry_unchanged": true
+  },
+  {
+    "room": "114",
+    "objects": 59,
+    "seconds": 5.843999999924563,
+    "samples": 96,
+    "cutaway": true,
+    "source_geometry_unchanged": true
+  },
+  {
+    "room": "GYM",
+    "objects": 93,
+    "seconds": 5.672000000020489,
+    "samples": 96,
+    "cutaway": true,
+    "source_geometry_unchanged": true
+  },
+  {
+    "room": "113",
+    "objects": 61,
+    "seconds": 5.813000000081956,
+    "samples": 96,
+    "cutaway": true,
+    "source_geometry_unchanged": true
+  },
+  {
+    "room": "112",
+    "objects": 67,
+    "seconds": 5.718999999924563,
+    "samples": 96,
+    "cutaway": true,
+    "source_geometry_unchanged": true
+  },
+  {
+    "room": "111",
+    "objects": 32,
+    "seconds": 5.687000000034459,
+    "samples": 96,
+    "cutaway": true,
+    "source_geometry_unchanged": true
+  },
+  {
+    "room": "109",
+    "objects": 37,
+    "seconds": 6.0,
+    "samples": 96,
+    "cutaway": true,
+    "source_geometry_unchanged": true
+  },
+  {
+    "room": "108",
+    "objects": 335,
+    "seconds": 6.593999999924563,
+    "samples": 96,
+    "cutaway": true,
+    "source_geometry_unchanged": true
+  },
+  {
+    "room": "110",
+    "objects": 82,
+    "seconds": 5.75,
+    "samples": 96,
+    "cutaway": true,
+    "source_geometry_unchanged": true
+  },
+  {
+    "room": "106",
+    "objects": 159,
+    "seconds": 5.782000000006519,
+    "samples": 96,
+    "cutaway": true,
+    "source_geometry_unchanged": true
+  },
+  {
+    "room": "102",
+    "objects": 311,
+    "seconds": 6.25,
+    "samples": 96,
+    "cutaway": true,
+    "source_geometry_unchanged": true
+  },
+  {
+    "room": "101",
+    "objects": 19,
+    "seconds": 5.704000000027008,
+    "samples": 96,
+    "cutaway": true,
+    "source_geometry_unchanged": true
+  },
+  {
+    "room": "103",
+    "objects": 11,
+    "seconds": 5.577999999979511,
+    "samples": 96,
+    "cutaway": true,
+    "source_geometry_unchanged": true
+  },
+  {
+    "room": "104",
+    "objects": 31,
+    "seconds": 5.75,
+    "samples": 96,
+    "cutaway": true,
+    "source_geometry_unchanged": true
+  },
+  {
+    "room": "105",
+    "objects": 97,
+    "seconds": 5.906000000075437,
+    "samples": 96,
+    "cutaway": true,
+    "source_geometry_unchanged": true
+  },
+  {
+    "room": "100",
+    "objects": 74,
+    "seconds": 5.906000000075437,
+    "samples": 96,
+    "cutaway": true,
+    "source_geometry_unchanged": true
+  }
+]

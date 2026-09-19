@@ -1,0 +1,22 @@
+subject_definitions:
+<Subject 1>: <Picture 1> — Exact overhead layout and room mask. Geometry, framing, scale, positions and black boundary authority.
+<Subject 2>: <Picture 2> — Cinematic appearance guide (related campus area). Transfer photographic materials, fully clothed student appearance and fine surface detail only. This eye-level image is NOT a camera, layout, furniture-count or location reference; do not transfer depth of field.
+<Subject 3>: <Picture 3> — Source plan fixture detail. Fixture and locker configuration detail only. Picture 1 controls exact camera, registration and visible positions. Do not render plan labels or electrical symbols.
+
+summary:
+[reference generation] A photorealistic 12-second seamless overhead projection loop of LOCKER ROOM, room 121, with believable campus activity and students walking where appropriate. <Subject 1> alone determines the room location and geometry.
+
+retention_analysis:
+<Subject 1>: fully_preserved — exact vertical top-down registration, furniture footprints, doorways and room boundary.
+<Subject 2>: attribute_transfer — Transfer photographic materials, fully clothed student appearance and fine surface detail only. This eye-level image is NOT a camera, layout, furniture-count or location reference; do not transfer depth of field.
+<Subject 3>: attribute_transfer — Fixture and locker configuration detail only. Picture 1 controls exact camera, registration and visible positions. Do not render plan labels or electrical symbols.
+
+detailed_description:
+Locked vertical orthographic architectural photography, square framing, every receiving surface sharply focused. Soft fixed illumination and grounded contact shadows. Fine natural material variation, realistic anatomy and subtle fabric movement. No cinematic lens perspective or depth of field from the appearance references.
+[Shot 1] One continuous 12-second shot. Three fully clothed teenage students walk slowly along the clear entry, locker or washbasin aisles and turn naturally. Others remain outside private compartments. Keep stalls, lockers, benches, basins and showers fixed. No changing, bathing, exposed bodies or activity inside showers or toilet stalls. Walkers use natural weight transfer, alternating foot contact, relaxed arm swings and gentle turns at roughly 1.2-1.5 m/s when space permits. Choose short closed paths that fit the actual clear space; never slide, teleport, pass through furniture or cross walls. Stagger starts and maintain personal space. By the loop end return to the opening positions, heading and stride phase smoothly; no abrupt reversal or cut. Seated people make small repeating hand/head gestures. Do not move desks, chairs, equipment, doors or architecture. Preserve every existing object count unless explicitly specified above. No new rooms, roof, walls, objects or decorative text. No camera motion, changing sunlight, moving sun shadows, exposure pumping, flicker or projected light on wall tops. Outside the exact room mask stays pure black. Keep all action inside the mask and reapply the supplied Room_Mask_1024.png after generation for exact registration.
+
+overall_soundscape:
+Silent projection output. No dialogue or sound effects.
+
+non_diegetic_music:
+None.

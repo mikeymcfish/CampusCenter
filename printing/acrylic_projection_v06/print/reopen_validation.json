@@ -1,0 +1,57 @@
+{
+  "status": "passed",
+  "meshes": [
+    {
+      "file": "Campus_Center_Ground_Acrylic_1_87p5.stl",
+      "watertight": true,
+      "components": 1,
+      "elevated_downward_faces": 0
+    },
+    {
+      "file": "Acrylic_Fit_Coupon.stl",
+      "watertight": true,
+      "components": 1,
+      "elevated_downward_faces": 0
+    },
+    {
+      "file": "Acrylic_A1.stl",
+      "watertight": true,
+      "components": 1,
+      "elevated_downward_faces": 0
+    },
+    {
+      "file": "Acrylic_A2.stl",
+      "watertight": true,
+      "components": 1,
+      "elevated_downward_faces": 0
+    },
+    {
+      "file": "Acrylic_A3.stl",
+      "watertight": true,
+      "components": 1,
+      "elevated_downward_faces": 0
+    },
+    {
+      "file": "Acrylic_B1.stl",
+      "watertight": true,
+      "components": 1,
+      "elevated_downward_faces": 0
+    },
+    {
+      "file": "Acrylic_B2.stl",
+      "watertight": true,
+      "components": 1,
+      "elevated_downward_faces": 0
+    },
+    {
+      "file": "Acrylic_B3.stl",
+      "watertight": true,
+      "components": 1,
+      "elevated_downward_faces": 0
+    }
+  ],
+  "three_mf_checked": 8,
+  "step_valid": true,
+  "pane_insertion_envelopes_checked": 40,
+  "physical_fit_tested": false
+}

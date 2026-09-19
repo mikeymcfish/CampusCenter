@@ -1,0 +1,40 @@
+{
+  "status": "passed",
+  "ground_room_count": 31,
+  "topdown_orthographic": true,
+  "no_depth_of_field": true,
+  "room_mask_blackout_pass": true,
+  "oblique_cutaway_count": 31,
+  "h3_prompt_count": 31,
+  "h3_videos_generated": false,
+  "source_hashes_unchanged": {
+    "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\cycles_studio_v05\\Campus_Center_Cycles_Studio.blend": "8e391385b6428cc3378c299a2de619301fdcf34ab8fcf1bb7ac9258984e4faf6",
+    "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\projection_enclosed_v05\\ground\\Campus_Center_Ground_Enclosed_1_87p5.stl": "8a240733a27443abb859299a34efdc2b682c23c742e536b91b60f9853789b824"
+  },
+  "print_validation": "print/reopen_validation.json",
+  "step_validation": "print/cad_validation.json",
+  "effect_validation": "projection/examples/video_validation.json",
+  "explorer_validation": "projection/examples/explorer_validation.json",
+  "browser_validation": "projection/browser_validation.json",
+  "physical_fit_and_projection_tested": false,
+  "packages": [
+    {
+      "file": "Ground_Acrylic_Print_Package.zip",
+      "bytes": 10393990,
+      "sha256": "149ece1b87f727481afca049dd2c625446112eef9f3ec481a15bd98e45768966",
+      "zip_crc_pass": true
+    },
+    {
+      "file": "Ground_Room_References.zip",
+      "bytes": 230891594,
+      "sha256": "a20a51080dfcd4221afd09601c885dc67225d409f99b30a68ba9fedd8d466f43",
+      "zip_crc_pass": true
+    },
+    {
+      "file": "Ground_Projection_Studio.zip",
+      "bytes": 332864799,
+      "sha256": "a4c3c2e89c72bcbaa591945105876954de37c6d6944a469bcbdd6d37200ff4ef",
+      "zip_crc_pass": true
+    }
+  ]
+}

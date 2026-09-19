@@ -1,0 +1,19 @@
+{
+  "revision": "r08",
+  "old_print_sha256": "708ddb4d273920c0175a2283c852e12e2120930fb7f72e61a860baf98b87a1f4",
+  "new_print_sha256": "25e0d975a284bd77e8f3abdf0ad3434b24768e457f0e3e6212b0f1149ba28793",
+  "bleacher_rows_removed": 6,
+  "patio_enclosure_removed": true,
+  "outside_edit_regions_unchanged": true,
+  "floor_and_platform_below_4p8mm_unchanged": true,
+  "added_volume_mm3": 0.0,
+  "removed_volume_mm3": 52293.95354116025,
+  "changed_tiles": [
+    "Acrylic_A2",
+    "Acrylic_B2",
+    "Acrylic_B3"
+  ],
+  "scale": "1:87.5",
+  "pane_count": 40,
+  "physical_print_tested": false
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "file": "Ink_Map_Loop_1024x786_RGB.mp4",
+    "frames": 192,
+    "fps": 24,
+    "seconds": 8.0,
+    "decoded_exact_rgb": true,
+    "all_frames_blackout_pass": true,
+    "first_last_identical": true,
+    "resolution": [
+      1024,
+      786
+    ]
+  },
+  {
+    "file": "Depth_Contours_1024x786_RGB.mp4",
+    "frames": 192,
+    "fps": 24,
+    "seconds": 8.0,
+    "decoded_exact_rgb": true,
+    "all_frames_blackout_pass": true,
+    "first_last_identical": true,
+    "resolution": [
+      1024,
+      786
+    ]
+  },
+  {
+    "file": "Surface_Ripples_1024x786_RGB.mp4",
+    "frames": 192,
+    "fps": 24,
+    "seconds": 8.0,
+    "decoded_exact_rgb": true,
+    "all_frames_blackout_pass": true,
+    "first_last_identical": true,
+    "resolution": [
+      1024,
+      786
+    ]
+  },
+  {
+    "file": "Architecture_Scan_1024x786_RGB.mp4",
+    "frames": 192,
+    "fps": 24,
+    "seconds": 8.0,
+    "decoded_exact_rgb": true,
+    "all_frames_blackout_pass": true,
+    "first_last_identical": true,
+    "resolution": [
+      1024,
+      786
+    ]
+  }
+]

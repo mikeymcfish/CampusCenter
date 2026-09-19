@@ -1,0 +1,664 @@
+[
+  {
+    "room": "129",
+    "count": 2,
+    "prompt_chars": 2825,
+    "references": [
+      {
+        "file": "Topdown_Black.png",
+        "title": "Exact overhead layout and room mask",
+        "role": "Geometry, framing, scale, positions and black boundary authority."
+      },
+      {
+        "file": "references/02_cinematic.png",
+        "title": "Cinematic appearance guide (related campus area)",
+        "role": "Transfer photographic materials, fully clothed student appearance and fine surface detail only. This eye-level image is NOT a camera, layout, furniture-count or location reference; do not transfer depth of field."
+      }
+    ]
+  },
+  {
+    "room": "127",
+    "count": 2,
+    "prompt_chars": 2822,
+    "references": [
+      {
+        "file": "Topdown_Black.png",
+        "title": "Exact overhead layout and room mask",
+        "role": "Geometry, framing, scale, positions and black boundary authority."
+      },
+      {
+        "file": "references/02_cinematic.png",
+        "title": "Cinematic appearance guide (related campus area)",
+        "role": "Transfer photographic materials, fully clothed student appearance and fine surface detail only. This eye-level image is NOT a camera, layout, furniture-count or location reference; do not transfer depth of field."
+      }
+    ]
+  },
+  {
+    "room": "128",
+    "count": 2,
+    "prompt_chars": 2729,
+    "references": [
+      {
+        "file": "Topdown_Black.png",
+        "title": "Exact overhead layout and room mask",
+        "role": "Geometry, framing, scale, positions and black boundary authority."
+      },
+      {
+        "file": "references/02_cinematic.png",
+        "title": "Cinematic appearance guide (related campus area)",
+        "role": "Transfer photographic materials, fully clothed student appearance and fine surface detail only. This eye-level image is NOT a camera, layout, furniture-count or location reference; do not transfer depth of field."
+      }
+    ]
+  },
+  {
+    "room": "125",
+    "count": 2,
+    "prompt_chars": 2823,
+    "references": [
+      {
+        "file": "Topdown_Black.png",
+        "title": "Exact overhead layout and room mask",
+        "role": "Geometry, framing, scale, positions and black boundary authority."
+      },
+      {
+        "file": "references/02_cinematic.png",
+        "title": "Cinematic appearance guide (related campus area)",
+        "role": "Transfer photographic materials, fully clothed student appearance and fine surface detail only. This eye-level image is NOT a camera, layout, furniture-count or location reference; do not transfer depth of field."
+      }
+    ]
+  },
+  {
+    "room": "126",
+    "count": 2,
+    "prompt_chars": 2823,
+    "references": [
+      {
+        "file": "Topdown_Black.png",
+        "title": "Exact overhead layout and room mask",
+        "role": "Geometry, framing, scale, positions and black boundary authority."
+      },
+      {
+        "file": "references/02_cinematic.png",
+        "title": "Cinematic appearance guide (related campus area)",
+        "role": "Transfer photographic materials, fully clothed student appearance and fine surface detail only. This eye-level image is NOT a camera, layout, furniture-count or location reference; do not transfer depth of field."
+      }
+    ]
+  },
+  {
+    "room": "124",
+    "count": 2,
+    "prompt_chars": 2823,
+    "references": [
+      {
+        "file": "Topdown_Black.png",
+        "title": "Exact overhead layout and room mask",
+        "role": "Geometry, framing, scale, positions and black boundary authority."
+      },
+      {
+        "file": "references/02_cinematic.png",
+        "title": "Cinematic appearance guide (related campus area)",
+        "role": "Transfer photographic materials, fully clothed student appearance and fine surface detail only. This eye-level image is NOT a camera, layout, furniture-count or location reference; do not transfer depth of field."
+      }
+    ]
+  },
+  {
+    "room": "130",
+    "count": 3,
+    "prompt_chars": 3318,
+    "references": [
+      {
+        "file": "Topdown_Black.png",
+        "title": "Exact overhead layout and room mask",
+        "role": "Geometry, framing, scale, positions and black boundary authority."
+      },
+      {
+        "file": "references/02_cinematic.png",
+        "title": "Cinematic appearance guide (related campus area)",
+        "role": "Transfer photographic materials, fully clothed student appearance and fine surface detail only. This eye-level image is NOT a camera, layout, furniture-count or location reference; do not transfer depth of field."
+      },
+      {
+        "file": "references/03_fixture_shapes.png",
+        "title": "Existing modeled fixture shapes",
+        "role": "Supplemental shapes of existing recessed fountains, display cases or doorway trim only. Do not use this cutaway camera or remove walls. Picture 2 guides photographic finish; Picture 1 controls placement."
+      }
+    ]
+  },
+  {
+    "room": "123",
+    "count": 3,
+    "prompt_chars": 3332,
+    "references": [
+      {
+        "file": "Topdown_Black.png",
+        "title": "Exact overhead layout and room mask",
+        "role": "Geometry, framing, scale, positions and black boundary authority."
+      },
+      {
+        "file": "references/02_cinematic.png",
+        "title": "Cinematic appearance guide (related campus area)",
+        "role": "Transfer photographic materials, fully clothed student appearance and fine surface detail only. This eye-level image is NOT a camera, layout, furniture-count or location reference; do not transfer depth of field."
+      },
+      {
+        "file": "references/03_fixture_shapes.png",
+        "title": "Existing modeled fixture shapes",
+        "role": "Supplemental shapes of existing recessed fountains, display cases or doorway trim only. Do not use this cutaway camera or remove walls. Picture 2 guides photographic finish; Picture 1 controls placement."
+      }
+    ]
+  },
+  {
+    "room": "122",
+    "count": 3,
+    "prompt_chars": 3233,
+    "references": [
+      {
+        "file": "Topdown_Black.png",
+        "title": "Exact overhead layout and room mask",
+        "role": "Geometry, framing, scale, positions and black boundary authority."
+      },
+      {
+        "file": "references/02_cinematic.png",
+        "title": "Cinematic appearance guide (related campus area)",
+        "role": "Transfer photographic materials, fully clothed student appearance and fine surface detail only. This eye-level image is NOT a camera, layout, furniture-count or location reference; do not transfer depth of field."
+      },
+      {
+        "file": "references/03_fixture_detail.png",
+        "title": "Source plan fixture detail",
+        "role": "Fixture and locker configuration detail only. Picture 1 controls exact camera, registration and visible positions. Do not render plan labels or electrical symbols."
+      }
+    ]
+  },
+  {
+    "room": "121",
+    "count": 3,
+    "prompt_chars": 3233,
+    "references": [
+      {
+        "file": "Topdown_Black.png",
+        "title": "Exact overhead layout and room mask",
+        "role": "Geometry, framing, scale, positions and black boundary authority."
+      },
+      {
+        "file": "references/02_cinematic.png",
+        "title": "Cinematic appearance guide (related campus area)",
+        "role": "Transfer photographic materials, fully clothed student appearance and fine surface detail only. This eye-level image is NOT a camera, layout, furniture-count or location reference; do not transfer depth of field."
+      },
+      {
+        "file": "references/03_fixture_detail.png",
+        "title": "Source plan fixture detail",
+        "role": "Fixture and locker configuration detail only. Picture 1 controls exact camera, registration and visible positions. Do not render plan labels or electrical symbols."
+      }
+    ]
+  },
+  {
+    "room": "119",
+    "count": 2,
+    "prompt_chars": 2730,
+    "references": [
+      {
+        "file": "Topdown_Black.png",
+        "title": "Exact overhead layout and room mask",
+        "role": "Geometry, framing, scale, positions and black boundary authority."
+      },
+      {
+        "file": "references/02_cinematic.png",
+        "title": "Cinematic appearance guide (related campus area)",
+        "role": "Transfer photographic materials, fully clothed student appearance and fine surface detail only. This eye-level image is NOT a camera, layout, furniture-count or location reference; do not transfer depth of field."
+      }
+    ]
+  },
+  {
+    "room": "118",
+    "count": 2,
+    "prompt_chars": 2720,
+    "references": [
+      {
+        "file": "Topdown_Black.png",
+        "title": "Exact overhead layout and room mask",
+        "role": "Geometry, framing, scale, positions and black boundary authority."
+      },
+      {
+        "file": "references/02_cinematic.png",
+        "title": "Cinematic appearance guide (related campus area)",
+        "role": "Transfer photographic materials, fully clothed student appearance and fine surface detail only. This eye-level image is NOT a camera, layout, furniture-count or location reference; do not transfer depth of field."
+      }
+    ]
+  },
+  {
+    "room": "120",
+    "count": 2,
+    "prompt_chars": 2730,
+    "references": [
+      {
+        "file": "Topdown_Black.png",
+        "title": "Exact overhead layout and room mask",
+        "role": "Geometry, framing, scale, positions and black boundary authority."
+      },
+      {
+        "file": "references/02_cinematic.png",
+        "title": "Cinematic appearance guide (related campus area)",
+        "role": "Transfer photographic materials, fully clothed student appearance and fine surface detail only. This eye-level image is NOT a camera, layout, furniture-count or location reference; do not transfer depth of field."
+      }
+    ]
+  },
+  {
+    "room": "117",
+    "count": 3,
+    "prompt_chars": 3233,
+    "references": [
+      {
+        "file": "Topdown_Black.png",
+        "title": "Exact overhead layout and room mask",
+        "role": "Geometry, framing, scale, positions and black boundary authority."
+      },
+      {
+        "file": "references/02_cinematic.png",
+        "title": "Cinematic appearance guide (related campus area)",
+        "role": "Transfer photographic materials, fully clothed student appearance and fine surface detail only. This eye-level image is NOT a camera, layout, furniture-count or location reference; do not transfer depth of field."
+      },
+      {
+        "file": "references/03_fixture_detail.png",
+        "title": "Source plan fixture detail",
+        "role": "Fixture and locker configuration detail only. Picture 1 controls exact camera, registration and visible positions. Do not render plan labels or electrical symbols."
+      }
+    ]
+  },
+  {
+    "room": "116",
+    "count": 3,
+    "prompt_chars": 3235,
+    "references": [
+      {
+        "file": "Topdown_Black.png",
+        "title": "Exact overhead layout and room mask",
+        "role": "Geometry, framing, scale, positions and black boundary authority."
+      },
+      {
+        "file": "references/02_cinematic.png",
+        "title": "Cinematic appearance guide (related campus area)",
+        "role": "Transfer photographic materials, fully clothed student appearance and fine surface detail only. This eye-level image is NOT a camera, layout, furniture-count or location reference; do not transfer depth of field."
+      },
+      {
+        "file": "references/03_fixture_detail.png",
+        "title": "Source plan fixture detail",
+        "role": "Fixture and locker configuration detail only. Picture 1 controls exact camera, registration and visible positions. Do not render plan labels or electrical symbols."
+      }
+    ]
+  },
+  {
+    "room": "115",
+    "count": 3,
+    "prompt_chars": 3318,
+    "references": [
+      {
+        "file": "Topdown_Black.png",
+        "title": "Exact overhead layout and room mask",
+        "role": "Geometry, framing, scale, positions and black boundary authority."
+      },
+      {
+        "file": "references/02_cinematic.png",
+        "title": "Cinematic appearance guide (related campus area)",
+        "role": "Transfer photographic materials, fully clothed student appearance and fine surface detail only. This eye-level image is NOT a camera, layout, furniture-count or location reference; do not transfer depth of field."
+      },
+      {
+        "file": "references/03_fixture_shapes.png",
+        "title": "Existing modeled fixture shapes",
+        "role": "Supplemental shapes of existing recessed fountains, display cases or doorway trim only. Do not use this cutaway camera or remove walls. Picture 2 guides photographic finish; Picture 1 controls placement."
+      }
+    ]
+  },
+  {
+    "room": "114",
+    "count": 3,
+    "prompt_chars": 3319,
+    "references": [
+      {
+        "file": "Topdown_Black.png",
+        "title": "Exact overhead layout and room mask",
+        "role": "Geometry, framing, scale, positions and black boundary authority."
+      },
+      {
+        "file": "references/02_cinematic.png",
+        "title": "Cinematic appearance guide (related campus area)",
+        "role": "Transfer photographic materials, fully clothed student appearance and fine surface detail only. This eye-level image is NOT a camera, layout, furniture-count or location reference; do not transfer depth of field."
+      },
+      {
+        "file": "references/03_fixture_shapes.png",
+        "title": "Existing modeled fixture shapes",
+        "role": "Supplemental shapes of existing recessed fountains, display cases or doorway trim only. Do not use this cutaway camera or remove walls. Picture 2 guides photographic finish; Picture 1 controls placement."
+      }
+    ]
+  },
+  {
+    "room": "GYM",
+    "count": 2,
+    "prompt_chars": 2785,
+    "references": [
+      {
+        "file": "Topdown_Black.png",
+        "title": "Exact overhead layout and room mask",
+        "role": "Geometry, framing, scale, positions and black boundary authority."
+      },
+      {
+        "file": "references/02_cinematic.png",
+        "title": "Cinematic appearance guide (related campus area)",
+        "role": "Transfer photographic materials, fully clothed student appearance and fine surface detail only. This eye-level image is NOT a camera, layout, furniture-count or location reference; do not transfer depth of field."
+      }
+    ]
+  },
+  {
+    "room": "113",
+    "count": 3,
+    "prompt_chars": 3296,
+    "references": [
+      {
+        "file": "Topdown_Black.png",
+        "title": "Exact overhead layout and room mask",
+        "role": "Geometry, framing, scale, positions and black boundary authority."
+      },
+      {
+        "file": "references/02_cinematic.png",
+        "title": "Cinematic appearance guide (related campus area)",
+        "role": "Transfer photographic materials, fully clothed student appearance and fine surface detail only. This eye-level image is NOT a camera, layout, furniture-count or location reference; do not transfer depth of field."
+      },
+      {
+        "file": "references/03_furniture_banners.png",
+        "title": "Project render: furniture and King banners",
+        "role": "Use the green lounge upholstery, small tables, wood trim and navy/gold King banner appearance only where those objects already exist in Picture 1. Do not import its atrium, camera, floor layout, lighting motion or extra objects."
+      }
+    ]
+  },
+  {
+    "room": "112",
+    "count": 3,
+    "prompt_chars": 3294,
+    "references": [
+      {
+        "file": "Topdown_Black.png",
+        "title": "Exact overhead layout and room mask",
+        "role": "Geometry, framing, scale, positions and black boundary authority."
+      },
+      {
+        "file": "references/02_cinematic.png",
+        "title": "Cinematic appearance guide (related campus area)",
+        "role": "Transfer photographic materials, fully clothed student appearance and fine surface detail only. This eye-level image is NOT a camera, layout, furniture-count or location reference; do not transfer depth of field."
+      },
+      {
+        "file": "references/03_furniture_banners.png",
+        "title": "Project render: furniture and King banners",
+        "role": "Use the green lounge upholstery, small tables, wood trim and navy/gold King banner appearance only where those objects already exist in Picture 1. Do not import its atrium, camera, floor layout, lighting motion or extra objects."
+      }
+    ]
+  },
+  {
+    "room": "111",
+    "count": 3,
+    "prompt_chars": 3376,
+    "references": [
+      {
+        "file": "Topdown_Black.png",
+        "title": "Exact overhead layout and room mask",
+        "role": "Geometry, framing, scale, positions and black boundary authority."
+      },
+      {
+        "file": "references/02_cinematic.png",
+        "title": "Cinematic appearance guide (related campus area)",
+        "role": "Transfer photographic materials, fully clothed student appearance and fine surface detail only. This eye-level image is NOT a camera, layout, furniture-count or location reference; do not transfer depth of field."
+      },
+      {
+        "file": "references/03_furniture_banners.png",
+        "title": "Project render: furniture and King banners",
+        "role": "Use the green lounge upholstery, small tables, wood trim and navy/gold King banner appearance only where those objects already exist in Picture 1. Do not import its atrium, camera, floor layout, lighting motion or extra objects."
+      }
+    ]
+  },
+  {
+    "room": "109",
+    "count": 2,
+    "prompt_chars": 2732,
+    "references": [
+      {
+        "file": "Topdown_Black.png",
+        "title": "Exact overhead layout and room mask",
+        "role": "Geometry, framing, scale, positions and black boundary authority."
+      },
+      {
+        "file": "references/02_cinematic.png",
+        "title": "Cinematic appearance guide (related campus area)",
+        "role": "Transfer photographic materials, fully clothed student appearance and fine surface detail only. This eye-level image is NOT a camera, layout, furniture-count or location reference; do not transfer depth of field."
+      }
+    ]
+  },
+  {
+    "room": "108",
+    "count": 9,
+    "prompt_chars": 6207,
+    "references": [
+      {
+        "file": "Topdown_Black.png",
+        "title": "Exact overhead layout and room mask",
+        "role": "Geometry, framing, scale, positions and black boundary authority."
+      },
+      {
+        "file": "references/02_cinematic.png",
+        "title": "Cinematic appearance guide",
+        "role": "Transfer photographic materials, fully clothed student appearance and fine surface detail only. This eye-level image is NOT a camera, layout, furniture-count or location reference; do not transfer depth of field."
+      },
+      {
+        "file": "references/03_bambu_h2d_ams.jpg",
+        "title": "Bambu Lab H2D with AMS 2 Pro",
+        "role": "The enclosure, dark glazing, toolhead and four-spool AMS 2 Pro appearance only. Exactly TWO installed printer assemblies at the positions in Picture 1. Never substitute Prusa or add printers. Appearance only; Picture 1 controls scale and placement."
+      },
+      {
+        "file": "references/04_formlabs.png",
+        "title": "Formlabs resin printer and wash/cure units",
+        "role": "Orange translucent resin-printer hood and compact wash/cure equipment appearance only; do not infer an exact product generation or new placement. Appearance only; Picture 1 controls scale and placement."
+      },
+      {
+        "file": "references/05_bigrep.png",
+        "title": "BigRep ONE large-format printer",
+        "role": "Large square open-frame printer with orange and silver members. Preserve the existing footprint and orientation. Appearance only; Picture 1 controls scale and placement."
+      },
+      {
+        "file": "references/06_wazer.png",
+        "title": "WAZER desktop waterjet",
+        "role": "White curved side housings, dark front and clear lid, at its existing modeled position. Appearance only; Picture 1 controls scale and placement."
+      },
+      {
+        "file": "references/07_epson.png",
+        "title": "Epson garment printer",
+        "role": "Dark garment-printer housing, blue detail band and flat garment platen. Keep the modeled footprint. Appearance only; Picture 1 controls scale and placement."
+      },
+      {
+        "file": "references/08_uvflatbed.png",
+        "title": "UV flatbed printer appearance guide",
+        "role": "Silver and black compact UV flatbed printer with external ink bottles; appearance family guide only, not proof of installed model. Appearance only; Picture 1 controls scale and placement."
+      },
+      {
+        "file": "references/09_spraybooth.jpg",
+        "title": "Paasche-style spray booth",
+        "role": "Metal benchtop booth, angled side walls and round exhaust duct. Keep it in the modeled corner facing into the room and venting toward the patio; do not relocate it. Appearance only; Picture 1 controls scale and placement."
+      }
+    ]
+  },
+  {
+    "room": "110",
+    "count": 3,
+    "prompt_chars": 3379,
+    "references": [
+      {
+        "file": "Topdown_Black.png",
+        "title": "Exact overhead layout and room mask",
+        "role": "Geometry, framing, scale, positions and black boundary authority."
+      },
+      {
+        "file": "references/02_cinematic.png",
+        "title": "Cinematic appearance guide (related campus area)",
+        "role": "Transfer photographic materials, fully clothed student appearance and fine surface detail only. This eye-level image is NOT a camera, layout, furniture-count or location reference; do not transfer depth of field."
+      },
+      {
+        "file": "references/03_furniture_banners.png",
+        "title": "Project render: furniture and King banners",
+        "role": "Use the green lounge upholstery, small tables, wood trim and navy/gold King banner appearance only where those objects already exist in Picture 1. Do not import its atrium, camera, floor layout, lighting motion or extra objects."
+      }
+    ]
+  },
+  {
+    "room": "106",
+    "count": 3,
+    "prompt_chars": 3415,
+    "references": [
+      {
+        "file": "Topdown_Black.png",
+        "title": "Exact overhead layout and room mask",
+        "role": "Geometry, framing, scale, positions and black boundary authority."
+      },
+      {
+        "file": "references/02_cinematic.png",
+        "title": "Cinematic appearance guide (related campus area)",
+        "role": "Transfer photographic materials, fully clothed student appearance and fine surface detail only. This eye-level image is NOT a camera, layout, furniture-count or location reference; do not transfer depth of field."
+      },
+      {
+        "file": "references/03_furniture_banners.png",
+        "title": "Project render: furniture and King banners",
+        "role": "Use the green lounge upholstery, small tables, wood trim and navy/gold King banner appearance only where those objects already exist in Picture 1. Do not import its atrium, camera, floor layout, lighting motion or extra objects."
+      }
+    ]
+  },
+  {
+    "room": "102",
+    "count": 3,
+    "prompt_chars": 3385,
+    "references": [
+      {
+        "file": "Topdown_Black.png",
+        "title": "Exact overhead layout and room mask",
+        "role": "Geometry, framing, scale, positions and black boundary authority."
+      },
+      {
+        "file": "references/02_cinematic.png",
+        "title": "Cinematic appearance guide",
+        "role": "Transfer photographic materials, fully clothed student appearance and fine surface detail only. This eye-level image is NOT a camera, layout, furniture-count or location reference; do not transfer depth of field."
+      },
+      {
+        "file": "references/03_furniture_banners.png",
+        "title": "Project render: furniture and King banners",
+        "role": "Use the green lounge upholstery, small tables, wood trim and navy/gold King banner appearance only where those objects already exist in Picture 1. Do not import its atrium, camera, floor layout, lighting motion or extra objects."
+      }
+    ]
+  },
+  {
+    "room": "101",
+    "count": 4,
+    "prompt_chars": 3940,
+    "references": [
+      {
+        "file": "Topdown_Black.png",
+        "title": "Exact overhead layout and room mask",
+        "role": "Geometry, framing, scale, positions and black boundary authority."
+      },
+      {
+        "file": "references/02_cinematic.png",
+        "title": "Cinematic appearance guide (related campus area)",
+        "role": "Transfer photographic materials, fully clothed student appearance and fine surface detail only. This eye-level image is NOT a camera, layout, furniture-count or location reference; do not transfer depth of field."
+      },
+      {
+        "file": "references/03_furniture_banners.png",
+        "title": "Project render: furniture and King banners",
+        "role": "Use the green lounge upholstery, small tables, wood trim and navy/gold King banner appearance only where those objects already exist in Picture 1. Do not import its atrium, camera, floor layout, lighting motion or extra objects."
+      },
+      {
+        "file": "references/04_cafe_equipment_plan.png",
+        "title": "Cafe equipment detail from source PDF",
+        "role": "Read the two POS positions, refrigerated displays, coffee and under-counter equipment as equipment identity/count details. Picture 1 remains the rendered geometry and registration authority. Do not project drawing labels."
+      }
+    ]
+  },
+  {
+    "room": "103",
+    "count": 3,
+    "prompt_chars": 3379,
+    "references": [
+      {
+        "file": "Topdown_Black.png",
+        "title": "Exact overhead layout and room mask",
+        "role": "Geometry, framing, scale, positions and black boundary authority."
+      },
+      {
+        "file": "references/02_cinematic.png",
+        "title": "Cinematic appearance guide (related campus area)",
+        "role": "Transfer photographic materials, fully clothed student appearance and fine surface detail only. This eye-level image is NOT a camera, layout, furniture-count or location reference; do not transfer depth of field."
+      },
+      {
+        "file": "references/03_furniture_banners.png",
+        "title": "Project render: furniture and King banners",
+        "role": "Use the green lounge upholstery, small tables, wood trim and navy/gold King banner appearance only where those objects already exist in Picture 1. Do not import its atrium, camera, floor layout, lighting motion or extra objects."
+      }
+    ]
+  },
+  {
+    "room": "104",
+    "count": 3,
+    "prompt_chars": 3387,
+    "references": [
+      {
+        "file": "Topdown_Black.png",
+        "title": "Exact overhead layout and room mask",
+        "role": "Geometry, framing, scale, positions and black boundary authority."
+      },
+      {
+        "file": "references/02_cinematic.png",
+        "title": "Cinematic appearance guide (related campus area)",
+        "role": "Transfer photographic materials, fully clothed student appearance and fine surface detail only. This eye-level image is NOT a camera, layout, furniture-count or location reference; do not transfer depth of field."
+      },
+      {
+        "file": "references/03_furniture_banners.png",
+        "title": "Project render: furniture and King banners",
+        "role": "Use the green lounge upholstery, small tables, wood trim and navy/gold King banner appearance only where those objects already exist in Picture 1. Do not import its atrium, camera, floor layout, lighting motion or extra objects."
+      }
+    ]
+  },
+  {
+    "room": "105",
+    "count": 3,
+    "prompt_chars": 3403,
+    "references": [
+      {
+        "file": "Topdown_Black.png",
+        "title": "Exact overhead layout and room mask",
+        "role": "Geometry, framing, scale, positions and black boundary authority."
+      },
+      {
+        "file": "references/02_cinematic.png",
+        "title": "Cinematic appearance guide (related campus area)",
+        "role": "Transfer photographic materials, fully clothed student appearance and fine surface detail only. This eye-level image is NOT a camera, layout, furniture-count or location reference; do not transfer depth of field."
+      },
+      {
+        "file": "references/03_furniture_banners.png",
+        "title": "Project render: furniture and King banners",
+        "role": "Use the green lounge upholstery, small tables, wood trim and navy/gold King banner appearance only where those objects already exist in Picture 1. Do not import its atrium, camera, floor layout, lighting motion or extra objects."
+      }
+    ]
+  },
+  {
+    "room": "100",
+    "count": 3,
+    "prompt_chars": 3364,
+    "references": [
+      {
+        "file": "Topdown_Black.png",
+        "title": "Exact overhead layout and room mask",
+        "role": "Geometry, framing, scale, positions and black boundary authority."
+      },
+      {
+        "file": "references/02_cinematic.png",
+        "title": "Cinematic appearance guide",
+        "role": "Transfer photographic materials, fully clothed student appearance and fine surface detail only. This eye-level image is NOT a camera, layout, furniture-count or location reference; do not transfer depth of field."
+      },
+      {
+        "file": "references/03_furniture_banners.png",
+        "title": "Project render: furniture and King banners",
+        "role": "Use the green lounge upholstery, small tables, wood trim and navy/gold King banner appearance only where those objects already exist in Picture 1. Do not import its atrium, camera, floor layout, lighting motion or extra objects."
+      }
+    ]
+  }
+]

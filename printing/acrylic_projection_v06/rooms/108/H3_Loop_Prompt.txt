@@ -1,0 +1,34 @@
+subject_definitions:
+<Subject 1>: <Picture 1> — Exact overhead layout and room mask. Geometry, framing, scale, positions and black boundary authority.
+<Subject 2>: <Picture 2> — Cinematic appearance guide. Transfer photographic materials, fully clothed student appearance and fine surface detail only. This eye-level image is NOT a camera, layout, furniture-count or location reference; do not transfer depth of field.
+<Subject 3>: <Picture 3> — Bambu Lab H2D with AMS 2 Pro. The enclosure, dark glazing, toolhead and four-spool AMS 2 Pro appearance only. Exactly TWO installed printer assemblies at the positions in Picture 1. Never substitute Prusa or add printers. Appearance only; Picture 1 controls scale and placement.
+<Subject 4>: <Picture 4> — Formlabs resin printer and wash/cure units. Orange translucent resin-printer hood and compact wash/cure equipment appearance only; do not infer an exact product generation or new placement. Appearance only; Picture 1 controls scale and placement.
+<Subject 5>: <Picture 5> — BigRep ONE large-format printer. Large square open-frame printer with orange and silver members. Preserve the existing footprint and orientation. Appearance only; Picture 1 controls scale and placement.
+<Subject 6>: <Picture 6> — WAZER desktop waterjet. White curved side housings, dark front and clear lid, at its existing modeled position. Appearance only; Picture 1 controls scale and placement.
+<Subject 7>: <Picture 7> — Epson garment printer. Dark garment-printer housing, blue detail band and flat garment platen. Keep the modeled footprint. Appearance only; Picture 1 controls scale and placement.
+<Subject 8>: <Picture 8> — UV flatbed printer appearance guide. Silver and black compact UV flatbed printer with external ink bottles; appearance family guide only, not proof of installed model. Appearance only; Picture 1 controls scale and placement.
+<Subject 9>: <Picture 9> — Paasche-style spray booth. Metal benchtop booth, angled side walls and round exhaust duct. Keep it in the modeled corner facing into the room and venting toward the patio; do not relocate it. Appearance only; Picture 1 controls scale and placement.
+
+summary:
+[reference generation] A photorealistic 12-second seamless overhead projection loop of INNOVATION LAB, room 108, with believable campus activity and students walking where appropriate. <Subject 1> alone determines the room location and geometry.
+
+retention_analysis:
+<Subject 1>: fully_preserved — exact vertical top-down registration, furniture footprints, doorways and room boundary.
+<Subject 2>: attribute_transfer — Transfer photographic materials, fully clothed student appearance and fine surface detail only. This eye-level image is NOT a camera, layout, furniture-count or location reference; do not transfer depth of field.
+<Subject 3>: attribute_transfer — The enclosure, dark glazing, toolhead and four-spool AMS 2 Pro appearance only. Exactly TWO installed printer assemblies at the positions in Picture 1. Never substitute Prusa or add printers. Appearance only; Picture 1 controls scale and placement.
+<Subject 4>: attribute_transfer — Orange translucent resin-printer hood and compact wash/cure equipment appearance only; do not infer an exact product generation or new placement. Appearance only; Picture 1 controls scale and placement.
+<Subject 5>: attribute_transfer — Large square open-frame printer with orange and silver members. Preserve the existing footprint and orientation. Appearance only; Picture 1 controls scale and placement.
+<Subject 6>: attribute_transfer — White curved side housings, dark front and clear lid, at its existing modeled position. Appearance only; Picture 1 controls scale and placement.
+<Subject 7>: attribute_transfer — Dark garment-printer housing, blue detail band and flat garment platen. Keep the modeled footprint. Appearance only; Picture 1 controls scale and placement.
+<Subject 8>: attribute_transfer — Silver and black compact UV flatbed printer with external ink bottles; appearance family guide only, not proof of installed model. Appearance only; Picture 1 controls scale and placement.
+<Subject 9>: attribute_transfer — Metal benchtop booth, angled side walls and round exhaust duct. Keep it in the modeled corner facing into the room and venting toward the patio; do not relocate it. Appearance only; Picture 1 controls scale and placement.
+
+detailed_description:
+Locked vertical orthographic architectural photography, square framing, every receiving surface sharply focused. Soft fixed illumination and grounded contact shadows. Fine natural material variation, realistic anatomy and subtle fabric movement. No cinematic lens perspective or depth of field from the appearance references.
+[Shot 1] One continuous 12-second shot. Eight fully clothed teenage students and one teacher: three students walk natural short loops along clear bench aisles, four collaborate at existing worktables and one watches a stationary printer. The teacher makes a small gesture. Walking students go around bench ends, never through benches or equipment. Printer housings remain fixed; no moving machine parts or active waterjet/spray operation. Walkers use natural weight transfer, alternating foot contact, relaxed arm swings and gentle turns at roughly 1.2-1.5 m/s when space permits. Choose short closed paths that fit the actual clear space; never slide, teleport, pass through furniture or cross walls. Stagger starts and maintain personal space. By the loop end return to the opening positions, heading and stride phase smoothly; no abrupt reversal or cut. Seated people make small repeating hand/head gestures. Do not move desks, chairs, equipment, doors or architecture. Preserve every existing object count unless explicitly specified above. No new rooms, roof, walls, objects or decorative text. No camera motion, changing sunlight, moving sun shadows, exposure pumping, flicker or projected light on wall tops. Outside the exact room mask stays pure black. Keep all action inside the mask and reapply the supplied Room_Mask_1024.png after generation for exact registration.
+
+overall_soundscape:
+Silent projection output. No dialogue or sound effects.
+
+non_diegetic_music:
+None.

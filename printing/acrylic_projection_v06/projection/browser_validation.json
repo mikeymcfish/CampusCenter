@@ -1,0 +1,63 @@
+{
+  "date": "2026-09-19",
+  "url": "http://127.0.0.1:8769/projection/",
+  "browser": "Codex in-app Chromium browser",
+  "loaded_room_images": 31,
+  "keyboard_movement": {
+    "test": "Four left arrow presses from the entrance",
+    "start": [
+      935.0,
+      548.0
+    ],
+    "end": [
+      931.5,
+      548.0
+    ],
+    "passed": true
+  },
+  "doorway_route": {
+    "from": "100 entry vestibule",
+    "to": "108 innovation lab",
+    "arrived": [
+      600.0,
+      651.0
+    ],
+    "room_highlight_and_gym_image_visually_verified": true
+  },
+  "wall_collision": {
+    "test": "24 right arrow presses from reset",
+    "blocked_steps": 6,
+    "avatar_remained_walkable": true
+  },
+  "room_routes_found_from_entry_test": 30,
+  "mechanical_room_120": "No connecting doorway in current modeled door schedule; image included, walking destination disabled",
+  "receiver_blackout_check": "PASS with canvas pixels outside receiver equal to zero",
+  "fullscreen": "Entered and exited with canvas only; focus border removed and black margins visually verified",
+  "animation_playback": "Height contour animation played; initial RGB H.264 browser color issue corrected using BT.709 YUV420 compatibility copy with receiver remask",
+  "console_warnings_or_errors_in_checked_state": [],
+  "physical_projector_test": false,
+  "revision_07": {
+    "date": "2026-09-19",
+    "default_speed": "2x (40 px/s)",
+    "speed_control": "1x through 4x",
+    "loaded_cinematic_assignments": 31,
+    "doorway_route": "Entry to iLab completed at 2x; arrived at 600,651",
+    "cinematic_images_visually_verified": [
+      "entrance",
+      "innovation lab"
+    ],
+    "wall_collision": "24 right-arrow presses at 4x: 144 blocked substeps; avatar remained walkable at 950.1,548",
+    "receiver_blackout": "PASS at 2x and 4x",
+    "references_page": "Nine numbered iLab images and role descriptions verified in browser"
+  },
+  "revision_08": {
+    "date": "2026-09-19",
+    "print_geometry": "Open innovation lab patio, six bleacher rows removed",
+    "cinematic_assignments": 31,
+    "reachable_rooms": 30,
+    "receiver_blackout": "PASS",
+    "avatar_walkable": "PASS",
+    "default_speed": "2x",
+    "new_geometry_visually_verified": true
+  }
+}

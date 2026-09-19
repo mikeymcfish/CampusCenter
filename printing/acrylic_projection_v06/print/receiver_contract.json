@@ -1,0 +1,24 @@
+{
+  "resolution": [
+    2048,
+    1572
+  ],
+  "native_resolution": [
+    1024,
+    786
+  ],
+  "center_mm": [
+    398,
+    289
+  ],
+  "canvas_mm": [
+    830.0,
+    637.08984375
+  ],
+  "projection": "Direct vertical orthographic",
+  "floor_faces": 3862,
+  "furniture_faces": 12166,
+  "wall_tops_black": true,
+  "upper_floor": false,
+  "roof": false
+}

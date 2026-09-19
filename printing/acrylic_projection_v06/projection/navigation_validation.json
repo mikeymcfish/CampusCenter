@@ -1,0 +1,166 @@
+{
+  "start": [
+    935,
+    548
+  ],
+  "rooms": [
+    {
+      "room": "129",
+      "walkable_pixels": 5667,
+      "reachable_pixels": 5667
+    },
+    {
+      "room": "127",
+      "walkable_pixels": 1563,
+      "reachable_pixels": 1563
+    },
+    {
+      "room": "128",
+      "walkable_pixels": 882,
+      "reachable_pixels": 882
+    },
+    {
+      "room": "125",
+      "walkable_pixels": 2853,
+      "reachable_pixels": 2853
+    },
+    {
+      "room": "126",
+      "walkable_pixels": 1148,
+      "reachable_pixels": 1148
+    },
+    {
+      "room": "124",
+      "walkable_pixels": 1334,
+      "reachable_pixels": 1334
+    },
+    {
+      "room": "130",
+      "walkable_pixels": 11175,
+      "reachable_pixels": 11175
+    },
+    {
+      "room": "123",
+      "walkable_pixels": 18086,
+      "reachable_pixels": 18086
+    },
+    {
+      "room": "122",
+      "walkable_pixels": 7727,
+      "reachable_pixels": 7705
+    },
+    {
+      "room": "121",
+      "walkable_pixels": 6967,
+      "reachable_pixels": 6956
+    },
+    {
+      "room": "119",
+      "walkable_pixels": 2876,
+      "reachable_pixels": 2876
+    },
+    {
+      "room": "118",
+      "walkable_pixels": 202,
+      "reachable_pixels": 202
+    },
+    {
+      "room": "120",
+      "walkable_pixels": 2520,
+      "reachable_pixels": 0
+    },
+    {
+      "room": "117",
+      "walkable_pixels": 3190,
+      "reachable_pixels": 3190
+    },
+    {
+      "room": "116",
+      "walkable_pixels": 2703,
+      "reachable_pixels": 2703
+    },
+    {
+      "room": "115",
+      "walkable_pixels": 4903,
+      "reachable_pixels": 4903
+    },
+    {
+      "room": "114",
+      "walkable_pixels": 2011,
+      "reachable_pixels": 2011
+    },
+    {
+      "room": "GYM",
+      "walkable_pixels": 148926,
+      "reachable_pixels": 148926
+    },
+    {
+      "room": "113",
+      "walkable_pixels": 4944,
+      "reachable_pixels": 4944
+    },
+    {
+      "room": "112",
+      "walkable_pixels": 6015,
+      "reachable_pixels": 6015
+    },
+    {
+      "room": "111",
+      "walkable_pixels": 1590,
+      "reachable_pixels": 1590
+    },
+    {
+      "room": "109",
+      "walkable_pixels": 1306,
+      "reachable_pixels": 1306
+    },
+    {
+      "room": "108",
+      "walkable_pixels": 11788,
+      "reachable_pixels": 11788
+    },
+    {
+      "room": "110",
+      "walkable_pixels": 7334,
+      "reachable_pixels": 7334
+    },
+    {
+      "room": "106",
+      "walkable_pixels": 31335,
+      "reachable_pixels": 31335
+    },
+    {
+      "room": "102",
+      "walkable_pixels": 34775,
+      "reachable_pixels": 34760
+    },
+    {
+      "room": "101",
+      "walkable_pixels": 2643,
+      "reachable_pixels": 2643
+    },
+    {
+      "room": "103",
+      "walkable_pixels": 2864,
+      "reachable_pixels": 2864
+    },
+    {
+      "room": "104",
+      "walkable_pixels": 2923,
+      "reachable_pixels": 2923
+    },
+    {
+      "room": "105",
+      "walkable_pixels": 18255,
+      "reachable_pixels": 18255
+    },
+    {
+      "room": "100",
+      "walkable_pixels": 2129,
+      "reachable_pixels": 2129
+    }
+  ],
+  "reachable_count": 30,
+  "room_count": 31,
+  "door_policy": "Logical open architectural portals; avatar is blacked out over printed door plinths. No teleporting through walls."
+}
