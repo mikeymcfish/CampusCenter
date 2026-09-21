@@ -1,0 +1,107 @@
+[
+  {
+    "room": "122",
+    "camera_position": [
+      -36.1114616394043,
+      25.930797576904297,
+      3.5
+    ],
+    "ortho_span_m": 12.056884765625,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "seconds": 5.282000000006519,
+    "depth_semantics": "Blender Camera Data View Z Depth, metres, emission override, raw float EXR",
+    "device": "CPU",
+    "raw_depth_units": "metres",
+    "guide_normalization_range_m": [
+      0,
+      4.5
+    ]
+  },
+  {
+    "room": "121",
+    "camera_position": [
+      -36.1114616394043,
+      19.388164520263672,
+      3.5
+    ],
+    "ortho_span_m": 12.056884765625,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "seconds": 2.7179999999934807,
+    "depth_semantics": "Blender Camera Data View Z Depth, metres, emission override, raw float EXR",
+    "device": "CPU",
+    "raw_depth_units": "metres",
+    "guide_normalization_range_m": [
+      0,
+      4.5
+    ]
+  },
+  {
+    "room": "GYM",
+    "camera_position": [
+      -12.919690132141113,
+      31.817394256591797,
+      3.5
+    ],
+    "ortho_span_m": 31.064208984375,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "seconds": 2.6570000000065193,
+    "depth_semantics": "Blender Camera Data View Z Depth, metres, emission override, raw float EXR",
+    "device": "CPU",
+    "raw_depth_units": "metres",
+    "guide_normalization_range_m": [
+      0,
+      4.5
+    ]
+  },
+  {
+    "room": "108",
+    "camera_position": [
+      -5.791943550109863,
+      4.902173042297363,
+      3.5
+    ],
+    "ortho_span_m": 11.8441162109375,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "seconds": 2.64000000001397,
+    "depth_semantics": "Blender Camera Data View Z Depth, metres, emission override, raw float EXR",
+    "device": "CPU",
+    "raw_depth_units": "metres",
+    "guide_normalization_range_m": [
+      0,
+      4.5
+    ]
+  },
+  {
+    "room": "102",
+    "camera_position": [
+      8.215319633483887,
+      22.810192108154297,
+      3.5
+    ],
+    "ortho_span_m": 16.9505615234375,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "seconds": 2.655999999959022,
+    "depth_semantics": "Blender Camera Data View Z Depth, metres, emission override, raw float EXR",
+    "device": "CPU",
+    "raw_depth_units": "metres",
+    "guide_normalization_range_m": [
+      0,
+      4.5
+    ]
+  }
+]

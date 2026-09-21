@@ -1,0 +1,77 @@
+{
+  "video": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\video_experiments_r12\\final\\121\\Projection_Lossless.mkv",
+  "frames": 294,
+  "fps": 24.0,
+  "seconds": 12.25,
+  "size": [
+    768,
+    768
+  ],
+  "endpoint_mean_absolute_difference": 0.0,
+  "feature_registration": [
+    {
+      "frame": 42,
+      "matches": 674,
+      "inliers": 594,
+      "translation_px": 0.10316020922630344,
+      "rotation_deg": -0.00814634682379811,
+      "scale": 1.0002586733642969
+    },
+    {
+      "frame": 84,
+      "matches": 651,
+      "inliers": 583,
+      "translation_px": 0.0686107138510046,
+      "rotation_deg": -0.00460805773267696,
+      "scale": 1.0001912225312939
+    },
+    {
+      "frame": 126,
+      "matches": 559,
+      "inliers": 506,
+      "translation_px": 0.01076215436599155,
+      "rotation_deg": -0.0016115758327507111,
+      "scale": 0.9999726726395766
+    },
+    {
+      "frame": 167,
+      "matches": 578,
+      "inliers": 526,
+      "translation_px": 0.0832692117664728,
+      "rotation_deg": 0.0035381127569614284,
+      "scale": 1.0002261920053659
+    },
+    {
+      "frame": 209,
+      "matches": 657,
+      "inliers": 612,
+      "translation_px": 0.12900286419277626,
+      "rotation_deg": -0.0017593161076706104,
+      "scale": 1.0004457831117708
+    },
+    {
+      "frame": 251,
+      "matches": 757,
+      "inliers": 722,
+      "translation_px": 0.034930699036947975,
+      "rotation_deg": -0.00027815652485271456,
+      "scale": 1.0002029952434213
+    },
+    {
+      "frame": 293,
+      "matches": 1733,
+      "inliers": 1733,
+      "translation_px": 0.0,
+      "rotation_deg": 0.0,
+      "scale": 1.0
+    }
+  ],
+  "caveat": "Feature fit is diagnostic only; moving people and repeated furniture can bias it. Visual review required.",
+  "temporal_difference": {
+    "median_adjacent_frame_rgb_mae": 0.2154269748263889,
+    "p95_adjacent_frame_rgb_mae": 0.6723730016637731,
+    "maximum_adjacent_frame_rgb_mae": 0.9259897867838541,
+    "loop_seam_rgb_mae": 0.0,
+    "note": "Whole-frame differences include compression and lighting; this is a seam diagnostic, not proof of natural gait."
+  }
+}

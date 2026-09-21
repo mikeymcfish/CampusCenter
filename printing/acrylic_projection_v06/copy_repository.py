@@ -3,10 +3,10 @@ import shutil,hashlib,json
 R=Path(__file__).parent;repo=Path('P:/_code/CampusCenter');dest=repo/'printing/acrylic_projection_v06';dest.mkdir(parents=True,exist_ok=True)
 omit={'topdown_raw.png','topdown_pilot_raw.png','Topdown_Alpha_pilot.png','Topdown_Black_pilot.png','Pilot_Contact_Sheet.jpg','pilot_render_report.json','pilot_mask_validation.json','room_id_map.npz'}
 files=[]
-for folder in ['print','rooms','projection']:
+for folder in ['print','rooms','projection','cglide']:
  for p in (R/folder).rglob('*'):
   if p.is_file() and p.name not in omit and p.suffix!='.blend1':files.append(p)
-for pattern in ['*.py','*.cmd','*.zip']:
+for pattern in ['*.py','*.cjs','*.cmd','*.zip']:
  files.extend(R.glob(pattern))
 for name in ['README.md','delivery_validation.json','scene_inventory.json','revision_07_validation.json','revision_08_validation.json']:files.append(R/name)
 records=[]

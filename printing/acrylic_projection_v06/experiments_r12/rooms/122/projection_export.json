@@ -1,0 +1,12 @@
+{
+  "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\video_experiments_r12\\comfy_outputs\\final\\Room_122_H3_Loop_00001.mp4",
+  "lossless_master": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\video_experiments_r12\\final\\122\\Projection_Lossless.mkv",
+  "preview": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\video_experiments_r12\\final\\122\\Projection_Preview.mp4",
+  "frames": 294,
+  "fps": 24.0,
+  "outside_mask_max_lossless": 0,
+  "closing_blend_frames": 6,
+  "first_last_lossless_identical": true,
+  "mask": "Original Blender room mask, nearest-neighbor resized",
+  "limitations": "Final six frames gently blend to the opening encoded frame to close the loop. Masking does not correct generated interior geometry or motion. H264 preview can have slight compression bleed; use FFV1 master when exact black outside the mask matters."
+}

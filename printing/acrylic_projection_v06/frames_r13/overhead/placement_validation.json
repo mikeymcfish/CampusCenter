@@ -1,0 +1,292 @@
+{
+  "rooms": 31,
+  "resolution": [
+    6144,
+    4716
+  ],
+  "pixels_per_m": 84.59896729776248,
+  "nonoverlapping_masks": true,
+  "all_camera_spans_verified": true,
+  "placement": [
+    {
+      "room": "129",
+      "square_origin_on_2048_canvas": [
+        45.5,
+        314.0
+      ],
+      "square_side_on_2048_canvas": 230,
+      "span_m": 8.1561279296875
+    },
+    {
+      "room": "127",
+      "square_origin_on_2048_canvas": [
+        205.5,
+        314.0
+      ],
+      "square_side_on_2048_canvas": 138,
+      "span_m": 4.8936767578125
+    },
+    {
+      "room": "128",
+      "square_origin_on_2048_canvas": [
+        223.5,
+        442.0
+      ],
+      "square_side_on_2048_canvas": 102,
+      "span_m": 3.6170654296874996
+    },
+    {
+      "room": "125",
+      "square_origin_on_2048_canvas": [
+        309.0,
+        289.5
+      ],
+      "square_side_on_2048_canvas": 171,
+      "span_m": 6.06390380859375
+    },
+    {
+      "room": "126",
+      "square_origin_on_2048_canvas": [
+        295.0,
+        426.0
+      ],
+      "square_side_on_2048_canvas": 118,
+      "span_m": 4.1844482421875
+    },
+    {
+      "room": "124",
+      "square_origin_on_2048_canvas": [
+        375.5,
+        426.0
+      ],
+      "square_side_on_2048_canvas": 118,
+      "span_m": 4.1844482421875
+    },
+    {
+      "room": "130",
+      "square_origin_on_2048_canvas": [
+        81.0,
+        226.0
+      ],
+      "square_side_on_2048_canvas": 484,
+      "span_m": 17.163330078125
+    },
+    {
+      "room": "123",
+      "square_origin_on_2048_canvas": [
+        217.0,
+        314.0
+      ],
+      "square_side_on_2048_canvas": 743,
+      "span_m": 26.34783935546875
+    },
+    {
+      "room": "122",
+      "square_origin_on_2048_canvas": [
+        179.0,
+        533.0
+      ],
+      "square_side_on_2048_canvas": 340,
+      "span_m": 12.056884765625
+    },
+    {
+      "room": "121",
+      "square_origin_on_2048_canvas": [
+        179.0,
+        717.5
+      ],
+      "square_side_on_2048_canvas": 340,
+      "span_m": 12.056884765625
+    },
+    {
+      "room": "119",
+      "square_origin_on_2048_canvas": [
+        61.0,
+        973.0
+      ],
+      "square_side_on_2048_canvas": 157,
+      "span_m": 5.56744384765625
+    },
+    {
+      "room": "118",
+      "square_origin_on_2048_canvas": [
+        167.5,
+        1045.0
+      ],
+      "square_side_on_2048_canvas": 85,
+      "span_m": 3.01422119140625
+    },
+    {
+      "room": "120",
+      "square_origin_on_2048_canvas": [
+        81.0,
+        1098.5
+      ],
+      "square_side_on_2048_canvas": 151,
+      "span_m": 5.35467529296875
+    },
+    {
+      "room": "117",
+      "square_origin_on_2048_canvas": [
+        187.5,
+        1045.0
+      ],
+      "square_side_on_2048_canvas": 183,
+      "span_m": 6.48944091796875
+    },
+    {
+      "room": "116",
+      "square_origin_on_2048_canvas": [
+        286.5,
+        1045.0
+      ],
+      "square_side_on_2048_canvas": 183,
+      "span_m": 6.48944091796875
+    },
+    {
+      "room": "115",
+      "square_origin_on_2048_canvas": [
+        188.0,
+        862.5
+      ],
+      "square_side_on_2048_canvas": 331,
+      "span_m": 11.73773193359375
+    },
+    {
+      "room": "114",
+      "square_origin_on_2048_canvas": [
+        368.0,
+        1028.0
+      ],
+      "square_side_on_2048_canvas": 203,
+      "span_m": 7.198669433593749
+    },
+    {
+      "room": "GYM",
+      "square_origin_on_2048_canvas": [
+        565.0,
+        99.0
+      ],
+      "square_side_on_2048_canvas": 876,
+      "span_m": 31.064208984374996
+    },
+    {
+      "room": "113",
+      "square_origin_on_2048_canvas": [
+        592.5,
+        1047.0
+      ],
+      "square_side_on_2048_canvas": 217,
+      "span_m": 7.695129394531249
+    },
+    {
+      "room": "112",
+      "square_origin_on_2048_canvas": [
+        750.5,
+        1047.0
+      ],
+      "square_side_on_2048_canvas": 217,
+      "span_m": 7.695129394531249
+    },
+    {
+      "room": "111",
+      "square_origin_on_2048_canvas": [
+        936.5,
+        1047.0
+      ],
+      "square_side_on_2048_canvas": 113,
+      "span_m": 4.00714111328125
+    },
+    {
+      "room": "109",
+      "square_origin_on_2048_canvas": [
+        940.0,
+        1150.0
+      ],
+      "square_side_on_2048_canvas": 112,
+      "span_m": 3.9716796874999996
+    },
+    {
+      "room": "108",
+      "square_origin_on_2048_canvas": [
+        1037.0,
+        1129.0
+      ],
+      "square_side_on_2048_canvas": 334,
+      "span_m": 11.8441162109375
+    },
+    {
+      "room": "110",
+      "square_origin_on_2048_canvas": [
+        617.0,
+        778.0
+      ],
+      "square_side_on_2048_canvas": 472,
+      "span_m": 16.73779296875
+    },
+    {
+      "room": "106",
+      "square_origin_on_2048_canvas": [
+        1035.0,
+        681.0
+      ],
+      "square_side_on_2048_canvas": 801,
+      "span_m": 28.404602050781246
+    },
+    {
+      "room": "102",
+      "square_origin_on_2048_canvas": [
+        1360.0,
+        552.0
+      ],
+      "square_side_on_2048_canvas": 478,
+      "span_m": 16.9505615234375
+    },
+    {
+      "room": "101",
+      "square_origin_on_2048_canvas": [
+        1682.5,
+        855.0
+      ],
+      "square_side_on_2048_canvas": 174,
+      "span_m": 6.1702880859375
+    },
+    {
+      "room": "103",
+      "square_origin_on_2048_canvas": [
+        1693.5,
+        1156.0
+      ],
+      "square_side_on_2048_canvas": 148,
+      "span_m": 5.248291015625
+    },
+    {
+      "room": "104",
+      "square_origin_on_2048_canvas": [
+        1700.0,
+        1292.0
+      ],
+      "square_side_on_2048_canvas": 138,
+      "span_m": 4.8936767578125
+    },
+    {
+      "room": "105",
+      "square_origin_on_2048_canvas": [
+        1363.0,
+        1130.0
+      ],
+      "square_side_on_2048_canvas": 348,
+      "span_m": 12.340576171875
+    },
+    {
+      "room": "100",
+      "square_origin_on_2048_canvas": [
+        1789.5,
+        1015.0
+      ],
+      "square_side_on_2048_canvas": 155,
+      "span_m": 5.49652099609375
+    }
+  ],
+  "note": "Deterministic compositing of existing generated frames. No new image generation. Exact room placement does not remove AI geometry or person-scale discrepancies inside frames."
+}

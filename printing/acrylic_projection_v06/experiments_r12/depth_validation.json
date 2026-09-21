@@ -1,0 +1,47 @@
+[
+  {
+    "room": "108",
+    "min_m": 1.6773676872253418,
+    "max_m": 3.5,
+    "near_m": 0,
+    "far_m": 4.5,
+    "outside_mask_zero": true,
+    "source": "Blender camera depth emission float EXR, not estimated image depth"
+  },
+  {
+    "room": "102",
+    "min_m": 0.6188268661499023,
+    "max_m": 3.5,
+    "near_m": 0,
+    "far_m": 4.5,
+    "outside_mask_zero": true,
+    "source": "Blender camera depth emission float EXR, not estimated image depth"
+  },
+  {
+    "room": "121",
+    "min_m": 1.1500000953674316,
+    "max_m": 3.5,
+    "near_m": 0,
+    "far_m": 4.5,
+    "outside_mask_zero": true,
+    "source": "Blender camera depth emission float EXR, not estimated image depth"
+  },
+  {
+    "room": "122",
+    "min_m": 1.4000000953674316,
+    "max_m": 3.5,
+    "near_m": 0,
+    "far_m": 4.5,
+    "outside_mask_zero": true,
+    "source": "Blender camera depth emission float EXR, not estimated image depth"
+  },
+  {
+    "room": "GYM",
+    "min_m": 1.4149999618530273,
+    "max_m": 3.5,
+    "near_m": 0,
+    "far_m": 4.5,
+    "outside_mask_zero": true,
+    "source": "Blender camera depth emission float EXR, not estimated image depth"
+  }
+]

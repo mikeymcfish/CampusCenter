@@ -1,0 +1,70 @@
+{
+  "video": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\video_experiments_r12\\trials\\ltx_depth\\2026-09-19-17h55m06s_seed42621_Locked static straight-down orthographic view of t.mp4",
+  "frames": 105,
+  "fps": 24.0,
+  "seconds": 4.375,
+  "size": [
+    512,
+    512
+  ],
+  "endpoint_mean_absolute_difference": 2.0923233032226562,
+  "feature_registration": [
+    {
+      "frame": 15,
+      "matches": 1740,
+      "inliers": 1711,
+      "translation_px": 0.0301900489289857,
+      "rotation_deg": -0.00083604894673119,
+      "scale": 0.9999478820914715
+    },
+    {
+      "frame": 30,
+      "matches": 1682,
+      "inliers": 1643,
+      "translation_px": 0.006929082829436587,
+      "rotation_deg": 0.00030643907823453044,
+      "scale": 1.0000103928181303
+    },
+    {
+      "frame": 45,
+      "matches": 1662,
+      "inliers": 1634,
+      "translation_px": 0.025704686395939803,
+      "rotation_deg": 0.002105780261076613,
+      "scale": 0.9999582014689407
+    },
+    {
+      "frame": 59,
+      "matches": 1630,
+      "inliers": 1586,
+      "translation_px": 0.028534584701112288,
+      "rotation_deg": -0.002346582193832698,
+      "scale": 0.9999388192100307
+    },
+    {
+      "frame": 74,
+      "matches": 1652,
+      "inliers": 1610,
+      "translation_px": 0.006389434832298276,
+      "rotation_deg": -0.0011875393578894423,
+      "scale": 0.999999846096059
+    },
+    {
+      "frame": 89,
+      "matches": 1666,
+      "inliers": 1633,
+      "translation_px": 0.012880771343116514,
+      "rotation_deg": -0.0028171824842306977,
+      "scale": 0.9999658719479636
+    },
+    {
+      "frame": 104,
+      "matches": 1652,
+      "inliers": 1598,
+      "translation_px": 0.041168642761491236,
+      "rotation_deg": 0.003957115618046323,
+      "scale": 0.9999722230297723
+    }
+  ],
+  "caveat": "Feature fit is diagnostic only; moving people and repeated furniture can bias it. Visual review required."
+}

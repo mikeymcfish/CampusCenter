@@ -1,0 +1,9 @@
+{
+  "packages": 1,
+  "states": 31,
+  "endpoint_assignments": 62,
+  "installed_parser": "T:/AI/Comfy2601/ComfyUI/ComfyUI_windows_portable/ComfyUI/custom_nodes/ComfyUI-CGlide/web/csglide_cast.js",
+  "roundtrip_pass": true,
+  "matches_selected_images": true,
+  "semantic_images": 0
+}

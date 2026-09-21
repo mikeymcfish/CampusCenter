@@ -1,0 +1,7 @@
+How the reference pictures align with the target video - @first (from Shot 1) aligns with the 0.00-second mark of the target video; @last (from Shot 1) aligns with the 12.25-second mark of the target video.
+
+integrated_multimodal_description: [Shot 1] A single static shot from a rigidly fixed orthographic camera looking vertically down at ADMISSIONS OFFICE. The camera is mechanically locked throughout: constant position, rotation, zoom, framing and lens. Architecture, furniture, equipment, floor edges and black margins remain at identical image coordinates. Constant indoor lighting; shadows do not sweep or change. Photographic real materials and naturally foreshortened overhead people. Preserve the exact scale of every person and object in the endpoint image. There are exactly 1 existing people. Only the existing occupants make small natural head and hand movements; seated people stay centered on their existing chairs. Motion is restrained and cyclic; finish at the exact supplied last frame. No cuts, dolly, orbit, pan, tilt, zoom, camera shake, reframing, new people, new furniture or geometry changes. The black exterior stays black.
+
+overall_soundscape: N/A
+
+non_diegetic_music: N/A

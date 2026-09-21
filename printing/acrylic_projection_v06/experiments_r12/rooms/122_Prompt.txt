@@ -1,0 +1,7 @@
+How the reference pictures align with the target video - Picture 1 (from Shot 1) aligns with the 0.00-second mark of the target video; Picture 2 (from Shot 1) aligns with the 12.25-second mark of the target video.
+
+integrated_multimodal_description: [Shot 1] A single static shot from a rigidly fixed orthographic camera looking vertically down. All architecture, furniture, floor markings and black margins remain at identical screen coordinates in every frame. Constant scale, orientation, focus and lighting. Only the existing people move; no camera motion, zoom, perspective change or reframing. Six fully clothed students with school bags in the locker room. Two in the upper clear aisle take several relaxed walking steps along small closed paths. Four beside the locker banks make small talking and hand gestures. Everyone stays fully dressed throughout; all locker doors remain closed and fixed. Maintain every locker bank footprint. Natural alternating footsteps, relaxed arm swings and gentle turns. Remain within clear floor space without crossing furniture, walls or the black room boundary. Keep the same people, clothing and object counts throughout. Movement begins smoothly, follows short closed paths, and returns naturally to the supplied closing poses by the end. No cuts, teleporting, abrupt reversals or newly appearing people. Keep photographic materials and steady contact shadows from the opening image.
+
+overall_soundscape: N/A
+
+non_diegetic_music: N/A

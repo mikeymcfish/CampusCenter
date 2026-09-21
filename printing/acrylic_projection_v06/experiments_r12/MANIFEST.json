@@ -1,0 +1,547 @@
+{
+  "rooms": [
+    "108",
+    "102",
+    "121",
+    "122",
+    "GYM"
+  ],
+  "files": [
+    {
+      "path": "Blender_Moving_Depth.mp4",
+      "bytes": 40725,
+      "sha256": "1a352452d28a0471b54cdd09e2417cae164fc96e2e7981cee013f05370998836"
+    },
+    {
+      "path": "cglide/Campus_Five_Rooms_R12.h3proj.zip",
+      "bytes": 8101383,
+      "sha256": "d2310c52497a15273294e460861cac71f8cd9caf8db4f1391fc60eb8846637ba"
+    },
+    {
+      "path": "cglide/README.txt",
+      "bytes": 768,
+      "sha256": "3e466e9dfd272f33c6f6dfb55dec3061cb0bf894311b327720cb489fc55d6af7"
+    },
+    {
+      "path": "cglide/Room_102_R12.h3proj.zip",
+      "bytes": 2211998,
+      "sha256": "171c3042dce57c09f73536283f0572f3f89478ffd63634fff97456541dd11e0d"
+    },
+    {
+      "path": "cglide/Room_108_R12.h3proj.zip",
+      "bytes": 1508568,
+      "sha256": "89808629f8a81f0719bd2fe994b91a4be1a6be6ca89759b862e1c8461c6f71a7"
+    },
+    {
+      "path": "cglide/Room_121_R12.h3proj.zip",
+      "bytes": 1414674,
+      "sha256": "761629b1ebe51045083088faa231b97d0a73af201eeac00c3331f88acfbd0a4e"
+    },
+    {
+      "path": "cglide/Room_122_R12.h3proj.zip",
+      "bytes": 1348737,
+      "sha256": "36dea3630aba3c1ea5190fcad35d1e13046ca8be9cffa15c4b113ac867d81ccd"
+    },
+    {
+      "path": "cglide/Room_GYM_R12.h3proj.zip",
+      "bytes": 1622106,
+      "sha256": "951b8f5eb8ab2a09e28f66b971c32884c789c52fbd213cb658349db9605e66d2"
+    },
+    {
+      "path": "cglide/validation.json",
+      "bytes": 296,
+      "sha256": "99b1dd729941493932c82c7c14e351071262b7e8d29c32e1dfd09b2a52a551f8"
+    },
+    {
+      "path": "commons_continuity_check.json",
+      "bytes": 9030,
+      "sha256": "2df16946847c33914742f61e4c322b97cd8447955047e5dfe1215e8a08ab63d9"
+    },
+    {
+      "path": "COMPARISON.md",
+      "bytes": 2483,
+      "sha256": "c1c4d8d4f6f4c152f8ecb7d0f5a40bbfd62255294114c98a8e88af0b7a2bf10f"
+    },
+    {
+      "path": "comparison_metrics.json",
+      "bytes": 3097,
+      "sha256": "d431d43a31764a0ce4f391018c72bd83acfda629b34191b65f7f46c52f8b2be6"
+    },
+    {
+      "path": "completion_audit.json",
+      "bytes": 5151,
+      "sha256": "cb5c40de00f488e88d79b2f33f4c2b1ba3542b90e4a8e3a11db58b9d3d3b34c9"
+    },
+    {
+      "path": "DELIVERY_README.md",
+      "bytes": 3412,
+      "sha256": "4c693403da87b09fbe0b6a971942b603fc356b69c7b3137fc9f8d52e6e2d2cd7"
+    },
+    {
+      "path": "depth/102/camera_depth_metres.exr",
+      "bytes": 232725,
+      "sha256": "301d8200ff6159bd1f674bb5ccec16fa9aa105ebbe5ec86f92e9d5e452ead0aa"
+    },
+    {
+      "path": "depth/102/Depth_16bit.png",
+      "bytes": 47024,
+      "sha256": "683419532f4c65cc0f7d50a3d629dc0bd81c06c69f939339cffc45549d8e0734"
+    },
+    {
+      "path": "depth/102/Depth_Control.png",
+      "bytes": 19469,
+      "sha256": "b865a2afcb65fa2cd09ae26e90929547933f0cfe9941667b91ddc2d7048a866c"
+    },
+    {
+      "path": "depth/108/camera_depth_metres.exr",
+      "bytes": 176411,
+      "sha256": "461b0253b4e6b5e4df04fc41a50de31f8d405ca8b80957690904af971d0a1a36"
+    },
+    {
+      "path": "depth/108/Depth_16bit.png",
+      "bytes": 22156,
+      "sha256": "4ecee9847b41c0b35c37b18e08256c3697b97407d886634fb743b7e9f484c69f"
+    },
+    {
+      "path": "depth/108/Depth_Control.png",
+      "bytes": 9787,
+      "sha256": "f853723de0030284a6bbd823b13318454c39b05b13d9f7573d70b417e0354218"
+    },
+    {
+      "path": "depth/121/camera_depth_metres.exr",
+      "bytes": 133546,
+      "sha256": "2f75d126ff07c98de1b3b6dcfb8e419fdf702543cbdcb57e42bb364ccae369fd"
+    },
+    {
+      "path": "depth/121/Depth_16bit.png",
+      "bytes": 7085,
+      "sha256": "3a68ef7022e38e1b97fd24643cd7c8560bad468854ed21673bf97c62bf291f75"
+    },
+    {
+      "path": "depth/121/Depth_Control.png",
+      "bytes": 4723,
+      "sha256": "efba801ee418329743560d0072b0d27a36862eb6d4753b49229e49d609cc64ee"
+    },
+    {
+      "path": "depth/122/camera_depth_metres.exr",
+      "bytes": 117613,
+      "sha256": "acaccfef9ba16a6a4434b9dd2ce31c74f02e6274fb4da8bfd1b7c24fa01f8ab6"
+    },
+    {
+      "path": "depth/122/Depth_16bit.png",
+      "bytes": 7080,
+      "sha256": "fead4557f6521fa8a561bd4876a929af8b7b3fd97ff6ff82b0f8612f3dae2e5e"
+    },
+    {
+      "path": "depth/122/Depth_Control.png",
+      "bytes": 4756,
+      "sha256": "e345476a1a5776ef065f2dd59bb284be580a3d55a31f5f581b588b1f748e0e21"
+    },
+    {
+      "path": "depth/GYM/camera_depth_metres.exr",
+      "bytes": 89540,
+      "sha256": "b325a692df9817566b5580f4c85407066354731572097a8ac817f042cf7f9fa7"
+    },
+    {
+      "path": "depth/GYM/Depth_16bit.png",
+      "bytes": 5008,
+      "sha256": "d3fb893158d294b5213ff22fe9bf1f25741260d1e733d02d83208373016a57fb"
+    },
+    {
+      "path": "depth/GYM/Depth_Control.png",
+      "bytes": 3528,
+      "sha256": "7eccc206c2bf15aab98a681f1b15d03ea534e387094f431ee22c4068c91cf266"
+    },
+    {
+      "path": "Depth_Contact_Sheet.jpg",
+      "bytes": 80372,
+      "sha256": "aa3decf1522d4241b8503ae4b51c0a828c5a9f4b9823381e19a49560b698b429"
+    },
+    {
+      "path": "depth_render_report.json",
+      "bytes": 2408,
+      "sha256": "842afa34af1049590d7e5fbcad4574d94d904b0192f34f4b954ffc71dd0d4693"
+    },
+    {
+      "path": "depth_validation.json",
+      "bytes": 1188,
+      "sha256": "8d12e5f2d3263fc608fc6027275120b88f9027437d27ac30d28cd6531d1a1839"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4969,
+      "sha256": "77939ff49d2f8fbc24b7b55936d2f7a61ae176b654779dba2d2ee92cc5390928"
+    },
+    {
+      "path": "Loop_Seam_Review.jpg",
+      "bytes": 272174,
+      "sha256": "d7f1a25b5256bf976e648077df6e7543399aed56671831b77c2b52a730981f1e"
+    },
+    {
+      "path": "reproduction/export_projection.py",
+      "bytes": 2804,
+      "sha256": "9a2456b242169f2eae0b106de1f40b3f57e57ade875af38f14e7a7231fcb7eb7"
+    },
+    {
+      "path": "reproduction/prepare_depth_guides.py",
+      "bytes": 1497,
+      "sha256": "228332f11169ae7b2212e97ad77e02ef5ee1664401395c0ca7e3e4a24a919b3d"
+    },
+    {
+      "path": "reproduction/prepare_moving_guide.py",
+      "bytes": 1136,
+      "sha256": "5adf77cc0b34b8815765a2a78a56bcf674b1070ebbe9bfa8fc15104239dc75e3"
+    },
+    {
+      "path": "reproduction/render_depth.py",
+      "bytes": 3392,
+      "sha256": "557bcc659a258897151f36776691d69148761ba8b1787c8be2e3811ff9b96b8c"
+    },
+    {
+      "path": "reproduction/render_moving_depth.py",
+      "bytes": 2872,
+      "sha256": "a5528e663006eb7ef13aabf66cc24f5d0203ebe63d3d07d9f0cd7c1eadd3ed2e"
+    },
+    {
+      "path": "reproduction/review_trial.py",
+      "bytes": 2780,
+      "sha256": "4201195b26998b77184b0eb45a773059cdb8d3f1de8b7a56abbd6356502d1cd9"
+    },
+    {
+      "path": "reproduction/run_trial.py",
+      "bytes": 3864,
+      "sha256": "850602f40a2530bda6a4da863e9d268e586953897f6eccf176d1306eeb005e8a"
+    },
+    {
+      "path": "reproduction/submit_room_h3.py",
+      "bytes": 5236,
+      "sha256": "d4aa4bc2333468a7b66b5a7c8e53ac3793a07b0e973a4d45f8c618b63c53f7a6"
+    },
+    {
+      "path": "ROOM_RESULTS.md",
+      "bytes": 1609,
+      "sha256": "90de1a7cf19d4e720361052794f671defdbb1208aaf923e8a35b69cd130e3878"
+    },
+    {
+      "path": "rooms/102/projection_export.json",
+      "bytes": 907,
+      "sha256": "e317344fd020c3a7b36875125c954a4e8ba63eea9d3798dadd431782c55e512a"
+    },
+    {
+      "path": "rooms/102/Projection_review.json",
+      "bytes": 2226,
+      "sha256": "c1ef58cd221904a87c9290d15ab02eb95f0fc4dca3a6d8eff4cb6e9f516b9fed"
+    },
+    {
+      "path": "rooms/102/review.json",
+      "bytes": 2306,
+      "sha256": "08e59dec62b100da8ef4c11d49f846efb1370797c963db4ea6b6ecf639f929d8"
+    },
+    {
+      "path": "rooms/102/Walker_Closeup.jpg",
+      "bytes": 84719,
+      "sha256": "c926ffd55887c7638ea14a12f56396e9eaa9ade22efc8787378b69a4a48ad7c2"
+    },
+    {
+      "path": "rooms/102/workflow_api.json",
+      "bytes": 5478,
+      "sha256": "74689dd518edbe137d8816fb3311ca92dbebfe958bdbd1cb1e63c0115d129352"
+    },
+    {
+      "path": "rooms/102.mp4",
+      "bytes": 3269600,
+      "sha256": "393acf2ef2d9a47878c63aff83860817bd38427997ae7d21b64934a8f8722d49"
+    },
+    {
+      "path": "rooms/102_contact.jpg",
+      "bytes": 133251,
+      "sha256": "8f7ede1682364d0f8ec11bc8bf07e83bd8ae5adc8a23f54aa95ea03febece1ab"
+    },
+    {
+      "path": "rooms/102_Projection_Lossless.mkv",
+      "bytes": 103030377,
+      "sha256": "46dfea3b37ed091dac84fe5a6b3baa8e5054ddfa2aa5f8c8620506549be6e591"
+    },
+    {
+      "path": "rooms/102_Prompt.txt",
+      "bytes": 1695,
+      "sha256": "32b63ca3a876917d4ed1c7e09b71d1ef8b5705287381843ee2940d4018caf872"
+    },
+    {
+      "path": "rooms/102_raw.mp4",
+      "bytes": 4729742,
+      "sha256": "6e5d9466948db0b6d81a8c01824b0d153096684e325013b76c5b381114c79874"
+    },
+    {
+      "path": "rooms/102_Start.png",
+      "bytes": 2205368,
+      "sha256": "23f8debcf7113742b0bb30a7a968a23a0e13b4e3853066723febe3d5e4c9a0df"
+    },
+    {
+      "path": "rooms/108/projection_export.json",
+      "bytes": 887,
+      "sha256": "a8f5d8cc0203cd706de8b3a450d6a7bd7ab2120fcdcafcbaada1c685e776a7c0"
+    },
+    {
+      "path": "rooms/108/Projection_review.json",
+      "bytes": 2207,
+      "sha256": "ed1d0648b95d3d96ca5eb436bfdd10c17234de91f0e14ab994050e7143512141"
+    },
+    {
+      "path": "rooms/108/review.json",
+      "bytes": 1914,
+      "sha256": "0dbdbc2985babc51fb25daf40e0aa242e8eedb55611fc804f4f346cc535c9125"
+    },
+    {
+      "path": "rooms/108/workflow_api.json",
+      "bytes": 5395,
+      "sha256": "78025f0dd2586f8550565a64d7c0f7f74ea73f461dba59b0e95fe4904ffd71ae"
+    },
+    {
+      "path": "rooms/108.mp4",
+      "bytes": 1656162,
+      "sha256": "188d76798744f0d7707a14bc214619478ad4d33d2ddb772d174594642b4e7bc1"
+    },
+    {
+      "path": "rooms/108_contact.jpg",
+      "bytes": 120429,
+      "sha256": "1d0b5bdf8f6a07f72d43949add080f966ef1cfefffeb7e3d0c9dfadf918daef3"
+    },
+    {
+      "path": "rooms/108_Projection_Lossless.mkv",
+      "bytes": 60730520,
+      "sha256": "5e8baa7d6ad7a14aaa289d8ae6886c562ac4a028d9c43f862450a8160969aa24"
+    },
+    {
+      "path": "rooms/108_Prompt.txt",
+      "bytes": 1622,
+      "sha256": "6654eabc057596fc7802c82b8021c5d01194063582c594e8dad1313c3219c286"
+    },
+    {
+      "path": "rooms/108_raw.mp4",
+      "bytes": 2421161,
+      "sha256": "a5df2ad03212b34c745d8419082e95fb696425bbfd1ba85bdab5b8824ea9be98"
+    },
+    {
+      "path": "rooms/108_Start.png",
+      "bytes": 1502280,
+      "sha256": "79d961ff6d11a49e7a3af2c0fe4e5181db8418a39c618ff6dfb7bb51138e4925"
+    },
+    {
+      "path": "rooms/121/projection_export.json",
+      "bytes": 887,
+      "sha256": "4f36bbaa58e43227389e6ca5bc072c9c579885e9d27d78a4d84fb30319efd14d"
+    },
+    {
+      "path": "rooms/121/Projection_review.json",
+      "bytes": 2203,
+      "sha256": "d47bde84b4c0c6d93c4f3b6e24e81465c2f0e95c410360c152d8b60540d0bb09"
+    },
+    {
+      "path": "rooms/121/review.json",
+      "bytes": 2293,
+      "sha256": "18f5de40478b38f5fc7c270d5f0c0c4d479278fc4ea4f029e69cc70fce17ffc9"
+    },
+    {
+      "path": "rooms/121/workflow_api.json",
+      "bytes": 5256,
+      "sha256": "55f57fa276d9b06d07fec7bada92a509c4379ac945fda44469cbc8ad7be8027c"
+    },
+    {
+      "path": "rooms/121.mp4",
+      "bytes": 1935110,
+      "sha256": "1f0c4cddb46f78d16019272913c9c31ff26f03c420f6c86bbeef626d358d9b06"
+    },
+    {
+      "path": "rooms/121_contact.jpg",
+      "bytes": 82563,
+      "sha256": "8789588f88eda2661a05eefc4add94822a8bd83b7a58c861dbd246347b8d027f"
+    },
+    {
+      "path": "rooms/121_Projection_Lossless.mkv",
+      "bytes": 50662662,
+      "sha256": "7343fcb8c5560b6b997e2da1f7803e0bacd36db289e03c61519480d489db4586"
+    },
+    {
+      "path": "rooms/121_Prompt.txt",
+      "bytes": 1483,
+      "sha256": "cbfd7b2c48b772deeab987c0aa2b976bf07474dae1c41152447886e447271e9c"
+    },
+    {
+      "path": "rooms/121_raw.mp4",
+      "bytes": 2943207,
+      "sha256": "8b6ddcbe4427a0225d158b0f022a376472465845d54c9470e624931a0de89d68"
+    },
+    {
+      "path": "rooms/121_Start.png",
+      "bytes": 1409192,
+      "sha256": "f2d7f619d062ae2199e4c955d7ecae97ba4fe782601594c10e1aa5cccc82a06b"
+    },
+    {
+      "path": "rooms/122/projection_export.json",
+      "bytes": 887,
+      "sha256": "c58bcf8e77f30d32486ee57be4d07e20df47e1fe3faf94f3a9e66bbfe96e3aaa"
+    },
+    {
+      "path": "rooms/122/Projection_review.json",
+      "bytes": 2200,
+      "sha256": "c790866b0e7eba97995e4245ba85dfd0fd42a040782b260185ad2ae72aafa1a9"
+    },
+    {
+      "path": "rooms/122/review.json",
+      "bytes": 2289,
+      "sha256": "195ab3f7d5bc03fa12437ed83979d8d2560a12ec0edfce8ec566cccaa1b92f5d"
+    },
+    {
+      "path": "rooms/122/workflow_api.json",
+      "bytes": 5256,
+      "sha256": "590dd3f0d24a048d8f86b1ac8ad99f7d09222c0f1ee559dc34539153e9683132"
+    },
+    {
+      "path": "rooms/122.mp4",
+      "bytes": 1565049,
+      "sha256": "1cf4b020a2af77c6ef42b6954da997450bf5b2d1d0b0d02c1d698fee81d11991"
+    },
+    {
+      "path": "rooms/122_contact.jpg",
+      "bytes": 79963,
+      "sha256": "ca1143ec6cb7e42ae4e37cb62ccbea219b84b146a110714bbd7aad3aa5146ed1"
+    },
+    {
+      "path": "rooms/122_Projection_Lossless.mkv",
+      "bytes": 45856021,
+      "sha256": "29b663668f5a3d1092e58c3a62275f19604046d28f6a064a1ab0835897d48c66"
+    },
+    {
+      "path": "rooms/122_Prompt.txt",
+      "bytes": 1483,
+      "sha256": "cbfd7b2c48b772deeab987c0aa2b976bf07474dae1c41152447886e447271e9c"
+    },
+    {
+      "path": "rooms/122_raw.mp4",
+      "bytes": 2379594,
+      "sha256": "7fe1695a0f1b9008a26bba59f905fdb39b3cc88c5c5466933a78e40ba38a9f10"
+    },
+    {
+      "path": "rooms/122_Start.png",
+      "bytes": 1343217,
+      "sha256": "3c5da71f012f51c2105ab0d8a0de4189842b52f035497449727b82b614c13721"
+    },
+    {
+      "path": "rooms/GYM/projection_export.json",
+      "bytes": 887,
+      "sha256": "aefdaa96bbe788f9ad89d12a3d354139e6dd0415dc7a92ff584073abb736685f"
+    },
+    {
+      "path": "rooms/GYM/Projection_review.json",
+      "bytes": 2203,
+      "sha256": "11fe6a8aed0d23338362024c82c1e952f2be13385025a4ebc1ebcc4d6203ac07"
+    },
+    {
+      "path": "rooms/GYM/review.json",
+      "bytes": 2298,
+      "sha256": "fce19a0db0670e3107937fedd62d0eba792a7a0ff72c1dbe4e7a293bd0067a37"
+    },
+    {
+      "path": "rooms/GYM/workflow_api.json",
+      "bytes": 5303,
+      "sha256": "aa1dcc1a1c667d932ca34d6db41766572ddb4d853ac28d249938375b89018cfe"
+    },
+    {
+      "path": "rooms/GYM.mp4",
+      "bytes": 2418503,
+      "sha256": "ab07fdc6e60e8e464449d6e53b31dfc88b6a12170eb8a3bb7cef3e7d2837e6e4"
+    },
+    {
+      "path": "rooms/GYM_contact.jpg",
+      "bytes": 138780,
+      "sha256": "490b5111cd11f8d3c419a131b7d15be72d1a13ce4d6c431ab93e8592ecb4ff71"
+    },
+    {
+      "path": "rooms/GYM_Projection_Lossless.mkv",
+      "bytes": 84353033,
+      "sha256": "51454776469c29f72f0c6980f054dd09ab02b367dca8ac02a26d71e99f939e0a"
+    },
+    {
+      "path": "rooms/GYM_Prompt.txt",
+      "bytes": 1530,
+      "sha256": "00254302e9384abf812e2a92bc303cd6452b032f2724e6b50835c7c48701d068"
+    },
+    {
+      "path": "rooms/GYM_raw.mp4",
+      "bytes": 3617794,
+      "sha256": "391fa144c2013df75715b4d9eca86ebceb3590e201d1030654702f2db2387d0d"
+    },
+    {
+      "path": "rooms/GYM_Start.png",
+      "bytes": 1615633,
+      "sha256": "a54d42a042756f5dd86f7b68f7f55b4f74e40b34bac508c5e835e95d86c91bdd"
+    },
+    {
+      "path": "tests/h3_comfy_endpoints.jpg",
+      "bytes": 117325,
+      "sha256": "d6c3649d25ad95a9b3d6c37a23f812b93664dce2a2a93190c114cadd6d64a3ca"
+    },
+    {
+      "path": "tests/h3_comfy_endpoints.json",
+      "bytes": 1935,
+      "sha256": "1913c1bb4467e65ea34464c9cb67f18b7c3899415cc14744613797567b6e17ae"
+    },
+    {
+      "path": "tests/h3_comfy_endpoints.mp4",
+      "bytes": 520570,
+      "sha256": "4f96d25baf5464f6c0d81af2d453fec6d718a7c24a35ba5319e7e9a5fa833109"
+    },
+    {
+      "path": "tests/ltx_depth.jpg",
+      "bytes": 121400,
+      "sha256": "b290091bc3b8248d0907050fa1e3f7786a646924b901d70fed22e69e16fa3033"
+    },
+    {
+      "path": "tests/ltx_depth.json",
+      "bytes": 1983,
+      "sha256": "a7c22c97754a2e33c85faf52a60fb4f30a4fde3a4ad82b2513310e20baed4cd3"
+    },
+    {
+      "path": "tests/ltx_depth.mp4",
+      "bytes": 867990,
+      "sha256": "44bf518c5f31a358a52a1d959e209850301e7a8610e2610c0be8b6187622d1a7"
+    },
+    {
+      "path": "tests/ltx_depth_moving.jpg",
+      "bytes": 119073,
+      "sha256": "a2d699b4b44474301f73d0483593b888f6533e3ea2dc9e4ee2fc8d8d850e7b62"
+    },
+    {
+      "path": "tests/ltx_depth_moving.json",
+      "bytes": 1989,
+      "sha256": "b5f50ed85f05b383347b9706262a494a845a5b145a34e5753d806ac33bdd209b"
+    },
+    {
+      "path": "tests/ltx_depth_moving.mp4",
+      "bytes": 878928,
+      "sha256": "ec0c9308955f293d4cd3fed2b87e1b6f30f5ee1164210e78b44a75d2b417e649"
+    },
+    {
+      "path": "tests/ltx_endpoints.jpg",
+      "bytes": 117047,
+      "sha256": "359fc015780f879d75e5e76ec92687356a69441ae8a646fffd9b05d5aa427fdc"
+    },
+    {
+      "path": "tests/ltx_endpoints.json",
+      "bytes": 1956,
+      "sha256": "9d9b15d7ade6774f8220c8e0d779d568c2749345f7c2e4262bb5ce418c09355b"
+    },
+    {
+      "path": "tests/ltx_endpoints.mp4",
+      "bytes": 1159807,
+      "sha256": "ca04b0c5c47b95120db23ab5dd4d76a9d564451e4ca7784eca3a9352643ed17a"
+    },
+    {
+      "path": "visual_review.json",
+      "bytes": 3183,
+      "sha256": "51ca43cea30dad0695c62a8b4318cdca1406dd4166859fd9ea8a1b5e48c1f670"
+    }
+  ],
+  "notes": "Generation outputs are approximate visual interpretations, not geometry-certified projection calibration. Reproduction scripts expect the original local project and installed model runtimes."
+}

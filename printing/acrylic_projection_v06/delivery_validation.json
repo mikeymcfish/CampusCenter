@@ -26,14 +26,14 @@
     },
     {
       "file": "Ground_Room_References.zip",
-      "bytes": 230891594,
-      "sha256": "a20a51080dfcd4221afd09601c885dc67225d409f99b30a68ba9fedd8d466f43",
+      "bytes": 232464944,
+      "sha256": "141962e74f20d111fa34ba8f53e72d161d6d716de43c7d77f0eb17fe833cedb9",
       "zip_crc_pass": true
     },
     {
       "file": "Ground_Projection_Studio.zip",
-      "bytes": 332864799,
-      "sha256": "a4c3c2e89c72bcbaa591945105876954de37c6d6944a469bcbdd6d37200ff4ef",
+      "bytes": 360113297,
+      "sha256": "a4c2cef59c3dca95716a0aede88dc4f26143a9385b2cca793d6e6e8b617c50bb",
       "zip_crc_pass": true
     }
   ]

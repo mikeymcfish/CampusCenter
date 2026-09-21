@@ -1,0 +1,194 @@
+{
+  "119": {
+    "inputs": {
+      "vae_name": "minimax_h3_video_vae_fp16.safetensors"
+    },
+    "class_type": "VAELoader",
+    "_meta": {
+      "title": "Load VAE"
+    }
+  },
+  "120": {
+    "inputs": {
+      "vae_name": "minimax_h3_audio_vae_fp32.safetensors"
+    },
+    "class_type": "VAELoader",
+    "_meta": {
+      "title": "Load VAE"
+    }
+  },
+  "121": {
+    "inputs": {
+      "samples": [
+        "125",
+        0
+      ],
+      "vae": [
+        "120",
+        0
+      ]
+    },
+    "class_type": "VAEDecodeAudio",
+    "_meta": {
+      "title": "VAE Decode Audio"
+    }
+  },
+  "122": {
+    "inputs": {
+      "samples": [
+        "125",
+        0
+      ],
+      "vae": [
+        "119",
+        0
+      ]
+    },
+    "class_type": "VAEDecode",
+    "_meta": {
+      "title": "VAE Decode"
+    }
+  },
+  "123": {
+    "inputs": {
+      "sampler_name": "euler"
+    },
+    "class_type": "KSamplerSelect",
+    "_meta": {
+      "title": "KSamplerSelect"
+    }
+  },
+  "124": {
+    "inputs": {
+      "scheduler": "simple",
+      "steps": 20,
+      "denoise": 1.0,
+      "model": [
+        "127",
+        0
+      ]
+    },
+    "class_type": "BasicScheduler",
+    "_meta": {
+      "title": "BasicScheduler"
+    }
+  },
+  "125": {
+    "inputs": {
+      "noise": [
+        "129",
+        0
+      ],
+      "guider": [
+        "126",
+        0
+      ],
+      "sampler": [
+        "123",
+        0
+      ],
+      "sigmas": [
+        "124",
+        0
+      ],
+      "latent_image": [
+        "153",
+        1
+      ]
+    },
+    "class_type": "SamplerCustomAdvanced",
+    "_meta": {
+      "title": "SamplerCustomAdvanced"
+    }
+  },
+  "126": {
+    "inputs": {
+      "model": [
+        "127",
+        0
+      ],
+      "conditioning": [
+        "153",
+        0
+      ]
+    },
+    "class_type": "BasicGuider",
+    "_meta": {
+      "title": "Basic Guider"
+    }
+  },
+  "127": {
+    "inputs": {
+      "unet_name": "minimax_h3_fl2va_pruned_int8_convrot.safetensors",
+      "weight_dtype": "default"
+    },
+    "class_type": "UNETLoader",
+    "_meta": {
+      "title": "Load Diffusion Model"
+    }
+  },
+  "128": {
+    "inputs": {
+      "clip_name": "qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
+      "type": "minimax",
+      "device": "default"
+    },
+    "class_type": "CLIPLoader",
+    "_meta": {
+      "title": "Load CLIP"
+    }
+  },
+  "129": {
+    "inputs": {
+      "noise_seed": 42621
+    },
+    "class_type": "RandomNoise",
+    "_meta": {
+      "title": "RandomNoise"
+    }
+  },
+  "149": {
+    "inputs": {
+      "fps": 24.0,
+      "preset": "H.264 (compatible)",
+      "filename_prefix": "retry/Room_102_Single_Walker",
+      "save_output": true,
+      "save_metadata": false,
+      "fallback_on_failure": false,
+      "container": "mp4",
+      "images": [
+        "122",
+        0
+      ],
+      "audio": [
+        "121",
+        0
+      ]
+    },
+    "class_type": "CSGlideVideoCS",
+    "_meta": {
+      "title": "Glide Video"
+    }
+  },
+  "153": {
+    "inputs": {
+      "h3_data": "{\"mode\": \"fl2va\", \"width\": 768, \"height\": 768, \"length\": 294, \"pace\": 2.5, \"prompt\": \"How the reference pictures align with the target video - @first aligns with 0.00 seconds; @last aligns with 12.25 seconds.\\n\\nintegrated_multimodal_description: [Shot 1] A single completely stationary orthographic overhead view, looking vertically down on this exact commons. Preserve the opening image composition and every object location. Only the existing students animate. No new people appear. No person splits or duplicates.\\n\\nThe ONE student standing alone in the upper-middle open floor, wearing a dark shirt, blue jeans and a backpack, takes two small walking steps forward, pauses alone for several seconds, then turns and takes two steps back to the original position by the closing frame. This student stays alone: no walking partner, no companion, no second figure beside them. Keep this short walk within half a metre of the initial position and far from all chairs. The other three standing students remain in their original locations and make only small hand gestures or weight shifts. All eight seated students remain in their chairs and make subtle conversational gestures. Preserve the identity and clothing of every existing student. All twelve people stay opaque and visible throughout, separated from one another and from furniture.\\n\\nWalls, floor, furniture, plants and black margins stay at identical pixel coordinates. Constant brightness, shadows, focus, scale and orientation. No camera movement, no zoom or reframing. Nobody exits the floor outline or crosses furniture. No cuts, fading people, sudden appearances, teleportation or changing object counts. Return naturally to the supplied closing image.\\n\\noverall_soundscape: N/A\\n\\nnon_diegetic_music: N/A\", \"slots\": {\"first\": {\"file\": \"r12_experiments/r12_room_102_start.png\"}, \"last\": {\"file\": \"r12_experiments/r12_room_102_start.png\"}, \"images\": [{}, {}, {}, {}, {}, {}, {}, {}, {}], \"videos\": [{}, {}, {}], \"audios\": [{}, {}, {}]}, \"cont\": {}}",
+      "clip": [
+        "128",
+        0
+      ],
+      "vae": [
+        "119",
+        0
+      ],
+      "audio_vae": [
+        "120",
+        0
+      ]
+    },
+    "class_type": "CSGlideCastCS",
+    "_meta": {
+      "title": "H3 Studio"
+    }
+  }
+}

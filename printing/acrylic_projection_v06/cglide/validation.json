@@ -1,0 +1,19 @@
+{
+  "installed_parser": "T:/AI/Comfy2601/ComfyUI/ComfyUI_windows_portable/ComfyUI/custom_nodes/ComfyUI-CGlide/web/csglide_cast.js",
+  "parser_sha256": "aebf0cbbb04180627507548dad7fd07be10df906113c7033f67ec16600fa031e",
+  "package_count": 32,
+  "states_round_tripped": 62,
+  "image_assignments_verified": 62,
+  "all_assets_byte_identical": true,
+  "zip_read_by_installed_CGlide_code": true,
+  "reference_tag_compilation_verified": true,
+  "output_frames": 294,
+  "output_seconds": 12.25,
+  "output_resolution": [
+    768,
+    768
+  ],
+  "encoding": "ASCII prompt text in UTF-8 JSON",
+  "live_UI_import_performed": false,
+  "generation_submitted": false
+}

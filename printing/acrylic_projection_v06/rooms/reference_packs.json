@@ -2,7 +2,7 @@
   {
     "room": "129",
     "count": 2,
-    "prompt_chars": 2825,
+    "prompt_chars": 2461,
     "references": [
       {
         "file": "Topdown_Black.png",
@@ -19,7 +19,7 @@
   {
     "room": "127",
     "count": 2,
-    "prompt_chars": 2822,
+    "prompt_chars": 2461,
     "references": [
       {
         "file": "Topdown_Black.png",
@@ -36,7 +36,7 @@
   {
     "room": "128",
     "count": 2,
-    "prompt_chars": 2729,
+    "prompt_chars": 2367,
     "references": [
       {
         "file": "Topdown_Black.png",
@@ -53,7 +53,7 @@
   {
     "room": "125",
     "count": 2,
-    "prompt_chars": 2823,
+    "prompt_chars": 2461,
     "references": [
       {
         "file": "Topdown_Black.png",
@@ -70,7 +70,7 @@
   {
     "room": "126",
     "count": 2,
-    "prompt_chars": 2823,
+    "prompt_chars": 2461,
     "references": [
       {
         "file": "Topdown_Black.png",
@@ -87,7 +87,7 @@
   {
     "room": "124",
     "count": 2,
-    "prompt_chars": 2823,
+    "prompt_chars": 2461,
     "references": [
       {
         "file": "Topdown_Black.png",
@@ -104,7 +104,7 @@
   {
     "room": "130",
     "count": 3,
-    "prompt_chars": 3318,
+    "prompt_chars": 2706,
     "references": [
       {
         "file": "Topdown_Black.png",
@@ -126,7 +126,7 @@
   {
     "room": "123",
     "count": 3,
-    "prompt_chars": 3332,
+    "prompt_chars": 2706,
     "references": [
       {
         "file": "Topdown_Black.png",
@@ -148,7 +148,7 @@
   {
     "room": "122",
     "count": 3,
-    "prompt_chars": 3233,
+    "prompt_chars": 2658,
     "references": [
       {
         "file": "Topdown_Black.png",
@@ -170,7 +170,7 @@
   {
     "room": "121",
     "count": 3,
-    "prompt_chars": 3233,
+    "prompt_chars": 2658,
     "references": [
       {
         "file": "Topdown_Black.png",
@@ -192,7 +192,7 @@
   {
     "room": "119",
     "count": 2,
-    "prompt_chars": 2730,
+    "prompt_chars": 2367,
     "references": [
       {
         "file": "Topdown_Black.png",
@@ -209,7 +209,7 @@
   {
     "room": "118",
     "count": 2,
-    "prompt_chars": 2720,
+    "prompt_chars": 2367,
     "references": [
       {
         "file": "Topdown_Black.png",
@@ -226,7 +226,7 @@
   {
     "room": "120",
     "count": 2,
-    "prompt_chars": 2730,
+    "prompt_chars": 2367,
     "references": [
       {
         "file": "Topdown_Black.png",
@@ -243,7 +243,7 @@
   {
     "room": "117",
     "count": 3,
-    "prompt_chars": 3233,
+    "prompt_chars": 2658,
     "references": [
       {
         "file": "Topdown_Black.png",
@@ -265,7 +265,7 @@
   {
     "room": "116",
     "count": 3,
-    "prompt_chars": 3235,
+    "prompt_chars": 2658,
     "references": [
       {
         "file": "Topdown_Black.png",
@@ -287,7 +287,7 @@
   {
     "room": "115",
     "count": 3,
-    "prompt_chars": 3318,
+    "prompt_chars": 2706,
     "references": [
       {
         "file": "Topdown_Black.png",
@@ -309,7 +309,7 @@
   {
     "room": "114",
     "count": 3,
-    "prompt_chars": 3319,
+    "prompt_chars": 2706,
     "references": [
       {
         "file": "Topdown_Black.png",
@@ -331,7 +331,7 @@
   {
     "room": "GYM",
     "count": 2,
-    "prompt_chars": 2785,
+    "prompt_chars": 2519,
     "references": [
       {
         "file": "Topdown_Black.png",
@@ -348,7 +348,7 @@
   {
     "room": "113",
     "count": 3,
-    "prompt_chars": 3296,
+    "prompt_chars": 2551,
     "references": [
       {
         "file": "Topdown_Black.png",
@@ -370,7 +370,7 @@
   {
     "room": "112",
     "count": 3,
-    "prompt_chars": 3294,
+    "prompt_chars": 2551,
     "references": [
       {
         "file": "Topdown_Black.png",
@@ -392,7 +392,7 @@
   {
     "room": "111",
     "count": 3,
-    "prompt_chars": 3376,
+    "prompt_chars": 2643,
     "references": [
       {
         "file": "Topdown_Black.png",
@@ -414,7 +414,7 @@
   {
     "room": "109",
     "count": 2,
-    "prompt_chars": 2732,
+    "prompt_chars": 2367,
     "references": [
       {
         "file": "Topdown_Black.png",
@@ -431,7 +431,7 @@
   {
     "room": "108",
     "count": 9,
-    "prompt_chars": 6207,
+    "prompt_chars": 3716,
     "references": [
       {
         "file": "Topdown_Black.png",
@@ -483,7 +483,7 @@
   {
     "room": "110",
     "count": 3,
-    "prompt_chars": 3379,
+    "prompt_chars": 2644,
     "references": [
       {
         "file": "Topdown_Black.png",
@@ -505,7 +505,7 @@
   {
     "room": "106",
     "count": 3,
-    "prompt_chars": 3415,
+    "prompt_chars": 2663,
     "references": [
       {
         "file": "Topdown_Black.png",
@@ -527,7 +527,7 @@
   {
     "room": "102",
     "count": 3,
-    "prompt_chars": 3385,
+    "prompt_chars": 2663,
     "references": [
       {
         "file": "Topdown_Black.png",
@@ -549,7 +549,7 @@
   {
     "room": "101",
     "count": 4,
-    "prompt_chars": 3940,
+    "prompt_chars": 2842,
     "references": [
       {
         "file": "Topdown_Black.png",
@@ -576,7 +576,7 @@
   {
     "room": "103",
     "count": 3,
-    "prompt_chars": 3379,
+    "prompt_chars": 2643,
     "references": [
       {
         "file": "Topdown_Black.png",
@@ -598,7 +598,7 @@
   {
     "room": "104",
     "count": 3,
-    "prompt_chars": 3387,
+    "prompt_chars": 2643,
     "references": [
       {
         "file": "Topdown_Black.png",
@@ -620,7 +620,7 @@
   {
     "room": "105",
     "count": 3,
-    "prompt_chars": 3403,
+    "prompt_chars": 2663,
     "references": [
       {
         "file": "Topdown_Black.png",
@@ -642,7 +642,7 @@
   {
     "room": "100",
     "count": 3,
-    "prompt_chars": 3364,
+    "prompt_chars": 2644,
     "references": [
       {
         "file": "Topdown_Black.png",

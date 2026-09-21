@@ -1,0 +1,11 @@
+How the reference pictures align with the target video - Picture 1 aligns with 0.00 seconds; Picture 2 aligns with 12.25 seconds.
+
+integrated_multimodal_description: [Shot 1] A single completely stationary orthographic overhead view, looking vertically down on this exact commons. Preserve the opening image composition and every object location. Only the existing students animate. No new people appear. No person splits or duplicates.
+
+The ONE student standing alone in the upper-middle open floor, wearing a dark shirt, blue jeans and a backpack, takes two small walking steps forward, pauses alone for several seconds, then turns and takes two steps back to the original position by the closing frame. This student stays alone: no walking partner, no companion, no second figure beside them. Keep this short walk within half a metre of the initial position and far from all chairs. The other three standing students remain in their original locations and make only small hand gestures or weight shifts. All eight seated students remain in their chairs and make subtle conversational gestures. Preserve the identity and clothing of every existing student. All twelve people stay opaque and visible throughout, separated from one another and from furniture.
+
+Walls, floor, furniture, plants and black margins stay at identical pixel coordinates. Constant brightness, shadows, focus, scale and orientation. No camera movement, no zoom or reframing. Nobody exits the floor outline or crosses furniture. No cuts, fading people, sudden appearances, teleportation or changing object counts. Return naturally to the supplied closing image.
+
+overall_soundscape: N/A
+
+non_diegetic_music: N/A

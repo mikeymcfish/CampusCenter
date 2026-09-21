@@ -1,0 +1,348 @@
+{
+  "room_count": 31,
+  "endpoint_count": 62,
+  "image_decode_pass": true,
+  "rooms": [
+    {
+      "room": "129",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "endpoint_sha256": "5f8a26d7e504791bbaf14fdb947fc55026cfb3342ff24c62d7e9a95109610f7b",
+      "first_equals_last": true,
+      "span_m": 8.1561279296875,
+      "shoulder_target_px": 67.64974811045424
+    },
+    {
+      "room": "127",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "endpoint_sha256": "912f0823f4917f601e909ea27cd5f8ce110cda13e935c79fe00fece4c413aa1b",
+      "first_equals_last": true,
+      "span_m": 4.8936767578125,
+      "shoulder_target_px": 112.74958018409039
+    },
+    {
+      "room": "128",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "endpoint_sha256": "9105d9d5e365321d920078ce2c14e071e02ddf749ecca0cb8fab8d281c63d31f",
+      "first_equals_last": true,
+      "span_m": 3.6170654296874996,
+      "shoulder_target_px": 152.5435496608282
+    },
+    {
+      "room": "125",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "endpoint_sha256": "e7ecfd985f2dc6f245b3a23ab661988d98c9020e2553060a521922e68b069023",
+      "first_equals_last": true,
+      "span_m": 6.06390380859375,
+      "shoulder_target_px": 90.9908892713712
+    },
+    {
+      "room": "126",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "endpoint_sha256": "207e7a8f6b5a997ec856589e038ebf35f4db5e3c6745b8f661403017f48b6bb7",
+      "first_equals_last": true,
+      "span_m": 4.1844482421875,
+      "shoulder_target_px": 131.85967852037692
+    },
+    {
+      "room": "124",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "endpoint_sha256": "82d1350ecbbd1f0b7cedad928db2edbbb4600a75372cd966154e37ad0a3f268d",
+      "first_equals_last": true,
+      "span_m": 4.1844482421875,
+      "shoulder_target_px": 131.85967852037692
+    },
+    {
+      "room": "130",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "endpoint_sha256": "59f72f017f2b8e9b5ad881a66ced284c9cdcd8ea3e4f9ce0100889e29d03771f",
+      "first_equals_last": true,
+      "span_m": 17.163330078125,
+      "shoulder_target_px": 32.14760757314974
+    },
+    {
+      "room": "123",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "endpoint_sha256": "aa1fa5c6ec39240c9f4c1ea280bccd4904f230f2ff06303fc00c2c74e747721e",
+      "first_equals_last": true,
+      "span_m": 26.34783935546875,
+      "shoulder_target_px": 20.94137559273819
+    },
+    {
+      "room": "122",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "endpoint_sha256": "15ab3f34e4b7f5287a37d61dc5c20d73b40b492b793e4f467d9a833b165ff7a7",
+      "first_equals_last": true,
+      "span_m": 12.056884765625,
+      "shoulder_target_px": 45.76306489824846
+    },
+    {
+      "room": "121",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "endpoint_sha256": "f97f47c4674b84c3647c50823ac8091e98af2a26c1382e72b37ff7f5b96a7eaa",
+      "first_equals_last": true,
+      "span_m": 12.056884765625,
+      "shoulder_target_px": 45.76306489824846
+    },
+    {
+      "room": "119",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "endpoint_sha256": "a4ee1a120efc28623e5ad82d65ea9f8474932eb3ce847c1f7757acc9bde22abf",
+      "first_equals_last": true,
+      "span_m": 5.56744384765625,
+      "shoulder_target_px": 99.1047265312387
+    },
+    {
+      "room": "118",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "endpoint_sha256": "2ab6f1499858546515a1581750cfa8866b7cb6ed0f3847d17b44714e87f84754",
+      "first_equals_last": true,
+      "span_m": 3.01422119140625,
+      "shoulder_target_px": 183.05225959299383
+    },
+    {
+      "room": "120",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "endpoint_sha256": "8b6ef2384e689ea430393819b28c5080509983e16eaaebc7dbf23786fc91dd3b",
+      "first_equals_last": true,
+      "span_m": 5.35467529296875,
+      "shoulder_target_px": 103.04266268479785
+    },
+    {
+      "room": "117",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "endpoint_sha256": "df11317c3791bde232d7e535f8310ba7f1d93f2824e0e9e0e1a6f083eb0d8a3d",
+      "first_equals_last": true,
+      "span_m": 6.48944091796875,
+      "shoulder_target_px": 85.02427358144521
+    },
+    {
+      "room": "116",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "endpoint_sha256": "7072a913735e4bfb6025ae9ba10c1ceca962e00a9eb06691ed5dcc22d3143704",
+      "first_equals_last": true,
+      "span_m": 6.48944091796875,
+      "shoulder_target_px": 85.02427358144521
+    },
+    {
+      "room": "115",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "endpoint_sha256": "9d3be60fa0840147622d14395fbc09f97d920f9240bab0c2de475f13a045b202",
+      "first_equals_last": true,
+      "span_m": 11.73773193359375,
+      "shoulder_target_px": 47.00737784110113
+    },
+    {
+      "room": "114",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "endpoint_sha256": "841f8e978dc492e99efdf6b25e2e1d33f60592828d5b0c4172e49bb8e49faaf2",
+      "first_equals_last": true,
+      "span_m": 7.198669433593749,
+      "shoulder_target_px": 76.64749785913536
+    },
+    {
+      "room": "GYM",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "endpoint_sha256": "a0f2d03b13b14c5f6f7c7bf7116c6a8bbb6a30183fe8b3323ed795bb1af20667",
+      "first_equals_last": true,
+      "span_m": 31.064208984374996,
+      "shoulder_target_px": 17.761920165986844
+    },
+    {
+      "room": "113",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "endpoint_sha256": "b98f91194601ca561332bad274ed07e6cbdab5435d3c69efb129a2c0268a1ad5",
+      "first_equals_last": true,
+      "span_m": 7.695129394531249,
+      "shoulder_target_px": 71.70249799725565
+    },
+    {
+      "room": "112",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "endpoint_sha256": "923f77f2c3fd419eda2ed593334b79042f9ad5c9ef2a97f0cb6d3569186d3b57",
+      "first_equals_last": true,
+      "span_m": 7.695129394531249,
+      "shoulder_target_px": 71.70249799725565
+    },
+    {
+      "room": "111",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "endpoint_sha256": "5c6f550c585099e39df495d2763bfe5fbca74baf0a9ca188cdccd0d1786ff166",
+      "first_equals_last": true,
+      "span_m": 4.00714111328125,
+      "shoulder_target_px": 137.6941775699511
+    },
+    {
+      "room": "109",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "endpoint_sha256": "2797352acdffc8764f12b72bd6c687d07be102bbc23100b11d6b32998e5e6e04",
+      "first_equals_last": true,
+      "span_m": 3.9716796874999996,
+      "shoulder_target_px": 138.92358986968281
+    },
+    {
+      "room": "108",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "endpoint_sha256": "35c11b1302c77532254bd8563512a4c63a9148f8e4ece61a4b750fe53ffd8c02",
+      "first_equals_last": true,
+      "span_m": 11.8441162109375,
+      "shoulder_target_px": 46.58515588444453
+    },
+    {
+      "room": "110",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "endpoint_sha256": "68e3212846518b87a79f04ffbc43dbc519eb25e94432fdddb14f9a66e18c8175",
+      "first_equals_last": true,
+      "span_m": 16.73779296875,
+      "shoulder_target_px": 32.96491963009423
+    },
+    {
+      "room": "106",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "endpoint_sha256": "3ceb0a5f4fec71f6c4051435ac9ce68433442379c800a7ae5563df22456d2b6c",
+      "first_equals_last": true,
+      "span_m": 28.404602050781246,
+      "shoulder_target_px": 19.42502130512419
+    },
+    {
+      "room": "102",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "endpoint_sha256": "28cb9d8d610227149d10e339c11dc26966917b3b97ec7628480207e7cf9ac9c2",
+      "first_equals_last": true,
+      "span_m": 16.9505615234375,
+      "shoulder_target_px": 32.55113402804283
+    },
+    {
+      "room": "101",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "endpoint_sha256": "4b48defb5fab553bd6d47314bcc26e33a4b4bc3e2f183a6320e67c59fbdaebb4",
+      "first_equals_last": true,
+      "span_m": 6.1702880859375,
+      "shoulder_target_px": 89.4220808356579
+    },
+    {
+      "room": "103",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "endpoint_sha256": "99ab2fbafec0dddac879d2e69e8f87efe37294ed725a6858969f4700a6163394",
+      "first_equals_last": true,
+      "span_m": 5.248291015625,
+      "shoulder_target_px": 105.13136530678699
+    },
+    {
+      "room": "104",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "endpoint_sha256": "3cb1fd8cdfe8650c9a4971439cf5d2305c90b2dc54f51e4b9ae21b3b03ffb2e7",
+      "first_equals_last": true,
+      "span_m": 4.8936767578125,
+      "shoulder_target_px": 112.74958018409039
+    },
+    {
+      "room": "105",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "endpoint_sha256": "b081375de6696d69db569baf3f7e27f5ef34c754c7a6502d77696b0efe413371",
+      "first_equals_last": true,
+      "span_m": 12.340576171875,
+      "shoulder_target_px": 44.71104041782895
+    },
+    {
+      "room": "100",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "endpoint_sha256": "a0a4f273a73325c14ae41584fd373a7d14ae74ab1d1979735bdc5ac0accb9689",
+      "first_equals_last": true,
+      "span_m": 5.49652099609375,
+      "shoulder_target_px": 100.3834971961579
+    }
+  ]
+}

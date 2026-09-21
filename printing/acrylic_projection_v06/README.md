@@ -33,3 +33,30 @@ For regeneration, the r07 update script applies after original room/player gener
 ## r08 print correction
 
 The innovation-lab patio is open at its free edges. Its platform and adjacent building walls are preserved. Both three-row gym bleacher banks are removed. All six print tiles remain single connected, watertight solids, with no elevated downward-facing faces. The scale, assembly registration, 40 acrylic pane dimensions and 1.85 mm slots remain unchanged. Updated masks, previews and projection videos match this geometry. The full architectural Blender source remains unchanged.
+
+## CGlide packages and text encoding
+
+Revision 11 - overhead first-frame image-to-video
+Import with H3 Studio > Project > Open. Reopen the downloaded project to
+replace previously loaded shots; opening the web page does not update them.
+CGlide mode: FL2VA with FIRST populated and LAST empty (image-to-video).
+Required installed diffusion model: minimax_h3_fl2va_pruned_int8_convrot.safetensors
+Video VAE: minimax_h3_video_vae_fp16.safetensors
+Audio VAE: minimax_h3_audio_vae_fp32.safetensors
+Select the FL2VA diffusion model in the ComfyUI workflow yourself; project
+imports do not change the external model loader. Do not use the Ref2VA model.
+Only the exact overhead opening image is embedded. Appearance/product
+references have been removed from conditioning; their details are in prose.
+768 x 768, 24 fps, 294 frames / 12.25 seconds. Do not enable Carry/Chain.
+Static camera requested; first-frame conditioning does not guarantee a fixed
+camera throughout or a seamless loop. No generation was submitted or tested.
+Existing people in the opening image provide the best motion starting point;
+additional requested people may emerge gradually if absent in the image.
+Masks are post-generation files, not conditioning inputs. Masking does not
+correct internal camera drift. Inspect results before using for projection.
+Prompt source: manual official-format rewrite.
+
+
+## Revision 12: tested room video loops
+
+[Five-room playback and comparison](experiments_r12/index.html), [delivery notes](experiments_r12/DELIVERY_README.md), and [complete ZIP](experiments_r12/Campus_Projection_R12.zip). Includes iLab, commons, both locker rooms and gym; matching first/last images, actual Blender depth tests, masked lossless masters and CGlide projects.

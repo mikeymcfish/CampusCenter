@@ -1,0 +1,130 @@
+[
+  {
+    "trial": "ltx_endpoints",
+    "seconds": 4.375,
+    "max_translation_px": 25.459191534995657,
+    "max_scale_change_pct": 7.035288831313924,
+    "people_regions": [
+      {
+        "center": [
+          126,
+          152
+        ],
+        "90pct_flow_per_quarter_second_mean_px": 1.5116925154100447,
+        "peak_px": 9.604549407958984
+      },
+      {
+        "center": [
+          220,
+          218
+        ],
+        "90pct_flow_per_quarter_second_mean_px": 0.6605196711333359,
+        "peak_px": 3.8822011947631836
+      },
+      {
+        "center": [
+          90,
+          352
+        ],
+        "90pct_flow_per_quarter_second_mean_px": 1.554269731263904,
+        "peak_px": 9.721444129943848
+      }
+    ]
+  },
+  {
+    "trial": "ltx_depth",
+    "seconds": 4.375,
+    "max_translation_px": 0.041168642761491236,
+    "max_scale_change_pct": 0.00611807899693062,
+    "people_regions": [
+      {
+        "center": [
+          126,
+          152
+        ],
+        "90pct_flow_per_quarter_second_mean_px": 0.060741986641112494,
+        "peak_px": 0.095278799533844
+      },
+      {
+        "center": [
+          220,
+          218
+        ],
+        "90pct_flow_per_quarter_second_mean_px": 0.06381676236496252,
+        "peak_px": 0.16547244787216187
+      },
+      {
+        "center": [
+          90,
+          352
+        ],
+        "90pct_flow_per_quarter_second_mean_px": 0.048998606446034765,
+        "peak_px": 0.09615088999271393
+      }
+    ]
+  },
+  {
+    "trial": "h3_comfy_endpoints",
+    "seconds": 4.416666666666667,
+    "max_translation_px": 0.14454953201952542,
+    "max_scale_change_pct": 0.03971829298496932,
+    "people_regions": [
+      {
+        "center": [
+          126,
+          152
+        ],
+        "90pct_flow_per_quarter_second_mean_px": 5.3456112510141205,
+        "peak_px": 19.18192481994629
+      },
+      {
+        "center": [
+          220,
+          218
+        ],
+        "90pct_flow_per_quarter_second_mean_px": 8.518826462766704,
+        "peak_px": 28.019075393676758
+      },
+      {
+        "center": [
+          90,
+          352
+        ],
+        "90pct_flow_per_quarter_second_mean_px": 7.325520278995528,
+        "peak_px": 41.453853607177734
+      }
+    ]
+  },
+  {
+    "trial": "ltx_depth_moving",
+    "seconds": 4.375,
+    "max_translation_px": 0.053674386380940985,
+    "max_scale_change_pct": 0.016795740231567713,
+    "people_regions": [
+      {
+        "center": [
+          126,
+          152
+        ],
+        "90pct_flow_per_quarter_second_mean_px": 0.06264813003294609,
+        "peak_px": 0.08434602618217468
+      },
+      {
+        "center": [
+          220,
+          218
+        ],
+        "90pct_flow_per_quarter_second_mean_px": 2.592444121837616,
+        "peak_px": 5.614923000335693
+      },
+      {
+        "center": [
+          90,
+          352
+        ],
+        "90pct_flow_per_quarter_second_mean_px": 0.06025926199029474,
+        "peak_px": 0.10780581831932068
+      }
+    ]
+  }
+]

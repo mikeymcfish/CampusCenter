@@ -1,0 +1,107 @@
+{
+  "complete": true,
+  "rooms": [
+    {
+      "room": "108",
+      "frames": 294,
+      "seconds": 12.25,
+      "sampled_max_translation_px": 0.16725846390106253,
+      "visual_review": {
+        "reviewed": true,
+        "artifacts": [
+          "final/108/Contact_Sheet.jpg",
+          "final/108/Projection_Contact_Sheet.jpg"
+        ],
+        "observations": "Eight samples across the 12.25-second clip show two students circulating around the benches and subtle activity at the right-hand worktables. Architecture and furniture retain their screen positions. Original-mask application did not visibly clip people in the inspected samples.",
+        "limitations": "Sampled visual review and full-frame decode checks do not guarantee exact human gait or pixel-exact CAD alignment."
+      },
+      "masked_all_frames_decoded": true
+    },
+    {
+      "room": "102",
+      "frames": 294,
+      "seconds": 12.25,
+      "sampled_max_translation_px": 0.037453493960168525,
+      "visual_review": {
+        "reviewed": true,
+        "artifacts": [
+          "retry/102_single/Contact_Sheet.jpg",
+          "retry/102_single/Projection_Contact_Sheet.jpg",
+          "retry/102_single/Walker_Closeup.jpg",
+          "commons_continuity_check.json"
+        ],
+        "observations": "Third attempt selected. One central student takes a short walk and returns; the other students make small gestures. No duplicate, fade or boundary crossing visible in sampled full-room and closeup frames. An all-frame dark-component diagnostic flagged early frames 21-33, but the closeup at frame 24 shows a single person with separated legs, not another figure. Camera and furnishings remain fixed.",
+        "limitations": "Focused diagnostic is not a general person detector. Sampled visual review does not guarantee flawless gait or pixel-exact physical alignment."
+      },
+      "masked_all_frames_decoded": true
+    },
+    {
+      "room": "121",
+      "frames": 294,
+      "seconds": 12.25,
+      "sampled_max_translation_px": 0.1311963290102461,
+      "visual_review": {
+        "reviewed": true,
+        "artifacts": [
+          "final/121/Contact_Sheet.jpg",
+          "final/121/Projection_Contact_Sheet.jpg"
+        ],
+        "observations": "Eight samples show two fully clothed students walking in clear aisles around locker banks, four remaining beside lockers with small gestures. No disappearing person or boundary crossing was visible in these samples; locker geometry and framing remain stable.",
+        "limitations": "Sampled review, not a guarantee of flawless human motion or pixel-exact physical alignment."
+      },
+      "masked_all_frames_decoded": true
+    },
+    {
+      "room": "122",
+      "frames": 294,
+      "seconds": 12.25,
+      "sampled_max_translation_px": 0.24821059292510492,
+      "visual_review": {
+        "reviewed": true,
+        "artifacts": [
+          "final/122/Contact_Sheet.jpg",
+          "final/122/Projection_Contact_Sheet.jpg"
+        ],
+        "observations": "Eight samples show six fully clothed students, two moving in the upper and right aisles and four gesturing beside the locker banks. No obvious duplication, fading or boundary crossing in the samples. Room geometry remains fixed. Masked final frame matches opening frame exactly.",
+        "limitations": "Sampled visual review; not a guarantee of flawless gait or exact physical projector calibration."
+      },
+      "masked_all_frames_decoded": true
+    },
+    {
+      "room": "GYM",
+      "frames": 294,
+      "seconds": 12.25,
+      "sampled_max_translation_px": 0.09124314639135948,
+      "visual_review": {
+        "reviewed": true,
+        "artifacts": [
+          "final/GYM/Contact_Sheet.jpg",
+          "final/GYM/Projection_Contact_Sheet.jpg"
+        ],
+        "observations": "Eight samples show ten students making small court movements and one teacher gesturing. Court lines and framing remain fixed; no bleachers appear. The single orange basketball remains with its original holder in the samples. No visible duplication, fading or boundary crossing. Masked first and last frames are identical.",
+        "limitations": "Sampled visual review; subtle generated body motion is not guaranteed physically exact."
+      },
+      "masked_all_frames_decoded": true
+    }
+  ],
+  "comparison_methods": 4,
+  "selected": "H3 FL2VA, identical first and last images",
+  "blender_depth_rooms": [
+    "108",
+    "102",
+    "121",
+    "122",
+    "GYM"
+  ],
+  "blender_source_unchanged_sha256": "8e391385b6428cc3378c299a2de619301fdcf34ab8fcf1bb7ac9258984e4faf6",
+  "cglide_parser_validation": {
+    "packages": 6,
+    "states": 10,
+    "endpoint_assignments": 20,
+    "installed_parser": "T:/AI/Comfy2601/ComfyUI/ComfyUI_windows_portable/ComfyUI/custom_nodes/ComfyUI-CGlide/web/csglide_cast.js",
+    "roundtrip_pass": true,
+    "matches_generation_workflows_and_images": true,
+    "semantic_images": 0
+  },
+  "limitations": "No guarantee of physical projector calibration, exact CAD geometry in generated images, or flawless human motion."
+}

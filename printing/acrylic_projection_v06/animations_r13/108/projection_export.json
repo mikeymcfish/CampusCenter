@@ -1,0 +1,30 @@
+{
+  "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\video_animations_r13\\comfy_outputs\\r13\\Room_108_00001.mp4",
+  "frames": 294,
+  "fps": 24.0,
+  "fixed_background": true,
+  "background_max_pixel_change": 0,
+  "activity_regions": [
+    [
+      359,
+      281,
+      35,
+      38
+    ],
+    [
+      510,
+      576,
+      43,
+      43
+    ],
+    [
+      660,
+      254,
+      27,
+      25
+    ]
+  ],
+  "alignment_failures": 0,
+  "method": "Affine registration, feathered activity areas, local illumination correction, six-frame opening/closing blend, original room mask. Raw generation preserved separately.",
+  "limitations": "Motion is confined to small activity areas; local AI anatomy and props may still vary."
+}

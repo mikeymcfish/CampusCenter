@@ -1,0 +1,537 @@
+{
+  "room_count": 31,
+  "packages": [
+    {
+      "room": "100",
+      "name": "ENTRY VESTIBULE",
+      "package": "Room_100_ENTRY_VESTIBULE.h3proj.zip",
+      "refs": [
+        {
+          "slot": "first",
+          "title": "Exact overhead layout and room mask",
+          "role": "Exact opening frame; no semantic appearance references",
+          "asset": "r100_p01_Topdown_Black.png",
+          "sha256": "4d60570b05eb80685015cd83b9d4c3457bac9198d74a4bb290b1f80b7fcd2934",
+          "source": "rooms/100/Topdown_Black.png"
+        }
+      ],
+      "mask": "rooms/100/Room_Mask_1024.png",
+      "bytes": 308035
+    },
+    {
+      "room": "101",
+      "name": "CAFE",
+      "package": "Room_101_CAFE.h3proj.zip",
+      "refs": [
+        {
+          "slot": "first",
+          "title": "Exact overhead layout and room mask",
+          "role": "Exact opening frame; no semantic appearance references",
+          "asset": "r101_p01_Topdown_Black.png",
+          "sha256": "ea242e234cc728b145206e1eb8ced5d0c88b62b69c7256513c4566fb2d9f2872",
+          "source": "rooms/101/Topdown_Black.png"
+        }
+      ],
+      "mask": "rooms/101/Room_Mask_1024.png",
+      "bytes": 565491
+    },
+    {
+      "room": "102",
+      "name": "STUDENT COMMONS",
+      "package": "Room_102_STUDENT_COMMONS.h3proj.zip",
+      "refs": [
+        {
+          "slot": "first",
+          "title": "Exact overhead layout and room mask",
+          "role": "Exact opening frame; no semantic appearance references",
+          "asset": "r102_p01_Topdown_Black.png",
+          "sha256": "cf2517c30b06216338abf799847d8bdd7077c0d6df070f0fcd8c6bd604c2e191",
+          "source": "rooms/102/Topdown_Black.png"
+        }
+      ],
+      "mask": "rooms/102/Room_Mask_1024.png",
+      "bytes": 760544
+    },
+    {
+      "room": "103",
+      "name": "RECEPTION",
+      "package": "Room_103_RECEPTION.h3proj.zip",
+      "refs": [
+        {
+          "slot": "first",
+          "title": "Exact overhead layout and room mask",
+          "role": "Exact opening frame; no semantic appearance references",
+          "asset": "r103_p01_Topdown_Black.png",
+          "sha256": "bf65fa71869668766fa47825aa6542bdddb68411ff4517803372ca1fb49550ab",
+          "source": "rooms/103/Topdown_Black.png"
+        }
+      ],
+      "mask": "rooms/103/Room_Mask_1024.png",
+      "bytes": 547546
+    },
+    {
+      "room": "104",
+      "name": "ADMISSIONS OFFICE",
+      "package": "Room_104_ADMISSIONS_OFFICE.h3proj.zip",
+      "refs": [
+        {
+          "slot": "first",
+          "title": "Exact overhead layout and room mask",
+          "role": "Exact opening frame; no semantic appearance references",
+          "asset": "r104_p01_Topdown_Black.png",
+          "sha256": "69004fc0f0d04dfbdb23d6983d8f187bcdd38bb631bd24b30f4df971554af878",
+          "source": "rooms/104/Topdown_Black.png"
+        }
+      ],
+      "mask": "rooms/104/Room_Mask_1024.png",
+      "bytes": 548413
+    },
+    {
+      "room": "105",
+      "name": "CRI GALLERY",
+      "package": "Room_105_CRI_GALLERY.h3proj.zip",
+      "refs": [
+        {
+          "slot": "first",
+          "title": "Exact overhead layout and room mask",
+          "role": "Exact opening frame; no semantic appearance references",
+          "asset": "r105_p01_Topdown_Black.png",
+          "sha256": "1bae4f9959a679b3ba914ea27a9014587682c15bb4f73b51d0d192a1bf8443ea",
+          "source": "rooms/105/Topdown_Black.png"
+        }
+      ],
+      "mask": "rooms/105/Room_Mask_1024.png",
+      "bytes": 477723
+    },
+    {
+      "room": "106",
+      "name": "CORRIDOR / DISPLAY HALL",
+      "package": "Room_106_CORRIDOR_DISPLAY_HALL.h3proj.zip",
+      "refs": [
+        {
+          "slot": "first",
+          "title": "Exact overhead layout and room mask",
+          "role": "Exact opening frame; no semantic appearance references",
+          "asset": "r106_p01_Topdown_Black.png",
+          "sha256": "a82ca9b2148772b38f043098f653aca25aa31d7443d5857c5d55f2ede16136de",
+          "source": "rooms/106/Topdown_Black.png"
+        }
+      ],
+      "mask": "rooms/106/Room_Mask_1024.png",
+      "bytes": 168887
+    },
+    {
+      "room": "108",
+      "name": "INNOVATION LAB",
+      "package": "Room_108_INNOVATION_LAB.h3proj.zip",
+      "refs": [
+        {
+          "slot": "first",
+          "title": "Exact overhead layout and room mask",
+          "role": "Exact opening frame; no semantic appearance references",
+          "asset": "r108_p01_Topdown_Black.png",
+          "sha256": "3ff8793c3d9c2250e237d209fe6225d41fcdd40b24cff026da0974b45a7560e2",
+          "source": "rooms/108/Topdown_Black.png"
+        }
+      ],
+      "mask": "rooms/108/Room_Mask_1024.png",
+      "bytes": 626972
+    },
+    {
+      "room": "109",
+      "name": "STORAGE / IT / MECH",
+      "package": "Room_109_STORAGE_IT_MECH.h3proj.zip",
+      "refs": [
+        {
+          "slot": "first",
+          "title": "Exact overhead layout and room mask",
+          "role": "Exact opening frame; no semantic appearance references",
+          "asset": "r109_p01_Topdown_Black.png",
+          "sha256": "bb1a74c76130261ddcb7ecfc4fa7d5998a7af48437fcb19d91e7316e7f5c3d1f",
+          "source": "rooms/109/Topdown_Black.png"
+        }
+      ],
+      "mask": "rooms/109/Room_Mask_1024.png",
+      "bytes": 478124
+    },
+    {
+      "room": "110",
+      "name": "CORRIDOR",
+      "package": "Room_110_CORRIDOR.h3proj.zip",
+      "refs": [
+        {
+          "slot": "first",
+          "title": "Exact overhead layout and room mask",
+          "role": "Exact opening frame; no semantic appearance references",
+          "asset": "r110_p01_Topdown_Black.png",
+          "sha256": "53f2a37e54b2a3394fe7c01e3de3352c0c893de74690a4ca61ac8be0d181f614",
+          "source": "rooms/110/Topdown_Black.png"
+        }
+      ],
+      "mask": "rooms/110/Room_Mask_1024.png",
+      "bytes": 115089
+    },
+    {
+      "room": "111",
+      "name": "OFFICE",
+      "package": "Room_111_OFFICE.h3proj.zip",
+      "refs": [
+        {
+          "slot": "first",
+          "title": "Exact overhead layout and room mask",
+          "role": "Exact opening frame; no semantic appearance references",
+          "asset": "r111_p01_Topdown_Black.png",
+          "sha256": "b2c87dcdd6067eef5ff311fd1383c64a277fb5353004b4a5d07a052051d260d4",
+          "source": "rooms/111/Topdown_Black.png"
+        }
+      ],
+      "mask": "rooms/111/Room_Mask_1024.png",
+      "bytes": 495949
+    },
+    {
+      "room": "112",
+      "name": "ASPIRE CLASSROOM",
+      "package": "Room_112_ASPIRE_CLASSROOM.h3proj.zip",
+      "refs": [
+        {
+          "slot": "first",
+          "title": "Exact overhead layout and room mask",
+          "role": "Exact opening frame; no semantic appearance references",
+          "asset": "r112_p01_Topdown_Black.png",
+          "sha256": "2669f1d7185c9d6f04a7b42fb0a6c59e80e3c3bc48776e29204efad355e8ef3e",
+          "source": "rooms/112/Topdown_Black.png"
+        }
+      ],
+      "mask": "rooms/112/Room_Mask_1024.png",
+      "bytes": 513353
+    },
+    {
+      "room": "113",
+      "name": "COLLABORATION ROOM",
+      "package": "Room_113_COLLABORATION_ROOM.h3proj.zip",
+      "refs": [
+        {
+          "slot": "first",
+          "title": "Exact overhead layout and room mask",
+          "role": "Exact opening frame; no semantic appearance references",
+          "asset": "r113_p01_Topdown_Black.png",
+          "sha256": "f2f51e11577e246fa58a876eeefa5bb75b527def14fc103e24dbe1ff812d034e",
+          "source": "rooms/113/Topdown_Black.png"
+        }
+      ],
+      "mask": "rooms/113/Room_Mask_1024.png",
+      "bytes": 460738
+    },
+    {
+      "room": "114",
+      "name": "VESTIBULE",
+      "package": "Room_114_VESTIBULE.h3proj.zip",
+      "refs": [
+        {
+          "slot": "first",
+          "title": "Exact overhead layout and room mask",
+          "role": "Exact opening frame; no semantic appearance references",
+          "asset": "r114_p01_Topdown_Black.png",
+          "sha256": "75a19a876afa00e4a4850984bc7b377a54ea5c30b795735074678b2ff127f0da",
+          "source": "rooms/114/Topdown_Black.png"
+        }
+      ],
+      "mask": "rooms/114/Room_Mask_1024.png",
+      "bytes": 194937
+    },
+    {
+      "room": "115",
+      "name": "CORRIDOR",
+      "package": "Room_115_CORRIDOR.h3proj.zip",
+      "refs": [
+        {
+          "slot": "first",
+          "title": "Exact overhead layout and room mask",
+          "role": "Exact opening frame; no semantic appearance references",
+          "asset": "r115_p01_Topdown_Black.png",
+          "sha256": "78bc0e1a2a50e28c6d6d053d692e900dd3d36f266ec10756fe627a5fe683ed8c",
+          "source": "rooms/115/Topdown_Black.png"
+        }
+      ],
+      "mask": "rooms/115/Room_Mask_1024.png",
+      "bytes": 159278
+    },
+    {
+      "room": "116",
+      "name": "WOMENS TOILET",
+      "package": "Room_116_WOMENS_TOILET.h3proj.zip",
+      "refs": [
+        {
+          "slot": "first",
+          "title": "Exact overhead layout and room mask",
+          "role": "Exact opening frame; no semantic appearance references",
+          "asset": "r116_p01_Topdown_Black.png",
+          "sha256": "50e06d7cf42f8006a07875a3660fdfc63516a99ab8bfeb1cbc35035d75abab25",
+          "source": "rooms/116/Topdown_Black.png"
+        }
+      ],
+      "mask": "rooms/116/Room_Mask_1024.png",
+      "bytes": 354211
+    },
+    {
+      "room": "117",
+      "name": "MENS TOILET",
+      "package": "Room_117_MENS_TOILET.h3proj.zip",
+      "refs": [
+        {
+          "slot": "first",
+          "title": "Exact overhead layout and room mask",
+          "role": "Exact opening frame; no semantic appearance references",
+          "asset": "r117_p01_Topdown_Black.png",
+          "sha256": "bd3806c67e05b0d42412fa2803300e9e3fd9a2364af7e467ecd1c7e94b72c15b",
+          "source": "rooms/117/Topdown_Black.png"
+        }
+      ],
+      "mask": "rooms/117/Room_Mask_1024.png",
+      "bytes": 380405
+    },
+    {
+      "room": "118",
+      "name": "JANITOR",
+      "package": "Room_118_JANITOR.h3proj.zip",
+      "refs": [
+        {
+          "slot": "first",
+          "title": "Exact overhead layout and room mask",
+          "role": "Exact opening frame; no semantic appearance references",
+          "asset": "r118_p01_Topdown_Black.png",
+          "sha256": "936925e0eb4bc00ae8e5db5d4b1b9abb91f07716cc256c8550561a2d8028e549",
+          "source": "rooms/118/Topdown_Black.png"
+        }
+      ],
+      "mask": "rooms/118/Room_Mask_1024.png",
+      "bytes": 226462
+    },
+    {
+      "room": "119",
+      "name": "ATHLETICS STORAGE",
+      "package": "Room_119_ATHLETICS_STORAGE.h3proj.zip",
+      "refs": [
+        {
+          "slot": "first",
+          "title": "Exact overhead layout and room mask",
+          "role": "Exact opening frame; no semantic appearance references",
+          "asset": "r119_p01_Topdown_Black.png",
+          "sha256": "b04299288c52e7d2f004b3bae7aada2f8f4170613c0c8a3bb0a66e8bd2372af9",
+          "source": "rooms/119/Topdown_Black.png"
+        }
+      ],
+      "mask": "rooms/119/Room_Mask_1024.png",
+      "bytes": 424245
+    },
+    {
+      "room": "120",
+      "name": "MECH / ELECTRICAL",
+      "package": "Room_120_MECH_ELECTRICAL.h3proj.zip",
+      "refs": [
+        {
+          "slot": "first",
+          "title": "Exact overhead layout and room mask",
+          "role": "Exact opening frame; no semantic appearance references",
+          "asset": "r120_p01_Topdown_Black.png",
+          "sha256": "0f42a4cbf91688a0484de5799c79dfc26f3256e95de5f82717d37ea59e68c2a7",
+          "source": "rooms/120/Topdown_Black.png"
+        }
+      ],
+      "mask": "rooms/120/Room_Mask_1024.png",
+      "bytes": 393859
+    },
+    {
+      "room": "121",
+      "name": "LOCKER ROOM",
+      "package": "Room_121_LOCKER_ROOM.h3proj.zip",
+      "refs": [
+        {
+          "slot": "first",
+          "title": "Exact overhead layout and room mask",
+          "role": "Exact opening frame; no semantic appearance references",
+          "asset": "r121_p01_Topdown_Black.png",
+          "sha256": "b1d9af86e2f40562dd4036c980d5a1282a8e2daf8f087f592f1d82e058b3db7b",
+          "source": "rooms/121/Topdown_Black.png"
+        }
+      ],
+      "mask": "rooms/121/Room_Mask_1024.png",
+      "bytes": 385103
+    },
+    {
+      "room": "122",
+      "name": "LOCKER ROOM",
+      "package": "Room_122_LOCKER_ROOM.h3proj.zip",
+      "refs": [
+        {
+          "slot": "first",
+          "title": "Exact overhead layout and room mask",
+          "role": "Exact opening frame; no semantic appearance references",
+          "asset": "r122_p01_Topdown_Black.png",
+          "sha256": "cbfef3bc6d6422376e0cf0822a9ff23b792879bd90deebfd63d61d17c4a6de09",
+          "source": "rooms/122/Topdown_Black.png"
+        }
+      ],
+      "mask": "rooms/122/Room_Mask_1024.png",
+      "bytes": 386822
+    },
+    {
+      "room": "123",
+      "name": "TROPHY HALL / CORRIDOR",
+      "package": "Room_123_TROPHY_HALL_CORRIDOR.h3proj.zip",
+      "refs": [
+        {
+          "slot": "first",
+          "title": "Exact overhead layout and room mask",
+          "role": "Exact opening frame; no semantic appearance references",
+          "asset": "r123_p01_Topdown_Black.png",
+          "sha256": "061bce60f6d212ad6ee138e9f01eb5b693fdd5382e43a3caabb5541ee54b6021",
+          "source": "rooms/123/Topdown_Black.png"
+        }
+      ],
+      "mask": "rooms/123/Room_Mask_1024.png",
+      "bytes": 139916
+    },
+    {
+      "room": "124",
+      "name": "ATHLETICS OFFICE",
+      "package": "Room_124_ATHLETICS_OFFICE.h3proj.zip",
+      "refs": [
+        {
+          "slot": "first",
+          "title": "Exact overhead layout and room mask",
+          "role": "Exact opening frame; no semantic appearance references",
+          "asset": "r124_p01_Topdown_Black.png",
+          "sha256": "eecaa4dacf9c41c2403477b82e39146eba9ecc925103ca430ceced7fa6009811",
+          "source": "rooms/124/Topdown_Black.png"
+        }
+      ],
+      "mask": "rooms/124/Room_Mask_1024.png",
+      "bytes": 412850
+    },
+    {
+      "room": "125",
+      "name": "ATHLETICS OFFICE",
+      "package": "Room_125_ATHLETICS_OFFICE.h3proj.zip",
+      "refs": [
+        {
+          "slot": "first",
+          "title": "Exact overhead layout and room mask",
+          "role": "Exact opening frame; no semantic appearance references",
+          "asset": "r125_p01_Topdown_Black.png",
+          "sha256": "5341ee1587ba6edbf3a1a37d4fe7509f7f20418396f8270749994109cc082b0d",
+          "source": "rooms/125/Topdown_Black.png"
+        }
+      ],
+      "mask": "rooms/125/Room_Mask_1024.png",
+      "bytes": 420832
+    },
+    {
+      "room": "126",
+      "name": "ATHLETICS OFFICE",
+      "package": "Room_126_ATHLETICS_OFFICE.h3proj.zip",
+      "refs": [
+        {
+          "slot": "first",
+          "title": "Exact overhead layout and room mask",
+          "role": "Exact opening frame; no semantic appearance references",
+          "asset": "r126_p01_Topdown_Black.png",
+          "sha256": "0e003f38d812015c8191b4a2ac3950ea38d9cef7b496d99312f46801b625d86c",
+          "source": "rooms/126/Topdown_Black.png"
+        }
+      ],
+      "mask": "rooms/126/Room_Mask_1024.png",
+      "bytes": 415081
+    },
+    {
+      "room": "127",
+      "name": "TRAINERS OFFICE",
+      "package": "Room_127_TRAINERS_OFFICE.h3proj.zip",
+      "refs": [
+        {
+          "slot": "first",
+          "title": "Exact overhead layout and room mask",
+          "role": "Exact opening frame; no semantic appearance references",
+          "asset": "r127_p01_Topdown_Black.png",
+          "sha256": "f93ccacad356e8b14f3a7c48ee83c7dddc481a8dfb2f802ddf804414b3577103",
+          "source": "rooms/127/Topdown_Black.png"
+        }
+      ],
+      "mask": "rooms/127/Room_Mask_1024.png",
+      "bytes": 355933
+    },
+    {
+      "room": "128",
+      "name": "TRAINERS STORAGE",
+      "package": "Room_128_TRAINERS_STORAGE.h3proj.zip",
+      "refs": [
+        {
+          "slot": "first",
+          "title": "Exact overhead layout and room mask",
+          "role": "Exact opening frame; no semantic appearance references",
+          "asset": "r128_p01_Topdown_Black.png",
+          "sha256": "2d00b2f4867d2f49340562b7038117c9ab57705d827b32f0b81cb1fea80689af",
+          "source": "rooms/128/Topdown_Black.png"
+        }
+      ],
+      "mask": "rooms/128/Room_Mask_1024.png",
+      "bytes": 448214
+    },
+    {
+      "room": "129",
+      "name": "ATHLETICS TRAINERS",
+      "package": "Room_129_ATHLETICS_TRAINERS.h3proj.zip",
+      "refs": [
+        {
+          "slot": "first",
+          "title": "Exact overhead layout and room mask",
+          "role": "Exact opening frame; no semantic appearance references",
+          "asset": "r129_p01_Topdown_Black.png",
+          "sha256": "e0032f6a180c9fcf3397dccaa42924b2a3aae7daab13dab7e75925614f3465b3",
+          "source": "rooms/129/Topdown_Black.png"
+        }
+      ],
+      "mask": "rooms/129/Room_Mask_1024.png",
+      "bytes": 435066
+    },
+    {
+      "room": "130",
+      "name": "CORRIDOR",
+      "package": "Room_130_CORRIDOR.h3proj.zip",
+      "refs": [
+        {
+          "slot": "first",
+          "title": "Exact overhead layout and room mask",
+          "role": "Exact opening frame; no semantic appearance references",
+          "asset": "r130_p01_Topdown_Black.png",
+          "sha256": "b8c69149556f6656f42105762a3af9f90e056070e24f42fa7d3ad278f5821c7e",
+          "source": "rooms/130/Topdown_Black.png"
+        }
+      ],
+      "mask": "rooms/130/Room_Mask_1024.png",
+      "bytes": 178509
+    },
+    {
+      "room": "GYM",
+      "name": "EXISTING GYM",
+      "package": "Room_GYM_EXISTING_GYM.h3proj.zip",
+      "refs": [
+        {
+          "slot": "first",
+          "title": "Exact overhead layout and room mask",
+          "role": "Exact opening frame; no semantic appearance references",
+          "asset": "rGYM_p01_Topdown_Black.png",
+          "sha256": "d4207816529cbe67a5708417f072bff36fc0ebeb2fc8096b40baedd0ec8b3775",
+          "source": "rooms/GYM/Topdown_Black.png"
+        }
+      ],
+      "mask": "rooms/GYM/Room_Mask_1024.png",
+      "bytes": 596508
+    }
+  ],
+  "combined_package": "Campus_Center_Ground_Floor_All_Rooms.h3proj.zip",
+  "combined_bytes": 12318878,
+  "unique_embedded_images": 31,
+  "total_image_assignments": 31,
+  "generation_submitted": false
+}

@@ -1,0 +1,1377 @@
+{
+  "meta": {
+    "app": "H3 Studio project",
+    "version": 1,
+    "packed": true,
+    "shots": 31,
+    "saved": "2026-09-20T01:48:22.245913+00:00"
+  },
+  "name": "Campus ground floor R13 - scale corrected endpoints",
+  "idx": 0,
+  "shots": [
+    {
+      "id": "r13-room-129",
+      "name": "129 - ATHLETICS TRAINERS",
+      "off": false,
+      "state": {
+        "mode": "fl2va",
+        "width": 768,
+        "height": 768,
+        "length": 294,
+        "pace": 2.5,
+        "prompt": "How the reference pictures align with the target video - @first (from Shot 1) aligns with the 0.00-second mark of the target video; @last (from Shot 1) aligns with the 12.25-second mark of the target video.\n\nintegrated_multimodal_description: [Shot 1] A single static shot from a rigidly fixed orthographic camera looking vertically down at ATHLETICS TRAINERS. The camera is mechanically locked throughout: constant position, rotation, zoom, framing and lens. Architecture, furniture, equipment, floor edges and black margins remain at identical image coordinates. Constant indoor lighting; shadows do not sweep or change. Photographic real materials and naturally foreshortened overhead people. Preserve the exact scale of every person and object in the endpoint image. There are exactly 2 existing people. The existing occupants take a few natural short steps within clear floor space, turn gently, and return to their starting positions. They never pass through furniture or boundaries. Motion is restrained and cyclic; finish at the exact supplied last frame. No cuts, dolly, orbit, pan, tilt, zoom, camera shake, reframing, new people, new furniture or geometry changes. The black exterior stays black.\n\noverall_soundscape: N/A\n\nnon_diegetic_music: N/A\n",
+        "slots": {
+          "first": {
+            "file": "Room_129_Start.png"
+          },
+          "last": {
+            "file": "Room_129_Start.png"
+          },
+          "images": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "videos": [
+            {},
+            {},
+            {}
+          ],
+          "audios": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "cont": {},
+        "ref_image_size": "match"
+      }
+    },
+    {
+      "id": "r13-room-127",
+      "name": "127 - TRAINERS OFFICE",
+      "off": false,
+      "state": {
+        "mode": "fl2va",
+        "width": 768,
+        "height": 768,
+        "length": 294,
+        "pace": 2.5,
+        "prompt": "How the reference pictures align with the target video - @first (from Shot 1) aligns with the 0.00-second mark of the target video; @last (from Shot 1) aligns with the 12.25-second mark of the target video.\n\nintegrated_multimodal_description: [Shot 1] A single static shot from a rigidly fixed orthographic camera looking vertically down at TRAINERS OFFICE. The camera is mechanically locked throughout: constant position, rotation, zoom, framing and lens. Architecture, furniture, equipment, floor edges and black margins remain at identical image coordinates. Constant indoor lighting; shadows do not sweep or change. Photographic real materials and naturally foreshortened overhead people. Preserve the exact scale of every person and object in the endpoint image. There are exactly 1 existing people. Only the existing occupants make small natural head and hand movements; seated people stay centered on their existing chairs. Motion is restrained and cyclic; finish at the exact supplied last frame. No cuts, dolly, orbit, pan, tilt, zoom, camera shake, reframing, new people, new furniture or geometry changes. The black exterior stays black.\n\noverall_soundscape: N/A\n\nnon_diegetic_music: N/A\n",
+        "slots": {
+          "first": {
+            "file": "Room_127_Start.png"
+          },
+          "last": {
+            "file": "Room_127_Start.png"
+          },
+          "images": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "videos": [
+            {},
+            {},
+            {}
+          ],
+          "audios": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "cont": {},
+        "ref_image_size": "match"
+      }
+    },
+    {
+      "id": "r13-room-128",
+      "name": "128 - TRAINERS STORAGE",
+      "off": false,
+      "state": {
+        "mode": "fl2va",
+        "width": 768,
+        "height": 768,
+        "length": 294,
+        "pace": 2.5,
+        "prompt": "How the reference pictures align with the target video - @first (from Shot 1) aligns with the 0.00-second mark of the target video; @last (from Shot 1) aligns with the 12.25-second mark of the target video.\n\nintegrated_multimodal_description: [Shot 1] A single static shot from a rigidly fixed orthographic camera looking vertically down at TRAINERS STORAGE. The camera is mechanically locked throughout: constant position, rotation, zoom, framing and lens. Architecture, furniture, equipment, floor edges and black margins remain at identical image coordinates. Constant indoor lighting; shadows do not sweep or change. Photographic real materials and naturally foreshortened overhead people. Preserve the exact scale of every person and object in the endpoint image. There are exactly 0 existing people. This unoccupied service or storage area remains still. No people enter and no equipment moves. Motion is restrained and cyclic; finish at the exact supplied last frame. No cuts, dolly, orbit, pan, tilt, zoom, camera shake, reframing, new people, new furniture or geometry changes. The black exterior stays black.\n\noverall_soundscape: N/A\n\nnon_diegetic_music: N/A\n",
+        "slots": {
+          "first": {
+            "file": "Room_128_Start.png"
+          },
+          "last": {
+            "file": "Room_128_Start.png"
+          },
+          "images": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "videos": [
+            {},
+            {},
+            {}
+          ],
+          "audios": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "cont": {},
+        "ref_image_size": "match"
+      }
+    },
+    {
+      "id": "r13-room-125",
+      "name": "125 - ATHLETICS OFFICE",
+      "off": false,
+      "state": {
+        "mode": "fl2va",
+        "width": 768,
+        "height": 768,
+        "length": 294,
+        "pace": 2.5,
+        "prompt": "How the reference pictures align with the target video - @first (from Shot 1) aligns with the 0.00-second mark of the target video; @last (from Shot 1) aligns with the 12.25-second mark of the target video.\n\nintegrated_multimodal_description: [Shot 1] A single static shot from a rigidly fixed orthographic camera looking vertically down at ATHLETICS OFFICE. The camera is mechanically locked throughout: constant position, rotation, zoom, framing and lens. Architecture, furniture, equipment, floor edges and black margins remain at identical image coordinates. Constant indoor lighting; shadows do not sweep or change. Photographic real materials and naturally foreshortened overhead people. Preserve the exact scale of every person and object in the endpoint image. There are exactly 2 existing people. Only the existing occupants make small natural head and hand movements; seated people stay centered on their existing chairs. Motion is restrained and cyclic; finish at the exact supplied last frame. No cuts, dolly, orbit, pan, tilt, zoom, camera shake, reframing, new people, new furniture or geometry changes. The black exterior stays black.\n\noverall_soundscape: N/A\n\nnon_diegetic_music: N/A\n",
+        "slots": {
+          "first": {
+            "file": "Room_125_Start.png"
+          },
+          "last": {
+            "file": "Room_125_Start.png"
+          },
+          "images": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "videos": [
+            {},
+            {},
+            {}
+          ],
+          "audios": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "cont": {},
+        "ref_image_size": "match"
+      }
+    },
+    {
+      "id": "r13-room-126",
+      "name": "126 - ATHLETICS OFFICE",
+      "off": false,
+      "state": {
+        "mode": "fl2va",
+        "width": 768,
+        "height": 768,
+        "length": 294,
+        "pace": 2.5,
+        "prompt": "How the reference pictures align with the target video - @first (from Shot 1) aligns with the 0.00-second mark of the target video; @last (from Shot 1) aligns with the 12.25-second mark of the target video.\n\nintegrated_multimodal_description: [Shot 1] A single static shot from a rigidly fixed orthographic camera looking vertically down at ATHLETICS OFFICE. The camera is mechanically locked throughout: constant position, rotation, zoom, framing and lens. Architecture, furniture, equipment, floor edges and black margins remain at identical image coordinates. Constant indoor lighting; shadows do not sweep or change. Photographic real materials and naturally foreshortened overhead people. Preserve the exact scale of every person and object in the endpoint image. There are exactly 1 existing people. Only the existing occupants make small natural head and hand movements; seated people stay centered on their existing chairs. Motion is restrained and cyclic; finish at the exact supplied last frame. No cuts, dolly, orbit, pan, tilt, zoom, camera shake, reframing, new people, new furniture or geometry changes. The black exterior stays black.\n\noverall_soundscape: N/A\n\nnon_diegetic_music: N/A\n",
+        "slots": {
+          "first": {
+            "file": "Room_126_Start.png"
+          },
+          "last": {
+            "file": "Room_126_Start.png"
+          },
+          "images": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "videos": [
+            {},
+            {},
+            {}
+          ],
+          "audios": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "cont": {},
+        "ref_image_size": "match"
+      }
+    },
+    {
+      "id": "r13-room-124",
+      "name": "124 - ATHLETICS OFFICE",
+      "off": false,
+      "state": {
+        "mode": "fl2va",
+        "width": 768,
+        "height": 768,
+        "length": 294,
+        "pace": 2.5,
+        "prompt": "How the reference pictures align with the target video - @first (from Shot 1) aligns with the 0.00-second mark of the target video; @last (from Shot 1) aligns with the 12.25-second mark of the target video.\n\nintegrated_multimodal_description: [Shot 1] A single static shot from a rigidly fixed orthographic camera looking vertically down at ATHLETICS OFFICE. The camera is mechanically locked throughout: constant position, rotation, zoom, framing and lens. Architecture, furniture, equipment, floor edges and black margins remain at identical image coordinates. Constant indoor lighting; shadows do not sweep or change. Photographic real materials and naturally foreshortened overhead people. Preserve the exact scale of every person and object in the endpoint image. There are exactly 1 existing people. Only the existing occupants make small natural head and hand movements; seated people stay centered on their existing chairs. Motion is restrained and cyclic; finish at the exact supplied last frame. No cuts, dolly, orbit, pan, tilt, zoom, camera shake, reframing, new people, new furniture or geometry changes. The black exterior stays black.\n\noverall_soundscape: N/A\n\nnon_diegetic_music: N/A\n",
+        "slots": {
+          "first": {
+            "file": "Room_124_Start.png"
+          },
+          "last": {
+            "file": "Room_124_Start.png"
+          },
+          "images": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "videos": [
+            {},
+            {},
+            {}
+          ],
+          "audios": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "cont": {},
+        "ref_image_size": "match"
+      }
+    },
+    {
+      "id": "r13-room-130",
+      "name": "130 - CORRIDOR",
+      "off": false,
+      "state": {
+        "mode": "fl2va",
+        "width": 768,
+        "height": 768,
+        "length": 294,
+        "pace": 2.5,
+        "prompt": "How the reference pictures align with the target video - @first (from Shot 1) aligns with the 0.00-second mark of the target video; @last (from Shot 1) aligns with the 12.25-second mark of the target video.\n\nintegrated_multimodal_description: [Shot 1] A single static shot from a rigidly fixed orthographic camera looking vertically down at CORRIDOR. The camera is mechanically locked throughout: constant position, rotation, zoom, framing and lens. Architecture, furniture, equipment, floor edges and black margins remain at identical image coordinates. Constant indoor lighting; shadows do not sweep or change. Photographic real materials and naturally foreshortened overhead people. Preserve the exact scale of every person and object in the endpoint image. There are exactly 2 existing people. The existing occupants take a few natural short steps within clear floor space, turn gently, and return to their starting positions. They never pass through furniture or boundaries. Motion is restrained and cyclic; finish at the exact supplied last frame. No cuts, dolly, orbit, pan, tilt, zoom, camera shake, reframing, new people, new furniture or geometry changes. The black exterior stays black.\n\noverall_soundscape: N/A\n\nnon_diegetic_music: N/A\n",
+        "slots": {
+          "first": {
+            "file": "Room_130_Start.png"
+          },
+          "last": {
+            "file": "Room_130_Start.png"
+          },
+          "images": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "videos": [
+            {},
+            {},
+            {}
+          ],
+          "audios": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "cont": {},
+        "ref_image_size": "match"
+      }
+    },
+    {
+      "id": "r13-room-123",
+      "name": "123 - TROPHY HALL / CORRIDOR",
+      "off": false,
+      "state": {
+        "mode": "fl2va",
+        "width": 768,
+        "height": 768,
+        "length": 294,
+        "pace": 2.5,
+        "prompt": "How the reference pictures align with the target video - @first (from Shot 1) aligns with the 0.00-second mark of the target video; @last (from Shot 1) aligns with the 12.25-second mark of the target video.\n\nintegrated_multimodal_description: [Shot 1] A single static shot from a rigidly fixed orthographic camera looking vertically down at TROPHY HALL / CORRIDOR. The camera is mechanically locked throughout: constant position, rotation, zoom, framing and lens. Architecture, furniture, equipment, floor edges and black margins remain at identical image coordinates. Constant indoor lighting; shadows do not sweep or change. Photographic real materials and naturally foreshortened overhead people. Preserve the exact scale of every person and object in the endpoint image. There are exactly 2 existing people. The existing occupants take a few natural short steps within clear floor space, turn gently, and return to their starting positions. They never pass through furniture or boundaries. Motion is restrained and cyclic; finish at the exact supplied last frame. No cuts, dolly, orbit, pan, tilt, zoom, camera shake, reframing, new people, new furniture or geometry changes. The black exterior stays black.\n\noverall_soundscape: N/A\n\nnon_diegetic_music: N/A\n",
+        "slots": {
+          "first": {
+            "file": "Room_123_Start.png"
+          },
+          "last": {
+            "file": "Room_123_Start.png"
+          },
+          "images": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "videos": [
+            {},
+            {},
+            {}
+          ],
+          "audios": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "cont": {},
+        "ref_image_size": "match"
+      }
+    },
+    {
+      "id": "r13-room-122",
+      "name": "122 - LOCKER ROOM",
+      "off": false,
+      "state": {
+        "mode": "fl2va",
+        "width": 768,
+        "height": 768,
+        "length": 294,
+        "pace": 2.5,
+        "prompt": "How the reference pictures align with the target video - @first (from Shot 1) aligns with the 0.00-second mark of the target video; @last (from Shot 1) aligns with the 12.25-second mark of the target video.\n\nintegrated_multimodal_description: [Shot 1] A single static shot from a rigidly fixed orthographic camera looking vertically down at LOCKER ROOM. The camera is mechanically locked throughout: constant position, rotation, zoom, framing and lens. Architecture, furniture, equipment, floor edges and black margins remain at identical image coordinates. Constant indoor lighting; shadows do not sweep or change. Photographic real materials and naturally foreshortened overhead people. Preserve the exact scale of every person and object in the endpoint image. There are exactly 2 existing people. The existing occupants take a few natural short steps within clear floor space, turn gently, and return to their starting positions. They never pass through furniture or boundaries. Motion is restrained and cyclic; finish at the exact supplied last frame. No cuts, dolly, orbit, pan, tilt, zoom, camera shake, reframing, new people, new furniture or geometry changes. The black exterior stays black.\n\noverall_soundscape: N/A\n\nnon_diegetic_music: N/A\n",
+        "slots": {
+          "first": {
+            "file": "Room_122_Start.png"
+          },
+          "last": {
+            "file": "Room_122_Start.png"
+          },
+          "images": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "videos": [
+            {},
+            {},
+            {}
+          ],
+          "audios": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "cont": {},
+        "ref_image_size": "match"
+      }
+    },
+    {
+      "id": "r13-room-121",
+      "name": "121 - LOCKER ROOM",
+      "off": false,
+      "state": {
+        "mode": "fl2va",
+        "width": 768,
+        "height": 768,
+        "length": 294,
+        "pace": 2.5,
+        "prompt": "How the reference pictures align with the target video - @first (from Shot 1) aligns with the 0.00-second mark of the target video; @last (from Shot 1) aligns with the 12.25-second mark of the target video.\n\nintegrated_multimodal_description: [Shot 1] A single static shot from a rigidly fixed orthographic camera looking vertically down at LOCKER ROOM. The camera is mechanically locked throughout: constant position, rotation, zoom, framing and lens. Architecture, furniture, equipment, floor edges and black margins remain at identical image coordinates. Constant indoor lighting; shadows do not sweep or change. Photographic real materials and naturally foreshortened overhead people. Preserve the exact scale of every person and object in the endpoint image. There are exactly 2 existing people. The existing occupants take a few natural short steps within clear floor space, turn gently, and return to their starting positions. They never pass through furniture or boundaries. Motion is restrained and cyclic; finish at the exact supplied last frame. No cuts, dolly, orbit, pan, tilt, zoom, camera shake, reframing, new people, new furniture or geometry changes. The black exterior stays black.\n\noverall_soundscape: N/A\n\nnon_diegetic_music: N/A\n",
+        "slots": {
+          "first": {
+            "file": "Room_121_Start.png"
+          },
+          "last": {
+            "file": "Room_121_Start.png"
+          },
+          "images": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "videos": [
+            {},
+            {},
+            {}
+          ],
+          "audios": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "cont": {},
+        "ref_image_size": "match"
+      }
+    },
+    {
+      "id": "r13-room-119",
+      "name": "119 - ATHLETICS STORAGE",
+      "off": false,
+      "state": {
+        "mode": "fl2va",
+        "width": 768,
+        "height": 768,
+        "length": 294,
+        "pace": 2.5,
+        "prompt": "How the reference pictures align with the target video - @first (from Shot 1) aligns with the 0.00-second mark of the target video; @last (from Shot 1) aligns with the 12.25-second mark of the target video.\n\nintegrated_multimodal_description: [Shot 1] A single static shot from a rigidly fixed orthographic camera looking vertically down at ATHLETICS STORAGE. The camera is mechanically locked throughout: constant position, rotation, zoom, framing and lens. Architecture, furniture, equipment, floor edges and black margins remain at identical image coordinates. Constant indoor lighting; shadows do not sweep or change. Photographic real materials and naturally foreshortened overhead people. Preserve the exact scale of every person and object in the endpoint image. There are exactly 0 existing people. This unoccupied service or storage area remains still. No people enter and no equipment moves. Motion is restrained and cyclic; finish at the exact supplied last frame. No cuts, dolly, orbit, pan, tilt, zoom, camera shake, reframing, new people, new furniture or geometry changes. The black exterior stays black.\n\noverall_soundscape: N/A\n\nnon_diegetic_music: N/A\n",
+        "slots": {
+          "first": {
+            "file": "Room_119_Start.png"
+          },
+          "last": {
+            "file": "Room_119_Start.png"
+          },
+          "images": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "videos": [
+            {},
+            {},
+            {}
+          ],
+          "audios": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "cont": {},
+        "ref_image_size": "match"
+      }
+    },
+    {
+      "id": "r13-room-118",
+      "name": "118 - JANITOR",
+      "off": false,
+      "state": {
+        "mode": "fl2va",
+        "width": 768,
+        "height": 768,
+        "length": 294,
+        "pace": 2.5,
+        "prompt": "How the reference pictures align with the target video - @first (from Shot 1) aligns with the 0.00-second mark of the target video; @last (from Shot 1) aligns with the 12.25-second mark of the target video.\n\nintegrated_multimodal_description: [Shot 1] A single static shot from a rigidly fixed orthographic camera looking vertically down at JANITOR. The camera is mechanically locked throughout: constant position, rotation, zoom, framing and lens. Architecture, furniture, equipment, floor edges and black margins remain at identical image coordinates. Constant indoor lighting; shadows do not sweep or change. Photographic real materials and naturally foreshortened overhead people. Preserve the exact scale of every person and object in the endpoint image. There are exactly 0 existing people. No people enter. Only the existing thin faucet stream and small basin ripples move gently; all water remains within the fixture. Motion is restrained and cyclic; finish at the exact supplied last frame. No cuts, dolly, orbit, pan, tilt, zoom, camera shake, reframing, new people, new furniture or geometry changes. The black exterior stays black.\n\noverall_soundscape: N/A\n\nnon_diegetic_music: N/A\n",
+        "slots": {
+          "first": {
+            "file": "Room_118_Start.png"
+          },
+          "last": {
+            "file": "Room_118_Start.png"
+          },
+          "images": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "videos": [
+            {},
+            {},
+            {}
+          ],
+          "audios": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "cont": {},
+        "ref_image_size": "match"
+      }
+    },
+    {
+      "id": "r13-room-120",
+      "name": "120 - MECH / ELECTRICAL",
+      "off": false,
+      "state": {
+        "mode": "fl2va",
+        "width": 768,
+        "height": 768,
+        "length": 294,
+        "pace": 2.5,
+        "prompt": "How the reference pictures align with the target video - @first (from Shot 1) aligns with the 0.00-second mark of the target video; @last (from Shot 1) aligns with the 12.25-second mark of the target video.\n\nintegrated_multimodal_description: [Shot 1] A single static shot from a rigidly fixed orthographic camera looking vertically down at MECH / ELECTRICAL. The camera is mechanically locked throughout: constant position, rotation, zoom, framing and lens. Architecture, furniture, equipment, floor edges and black margins remain at identical image coordinates. Constant indoor lighting; shadows do not sweep or change. Photographic real materials and naturally foreshortened overhead people. Preserve the exact scale of every person and object in the endpoint image. There are exactly 0 existing people. This unoccupied service or storage area remains still. No people enter and no equipment moves. Motion is restrained and cyclic; finish at the exact supplied last frame. No cuts, dolly, orbit, pan, tilt, zoom, camera shake, reframing, new people, new furniture or geometry changes. The black exterior stays black.\n\noverall_soundscape: N/A\n\nnon_diegetic_music: N/A\n",
+        "slots": {
+          "first": {
+            "file": "Room_120_Start.png"
+          },
+          "last": {
+            "file": "Room_120_Start.png"
+          },
+          "images": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "videos": [
+            {},
+            {},
+            {}
+          ],
+          "audios": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "cont": {},
+        "ref_image_size": "match"
+      }
+    },
+    {
+      "id": "r13-room-117",
+      "name": "117 - MENS TOILET",
+      "off": false,
+      "state": {
+        "mode": "fl2va",
+        "width": 768,
+        "height": 768,
+        "length": 294,
+        "pace": 2.5,
+        "prompt": "How the reference pictures align with the target video - @first (from Shot 1) aligns with the 0.00-second mark of the target video; @last (from Shot 1) aligns with the 12.25-second mark of the target video.\n\nintegrated_multimodal_description: [Shot 1] A single static shot from a rigidly fixed orthographic camera looking vertically down at MENS TOILET. The camera is mechanically locked throughout: constant position, rotation, zoom, framing and lens. Architecture, furniture, equipment, floor edges and black margins remain at identical image coordinates. Constant indoor lighting; shadows do not sweep or change. Photographic real materials and naturally foreshortened overhead people. Preserve the exact scale of every person and object in the endpoint image. There are exactly 0 existing people. No people enter. Only the existing thin faucet stream and small basin ripples move gently; all water remains within the fixture. Motion is restrained and cyclic; finish at the exact supplied last frame. No cuts, dolly, orbit, pan, tilt, zoom, camera shake, reframing, new people, new furniture or geometry changes. The black exterior stays black.\n\noverall_soundscape: N/A\n\nnon_diegetic_music: N/A\n",
+        "slots": {
+          "first": {
+            "file": "Room_117_Start.png"
+          },
+          "last": {
+            "file": "Room_117_Start.png"
+          },
+          "images": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "videos": [
+            {},
+            {},
+            {}
+          ],
+          "audios": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "cont": {},
+        "ref_image_size": "match"
+      }
+    },
+    {
+      "id": "r13-room-116",
+      "name": "116 - WOMENS TOILET",
+      "off": false,
+      "state": {
+        "mode": "fl2va",
+        "width": 768,
+        "height": 768,
+        "length": 294,
+        "pace": 2.5,
+        "prompt": "How the reference pictures align with the target video - @first (from Shot 1) aligns with the 0.00-second mark of the target video; @last (from Shot 1) aligns with the 12.25-second mark of the target video.\n\nintegrated_multimodal_description: [Shot 1] A single static shot from a rigidly fixed orthographic camera looking vertically down at WOMENS TOILET. The camera is mechanically locked throughout: constant position, rotation, zoom, framing and lens. Architecture, furniture, equipment, floor edges and black margins remain at identical image coordinates. Constant indoor lighting; shadows do not sweep or change. Photographic real materials and naturally foreshortened overhead people. Preserve the exact scale of every person and object in the endpoint image. There are exactly 0 existing people. No people enter. Only the existing thin faucet stream and small basin ripples move gently; all water remains within the fixture. Motion is restrained and cyclic; finish at the exact supplied last frame. No cuts, dolly, orbit, pan, tilt, zoom, camera shake, reframing, new people, new furniture or geometry changes. The black exterior stays black.\n\noverall_soundscape: N/A\n\nnon_diegetic_music: N/A\n",
+        "slots": {
+          "first": {
+            "file": "Room_116_Start.png"
+          },
+          "last": {
+            "file": "Room_116_Start.png"
+          },
+          "images": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "videos": [
+            {},
+            {},
+            {}
+          ],
+          "audios": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "cont": {},
+        "ref_image_size": "match"
+      }
+    },
+    {
+      "id": "r13-room-115",
+      "name": "115 - CORRIDOR",
+      "off": false,
+      "state": {
+        "mode": "fl2va",
+        "width": 768,
+        "height": 768,
+        "length": 294,
+        "pace": 2.5,
+        "prompt": "How the reference pictures align with the target video - @first (from Shot 1) aligns with the 0.00-second mark of the target video; @last (from Shot 1) aligns with the 12.25-second mark of the target video.\n\nintegrated_multimodal_description: [Shot 1] A single static shot from a rigidly fixed orthographic camera looking vertically down at CORRIDOR. The camera is mechanically locked throughout: constant position, rotation, zoom, framing and lens. Architecture, furniture, equipment, floor edges and black margins remain at identical image coordinates. Constant indoor lighting; shadows do not sweep or change. Photographic real materials and naturally foreshortened overhead people. Preserve the exact scale of every person and object in the endpoint image. There are exactly 1 existing people. The existing occupants take a few natural short steps within clear floor space, turn gently, and return to their starting positions. They never pass through furniture or boundaries. Motion is restrained and cyclic; finish at the exact supplied last frame. No cuts, dolly, orbit, pan, tilt, zoom, camera shake, reframing, new people, new furniture or geometry changes. The black exterior stays black.\n\noverall_soundscape: N/A\n\nnon_diegetic_music: N/A\n",
+        "slots": {
+          "first": {
+            "file": "Room_115_Start.png"
+          },
+          "last": {
+            "file": "Room_115_Start.png"
+          },
+          "images": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "videos": [
+            {},
+            {},
+            {}
+          ],
+          "audios": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "cont": {},
+        "ref_image_size": "match"
+      }
+    },
+    {
+      "id": "r13-room-114",
+      "name": "114 - VESTIBULE",
+      "off": false,
+      "state": {
+        "mode": "fl2va",
+        "width": 768,
+        "height": 768,
+        "length": 294,
+        "pace": 2.5,
+        "prompt": "How the reference pictures align with the target video - @first (from Shot 1) aligns with the 0.00-second mark of the target video; @last (from Shot 1) aligns with the 12.25-second mark of the target video.\n\nintegrated_multimodal_description: [Shot 1] A single static shot from a rigidly fixed orthographic camera looking vertically down at VESTIBULE. The camera is mechanically locked throughout: constant position, rotation, zoom, framing and lens. Architecture, furniture, equipment, floor edges and black margins remain at identical image coordinates. Constant indoor lighting; shadows do not sweep or change. Photographic real materials and naturally foreshortened overhead people. Preserve the exact scale of every person and object in the endpoint image. There are exactly 1 existing people. The existing occupants take a few natural short steps within clear floor space, turn gently, and return to their starting positions. They never pass through furniture or boundaries. Motion is restrained and cyclic; finish at the exact supplied last frame. No cuts, dolly, orbit, pan, tilt, zoom, camera shake, reframing, new people, new furniture or geometry changes. The black exterior stays black.\n\noverall_soundscape: N/A\n\nnon_diegetic_music: N/A\n",
+        "slots": {
+          "first": {
+            "file": "Room_114_Start.png"
+          },
+          "last": {
+            "file": "Room_114_Start.png"
+          },
+          "images": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "videos": [
+            {},
+            {},
+            {}
+          ],
+          "audios": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "cont": {},
+        "ref_image_size": "match"
+      }
+    },
+    {
+      "id": "r13-room-GYM",
+      "name": "GYM - EXISTING GYM",
+      "off": false,
+      "state": {
+        "mode": "fl2va",
+        "width": 768,
+        "height": 768,
+        "length": 294,
+        "pace": 2.5,
+        "prompt": "How the reference pictures align with the target video - @first (from Shot 1) aligns with the 0.00-second mark of the target video; @last (from Shot 1) aligns with the 12.25-second mark of the target video.\n\nintegrated_multimodal_description: [Shot 1] A single static shot from a rigidly fixed orthographic camera looking vertically down at EXISTING GYM. The camera is mechanically locked throughout: constant position, rotation, zoom, framing and lens. Architecture, furniture, equipment, floor edges and black margins remain at identical image coordinates. Constant indoor lighting; shadows do not sweep or change. Photographic real materials and naturally foreshortened overhead people. Preserve the exact scale of every person and object in the endpoint image. There are exactly 6 existing people. The six small, correctly scaled students take a few short court steps and gently dribble the existing balls, then return to their initial poses and positions. Motion is restrained and cyclic; finish at the exact supplied last frame. No cuts, dolly, orbit, pan, tilt, zoom, camera shake, reframing, new people, new furniture or geometry changes. The black exterior stays black.\n\noverall_soundscape: N/A\n\nnon_diegetic_music: N/A\n",
+        "slots": {
+          "first": {
+            "file": "Room_GYM_Start.png"
+          },
+          "last": {
+            "file": "Room_GYM_Start.png"
+          },
+          "images": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "videos": [
+            {},
+            {},
+            {}
+          ],
+          "audios": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "cont": {},
+        "ref_image_size": "match"
+      }
+    },
+    {
+      "id": "r13-room-113",
+      "name": "113 - COLLABORATION ROOM",
+      "off": false,
+      "state": {
+        "mode": "fl2va",
+        "width": 768,
+        "height": 768,
+        "length": 294,
+        "pace": 2.5,
+        "prompt": "How the reference pictures align with the target video - @first (from Shot 1) aligns with the 0.00-second mark of the target video; @last (from Shot 1) aligns with the 12.25-second mark of the target video.\n\nintegrated_multimodal_description: [Shot 1] A single static shot from a rigidly fixed orthographic camera looking vertically down at COLLABORATION ROOM. The camera is mechanically locked throughout: constant position, rotation, zoom, framing and lens. Architecture, furniture, equipment, floor edges and black margins remain at identical image coordinates. Constant indoor lighting; shadows do not sweep or change. Photographic real materials and naturally foreshortened overhead people. Preserve the exact scale of every person and object in the endpoint image. There are exactly 3 existing people. Only the existing occupants make small natural head and hand movements; seated people stay centered on their existing chairs. Motion is restrained and cyclic; finish at the exact supplied last frame. No cuts, dolly, orbit, pan, tilt, zoom, camera shake, reframing, new people, new furniture or geometry changes. The black exterior stays black.\n\noverall_soundscape: N/A\n\nnon_diegetic_music: N/A\n",
+        "slots": {
+          "first": {
+            "file": "Room_113_Start.png"
+          },
+          "last": {
+            "file": "Room_113_Start.png"
+          },
+          "images": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "videos": [
+            {},
+            {},
+            {}
+          ],
+          "audios": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "cont": {},
+        "ref_image_size": "match"
+      }
+    },
+    {
+      "id": "r13-room-112",
+      "name": "112 - ASPIRE CLASSROOM",
+      "off": false,
+      "state": {
+        "mode": "fl2va",
+        "width": 768,
+        "height": 768,
+        "length": 294,
+        "pace": 2.5,
+        "prompt": "How the reference pictures align with the target video - @first (from Shot 1) aligns with the 0.00-second mark of the target video; @last (from Shot 1) aligns with the 12.25-second mark of the target video.\n\nintegrated_multimodal_description: [Shot 1] A single static shot from a rigidly fixed orthographic camera looking vertically down at ASPIRE CLASSROOM. The camera is mechanically locked throughout: constant position, rotation, zoom, framing and lens. Architecture, furniture, equipment, floor edges and black margins remain at identical image coordinates. Constant indoor lighting; shadows do not sweep or change. Photographic real materials and naturally foreshortened overhead people. Preserve the exact scale of every person and object in the endpoint image. There are exactly 2 existing people. The one seated student writes briefly while the standing adult makes a small gesture. Both stay at their original positions. Motion is restrained and cyclic; finish at the exact supplied last frame. No cuts, dolly, orbit, pan, tilt, zoom, camera shake, reframing, new people, new furniture or geometry changes. The black exterior stays black.\n\noverall_soundscape: N/A\n\nnon_diegetic_music: N/A\n",
+        "slots": {
+          "first": {
+            "file": "Room_112_Start.png"
+          },
+          "last": {
+            "file": "Room_112_Start.png"
+          },
+          "images": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "videos": [
+            {},
+            {},
+            {}
+          ],
+          "audios": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "cont": {},
+        "ref_image_size": "match"
+      }
+    },
+    {
+      "id": "r13-room-111",
+      "name": "111 - OFFICE",
+      "off": false,
+      "state": {
+        "mode": "fl2va",
+        "width": 768,
+        "height": 768,
+        "length": 294,
+        "pace": 2.5,
+        "prompt": "How the reference pictures align with the target video - @first (from Shot 1) aligns with the 0.00-second mark of the target video; @last (from Shot 1) aligns with the 12.25-second mark of the target video.\n\nintegrated_multimodal_description: [Shot 1] A single static shot from a rigidly fixed orthographic camera looking vertically down at OFFICE. The camera is mechanically locked throughout: constant position, rotation, zoom, framing and lens. Architecture, furniture, equipment, floor edges and black margins remain at identical image coordinates. Constant indoor lighting; shadows do not sweep or change. Photographic real materials and naturally foreshortened overhead people. Preserve the exact scale of every person and object in the endpoint image. There are exactly 1 existing people. Only the existing occupants make small natural head and hand movements; seated people stay centered on their existing chairs. Motion is restrained and cyclic; finish at the exact supplied last frame. No cuts, dolly, orbit, pan, tilt, zoom, camera shake, reframing, new people, new furniture or geometry changes. The black exterior stays black.\n\noverall_soundscape: N/A\n\nnon_diegetic_music: N/A\n",
+        "slots": {
+          "first": {
+            "file": "Room_111_Start.png"
+          },
+          "last": {
+            "file": "Room_111_Start.png"
+          },
+          "images": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "videos": [
+            {},
+            {},
+            {}
+          ],
+          "audios": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "cont": {},
+        "ref_image_size": "match"
+      }
+    },
+    {
+      "id": "r13-room-109",
+      "name": "109 - STORAGE / IT / MECH",
+      "off": false,
+      "state": {
+        "mode": "fl2va",
+        "width": 768,
+        "height": 768,
+        "length": 294,
+        "pace": 2.5,
+        "prompt": "How the reference pictures align with the target video - @first (from Shot 1) aligns with the 0.00-second mark of the target video; @last (from Shot 1) aligns with the 12.25-second mark of the target video.\n\nintegrated_multimodal_description: [Shot 1] A single static shot from a rigidly fixed orthographic camera looking vertically down at STORAGE / IT / MECH. The camera is mechanically locked throughout: constant position, rotation, zoom, framing and lens. Architecture, furniture, equipment, floor edges and black margins remain at identical image coordinates. Constant indoor lighting; shadows do not sweep or change. Photographic real materials and naturally foreshortened overhead people. Preserve the exact scale of every person and object in the endpoint image. There are exactly 0 existing people. This unoccupied service or storage area remains still. No people enter and no equipment moves. Motion is restrained and cyclic; finish at the exact supplied last frame. No cuts, dolly, orbit, pan, tilt, zoom, camera shake, reframing, new people, new furniture or geometry changes. The black exterior stays black.\n\noverall_soundscape: N/A\n\nnon_diegetic_music: N/A\n",
+        "slots": {
+          "first": {
+            "file": "Room_109_Start.png"
+          },
+          "last": {
+            "file": "Room_109_Start.png"
+          },
+          "images": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "videos": [
+            {},
+            {},
+            {}
+          ],
+          "audios": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "cont": {},
+        "ref_image_size": "match"
+      }
+    },
+    {
+      "id": "r13-room-108",
+      "name": "108 - INNOVATION LAB",
+      "off": false,
+      "state": {
+        "mode": "fl2va",
+        "width": 768,
+        "height": 768,
+        "length": 294,
+        "pace": 2.5,
+        "prompt": "How the reference pictures align with the target video - @first (from Shot 1) aligns with the 0.00-second mark of the target video; @last (from Shot 1) aligns with the 12.25-second mark of the target video.\n\nintegrated_multimodal_description: [Shot 1] A single static shot from a rigidly fixed orthographic camera looking vertically down at INNOVATION LAB. The camera is mechanically locked throughout: constant position, rotation, zoom, framing and lens. Architecture, furniture, equipment, floor edges and black margins remain at identical image coordinates. Constant indoor lighting; shadows do not sweep or change. Photographic real materials and naturally foreshortened overhead people. Preserve the exact scale of every person and object in the endpoint image. There are exactly 3 existing people. Two standing students take a few short steps on clear floor; the seated student makes small hand movements at the laptop. Keep exactly two Bambu Lab H2D printers with four-spool AMS 2 Pro units, the orange translucent resin printer and the white WAZER waterjet in their existing positions. Motion is restrained and cyclic; finish at the exact supplied last frame. No cuts, dolly, orbit, pan, tilt, zoom, camera shake, reframing, new people, new furniture or geometry changes. The black exterior stays black.\n\noverall_soundscape: N/A\n\nnon_diegetic_music: N/A\n",
+        "slots": {
+          "first": {
+            "file": "Room_108_Start.png"
+          },
+          "last": {
+            "file": "Room_108_Start.png"
+          },
+          "images": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "videos": [
+            {},
+            {},
+            {}
+          ],
+          "audios": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "cont": {},
+        "ref_image_size": "match"
+      }
+    },
+    {
+      "id": "r13-room-110",
+      "name": "110 - CORRIDOR",
+      "off": false,
+      "state": {
+        "mode": "fl2va",
+        "width": 768,
+        "height": 768,
+        "length": 294,
+        "pace": 2.5,
+        "prompt": "How the reference pictures align with the target video - @first (from Shot 1) aligns with the 0.00-second mark of the target video; @last (from Shot 1) aligns with the 12.25-second mark of the target video.\n\nintegrated_multimodal_description: [Shot 1] A single static shot from a rigidly fixed orthographic camera looking vertically down at CORRIDOR. The camera is mechanically locked throughout: constant position, rotation, zoom, framing and lens. Architecture, furniture, equipment, floor edges and black margins remain at identical image coordinates. Constant indoor lighting; shadows do not sweep or change. Photographic real materials and naturally foreshortened overhead people. Preserve the exact scale of every person and object in the endpoint image. There are exactly 1 existing people. The existing occupants take a few natural short steps within clear floor space, turn gently, and return to their starting positions. They never pass through furniture or boundaries. Motion is restrained and cyclic; finish at the exact supplied last frame. No cuts, dolly, orbit, pan, tilt, zoom, camera shake, reframing, new people, new furniture or geometry changes. The black exterior stays black.\n\noverall_soundscape: N/A\n\nnon_diegetic_music: N/A\n",
+        "slots": {
+          "first": {
+            "file": "Room_110_Start.png"
+          },
+          "last": {
+            "file": "Room_110_Start.png"
+          },
+          "images": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "videos": [
+            {},
+            {},
+            {}
+          ],
+          "audios": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "cont": {},
+        "ref_image_size": "match"
+      }
+    },
+    {
+      "id": "r13-room-106",
+      "name": "106 - CORRIDOR / DISPLAY HALL",
+      "off": false,
+      "state": {
+        "mode": "fl2va",
+        "width": 768,
+        "height": 768,
+        "length": 294,
+        "pace": 2.5,
+        "prompt": "How the reference pictures align with the target video - @first (from Shot 1) aligns with the 0.00-second mark of the target video; @last (from Shot 1) aligns with the 12.25-second mark of the target video.\n\nintegrated_multimodal_description: [Shot 1] A single static shot from a rigidly fixed orthographic camera looking vertically down at CORRIDOR / DISPLAY HALL. The camera is mechanically locked throughout: constant position, rotation, zoom, framing and lens. Architecture, furniture, equipment, floor edges and black margins remain at identical image coordinates. Constant indoor lighting; shadows do not sweep or change. Photographic real materials and naturally foreshortened overhead people. Preserve the exact scale of every person and object in the endpoint image. There are exactly 3 existing people. The existing occupants take a few natural short steps within clear floor space, turn gently, and return to their starting positions. They never pass through furniture or boundaries. Motion is restrained and cyclic; finish at the exact supplied last frame. No cuts, dolly, orbit, pan, tilt, zoom, camera shake, reframing, new people, new furniture or geometry changes. The black exterior stays black.\n\noverall_soundscape: N/A\n\nnon_diegetic_music: N/A\n",
+        "slots": {
+          "first": {
+            "file": "Room_106_Start.png"
+          },
+          "last": {
+            "file": "Room_106_Start.png"
+          },
+          "images": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "videos": [
+            {},
+            {},
+            {}
+          ],
+          "audios": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "cont": {},
+        "ref_image_size": "match"
+      }
+    },
+    {
+      "id": "r13-room-102",
+      "name": "102 - STUDENT COMMONS",
+      "off": false,
+      "state": {
+        "mode": "fl2va",
+        "width": 768,
+        "height": 768,
+        "length": 294,
+        "pace": 2.5,
+        "prompt": "How the reference pictures align with the target video - @first (from Shot 1) aligns with the 0.00-second mark of the target video; @last (from Shot 1) aligns with the 12.25-second mark of the target video.\n\nintegrated_multimodal_description: [Shot 1] A single static shot from a rigidly fixed orthographic camera looking vertically down at STUDENT COMMONS. The camera is mechanically locked throughout: constant position, rotation, zoom, framing and lens. Architecture, furniture, equipment, floor edges and black margins remain at identical image coordinates. Constant indoor lighting; shadows do not sweep or change. Photographic real materials and naturally foreshortened overhead people. Preserve the exact scale of every person and object in the endpoint image. There are exactly 3 existing people. The existing occupants take a few natural short steps within clear floor space, turn gently, and return to their starting positions. They never pass through furniture or boundaries. Motion is restrained and cyclic; finish at the exact supplied last frame. No cuts, dolly, orbit, pan, tilt, zoom, camera shake, reframing, new people, new furniture or geometry changes. The black exterior stays black.\n\noverall_soundscape: N/A\n\nnon_diegetic_music: N/A\n",
+        "slots": {
+          "first": {
+            "file": "Room_102_Start.png"
+          },
+          "last": {
+            "file": "Room_102_Start.png"
+          },
+          "images": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "videos": [
+            {},
+            {},
+            {}
+          ],
+          "audios": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "cont": {},
+        "ref_image_size": "match"
+      }
+    },
+    {
+      "id": "r13-room-101",
+      "name": "101 - CAFE",
+      "off": false,
+      "state": {
+        "mode": "fl2va",
+        "width": 768,
+        "height": 768,
+        "length": 294,
+        "pace": 2.5,
+        "prompt": "How the reference pictures align with the target video - @first (from Shot 1) aligns with the 0.00-second mark of the target video; @last (from Shot 1) aligns with the 12.25-second mark of the target video.\n\nintegrated_multimodal_description: [Shot 1] A single static shot from a rigidly fixed orthographic camera looking vertically down at CAFE. The camera is mechanically locked throughout: constant position, rotation, zoom, framing and lens. Architecture, furniture, equipment, floor edges and black margins remain at identical image coordinates. Constant indoor lighting; shadows do not sweep or change. Photographic real materials and naturally foreshortened overhead people. Preserve the exact scale of every person and object in the endpoint image. There are exactly 1 existing people. The single cafe staff member makes a small natural hand gesture. The two iPad POS stands, espresso machine and pastry displays remain fixed. Motion is restrained and cyclic; finish at the exact supplied last frame. No cuts, dolly, orbit, pan, tilt, zoom, camera shake, reframing, new people, new furniture or geometry changes. The black exterior stays black.\n\noverall_soundscape: N/A\n\nnon_diegetic_music: N/A\n",
+        "slots": {
+          "first": {
+            "file": "Room_101_Start.png"
+          },
+          "last": {
+            "file": "Room_101_Start.png"
+          },
+          "images": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "videos": [
+            {},
+            {},
+            {}
+          ],
+          "audios": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "cont": {},
+        "ref_image_size": "match"
+      }
+    },
+    {
+      "id": "r13-room-103",
+      "name": "103 - RECEPTION",
+      "off": false,
+      "state": {
+        "mode": "fl2va",
+        "width": 768,
+        "height": 768,
+        "length": 294,
+        "pace": 2.5,
+        "prompt": "How the reference pictures align with the target video - @first (from Shot 1) aligns with the 0.00-second mark of the target video; @last (from Shot 1) aligns with the 12.25-second mark of the target video.\n\nintegrated_multimodal_description: [Shot 1] A single static shot from a rigidly fixed orthographic camera looking vertically down at RECEPTION. The camera is mechanically locked throughout: constant position, rotation, zoom, framing and lens. Architecture, furniture, equipment, floor edges and black margins remain at identical image coordinates. Constant indoor lighting; shadows do not sweep or change. Photographic real materials and naturally foreshortened overhead people. Preserve the exact scale of every person and object in the endpoint image. There are exactly 1 existing people. Only the existing occupants make small natural head and hand movements; seated people stay centered on their existing chairs. Motion is restrained and cyclic; finish at the exact supplied last frame. No cuts, dolly, orbit, pan, tilt, zoom, camera shake, reframing, new people, new furniture or geometry changes. The black exterior stays black.\n\noverall_soundscape: N/A\n\nnon_diegetic_music: N/A\n",
+        "slots": {
+          "first": {
+            "file": "Room_103_Start.png"
+          },
+          "last": {
+            "file": "Room_103_Start.png"
+          },
+          "images": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "videos": [
+            {},
+            {},
+            {}
+          ],
+          "audios": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "cont": {},
+        "ref_image_size": "match"
+      }
+    },
+    {
+      "id": "r13-room-104",
+      "name": "104 - ADMISSIONS OFFICE",
+      "off": false,
+      "state": {
+        "mode": "fl2va",
+        "width": 768,
+        "height": 768,
+        "length": 294,
+        "pace": 2.5,
+        "prompt": "How the reference pictures align with the target video - @first (from Shot 1) aligns with the 0.00-second mark of the target video; @last (from Shot 1) aligns with the 12.25-second mark of the target video.\n\nintegrated_multimodal_description: [Shot 1] A single static shot from a rigidly fixed orthographic camera looking vertically down at ADMISSIONS OFFICE. The camera is mechanically locked throughout: constant position, rotation, zoom, framing and lens. Architecture, furniture, equipment, floor edges and black margins remain at identical image coordinates. Constant indoor lighting; shadows do not sweep or change. Photographic real materials and naturally foreshortened overhead people. Preserve the exact scale of every person and object in the endpoint image. There are exactly 1 existing people. Only the existing occupants make small natural head and hand movements; seated people stay centered on their existing chairs. Motion is restrained and cyclic; finish at the exact supplied last frame. No cuts, dolly, orbit, pan, tilt, zoom, camera shake, reframing, new people, new furniture or geometry changes. The black exterior stays black.\n\noverall_soundscape: N/A\n\nnon_diegetic_music: N/A\n",
+        "slots": {
+          "first": {
+            "file": "Room_104_Start.png"
+          },
+          "last": {
+            "file": "Room_104_Start.png"
+          },
+          "images": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "videos": [
+            {},
+            {},
+            {}
+          ],
+          "audios": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "cont": {},
+        "ref_image_size": "match"
+      }
+    },
+    {
+      "id": "r13-room-105",
+      "name": "105 - CRI GALLERY",
+      "off": false,
+      "state": {
+        "mode": "fl2va",
+        "width": 768,
+        "height": 768,
+        "length": 294,
+        "pace": 2.5,
+        "prompt": "How the reference pictures align with the target video - @first (from Shot 1) aligns with the 0.00-second mark of the target video; @last (from Shot 1) aligns with the 12.25-second mark of the target video.\n\nintegrated_multimodal_description: [Shot 1] A single static shot from a rigidly fixed orthographic camera looking vertically down at CRI GALLERY. The camera is mechanically locked throughout: constant position, rotation, zoom, framing and lens. Architecture, furniture, equipment, floor edges and black margins remain at identical image coordinates. Constant indoor lighting; shadows do not sweep or change. Photographic real materials and naturally foreshortened overhead people. Preserve the exact scale of every person and object in the endpoint image. There are exactly 1 existing people. The existing occupants take a few natural short steps within clear floor space, turn gently, and return to their starting positions. They never pass through furniture or boundaries. Motion is restrained and cyclic; finish at the exact supplied last frame. No cuts, dolly, orbit, pan, tilt, zoom, camera shake, reframing, new people, new furniture or geometry changes. The black exterior stays black.\n\noverall_soundscape: N/A\n\nnon_diegetic_music: N/A\n",
+        "slots": {
+          "first": {
+            "file": "Room_105_Start.png"
+          },
+          "last": {
+            "file": "Room_105_Start.png"
+          },
+          "images": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "videos": [
+            {},
+            {},
+            {}
+          ],
+          "audios": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "cont": {},
+        "ref_image_size": "match"
+      }
+    },
+    {
+      "id": "r13-room-100",
+      "name": "100 - ENTRY VESTIBULE",
+      "off": false,
+      "state": {
+        "mode": "fl2va",
+        "width": 768,
+        "height": 768,
+        "length": 294,
+        "pace": 2.5,
+        "prompt": "How the reference pictures align with the target video - @first (from Shot 1) aligns with the 0.00-second mark of the target video; @last (from Shot 1) aligns with the 12.25-second mark of the target video.\n\nintegrated_multimodal_description: [Shot 1] A single static shot from a rigidly fixed orthographic camera looking vertically down at ENTRY VESTIBULE. The camera is mechanically locked throughout: constant position, rotation, zoom, framing and lens. Architecture, furniture, equipment, floor edges and black margins remain at identical image coordinates. Constant indoor lighting; shadows do not sweep or change. Photographic real materials and naturally foreshortened overhead people. Preserve the exact scale of every person and object in the endpoint image. There are exactly 1 existing people. The existing occupants take a few natural short steps within clear floor space, turn gently, and return to their starting positions. They never pass through furniture or boundaries. Motion is restrained and cyclic; finish at the exact supplied last frame. No cuts, dolly, orbit, pan, tilt, zoom, camera shake, reframing, new people, new furniture or geometry changes. The black exterior stays black.\n\noverall_soundscape: N/A\n\nnon_diegetic_music: N/A\n",
+        "slots": {
+          "first": {
+            "file": "Room_100_Start.png"
+          },
+          "last": {
+            "file": "Room_100_Start.png"
+          },
+          "images": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "videos": [
+            {},
+            {},
+            {}
+          ],
+          "audios": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "cont": {},
+        "ref_image_size": "match"
+      }
+    }
+  ]
+}
