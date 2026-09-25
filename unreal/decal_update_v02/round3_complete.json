@@ -1,0 +1,5 @@
+{
+  "map": "CampusCenter_ArchitectDecals_v04",
+  "finish_mesh": "/Game/Campus/ArchitectFinishesV06/Architect_Finishes_v06/StaticMeshes/Architect_Finishes_v06.Architect_Finishes_v06",
+  "full_detail_fallback": true
+}

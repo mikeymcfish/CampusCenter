@@ -1,0 +1,28 @@
+{
+  "round": 2,
+  "verdict": "FAIL",
+  "scores": {
+    "aesthetics": 6.3,
+    "reference_accuracy": 7.0,
+    "overall": 6.8,
+    "design": 7.2
+  },
+  "required_overall": 8.5,
+  "zero_visible_errors": false,
+  "actual_images_inspected": 10,
+  "missing_images": [],
+  "artwork_count_verified": 9,
+  "trophy_count_verified": 10,
+  "ranked_issues": [
+    "Missing shelf front yields floating trophy appearance",
+    "Dark rectangular teeth along gallery cork bottom in oblique view",
+    "Dark flat oak support/wainscot materials",
+    "Repetitive flooring and pier reference mismatch",
+    "Flat slats and grainy lighting",
+    "Trophy detail camera crops heads"
+  ],
+  "coverage_limitations": [
+    "Trophy heads cropped in detail05; complete in wide04"
+  ],
+  "project_modified": false
+}

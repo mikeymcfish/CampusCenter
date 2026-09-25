@@ -1,0 +1,26 @@
+{
+  "round": 3,
+  "verdict": "FAIL",
+  "scores": {
+    "reference_accuracy": 7.7,
+    "aesthetics": 7.2,
+    "overall": 7.6,
+    "design": 8.0
+  },
+  "required_overall": 8.5,
+  "zero_visible_errors": false,
+  "actual_images_inspected": 10,
+  "missing_images": [],
+  "artwork_count_verified": 9,
+  "trophy_count_verified": 10,
+  "obvious_display_mounting_errors_found": false,
+  "ranked_issues": [
+    "Oversized repeating corridor wood grain",
+    "Uneven Commons lighting and very dark bays",
+    "Uniform hard-edged timber slat materials",
+    "Flat ceramic finish compared with reference",
+    "Gallery plaster end integration"
+  ],
+  "clean_editor_exit": true,
+  "project_modified": false
+}

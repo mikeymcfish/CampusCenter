@@ -1,0 +1,46 @@
+{
+  "round": 4,
+  "final_cycle": true,
+  "verdict": "FAIL_REQUIRED_QUALITY_GATE",
+  "scores": {
+    "design": 8.3,
+    "aesthetics": 7.7,
+    "reference_accuracy": 8.0,
+    "overall": 8.0
+  },
+  "required_overall": 8.5,
+  "zero_visible_errors": false,
+  "quality_gate_met": false,
+  "actual_images_inspected": 10,
+  "missing_images": [],
+  "artwork_count_verified": 9,
+  "trophy_count_verified": 10,
+  "decal_placement_requirements_visually_satisfied": true,
+  "obvious_decal_mounting_errors_found": false,
+  "ranked_issues": [
+    "Abrupt new-to-original flooring transitions at open corridor junctions",
+    "Uneven lighting with dark Commons bays and sharp ceiling bright field",
+    "Simplified hard-edged timber and ceramic material response",
+    "Discrete plaster overlay edges retain brick strips"
+  ],
+  "evidence_views": [
+    "01_art_gallery_wide.png",
+    "02_art_gallery_detail.png",
+    "03_art_gallery_oblique.png",
+    "04_trophy_shelf_wide.png",
+    "05_trophy_shelf_detail.png",
+    "06_trophy_shelf_oblique.png",
+    "07_commons_wide.png",
+    "08_k_wall_close.png",
+    "09_ceiling_detail.png",
+    "10_floor_detail.png"
+  ],
+  "clean_editor_exit": true,
+  "score_history": [
+    6.2,
+    6.8,
+    7.6,
+    8.0
+  ],
+  "project_modified": false
+}

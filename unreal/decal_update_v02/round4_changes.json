@@ -1,0 +1,11 @@
+{
+  "additive_corridor_finish": [
+    "DD_GalleryFloor_Oak",
+    "DD_TrophyFloor_Oak"
+  ],
+  "plank_dimensions_cm": [
+    108,
+    18
+  ],
+  "furniture_unchanged": true
+}

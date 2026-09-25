@@ -1,0 +1,47 @@
+{
+  "round": 1,
+  "verdict": "FAIL",
+  "scores": {
+    "design": 6.7,
+    "aesthetics": 5.7,
+    "reference_accuracy": 6.3,
+    "overall": 6.2
+  },
+  "required_overall": 8.5,
+  "zero_visible_errors": false,
+  "images_inspected": [
+    "01_art_gallery_wide.png",
+    "03_art_gallery_oblique.png",
+    "04_trophy_shelf_wide.png",
+    "05_trophy_shelf_detail.png",
+    "06_trophy_shelf_oblique.png",
+    "07_commons_wide.png",
+    "08_k_wall_close.png",
+    "09_ceiling_detail.png",
+    "10_floor_detail.png"
+  ],
+  "missing_images": [
+    "02_art_gallery_detail.png"
+  ],
+  "coverage_limitations": [
+    "01 and 03 effectively repeat the same oblique angle",
+    "Ninth shark artwork outside frame; all nine placements not verified",
+    "Completion manifest overstates actual file completeness"
+  ],
+  "ranked_issues": [
+    "Trophy obstruction by existing case",
+    "Washed-out display backing and support materials",
+    "Incomplete independent camera coverage",
+    "Repetitive or featureless floor materials",
+    "Commons pier material and K finish mismatch",
+    "Grainy shadows and harsh lighting transitions"
+  ],
+  "recommended_shelf_top_cm": 180.5,
+  "verified_positives": [
+    "Inspected artwork and trophy orientation correct",
+    "No obvious rectangular transparency halos",
+    "Unobstructed trophy bases align",
+    "Ceiling suspension wires exist"
+  ],
+  "project_modified": false
+}

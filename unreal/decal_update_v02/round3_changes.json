@@ -1,0 +1,14 @@
+{
+  "finish_material_overrides": [
+    "M_AF_BlueTile_00",
+    "M_AF_BlueTile_01",
+    "M_AF_BlueTile_02",
+    "M_AF_BlueTile_03",
+    "M_AF_LightOak_00",
+    "M_AF_LightOak_01",
+    "M_AF_LightOak_02",
+    "M_AF_LightOak_03",
+    "M_AF_LightOak_04"
+  ],
+  "stone_pier": true
+}

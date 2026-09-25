@@ -1,0 +1,515 @@
+[
+  {
+    "id": 1,
+    "file": "source\\Decals\\ChatGPT Image Sep 25, 2026, 01_36_05 PM-1.png",
+    "size": [
+      971,
+      1619
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha_bbox": [
+      141,
+      28,
+      842,
+      1592
+    ],
+    "sha256": "1c86fabc42db10cea7241db431dcfe763343243ecd69ed0207f753d5eea96cfe",
+    "category": "artwork",
+    "crop_uv": [
+      0.14521112255406798,
+      0.017294626312538603,
+      0.721936148300721,
+      0.9660284126003706
+    ]
+  },
+  {
+    "id": 2,
+    "file": "source\\Decals\\ChatGPT Image Sep 25, 2026, 01_36_07 PM-2.png",
+    "size": [
+      1122,
+      1402
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha_bbox": [
+      65,
+      87,
+      1056,
+      1344
+    ],
+    "sha256": "c7f0844b88c50eedb6732ba434fb573b2cb9d60ed28bc39d6165d7cbf989d9bf",
+    "category": "artwork",
+    "crop_uv": [
+      0.057932263814616754,
+      0.062054208273894434,
+      0.8832442067736186,
+      0.8965763195435092
+    ]
+  },
+  {
+    "id": 3,
+    "file": "source\\Decals\\ChatGPT Image Sep 25, 2026, 01_36_08 PM-3.png",
+    "size": [
+      1122,
+      1402
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha_bbox": [
+      76,
+      69,
+      1046,
+      1323
+    ],
+    "sha256": "d164ae594446e23a1232483dc06b90f9cecd6d70b744f3cecf413632b031672c",
+    "category": "artwork",
+    "crop_uv": [
+      0.0677361853832442,
+      0.049215406562054205,
+      0.8645276292335116,
+      0.8944365192582026
+    ]
+  },
+  {
+    "id": 4,
+    "file": "source\\Decals\\ChatGPT Image Sep 25, 2026, 01_36_09 PM-4.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha_bbox": [
+      73,
+      107,
+      1179,
+      1172
+    ],
+    "sha256": "2c2077b20c27de4883a031066fb1f2eca12e17833f599908814baa07277521d3",
+    "category": "artwork",
+    "crop_uv": [
+      0.058213716108452954,
+      0.08532695374800638,
+      0.8819776714513556,
+      0.8492822966507177
+    ]
+  },
+  {
+    "id": 5,
+    "file": "source\\Decals\\ChatGPT Image Sep 25, 2026, 01_49_15 PM-1.png",
+    "size": [
+      1122,
+      1402
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha_bbox": [
+      12,
+      10,
+      1109,
+      1393
+    ],
+    "sha256": "a9430736a64104ff90c43b4473de6a6ce1dd8c677dc591770a6e2e04bf344c4e",
+    "category": "trophy",
+    "crop_uv": [
+      0.0106951871657754,
+      0.007132667617689016,
+      0.9777183600713012,
+      0.9864479315263909
+    ]
+  },
+  {
+    "id": 6,
+    "file": "source\\Decals\\ChatGPT Image Sep 25, 2026, 01_49_16 PM-2.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "alpha_bbox": [
+      39,
+      77,
+      989,
+      1466
+    ],
+    "sha256": "bc52ab8df2d27034de98509a97d8adb652105d2ffc6c61a8d13d93dcd5e08a08",
+    "category": "trophy",
+    "crop_uv": [
+      0.0380859375,
+      0.050130208333333336,
+      0.927734375,
+      0.904296875
+    ]
+  },
+  {
+    "id": 7,
+    "file": "source\\Decals\\ChatGPT Image Sep 25, 2026, 01_49_16 PM-3.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "alpha_bbox": [
+      214,
+      26,
+      823,
+      1503
+    ],
+    "sha256": "192a8e3fd5a64870d4089865cf8bab0f40fa414d7020ed18ae0345ef80a57223",
+    "category": "trophy",
+    "crop_uv": [
+      0.208984375,
+      0.016927083333333332,
+      0.5947265625,
+      0.9615885416666666
+    ]
+  },
+  {
+    "id": 8,
+    "file": "source\\Decals\\ChatGPT Image Sep 25, 2026, 01_49_17 PM-4.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "alpha_bbox": [
+      227,
+      27,
+      844,
+      1487
+    ],
+    "sha256": "227efd89260ee731162d05eaf9a31e003e200afbcea6be937140aba4b5d1629c",
+    "category": "trophy",
+    "crop_uv": [
+      0.2216796875,
+      0.017578125,
+      0.6025390625,
+      0.9505208333333334
+    ]
+  },
+  {
+    "id": 9,
+    "file": "source\\Decals\\ChatGPT Image Sep 25, 2026, 01_49_17 PM-5.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "alpha_bbox": [
+      189,
+      14,
+      854,
+      1519
+    ],
+    "sha256": "b5136ef22e543b08ca92feb152694c9c7d668f5ec455ca54ed6a6cedd85cab28",
+    "category": "trophy",
+    "crop_uv": [
+      0.1845703125,
+      0.009114583333333334,
+      0.6494140625,
+      0.9798177083333334
+    ]
+  },
+  {
+    "id": 10,
+    "file": "source\\Decals\\ChatGPT Image Sep 25, 2026, 01_49_18 PM-6.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "alpha_bbox": [
+      116,
+      19,
+      908,
+      1511
+    ],
+    "sha256": "478dc8cc04badc07fb559de6c3c53225ee79693d12c1cfe65afaca4469e740f9",
+    "category": "trophy",
+    "crop_uv": [
+      0.11328125,
+      0.012369791666666666,
+      0.7734375,
+      0.9713541666666666
+    ]
+  },
+  {
+    "id": 11,
+    "file": "source\\Decals\\ChatGPT Image Sep 25, 2026, 01_49_18 PM-7.png",
+    "size": [
+      1122,
+      1402
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha_bbox": [
+      33,
+      67,
+      1089,
+      1328
+    ],
+    "sha256": "7a225b948783eab7f2947f64aaddb4fabf7ec34f5d131a82e6f73fcf4beda6e9",
+    "category": "trophy",
+    "crop_uv": [
+      0.029411764705882353,
+      0.04778887303851641,
+      0.9411764705882353,
+      0.8994293865905849
+    ]
+  },
+  {
+    "id": 12,
+    "file": "source\\Decals\\ChatGPT Image Sep 25, 2026, 01_49_19 PM-8.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "alpha_bbox": [
+      177,
+      39,
+      847,
+      1499
+    ],
+    "sha256": "d3ff8bf3ceb219f88112db48eae57fb6ed119b276dd7a8c4d0ab07c3ce1bb761",
+    "category": "trophy",
+    "crop_uv": [
+      0.1728515625,
+      0.025390625,
+      0.654296875,
+      0.9505208333333334
+    ]
+  },
+  {
+    "id": 13,
+    "file": "source\\Decals\\ChatGPT Image Sep 25, 2026, 01_49_19 PM-9.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "alpha_bbox": [
+      196,
+      19,
+      830,
+      1502
+    ],
+    "sha256": "974e20dcc7208593000663afdc91a81a92aeeae76c4dbe9d2ed06503b396cbac",
+    "category": "trophy",
+    "crop_uv": [
+      0.19140625,
+      0.012369791666666666,
+      0.619140625,
+      0.9654947916666666
+    ]
+  },
+  {
+    "id": 14,
+    "file": "source\\Decals\\ChatGPT Image Sep 25, 2026, 01_49_20 PM-10.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "alpha_bbox": [
+      193,
+      51,
+      831,
+      1497
+    ],
+    "sha256": "850c0076eeb2e85b7bc00efd253339adebd7bc1338c4d05353f9cd027b92887e",
+    "category": "trophy",
+    "crop_uv": [
+      0.1884765625,
+      0.033203125,
+      0.623046875,
+      0.94140625
+    ]
+  },
+  {
+    "id": 15,
+    "file": "source\\Decals\\ChatGPT Image Sep 25, 2026, 02_02_02 PM-2.png",
+    "size": [
+      1448,
+      1086
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha_bbox": [
+      64,
+      77,
+      1382,
+      1019
+    ],
+    "sha256": "af7217d52cebad30ef59b27c1b6c30104f5003c034e06114e9be86741e82e41d",
+    "category": "artwork",
+    "crop_uv": [
+      0.04419889502762431,
+      0.070902394106814,
+      0.9102209944751382,
+      0.8674033149171271
+    ]
+  },
+  {
+    "id": 16,
+    "file": "source\\Decals\\ChatGPT Image Sep 25, 2026, 02_02_02 PM-3.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "alpha_bbox": [
+      49,
+      66,
+      1487,
+      982
+    ],
+    "sha256": "8c1c3ab2c0ca915e56e26cf65f1188aea520cc8ff7512abab9a59af5f457a854",
+    "category": "artwork",
+    "crop_uv": [
+      0.031901041666666664,
+      0.064453125,
+      0.9361979166666666,
+      0.89453125
+    ]
+  },
+  {
+    "id": 17,
+    "file": "source\\Decals\\ChatGPT Image Sep 25, 2026, 02_02_03 PM-5.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "alpha_bbox": [
+      81,
+      55,
+      1455,
+      987
+    ],
+    "sha256": "c2b6f0b3d70ec5f20bc7fbf1d580366057b7fc5788cd266f77a3dddd16d09144",
+    "category": "artwork",
+    "crop_uv": [
+      0.052734375,
+      0.0537109375,
+      0.89453125,
+      0.91015625
+    ]
+  },
+  {
+    "id": 18,
+    "file": "source\\Decals\\ChatGPT Image Sep 25, 2026, 02_02_04 PM-6.png",
+    "size": [
+      1122,
+      1402
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha_bbox": [
+      71,
+      73,
+      1052,
+      1328
+    ],
+    "sha256": "190d550c6a85e8056c4a8d702a54eaafe325f5524969f9d7e91a156fca20b3bd",
+    "category": "artwork",
+    "crop_uv": [
+      0.06327985739750445,
+      0.05206847360912981,
+      0.8743315508021391,
+      0.8951497860199714
+    ]
+  },
+  {
+    "id": 19,
+    "file": "source\\Decals\\ChatGPT Image Sep 25, 2026, 02_02_05 PM-7.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "alpha_bbox": [
+      31,
+      57,
+      1530,
+      985
+    ],
+    "sha256": "18db6c09c717c2eb5f27a9de274b5c60d6228c3ec5a2b8416436e1b08e11cea8",
+    "category": "artwork",
+    "crop_uv": [
+      0.020182291666666668,
+      0.0556640625,
+      0.9759114583333334,
+      0.90625
+    ]
+  }
+]

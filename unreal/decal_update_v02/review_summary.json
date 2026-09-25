@@ -1,0 +1,23 @@
+{
+  "final_map": "/Game/Campus/Maps/CampusCenter_ArchitectDecals_v04",
+  "round_scores": [
+    6.2,
+    6.8,
+    7.6,
+    8.0
+  ],
+  "final_overall": 8.0,
+  "required_overall": 8.5,
+  "quality_gate_met": false,
+  "decal_placement_requirements_met": true,
+  "zero_visible_errors": false,
+  "remaining_issues": [
+    "Abrupt new-to-original flooring transitions at open corridor junctions",
+    "Uneven lighting with dark Commons bays and sharp ceiling bright field",
+    "Simplified hard-edged timber and ceramic material response",
+    "Discrete plaster overlay edges retain brick strips"
+  ],
+  "final_review": "critic_round_4/review.md",
+  "originals_preserved": true,
+  "validation_errors": []
+}

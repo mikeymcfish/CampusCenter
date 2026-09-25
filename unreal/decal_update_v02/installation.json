@@ -1,0 +1,142 @@
+{
+  "map": "/Game/Campus/Maps/CampusCenter_ArchitectDecals_v04",
+  "decals": [
+    {
+      "label": "DD_Artwork_01",
+      "id": 1,
+      "material": "/Game/Campus/DisplayDecalsV02/Materials/M_Decal_01.M_Decal_01"
+    },
+    {
+      "label": "DD_Artwork_02",
+      "id": 2,
+      "material": "/Game/Campus/DisplayDecalsV02/Materials/M_Decal_02.M_Decal_02"
+    },
+    {
+      "label": "DD_Artwork_03",
+      "id": 3,
+      "material": "/Game/Campus/DisplayDecalsV02/Materials/M_Decal_03.M_Decal_03"
+    },
+    {
+      "label": "DD_Artwork_04",
+      "id": 4,
+      "material": "/Game/Campus/DisplayDecalsV02/Materials/M_Decal_04.M_Decal_04"
+    },
+    {
+      "label": "DD_Artwork_15",
+      "id": 15,
+      "material": "/Game/Campus/DisplayDecalsV02/Materials/M_Decal_15.M_Decal_15"
+    },
+    {
+      "label": "DD_Artwork_16",
+      "id": 16,
+      "material": "/Game/Campus/DisplayDecalsV02/Materials/M_Decal_16.M_Decal_16"
+    },
+    {
+      "label": "DD_Artwork_17",
+      "id": 17,
+      "material": "/Game/Campus/DisplayDecalsV02/Materials/M_Decal_17.M_Decal_17"
+    },
+    {
+      "label": "DD_Artwork_18",
+      "id": 18,
+      "material": "/Game/Campus/DisplayDecalsV02/Materials/M_Decal_18.M_Decal_18"
+    },
+    {
+      "label": "DD_Artwork_19",
+      "id": 19,
+      "material": "/Game/Campus/DisplayDecalsV02/Materials/M_Decal_19.M_Decal_19"
+    },
+    {
+      "label": "DD_Trophy_05",
+      "id": 5,
+      "material": "/Game/Campus/DisplayDecalsV02/Materials/M_Decal_05.M_Decal_05"
+    },
+    {
+      "label": "DD_Trophy_06",
+      "id": 6,
+      "material": "/Game/Campus/DisplayDecalsV02/Materials/M_Decal_06.M_Decal_06"
+    },
+    {
+      "label": "DD_Trophy_07",
+      "id": 7,
+      "material": "/Game/Campus/DisplayDecalsV02/Materials/M_Decal_07.M_Decal_07"
+    },
+    {
+      "label": "DD_Trophy_08",
+      "id": 8,
+      "material": "/Game/Campus/DisplayDecalsV02/Materials/M_Decal_08.M_Decal_08"
+    },
+    {
+      "label": "DD_Trophy_09",
+      "id": 9,
+      "material": "/Game/Campus/DisplayDecalsV02/Materials/M_Decal_09.M_Decal_09"
+    },
+    {
+      "label": "DD_Trophy_10",
+      "id": 10,
+      "material": "/Game/Campus/DisplayDecalsV02/Materials/M_Decal_10.M_Decal_10"
+    },
+    {
+      "label": "DD_Trophy_11",
+      "id": 11,
+      "material": "/Game/Campus/DisplayDecalsV02/Materials/M_Decal_11.M_Decal_11"
+    },
+    {
+      "label": "DD_Trophy_12",
+      "id": 12,
+      "material": "/Game/Campus/DisplayDecalsV02/Materials/M_Decal_12.M_Decal_12"
+    },
+    {
+      "label": "DD_Trophy_13",
+      "id": 13,
+      "material": "/Game/Campus/DisplayDecalsV02/Materials/M_Decal_13.M_Decal_13"
+    },
+    {
+      "label": "DD_Trophy_14",
+      "id": 14,
+      "material": "/Game/Campus/DisplayDecalsV02/Materials/M_Decal_14.M_Decal_14"
+    }
+  ],
+  "meshes": [
+    "DD_Artwork_01",
+    "DD_Artwork_02",
+    "DD_Artwork_03",
+    "DD_Artwork_04",
+    "DD_Artwork_15",
+    "DD_Artwork_16",
+    "DD_Artwork_17",
+    "DD_Artwork_18",
+    "DD_Artwork_19",
+    "DD_Gallery_Cork",
+    "DD_Gallery_Dado",
+    "DD_Gallery_Rail_0_995",
+    "DD_Gallery_Rail_2_615",
+    "DD_Shelf_Bracket_18_5",
+    "DD_Shelf_Bracket_20_5",
+    "DD_Shelf_Bracket_22_5",
+    "DD_Shelf_Bracket_24_5",
+    "DD_Shelf_Bracket_26_5",
+    "DD_Shelf_Bracket_27_6",
+    "DD_Trophy_05",
+    "DD_Trophy_06",
+    "DD_Trophy_07",
+    "DD_Trophy_08",
+    "DD_Trophy_09",
+    "DD_Trophy_10",
+    "DD_Trophy_11",
+    "DD_Trophy_12",
+    "DD_Trophy_13",
+    "DD_Trophy_14",
+    "DD_Trophy_Backboard",
+    "DD_Trophy_ShadowReveal",
+    "DD_Trophy_Shelf"
+  ],
+  "lights": [
+    "DD_Gallery_Wash_0",
+    "DD_Gallery_Wash_1",
+    "DD_Gallery_Wash_2",
+    "DD_Trophy_Wash_0",
+    "DD_Trophy_Wash_1",
+    "DD_Trophy_Wash_2"
+  ]
+}

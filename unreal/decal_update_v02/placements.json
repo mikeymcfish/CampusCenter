@@ -1,0 +1,297 @@
+[
+  {
+    "id": 1,
+    "label": "DD_Artwork_01",
+    "category": "artwork",
+    "center_blender_m": [
+      -10.55,
+      16.172,
+      1.8
+    ],
+    "size_m": [
+      0.4840664961636829,
+      1.08
+    ],
+    "facing": "south; opposite lab north glass"
+  },
+  {
+    "id": 2,
+    "label": "DD_Artwork_02",
+    "category": "artwork",
+    "center_blender_m": [
+      -9.370000000000001,
+      16.172,
+      1.8
+    ],
+    "size_m": [
+      0.85145584725537,
+      1.08
+    ],
+    "facing": "south; opposite lab north glass"
+  },
+  {
+    "id": 3,
+    "label": "DD_Artwork_03",
+    "category": "artwork",
+    "center_blender_m": [
+      -8.190000000000001,
+      16.172,
+      1.8
+    ],
+    "size_m": [
+      0.8354066985645934,
+      1.08
+    ],
+    "facing": "south; opposite lab north glass"
+  },
+  {
+    "id": 4,
+    "label": "DD_Artwork_04",
+    "category": "artwork",
+    "center_blender_m": [
+      -7.010000000000001,
+      16.172,
+      1.8
+    ],
+    "size_m": [
+      0.94,
+      0.9051537070524411
+    ],
+    "facing": "south; opposite lab north glass"
+  },
+  {
+    "id": 15,
+    "label": "DD_Artwork_15",
+    "category": "artwork",
+    "center_blender_m": [
+      -5.830000000000001,
+      16.172,
+      1.8
+    ],
+    "size_m": [
+      0.94,
+      0.6718361153262519
+    ],
+    "facing": "south; opposite lab north glass"
+  },
+  {
+    "id": 16,
+    "label": "DD_Artwork_16",
+    "category": "artwork",
+    "center_blender_m": [
+      -4.650000000000001,
+      16.172,
+      1.8
+    ],
+    "size_m": [
+      0.9399999999999998,
+      0.5987760778859527
+    ],
+    "facing": "south; opposite lab north glass"
+  },
+  {
+    "id": 17,
+    "label": "DD_Artwork_17",
+    "category": "artwork",
+    "center_blender_m": [
+      -3.4700000000000006,
+      16.172,
+      1.8
+    ],
+    "size_m": [
+      0.94,
+      0.6376128093158661
+    ],
+    "facing": "south; opposite lab north glass"
+  },
+  {
+    "id": 18,
+    "label": "DD_Artwork_18",
+    "category": "artwork",
+    "center_blender_m": [
+      -2.290000000000001,
+      16.172,
+      1.8
+    ],
+    "size_m": [
+      0.8442071713147411,
+      1.08
+    ],
+    "facing": "south; opposite lab north glass"
+  },
+  {
+    "id": 19,
+    "label": "DD_Artwork_19",
+    "category": "artwork",
+    "center_blender_m": [
+      -1.1100000000000012,
+      16.172,
+      1.8
+    ],
+    "size_m": [
+      0.94,
+      0.5819346230820547
+    ],
+    "facing": "south; opposite lab north glass"
+  },
+  {
+    "id": 5,
+    "label": "DD_Trophy_05",
+    "category": "trophy",
+    "center_blender_m": [
+      -25.878,
+      18.35,
+      1.54
+    ],
+    "size_m": [
+      0.4759219088937093,
+      0.6
+    ],
+    "base_height_m": 1.24,
+    "facing": "west; opposite lockers"
+  },
+  {
+    "id": 6,
+    "label": "DD_Trophy_06",
+    "category": "trophy",
+    "center_blender_m": [
+      -25.878,
+      19.395000000000003,
+      1.53
+    ],
+    "size_m": [
+      0.3966882649388048,
+      0.58
+    ],
+    "base_height_m": 1.24,
+    "facing": "west; opposite lockers"
+  },
+  {
+    "id": 7,
+    "label": "DD_Trophy_07",
+    "category": "trophy",
+    "center_blender_m": [
+      -25.878,
+      20.44,
+      1.6
+    ],
+    "size_m": [
+      0.2968720379146919,
+      0.72
+    ],
+    "base_height_m": 1.24,
+    "facing": "west; opposite lockers"
+  },
+  {
+    "id": 8,
+    "label": "DD_Trophy_08",
+    "category": "trophy",
+    "center_blender_m": [
+      -25.878,
+      21.485,
+      1.58
+    ],
+    "size_m": [
+      0.28736986301369866,
+      0.68
+    ],
+    "base_height_m": 1.24,
+    "facing": "west; opposite lockers"
+  },
+  {
+    "id": 9,
+    "label": "DD_Trophy_09",
+    "category": "trophy",
+    "center_blender_m": [
+      -25.878,
+      22.53,
+      1.585
+    ],
+    "size_m": [
+      0.3048837209302325,
+      0.69
+    ],
+    "base_height_m": 1.24,
+    "facing": "west; opposite lockers"
+  },
+  {
+    "id": 10,
+    "label": "DD_Trophy_10",
+    "category": "trophy",
+    "center_blender_m": [
+      -25.878,
+      23.575000000000003,
+      1.555
+    ],
+    "size_m": [
+      0.3344235924932976,
+      0.63
+    ],
+    "base_height_m": 1.24,
+    "facing": "west; opposite lockers"
+  },
+  {
+    "id": 11,
+    "label": "DD_Trophy_11",
+    "category": "trophy",
+    "center_blender_m": [
+      -25.878,
+      24.62,
+      1.495
+    ],
+    "size_m": [
+      0.42708961141950835,
+      0.51
+    ],
+    "base_height_m": 1.24,
+    "facing": "west; opposite lockers"
+  },
+  {
+    "id": 12,
+    "label": "DD_Trophy_12",
+    "category": "trophy",
+    "center_blender_m": [
+      -25.878,
+      25.665,
+      1.57
+    ],
+    "size_m": [
+      0.3028767123287671,
+      0.66
+    ],
+    "base_height_m": 1.24,
+    "facing": "west; opposite lockers"
+  },
+  {
+    "id": 13,
+    "label": "DD_Trophy_13",
+    "category": "trophy",
+    "center_blender_m": [
+      -25.878,
+      26.71,
+      1.51
+    ],
+    "size_m": [
+      0.23085637221847607,
+      0.54
+    ],
+    "base_height_m": 1.24,
+    "facing": "west; opposite lockers"
+  },
+  {
+    "id": 14,
+    "label": "DD_Trophy_14",
+    "category": "trophy",
+    "center_blender_m": [
+      -25.878,
+      27.755000000000003,
+      1.51
+    ],
+    "size_m": [
+      0.2382572614107884,
+      0.54
+    ],
+    "base_height_m": 1.24,
+    "facing": "west; opposite lockers"
+  }
+]
