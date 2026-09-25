@@ -1,0 +1,2075 @@
+{
+  "source": "260922_King School Commons_v01.jpg",
+  "method": "Perspective rectification and HSV connected components; visible segments only; occluded extents not inferred.",
+  "quad_in_2048px_preview": [
+    [
+      421,
+      276
+    ],
+    [
+      1083,
+      185
+    ],
+    [
+      1083,
+      652
+    ],
+    [
+      421,
+      652
+    ]
+  ],
+  "segments": [
+    {
+      "color": "wood",
+      "x": 0.00094,
+      "bottom": 0.0,
+      "top": 0.235,
+      "width": 0.00188
+    },
+    {
+      "color": "wood",
+      "x": 0.01219,
+      "bottom": 0.512,
+      "top": 1.0,
+      "width": 0.01812
+    },
+    {
+      "color": "wood",
+      "x": 0.04,
+      "bottom": 0.016,
+      "top": 0.369,
+      "width": 0.0175
+    },
+    {
+      "color": "wood",
+      "x": 0.04,
+      "bottom": 0.55,
+      "top": 1.0,
+      "width": 0.0175
+    },
+    {
+      "color": "wood",
+      "x": 0.06656,
+      "bottom": 0.788,
+      "top": 1.0,
+      "width": 0.01688
+    },
+    {
+      "color": "blue",
+      "x": 0.0925,
+      "bottom": 0.269,
+      "top": 0.623,
+      "width": 0.01625
+    },
+    {
+      "color": "wood",
+      "x": 0.1175,
+      "bottom": 0.133,
+      "top": 0.483,
+      "width": 0.0175
+    },
+    {
+      "color": "wood",
+      "x": 0.1175,
+      "bottom": 0.763,
+      "top": 1.0,
+      "width": 0.0175
+    },
+    {
+      "color": "wood",
+      "x": 0.14156,
+      "bottom": 0.858,
+      "top": 1.0,
+      "width": 0.01688
+    },
+    {
+      "color": "wood",
+      "x": 0.16469,
+      "bottom": 0.129,
+      "top": 1.0,
+      "width": 0.01688
+    },
+    {
+      "color": "blue",
+      "x": 0.18812,
+      "bottom": 0.018,
+      "top": 1.0,
+      "width": 0.015
+    },
+    {
+      "color": "wood",
+      "x": 0.21062,
+      "bottom": 0.126,
+      "top": 0.455,
+      "width": 0.015
+    },
+    {
+      "color": "wood",
+      "x": 0.21062,
+      "bottom": 0.901,
+      "top": 1.0,
+      "width": 0.015
+    },
+    {
+      "color": "wood",
+      "x": 0.22188,
+      "bottom": 0.126,
+      "top": 0.169,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.22188,
+      "bottom": 0.895,
+      "top": 0.949,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.22688,
+      "bottom": 0.015,
+      "top": 0.368,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.22688,
+      "bottom": 0.687,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.23188,
+      "bottom": 0.017,
+      "top": 0.368,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.23188,
+      "bottom": 0.687,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.23688,
+      "bottom": 0.017,
+      "top": 0.367,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.23688,
+      "bottom": 0.687,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "blue",
+      "x": 0.25219,
+      "bottom": 0.242,
+      "top": 0.878,
+      "width": 0.01438
+    },
+    {
+      "color": "wood",
+      "x": 0.27187,
+      "bottom": 0.356,
+      "top": 0.867,
+      "width": 0.015
+    },
+    {
+      "color": "wood",
+      "x": 0.28625,
+      "bottom": 0.774,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.29125,
+      "bottom": 0.773,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.29625,
+      "bottom": 0.774,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.30125,
+      "bottom": 0.116,
+      "top": 0.239,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.30125,
+      "bottom": 0.826,
+      "top": 0.908,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.30625,
+      "bottom": 0.117,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.31125,
+      "bottom": 0.119,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.31625,
+      "bottom": 0.119,
+      "top": 0.464,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.31625,
+      "bottom": 0.689,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.3275,
+      "bottom": 0.659,
+      "top": 1.0,
+      "width": 0.0175
+    },
+    {
+      "color": "wood",
+      "x": 0.33844,
+      "bottom": 0.014,
+      "top": 0.129,
+      "width": 0.00312
+    },
+    {
+      "color": "blue",
+      "x": 0.3475,
+      "bottom": 0.019,
+      "top": 0.726,
+      "width": 0.0125
+    },
+    {
+      "color": "blue",
+      "x": 0.3475,
+      "bottom": 0.744,
+      "top": 1.0,
+      "width": 0.0125
+    },
+    {
+      "color": "wood",
+      "x": 0.36438,
+      "bottom": 0.369,
+      "top": 0.718,
+      "width": 0.01375
+    },
+    {
+      "color": "wood",
+      "x": 0.36438,
+      "bottom": 0.95,
+      "top": 0.991,
+      "width": 0.01375
+    },
+    {
+      "color": "wood",
+      "x": 0.38125,
+      "bottom": 0.794,
+      "top": 0.979,
+      "width": 0.01375
+    },
+    {
+      "color": "wood",
+      "x": 0.39688,
+      "bottom": 0.36,
+      "top": 0.824,
+      "width": 0.015
+    },
+    {
+      "color": "blue",
+      "x": 0.41406,
+      "bottom": 0.252,
+      "top": 0.954,
+      "width": 0.01188
+    },
+    {
+      "color": "wood",
+      "x": 0.4275,
+      "bottom": 0.017,
+      "top": 0.75,
+      "width": 0.0175
+    },
+    {
+      "color": "wood",
+      "x": 0.44438,
+      "bottom": 0.721,
+      "top": 0.943,
+      "width": 0.01375
+    },
+    {
+      "color": "wood",
+      "x": 0.45562,
+      "bottom": 0.409,
+      "top": 0.732,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.46062,
+      "bottom": 0.41,
+      "top": 0.733,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.46562,
+      "bottom": 0.015,
+      "top": 0.195,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.46562,
+      "bottom": 0.205,
+      "top": 0.233,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.46562,
+      "bottom": 0.404,
+      "top": 0.499,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.46562,
+      "bottom": 0.657,
+      "top": 0.73,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.47062,
+      "bottom": 0.016,
+      "top": 0.933,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.47562,
+      "bottom": 0.018,
+      "top": 0.931,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.48062,
+      "bottom": 0.169,
+      "top": 0.402,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.48562,
+      "bottom": 0.17,
+      "top": 0.6,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.49062,
+      "bottom": 0.171,
+      "top": 0.6,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.50187,
+      "bottom": 0.849,
+      "top": 0.922,
+      "width": 0.01375
+    },
+    {
+      "color": "wood",
+      "x": 0.50187,
+      "bottom": 0.967,
+      "top": 1.0,
+      "width": 0.01375
+    },
+    {
+      "color": "blue",
+      "x": 0.51625,
+      "bottom": 0.481,
+      "top": 0.897,
+      "width": 0.01
+    },
+    {
+      "color": "wood",
+      "x": 0.52781,
+      "bottom": 0.095,
+      "top": 0.413,
+      "width": 0.01438
+    },
+    {
+      "color": "wood",
+      "x": 0.52781,
+      "bottom": 0.695,
+      "top": 0.915,
+      "width": 0.01438
+    },
+    {
+      "color": "wood",
+      "x": 0.52781,
+      "bottom": 0.96,
+      "top": 1.0,
+      "width": 0.01438
+    },
+    {
+      "color": "wood",
+      "x": 0.53812,
+      "bottom": 0.343,
+      "top": 0.753,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.54312,
+      "bottom": 0.344,
+      "top": 0.753,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.54812,
+      "bottom": 0.69,
+      "top": 0.902,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.54812,
+      "bottom": 0.964,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.55312,
+      "bottom": 0.687,
+      "top": 0.911,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.55312,
+      "bottom": 0.955,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.55812,
+      "bottom": 0.687,
+      "top": 0.91,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.55812,
+      "bottom": 0.954,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.56312,
+      "bottom": 0.213,
+      "top": 0.859,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.56812,
+      "bottom": 0.214,
+      "top": 0.859,
+      "width": 0.00438
+    },
+    {
+      "color": "blue",
+      "x": 0.57906,
+      "bottom": 0.161,
+      "top": 0.553,
+      "width": 0.00938
+    },
+    {
+      "color": "blue",
+      "x": 0.57906,
+      "bottom": 0.795,
+      "top": 0.902,
+      "width": 0.00938
+    },
+    {
+      "color": "blue",
+      "x": 0.57906,
+      "bottom": 0.958,
+      "top": 1.0,
+      "width": 0.00938
+    },
+    {
+      "color": "wood",
+      "x": 0.58625,
+      "bottom": 0.306,
+      "top": 0.907,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.58625,
+      "bottom": 0.954,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.59125,
+      "bottom": 0.307,
+      "top": 0.907,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.59125,
+      "bottom": 0.954,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.59625,
+      "bottom": 0.016,
+      "top": 0.585,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.59625,
+      "bottom": 0.719,
+      "top": 0.904,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.59625,
+      "bottom": 0.956,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.60125,
+      "bottom": 0.019,
+      "top": 0.587,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.60125,
+      "bottom": 0.717,
+      "top": 0.908,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.60125,
+      "bottom": 0.954,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.60625,
+      "bottom": 0.019,
+      "top": 0.585,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.60625,
+      "bottom": 0.711,
+      "top": 0.91,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.60625,
+      "bottom": 0.953,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.61125,
+      "bottom": 0.439,
+      "top": 0.822,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.61625,
+      "bottom": 0.439,
+      "top": 0.821,
+      "width": 0.00438
+    },
+    {
+      "color": "blue",
+      "x": 0.62469,
+      "bottom": 0.299,
+      "top": 0.675,
+      "width": 0.00938
+    },
+    {
+      "color": "blue",
+      "x": 0.62469,
+      "bottom": 0.965,
+      "top": 0.993,
+      "width": 0.00938
+    },
+    {
+      "color": "wood",
+      "x": 0.63,
+      "bottom": 0.017,
+      "top": 0.805,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.635,
+      "bottom": 0.019,
+      "top": 0.805,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.64,
+      "bottom": 0.689,
+      "top": 0.912,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.645,
+      "bottom": 0.687,
+      "top": 0.921,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.65,
+      "bottom": 0.279,
+      "top": 0.313,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.65,
+      "bottom": 0.537,
+      "top": 0.613,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.65,
+      "bottom": 0.624,
+      "top": 0.922,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.655,
+      "bottom": 0.277,
+      "top": 0.88,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.66,
+      "bottom": 0.12,
+      "top": 0.198,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.66,
+      "bottom": 0.265,
+      "top": 0.555,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.66,
+      "bottom": 0.583,
+      "top": 0.927,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.665,
+      "bottom": 0.12,
+      "top": 0.537,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.665,
+      "bottom": 0.729,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.67,
+      "bottom": 0.018,
+      "top": 0.537,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.67,
+      "bottom": 0.566,
+      "top": 0.708,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.67,
+      "bottom": 0.723,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.675,
+      "bottom": 0.019,
+      "top": 0.773,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.68,
+      "bottom": 0.02,
+      "top": 0.381,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.68,
+      "bottom": 0.609,
+      "top": 0.771,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.68,
+      "bottom": 0.847,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "blue",
+      "x": 0.68562,
+      "bottom": 0.608,
+      "top": 1.0,
+      "width": 0.00875
+    },
+    {
+      "color": "wood",
+      "x": 0.69188,
+      "bottom": 0.298,
+      "top": 0.65,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.69688,
+      "bottom": 0.299,
+      "top": 0.65,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.69688,
+      "bottom": 0.879,
+      "top": 0.942,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.70188,
+      "bottom": 0.588,
+      "top": 0.937,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.70688,
+      "bottom": 0.588,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "blue",
+      "x": 0.71344,
+      "bottom": 0.696,
+      "top": 1.0,
+      "width": 0.00812
+    },
+    {
+      "color": "wood",
+      "x": 0.72594,
+      "bottom": 0.17,
+      "top": 0.735,
+      "width": 0.01812
+    },
+    {
+      "color": "blue",
+      "x": 0.73969,
+      "bottom": 0.389,
+      "top": 0.721,
+      "width": 0.00812
+    },
+    {
+      "color": "wood",
+      "x": 0.74562,
+      "bottom": 0.138,
+      "top": 0.468,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.75062,
+      "bottom": 0.138,
+      "top": 0.467,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.75062,
+      "bottom": 0.75,
+      "top": 0.867,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.75562,
+      "bottom": 0.537,
+      "top": 0.867,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.75562,
+      "bottom": 0.936,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.76062,
+      "bottom": 0.018,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.76562,
+      "bottom": 0.019,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "blue",
+      "x": 0.77656,
+      "bottom": 0.257,
+      "top": 0.573,
+      "width": 0.01438
+    },
+    {
+      "color": "wood",
+      "x": 0.78438,
+      "bottom": 0.495,
+      "top": 0.629,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.78438,
+      "bottom": 0.681,
+      "top": 0.812,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.78438,
+      "bottom": 0.934,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.78938,
+      "bottom": 0.495,
+      "top": 0.628,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.78938,
+      "bottom": 0.68,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.79438,
+      "bottom": 0.251,
+      "top": 0.564,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.79438,
+      "bottom": 0.679,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.79938,
+      "bottom": 0.487,
+      "top": 0.627,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.79938,
+      "bottom": 0.68,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.80438,
+      "bottom": 0.486,
+      "top": 0.625,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.80438,
+      "bottom": 0.678,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.80938,
+      "bottom": 0.88,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "blue",
+      "x": 0.81,
+      "bottom": 0.424,
+      "top": 0.62,
+      "width": 0.0075
+    },
+    {
+      "color": "wood",
+      "x": 0.81438,
+      "bottom": 0.019,
+      "top": 0.623,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.81438,
+      "bottom": 0.674,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.81938,
+      "bottom": 0.02,
+      "top": 0.4,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.81938,
+      "bottom": 0.536,
+      "top": 0.618,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.81938,
+      "bottom": 0.678,
+      "top": 0.747,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.81938,
+      "bottom": 0.793,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.82438,
+      "bottom": 0.22,
+      "top": 0.522,
+      "width": 0.00438
+    },
+    {
+      "color": "blue",
+      "x": 0.82438,
+      "bottom": 0.81,
+      "top": 0.946,
+      "width": 0.00625
+    },
+    {
+      "color": "wood",
+      "x": 0.82438,
+      "bottom": 0.947,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.82938,
+      "bottom": 0.081,
+      "top": 0.265,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.82938,
+      "bottom": 0.402,
+      "top": 0.631,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.82938,
+      "bottom": 0.663,
+      "top": 0.732,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.82938,
+      "bottom": 0.947,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.83438,
+      "bottom": 0.587,
+      "top": 0.617,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.83438,
+      "bottom": 0.671,
+      "top": 0.723,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.83438,
+      "bottom": 0.927,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.83938,
+      "bottom": 0.466,
+      "top": 0.724,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.83938,
+      "bottom": 0.918,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.84438,
+      "bottom": 0.02,
+      "top": 0.504,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.84438,
+      "bottom": 0.836,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.84938,
+      "bottom": 0.147,
+      "top": 0.214,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.84938,
+      "bottom": 0.303,
+      "top": 0.718,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.84938,
+      "bottom": 0.753,
+      "top": 0.778,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.84938,
+      "bottom": 0.817,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.85438,
+      "bottom": 0.667,
+      "top": 0.71,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.85438,
+      "bottom": 0.752,
+      "top": 0.778,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.85438,
+      "bottom": 0.819,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "blue",
+      "x": 0.85688,
+      "bottom": 0.226,
+      "top": 0.661,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.85938,
+      "bottom": 0.665,
+      "top": 0.71,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.85938,
+      "bottom": 0.748,
+      "top": 0.781,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.85938,
+      "bottom": 0.82,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "blue",
+      "x": 0.86188,
+      "bottom": 0.227,
+      "top": 0.656,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.86438,
+      "bottom": 0.02,
+      "top": 0.221,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.86438,
+      "bottom": 0.661,
+      "top": 0.709,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.86438,
+      "bottom": 0.745,
+      "top": 0.782,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.86438,
+      "bottom": 0.82,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "blue",
+      "x": 0.86688,
+      "bottom": 0.226,
+      "top": 0.654,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.86938,
+      "bottom": 0.078,
+      "top": 0.22,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.86938,
+      "bottom": 0.835,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "blue",
+      "x": 0.87188,
+      "bottom": 0.225,
+      "top": 0.654,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.87438,
+      "bottom": 0.651,
+      "top": 0.704,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.87438,
+      "bottom": 0.739,
+      "top": 0.784,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.87438,
+      "bottom": 0.821,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "blue",
+      "x": 0.87688,
+      "bottom": 0.221,
+      "top": 0.646,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.87938,
+      "bottom": 0.077,
+      "top": 0.216,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.87938,
+      "bottom": 0.646,
+      "top": 0.694,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.87938,
+      "bottom": 0.74,
+      "top": 0.783,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.87938,
+      "bottom": 0.822,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "blue",
+      "x": 0.88188,
+      "bottom": 0.222,
+      "top": 0.641,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.88438,
+      "bottom": 0.078,
+      "top": 0.216,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.88438,
+      "bottom": 0.646,
+      "top": 0.691,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.88438,
+      "bottom": 0.738,
+      "top": 0.784,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.88438,
+      "bottom": 0.821,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "blue",
+      "x": 0.88688,
+      "bottom": 0.218,
+      "top": 0.639,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.88938,
+      "bottom": 0.662,
+      "top": 0.699,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.88938,
+      "bottom": 0.733,
+      "top": 0.785,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.88938,
+      "bottom": 0.822,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "blue",
+      "x": 0.89188,
+      "bottom": 0.217,
+      "top": 0.631,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.89438,
+      "bottom": 0.636,
+      "top": 0.697,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.89438,
+      "bottom": 0.731,
+      "top": 0.784,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.89438,
+      "bottom": 0.822,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "blue",
+      "x": 0.89688,
+      "bottom": 0.369,
+      "top": 0.473,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.89938,
+      "bottom": 0.02,
+      "top": 0.181,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.89938,
+      "bottom": 0.479,
+      "top": 0.696,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.89938,
+      "bottom": 0.834,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "blue",
+      "x": 0.90188,
+      "bottom": 0.349,
+      "top": 0.475,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.90438,
+      "bottom": 0.284,
+      "top": 0.342,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.90438,
+      "bottom": 0.496,
+      "top": 0.695,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.90438,
+      "bottom": 0.729,
+      "top": 0.784,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.90438,
+      "bottom": 0.821,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "blue",
+      "x": 0.90688,
+      "bottom": 0.348,
+      "top": 0.49,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.90938,
+      "bottom": 0.24,
+      "top": 0.319,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.90938,
+      "bottom": 0.513,
+      "top": 0.692,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.90938,
+      "bottom": 0.728,
+      "top": 0.783,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.90938,
+      "bottom": 0.822,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "blue",
+      "x": 0.91188,
+      "bottom": 0.325,
+      "top": 0.507,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.91438,
+      "bottom": 0.178,
+      "top": 0.296,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.91438,
+      "bottom": 0.529,
+      "top": 0.689,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.91438,
+      "bottom": 0.838,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "blue",
+      "x": 0.91688,
+      "bottom": 0.302,
+      "top": 0.524,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.91938,
+      "bottom": 0.839,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "blue",
+      "x": 0.92188,
+      "bottom": 0.277,
+      "top": 0.684,
+      "width": 0.00438
+    },
+    {
+      "color": "blue",
+      "x": 0.92188,
+      "bottom": 0.73,
+      "top": 0.775,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.92438,
+      "bottom": 0.175,
+      "top": 0.25,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.92438,
+      "bottom": 0.84,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "blue",
+      "x": 0.92688,
+      "bottom": 0.256,
+      "top": 0.558,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.92938,
+      "bottom": 0.651,
+      "top": 0.678,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.92938,
+      "bottom": 0.727,
+      "top": 0.781,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.92938,
+      "bottom": 0.84,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "blue",
+      "x": 0.93188,
+      "bottom": 0.207,
+      "top": 0.377,
+      "width": 0.00438
+    },
+    {
+      "color": "blue",
+      "x": 0.93188,
+      "bottom": 0.395,
+      "top": 0.599,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.93438,
+      "bottom": 0.726,
+      "top": 0.78,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.93438,
+      "bottom": 0.84,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "blue",
+      "x": 0.93688,
+      "bottom": 0.205,
+      "top": 0.595,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.93938,
+      "bottom": 0.648,
+      "top": 0.68,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.93938,
+      "bottom": 0.724,
+      "top": 0.779,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.93938,
+      "bottom": 0.841,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "blue",
+      "x": 0.94188,
+      "bottom": 0.203,
+      "top": 0.334,
+      "width": 0.00438
+    },
+    {
+      "color": "blue",
+      "x": 0.94188,
+      "bottom": 0.445,
+      "top": 0.59,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.94438,
+      "bottom": 0.336,
+      "top": 0.444,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.94438,
+      "bottom": 0.618,
+      "top": 0.681,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.94438,
+      "bottom": 0.724,
+      "top": 0.778,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.94438,
+      "bottom": 0.841,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "blue",
+      "x": 0.94688,
+      "bottom": 0.202,
+      "top": 0.311,
+      "width": 0.00438
+    },
+    {
+      "color": "blue",
+      "x": 0.94688,
+      "bottom": 0.47,
+      "top": 0.586,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.94938,
+      "bottom": 0.02,
+      "top": 0.169,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.94938,
+      "bottom": 0.312,
+      "top": 0.372,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.94938,
+      "bottom": 0.608,
+      "top": 0.681,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.94938,
+      "bottom": 0.723,
+      "top": 0.777,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.94938,
+      "bottom": 0.841,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "blue",
+      "x": 0.95188,
+      "bottom": 0.201,
+      "top": 0.29,
+      "width": 0.00438
+    },
+    {
+      "color": "blue",
+      "x": 0.95188,
+      "bottom": 0.488,
+      "top": 0.566,
+      "width": 0.00438
+    },
+    {
+      "color": "blue",
+      "x": 0.95188,
+      "bottom": 0.617,
+      "top": 0.68,
+      "width": 0.00438
+    },
+    {
+      "color": "blue",
+      "x": 0.95188,
+      "bottom": 0.727,
+      "top": 0.768,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.95438,
+      "bottom": 0.021,
+      "top": 0.168,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.95438,
+      "bottom": 0.842,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "blue",
+      "x": 0.95688,
+      "bottom": 0.2,
+      "top": 0.273,
+      "width": 0.00438
+    },
+    {
+      "color": "blue",
+      "x": 0.95688,
+      "bottom": 0.507,
+      "top": 0.557,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.95938,
+      "bottom": 0.397,
+      "top": 0.506,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.95938,
+      "bottom": 0.596,
+      "top": 0.646,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.95938,
+      "bottom": 0.842,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "blue",
+      "x": 0.96188,
+      "bottom": 0.198,
+      "top": 0.252,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.96438,
+      "bottom": 0.071,
+      "top": 0.197,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.96438,
+      "bottom": 0.347,
+      "top": 0.433,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.96438,
+      "bottom": 0.612,
+      "top": 0.685,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.96438,
+      "bottom": 0.719,
+      "top": 0.772,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.96438,
+      "bottom": 0.842,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.96938,
+      "bottom": 0.128,
+      "top": 0.278,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.96938,
+      "bottom": 0.728,
+      "top": 0.768,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.96938,
+      "bottom": 0.842,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "blue",
+      "x": 0.9725,
+      "bottom": 0.604,
+      "top": 0.681,
+      "width": 0.00375
+    },
+    {
+      "color": "blue",
+      "x": 0.9725,
+      "bottom": 0.729,
+      "top": 0.762,
+      "width": 0.00375
+    },
+    {
+      "color": "wood",
+      "x": 0.97438,
+      "bottom": 0.071,
+      "top": 0.505,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.97438,
+      "bottom": 0.843,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.97938,
+      "bottom": 0.021,
+      "top": 0.542,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.97938,
+      "bottom": 0.602,
+      "top": 0.685,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.97938,
+      "bottom": 0.721,
+      "top": 0.765,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.97938,
+      "bottom": 0.843,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.98438,
+      "bottom": 0.07,
+      "top": 0.218,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.98438,
+      "bottom": 0.421,
+      "top": 0.542,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.98438,
+      "bottom": 0.601,
+      "top": 0.686,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.98438,
+      "bottom": 0.72,
+      "top": 0.764,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.98438,
+      "bottom": 0.804,
+      "top": 0.83,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.98438,
+      "bottom": 0.843,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "blue",
+      "x": 0.98938,
+      "bottom": 0.162,
+      "top": 0.408,
+      "width": 0.005
+    },
+    {
+      "color": "wood",
+      "x": 0.98938,
+      "bottom": 0.418,
+      "top": 0.542,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.98938,
+      "bottom": 0.6,
+      "top": 0.687,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.98938,
+      "bottom": 0.72,
+      "top": 0.762,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.98938,
+      "bottom": 0.799,
+      "top": 0.83,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.98938,
+      "bottom": 0.843,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.99438,
+      "bottom": 0.379,
+      "top": 0.541,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.99438,
+      "bottom": 0.844,
+      "top": 1.0,
+      "width": 0.00438
+    },
+    {
+      "color": "wood",
+      "x": 0.99938,
+      "bottom": 0.844,
+      "top": 1.0,
+      "width": 0.00438
+    }
+  ]
+}

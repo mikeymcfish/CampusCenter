@@ -1,0 +1,6144 @@
+{
+  "scene": "Scene",
+  "objects": [
+    {
+      "name": "A101_ground_slab",
+      "min": [
+        -45.481,
+        -0.213,
+        -0.25
+      ],
+      "max": [
+        18.99,
+        39.576,
+        0.0
+      ],
+      "materials": [
+        "Light stone paving"
+      ],
+      "polygons": 22
+    },
+    {
+      "name": "A102_upper_slab",
+      "min": [
+        -45.56,
+        0.0,
+        4.017
+      ],
+      "max": [
+        12.149,
+        29.574,
+        4.267
+      ],
+      "materials": [
+        "Light stone paving"
+      ],
+      "polygons": 26
+    },
+    {
+      "name": "Athletics_single_storey_roof",
+      "min": [
+        -45.481,
+        29.257,
+        4.267
+      ],
+      "max": [
+        -25.905,
+        39.576,
+        4.517
+      ],
+      "materials": [
+        "Roof membrane"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Canopy_crossbeam_424",
+      "min": [
+        12.149,
+        24.558,
+        7.627
+      ],
+      "max": [
+        16.519,
+        24.678,
+        7.827
+      ],
+      "materials": [
+        "Muted blue canopy fascia"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Canopy_crossbeam_470",
+      "min": [
+        12.149,
+        22.107,
+        7.627
+      ],
+      "max": [
+        16.519,
+        22.227,
+        7.827
+      ],
+      "materials": [
+        "Muted blue canopy fascia"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Canopy_crossbeam_560",
+      "min": [
+        12.149,
+        17.311,
+        7.627
+      ],
+      "max": [
+        16.519,
+        17.431,
+        7.827
+      ],
+      "materials": [
+        "Muted blue canopy fascia"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Canopy_crossbeam_611",
+      "min": [
+        12.149,
+        14.594,
+        7.627
+      ],
+      "max": [
+        16.519,
+        14.714,
+        7.827
+      ],
+      "materials": [
+        "Muted blue canopy fascia"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Commons_east_end",
+      "min": [
+        16.312,
+        14.628,
+        0.0
+      ],
+      "max": [
+        16.562,
+        14.841,
+        4.267
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Commons_east_end_base_trim",
+      "min": [
+        16.306,
+        14.622,
+        0.0
+      ],
+      "max": [
+        16.568,
+        14.847,
+        0.11
+      ],
+      "materials": [
+        "Dark metal"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Commons_east_frame0_0",
+      "min": [
+        16.399,
+        14.841,
+        0.0
+      ],
+      "max": [
+        16.475,
+        30.799,
+        0.065
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Commons_east_frame0_3952.2",
+      "min": [
+        16.399,
+        14.841,
+        3.952
+      ],
+      "max": [
+        16.475,
+        30.799,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Commons_east_glass0",
+      "min": [
+        16.425,
+        14.841,
+        0.0
+      ],
+      "max": [
+        16.449,
+        30.799,
+        4.017
+      ],
+      "materials": [
+        "Clear architectural glazing"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Commons_east_head0",
+      "min": [
+        16.312,
+        14.841,
+        4.017
+      ],
+      "max": [
+        16.562,
+        30.799,
+        4.267
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Commons_east_mullion0_0",
+      "min": [
+        16.402,
+        30.764,
+        0.0
+      ],
+      "max": [
+        16.472,
+        30.834,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Commons_east_mullion0_1",
+      "min": [
+        16.402,
+        29.624,
+        0.0
+      ],
+      "max": [
+        16.472,
+        29.694,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Commons_east_mullion0_10",
+      "min": [
+        16.402,
+        19.366,
+        0.0
+      ],
+      "max": [
+        16.472,
+        19.436,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Commons_east_mullion0_11",
+      "min": [
+        16.402,
+        18.226,
+        0.0
+      ],
+      "max": [
+        16.472,
+        18.296,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Commons_east_mullion0_12",
+      "min": [
+        16.402,
+        17.086,
+        0.0
+      ],
+      "max": [
+        16.472,
+        17.156,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Commons_east_mullion0_13",
+      "min": [
+        16.402,
+        15.946,
+        0.0
+      ],
+      "max": [
+        16.472,
+        16.016,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Commons_east_mullion0_14",
+      "min": [
+        16.402,
+        14.806,
+        0.0
+      ],
+      "max": [
+        16.472,
+        14.876,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Commons_east_mullion0_2",
+      "min": [
+        16.402,
+        28.484,
+        0.0
+      ],
+      "max": [
+        16.472,
+        28.554,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Commons_east_mullion0_3",
+      "min": [
+        16.402,
+        27.345,
+        0.0
+      ],
+      "max": [
+        16.472,
+        27.415,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Commons_east_mullion0_4",
+      "min": [
+        16.402,
+        26.205,
+        0.0
+      ],
+      "max": [
+        16.472,
+        26.275,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Commons_east_mullion0_5",
+      "min": [
+        16.402,
+        25.065,
+        0.0
+      ],
+      "max": [
+        16.472,
+        25.135,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Commons_east_mullion0_6",
+      "min": [
+        16.402,
+        23.925,
+        0.0
+      ],
+      "max": [
+        16.472,
+        23.995,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Commons_east_mullion0_7",
+      "min": [
+        16.402,
+        22.785,
+        0.0
+      ],
+      "max": [
+        16.472,
+        22.855,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Commons_east_mullion0_8",
+      "min": [
+        16.402,
+        21.645,
+        0.0
+      ],
+      "max": [
+        16.472,
+        21.715,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Commons_east_mullion0_9",
+      "min": [
+        16.402,
+        20.505,
+        0.0
+      ],
+      "max": [
+        16.472,
+        20.575,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Commons_east_wall0",
+      "min": [
+        16.312,
+        30.799,
+        0.0
+      ],
+      "max": [
+        16.562,
+        31.012,
+        4.267
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Commons_east_wall0_base_trim",
+      "min": [
+        16.306,
+        30.793,
+        0.0
+      ],
+      "max": [
+        16.568,
+        31.018,
+        0.11
+      ],
+      "materials": [
+        "Dark metal"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Commons_gym_party_wall_end",
+      "min": [
+        -0.15,
+        16.384,
+        0.0
+      ],
+      "max": [
+        0.15,
+        31.012,
+        4.267
+      ],
+      "materials": [
+        "Gray thin brick"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Commons_gym_party_wall_end_base_trim",
+      "min": [
+        -0.156,
+        16.378,
+        0.0
+      ],
+      "max": [
+        0.156,
+        31.018,
+        0.11
+      ],
+      "materials": [
+        "Dark metal"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Commons_north_end",
+      "min": [
+        16.224,
+        30.887,
+        0.0
+      ],
+      "max": [
+        16.437,
+        31.137,
+        4.267
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Commons_north_end_base_trim",
+      "min": [
+        16.218,
+        30.881,
+        0.0
+      ],
+      "max": [
+        16.443,
+        31.143,
+        0.11
+      ],
+      "materials": [
+        "Dark metal"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Commons_north_frame0_0",
+      "min": [
+        0.213,
+        30.974,
+        0.0
+      ],
+      "max": [
+        16.224,
+        31.05,
+        0.065
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 12
+    },
+    {
+      "name": "Commons_north_frame0_3952.2",
+      "min": [
+        0.213,
+        30.974,
+        3.952
+      ],
+      "max": [
+        16.224,
+        31.05,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 12
+    },
+    {
+      "name": "Commons_north_glass0",
+      "min": [
+        0.213,
+        31.0,
+        0.0
+      ],
+      "max": [
+        16.224,
+        31.024,
+        4.017
+      ],
+      "materials": [
+        "Clear architectural glazing"
+      ],
+      "polygons": 12
+    },
+    {
+      "name": "Commons_north_head0",
+      "min": [
+        0.213,
+        30.887,
+        4.017
+      ],
+      "max": [
+        16.224,
+        31.137,
+        4.267
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Commons_north_mullion0_0",
+      "min": [
+        0.178,
+        30.977,
+        0.0
+      ],
+      "max": [
+        0.248,
+        31.047,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Commons_north_mullion0_1",
+      "min": [
+        1.321,
+        30.977,
+        0.0
+      ],
+      "max": [
+        1.391,
+        31.047,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Commons_north_mullion0_10",
+      "min": [
+        11.614,
+        30.977,
+        0.0
+      ],
+      "max": [
+        11.684,
+        31.047,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Commons_north_mullion0_11",
+      "min": [
+        12.758,
+        30.977,
+        0.0
+      ],
+      "max": [
+        12.828,
+        31.047,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Commons_north_mullion0_12",
+      "min": [
+        13.902,
+        30.977,
+        0.0
+      ],
+      "max": [
+        13.972,
+        31.047,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Commons_north_mullion0_13",
+      "min": [
+        15.045,
+        30.977,
+        0.0
+      ],
+      "max": [
+        15.115,
+        31.047,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Commons_north_mullion0_14",
+      "min": [
+        16.189,
+        30.977,
+        0.0
+      ],
+      "max": [
+        16.259,
+        31.047,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Commons_north_mullion0_2",
+      "min": [
+        2.465,
+        30.977,
+        0.0
+      ],
+      "max": [
+        2.535,
+        31.047,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Commons_north_mullion0_3",
+      "min": [
+        3.609,
+        30.977,
+        0.0
+      ],
+      "max": [
+        3.679,
+        31.047,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Commons_north_mullion0_7",
+      "min": [
+        8.183,
+        30.977,
+        0.0
+      ],
+      "max": [
+        8.253,
+        31.047,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Commons_north_mullion0_8",
+      "min": [
+        9.327,
+        30.977,
+        0.0
+      ],
+      "max": [
+        9.397,
+        31.047,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Commons_north_mullion0_9",
+      "min": [
+        10.471,
+        30.977,
+        0.0
+      ],
+      "max": [
+        10.541,
+        31.047,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Commons_north_wall0",
+      "min": [
+        0.0,
+        30.887,
+        0.0
+      ],
+      "max": [
+        0.213,
+        31.137,
+        4.267
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Commons_north_wall0_base_trim",
+      "min": [
+        -0.006,
+        30.881,
+        0.0
+      ],
+      "max": [
+        0.219,
+        31.143,
+        0.11
+      ],
+      "materials": [
+        "Dark metal"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Corridor_207_skylight",
+      "min": [
+        -25.5,
+        13.9,
+        8.35
+      ],
+      "max": [
+        -0.2,
+        16.3,
+        8.694
+      ],
+      "materials": [
+        "Clear architectural glazing"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Corridor_stair_boundary_door0_header",
+      "min": [
+        -30.342,
+        13.618,
+        2.089
+      ],
+      "max": [
+        -30.192,
+        15.426,
+        2.134
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Corridor_stair_boundary_door0_jamb_L",
+      "min": [
+        -30.342,
+        15.381,
+        0.0
+      ],
+      "max": [
+        -30.192,
+        15.426,
+        2.134
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Corridor_stair_boundary_door0_jamb_R",
+      "min": [
+        -30.342,
+        13.618,
+        0.0
+      ],
+      "max": [
+        -30.192,
+        13.663,
+        2.134
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Corridor_stair_boundary_door0_leaf1",
+      "min": [
+        -30.287,
+        14.959,
+        0.015
+      ],
+      "max": [
+        -29.393,
+        15.804,
+        2.085
+      ],
+      "materials": [
+        "Natural oak"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Corridor_stair_boundary_door0_leaf1_hinge0",
+      "min": [
+        -30.267,
+        15.362,
+        0.185
+      ],
+      "max": [
+        -30.228,
+        15.401,
+        0.275
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "Corridor_stair_boundary_door0_leaf1_hinge1",
+      "min": [
+        -30.267,
+        15.362,
+        0.995
+      ],
+      "max": [
+        -30.228,
+        15.401,
+        1.085
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "Corridor_stair_boundary_door0_leaf1_hinge2",
+      "min": [
+        -30.267,
+        15.362,
+        1.815
+      ],
+      "max": [
+        -30.228,
+        15.401,
+        1.905
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "Corridor_stair_boundary_door0_leaf1_lever_-1",
+      "min": [
+        -29.651,
+        15.269,
+        1.03
+      ],
+      "max": [
+        -29.505,
+        15.409,
+        1.05
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "Corridor_stair_boundary_door0_leaf1_lever_1",
+      "min": [
+        -29.651,
+        15.353,
+        1.03
+      ],
+      "max": [
+        -29.505,
+        15.493,
+        1.05
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "Corridor_stair_boundary_door0_leaf1_rose_-1",
+      "min": [
+        -29.549,
+        15.312,
+        1.013
+      ],
+      "max": [
+        -29.477,
+        15.382,
+        1.067
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "Corridor_stair_boundary_door0_leaf1_rose_1",
+      "min": [
+        -29.549,
+        15.381,
+        1.013
+      ],
+      "max": [
+        -29.477,
+        15.451,
+        1.067
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "Corridor_stair_boundary_door0_leaf2",
+      "min": [
+        -30.287,
+        13.24,
+        0.015
+      ],
+      "max": [
+        -29.393,
+        14.085,
+        2.085
+      ],
+      "materials": [
+        "Natural oak"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Corridor_stair_boundary_door0_leaf2_hinge0",
+      "min": [
+        -30.267,
+        13.643,
+        0.185
+      ],
+      "max": [
+        -30.228,
+        13.682,
+        0.275
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "Corridor_stair_boundary_door0_leaf2_hinge1",
+      "min": [
+        -30.267,
+        13.643,
+        0.995
+      ],
+      "max": [
+        -30.228,
+        13.682,
+        1.085
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "Corridor_stair_boundary_door0_leaf2_hinge2",
+      "min": [
+        -30.267,
+        13.643,
+        1.815
+      ],
+      "max": [
+        -30.228,
+        13.682,
+        1.905
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "Corridor_stair_boundary_door0_leaf2_lever_-1",
+      "min": [
+        -29.651,
+        13.551,
+        1.03
+      ],
+      "max": [
+        -29.505,
+        13.691,
+        1.05
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "Corridor_stair_boundary_door0_leaf2_lever_1",
+      "min": [
+        -29.651,
+        13.635,
+        1.03
+      ],
+      "max": [
+        -29.505,
+        13.775,
+        1.05
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "Corridor_stair_boundary_door0_leaf2_rose_-1",
+      "min": [
+        -29.549,
+        13.593,
+        1.013
+      ],
+      "max": [
+        -29.477,
+        13.663,
+        1.067
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "Corridor_stair_boundary_door0_leaf2_rose_1",
+      "min": [
+        -29.549,
+        13.662,
+        1.013
+      ],
+      "max": [
+        -29.477,
+        13.732,
+        1.067
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "Corridor_stair_boundary_door0_threshold",
+      "min": [
+        -30.347,
+        13.618,
+        0.0
+      ],
+      "max": [
+        -30.187,
+        15.426,
+        0.012
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Corridor_stair_boundary_door1_header",
+      "min": [
+        -30.342,
+        7.713,
+        2.089
+      ],
+      "max": [
+        -30.192,
+        8.777,
+        2.134
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Corridor_stair_boundary_door1_jamb_L",
+      "min": [
+        -30.342,
+        8.732,
+        0.0
+      ],
+      "max": [
+        -30.192,
+        8.777,
+        2.134
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Corridor_stair_boundary_door1_jamb_R",
+      "min": [
+        -30.342,
+        7.713,
+        0.0
+      ],
+      "max": [
+        -30.192,
+        7.758,
+        2.134
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Corridor_stair_boundary_door1_leaf1",
+      "min": [
+        -30.285,
+        7.926,
+        0.015
+      ],
+      "max": [
+        -29.694,
+        8.744,
+        2.085
+      ],
+      "materials": [
+        "Natural oak"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Corridor_stair_boundary_door1_leaf1_hinge0",
+      "min": [
+        -30.27,
+        8.702,
+        0.185
+      ],
+      "max": [
+        -30.242,
+        8.729,
+        0.275
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "Corridor_stair_boundary_door1_leaf1_hinge1",
+      "min": [
+        -30.27,
+        8.702,
+        0.995
+      ],
+      "max": [
+        -30.242,
+        8.729,
+        1.085
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "Corridor_stair_boundary_door1_leaf1_hinge2",
+      "min": [
+        -30.27,
+        8.702,
+        1.815
+      ],
+      "max": [
+        -30.242,
+        8.729,
+        1.905
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "Corridor_stair_boundary_door1_leaf1_lever_-1",
+      "min": [
+        -29.885,
+        7.991,
+        1.03
+      ],
+      "max": [
+        -29.796,
+        8.108,
+        1.05
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "Corridor_stair_boundary_door1_leaf1_lever_1",
+      "min": [
+        -29.816,
+        8.039,
+        1.03
+      ],
+      "max": [
+        -29.727,
+        8.156,
+        1.05
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "Corridor_stair_boundary_door1_leaf1_rose_-1",
+      "min": [
+        -29.82,
+        7.973,
+        1.013
+      ],
+      "max": [
+        -29.774,
+        8.028,
+        1.067
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "Corridor_stair_boundary_door1_leaf1_rose_1",
+      "min": [
+        -29.764,
+        8.013,
+        1.013
+      ],
+      "max": [
+        -29.717,
+        8.067,
+        1.067
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "Corridor_stair_boundary_door1_threshold",
+      "min": [
+        -30.347,
+        7.713,
+        0.0
+      ],
+      "max": [
+        -30.187,
+        8.777,
+        0.012
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Corridor_stair_boundary_end",
+      "min": [
+        -30.357,
+        7.447,
+        0.0
+      ],
+      "max": [
+        -30.177,
+        7.713,
+        4.267
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Corridor_stair_boundary_end_base_trim",
+      "min": [
+        -30.363,
+        7.441,
+        0.0
+      ],
+      "max": [
+        -30.171,
+        7.719,
+        0.11
+      ],
+      "materials": [
+        "Dark metal"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Corridor_stair_boundary_lintel0",
+      "min": [
+        -30.357,
+        13.618,
+        2.134
+      ],
+      "max": [
+        -30.177,
+        15.426,
+        4.267
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Corridor_stair_boundary_lintel1",
+      "min": [
+        -30.357,
+        7.713,
+        2.134
+      ],
+      "max": [
+        -30.177,
+        8.777,
+        4.267
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Corridor_stair_boundary_wall0",
+      "min": [
+        -30.357,
+        15.426,
+        0.0
+      ],
+      "max": [
+        -30.177,
+        16.171,
+        4.267
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Corridor_stair_boundary_wall0_base_trim",
+      "min": [
+        -30.363,
+        15.42,
+        0.0
+      ],
+      "max": [
+        -30.171,
+        16.177,
+        0.11
+      ],
+      "materials": [
+        "Dark metal"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Corridor_stair_boundary_wall1",
+      "min": [
+        -30.357,
+        8.777,
+        0.0
+      ],
+      "max": [
+        -30.177,
+        13.618,
+        4.267
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Corridor_stair_boundary_wall1_base_trim",
+      "min": [
+        -30.363,
+        8.771,
+        0.0
+      ],
+      "max": [
+        -30.171,
+        13.624,
+        0.11
+      ],
+      "materials": [
+        "Dark metal"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_south_door0_header",
+      "min": [
+        0.426,
+        0.404,
+        2.089
+      ],
+      "max": [
+        1.436,
+        0.554,
+        2.134
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_south_door0_jamb_L",
+      "min": [
+        0.426,
+        0.404,
+        0.0
+      ],
+      "max": [
+        0.471,
+        0.554,
+        2.134
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_south_door0_jamb_R",
+      "min": [
+        1.391,
+        0.404,
+        0.0
+      ],
+      "max": [
+        1.436,
+        0.554,
+        2.134
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_south_door0_leaf1",
+      "min": [
+        0.459,
+        0.461,
+        0.015
+      ],
+      "max": [
+        1.233,
+        1.021,
+        2.085
+      ],
+      "materials": [
+        "Natural oak"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_south_door0_leaf1_hinge0",
+      "min": [
+        0.473,
+        0.476,
+        0.185
+      ],
+      "max": [
+        0.501,
+        0.504,
+        0.275
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "Gallery_south_door0_leaf1_hinge1",
+      "min": [
+        0.473,
+        0.476,
+        0.995
+      ],
+      "max": [
+        0.501,
+        0.504,
+        1.085
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "Gallery_south_door0_leaf1_hinge2",
+      "min": [
+        0.473,
+        0.476,
+        1.815
+      ],
+      "max": [
+        0.501,
+        0.504,
+        1.905
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "Gallery_south_door0_leaf1_lever_-1",
+      "min": [
+        1.051,
+        0.83,
+        1.03
+      ],
+      "max": [
+        1.168,
+        0.92,
+        1.05
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "Gallery_south_door0_leaf1_lever_1",
+      "min": [
+        1.003,
+        0.899,
+        1.03
+      ],
+      "max": [
+        1.12,
+        0.989,
+        1.05
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "Gallery_south_door0_leaf1_rose_-1",
+      "min": [
+        1.131,
+        0.895,
+        1.013
+      ],
+      "max": [
+        1.186,
+        0.942,
+        1.067
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "Gallery_south_door0_leaf1_rose_1",
+      "min": [
+        1.092,
+        0.952,
+        1.013
+      ],
+      "max": [
+        1.146,
+        0.998,
+        1.067
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "Gallery_south_door0_threshold",
+      "min": [
+        0.426,
+        0.399,
+        0.0
+      ],
+      "max": [
+        1.436,
+        0.559,
+        0.012
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_south_end",
+      "min": [
+        16.065,
+        0.354,
+        0.0
+      ],
+      "max": [
+        16.437,
+        0.604,
+        4.267
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_south_end_base_trim",
+      "min": [
+        16.059,
+        0.348,
+        0.0
+      ],
+      "max": [
+        16.443,
+        0.61,
+        0.11
+      ],
+      "materials": [
+        "Dark metal"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_south_frame1_0",
+      "min": [
+        1.809,
+        0.441,
+        0.0
+      ],
+      "max": [
+        11.596,
+        0.517,
+        0.065
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_south_frame1_3952.2",
+      "min": [
+        1.809,
+        0.441,
+        3.952
+      ],
+      "max": [
+        11.596,
+        0.517,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_south_frame2_0",
+      "min": [
+        12.341,
+        0.441,
+        0.0
+      ],
+      "max": [
+        16.065,
+        0.517,
+        0.065
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_south_frame2_3952.2",
+      "min": [
+        12.341,
+        0.441,
+        3.952
+      ],
+      "max": [
+        16.065,
+        0.517,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_south_glass1",
+      "min": [
+        1.809,
+        0.467,
+        0.0
+      ],
+      "max": [
+        11.596,
+        0.491,
+        4.017
+      ],
+      "materials": [
+        "Clear architectural glazing"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_south_glass2",
+      "min": [
+        12.341,
+        0.467,
+        0.0
+      ],
+      "max": [
+        16.065,
+        0.491,
+        4.017
+      ],
+      "materials": [
+        "Clear architectural glazing"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_south_head1",
+      "min": [
+        1.809,
+        0.354,
+        4.017
+      ],
+      "max": [
+        11.596,
+        0.604,
+        4.267
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_south_head2",
+      "min": [
+        12.341,
+        0.354,
+        4.017
+      ],
+      "max": [
+        16.065,
+        0.604,
+        4.267
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_south_lintel0",
+      "min": [
+        0.426,
+        0.354,
+        2.134
+      ],
+      "max": [
+        1.436,
+        0.604,
+        4.267
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_south_mullion1_0",
+      "min": [
+        1.774,
+        0.444,
+        0.0
+      ],
+      "max": [
+        1.844,
+        0.514,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_south_mullion1_1",
+      "min": [
+        2.997,
+        0.444,
+        0.0
+      ],
+      "max": [
+        3.067,
+        0.514,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_south_mullion1_2",
+      "min": [
+        4.22,
+        0.444,
+        0.0
+      ],
+      "max": [
+        4.29,
+        0.514,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_south_mullion1_3",
+      "min": [
+        5.444,
+        0.444,
+        0.0
+      ],
+      "max": [
+        5.514,
+        0.514,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_south_mullion1_4",
+      "min": [
+        6.667,
+        0.444,
+        0.0
+      ],
+      "max": [
+        6.737,
+        0.514,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_south_mullion1_5",
+      "min": [
+        7.891,
+        0.444,
+        0.0
+      ],
+      "max": [
+        7.961,
+        0.514,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_south_mullion1_6",
+      "min": [
+        9.114,
+        0.444,
+        0.0
+      ],
+      "max": [
+        9.184,
+        0.514,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_south_mullion1_7",
+      "min": [
+        10.338,
+        0.444,
+        0.0
+      ],
+      "max": [
+        10.408,
+        0.514,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_south_mullion1_8",
+      "min": [
+        11.561,
+        0.444,
+        0.0
+      ],
+      "max": [
+        11.631,
+        0.514,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_south_mullion2_0",
+      "min": [
+        12.306,
+        0.444,
+        0.0
+      ],
+      "max": [
+        12.376,
+        0.514,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_south_mullion2_1",
+      "min": [
+        13.547,
+        0.444,
+        0.0
+      ],
+      "max": [
+        13.617,
+        0.514,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_south_mullion2_2",
+      "min": [
+        14.788,
+        0.444,
+        0.0
+      ],
+      "max": [
+        14.858,
+        0.514,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_south_mullion2_3",
+      "min": [
+        16.03,
+        0.444,
+        0.0
+      ],
+      "max": [
+        16.1,
+        0.514,
+        4.017
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_south_wall0",
+      "min": [
+        0.0,
+        0.354,
+        0.0
+      ],
+      "max": [
+        0.426,
+        0.604,
+        4.267
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_south_wall0_base_trim",
+      "min": [
+        -0.006,
+        0.348,
+        0.0
+      ],
+      "max": [
+        0.432,
+        0.61,
+        0.11
+      ],
+      "materials": [
+        "Dark metal"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_south_wall1",
+      "min": [
+        1.436,
+        0.354,
+        0.0
+      ],
+      "max": [
+        1.809,
+        0.604,
+        4.267
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_south_wall1_base_trim",
+      "min": [
+        1.43,
+        0.348,
+        0.0
+      ],
+      "max": [
+        1.815,
+        0.61,
+        0.11
+      ],
+      "materials": [
+        "Dark metal"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_south_wall2",
+      "min": [
+        11.596,
+        0.354,
+        0.0
+      ],
+      "max": [
+        12.341,
+        0.604,
+        4.267
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_south_wall2_base_trim",
+      "min": [
+        11.59,
+        0.348,
+        0.0
+      ],
+      "max": [
+        12.347,
+        0.61,
+        0.11
+      ],
+      "materials": [
+        "Dark metal"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_upper_east_end",
+      "min": [
+        12.024,
+        0.693,
+        4.267
+      ],
+      "max": [
+        12.274,
+        0.906,
+        8.411
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_upper_east_end_base_trim",
+      "min": [
+        12.018,
+        0.687,
+        4.267
+      ],
+      "max": [
+        12.28,
+        0.912,
+        4.377
+      ],
+      "materials": [
+        "Dark metal"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_upper_east_frame0_0",
+      "min": [
+        12.111,
+        0.906,
+        4.267
+      ],
+      "max": [
+        12.187,
+        10.764,
+        4.332
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_upper_east_frame0_3829.2000000000016",
+      "min": [
+        12.111,
+        0.906,
+        8.096
+      ],
+      "max": [
+        12.187,
+        10.764,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_upper_east_glass0",
+      "min": [
+        12.137,
+        0.906,
+        4.267
+      ],
+      "max": [
+        12.161,
+        10.764,
+        8.161
+      ],
+      "materials": [
+        "Clear architectural glazing"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_upper_east_head0",
+      "min": [
+        12.024,
+        0.906,
+        8.161
+      ],
+      "max": [
+        12.274,
+        10.764,
+        8.411
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_upper_east_mullion0_0",
+      "min": [
+        12.114,
+        10.729,
+        4.267
+      ],
+      "max": [
+        12.184,
+        10.799,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_upper_east_mullion0_1",
+      "min": [
+        12.114,
+        9.497,
+        4.267
+      ],
+      "max": [
+        12.184,
+        9.567,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_upper_east_mullion0_2",
+      "min": [
+        12.114,
+        8.264,
+        4.267
+      ],
+      "max": [
+        12.184,
+        8.334,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_upper_east_mullion0_3",
+      "min": [
+        12.114,
+        7.032,
+        4.267
+      ],
+      "max": [
+        12.184,
+        7.102,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_upper_east_mullion0_4",
+      "min": [
+        12.114,
+        5.8,
+        4.267
+      ],
+      "max": [
+        12.184,
+        5.87,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_upper_east_mullion0_5",
+      "min": [
+        12.114,
+        4.568,
+        4.267
+      ],
+      "max": [
+        12.184,
+        4.638,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_upper_east_mullion0_6",
+      "min": [
+        12.114,
+        3.335,
+        4.267
+      ],
+      "max": [
+        12.184,
+        3.405,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_upper_east_mullion0_7",
+      "min": [
+        12.114,
+        2.103,
+        4.267
+      ],
+      "max": [
+        12.184,
+        2.173,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_upper_east_mullion0_8",
+      "min": [
+        12.114,
+        0.871,
+        4.267
+      ],
+      "max": [
+        12.184,
+        0.941,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_upper_east_wall0",
+      "min": [
+        12.024,
+        10.764,
+        4.267
+      ],
+      "max": [
+        12.274,
+        10.977,
+        8.411
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_upper_east_wall0_base_trim",
+      "min": [
+        12.018,
+        10.758,
+        4.267
+      ],
+      "max": [
+        12.28,
+        10.983,
+        4.377
+      ],
+      "materials": [
+        "Dark metal"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_upper_south_end",
+      "min": [
+        11.936,
+        0.568,
+        4.267
+      ],
+      "max": [
+        12.149,
+        0.818,
+        8.411
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_upper_south_end_base_trim",
+      "min": [
+        11.93,
+        0.562,
+        4.267
+      ],
+      "max": [
+        12.155,
+        0.824,
+        4.377
+      ],
+      "materials": [
+        "Dark metal"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_upper_south_frame0_0",
+      "min": [
+        0.213,
+        0.655,
+        4.267
+      ],
+      "max": [
+        11.936,
+        0.731,
+        4.332
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_upper_south_frame0_3829.2000000000016",
+      "min": [
+        0.213,
+        0.655,
+        8.096
+      ],
+      "max": [
+        11.936,
+        0.731,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_upper_south_glass0",
+      "min": [
+        0.213,
+        0.681,
+        4.267
+      ],
+      "max": [
+        11.936,
+        0.705,
+        8.161
+      ],
+      "materials": [
+        "Clear architectural glazing"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_upper_south_head0",
+      "min": [
+        0.213,
+        0.568,
+        8.161
+      ],
+      "max": [
+        11.936,
+        0.818,
+        8.411
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_upper_south_mullion0_0",
+      "min": [
+        0.178,
+        0.658,
+        4.267
+      ],
+      "max": [
+        0.248,
+        0.728,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_upper_south_mullion0_1",
+      "min": [
+        1.35,
+        0.658,
+        4.267
+      ],
+      "max": [
+        1.42,
+        0.728,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_upper_south_mullion0_10",
+      "min": [
+        11.901,
+        0.658,
+        4.267
+      ],
+      "max": [
+        11.971,
+        0.728,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_upper_south_mullion0_2",
+      "min": [
+        2.523,
+        0.658,
+        4.267
+      ],
+      "max": [
+        2.593,
+        0.728,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_upper_south_mullion0_3",
+      "min": [
+        3.695,
+        0.658,
+        4.267
+      ],
+      "max": [
+        3.765,
+        0.728,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_upper_south_mullion0_4",
+      "min": [
+        4.867,
+        0.658,
+        4.267
+      ],
+      "max": [
+        4.937,
+        0.728,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_upper_south_mullion0_5",
+      "min": [
+        6.04,
+        0.658,
+        4.267
+      ],
+      "max": [
+        6.11,
+        0.728,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_upper_south_mullion0_6",
+      "min": [
+        7.212,
+        0.658,
+        4.267
+      ],
+      "max": [
+        7.282,
+        0.728,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_upper_south_mullion0_7",
+      "min": [
+        8.384,
+        0.658,
+        4.267
+      ],
+      "max": [
+        8.454,
+        0.728,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_upper_south_mullion0_8",
+      "min": [
+        9.557,
+        0.658,
+        4.267
+      ],
+      "max": [
+        9.627,
+        0.728,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_upper_south_mullion0_9",
+      "min": [
+        10.729,
+        0.658,
+        4.267
+      ],
+      "max": [
+        10.799,
+        0.728,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_upper_south_wall0",
+      "min": [
+        0.0,
+        0.568,
+        4.267
+      ],
+      "max": [
+        0.213,
+        0.818,
+        8.411
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gallery_upper_south_wall0_base_trim",
+      "min": [
+        -0.006,
+        0.562,
+        4.267
+      ],
+      "max": [
+        0.219,
+        0.824,
+        4.377
+      ],
+      "materials": [
+        "Dark metal"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gym_roof_context",
+      "min": [
+        -25.693,
+        16.384,
+        8.437
+      ],
+      "max": [
+        -0.16,
+        47.236,
+        8.687
+      ],
+      "materials": [
+        "Roof membrane"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Gym_slab",
+      "min": [
+        -25.693,
+        16.384,
+        -0.25
+      ],
+      "max": [
+        -0.16,
+        47.236,
+        0.0
+      ],
+      "materials": [
+        "Light stone paving"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Main_concrete_roof",
+      "min": [
+        -45.56,
+        0.0,
+        8.411
+      ],
+      "max": [
+        12.149,
+        31.386,
+        8.661
+      ],
+      "materials": [
+        "Roof membrane",
+        "Natural oak"
+      ],
+      "polygons": 22
+    },
+    {
+      "name": "Main_roof_parapet_0",
+      "min": [
+        -45.56,
+        29.449,
+        8.661
+      ],
+      "max": [
+        -25.737,
+        29.699,
+        9.931
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Main_roof_parapet_1",
+      "min": [
+        -25.862,
+        16.466,
+        8.661
+      ],
+      "max": [
+        -25.612,
+        29.574,
+        9.931
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Main_roof_parapet_10",
+      "min": [
+        -26.164,
+        6.483,
+        8.661
+      ],
+      "max": [
+        -11.67,
+        6.733,
+        9.931
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Main_roof_parapet_11",
+      "min": [
+        -26.289,
+        6.608,
+        8.661
+      ],
+      "max": [
+        -26.039,
+        7.673,
+        9.931
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Main_roof_parapet_12",
+      "min": [
+        -45.56,
+        7.548,
+        8.661
+      ],
+      "max": [
+        -26.164,
+        7.798,
+        9.931
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Main_roof_parapet_13",
+      "min": [
+        -45.685,
+        7.673,
+        8.661
+      ],
+      "max": [
+        -45.435,
+        29.574,
+        9.931
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Main_roof_parapet_2",
+      "min": [
+        -25.737,
+        16.341,
+        8.661
+      ],
+      "max": [
+        0.0,
+        16.591,
+        9.931
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Main_roof_parapet_3",
+      "min": [
+        -0.125,
+        16.466,
+        8.661
+      ],
+      "max": [
+        0.125,
+        31.386,
+        9.931
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Main_roof_parapet_4",
+      "min": [
+        0.0,
+        31.261,
+        8.661
+      ],
+      "max": [
+        12.149,
+        31.511,
+        9.931
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Main_roof_parapet_5",
+      "min": [
+        12.024,
+        0.693,
+        8.661
+      ],
+      "max": [
+        12.274,
+        31.386,
+        9.931
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Main_roof_parapet_6",
+      "min": [
+        0.0,
+        0.568,
+        8.661
+      ],
+      "max": [
+        12.149,
+        0.818,
+        9.931
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Main_roof_parapet_7",
+      "min": [
+        -0.125,
+        0.0,
+        8.661
+      ],
+      "max": [
+        0.125,
+        0.693,
+        9.931
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Main_roof_parapet_8",
+      "min": [
+        -11.67,
+        -0.125,
+        8.661
+      ],
+      "max": [
+        0.0,
+        0.125,
+        9.931
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Main_roof_parapet_9",
+      "min": [
+        -11.795,
+        0.0,
+        8.661
+      ],
+      "max": [
+        -11.545,
+        6.608,
+        9.931
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "North_corridor_entry_door0_header",
+      "min": [
+        -31.384,
+        39.501,
+        2.089
+      ],
+      "max": [
+        -29.682,
+        39.651,
+        2.134
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "North_corridor_entry_door0_jamb_L",
+      "min": [
+        -31.384,
+        39.501,
+        0.0
+      ],
+      "max": [
+        -31.339,
+        39.651,
+        2.134
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "North_corridor_entry_door0_jamb_R",
+      "min": [
+        -29.727,
+        39.501,
+        0.0
+      ],
+      "max": [
+        -29.682,
+        39.651,
+        2.134
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "North_corridor_entry_door0_leaf1_bottom",
+      "min": [
+        -31.286,
+        39.605,
+        0.015
+      ],
+      "max": [
+        -30.737,
+        40.007,
+        0.17
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "North_corridor_entry_door0_leaf1_glass",
+      "min": [
+        -31.277,
+        39.617,
+        0.17
+      ],
+      "max": [
+        -30.745,
+        39.995,
+        2.005
+      ],
+      "materials": [
+        "Clear architectural glazing"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "North_corridor_entry_door0_leaf1_hinge0",
+      "min": [
+        -31.337,
+        39.574,
+        0.185
+      ],
+      "max": [
+        -31.309,
+        39.601,
+        0.275
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "North_corridor_entry_door0_leaf1_hinge1",
+      "min": [
+        -31.337,
+        39.574,
+        0.995
+      ],
+      "max": [
+        -31.309,
+        39.601,
+        1.085
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "North_corridor_entry_door0_leaf1_hinge2",
+      "min": [
+        -31.337,
+        39.574,
+        1.815
+      ],
+      "max": [
+        -31.309,
+        39.601,
+        1.905
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "North_corridor_entry_door0_leaf1_hinge_stile",
+      "min": [
+        -31.351,
+        39.559,
+        0.015
+      ],
+      "max": [
+        -31.262,
+        39.639,
+        2.085
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "North_corridor_entry_door0_leaf1_latch_stile",
+      "min": [
+        -30.761,
+        39.972,
+        0.015
+      ],
+      "max": [
+        -30.671,
+        40.053,
+        2.085
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "North_corridor_entry_door0_leaf1_lock",
+      "min": [
+        -30.75,
+        39.976,
+        0.738
+      ],
+      "max": [
+        -30.698,
+        40.038,
+        0.762
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "North_corridor_entry_door0_leaf1_pull_-1",
+      "min": [
+        -30.753,
+        39.873,
+        0.85
+      ],
+      "max": [
+        -30.723,
+        39.902,
+        1.25
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "North_corridor_entry_door0_leaf1_pull_1",
+      "min": [
+        -30.856,
+        40.02,
+        0.85
+      ],
+      "max": [
+        -30.826,
+        40.05,
+        1.25
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "North_corridor_entry_door0_leaf1_pull_mount_-1_0.85",
+      "min": [
+        -30.784,
+        39.881,
+        0.838
+      ],
+      "max": [
+        -30.729,
+        39.947,
+        0.862
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "North_corridor_entry_door0_leaf1_pull_mount_-1_1.25",
+      "min": [
+        -30.784,
+        39.881,
+        1.238
+      ],
+      "max": [
+        -30.729,
+        39.947,
+        1.262
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "North_corridor_entry_door0_leaf1_pull_mount_1_0.85",
+      "min": [
+        -30.85,
+        39.975,
+        0.838
+      ],
+      "max": [
+        -30.795,
+        40.041,
+        0.862
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "North_corridor_entry_door0_leaf1_pull_mount_1_1.25",
+      "min": [
+        -30.85,
+        39.975,
+        1.238
+      ],
+      "max": [
+        -30.795,
+        40.041,
+        1.262
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "North_corridor_entry_door0_leaf1_top",
+      "min": [
+        -31.286,
+        39.605,
+        2.005
+      ],
+      "max": [
+        -30.737,
+        40.007,
+        2.085
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "North_corridor_entry_door0_leaf2_bottom",
+      "min": [
+        -30.33,
+        39.605,
+        0.015
+      ],
+      "max": [
+        -29.781,
+        40.007,
+        0.17
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "North_corridor_entry_door0_leaf2_glass",
+      "min": [
+        -30.321,
+        39.617,
+        0.17
+      ],
+      "max": [
+        -29.789,
+        39.995,
+        2.005
+      ],
+      "materials": [
+        "Clear architectural glazing"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "North_corridor_entry_door0_leaf2_hinge0",
+      "min": [
+        -29.757,
+        39.574,
+        0.185
+      ],
+      "max": [
+        -29.729,
+        39.601,
+        0.275
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "North_corridor_entry_door0_leaf2_hinge1",
+      "min": [
+        -29.757,
+        39.574,
+        0.995
+      ],
+      "max": [
+        -29.729,
+        39.601,
+        1.085
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "North_corridor_entry_door0_leaf2_hinge2",
+      "min": [
+        -29.757,
+        39.574,
+        1.815
+      ],
+      "max": [
+        -29.729,
+        39.601,
+        1.905
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "North_corridor_entry_door0_leaf2_hinge_stile",
+      "min": [
+        -29.805,
+        39.559,
+        0.015
+      ],
+      "max": [
+        -29.715,
+        39.639,
+        2.085
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "North_corridor_entry_door0_leaf2_latch_stile",
+      "min": [
+        -30.395,
+        39.972,
+        0.015
+      ],
+      "max": [
+        -30.306,
+        40.053,
+        2.085
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "North_corridor_entry_door0_leaf2_lock",
+      "min": [
+        -30.369,
+        39.976,
+        0.738
+      ],
+      "max": [
+        -30.316,
+        40.038,
+        0.762
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "North_corridor_entry_door0_leaf2_pull_-1",
+      "min": [
+        -30.24,
+        40.02,
+        0.85
+      ],
+      "max": [
+        -30.21,
+        40.05,
+        1.25
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "North_corridor_entry_door0_leaf2_pull_1",
+      "min": [
+        -30.343,
+        39.873,
+        0.85
+      ],
+      "max": [
+        -30.313,
+        39.902,
+        1.25
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "North_corridor_entry_door0_leaf2_pull_mount_-1_0.85",
+      "min": [
+        -30.272,
+        39.975,
+        0.838
+      ],
+      "max": [
+        -30.216,
+        40.041,
+        0.862
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "North_corridor_entry_door0_leaf2_pull_mount_-1_1.25",
+      "min": [
+        -30.272,
+        39.975,
+        1.238
+      ],
+      "max": [
+        -30.216,
+        40.041,
+        1.262
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "North_corridor_entry_door0_leaf2_pull_mount_1_0.85",
+      "min": [
+        -30.338,
+        39.881,
+        0.838
+      ],
+      "max": [
+        -30.282,
+        39.947,
+        0.862
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "North_corridor_entry_door0_leaf2_pull_mount_1_1.25",
+      "min": [
+        -30.338,
+        39.881,
+        1.238
+      ],
+      "max": [
+        -30.282,
+        39.947,
+        1.262
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "North_corridor_entry_door0_leaf2_top",
+      "min": [
+        -30.33,
+        39.605,
+        2.005
+      ],
+      "max": [
+        -29.781,
+        40.007,
+        2.085
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "North_corridor_entry_door0_threshold",
+      "min": [
+        -31.384,
+        39.496,
+        0.0
+      ],
+      "max": [
+        -29.682,
+        39.656,
+        0.012
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "North_corridor_entry_door1_header",
+      "min": [
+        -27.714,
+        39.501,
+        2.089
+      ],
+      "max": [
+        -26.118,
+        39.651,
+        2.134
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "North_corridor_entry_door1_jamb_L",
+      "min": [
+        -27.714,
+        39.501,
+        0.0
+      ],
+      "max": [
+        -27.669,
+        39.651,
+        2.134
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "North_corridor_entry_door1_jamb_R",
+      "min": [
+        -26.163,
+        39.501,
+        0.0
+      ],
+      "max": [
+        -26.118,
+        39.651,
+        2.134
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "North_corridor_entry_door1_leaf1_bottom",
+      "min": [
+        -27.615,
+        39.605,
+        0.015
+      ],
+      "max": [
+        -27.11,
+        39.977,
+        0.17
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "North_corridor_entry_door1_leaf1_glass",
+      "min": [
+        -27.607,
+        39.617,
+        0.17
+      ],
+      "max": [
+        -27.118,
+        39.964,
+        2.005
+      ],
+      "materials": [
+        "Clear architectural glazing"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "North_corridor_entry_door1_leaf1_hinge0",
+      "min": [
+        -27.666,
+        39.574,
+        0.185
+      ],
+      "max": [
+        -27.639,
+        39.601,
+        0.275
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "North_corridor_entry_door1_leaf1_hinge1",
+      "min": [
+        -27.666,
+        39.574,
+        0.995
+      ],
+      "max": [
+        -27.639,
+        39.601,
+        1.085
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "North_corridor_entry_door1_leaf1_hinge2",
+      "min": [
+        -27.666,
+        39.574,
+        1.815
+      ],
+      "max": [
+        -27.639,
+        39.601,
+        1.905
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "North_corridor_entry_door1_leaf1_hinge_stile",
+      "min": [
+        -27.681,
+        39.559,
+        0.015
+      ],
+      "max": [
+        -27.591,
+        39.639,
+        2.085
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "North_corridor_entry_door1_leaf1_latch_stile",
+      "min": [
+        -27.134,
+        39.942,
+        0.015
+      ],
+      "max": [
+        -27.044,
+        40.023,
+        2.085
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "North_corridor_entry_door1_leaf1_lock",
+      "min": [
+        -27.124,
+        39.946,
+        0.738
+      ],
+      "max": [
+        -27.071,
+        40.007,
+        0.762
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "North_corridor_entry_door1_leaf1_pull_-1",
+      "min": [
+        -27.126,
+        39.842,
+        0.85
+      ],
+      "max": [
+        -27.096,
+        39.872,
+        1.25
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "North_corridor_entry_door1_leaf1_pull_1",
+      "min": [
+        -27.229,
+        39.989,
+        0.85
+      ],
+      "max": [
+        -27.199,
+        40.019,
+        1.25
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "North_corridor_entry_door1_leaf1_pull_mount_-1_0.85",
+      "min": [
+        -27.158,
+        39.851,
+        0.838
+      ],
+      "max": [
+        -27.102,
+        39.916,
+        0.862
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "North_corridor_entry_door1_leaf1_pull_mount_-1_1.25",
+      "min": [
+        -27.158,
+        39.851,
+        1.238
+      ],
+      "max": [
+        -27.102,
+        39.916,
+        1.262
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "North_corridor_entry_door1_leaf1_pull_mount_1_0.85",
+      "min": [
+        -27.224,
+        39.945,
+        0.838
+      ],
+      "max": [
+        -27.168,
+        40.011,
+        0.862
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "North_corridor_entry_door1_leaf1_pull_mount_1_1.25",
+      "min": [
+        -27.224,
+        39.945,
+        1.238
+      ],
+      "max": [
+        -27.168,
+        40.011,
+        1.262
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "North_corridor_entry_door1_leaf1_top",
+      "min": [
+        -27.615,
+        39.605,
+        2.005
+      ],
+      "max": [
+        -27.11,
+        39.977,
+        2.085
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "North_corridor_entry_door1_leaf2_bottom",
+      "min": [
+        -26.722,
+        39.605,
+        0.015
+      ],
+      "max": [
+        -26.217,
+        39.977,
+        0.17
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "North_corridor_entry_door1_leaf2_glass",
+      "min": [
+        -26.714,
+        39.617,
+        0.17
+      ],
+      "max": [
+        -26.225,
+        39.964,
+        2.005
+      ],
+      "materials": [
+        "Clear architectural glazing"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "North_corridor_entry_door1_leaf2_hinge0",
+      "min": [
+        -26.193,
+        39.574,
+        0.185
+      ],
+      "max": [
+        -26.165,
+        39.601,
+        0.275
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "North_corridor_entry_door1_leaf2_hinge1",
+      "min": [
+        -26.193,
+        39.574,
+        0.995
+      ],
+      "max": [
+        -26.165,
+        39.601,
+        1.085
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "North_corridor_entry_door1_leaf2_hinge2",
+      "min": [
+        -26.193,
+        39.574,
+        1.815
+      ],
+      "max": [
+        -26.165,
+        39.601,
+        1.905
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "North_corridor_entry_door1_leaf2_hinge_stile",
+      "min": [
+        -26.241,
+        39.559,
+        0.015
+      ],
+      "max": [
+        -26.151,
+        39.639,
+        2.085
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "North_corridor_entry_door1_leaf2_latch_stile",
+      "min": [
+        -26.788,
+        39.942,
+        0.015
+      ],
+      "max": [
+        -26.698,
+        40.023,
+        2.085
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "North_corridor_entry_door1_leaf2_lock",
+      "min": [
+        -26.761,
+        39.946,
+        0.738
+      ],
+      "max": [
+        -26.708,
+        40.007,
+        0.762
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "North_corridor_entry_door1_leaf2_pull_-1",
+      "min": [
+        -26.633,
+        39.989,
+        0.85
+      ],
+      "max": [
+        -26.603,
+        40.019,
+        1.25
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "North_corridor_entry_door1_leaf2_pull_1",
+      "min": [
+        -26.736,
+        39.842,
+        0.85
+      ],
+      "max": [
+        -26.706,
+        39.872,
+        1.25
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "North_corridor_entry_door1_leaf2_pull_mount_-1_0.85",
+      "min": [
+        -26.664,
+        39.945,
+        0.838
+      ],
+      "max": [
+        -26.608,
+        40.011,
+        0.862
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "North_corridor_entry_door1_leaf2_pull_mount_-1_1.25",
+      "min": [
+        -26.664,
+        39.945,
+        1.238
+      ],
+      "max": [
+        -26.608,
+        40.011,
+        1.262
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "North_corridor_entry_door1_leaf2_pull_mount_1_0.85",
+      "min": [
+        -26.73,
+        39.851,
+        0.838
+      ],
+      "max": [
+        -26.674,
+        39.916,
+        0.862
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "North_corridor_entry_door1_leaf2_pull_mount_1_1.25",
+      "min": [
+        -26.73,
+        39.851,
+        1.238
+      ],
+      "max": [
+        -26.674,
+        39.916,
+        1.262
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "North_corridor_entry_door1_leaf2_top",
+      "min": [
+        -26.722,
+        39.605,
+        2.005
+      ],
+      "max": [
+        -26.217,
+        39.977,
+        2.085
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "North_corridor_entry_door1_threshold",
+      "min": [
+        -27.714,
+        39.496,
+        0.0
+      ],
+      "max": [
+        -26.118,
+        39.656,
+        0.012
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "North_corridor_entry_end",
+      "min": [
+        -26.118,
+        39.451,
+        0.0
+      ],
+      "max": [
+        -25.905,
+        39.701,
+        4.267
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "North_corridor_entry_end_base_trim",
+      "min": [
+        -26.124,
+        39.445,
+        0.0
+      ],
+      "max": [
+        -25.899,
+        39.707,
+        0.11
+      ],
+      "materials": [
+        "Dark metal"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "North_corridor_entry_lintel0",
+      "min": [
+        -31.384,
+        39.451,
+        2.134
+      ],
+      "max": [
+        -29.682,
+        39.701,
+        4.267
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "North_corridor_entry_lintel1",
+      "min": [
+        -27.714,
+        39.451,
+        2.134
+      ],
+      "max": [
+        -26.118,
+        39.701,
+        4.267
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "North_corridor_entry_wall0",
+      "min": [
+        -31.65,
+        39.451,
+        0.0
+      ],
+      "max": [
+        -31.384,
+        39.701,
+        4.267
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "North_corridor_entry_wall0_base_trim",
+      "min": [
+        -31.656,
+        39.445,
+        0.0
+      ],
+      "max": [
+        -31.378,
+        39.707,
+        0.11
+      ],
+      "materials": [
+        "Dark metal"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "North_corridor_entry_wall1",
+      "min": [
+        -29.682,
+        39.451,
+        0.0
+      ],
+      "max": [
+        -27.714,
+        39.701,
+        4.267
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "North_corridor_entry_wall1_base_trim",
+      "min": [
+        -29.688,
+        39.445,
+        0.0
+      ],
+      "max": [
+        -27.708,
+        39.707,
+        0.11
+      ],
+      "materials": [
+        "Dark metal"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Pendant_0_ceiling_rose",
+      "min": [
+        3.92,
+        20.92,
+        8.292
+      ],
+      "max": [
+        4.08,
+        21.08,
+        8.328
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Pendant_0_suspension_0",
+      "min": [
+        3.998,
+        20.997,
+        6.699
+      ],
+      "max": [
+        4.902,
+        21.003,
+        8.301
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 8
+    },
+    {
+      "name": "Pendant_0_suspension_2.094",
+      "min": [
+        3.548,
+        20.997,
+        6.699
+      ],
+      "max": [
+        4.003,
+        21.782,
+        8.301
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 8
+    },
+    {
+      "name": "Pendant_0_suspension_4.189",
+      "min": [
+        3.548,
+        20.218,
+        6.699
+      ],
+      "max": [
+        4.003,
+        21.003,
+        8.301
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 8
+    },
+    {
+      "name": "Pendant_1_ceiling_rose",
+      "min": [
+        7.92,
+        24.92,
+        8.292
+      ],
+      "max": [
+        8.08,
+        25.08,
+        8.328
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Pendant_1_suspension_0",
+      "min": [
+        7.998,
+        24.997,
+        6.799
+      ],
+      "max": [
+        8.652,
+        25.003,
+        8.301
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 8
+    },
+    {
+      "name": "Pendant_1_suspension_2.094",
+      "min": [
+        7.673,
+        24.997,
+        6.799
+      ],
+      "max": [
+        8.003,
+        25.566,
+        8.301
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 8
+    },
+    {
+      "name": "Pendant_1_suspension_4.189",
+      "min": [
+        7.673,
+        24.434,
+        6.799
+      ],
+      "max": [
+        8.003,
+        25.003,
+        8.301
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 8
+    },
+    {
+      "name": "Pendant_2_ceiling_rose",
+      "min": [
+        4.92,
+        28.92,
+        8.292
+      ],
+      "max": [
+        5.08,
+        29.08,
+        8.328
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Pendant_2_suspension_0",
+      "min": [
+        4.998,
+        28.997,
+        6.799
+      ],
+      "max": [
+        5.902,
+        29.003,
+        8.301
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 8
+    },
+    {
+      "name": "Pendant_2_suspension_2.094",
+      "min": [
+        4.548,
+        28.997,
+        6.799
+      ],
+      "max": [
+        5.003,
+        29.782,
+        8.301
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 8
+    },
+    {
+      "name": "Pendant_2_suspension_4.189",
+      "min": [
+        4.548,
+        28.218,
+        6.799
+      ],
+      "max": [
+        5.003,
+        29.003,
+        8.301
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 8
+    },
+    {
+      "name": "Pendant_3_ceiling_rose",
+      "min": [
+        6.92,
+        16.92,
+        8.292
+      ],
+      "max": [
+        7.08,
+        17.08,
+        8.328
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Pendant_3_suspension_0",
+      "min": [
+        6.998,
+        16.997,
+        6.699
+      ],
+      "max": [
+        7.652,
+        17.003,
+        8.301
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 8
+    },
+    {
+      "name": "Pendant_3_suspension_2.094",
+      "min": [
+        6.673,
+        16.997,
+        6.699
+      ],
+      "max": [
+        7.003,
+        17.566,
+        8.301
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 8
+    },
+    {
+      "name": "Pendant_3_suspension_4.189",
+      "min": [
+        6.673,
+        16.434,
+        6.699
+      ],
+      "max": [
+        7.003,
+        17.003,
+        8.301
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 8
+    },
+    {
+      "name": "Pendant_4_ceiling_rose",
+      "min": [
+        5.92,
+        5.92,
+        8.292
+      ],
+      "max": [
+        6.08,
+        6.08,
+        8.328
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Terrace_partial_canopy",
+      "min": [
+        12.149,
+        9.911,
+        7.827
+      ],
+      "max": [
+        16.519,
+        24.618,
+        8.077
+      ],
+      "materials": [
+        "Muted blue canopy fascia",
+        "Natural oak"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Terrace_walking_slab",
+      "min": [
+        0.0,
+        -1.492,
+        4.017
+      ],
+      "max": [
+        21.421,
+        31.386,
+        4.267
+      ],
+      "materials": [
+        "Light stone paving"
+      ],
+      "polygons": 14
+    },
+    {
+      "name": "Upper_commons_east_end",
+      "min": [
+        12.024,
+        13.748,
+        4.267
+      ],
+      "max": [
+        12.274,
+        13.961,
+        8.411
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Upper_commons_east_end_base_trim",
+      "min": [
+        12.018,
+        13.742,
+        4.267
+      ],
+      "max": [
+        12.28,
+        13.967,
+        4.377
+      ],
+      "materials": [
+        "Dark metal"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Upper_commons_east_frame0_0",
+      "min": [
+        12.111,
+        13.961,
+        4.267
+      ],
+      "max": [
+        12.187,
+        31.173,
+        4.332
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Upper_commons_east_frame0_3829.2000000000016",
+      "min": [
+        12.111,
+        13.961,
+        8.096
+      ],
+      "max": [
+        12.187,
+        31.173,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Upper_commons_east_glass0",
+      "min": [
+        12.137,
+        13.961,
+        4.267
+      ],
+      "max": [
+        12.161,
+        31.173,
+        8.161
+      ],
+      "materials": [
+        "Clear architectural glazing"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Upper_commons_east_head0",
+      "min": [
+        12.024,
+        13.961,
+        8.161
+      ],
+      "max": [
+        12.274,
+        31.173,
+        8.411
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Upper_commons_east_mullion0_0",
+      "min": [
+        12.114,
+        31.138,
+        4.267
+      ],
+      "max": [
+        12.184,
+        31.208,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Upper_commons_east_mullion0_1",
+      "min": [
+        12.114,
+        29.99,
+        4.267
+      ],
+      "max": [
+        12.184,
+        30.06,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Upper_commons_east_mullion0_10",
+      "min": [
+        12.114,
+        19.663,
+        4.267
+      ],
+      "max": [
+        12.184,
+        19.733,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Upper_commons_east_mullion0_11",
+      "min": [
+        12.114,
+        18.516,
+        4.267
+      ],
+      "max": [
+        12.184,
+        18.586,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Upper_commons_east_mullion0_12",
+      "min": [
+        12.114,
+        17.368,
+        4.267
+      ],
+      "max": [
+        12.184,
+        17.438,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Upper_commons_east_mullion0_13",
+      "min": [
+        12.114,
+        16.221,
+        4.267
+      ],
+      "max": [
+        12.184,
+        16.291,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Upper_commons_east_mullion0_14",
+      "min": [
+        12.114,
+        15.074,
+        4.267
+      ],
+      "max": [
+        12.184,
+        15.144,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Upper_commons_east_mullion0_15",
+      "min": [
+        12.114,
+        13.926,
+        4.267
+      ],
+      "max": [
+        12.184,
+        13.996,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Upper_commons_east_mullion0_2",
+      "min": [
+        12.114,
+        28.843,
+        4.267
+      ],
+      "max": [
+        12.184,
+        28.913,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Upper_commons_east_mullion0_3",
+      "min": [
+        12.114,
+        27.695,
+        4.267
+      ],
+      "max": [
+        12.184,
+        27.765,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Upper_commons_east_mullion0_4",
+      "min": [
+        12.114,
+        26.548,
+        4.267
+      ],
+      "max": [
+        12.184,
+        26.618,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Upper_commons_east_mullion0_5",
+      "min": [
+        12.114,
+        25.401,
+        4.267
+      ],
+      "max": [
+        12.184,
+        25.471,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Upper_commons_east_mullion0_6",
+      "min": [
+        12.114,
+        24.253,
+        4.267
+      ],
+      "max": [
+        12.184,
+        24.323,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Upper_commons_east_mullion0_7",
+      "min": [
+        12.114,
+        23.106,
+        4.267
+      ],
+      "max": [
+        12.184,
+        23.176,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Upper_commons_east_mullion0_8",
+      "min": [
+        12.114,
+        21.958,
+        4.267
+      ],
+      "max": [
+        12.184,
+        22.028,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Upper_commons_east_mullion0_9",
+      "min": [
+        12.114,
+        20.811,
+        4.267
+      ],
+      "max": [
+        12.184,
+        20.881,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Upper_commons_east_wall0",
+      "min": [
+        12.024,
+        31.173,
+        4.267
+      ],
+      "max": [
+        12.274,
+        31.386,
+        8.411
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Upper_commons_east_wall0_base_trim",
+      "min": [
+        12.018,
+        31.167,
+        4.267
+      ],
+      "max": [
+        12.28,
+        31.392,
+        4.377
+      ],
+      "materials": [
+        "Dark metal"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Upper_commons_north_end",
+      "min": [
+        11.936,
+        31.261,
+        4.267
+      ],
+      "max": [
+        12.149,
+        31.511,
+        8.411
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Upper_commons_north_end_base_trim",
+      "min": [
+        11.93,
+        31.255,
+        4.267
+      ],
+      "max": [
+        12.155,
+        31.517,
+        4.377
+      ],
+      "materials": [
+        "Dark metal"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Upper_commons_north_frame0_0",
+      "min": [
+        0.213,
+        31.348,
+        4.267
+      ],
+      "max": [
+        11.936,
+        31.424,
+        4.332
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 10
+    },
+    {
+      "name": "Upper_commons_north_frame0_3829.2000000000016",
+      "min": [
+        0.213,
+        31.348,
+        8.096
+      ],
+      "max": [
+        11.936,
+        31.424,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 10
+    },
+    {
+      "name": "Upper_commons_north_glass0",
+      "min": [
+        0.213,
+        31.374,
+        4.267
+      ],
+      "max": [
+        11.936,
+        31.398,
+        8.161
+      ],
+      "materials": [
+        "Clear architectural glazing"
+      ],
+      "polygons": 10
+    },
+    {
+      "name": "Upper_commons_north_head0",
+      "min": [
+        0.213,
+        31.261,
+        8.161
+      ],
+      "max": [
+        11.936,
+        31.511,
+        8.411
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Upper_commons_north_mullion0_0",
+      "min": [
+        0.178,
+        31.351,
+        4.267
+      ],
+      "max": [
+        0.248,
+        31.421,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Upper_commons_north_mullion0_1",
+      "min": [
+        1.35,
+        31.351,
+        4.267
+      ],
+      "max": [
+        1.42,
+        31.421,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Upper_commons_north_mullion0_10",
+      "min": [
+        11.901,
+        31.351,
+        4.267
+      ],
+      "max": [
+        11.971,
+        31.421,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Upper_commons_north_mullion0_2",
+      "min": [
+        2.523,
+        31.351,
+        4.267
+      ],
+      "max": [
+        2.593,
+        31.421,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Upper_commons_north_mullion0_3",
+      "min": [
+        3.695,
+        31.351,
+        4.267
+      ],
+      "max": [
+        3.765,
+        31.421,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Upper_commons_north_mullion0_4",
+      "min": [
+        4.867,
+        31.393,
+        4.267
+      ],
+      "max": [
+        4.937,
+        31.421,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Upper_commons_north_mullion0_5",
+      "min": [
+        6.04,
+        31.393,
+        4.267
+      ],
+      "max": [
+        6.11,
+        31.421,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Upper_commons_north_mullion0_6",
+      "min": [
+        7.212,
+        31.393,
+        4.267
+      ],
+      "max": [
+        7.282,
+        31.421,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Upper_commons_north_mullion0_7",
+      "min": [
+        8.384,
+        31.351,
+        4.267
+      ],
+      "max": [
+        8.454,
+        31.421,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Upper_commons_north_mullion0_8",
+      "min": [
+        9.557,
+        31.351,
+        4.267
+      ],
+      "max": [
+        9.627,
+        31.421,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Upper_commons_north_mullion0_9",
+      "min": [
+        10.729,
+        31.351,
+        4.267
+      ],
+      "max": [
+        10.799,
+        31.421,
+        8.161
+      ],
+      "materials": [
+        "Anodized aluminum"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Upper_commons_north_wall0",
+      "min": [
+        0.0,
+        31.261,
+        4.267
+      ],
+      "max": [
+        0.213,
+        31.511,
+        8.411
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "Upper_commons_north_wall0_base_trim",
+      "min": [
+        -0.006,
+        31.255,
+        4.267
+      ],
+      "max": [
+        0.219,
+        31.517,
+        4.377
+      ],
+      "materials": [
+        "Dark metal"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "V15_AV_screen_suspension",
+      "min": [
+        1.309,
+        22.657,
+        4.1
+      ],
+      "max": [
+        1.333,
+        25.281,
+        8.16
+      ],
+      "materials": [
+        "Brushed stainless hardware"
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "V15_Commons_ceiling_projector",
+      "min": [
+        1.231,
+        22.419,
+        3.71
+      ],
+      "max": [
+        5.948,
+        25.519,
+        8.16
+      ],
+      "materials": [
+        "Brushed stainless hardware",
+        "Warm white plaster",
+        "V8 plain dark screen",
+        "Dark metal"
+      ],
+      "polygons": 142
+    },
+    {
+      "name": "V15_Commons_curved_lounge",
+      "min": [
+        4.048,
+        26.077,
+        0.02
+      ],
+      "max": [
+        7.361,
+        29.361,
+        1.01
+      ],
+      "materials": [
+        "V8 plain light table surface",
+        "Brushed stainless hardware",
+        "Dark metal",
+        "V8 plain sage upholstery"
+      ],
+      "polygons": 1072
+    },
+    {
+      "name": "V15_Commons_four_seat_table_0",
+      "min": [
+        0.745,
+        24.655,
+        0.006
+      ],
+      "max": [
+        2.627,
+        26.375,
+        0.911
+      ],
+      "materials": [
+        "V8 plain light table surface",
+        "Brushed stainless hardware",
+        "Natural oak",
+        "V8 plain chair shell",
+        "V8 plain rubber"
+      ],
+      "polygons": 916
+    },
+    {
+      "name": "V15_Commons_four_seat_table_1",
+      "min": [
+        0.745,
+        16.281,
+        0.006
+      ],
+      "max": [
+        2.627,
+        18.001,
+        0.911
+      ],
+      "materials": [
+        "V8 plain light table surface",
+        "Brushed stainless hardware",
+        "Natural oak",
+        "V8 plain chair shell",
+        "V8 plain rubber"
+      ],
+      "polygons": 916
+    },
+    {
+      "name": "V15_Commons_long_collaboration_table",
+      "min": [
+        5.851,
+        16.027,
+        0.006
+      ],
+      "max": [
+        8.031,
+        19.547,
+        0.75
+      ],
+      "materials": [
+        "V8 plain light table surface",
+        "Brushed stainless hardware",
+        "Natural oak",
+        "V8 plain rubber"
+      ],
+      "polygons": 3308
+    },
+    {
+      "name": "V15_Commons_lounge_cluster_0",
+      "min": [
+        8.502,
+        25.421,
+        0.02
+      ],
+      "max": [
+        10.434,
+        28.046,
+        0.995
+      ],
+      "materials": [
+        "V8 plain light table surface",
+        "Brushed stainless hardware",
+        "Dark metal",
+        "V8 plain sage upholstery"
+      ],
+      "polygons": 618
+    },
+    {
+      "name": "V15_Commons_lounge_cluster_1",
+      "min": [
+        7.891,
+        22.224,
+        0.02
+      ],
+      "max": [
+        10.542,
+        24.344,
+        0.995
+      ],
+      "materials": [
+        "V8 plain light table surface",
+        "Brushed stainless hardware",
+        "Dark metal",
+        "V8 plain sage upholstery"
+      ],
+      "polygons": 618
+    },
+    {
+      "name": "V15_Commons_lounge_cluster_2",
+      "min": [
+        1.735,
+        21.05,
+        0.02
+      ],
+      "max": [
+        4.13,
+        23.519,
+        0.995
+      ],
+      "materials": [
+        "V8 plain light table surface",
+        "Brushed stainless hardware",
+        "Dark metal",
+        "V8 plain sage upholstery"
+      ],
+      "polygons": 618
+    },
+    {
+      "name": "V15_Commons_lounge_cluster_3",
+      "min": [
+        0.417,
+        20.003,
+        0.02
+      ],
+      "max": [
+        2.09,
+        22.357,
+        0.995
+      ],
+      "materials": [
+        "V8 plain light table surface",
+        "Brushed stainless hardware",
+        "Dark metal",
+        "V8 plain sage upholstery"
+      ],
+      "polygons": 442
+    },
+    {
+      "name": "V15_Commons_lounge_cluster_4",
+      "min": [
+        9.067,
+        17.974,
+        0.02
+      ],
+      "max": [
+        10.996,
+        20.622,
+        0.995
+      ],
+      "materials": [
+        "V8 plain light table surface",
+        "Brushed stainless hardware",
+        "Dark metal",
+        "V8 plain sage upholstery"
+      ],
+      "polygons": 618
+    },
+    {
+      "name": "V15_Commons_lounge_cluster_5",
+      "min": [
+        5.302,
+        21.372,
+        0.02
+      ],
+      "max": [
+        7.012,
+        23.662,
+        0.995
+      ],
+      "materials": [
+        "V8 plain light table surface",
+        "Brushed stainless hardware",
+        "Dark metal",
+        "V8 plain sage upholstery"
+      ],
+      "polygons": 442
+    },
+    {
+      "name": "V15_Commons_lowered_projection_screen",
+      "min": [
+        1.315,
+        22.499,
+        2.08
+      ],
+      "max": [
+        1.327,
+        25.439,
+        3.9
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "V15_Commons_north_perimeter_benches",
+      "min": [
+        1.65,
+        29.2,
+        0.02
+      ],
+      "max": [
+        13.95,
+        29.9,
+        0.6
+      ],
+      "materials": [
+        "Natural oak",
+        "V8 plain sage upholstery"
+      ],
+      "polygons": 240
+    },
+    {
+      "name": "V15_Commons_round_dining_0",
+      "min": [
+        12.011,
+        26.145,
+        0.006
+      ],
+      "max": [
+        13.841,
+        27.975,
+        0.911
+      ],
+      "materials": [
+        "V8 plain light table surface",
+        "Brushed stainless hardware",
+        "Dark metal",
+        "V8 plain chair shell",
+        "V8 plain rubber"
+      ],
+      "polygons": 890
+    },
+    {
+      "name": "V15_Commons_round_dining_1",
+      "min": [
+        11.308,
+        23.644,
+        0.006
+      ],
+      "max": [
+        13.139,
+        25.474,
+        0.911
+      ],
+      "materials": [
+        "V8 plain light table surface",
+        "Brushed stainless hardware",
+        "Dark metal",
+        "V8 plain chair shell",
+        "V8 plain rubber"
+      ],
+      "polygons": 890
+    },
+    {
+      "name": "V15_Commons_round_dining_2",
+      "min": [
+        11.477,
+        19.715,
+        0.006
+      ],
+      "max": [
+        13.307,
+        21.545,
+        0.911
+      ],
+      "materials": [
+        "V8 plain light table surface",
+        "Brushed stainless hardware",
+        "Dark metal",
+        "V8 plain chair shell",
+        "V8 plain rubber"
+      ],
+      "polygons": 890
+    },
+    {
+      "name": "V15_Recessed_fountain_Locker_corridor",
+      "min": [
+        -26.12,
+        28.15,
+        0.21
+      ],
+      "max": [
+        -25.644,
+        29.35,
+        1.83
+      ],
+      "materials": [
+        "Brushed stainless hardware",
+        "V8 recess shade",
+        "V8 plain dark screen"
+      ],
+      "polygons": 448
+    },
+    {
+      "name": "V5_Bridge_wood_soffit",
+      "min": [
+        0.0,
+        11.025,
+        3.885
+      ],
+      "max": [
+        12.2,
+        13.675,
+        3.955
+      ],
+      "materials": [
+        "Natural oak"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "V5_Entry_acoustic_panel_10",
+      "min": [
+        9.015,
+        10.65,
+        3.795
+      ],
+      "max": [
+        10.985,
+        13.55,
+        3.825
+      ],
+      "materials": [
+        "Acoustic panel neutral"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "V5_Entry_acoustic_panel_12",
+      "min": [
+        11.015,
+        10.65,
+        3.795
+      ],
+      "max": [
+        12.985,
+        13.55,
+        3.825
+      ],
+      "materials": [
+        "Acoustic panel neutral"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "V5_Entry_acoustic_panel_2",
+      "min": [
+        1.015,
+        10.65,
+        3.795
+      ],
+      "max": [
+        2.985,
+        13.55,
+        3.825
+      ],
+      "materials": [
+        "Acoustic panel neutral"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "V5_Entry_acoustic_panel_4",
+      "min": [
+        3.015,
+        10.65,
+        3.795
+      ],
+      "max": [
+        4.985,
+        13.55,
+        3.825
+      ],
+      "materials": [
+        "Acoustic panel neutral"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "V5_Entry_acoustic_panel_6",
+      "min": [
+        5.015,
+        10.65,
+        3.795
+      ],
+      "max": [
+        6.985,
+        13.55,
+        3.825
+      ],
+      "materials": [
+        "Acoustic panel neutral"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "V5_Entry_acoustic_panel_8",
+      "min": [
+        7.015,
+        10.65,
+        3.795
+      ],
+      "max": [
+        8.985,
+        13.55,
+        3.825
+      ],
+      "materials": [
+        "Acoustic panel neutral"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "V5_Gallery_plinth_5",
+      "min": [
+        9.6,
+        4.6,
+        0.0
+      ],
+      "max": [
+        10.4,
+        5.4,
+        1.0
+      ],
+      "materials": [
+        "Blockout furniture - untextured"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "V5_Gallery_plinth_8",
+      "min": [
+        9.6,
+        7.6,
+        0.0
+      ],
+      "max": [
+        10.4,
+        8.4,
+        1.0
+      ],
+      "materials": [
+        "Blockout furniture - untextured"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "V5_Gym_wall_wood_base",
+      "min": [
+        0.155,
+        16.5,
+        0.0
+      ],
+      "max": [
+        0.205,
+        29.5,
+        1.8
+      ],
+      "materials": [
+        "Natural oak"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "V6_Fireplace_plan_aligned_pier",
+      "min": [
+        4.734,
+        30.243,
+        0.0
+      ],
+      "max": [
+        7.5,
+        31.143,
+        8.4
+      ],
+      "materials": [
+        "Gray thin brick"
+      ],
+      "polygons": 12
+    },
+    {
+      "name": "V6_V5_Fireplace_hearth_corrected",
+      "min": [
+        4.642,
+        29.723,
+        0.05
+      ],
+      "max": [
+        7.592,
+        30.623,
+        0.23
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 6
+    },
+    {
+      "name": "V8_DETAIL_Commons_plan_columns",
+      "min": [
+        11.983,
+        4.642,
+        0.0
+      ],
+      "max": [
+        12.273,
+        26.955,
+        8.3
+      ],
+      "materials": [
+        "Warm white plaster",
+        "Brushed stainless hardware"
+      ],
+      "polygons": 300
+    },
+    {
+      "name": "V8_DETAIL_Lab_ceiling_grid",
+      "min": [
+        -11.4,
+        0.1,
+        3.952
+      ],
+      "max": [
+        -0.04,
+        9.8,
+        3.977
+      ],
+      "materials": [
+        "Warm white plaster"
+      ],
+      "polygons": 780
+    }
+  ]
+}

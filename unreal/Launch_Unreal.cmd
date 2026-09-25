@@ -1,2 +1,2 @@
 @echo off
-powershell.exe -NoProfile -ExecutionPolicy Bypass -File "%~dp0Launch_Unreal.ps1"
+call "%~dp0Walk_Commons_Dusk.cmd"

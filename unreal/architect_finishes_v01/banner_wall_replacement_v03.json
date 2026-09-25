@@ -1,0 +1,16 @@
+{
+  "removed_from_finish_map": [
+    {
+      "label": "King_FullHeight_V5_Banner_20",
+      "class": "StaticMeshActor"
+    },
+    {
+      "label": "King_FullHeight_V5_Banner_25",
+      "class": "StaticMeshActor"
+    },
+    {
+      "label": "King_FullHeight_V5_Banner_29",
+      "class": "StaticMeshActor"
+    }
+  ]
+}

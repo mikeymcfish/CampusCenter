@@ -1,5 +1,17 @@
 # Campus Center — Unreal prototype
 
+## Current architect finish revision — September 25, 2026
+
+Run `Launch_Unreal.cmd` or open `Edit_Commons_Dusk.cmd`. These use the installed **Unreal Engine 5.8.2 editor** and `/Game/Campus/Maps/CampusCenter_Dusk_ArchitectFinishes_v03`. The map is derived from the current furnished Dusk scene, with the September 22 architect references guiding wall, ceiling and floor changes. Existing furniture is preserved. The launch filename retains “Dusk” for compatibility, although the finish review uses brighter neutral lighting.
+
+See [finish scope, critic scores and screenshots](architect_finishes_v01/README.md). Assets use Git LFS; run `git lfs pull` after cloning. The required project-local `CampusCrowdFix` runtime plugin includes source and an editor binary for the installed engine build. Current asset attribution is in [common-area credits](asset_provenance/common_area/CREDITS.md).
+
+**Review status: 6.3/10 after four rounds; the requested 8.5 and zero-visible-errors gate was not met.** Exact reference-pattern matching remains incomplete. `ARCHITECT_ASSET_MANIFEST.json` is the current saved-map asset verification; the older `HANDOFF_MANIFEST.json` describes the historical prototype handoff.
+
+The legacy standalone executable has **not** been rebuilt for this revision. The performance measurements and validation below apply to the earlier V03 prototype, not this current finish pass.
+
+---
+
 ## Current material pass: V03
 
 The editable project and standalone build now include native physically scaled oak, masonry, paving and metal shaders, corrected fabric/plaster detail, warmer interior lighting, controlled exposure, Lumen reflections and subtle postprocessing. Current screenshots: `unreal_project/ReviewV03/Cinematic_Review.jpg` and nine full-resolution room PNGs.

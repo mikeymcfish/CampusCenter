@@ -1,0 +1,2324 @@
+{
+  "updated": "2026-09-20T08:34:46-04:00",
+  "title": "Main common area preparation",
+  "scope": "Commons plus attached caf\u00e9, fireplace, AV, pendant fixtures, double-height enclosure and shared ground floor. Exterior terrace and other rooms excluded.",
+  "source_integrity": true,
+  "source_object_count": 151,
+  "source_object_mapping": {
+    "Commons_gym_party_wall_end": {
+      "prepared_asset": "commons_commons_architecture",
+      "action": "prepared source geometry"
+    },
+    "Commons_north_wall0": {
+      "prepared_asset": "commons_commons_architecture",
+      "action": "prepared source geometry"
+    },
+    "Commons_north_head0": {
+      "prepared_asset": "commons_commons_architecture",
+      "action": "prepared source geometry"
+    },
+    "Commons_north_end": {
+      "prepared_asset": "commons_commons_architecture",
+      "action": "prepared source geometry"
+    },
+    "Commons_east_wall0": {
+      "prepared_asset": "commons_commons_architecture",
+      "action": "prepared source geometry"
+    },
+    "Commons_east_head0": {
+      "prepared_asset": "commons_commons_architecture",
+      "action": "prepared source geometry"
+    },
+    "Commons_east_end": {
+      "prepared_asset": "commons_commons_architecture",
+      "action": "prepared source geometry"
+    },
+    "Upper_commons_north_wall0": {
+      "prepared_asset": "commons_commons_architecture",
+      "action": "prepared source geometry"
+    },
+    "Upper_commons_north_head0": {
+      "prepared_asset": "commons_commons_architecture",
+      "action": "prepared source geometry"
+    },
+    "Upper_commons_north_end": {
+      "prepared_asset": "commons_commons_architecture",
+      "action": "prepared source geometry"
+    },
+    "Upper_commons_east_wall0": {
+      "prepared_asset": "commons_commons_architecture",
+      "action": "prepared source geometry"
+    },
+    "Upper_commons_east_head0": {
+      "prepared_asset": "commons_commons_architecture",
+      "action": "prepared source geometry"
+    },
+    "Upper_commons_east_end": {
+      "prepared_asset": "commons_commons_architecture",
+      "action": "prepared source geometry"
+    },
+    "Commons_gym_party_wall_end_base_trim": {
+      "prepared_asset": "commons_commons_architecture",
+      "action": "prepared source geometry"
+    },
+    "Commons_north_wall0_base_trim": {
+      "prepared_asset": "commons_commons_architecture",
+      "action": "prepared source geometry"
+    },
+    "Commons_north_end_base_trim": {
+      "prepared_asset": "commons_commons_architecture",
+      "action": "prepared source geometry"
+    },
+    "Commons_east_wall0_base_trim": {
+      "prepared_asset": "commons_commons_architecture",
+      "action": "prepared source geometry"
+    },
+    "Commons_east_end_base_trim": {
+      "prepared_asset": "commons_commons_architecture",
+      "action": "prepared source geometry"
+    },
+    "Upper_commons_north_wall0_base_trim": {
+      "prepared_asset": "commons_commons_architecture",
+      "action": "prepared source geometry"
+    },
+    "Upper_commons_north_end_base_trim": {
+      "prepared_asset": "commons_commons_architecture",
+      "action": "prepared source geometry"
+    },
+    "Upper_commons_east_wall0_base_trim": {
+      "prepared_asset": "commons_commons_architecture",
+      "action": "prepared source geometry"
+    },
+    "Upper_commons_east_end_base_trim": {
+      "prepared_asset": "commons_commons_architecture",
+      "action": "prepared source geometry"
+    },
+    "V8_DETAIL_Commons_plan_columns": {
+      "prepared_asset": "commons_commons_architecture",
+      "action": "prepared source geometry"
+    },
+    "Commons_north_glass0": {
+      "prepared_asset": "commons_architectural_glazing",
+      "action": "prepared source geometry"
+    },
+    "Commons_east_glass0": {
+      "prepared_asset": "commons_architectural_glazing",
+      "action": "prepared source geometry"
+    },
+    "Upper_commons_north_glass0": {
+      "prepared_asset": "commons_architectural_glazing",
+      "action": "prepared source geometry"
+    },
+    "Upper_commons_east_glass0": {
+      "prepared_asset": "commons_architectural_glazing",
+      "action": "prepared source geometry"
+    },
+    "Commons_north_frame0_0": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Commons_north_frame0_3952.2": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Commons_north_mullion0_0": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Commons_north_mullion0_1": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Commons_north_mullion0_2": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Commons_north_mullion0_3": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Commons_north_mullion0_7": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Commons_north_mullion0_8": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Commons_north_mullion0_9": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Commons_north_mullion0_10": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Commons_north_mullion0_11": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Commons_north_mullion0_12": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Commons_north_mullion0_13": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Commons_north_mullion0_14": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Commons_east_frame0_0": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Commons_east_frame0_3952.2": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Commons_east_mullion0_0": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Commons_east_mullion0_1": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Commons_east_mullion0_2": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Commons_east_mullion0_3": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Commons_east_mullion0_4": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Commons_east_mullion0_5": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Commons_east_mullion0_6": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Commons_east_mullion0_7": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Commons_east_mullion0_8": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Commons_east_mullion0_9": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Commons_east_mullion0_10": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Commons_east_mullion0_11": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Commons_east_mullion0_12": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Commons_east_mullion0_13": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Commons_east_mullion0_14": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Upper_commons_north_frame0_0": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Upper_commons_north_frame0_3829.2000000000016": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Upper_commons_north_mullion0_0": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Upper_commons_north_mullion0_1": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Upper_commons_north_mullion0_2": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Upper_commons_north_mullion0_3": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Upper_commons_north_mullion0_4": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Upper_commons_north_mullion0_5": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Upper_commons_north_mullion0_6": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Upper_commons_north_mullion0_7": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Upper_commons_north_mullion0_8": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Upper_commons_north_mullion0_9": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Upper_commons_north_mullion0_10": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Upper_commons_east_frame0_0": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Upper_commons_east_frame0_3829.2000000000016": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Upper_commons_east_mullion0_0": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Upper_commons_east_mullion0_1": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Upper_commons_east_mullion0_2": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Upper_commons_east_mullion0_3": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Upper_commons_east_mullion0_4": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Upper_commons_east_mullion0_5": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Upper_commons_east_mullion0_6": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Upper_commons_east_mullion0_7": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Upper_commons_east_mullion0_8": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Upper_commons_east_mullion0_9": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Upper_commons_east_mullion0_10": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Upper_commons_east_mullion0_11": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Upper_commons_east_mullion0_12": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Upper_commons_east_mullion0_13": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Upper_commons_east_mullion0_14": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "Upper_commons_east_mullion0_15": {
+      "prepared_asset": "commons_architectural_frames",
+      "action": "prepared source geometry"
+    },
+    "V5_Banner_20": {
+      "prepared_asset": "commons_commons_banners",
+      "action": "prepared source geometry"
+    },
+    "V5_Banner_25": {
+      "prepared_asset": "commons_commons_banners",
+      "action": "prepared source geometry"
+    },
+    "V5_Banner_29": {
+      "prepared_asset": "commons_commons_banners",
+      "action": "prepared source geometry"
+    },
+    "V6_Fireplace_plan_aligned_pier": {
+      "prepared_asset": "commons_fireplace_surround",
+      "action": "prepared source geometry"
+    },
+    "V6_V5_Firebox_back_corrected": {
+      "prepared_asset": "commons_fireplace_surround",
+      "action": "prepared source geometry"
+    },
+    "V6_V5_Fireplace_hearth_corrected": {
+      "prepared_asset": "commons_fireplace_surround",
+      "action": "prepared source geometry"
+    },
+    "V8_DETAIL_Cafe_U_counter": {
+      "prepared_asset": "commons_cafe_u_counter",
+      "action": "prepared source geometry"
+    },
+    "V15_Cafe_back_counter": {
+      "prepared_asset": "commons_cafe_back_counter",
+      "action": "prepared source geometry"
+    },
+    "V15_Cafe_sink_POU_heater": {
+      "prepared_asset": "commons_cafe_sink_pou_heater",
+      "action": "prepared source geometry"
+    },
+    "V15_Commons_ceiling_projector": {
+      "prepared_asset": "commons_projector_and_cassette",
+      "action": "prepared source geometry"
+    },
+    "V15_AV_screen_suspension": {
+      "prepared_asset": "commons_projector_and_cassette",
+      "action": "prepared source geometry"
+    },
+    "V15_Commons_lowered_projection_screen": {
+      "prepared_asset": "commons_projection_screen",
+      "action": "prepared source geometry"
+    },
+    "V15_Screen_bottom_weight": {
+      "prepared_asset": "commons_projection_screen",
+      "action": "prepared source geometry"
+    },
+    "Pendant_0": {
+      "prepared_asset": "commons_pendant_0",
+      "action": "prepared source geometry"
+    },
+    "Pendant_0_suspension_0": {
+      "prepared_asset": "commons_pendant_0",
+      "action": "prepared source geometry"
+    },
+    "Pendant_0_suspension_2.094": {
+      "prepared_asset": "commons_pendant_0",
+      "action": "prepared source geometry"
+    },
+    "Pendant_0_suspension_4.189": {
+      "prepared_asset": "commons_pendant_0",
+      "action": "prepared source geometry"
+    },
+    "Pendant_0_ceiling_rose": {
+      "prepared_asset": "commons_pendant_0",
+      "action": "prepared source geometry"
+    },
+    "Pendant_1": {
+      "prepared_asset": "commons_pendant_1",
+      "action": "prepared source geometry"
+    },
+    "Pendant_1_suspension_0": {
+      "prepared_asset": "commons_pendant_1",
+      "action": "prepared source geometry"
+    },
+    "Pendant_1_suspension_2.094": {
+      "prepared_asset": "commons_pendant_1",
+      "action": "prepared source geometry"
+    },
+    "Pendant_1_suspension_4.189": {
+      "prepared_asset": "commons_pendant_1",
+      "action": "prepared source geometry"
+    },
+    "Pendant_1_ceiling_rose": {
+      "prepared_asset": "commons_pendant_1",
+      "action": "prepared source geometry"
+    },
+    "Pendant_2": {
+      "prepared_asset": "commons_pendant_2",
+      "action": "prepared source geometry"
+    },
+    "Pendant_2_suspension_0": {
+      "prepared_asset": "commons_pendant_2",
+      "action": "prepared source geometry"
+    },
+    "Pendant_2_suspension_2.094": {
+      "prepared_asset": "commons_pendant_2",
+      "action": "prepared source geometry"
+    },
+    "Pendant_2_suspension_4.189": {
+      "prepared_asset": "commons_pendant_2",
+      "action": "prepared source geometry"
+    },
+    "Pendant_2_ceiling_rose": {
+      "prepared_asset": "commons_pendant_2",
+      "action": "prepared source geometry"
+    },
+    "Pendant_3": {
+      "prepared_asset": "commons_pendant_3",
+      "action": "prepared source geometry"
+    },
+    "Pendant_3_suspension_0": {
+      "prepared_asset": "commons_pendant_3",
+      "action": "prepared source geometry"
+    },
+    "Pendant_3_suspension_2.094": {
+      "prepared_asset": "commons_pendant_3",
+      "action": "prepared source geometry"
+    },
+    "Pendant_3_suspension_4.189": {
+      "prepared_asset": "commons_pendant_3",
+      "action": "prepared source geometry"
+    },
+    "Pendant_3_ceiling_rose": {
+      "prepared_asset": "commons_pendant_3",
+      "action": "prepared source geometry"
+    },
+    "A101_ground_slab": {
+      "prepared_asset": "commons_shared_ground_floor",
+      "action": "prepared source geometry"
+    },
+    "Main_concrete_roof": {
+      "prepared_asset": "commons_shared_ceiling",
+      "action": "prepared source geometry"
+    },
+    "V15_Cafe_refrigerated_display_1": {
+      "prepared_asset": "commons_refined_cafe_refrigerated_display_1",
+      "action": "prepared source geometry"
+    },
+    "V15_Cafe_refrigerated_display_2": {
+      "prepared_asset": "commons_refined_cafe_refrigerated_display_2",
+      "action": "prepared source geometry"
+    },
+    "V15_Cafe_Undercounter_refrigerator": {
+      "prepared_asset": "commons_refined_cafe_undercounter_refrigerator",
+      "action": "prepared source geometry"
+    },
+    "V15_Cafe_Undercounter_ice_machine": {
+      "prepared_asset": "commons_refined_cafe_undercounter_ice_machine",
+      "action": "prepared source geometry"
+    },
+    "V15_Cafe_turbo_oven": {
+      "prepared_asset": "commons_refined_cafe_turbo_oven",
+      "action": "prepared source geometry"
+    },
+    "V15_Cafe_POS_iPad_1": {
+      "prepared_asset": "commons_refined_cafe_pos_ipad_1",
+      "action": "prepared source geometry"
+    },
+    "V15_Cafe_POS_iPad_2": {
+      "prepared_asset": "commons_refined_cafe_pos_ipad_2",
+      "action": "prepared source geometry"
+    },
+    "V5_Gym_wall_wood_base": {
+      "prepared_asset": "commons_boundary_wood_trim",
+      "action": "prepared source geometry"
+    },
+    "V8_DETAIL_V5_Lounge_chair_0": {
+      "prepared_asset": "commons_library_modern_arm_chair_01",
+      "supporting_asset": "commons_library_modern_coffee_table_01",
+      "action": "Replace proxy group with sourced armchair and coffee table instances"
+    },
+    "V8_DETAIL_V5_Lounge_chair_1": {
+      "prepared_asset": "commons_library_modern_arm_chair_01",
+      "supporting_asset": "commons_library_modern_coffee_table_01",
+      "action": "Replace proxy group with sourced armchair and coffee table instances"
+    },
+    "V8_DETAIL_V5_Lounge_side_0": {
+      "prepared_asset": "commons_stone_side_table",
+      "action": "Replace side table proxy"
+    },
+    "V8_DETAIL_V5_Lounge_side_1": {
+      "prepared_asset": "commons_stone_side_table",
+      "action": "Replace side table proxy"
+    },
+    "V15_Commons_curved_lounge": {
+      "prepared_asset": "commons_library_sketchfab_modern_sofa",
+      "action": "Replace existing curved proxy with curated sofa/chair composition during integration"
+    },
+    "V15_Commons_four_seat_table_0": {
+      "prepared_asset": "commons_dining_table",
+      "supporting_asset": "commons_library_sketchfab_eames_chair",
+      "action": "Replace joined proxy table/chair group with individual assets"
+    },
+    "V15_Commons_four_seat_table_1": {
+      "prepared_asset": "commons_dining_table",
+      "supporting_asset": "commons_library_sketchfab_eames_chair",
+      "action": "Replace joined proxy table/chair group with individual assets"
+    },
+    "V15_Commons_round_dining_0": {
+      "prepared_asset": "commons_round_dining_table",
+      "supporting_asset": "commons_library_sketchfab_eames_chair",
+      "action": "Replace joined proxy table/chair group with individual assets"
+    },
+    "V15_Commons_round_dining_1": {
+      "prepared_asset": "commons_round_dining_table",
+      "supporting_asset": "commons_library_sketchfab_eames_chair",
+      "action": "Replace joined proxy table/chair group with individual assets"
+    },
+    "V15_Commons_round_dining_2": {
+      "prepared_asset": "commons_round_dining_table",
+      "supporting_asset": "commons_library_sketchfab_eames_chair",
+      "action": "Replace joined proxy table/chair group with individual assets"
+    },
+    "V15_Commons_lounge_cluster_0": {
+      "prepared_asset": "commons_library_modern_arm_chair_01",
+      "supporting_asset": "commons_library_modern_coffee_table_01",
+      "action": "Replace proxy group with sourced armchair and coffee table instances"
+    },
+    "V15_Commons_lounge_cluster_1": {
+      "prepared_asset": "commons_library_modern_arm_chair_01",
+      "supporting_asset": "commons_library_modern_coffee_table_01",
+      "action": "Replace proxy group with sourced armchair and coffee table instances"
+    },
+    "V15_Commons_lounge_cluster_2": {
+      "prepared_asset": "commons_library_modern_arm_chair_01",
+      "supporting_asset": "commons_library_modern_coffee_table_01",
+      "action": "Replace proxy group with sourced armchair and coffee table instances"
+    },
+    "V15_Commons_lounge_cluster_3": {
+      "prepared_asset": "commons_library_modern_arm_chair_01",
+      "supporting_asset": "commons_library_modern_coffee_table_01",
+      "action": "Replace proxy group with sourced armchair and coffee table instances"
+    },
+    "V15_Commons_lounge_cluster_4": {
+      "prepared_asset": "commons_library_modern_arm_chair_01",
+      "supporting_asset": "commons_library_modern_coffee_table_01",
+      "action": "Replace proxy group with sourced armchair and coffee table instances"
+    },
+    "V15_Commons_lounge_cluster_5": {
+      "prepared_asset": "commons_library_modern_arm_chair_01",
+      "supporting_asset": "commons_library_modern_coffee_table_01",
+      "action": "Replace proxy group with sourced armchair and coffee table instances"
+    },
+    "V15_Commons_long_collaboration_table": {
+      "prepared_asset": "commons_communal_table",
+      "supporting_asset": "commons_collaboration_stool",
+      "action": "Replace joined proxy group with individual table and stools"
+    },
+    "V15_Commons_north_perimeter_benches": {
+      "prepared_asset": "commons_upholstered_bench",
+      "action": "Fit repeated bench modules to existing runs"
+    },
+    "V15_Cafe_coffee_station": {
+      "prepared_asset": "commons_library_sanremo_runtime",
+      "action": "Replace generic coffee machine after verifying counter fit"
+    }
+  },
+  "unresolved_source_objects": [],
+  "assets": [
+    {
+      "id": "commons_commons_architecture",
+      "name": "Commons Architecture",
+      "status": "prepared",
+      "preview": "previews/commons_commons_architecture.png",
+      "files": [
+        {
+          "path": "prepared/commons_commons_architecture/commons_commons_architecture.glb",
+          "bytes": 49897956,
+          "sha256": "5c5baa8e855cd965d20e39f55bd8785f9801bf7dc3cd307073dbe070ef5981c5"
+        }
+      ],
+      "report": "reports/commons_commons_architecture.json",
+      "visual": "context_review",
+      "unreal": "passed",
+      "triangles": 864,
+      "meshes": 23,
+      "dimensions_m": [
+        16.7239,
+        26.8744,
+        8.4114
+      ],
+      "reopened": true,
+      "source_objects": [
+        "Commons_gym_party_wall_end",
+        "Commons_north_wall0",
+        "Commons_north_head0",
+        "Commons_north_end",
+        "Commons_east_wall0",
+        "Commons_east_head0",
+        "Commons_east_end",
+        "Upper_commons_north_wall0",
+        "Upper_commons_north_head0",
+        "Upper_commons_north_end",
+        "Upper_commons_east_wall0",
+        "Upper_commons_east_head0",
+        "Upper_commons_east_end",
+        "Commons_gym_party_wall_end_base_trim",
+        "Commons_north_wall0_base_trim",
+        "Commons_north_end_base_trim",
+        "Commons_east_wall0_base_trim",
+        "Commons_east_end_base_trim",
+        "Upper_commons_north_wall0_base_trim",
+        "Upper_commons_north_end_base_trim",
+        "Upper_commons_east_wall0_base_trim",
+        "Upper_commons_east_end_base_trim",
+        "V8_DETAIL_Commons_plan_columns"
+      ],
+      "note": "Fitted source geometry retained; static transforms baked, metric pivot centered, PBR finishes and physical-scale UVs added. Shared building elements may extend beyond the commons. Glass and visible interiors retained.",
+      "placement_origin_m": [
+        8.205928802490234,
+        18.079654693603516,
+        0.0
+      ],
+      "review_note": "Standalone geometry preview checked; finish scale, reflections, transparency and seams must be judged in the assembled common-area lighting."
+    },
+    {
+      "id": "commons_architectural_glazing",
+      "name": "Architectural Glazing",
+      "status": "prepared",
+      "preview": "previews/commons_architectural_glazing.png",
+      "files": [
+        {
+          "path": "prepared/commons_architectural_glazing/commons_architectural_glazing.glb",
+          "bytes": 8644,
+          "sha256": "6d41bc39e31894c58eecd87b3247e7bcae12bb86c09d5855b67a2c153513a08e"
+        }
+      ],
+      "report": "reports/commons_architectural_glazing.json",
+      "visual": "context_review",
+      "unreal": "passed",
+      "triangles": 76,
+      "meshes": 4,
+      "dimensions_m": [
+        16.2361,
+        17.4368,
+        8.1614
+      ],
+      "reopened": true,
+      "source_objects": [
+        "Commons_north_glass0",
+        "Commons_east_glass0",
+        "Upper_commons_north_glass0",
+        "Upper_commons_east_glass0"
+      ],
+      "note": "Fitted source geometry retained; static transforms baked, metric pivot centered, PBR finishes and physical-scale UVs added. Shared building elements may extend beyond the commons. Glass and visible interiors retained.",
+      "placement_origin_m": [
+        8.330816268920898,
+        22.67949676513672,
+        0.0
+      ],
+      "review_note": "Standalone geometry preview checked; finish scale, reflections, transparency and seams must be judged in the assembled common-area lighting."
+    },
+    {
+      "id": "commons_architectural_frames",
+      "name": "Architectural Frames",
+      "status": "prepared",
+      "preview": "previews/commons_architectural_frames.png",
+      "files": [
+        {
+          "path": "prepared/commons_architectural_frames/commons_architectural_frames.glb",
+          "bytes": 7203092,
+          "sha256": "ffd277ad332539d33c129b1195eb63f39593c6e8f64f70510a41d45b40929b98"
+        }
+      ],
+      "report": "reports/commons_architectural_frames.json",
+      "visual": "context_review",
+      "unreal": "passed",
+      "triangles": 800,
+      "meshes": 62,
+      "dimensions_m": [
+        16.2971,
+        17.4978,
+        8.1614
+      ],
+      "reopened": true,
+      "source_objects": [
+        "Commons_north_frame0_0",
+        "Commons_north_frame0_3952.2",
+        "Commons_north_mullion0_0",
+        "Commons_north_mullion0_1",
+        "Commons_north_mullion0_2",
+        "Commons_north_mullion0_3",
+        "Commons_north_mullion0_7",
+        "Commons_north_mullion0_8",
+        "Commons_north_mullion0_9",
+        "Commons_north_mullion0_10",
+        "Commons_north_mullion0_11",
+        "Commons_north_mullion0_12",
+        "Commons_north_mullion0_13",
+        "Commons_north_mullion0_14",
+        "Commons_east_frame0_0",
+        "Commons_east_frame0_3952.2",
+        "Commons_east_mullion0_0",
+        "Commons_east_mullion0_1",
+        "Commons_east_mullion0_2",
+        "Commons_east_mullion0_3",
+        "Commons_east_mullion0_4",
+        "Commons_east_mullion0_5",
+        "Commons_east_mullion0_6",
+        "Commons_east_mullion0_7",
+        "Commons_east_mullion0_8",
+        "Commons_east_mullion0_9",
+        "Commons_east_mullion0_10",
+        "Commons_east_mullion0_11",
+        "Commons_east_mullion0_12",
+        "Commons_east_mullion0_13",
+        "Commons_east_mullion0_14",
+        "Upper_commons_north_frame0_0",
+        "Upper_commons_north_frame0_3829.2000000000016",
+        "Upper_commons_north_mullion0_0",
+        "Upper_commons_north_mullion0_1",
+        "Upper_commons_north_mullion0_2",
+        "Upper_commons_north_mullion0_3",
+        "Upper_commons_north_mullion0_4",
+        "Upper_commons_north_mullion0_5",
+        "Upper_commons_north_mullion0_6",
+        "Upper_commons_north_mullion0_7",
+        "Upper_commons_north_mullion0_8",
+        "Upper_commons_north_mullion0_9",
+        "Upper_commons_north_mullion0_10",
+        "Upper_commons_east_frame0_0",
+        "Upper_commons_east_frame0_3829.2000000000016",
+        "Upper_commons_east_mullion0_0",
+        "Upper_commons_east_mullion0_1",
+        "Upper_commons_east_mullion0_2",
+        "Upper_commons_east_mullion0_3",
+        "Upper_commons_east_mullion0_4",
+        "Upper_commons_east_mullion0_5",
+        "Upper_commons_east_mullion0_6",
+        "Upper_commons_east_mullion0_7",
+        "Upper_commons_east_mullion0_8",
+        "Upper_commons_east_mullion0_9",
+        "Upper_commons_east_mullion0_10",
+        "Upper_commons_east_mullion0_11",
+        "Upper_commons_east_mullion0_12",
+        "Upper_commons_east_mullion0_13",
+        "Upper_commons_east_mullion0_14",
+        "Upper_commons_east_mullion0_15"
+      ],
+      "note": "Fitted source geometry retained; static transforms baked, metric pivot centered, PBR finishes and physical-scale UVs added. Shared building elements may extend beyond the commons. Glass and visible interiors retained.",
+      "placement_origin_m": [
+        8.326316833496094,
+        22.67499542236328,
+        0.0
+      ],
+      "review_note": "Standalone geometry preview checked; finish scale, reflections, transparency and seams must be judged in the assembled common-area lighting."
+    },
+    {
+      "id": "commons_commons_banners",
+      "name": "Commons Banners",
+      "status": "prepared",
+      "preview": "previews/commons_commons_banners.png",
+      "files": [
+        {
+          "path": "prepared/commons_commons_banners/commons_commons_banners.glb",
+          "bytes": 21085020,
+          "sha256": "c8e7cec95bba30f998465f39e913c7f7add80cfe2bae3c76d2cc498f792ad33f"
+        }
+      ],
+      "report": "reports/commons_commons_banners.json",
+      "visual": "needs_refinement",
+      "unreal": "passed",
+      "triangles": 36,
+      "meshes": 3,
+      "dimensions_m": [
+        0.025,
+        9.7,
+        2.1
+      ],
+      "reopened": true,
+      "source_objects": [
+        "V5_Banner_20",
+        "V5_Banner_25",
+        "V5_Banner_29"
+      ],
+      "note": "Fitted source geometry retained; static transforms baked, metric pivot centered, PBR finishes and physical-scale UVs added. Shared building elements may extend beyond the commons. Glass and visible interiors retained.",
+      "placement_origin_m": [
+        0.2199999988079071,
+        24.5,
+        4.449999809265137
+      ],
+      "review_note": "Prepared fitted/test geometry; visible fine detail or graphics are insufficient for hero close-ups. Retained as a clearly labeled test candidate."
+    },
+    {
+      "id": "commons_fireplace_surround",
+      "name": "Fireplace Surround",
+      "status": "prepared",
+      "preview": "previews/commons_fireplace_surround.png",
+      "files": [
+        {
+          "path": "prepared/commons_fireplace_surround/commons_fireplace_surround.glb",
+          "bytes": 41960348,
+          "sha256": "b7faa4aab8aef326dc597fb2ebb90f0ef3208b82a42df58641486068a6c474d8"
+        }
+      ],
+      "report": "reports/commons_fireplace_surround.json",
+      "visual": "context_review",
+      "unreal": "passed",
+      "triangles": 52,
+      "meshes": 3,
+      "dimensions_m": [
+        2.95,
+        1.42,
+        8.4
+      ],
+      "reopened": true,
+      "source_objects": [
+        "V6_Fireplace_plan_aligned_pier",
+        "V6_V5_Firebox_back_corrected",
+        "V6_V5_Fireplace_hearth_corrected"
+      ],
+      "note": "Fitted source geometry retained; static transforms baked, metric pivot centered, PBR finishes and physical-scale UVs added. Shared building elements may extend beyond the commons. Glass and visible interiors retained.",
+      "placement_origin_m": [
+        6.1172776222229,
+        30.432775497436523,
+        0.0
+      ],
+      "review_note": "Standalone geometry preview checked; finish scale, reflections, transparency and seams must be judged in the assembled common-area lighting."
+    },
+    {
+      "id": "commons_cafe_u_counter",
+      "name": "Cafe U Counter",
+      "status": "prepared",
+      "preview": "previews/commons_cafe_u_counter.png",
+      "files": [
+        {
+          "path": "prepared/commons_cafe_u_counter/commons_cafe_u_counter.glb",
+          "bytes": 29149980,
+          "sha256": "15782ffa4401da40c145ee28b04be152c91f3a615026cab34848c0fd499a9315"
+        }
+      ],
+      "report": "reports/commons_cafe_u_counter.json",
+      "visual": "needs_refinement",
+      "unreal": "passed",
+      "triangles": 240,
+      "meshes": 1,
+      "dimensions_m": [
+        3.4394,
+        2.5351,
+        1.03
+      ],
+      "reopened": true,
+      "source_objects": [
+        "V8_DETAIL_Cafe_U_counter"
+      ],
+      "note": "Fitted source geometry retained; static transforms baked, metric pivot centered, PBR finishes and physical-scale UVs added. Shared building elements may extend beyond the commons. Glass and visible interiors retained.",
+      "placement_origin_m": [
+        14.309109687805176,
+        17.580524444580078,
+        0.029999971389770508
+      ],
+      "review_note": "Fitted reference geometry exported with improved materials. Still too simple for AAA close-up use: bevels, controls, seams and service details require a higher-detail replacement or modeling pass."
+    },
+    {
+      "id": "commons_cafe_back_counter",
+      "name": "Cafe Back Counter",
+      "status": "prepared",
+      "preview": "previews/commons_cafe_back_counter.png",
+      "files": [
+        {
+          "path": "prepared/commons_cafe_back_counter/commons_cafe_back_counter.glb",
+          "bytes": 58180196,
+          "sha256": "45a18ac1c86c2071c9da6a428855d3da2393b1949067d8ec72f13af7696ebdc4"
+        }
+      ],
+      "report": "reports/commons_cafe_back_counter.json",
+      "visual": "needs_refinement",
+      "unreal": "passed",
+      "triangles": 1412,
+      "meshes": 1,
+      "dimensions_m": [
+        0.58,
+        3.65,
+        0.895
+      ],
+      "reopened": true,
+      "source_objects": [
+        "V15_Cafe_back_counter"
+      ],
+      "note": "Fitted source geometry retained; static transforms baked, metric pivot centered, PBR finishes and physical-scale UVs added. Shared building elements may extend beyond the commons. Glass and visible interiors retained.",
+      "placement_origin_m": [
+        15.825130462646484,
+        18.883769989013672,
+        0.02500000037252903
+      ],
+      "review_note": "Fitted reference geometry exported with improved materials. Still too simple for AAA close-up use: bevels, controls, seams and service details require a higher-detail replacement or modeling pass."
+    },
+    {
+      "id": "commons_cafe_sink_pou_heater",
+      "name": "Cafe Sink Pou Heater",
+      "status": "prepared",
+      "preview": "previews/commons_cafe_sink_pou_heater.png",
+      "files": [
+        {
+          "path": "prepared/commons_cafe_sink_pou_heater/commons_cafe_sink_pou_heater.glb",
+          "bytes": 28988628,
+          "sha256": "c7a7bbd3a997205fc6b4b5ac66abda8f001218b5192dd6b942c69789f9cbb512"
+        }
+      ],
+      "report": "reports/commons_cafe_sink_pou_heater.json",
+      "visual": "needs_refinement",
+      "unreal": "passed",
+      "triangles": 524,
+      "meshes": 1,
+      "dimensions_m": [
+        0.44,
+        0.47,
+        1.019
+      ],
+      "reopened": true,
+      "source_objects": [
+        "V15_Cafe_sink_POU_heater"
+      ],
+      "note": "Fitted source geometry retained; static transforms baked, metric pivot centered, PBR finishes and physical-scale UVs added. Shared building elements may extend beyond the commons. Glass and visible interiors retained.",
+      "placement_origin_m": [
+        15.790000915527344,
+        17.239999771118164,
+        0.29500001668930054
+      ],
+      "review_note": "Fitted reference geometry exported with improved materials. Still too simple for AAA close-up use: bevels, controls, seams and service details require a higher-detail replacement or modeling pass."
+    },
+    {
+      "id": "commons_projector_and_cassette",
+      "name": "Projector And Cassette",
+      "status": "prepared",
+      "preview": "previews/commons_projector_and_cassette.png",
+      "files": [
+        {
+          "path": "prepared/commons_projector_and_cassette/commons_projector_and_cassette.glb",
+          "bytes": 39736972,
+          "sha256": "c5bf0f4d7f278b1cd8ce5ee75593c880e34af4ae76b6e2be927b444c3b6d7670"
+        }
+      ],
+      "report": "reports/commons_projector_and_cassette.json",
+      "visual": "needs_refinement",
+      "unreal": "passed",
+      "triangles": 428,
+      "meshes": 2,
+      "dimensions_m": [
+        4.7176,
+        3.1,
+        4.45
+      ],
+      "reopened": true,
+      "source_objects": [
+        "V15_Commons_ceiling_projector",
+        "V15_AV_screen_suspension"
+      ],
+      "note": "Fitted source geometry retained; static transforms baked, metric pivot centered, PBR finishes and physical-scale UVs added. Shared building elements may extend beyond the commons. Glass and visible interiors retained.",
+      "placement_origin_m": [
+        3.5895001888275146,
+        23.96929931640625,
+        3.7099997997283936
+      ],
+      "review_note": "Prepared fitted/test geometry; visible fine detail or graphics are insufficient for hero close-ups. Retained as a clearly labeled test candidate."
+    },
+    {
+      "id": "commons_projection_screen",
+      "name": "Projection Screen",
+      "status": "prepared",
+      "preview": "previews/commons_projection_screen.png",
+      "files": [
+        {
+          "path": "prepared/commons_projection_screen/commons_projection_screen.glb",
+          "bytes": 31835520,
+          "sha256": "daaaf7923b1f1d9598c6b517e05058f60f949428ef3b084b39043c18f034c4f0"
+        }
+      ],
+      "report": "reports/commons_projection_screen.json",
+      "visual": "context_review",
+      "unreal": "passed",
+      "triangles": 56,
+      "meshes": 2,
+      "dimensions_m": [
+        0.048,
+        2.98,
+        1.864
+      ],
+      "reopened": true,
+      "source_objects": [
+        "V15_Commons_lowered_projection_screen",
+        "V15_Screen_bottom_weight"
+      ],
+      "note": "Fitted source geometry retained; static transforms baked, metric pivot centered, PBR finishes and physical-scale UVs added. Shared building elements may extend beyond the commons. Glass and visible interiors retained.",
+      "placement_origin_m": [
+        1.3207000494003296,
+        23.96929931640625,
+        2.0359997749328613
+      ],
+      "review_note": "Standalone geometry preview checked; finish scale, reflections, transparency and seams must be judged in the assembled common-area lighting."
+    },
+    {
+      "id": "commons_dining_table",
+      "name": "Dining Table",
+      "status": "ready_for_testing",
+      "preview": "previews/commons_dining_table.png",
+      "files": [
+        {
+          "path": "prepared/commons_dining_table/commons_dining_table.glb",
+          "bytes": 30019208,
+          "sha256": "fd973873b7d0a843164a86348b63c2fb6168074537ea38cdcdeb4f10b2d43834"
+        }
+      ],
+      "report": "reports/commons_dining_table.json",
+      "visual": "passed",
+      "unreal": "passed",
+      "triangles": 3600,
+      "meshes": 12,
+      "dimensions_m": [
+        0.83,
+        1.72,
+        0.7575
+      ],
+      "reopened": true,
+      "source_objects": [
+        "Oak top",
+        "Leg crossbar",
+        "Leg upright",
+        "Leg upright.001",
+        "Rubber foot",
+        "Rubber foot.001",
+        "Leg crossbar.001",
+        "Leg upright.002",
+        "Leg upright.003",
+        "Rubber foot.002",
+        "Rubber foot.003",
+        "Under-top rail"
+      ],
+      "note": "New campus-specific table with rounded oak top and powder-coated steel base; no manufacturer identity claimed.",
+      "placement_origin_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "review_note": "Studio render accepted for scene testing. Final lighting, placement, close-up detail and runtime performance remain separate acceptance steps."
+    },
+    {
+      "id": "commons_communal_table",
+      "name": "Communal Table",
+      "status": "ready_for_testing",
+      "preview": "previews/commons_communal_table.png",
+      "files": [
+        {
+          "path": "prepared/commons_communal_table/commons_communal_table.glb",
+          "bytes": 30026672,
+          "sha256": "815f261b4a789d7cbfda428d5303cf9883f76e14b94c487a30e7b1223ec1c99a"
+        }
+      ],
+      "report": "reports/commons_communal_table.json",
+      "visual": "passed",
+      "unreal": "passed",
+      "triangles": 3600,
+      "meshes": 12,
+      "dimensions_m": [
+        0.9,
+        3.4,
+        0.7575
+      ],
+      "reopened": true,
+      "source_objects": [
+        "Oak top",
+        "Leg crossbar",
+        "Leg upright",
+        "Leg upright.001",
+        "Rubber foot",
+        "Rubber foot.001",
+        "Leg crossbar.001",
+        "Leg upright.002",
+        "Leg upright.003",
+        "Rubber foot.002",
+        "Rubber foot.003",
+        "Under-top rail"
+      ],
+      "note": "New campus-specific table with rounded oak top and powder-coated steel base; no manufacturer identity claimed.",
+      "placement_origin_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "review_note": "Studio render accepted for scene testing. Final lighting, placement, close-up detail and runtime performance remain separate acceptance steps."
+    },
+    {
+      "id": "commons_round_dining_table",
+      "name": "Round Dining Table",
+      "status": "ready_for_testing",
+      "preview": "previews/commons_round_dining_table.png",
+      "files": [
+        {
+          "path": "prepared/commons_round_dining_table/commons_round_dining_table.glb",
+          "bytes": 21084392,
+          "sha256": "a66bf59b93d941c2a93ec2fcf7e873f1d7814d377330ce685aad3af882a4c474"
+        }
+      ],
+      "report": "reports/commons_round_dining_table.json",
+      "visual": "passed",
+      "unreal": "passed",
+      "triangles": 3060,
+      "meshes": 3,
+      "dimensions_m": [
+        1.04,
+        1.04,
+        0.745
+      ],
+      "reopened": true,
+      "source_objects": [
+        "Stone top",
+        "Pedestal",
+        "Weighted base"
+      ],
+      "note": "Project-owned round pedestal table, 1.04 m diameter, stone finish.",
+      "placement_origin_m": [
+        0.0,
+        0.0,
+        0.005000000819563866
+      ],
+      "review_note": "Studio render accepted for scene testing. Final lighting, placement, close-up detail and runtime performance remain separate acceptance steps."
+    },
+    {
+      "id": "commons_collaboration_stool",
+      "name": "Collaboration Stool",
+      "status": "ready_for_testing",
+      "preview": "previews/commons_collaboration_stool.png",
+      "files": [
+        {
+          "path": "prepared/commons_collaboration_stool/commons_collaboration_stool.glb",
+          "bytes": 37530168,
+          "sha256": "77c4c088039a748dec51d19a78f99f1a4201c2b91e78f8bb9a71b1f7a1504a27"
+        }
+      ],
+      "report": "reports/commons_collaboration_stool.json",
+      "visual": "passed",
+      "unreal": "passed",
+      "triangles": 5100,
+      "meshes": 5,
+      "dimensions_m": [
+        0.41,
+        0.41,
+        0.48
+      ],
+      "reopened": true,
+      "source_objects": [
+        "Upholstered seat",
+        "Steel leg",
+        "Steel leg.001",
+        "Steel leg.002",
+        "Steel leg.003"
+      ],
+      "note": "Project-owned 48 cm upholstered stool for seated-height communal table.",
+      "placement_origin_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "review_note": "Studio render accepted for scene testing. Final lighting, placement, close-up detail and runtime performance remain separate acceptance steps."
+    },
+    {
+      "id": "commons_upholstered_bench",
+      "name": "Upholstered Bench",
+      "status": "ready_for_testing",
+      "preview": "previews/commons_upholstered_bench.png",
+      "files": [
+        {
+          "path": "prepared/commons_upholstered_bench/commons_upholstered_bench.glb",
+          "bytes": 56250352,
+          "sha256": "36b826ef2e28935cfa44286fea172bb0e1ffd0f980bd843b38b5b3720f1f3c7f"
+        }
+      ],
+      "report": "reports/commons_upholstered_bench.json",
+      "visual": "passed",
+      "unreal": "passed",
+      "triangles": 900,
+      "meshes": 3,
+      "dimensions_m": [
+        2.5,
+        0.63,
+        0.505
+      ],
+      "reopened": true,
+      "source_objects": [
+        "Seat cushion",
+        "Oak plinth",
+        "Recessed toe kick"
+      ],
+      "note": "Project-owned upholstered bench module; 2.5 m length. Repeat to suit perimeter runs.",
+      "placement_origin_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "review_note": "Studio render accepted for scene testing. Final lighting, placement, close-up detail and runtime performance remain separate acceptance steps."
+    },
+    {
+      "id": "commons_pendant_0",
+      "name": "Pendant 0",
+      "status": "ready_for_testing",
+      "preview": "previews/commons_pendant_0.png",
+      "files": [
+        {
+          "path": "prepared/commons_pendant_0/commons_pendant_0.glb",
+          "bytes": 29040116,
+          "sha256": "65a99cf9e3c9746d1fe3c8380f009d275779e59feed79fb0f23eba0a731d3383"
+        }
+      ],
+      "report": "reports/commons_pendant_0.json",
+      "visual": "passed",
+      "unreal": "passed",
+      "triangles": 1096,
+      "meshes": 5,
+      "dimensions_m": [
+        1.87,
+        1.87,
+        1.6625
+      ],
+      "reopened": true,
+      "source_objects": [
+        "Pendant_0",
+        "Pendant_0_suspension_0",
+        "Pendant_0_suspension_2.094",
+        "Pendant_0_suspension_4.189",
+        "Pendant_0_ceiling_rose"
+      ],
+      "note": "Fitted pendant with warm emissive diffuser restored; support geometry retained. Physical light intensity needs native test-map tuning.",
+      "placement_origin_m": [
+        4.0,
+        21.0,
+        6.664999961853027
+      ],
+      "review_note": "Studio render accepted for scene testing. Final lighting, placement, close-up detail and runtime performance remain separate acceptance steps."
+    },
+    {
+      "id": "commons_pendant_1",
+      "name": "Pendant 1",
+      "status": "ready_for_testing",
+      "preview": "previews/commons_pendant_1.png",
+      "files": [
+        {
+          "path": "prepared/commons_pendant_1/commons_pendant_1.glb",
+          "bytes": 29041652,
+          "sha256": "4f27b95bc1e170c22c967bc34be3f3b1828563ae41614aad5cab0760cc9604cb"
+        }
+      ],
+      "report": "reports/commons_pendant_1.json",
+      "visual": "passed",
+      "unreal": "passed",
+      "triangles": 1096,
+      "meshes": 5,
+      "dimensions_m": [
+        1.37,
+        1.37,
+        1.5625
+      ],
+      "reopened": true,
+      "source_objects": [
+        "Pendant_1",
+        "Pendant_1_suspension_0",
+        "Pendant_1_suspension_2.094",
+        "Pendant_1_suspension_4.189",
+        "Pendant_1_ceiling_rose"
+      ],
+      "note": "Fitted pendant with warm emissive diffuser restored; support geometry retained. Physical light intensity needs native test-map tuning.",
+      "placement_origin_m": [
+        8.0,
+        25.0,
+        6.764999866485596
+      ],
+      "review_note": "Studio render accepted for scene testing. Final lighting, placement, close-up detail and runtime performance remain separate acceptance steps."
+    },
+    {
+      "id": "commons_pendant_2",
+      "name": "Pendant 2",
+      "status": "ready_for_testing",
+      "preview": "previews/commons_pendant_2.png",
+      "files": [
+        {
+          "path": "prepared/commons_pendant_2/commons_pendant_2.glb",
+          "bytes": 29040116,
+          "sha256": "db39da57d5f18fbe04c4a104d81a7f8b983db0fc7a05de1029ae678624382b19"
+        }
+      ],
+      "report": "reports/commons_pendant_2.json",
+      "visual": "passed",
+      "unreal": "passed",
+      "triangles": 1096,
+      "meshes": 5,
+      "dimensions_m": [
+        1.87,
+        1.87,
+        1.5625
+      ],
+      "reopened": true,
+      "source_objects": [
+        "Pendant_2",
+        "Pendant_2_suspension_0",
+        "Pendant_2_suspension_2.094",
+        "Pendant_2_suspension_4.189",
+        "Pendant_2_ceiling_rose"
+      ],
+      "note": "Fitted pendant with warm emissive diffuser restored; support geometry retained. Physical light intensity needs native test-map tuning.",
+      "placement_origin_m": [
+        5.0,
+        29.0,
+        6.764999866485596
+      ],
+      "review_note": "Studio render accepted for scene testing. Final lighting, placement, close-up detail and runtime performance remain separate acceptance steps."
+    },
+    {
+      "id": "commons_pendant_3",
+      "name": "Pendant 3",
+      "status": "ready_for_testing",
+      "preview": "previews/commons_pendant_3.png",
+      "files": [
+        {
+          "path": "prepared/commons_pendant_3/commons_pendant_3.glb",
+          "bytes": 29042356,
+          "sha256": "0dc0218f03de2c1cecaad8563c95b38ac6564963bbf65954fd85395a7191e0c8"
+        }
+      ],
+      "report": "reports/commons_pendant_3.json",
+      "visual": "passed",
+      "unreal": "passed",
+      "triangles": 1096,
+      "meshes": 5,
+      "dimensions_m": [
+        1.37,
+        1.37,
+        1.6625
+      ],
+      "reopened": true,
+      "source_objects": [
+        "Pendant_3",
+        "Pendant_3_suspension_0",
+        "Pendant_3_suspension_2.094",
+        "Pendant_3_suspension_4.189",
+        "Pendant_3_ceiling_rose"
+      ],
+      "note": "Fitted pendant with warm emissive diffuser restored; support geometry retained. Physical light intensity needs native test-map tuning.",
+      "placement_origin_m": [
+        7.0,
+        17.0,
+        6.664999961853027
+      ],
+      "review_note": "Studio render accepted for scene testing. Final lighting, placement, close-up detail and runtime performance remain separate acceptance steps."
+    },
+    {
+      "id": "commons_shared_ground_floor",
+      "name": "Shared Ground Floor",
+      "status": "prepared",
+      "preview": "previews/commons_shared_ground_floor.png",
+      "files": [
+        {
+          "path": "prepared/commons_shared_ground_floor/commons_shared_ground_floor.glb",
+          "bytes": 21086736,
+          "sha256": "fc3c4d8e42d8e82179ea9dd1305b085d69ba6ef62df0ce1e76eee3e0e33e5a0f"
+        }
+      ],
+      "report": "reports/commons_shared_ground_floor.json",
+      "visual": "context_review",
+      "unreal": "passed",
+      "triangles": 76,
+      "meshes": 1,
+      "dimensions_m": [
+        64.4708,
+        39.7889,
+        0.25
+      ],
+      "reopened": true,
+      "source_objects": [
+        "A101_ground_slab"
+      ],
+      "note": "Shared fitted building floor with concrete PBR finish; physical-scale UVs. Full slab retained to avoid a seam at commons boundaries.",
+      "placement_origin_m": [
+        -13.24523639678955,
+        19.68167495727539,
+        -0.25
+      ],
+      "review_note": "Standalone geometry preview checked; finish scale, reflections, transparency and seams must be judged in the assembled common-area lighting."
+    },
+    {
+      "id": "commons_shared_ceiling",
+      "name": "Shared Ceiling",
+      "status": "prepared",
+      "preview": "previews/commons_shared_ceiling.png",
+      "files": [
+        {
+          "path": "prepared/commons_shared_ceiling/commons_shared_ceiling.glb",
+          "bytes": 40097636,
+          "sha256": "000258d57ce865c3f3690c37075ead7c3f5aa61cb1608b9b093a7427aaa17439"
+        }
+      ],
+      "report": "reports/commons_shared_ceiling.json",
+      "visual": "context_review",
+      "unreal": "passed",
+      "triangles": 72,
+      "meshes": 1,
+      "dimensions_m": [
+        57.7095,
+        31.3859,
+        0.25
+      ],
+      "reopened": true,
+      "source_objects": [
+        "Main_concrete_roof"
+      ],
+      "note": "Shared original roof geometry retained as a ceiling candidate. Final exposed-concrete versus plaster finish is a design decision.",
+      "placement_origin_m": [
+        -16.70538330078125,
+        15.692936897277832,
+        8.411399841308594
+      ],
+      "review_note": "Standalone geometry preview checked; finish scale, reflections, transparency and seams must be judged in the assembled common-area lighting."
+    },
+    {
+      "id": "commons_fireplace_logs",
+      "name": "Fireplace Logs",
+      "status": "prepared",
+      "preview": "previews/commons_fireplace_logs.png",
+      "files": [
+        {
+          "path": "prepared/commons_fireplace_logs/commons_fireplace_logs.glb",
+          "bytes": 173340,
+          "sha256": "86ebe218531f082950f41b7b66b3b0d9cee95bcf91c5148ad7f0b11b35f0a233"
+        }
+      ],
+      "report": "reports/commons_fireplace_logs.json",
+      "visual": "needs_refinement",
+      "unreal": "passed",
+      "triangles": 2004,
+      "meshes": 27,
+      "dimensions_m": [
+        1.0792,
+        0.4344,
+        0.2499
+      ],
+      "reopened": true,
+      "source_objects": [
+        "Charred_log_0",
+        "Charred_log_1",
+        "Charred_log_2",
+        "Ember_0",
+        "Ember_1",
+        "Ember_2",
+        "Ember_3",
+        "Ember_4",
+        "Ember_5",
+        "Ember_6",
+        "Ember_7",
+        "Ember_8",
+        "Ember_9",
+        "Ember_10",
+        "Ember_11",
+        "Ember_12",
+        "Ember_13",
+        "Ember_14",
+        "Ember_15",
+        "Ember_16",
+        "Ember_17",
+        "Ember_18",
+        "Ember_19",
+        "Ember_20",
+        "Ember_21",
+        "Ember_22",
+        "Ember_23"
+      ],
+      "note": "Project-owned charred-log and emissive-ember test dressing; geometric bark silhouette. Procedural bump is not exported. Needs close-up art refinement before hero use.",
+      "placement_origin_m": [
+        -0.004742324352264404,
+        -0.00026898831129074097,
+        0.008954055607318878
+      ],
+      "review_note": "Prepared fitted/test geometry; visible fine detail or graphics are insufficient for hero close-ups. Retained as a clearly labeled test candidate."
+    },
+    {
+      "id": "commons_coffee_cup_saucer",
+      "name": "Coffee Cup Saucer",
+      "status": "ready_for_testing",
+      "preview": "previews/commons_coffee_cup_saucer.png",
+      "files": [
+        {
+          "path": "prepared/commons_coffee_cup_saucer/commons_coffee_cup_saucer.glb",
+          "bytes": 148764,
+          "sha256": "9595522937fe2cf2821926e889444fe14aea4d16fa9c03914d2983843938184c"
+        }
+      ],
+      "report": "reports/commons_coffee_cup_saucer.json",
+      "visual": "passed",
+      "unreal": "passed",
+      "triangles": 3072,
+      "meshes": 4,
+      "dimensions_m": [
+        0.154,
+        0.154,
+        0.098
+      ],
+      "reopened": true,
+      "source_objects": [
+        "Ceramic cup",
+        "Cup handle",
+        "Saucer",
+        "Coffee surface"
+      ],
+      "note": "Project-owned ceramic cup, handle, visible inner wall, saucer and coffee surface. 15.4 cm saucer diameter; low-cost repeatable caf\u00e9 dressing.",
+      "placement_origin_m": [
+        0.0,
+        0.0,
+        -0.007000000216066837
+      ],
+      "review_note": "Studio render accepted for scene testing. Final lighting, placement, close-up detail and runtime performance remain separate acceptance steps."
+    },
+    {
+      "id": "commons_takeaway_cup",
+      "name": "Takeaway Cup",
+      "status": "ready_for_testing",
+      "preview": "previews/commons_takeaway_cup.png",
+      "files": [
+        {
+          "path": "prepared/commons_takeaway_cup/commons_takeaway_cup.glb",
+          "bytes": 62908,
+          "sha256": "a4486e1f2ae94cd589f229cce7f4aa9477554f5b19749fe44bd2e9c0cbc8d62a"
+        }
+      ],
+      "report": "reports/commons_takeaway_cup.json",
+      "visual": "passed",
+      "unreal": "passed",
+      "triangles": 1792,
+      "meshes": 2,
+      "dimensions_m": [
+        0.092,
+        0.092,
+        0.132
+      ],
+      "reopened": true,
+      "source_objects": [
+        "Paper cup",
+        "Graphite lid"
+      ],
+      "note": "Project-owned 13.2 cm takeaway cup and lid. No external branding.",
+      "placement_origin_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "review_note": "Studio render accepted for scene testing. Final lighting, placement, close-up detail and runtime performance remain separate acceptance steps."
+    },
+    {
+      "id": "commons_serving_tray",
+      "name": "Serving Tray",
+      "status": "ready_for_testing",
+      "preview": "previews/commons_serving_tray.png",
+      "files": [
+        {
+          "path": "prepared/commons_serving_tray/commons_serving_tray.glb",
+          "bytes": 19085368,
+          "sha256": "6b1c17b8a256c6728989b0366a04ed5a2536bfbb513824ec7406e612f96679d2"
+        }
+      ],
+      "report": "reports/commons_serving_tray.json",
+      "visual": "passed",
+      "unreal": "passed",
+      "triangles": 940,
+      "meshes": 5,
+      "dimensions_m": [
+        0.39,
+        0.28,
+        0.029
+      ],
+      "reopened": true,
+      "source_objects": [
+        "Tray floor",
+        "Raised rim",
+        "Raised rim.001",
+        "Raised rim.002",
+        "Raised rim.003"
+      ],
+      "note": "Project-owned rounded oak tray; 39 \u00d7 28 cm. Retained rim geometry and physical-scale grain.",
+      "placement_origin_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "review_note": "Studio render accepted for scene testing. Final lighting, placement, close-up detail and runtime performance remain separate acceptance steps."
+    },
+    {
+      "id": "commons_stone_side_table",
+      "name": "Stone Side Table",
+      "status": "ready_for_testing",
+      "preview": "previews/commons_stone_side_table.png",
+      "files": [
+        {
+          "path": "prepared/commons_stone_side_table/commons_stone_side_table.glb",
+          "bytes": 10152176,
+          "sha256": "d6f7fc782413a0a5574d4e27800e134d68d7165bcfd5040ea23413c5bfa06f7a"
+        }
+      ],
+      "report": "reports/commons_stone_side_table.json",
+      "visual": "passed",
+      "unreal": "passed",
+      "triangles": 376,
+      "meshes": 2,
+      "dimensions_m": [
+        0.68,
+        0.68,
+        0.4525
+      ],
+      "reopened": true,
+      "source_objects": [
+        "Stone top",
+        "Graphite plinth"
+      ],
+      "note": "Project-owned 45.25 cm stone side table with inset graphite plinth; replaces the rejected secondary downloaded table candidate.",
+      "placement_origin_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "review_note": "Studio render accepted for scene testing. Final lighting, placement, close-up detail and runtime performance remain separate acceptance steps."
+    },
+    {
+      "id": "commons_waste_bin",
+      "name": "Waste Bin",
+      "status": "ready_for_testing",
+      "preview": "previews/commons_waste_bin.png",
+      "files": [
+        {
+          "path": "prepared/commons_waste_bin/commons_waste_bin.glb",
+          "bytes": 33912,
+          "sha256": "f9619dcd6d5a3f7493967f5fba26bfa3bfa267fb4cc50510c78ca27abcbbb16d"
+        }
+      ],
+      "report": "reports/commons_waste_bin.json",
+      "visual": "passed",
+      "unreal": "passed",
+      "triangles": 1024,
+      "meshes": 2,
+      "dimensions_m": [
+        0.36,
+        0.36,
+        0.57
+      ],
+      "reopened": true,
+      "source_objects": [
+        "Waste bin shell",
+        "Bin interior"
+      ],
+      "note": "Project-owned 57 cm matte metal waste bin with modeled interior and rolled lip. Decorative test prop; collision can use a cylinder.",
+      "placement_origin_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "review_note": "Studio render accepted for scene testing. Final lighting, placement, close-up detail and runtime performance remain separate acceptance steps."
+    },
+    {
+      "id": "commons_menu_stand",
+      "name": "Menu Stand",
+      "status": "prepared",
+      "preview": "previews/commons_menu_stand.png",
+      "files": [
+        {
+          "path": "prepared/commons_menu_stand/commons_menu_stand.glb",
+          "bytes": 29444,
+          "sha256": "4f19819a7455d3f3fe47b33267f35f87ea9bbd805156b1fca36f83fdc3fd0f28"
+        }
+      ],
+      "report": "reports/commons_menu_stand.json",
+      "visual": "needs_artwork",
+      "unreal": "passed",
+      "triangles": 376,
+      "meshes": 2,
+      "dimensions_m": [
+        0.15,
+        0.09,
+        0.245
+      ],
+      "reopened": true,
+      "source_objects": [
+        "Menu stand",
+        "Menu panel"
+      ],
+      "note": "Project-owned tabletop menu holder. Intentionally blank pending campus caf\u00e9 menu artwork; geometry ready, typography not final.",
+      "placement_origin_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "review_note": "Blank menu holder geometry and materials are prepared; caf\u00e9 menu typography/artwork remains to be supplied or designed."
+    },
+    {
+      "id": "commons_refined_cafe_refrigerated_display_1",
+      "name": "Refined Cafe Refrigerated Display 1",
+      "status": "ready_for_testing",
+      "preview": "previews/commons_refined_cafe_refrigerated_display_1.png",
+      "files": [
+        {
+          "path": "prepared/commons_refined_cafe_refrigerated_display_1/commons_refined_cafe_refrigerated_display_1.glb",
+          "bytes": 361132,
+          "sha256": "9a69d99f2642c2be7ef647db9974f815cd4693bb136a17314929fa2e567d54d2"
+        }
+      ],
+      "report": "reports/commons_refined_cafe_refrigerated_display_1.json",
+      "visual": "passed",
+      "unreal": "passed",
+      "triangles": 4136,
+      "meshes": 22,
+      "dimensions_m": [
+        0.53,
+        0.6455,
+        0.66
+      ],
+      "reopened": true,
+      "source_objects": [
+        "V15_Cafe_refrigerated_display_1"
+      ],
+      "note": "Project-authored detailed fitted replacement: 53 cm counter display with shelves, extrusions, vents, temperature display and warm shelf lighting. Exact manufacturer identity not claimed.",
+      "placement_origin_m": [
+        12.90999984741211,
+        17.350000381469727,
+        1.059999942779541
+      ],
+      "review_note": "Studio render accepted for scene testing. Final lighting, placement, close-up detail and runtime performance remain separate acceptance steps."
+    },
+    {
+      "id": "commons_refined_cafe_refrigerated_display_2",
+      "name": "Refined Cafe Refrigerated Display 2",
+      "status": "ready_for_testing",
+      "preview": "previews/commons_refined_cafe_refrigerated_display_2.png",
+      "files": [
+        {
+          "path": "prepared/commons_refined_cafe_refrigerated_display_2/commons_refined_cafe_refrigerated_display_2.glb",
+          "bytes": 361132,
+          "sha256": "a8d2b8a6f1cca11be883352bbce6e60ad667a0ff74318e0a9d7a7d8df1006d17"
+        }
+      ],
+      "report": "reports/commons_refined_cafe_refrigerated_display_2.json",
+      "visual": "passed",
+      "unreal": "passed",
+      "triangles": 4136,
+      "meshes": 22,
+      "dimensions_m": [
+        0.53,
+        0.6455,
+        0.66
+      ],
+      "reopened": true,
+      "source_objects": [
+        "V15_Cafe_refrigerated_display_2"
+      ],
+      "note": "Project-authored detailed fitted replacement: 53 cm counter display with shelves, extrusions, vents, temperature display and warm shelf lighting. Exact manufacturer identity not claimed.",
+      "placement_origin_m": [
+        12.90999984741211,
+        18.049999237060547,
+        1.059999942779541
+      ],
+      "review_note": "Studio render accepted for scene testing. Final lighting, placement, close-up detail and runtime performance remain separate acceptance steps."
+    },
+    {
+      "id": "commons_refined_cafe_undercounter_refrigerator",
+      "name": "Refined Cafe Undercounter Refrigerator",
+      "status": "ready_for_testing",
+      "preview": "previews/commons_refined_cafe_undercounter_refrigerator.png",
+      "files": [
+        {
+          "path": "prepared/commons_refined_cafe_undercounter_refrigerator/commons_refined_cafe_undercounter_refrigerator.glb",
+          "bytes": 221468,
+          "sha256": "8c715d66c54fc2397c87836eddad669c1cc55afb368e8ab291244595165b2236"
+        }
+      ],
+      "report": "reports/commons_refined_cafe_undercounter_refrigerator.json",
+      "visual": "passed",
+      "unreal": "passed",
+      "triangles": 2632,
+      "meshes": 14,
+      "dimensions_m": [
+        0.712,
+        0.6415,
+        0.825
+      ],
+      "reopened": true,
+      "source_objects": [
+        "V15_Cafe_Undercounter_refrigerator"
+      ],
+      "note": "Project-authored detailed fitted replacement: Stainless service appliance with separate door, gasket, rolled handle, ventilation and temperature control. Visible service geometry retained; no modeled hidden mechanism. Exact manufacturer identity not claimed.",
+      "placement_origin_m": [
+        14.149999618530273,
+        16.669498443603516,
+        0.06499999761581421
+      ],
+      "review_note": "Studio render accepted for scene testing. Final lighting, placement, close-up detail and runtime performance remain separate acceptance steps."
+    },
+    {
+      "id": "commons_refined_cafe_undercounter_ice_machine",
+      "name": "Refined Cafe Undercounter Ice Machine",
+      "status": "ready_for_testing",
+      "preview": "previews/commons_refined_cafe_undercounter_ice_machine.png",
+      "files": [
+        {
+          "path": "prepared/commons_refined_cafe_undercounter_ice_machine/commons_refined_cafe_undercounter_ice_machine.glb",
+          "bytes": 248540,
+          "sha256": "46b165501778426ebd5562ef1be172ff71909578be3e15e6b146892db440568c"
+        }
+      ],
+      "report": "reports/commons_refined_cafe_undercounter_ice_machine.json",
+      "visual": "passed",
+      "unreal": "passed",
+      "triangles": 3008,
+      "meshes": 16,
+      "dimensions_m": [
+        0.712,
+        0.6485,
+        0.825
+      ],
+      "reopened": true,
+      "source_objects": [
+        "V15_Cafe_Undercounter_ice_machine"
+      ],
+      "note": "Project-authored detailed fitted replacement: Stainless service appliance with separate door, gasket, rolled handle, ventilation and temperature control. Visible service geometry retained; no modeled hidden mechanism. Exact manufacturer identity not claimed.",
+      "placement_origin_m": [
+        15.100000381469727,
+        16.669498443603516,
+        0.06499999761581421
+      ],
+      "review_note": "Studio render accepted for scene testing. Final lighting, placement, close-up detail and runtime performance remain separate acceptance steps."
+    },
+    {
+      "id": "commons_refined_cafe_turbo_oven",
+      "name": "Refined Cafe Turbo Oven",
+      "status": "ready_for_testing",
+      "preview": "previews/commons_refined_cafe_turbo_oven.png",
+      "files": [
+        {
+          "path": "prepared/commons_refined_cafe_turbo_oven/commons_refined_cafe_turbo_oven.glb",
+          "bytes": 356260,
+          "sha256": "b73bc22febf50790e94cfeaeb975a47af9105221e956ba405d322e0b75c00cc4"
+        }
+      ],
+      "report": "reports/commons_refined_cafe_turbo_oven.json",
+      "visual": "passed",
+      "unreal": "passed",
+      "triangles": 4636,
+      "meshes": 17,
+      "dimensions_m": [
+        0.573,
+        0.7095,
+        0.49
+      ],
+      "reopened": true,
+      "source_objects": [
+        "V15_Cafe_turbo_oven"
+      ],
+      "note": "Project-authored detailed fitted replacement: Compact stainless oven with inset glazed door, handle, dial, display, rubber feet and side vents. Exact manufacturer identity not claimed.",
+      "placement_origin_m": [
+        15.767999649047852,
+        19.573501586914062,
+        0.9199999570846558
+      ],
+      "review_note": "Studio render accepted for scene testing. Final lighting, placement, close-up detail and runtime performance remain separate acceptance steps."
+    },
+    {
+      "id": "commons_refined_cafe_pos_ipad_1",
+      "name": "Refined Cafe Pos Ipad 1",
+      "status": "ready_for_testing",
+      "preview": "previews/commons_refined_cafe_pos_ipad_1.png",
+      "files": [
+        {
+          "path": "prepared/commons_refined_cafe_pos_ipad_1/commons_refined_cafe_pos_ipad_1.glb",
+          "bytes": 129344,
+          "sha256": "c0241f76ce8ff97a61fb97d39aea08661fc31f2f0fe424fba5066afd809157d5"
+        }
+      ],
+      "report": "reports/commons_refined_cafe_pos_ipad_1.json",
+      "visual": "passed",
+      "unreal": "passed",
+      "triangles": 1704,
+      "meshes": 6,
+      "dimensions_m": [
+        0.26,
+        0.19,
+        0.42
+      ],
+      "reopened": true,
+      "source_objects": [
+        "V15_Cafe_POS_iPad_1"
+      ],
+      "note": "Project-authored detailed fitted replacement: Rounded tablet housing, inset screen, camera, tilt hinge and weighted stand. Screen deliberately idle; no invented payment interface. Exact manufacturer identity not claimed.",
+      "placement_origin_m": [
+        13.520000457763672,
+        18.459999084472656,
+        1.0609999895095825
+      ],
+      "review_note": "Studio render accepted for scene testing. Final lighting, placement, close-up detail and runtime performance remain separate acceptance steps."
+    },
+    {
+      "id": "commons_refined_cafe_pos_ipad_2",
+      "name": "Refined Cafe Pos Ipad 2",
+      "status": "ready_for_testing",
+      "preview": "previews/commons_refined_cafe_pos_ipad_2.png",
+      "files": [
+        {
+          "path": "prepared/commons_refined_cafe_pos_ipad_2/commons_refined_cafe_pos_ipad_2.glb",
+          "bytes": 129344,
+          "sha256": "d3755f91d800f05d0e3994e209cb1af2d69bd23180fdbe14c1ffb7a8b1a9fa6b"
+        }
+      ],
+      "report": "reports/commons_refined_cafe_pos_ipad_2.json",
+      "visual": "passed",
+      "unreal": "passed",
+      "triangles": 1704,
+      "meshes": 6,
+      "dimensions_m": [
+        0.26,
+        0.19,
+        0.42
+      ],
+      "reopened": true,
+      "source_objects": [
+        "V15_Cafe_POS_iPad_2"
+      ],
+      "note": "Project-authored detailed fitted replacement: Rounded tablet housing, inset screen, camera, tilt hinge and weighted stand. Screen deliberately idle; no invented payment interface. Exact manufacturer identity not claimed.",
+      "placement_origin_m": [
+        14.130000114440918,
+        18.459999084472656,
+        1.0609999895095825
+      ],
+      "review_note": "Studio render accepted for scene testing. Final lighting, placement, close-up detail and runtime performance remain separate acceptance steps."
+    },
+    {
+      "id": "commons_boundary_wood_trim",
+      "name": "Boundary Wood Trim",
+      "status": "prepared",
+      "preview": "previews/commons_boundary_wood_trim.png",
+      "files": [
+        {
+          "path": "prepared/commons_boundary_wood_trim/commons_boundary_wood_trim.glb",
+          "bytes": 19012808,
+          "sha256": "347361687da0cd6ee7440cc895b89c5a5f3e249fdbb60a4024ca3108000036d3"
+        }
+      ],
+      "report": "reports/commons_boundary_wood_trim.json",
+      "visual": "context_review",
+      "unreal": "passed",
+      "triangles": 12,
+      "meshes": 1,
+      "dimensions_m": [
+        0.05,
+        13.0,
+        1.8
+      ],
+      "reopened": true,
+      "source_objects": [
+        "V5_Gym_wall_wood_base"
+      ],
+      "note": "Shared gym/commons boundary wood trim found by spatial audit; source position retained for integration.",
+      "placement_origin_m": [
+        0.18000000715255737,
+        23.0,
+        0.0
+      ],
+      "review_note": "Shared boundary trim added by spatial audit; final joints and material scale need assembled-context review."
+    },
+    {
+      "id": "commons_library_sketchfab_modern_sofa",
+      "name": "Modern upholstered sofa",
+      "status": "ready_for_testing",
+      "preview": "previews/commons_library_sketchfab_modern_sofa.png",
+      "files": [
+        {
+          "path": "prepared/commons_library_sketchfab_modern_sofa/commons_library_sketchfab_modern_sofa.glb",
+          "bytes": 38333284,
+          "sha256": "f684c936dca186fabc6552bb7fa9d2787d880ddd268fee5c3a56b4100bf357c2"
+        }
+      ],
+      "report": "reports/commons_library_sketchfab_modern_sofa.json",
+      "visual": "passed",
+      "unreal": "passed",
+      "triangles": 33770,
+      "meshes": 6,
+      "dimensions_m": [
+        2.5,
+        0.9796,
+        0.7521
+      ],
+      "reopened": true,
+      "source_objects": [],
+      "note": "Downloaded curated replacement candidate. See original catalog attribution and license. Placement remains a later scene-integration step.",
+      "review_note": "Studio render accepted for scene testing. Final lighting, placement, close-up detail and runtime performance remain separate acceptance steps."
+    },
+    {
+      "id": "commons_library_sketchfab_eames_chair",
+      "name": "Eames-style caf\u00e9 chair",
+      "status": "ready_for_testing",
+      "preview": "previews/commons_library_sketchfab_eames_chair.png",
+      "files": [
+        {
+          "path": "prepared/commons_library_sketchfab_eames_chair/commons_library_sketchfab_eames_chair.glb",
+          "bytes": 12131764,
+          "sha256": "e31d73ee78d07a395f38cb658aa0784b5109c89de106f8a924d2581b731c0bf0"
+        }
+      ],
+      "report": "reports/commons_library_sketchfab_eames_chair.json",
+      "visual": "passed",
+      "unreal": "passed",
+      "triangles": 11568,
+      "meshes": 1,
+      "dimensions_m": [
+        0.5399,
+        0.506,
+        0.8198
+      ],
+      "reopened": true,
+      "source_objects": [],
+      "note": "Downloaded curated replacement candidate. See original catalog attribution and license. Placement remains a later scene-integration step.",
+      "review_note": "Studio render accepted for scene testing. Final lighting, placement, close-up detail and runtime performance remain separate acceptance steps."
+    },
+    {
+      "id": "commons_library_modern_arm_chair_01",
+      "name": "Lounge armchair",
+      "status": "ready_for_testing",
+      "preview": "previews/commons_library_modern_arm_chair_01.png",
+      "files": [
+        {
+          "path": "prepared/commons_library_modern_arm_chair_01/commons_library_modern_arm_chair_01.glb",
+          "bytes": 9228336,
+          "sha256": "92a37936a4bda934b7ad32da8116a8cb1096098d6ca34a703c87cbff3c8ba417"
+        }
+      ],
+      "report": "reports/commons_library_modern_arm_chair_01.json",
+      "visual": "passed",
+      "unreal": "passed",
+      "triangles": 8916,
+      "meshes": 1,
+      "dimensions_m": [
+        0.8203,
+        0.9866,
+        1.0229
+      ],
+      "reopened": true,
+      "source_objects": [],
+      "note": "Downloaded curated replacement candidate. See original catalog attribution and license. Placement remains a later scene-integration step.",
+      "review_note": "Studio render accepted for scene testing. Final lighting, placement, close-up detail and runtime performance remain separate acceptance steps."
+    },
+    {
+      "id": "commons_library_modern_coffee_table_01",
+      "name": "Oak coffee table",
+      "status": "ready_for_testing",
+      "preview": "previews/commons_library_modern_coffee_table_01.png",
+      "files": [
+        {
+          "path": "prepared/commons_library_modern_coffee_table_01/commons_library_modern_coffee_table_01.glb",
+          "bytes": 4700740,
+          "sha256": "d934e387d390e351b4f6574be799ddbbbd4dfa3002ccf4525527dd5a5766218b"
+        }
+      ],
+      "report": "reports/commons_library_modern_coffee_table_01.json",
+      "visual": "passed",
+      "unreal": "passed",
+      "triangles": 4504,
+      "meshes": 1,
+      "dimensions_m": [
+        0.6,
+        1.2018,
+        0.39
+      ],
+      "reopened": true,
+      "source_objects": [],
+      "note": "Downloaded curated replacement candidate. See original catalog attribution and license. Placement remains a later scene-integration step.",
+      "review_note": "Studio render accepted for scene testing. Final lighting, placement, close-up detail and runtime performance remain separate acceptance steps."
+    },
+    {
+      "id": "commons_library_modern_coffee_table_02",
+      "name": "Secondary coffee table",
+      "status": "prepared",
+      "preview": "previews/commons_library_modern_coffee_table_02.png",
+      "files": [
+        {
+          "path": "prepared/commons_library_modern_coffee_table_02/commons_library_modern_coffee_table_02.glb",
+          "bytes": 9480652,
+          "sha256": "9e346e0b60d2618742ae79ec5016255d9a1892fbb64205ca5607bd046cba746a"
+        }
+      ],
+      "report": "reports/commons_library_modern_coffee_table_02.json",
+      "visual": "rejected",
+      "unreal": "passed",
+      "triangles": 13645,
+      "meshes": 1,
+      "dimensions_m": [
+        1.1991,
+        1.1997,
+        0.3692
+      ],
+      "reopened": true,
+      "source_objects": [],
+      "note": "Downloaded curated replacement candidate. See original catalog attribution and license. Placement remains a later scene-integration step.",
+      "review_note": "Render shows an exposed stacked polygon framework and an opaque slab; rejected for the selected commons design. Use the prepared stone side table instead."
+    },
+    {
+      "id": "commons_library_potted_plant_04",
+      "name": "Tabletop plant",
+      "status": "ready_for_testing",
+      "preview": "previews/commons_library_potted_plant_04.png",
+      "files": [
+        {
+          "path": "prepared/commons_library_potted_plant_04/commons_library_potted_plant_04.glb",
+          "bytes": 6255456,
+          "sha256": "cfff25adc1ee50408d7d7d313445d1fc4f8489a6b9a99b501b587e33c80d2ec1"
+        }
+      ],
+      "report": "reports/commons_library_potted_plant_04.json",
+      "visual": "passed",
+      "unreal": "passed",
+      "triangles": 8929,
+      "meshes": 4,
+      "dimensions_m": [
+        0.1679,
+        0.1848,
+        0.2675
+      ],
+      "reopened": true,
+      "source_objects": [],
+      "note": "Downloaded curated replacement candidate. See original catalog attribution and license. Placement remains a later scene-integration step.",
+      "review_note": "Studio render accepted for scene testing. Final lighting, placement, close-up detail and runtime performance remain separate acceptance steps."
+    },
+    {
+      "id": "commons_library_potted_plant_02_LOD1",
+      "name": "Indoor floor plant",
+      "status": "ready_for_testing",
+      "preview": "previews/commons_library_potted_plant_02_LOD1.png",
+      "files": [
+        {
+          "path": "prepared/commons_library_potted_plant_02_LOD1/commons_library_potted_plant_02_LOD1.glb",
+          "bytes": 7748348,
+          "sha256": "7d28bd8822504d59848cb3ed7ee6f1065c5e606c473d169524abb2704196cc3d"
+        }
+      ],
+      "report": "reports/commons_library_potted_plant_02_LOD1.json",
+      "visual": "passed",
+      "unreal": "passed",
+      "triangles": 19997,
+      "meshes": 3,
+      "dimensions_m": [
+        0.9812,
+        0.9199,
+        1.1783
+      ],
+      "reopened": true,
+      "source_objects": [],
+      "note": "Downloaded curated replacement candidate. See original catalog attribution and license. Placement remains a later scene-integration step.",
+      "review_note": "Studio render accepted for scene testing. Final lighting, placement, close-up detail and runtime performance remain separate acceptance steps."
+    },
+    {
+      "id": "commons_library_modern_cabinet_static",
+      "name": "Modern storage cabinet",
+      "status": "ready_for_testing",
+      "preview": "previews/commons_library_modern_cabinet_static.png",
+      "files": [
+        {
+          "path": "prepared/commons_library_modern_cabinet_static/commons_library_modern_cabinet_static.glb",
+          "bytes": 8233716,
+          "sha256": "070231e25b4f958c00c81d946ca7d1517e9dc6b1f293f500a6583b90ca71c498"
+        }
+      ],
+      "report": "reports/commons_library_modern_cabinet_static.json",
+      "visual": "passed",
+      "unreal": "passed",
+      "triangles": 24976,
+      "meshes": 3,
+      "dimensions_m": [
+        2.44,
+        0.52,
+        0.6801
+      ],
+      "reopened": true,
+      "source_objects": [],
+      "note": "Downloaded curated replacement candidate. See original catalog attribution and license. Placement remains a later scene-integration step.",
+      "review_note": "Studio render accepted for scene testing. Final lighting, placement, close-up detail and runtime performance remain separate acceptance steps."
+    },
+    {
+      "id": "commons_library_sanremo_runtime",
+      "name": "Sanremo F18 optimized static assembly",
+      "status": "ready_for_testing",
+      "preview": "previews/commons_library_sanremo_runtime.png",
+      "files": [
+        {
+          "path": "prepared/commons_library_sanremo_runtime/commons_library_sanremo_runtime.glb",
+          "bytes": 7682288,
+          "sha256": "1f5834080d856f1d93a51b1cb211584ed10821fb3e0293399d4462a22f0ee085"
+        }
+      ],
+      "report": "reports/commons_library_sanremo_runtime.json",
+      "visual": "passed",
+      "unreal": "passed",
+      "triangles": 120000,
+      "meshes": 1,
+      "dimensions_m": [
+        1.0659,
+        0.6925,
+        0.477
+      ],
+      "reopened": true,
+      "source_objects": [],
+      "note": "Downloaded curated replacement candidate. See original catalog attribution and license. Placement remains a later scene-integration step.",
+      "review_note": "Studio render accepted for scene testing. Final lighting, placement, close-up detail and runtime performance remain separate acceptance steps. Corrected cm-to-m scale; 1.066 m wide. Counter fit needs adjustment from the smaller proxy. Runtime variant is 120,000 triangles, one mesh and 18 material slots; 280,344-triangle original retained."
+    },
+    {
+      "id": "commons_library_pastry_refrigerator",
+      "name": "Pastry display refrigerator",
+      "status": "prepared",
+      "preview": "previews/commons_library_pastry_refrigerator.png",
+      "files": [
+        {
+          "path": "prepared/commons_library_pastry_refrigerator/commons_library_pastry_refrigerator.glb",
+          "bytes": 529556,
+          "sha256": "7ae63bf967baf4f0fb08a594c333be6e83e93fe7bdec1e19aa90bf60f6a695e5"
+        }
+      ],
+      "report": "reports/commons_library_pastry_refrigerator.json",
+      "visual": "alternative",
+      "unreal": "passed",
+      "triangles": 7737,
+      "meshes": 1,
+      "dimensions_m": [
+        1.5,
+        1.0689,
+        1.5158
+      ],
+      "reopened": true,
+      "source_objects": [],
+      "note": "Downloaded curated replacement candidate. See original catalog attribution and license. Placement remains a later scene-integration step.",
+      "review_note": "Glass shader repaired and verified in the new render. Curved grocery-style case is a backup; the fitted rectangular detailed displays are selected for the modern caf\u00e9. No food dressing included."
+    }
+  ],
+  "effects": [
+    {
+      "id": "fireplace_flames",
+      "status": "prepared",
+      "note": "Native 2D fire template duplicated with engine dependencies. Not yet baked, resized or GPU-profiled; do not treat as a finished fireplace effect.",
+      "path": "/Game/CommonsPrep/Effects/NS_Fireplace_Test",
+      "source": "/NiagaraFluids/Templates/Gas/2D/Systems/Grid2D_Gas_SmokeFire"
+    },
+    {
+      "id": "fireplace_logs_and_embers",
+      "status": "prepared",
+      "note": "Local log/ember mesh exported, reopened and previewed. Close-up bark detail still needs refinement; no final realism claim."
+    },
+    {
+      "id": "fireplace_flicker_lighting",
+      "status": "prepared",
+      "note": "Bounded 0.64\u20131.0 light-function intensity. Periodic test candidate; final flame synchronization and runtime lighting cost pending.",
+      "path": "/Game/CommonsPrep/Effects/M_Fireplace_Flicker"
+    }
+  ],
+  "people": {
+    "status": "awaiting_user",
+    "note": "Rigged teens have not been supplied. Existing mannequins excluded from new realism asset readiness."
+  },
+  "acceptance": "Prepared means geometry/texture/scale/pivot work and reopening complete. Ready for testing additionally requires visual review and native Unreal import. This package is not a claim of final AAA quality or integrated gameplay performance."
+}

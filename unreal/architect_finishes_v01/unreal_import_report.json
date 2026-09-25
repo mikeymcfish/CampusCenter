@@ -1,0 +1,19 @@
+{
+  "map": "/Game/Campus/Maps/CampusCenter_ArchitectFinishes_v01",
+  "mesh": "/Game/Campus/ArchitectFinishesV01/Architect_Finishes_v01/StaticMeshes/Architect_Finishes_v01.Architect_Finishes_v01",
+  "mesh_bounds_cm": {
+    "origin": [
+      811.7499904632568,
+      -1600.000015258789,
+      419.7499694824219
+    ],
+    "extent": [
+      804.2500095367432,
+      1529.999984741211,
+      419.7499694824219
+    ]
+  },
+  "actor_count": 277,
+  "furniture_actors": 39,
+  "finish_actors": 1
+}

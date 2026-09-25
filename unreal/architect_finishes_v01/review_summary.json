@@ -1,0 +1,32 @@
+{
+  "rounds": [
+    {
+      "round": 1,
+      "overall": 5.5
+    },
+    {
+      "round": 2,
+      "overall": 6.2
+    },
+    {
+      "round": 3,
+      "overall": 6.0
+    },
+    {
+      "round": 4,
+      "overall": 6.3,
+      "design": 6.7,
+      "aesthetics": 6.2,
+      "reference_accuracy": 5.9
+    }
+  ],
+  "required_score": 8.5,
+  "passed": false,
+  "zero_visible_errors": false,
+  "exact_pattern_match_established": false,
+  "final_capture_folder": "critic_round_4_final",
+  "furniture_preserved": true,
+  "unchanged_existing_mesh_actors": 974,
+  "reviewer": "/root/art_critic_round1",
+  "round_limit_reached": true
+}

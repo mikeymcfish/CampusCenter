@@ -1,1 +1,38 @@
-{"FileVersion":3,"EngineAssociation":"5.8","Category":"Architecture","Description":"King School Campus Center interactive architectural prototype","Plugins":[{"Name":"PythonScriptPlugin","Enabled":true,"TargetAllowList":["Editor"]},{"Name":"EditorScriptingUtilities","Enabled":true,"TargetAllowList":["Editor"]}]}
+{
+  "FileVersion": 3,
+  "EngineAssociation": "5.8",
+  "Category": "Architecture",
+  "Description": "King School Campus Center interactive architectural prototype",
+  "Plugins": [
+    {
+      "Name": "PythonScriptPlugin",
+      "Enabled": true,
+      "TargetAllowList": [
+        "Editor"
+      ]
+    },
+    {
+      "Name": "EditorScriptingUtilities",
+      "Enabled": true,
+      "TargetAllowList": [
+        "Editor"
+      ]
+    },
+    {
+      "Name": "MetaHumanCrowd",
+      "Enabled": true
+    },
+    {
+      "Name": "MetaHumanCrowdContent",
+      "Enabled": true
+    },
+    {
+      "Name": "NiagaraFluids",
+      "Enabled": true
+    },
+    {
+      "Name": "CampusCrowdFix",
+      "Enabled": true
+    }
+  ]
+}

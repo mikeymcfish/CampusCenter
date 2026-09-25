@@ -1,5 +1,7 @@
 # King School Campus Center
 
+**Current Unreal walkthrough (September 25, 2026):** [architect finish revision and review evidence](unreal/architect_finishes_v01/README.md). Launch with `unreal/Launch_Unreal.cmd` using Unreal Engine 5.8.2. This updates the current furnished Unreal scene; the Blender master and fabrication packages retain their existing revisions.
+
 **Latest ground-floor print and projection package:** [Acrylic slots, 31 room references, and interactive Projection Studio v06](printing/acrylic_projection_v06/README.md). Includes six print pieces, 1/16-inch acrylic templates, H3 prompts, alignment and geometry-based animation examples.
 
 Current architectural scene, fabrication models and source references, compiled September 7, 2026.

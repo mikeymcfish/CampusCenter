@@ -1,0 +1,190 @@
+{
+  "assets": [
+    {
+      "key": "bambu_h2d",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v9\\equipment\\models\\bambu_h2d.glb",
+      "triangles": 70744,
+      "materials": 2,
+      "dimensions_m": [
+        0.492,
+        0.514,
+        0.626
+      ],
+      "new_generation": false
+    },
+    {
+      "key": "ams2pro",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\output_v9\\equipment\\models\\ams2pro.glb",
+      "triangles": 80000,
+      "materials": 1,
+      "dimensions_m": [
+        0.372,
+        0.28,
+        0.226
+      ],
+      "new_generation": false
+    },
+    {
+      "key": "epson",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\realism_assets\\ilab_v06\\models\\epson.glb",
+      "triangles": 80000,
+      "materials": 1,
+      "dimensions_m": [
+        0.985,
+        1.485,
+        0.49
+      ],
+      "new_generation": true
+    },
+    {
+      "key": "wazer",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\realism_assets\\ilab_v06\\models\\wazer.glb",
+      "triangles": 80000,
+      "materials": 1,
+      "dimensions_m": [
+        0.856,
+        0.648,
+        0.551
+      ],
+      "new_generation": true
+    },
+    {
+      "key": "bigrep",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\realism_assets\\ilab_v06\\models\\bigrep.glb",
+      "triangles": 80000,
+      "materials": 1,
+      "dimensions_m": [
+        1.848,
+        2.07,
+        1.668
+      ],
+      "new_generation": true
+    },
+    {
+      "key": "uvflatbed",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\realism_assets\\ilab_v06\\models\\uvflatbed.glb",
+      "triangles": 80000,
+      "materials": 1,
+      "dimensions_m": [
+        1.0,
+        0.88,
+        0.75
+      ],
+      "new_generation": true
+    },
+    {
+      "key": "spraybooth",
+      "source": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\realism_assets\\ilab_v06\\models\\spraybooth.glb",
+      "triangles": 79999,
+      "materials": 1,
+      "dimensions_m": [
+        0.559,
+        0.508,
+        0.47
+      ],
+      "new_generation": true
+    }
+  ],
+  "placements": [
+    {
+      "label": "V06_Tech_V9_Lab_bambu_h2d_1",
+      "mesh": "ILabV06_Trellis_bambu_h2d",
+      "position": [
+        -8.10370922088623,
+        7.119998455047607,
+        0.92
+      ],
+      "yaw_degrees": 90.0,
+      "replaces": "ILab_Clean_V9_Lab_bambu_h2d_1"
+    },
+    {
+      "label": "V06_Tech_V9_Lab_bambu_h2d_3",
+      "mesh": "ILabV06_Trellis_bambu_h2d",
+      "position": [
+        -7.484505653381348,
+        7.121138095855713,
+        0.92
+      ],
+      "yaw_degrees": -90.0,
+      "replaces": "ILab_Clean_V9_Lab_bambu_h2d_3"
+    },
+    {
+      "label": "V06_Tech_V9_Lab_ams2pro_2",
+      "mesh": "ILabV06_Trellis_ams2pro",
+      "position": [
+        -8.10403060913086,
+        7.120484113693237,
+        1.546
+      ],
+      "yaw_degrees": 90.0,
+      "replaces": "ILab_Clean_V9_Lab_ams2pro_2"
+    },
+    {
+      "label": "V06_Tech_V9_Lab_ams2pro_4",
+      "mesh": "ILabV06_Trellis_ams2pro",
+      "position": [
+        -7.484184503555298,
+        7.120652437210083,
+        1.546
+      ],
+      "yaw_degrees": -90.0,
+      "replaces": "ILab_Clean_V9_Lab_ams2pro_4"
+    },
+    {
+      "label": "V06_Tech_V9_Lab_epson_6",
+      "mesh": "ILabV06_Trellis_epson",
+      "position": [
+        -5.27365255355835,
+        5.579243183135986,
+        0.7382094264030457
+      ],
+      "yaw_degrees": 90,
+      "replaces": "ILab_Clean_V9_Lab_epson_6"
+    },
+    {
+      "label": "V06_Tech_V9_Lab_wazer_8",
+      "mesh": "ILabV06_Trellis_wazer",
+      "position": [
+        -5.3073179721832275,
+        1.9128798842430115,
+        0.669038712978363
+      ],
+      "yaw_degrees": 90.0,
+      "replaces": "ILab_Clean_V9_Lab_wazer_8"
+    },
+    {
+      "label": "V06_Tech_V9_Lab_bigrep_7",
+      "mesh": "ILabV06_Trellis_bigrep",
+      "position": [
+        -5.106049060821533,
+        3.5696362257003784,
+        0
+      ],
+      "yaw_degrees": -90.0,
+      "replaces": "ILab_Clean_V9_Lab_bigrep_7"
+    },
+    {
+      "label": "V06_Tech_V9_Lab_uvflatbed_5",
+      "mesh": "ILabV06_Trellis_uvflatbed",
+      "position": [
+        -5.1728150844573975,
+        7.3718602657318115,
+        0.7377400994300842
+      ],
+      "yaw_degrees": 90.0,
+      "replaces": "ILab_Clean_V9_Lab_uvflatbed_5"
+    },
+    {
+      "label": "V06_Tech_V9_Lab_spraybooth_9",
+      "mesh": "ILabV06_Trellis_spraybooth",
+      "position": [
+        -10.849826335906982,
+        0.6486643999814987,
+        0.92
+      ],
+      "yaw_degrees": -180.0,
+      "replaces": "ILab_Clean_V9_Lab_spraybooth_9"
+    }
+  ],
+  "note": "Textured TRELLIS reconstructions from image references; not manufacturer CAD. Previously stripped texture maps are preserved."
+}
