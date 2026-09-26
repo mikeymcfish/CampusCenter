@@ -1,0 +1,47 @@
+{
+  "id": "Travertine009",
+  "source": "https://ambientcg.com/a/Travertine009",
+  "license": "CC0",
+  "physical_dimensions_cm": [
+    120,
+    120
+  ],
+  "basecolor": "BaseColor.png",
+  "normal_unreal": "NormalDX.png",
+  "normal_gltf": "NormalGL.png",
+  "orm": "ORM.png",
+  "orm_channels": "R=ambient occlusion, G=roughness, B=metallic",
+  "unreal": {
+    "basecolor_srgb": true,
+    "normal_srgb": false,
+    "normal_compression": "Normalmap",
+    "orm_srgb": false,
+    "orm_compression": "Masks",
+    "mip_gen_settings": "FromTextureGroup",
+    "never_stream": false,
+    "max_texture_size": 2048
+  },
+  "validation": "All source images decoded; output images reopened; shader appearance pending",
+  "files": [
+    {
+      "path": "prepared/materials/Travertine009/BaseColor.png",
+      "bytes": 6081475,
+      "sha256": "9c99ecc9cf617374af7c59b071d2a8618389e36cf1de6803d8f0bd8dbc664234"
+    },
+    {
+      "path": "prepared/materials/Travertine009/NormalDX.png",
+      "bytes": 2153891,
+      "sha256": "92d792e52de7d4a5cd36b3960d294925dd95459036cf1071d6529bd7a32c9392"
+    },
+    {
+      "path": "prepared/materials/Travertine009/NormalGL.png",
+      "bytes": 2152173,
+      "sha256": "03c9163073cc2b9d9c0ff60ec8bc7d5ba3a41a89053fcc25dae8cbc5f6f1600d"
+    },
+    {
+      "path": "prepared/materials/Travertine009/ORM.png",
+      "bytes": 1889619,
+      "sha256": "09887ab10c3bb59b241888bbc053fc26b0b91cf832dfa41901d9cd14fe5360f4"
+    }
+  ]
+}

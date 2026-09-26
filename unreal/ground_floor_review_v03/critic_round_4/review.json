@@ -1,0 +1,270 @@
+{
+  "coverage": {
+    "limitations": "All 76 final images visually inspected across all 31 ground-floor zones, including both lower stair flights, janitor laundry/mop-sink area and corrected mechanical cabinet views. No room remains uninspected. Views do not certify hidden surfaces. Upper fitness and balcony excluded as upstairs; room 107 absent.",
+    "zones": 31,
+    "excluded": "Upper-floor fitness and balcony; absent room107",
+    "repair_images_inspected": 0,
+    "base_images_inspected": 76
+  },
+  "round": 4,
+  "verdict": "FAIL: final whole-floor score 6.6/10; required 8.5 and zero visible errors not met. Four authorized rounds completed. Architectural continuity, room lighting, door veneer and stone contrast improved; visible noise and preserved fixture/asset defects remain.",
+  "zero_visible_errors": false,
+  "zone_scores": [
+    {
+      "id": "100",
+      "pass": false,
+      "name": "ENTRY VESTIBULE",
+      "overall": 7.8,
+      "finding": "Entry and blue junction coherent; lower stair visible with granular shadows"
+    },
+    {
+      "id": "101",
+      "pass": false,
+      "name": "CAFE",
+      "overall": 7.1,
+      "finding": "Cafe readable; noisy reflections and dotted counter edges remain"
+    },
+    {
+      "id": "102",
+      "pass": false,
+      "name": "STUDENT COMMONS",
+      "overall": 8.1,
+      "finding": "Strong Commons hero composition and acoustic detail; below final polish threshold"
+    },
+    {
+      "id": "103",
+      "pass": false,
+      "name": "RECEPTION",
+      "overall": 6.8,
+      "finding": "Reception floor continuity improved; plain furnishings persist"
+    },
+    {
+      "id": "104",
+      "pass": false,
+      "name": "ADMISSIONS OFFICE",
+      "overall": 5.9,
+      "finding": "Quieter stone; blank white monitor and simple furnishings remain"
+    },
+    {
+      "id": "105",
+      "pass": false,
+      "name": "CRI GALLERY",
+      "overall": 7.3,
+      "finding": "Muted blue grout and restrained vertical door veneer improve finish"
+    },
+    {
+      "id": "106",
+      "pass": false,
+      "name": "CORRIDOR / DISPLAY HALL",
+      "overall": 8.2,
+      "finding": "All nine art decals intact; coherent cork/oak mounting and continuous planks"
+    },
+    {
+      "id": "108",
+      "pass": false,
+      "name": "INNOVATION LAB",
+      "overall": 6.9,
+      "finding": "Floor and doors improved; inconsistent equipment fidelity and floating drafting tools remain"
+    },
+    {
+      "id": "109",
+      "pass": false,
+      "name": "STORAGE / IT / MECH",
+      "overall": 5.8,
+      "finding": "Storage aisle visible; granular shelf shadows remain"
+    },
+    {
+      "id": "110",
+      "pass": false,
+      "name": "CORRIDOR",
+      "overall": 7.7,
+      "finding": "Continuous planks and restrained doors; minor seam aliasing remains"
+    },
+    {
+      "id": "111",
+      "pass": false,
+      "name": "OFFICE",
+      "overall": 5.9,
+      "finding": "Quieter floor; blank monitor and uniform white furnishing"
+    },
+    {
+      "id": "112",
+      "pass": false,
+      "name": "ASPIRE CLASSROOM",
+      "overall": 6.2,
+      "finding": "Readable classroom; flat furniture and grainy shelf/contact shadows"
+    },
+    {
+      "id": "113",
+      "pass": false,
+      "name": "COLLABORATION ROOM",
+      "overall": 6.1,
+      "finding": "Reduced floor contrast; primitive furniture and grainy shelf shadows"
+    },
+    {
+      "id": "114",
+      "pass": false,
+      "name": "VESTIBULE",
+      "overall": 7.2,
+      "finding": "Vertical door veneer resolves dominant grain issue; simple glazing/edge response"
+    },
+    {
+      "id": "115",
+      "pass": false,
+      "name": "CORRIDOR",
+      "overall": 7.3,
+      "finding": "Corridor and lower stair visible; quieter stone and doors, grainy stair shadows"
+    },
+    {
+      "id": "116",
+      "pass": false,
+      "name": "WOMENS TOILET",
+      "overall": 5.3,
+      "finding": "Opaque mirrors and granular shadows remain obvious"
+    },
+    {
+      "id": "117",
+      "pass": false,
+      "name": "MENS TOILET",
+      "overall": 5.4,
+      "finding": "Opaque mirrors and primitive faceted white fixtures remain"
+    },
+    {
+      "id": "118",
+      "pass": false,
+      "name": "JANITOR",
+      "overall": 5.2,
+      "finding": "Laundry visible; mop sink remains a solid cube placeholder"
+    },
+    {
+      "id": "119",
+      "pass": false,
+      "name": "ATHLETICS STORAGE",
+      "overall": 5.7,
+      "finding": "Storage aisle readable; flat shelves and shadow grain"
+    },
+    {
+      "id": "120",
+      "pass": false,
+      "name": "MECH / ELECTRICAL",
+      "overall": 5.5,
+      "finding": "Both cabinet bodies and cabinet face inspected; plain blank boxes remain"
+    },
+    {
+      "id": "121",
+      "pass": false,
+      "name": "LOCKER ROOM",
+      "overall": 5.8,
+      "finding": "Lockers readable; sinks/mirrors appear suspended across wet area"
+    },
+    {
+      "id": "122",
+      "pass": false,
+      "name": "LOCKER ROOM",
+      "overall": 6.0,
+      "finding": "Lockers readable; wet fixtures appear suspended before toilet stalls"
+    },
+    {
+      "id": "123",
+      "pass": false,
+      "name": "TROPHY HALL / CORRIDOR",
+      "overall": 8.0,
+      "finding": "Ten trophy decals retained and aligned; shelf coherent; original case remains simple"
+    },
+    {
+      "id": "124",
+      "pass": false,
+      "name": "ATHLETICS OFFICE",
+      "overall": 5.9,
+      "finding": "Quieter floor; blank monitor and flat desk/chair assets"
+    },
+    {
+      "id": "125",
+      "pass": false,
+      "name": "ATHLETICS OFFICE",
+      "overall": 6.0,
+      "finding": "Quieter floor and door; basic furniture and broad shadows"
+    },
+    {
+      "id": "126",
+      "pass": false,
+      "name": "ATHLETICS OFFICE",
+      "overall": 5.9,
+      "finding": "Quieter floor; blank monitor and plain furniture"
+    },
+    {
+      "id": "127",
+      "pass": false,
+      "name": "TRAINERS OFFICE",
+      "overall": 6.0,
+      "finding": "Quieter floor; blank monitor and plain furniture"
+    },
+    {
+      "id": "128",
+      "pass": false,
+      "name": "TRAINERS STORAGE",
+      "overall": 5.8,
+      "finding": "Storage visible; granular shelf shadow edges persist"
+    },
+    {
+      "id": "129",
+      "pass": false,
+      "name": "ATHLETICS TRAINERS",
+      "overall": 5.6,
+      "finding": "Trainer bench remains a plain cube; room lacks material differentiation"
+    },
+    {
+      "id": "130",
+      "pass": false,
+      "name": "CORRIDOR",
+      "overall": 7.1,
+      "finding": "Restrained stone and vertical doors improve corridor coherence"
+    },
+    {
+      "id": "GYM",
+      "pass": false,
+      "name": "EXISTING GYM",
+      "overall": 6.4,
+      "finding": "Tree absent; court readable; uniform bright floor and basic enclosure remain"
+    }
+  ],
+  "threshold": 8.5,
+  "ranked_issues": [
+    {
+      "rank": 1,
+      "severity": "high",
+      "issue": "Preserved visible asset defects: suspended-looking sinks/mirrors in 121/122, opaque mirrors in 116/117, floating drafting tools in 108, cube mop sink in 118, blank monitor blocks and trainer bench cube.",
+      "fix": "Persistent scope limitation: furniture and fixture assets were explicitly preserved. These need a separately authorized asset/placement pass to meet the visual target."
+    },
+    {
+      "rank": 2,
+      "severity": "high",
+      "issue": "Granular shadows remain prominent on shelving, bathroom fixtures, classroom furniture and stairs; cafe reflections remain noisy.",
+      "fix": "Rendering quality remains unresolved after final sampling pass. Diagnose actual shadow/AO/reflection contribution before further parameter changes; no fifth round performed."
+    },
+    {
+      "rank": 3,
+      "severity": "medium",
+      "issue": "Secondary rooms remain visually uniform and sparsely differentiated, with simple white assets; gym enclosure and bright uniform sports floor remain basic.",
+      "fix": "Further art direction and asset material refinement would be needed; gym treatment is inferred, not a verified architect-reference match."
+    },
+    {
+      "rank": 4,
+      "severity": "low",
+      "issue": "Thin floor seams, metal edges and distant blue grout still show some jagged or dotted rendering. Stone is substantially quieter but broad veins remain visible across slabs in some views.",
+      "fix": "Future targeted filtering and slab variation refinement; current finish is improved but not flawless."
+    }
+  ],
+  "design": 6.7,
+  "overall": 6.6,
+  "aesthetics": 6.3,
+  "pass": false,
+  "accuracy": 6.8,
+  "score_history": [
+    4.2,
+    6.1,
+    6.4,
+    6.6
+  ],
+  "capture_health": "76 verified PNGs; editor exited cleanly at 2026-09-25 21:54:13 local. No observed shader fallback or Python capture error. VSM non-Nanite marking queue overflow warning indicates possible performance impact, not proof of a visual defect."
+}

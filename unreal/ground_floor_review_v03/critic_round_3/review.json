@@ -1,0 +1,275 @@
+{
+  "coverage": {
+    "limitations": "All76 images inspected across31zones. Janitor now visible: laundry and solid cube mop-sink placeholder. Both lower stair flights visible.120 cabinet bodies visible but composition poor; cameras adjusted for round4. Visible evidence cannot certify hidden surfaces or zero errors.",
+    "zones": 31,
+    "excluded": "Upper-floor fitness and balcony; absent room107",
+    "repair_images_inspected": 0,
+    "base_images_inspected": 76
+  },
+  "round": 3,
+  "verdict": "FAIL: tree intrusion and corridor direction defect resolved; neutral lighting and architectural continuity improved. Persistent noise, surface treatment and preserved blockout fixtures prevent AAA readiness.",
+  "zero_visible_errors": false,
+  "zone_scores": [
+    {
+      "id": "100",
+      "pass": false,
+      "name": "ENTRY VESTIBULE",
+      "overall": 7.7,
+      "finding": "Entry readable; blue finish continuous; stair wood improved"
+    },
+    {
+      "id": "101",
+      "pass": false,
+      "name": "CAFE",
+      "overall": 7,
+      "finding": "Noisy metal reflections and dotted counter edge"
+    },
+    {
+      "id": "102",
+      "pass": false,
+      "name": "STUDENT COMMONS",
+      "overall": 8.1,
+      "finding": "Strong hero composition; ceiling/perimeter noise persists"
+    },
+    {
+      "id": "103",
+      "pass": false,
+      "name": "RECEPTION",
+      "overall": 6.6,
+      "finding": "Continuous blue perimeter; plain reception furnishings"
+    },
+    {
+      "id": "104",
+      "pass": false,
+      "name": "ADMISSIONS OFFICE",
+      "overall": 5.7,
+      "finding": "Neutral lighting; blank white monitor"
+    },
+    {
+      "id": "105",
+      "pass": false,
+      "name": "CRI GALLERY",
+      "overall": 7,
+      "finding": "Fill improved and perimeter closed; bright broken grout"
+    },
+    {
+      "id": "106",
+      "pass": false,
+      "name": "CORRIDOR / DISPLAY HALL",
+      "overall": 8.2,
+      "finding": "Nine art decals intact; cleaner continuous planks"
+    },
+    {
+      "id": "108",
+      "pass": false,
+      "name": "INNOVATION LAB",
+      "overall": 6.8,
+      "finding": "Floor refined; simple equipment and apparently floating drafting tools near vice"
+    },
+    {
+      "id": "109",
+      "pass": false,
+      "name": "STORAGE / IT / MECH",
+      "overall": 5.6,
+      "finding": "Neutralized storage aisle; noisy shelf shadows"
+    },
+    {
+      "id": "110",
+      "pass": false,
+      "name": "CORRIDOR",
+      "overall": 7.5,
+      "finding": "Direction defect resolved; cleaner seams"
+    },
+    {
+      "id": "111",
+      "pass": false,
+      "name": "OFFICE",
+      "overall": 5.7,
+      "finding": "Neutralized light; blockout monitor and broad stone veins"
+    },
+    {
+      "id": "112",
+      "pass": false,
+      "name": "ASPIRE CLASSROOM",
+      "overall": 6,
+      "finding": "Readable classroom; white furniture and grainy contact shadows"
+    },
+    {
+      "id": "113",
+      "pass": false,
+      "name": "COLLABORATION ROOM",
+      "overall": 5.9,
+      "finding": "Reduced cast; flat furniture and noisy shadows"
+    },
+    {
+      "id": "114",
+      "pass": false,
+      "name": "VESTIBULE",
+      "overall": 6.7,
+      "finding": "Readable vestibule; strong oversized horizontal door grain"
+    },
+    {
+      "id": "115",
+      "pass": false,
+      "name": "CORRIDOR",
+      "overall": 7,
+      "finding": "Readable corridor and stair; broad stone veins"
+    },
+    {
+      "id": "116",
+      "pass": false,
+      "name": "WOMENS TOILET",
+      "overall": 5.2,
+      "finding": "Opaque mirrors and severe granular shadows"
+    },
+    {
+      "id": "117",
+      "pass": false,
+      "name": "MENS TOILET",
+      "overall": 5.3,
+      "finding": "Opaque mirrors and primitive white fixtures"
+    },
+    {
+      "id": "118",
+      "pass": false,
+      "name": "JANITOR",
+      "overall": 5,
+      "finding": "Laundry and cube mop-sink placeholder now visible"
+    },
+    {
+      "id": "119",
+      "pass": false,
+      "name": "ATHLETICS STORAGE",
+      "overall": 5.5,
+      "finding": "Storage aisle visible; flat shelves and granular shadows"
+    },
+    {
+      "id": "120",
+      "pass": false,
+      "name": "MECH / ELECTRICAL",
+      "overall": 5.3,
+      "finding": "Cabinet bodies visible; poor framing corrected for next round"
+    },
+    {
+      "id": "121",
+      "pass": false,
+      "name": "LOCKER ROOM",
+      "overall": 5.7,
+      "finding": "Readable lockers; floating-looking wet fixtures"
+    },
+    {
+      "id": "122",
+      "pass": false,
+      "name": "LOCKER ROOM",
+      "overall": 5.9,
+      "finding": "Readable lockers; floating-looking wet fixtures"
+    },
+    {
+      "id": "123",
+      "pass": false,
+      "name": "TROPHY HALL / CORRIDOR",
+      "overall": 8,
+      "finding": "Ten trophies intact; continuous corridor finish"
+    },
+    {
+      "id": "124",
+      "pass": false,
+      "name": "ATHLETICS OFFICE",
+      "overall": 5.7,
+      "finding": "Neutralized light; blank monitor and flat furnishing"
+    },
+    {
+      "id": "125",
+      "pass": false,
+      "name": "ATHLETICS OFFICE",
+      "overall": 5.8,
+      "finding": "Neutralized light; simple furnishings"
+    },
+    {
+      "id": "126",
+      "pass": false,
+      "name": "ATHLETICS OFFICE",
+      "overall": 5.7,
+      "finding": "Neutralized light; blank monitor"
+    },
+    {
+      "id": "127",
+      "pass": false,
+      "name": "TRAINERS OFFICE",
+      "overall": 5.8,
+      "finding": "Neutralized light; blank monitor"
+    },
+    {
+      "id": "128",
+      "pass": false,
+      "name": "TRAINERS STORAGE",
+      "overall": 5.6,
+      "finding": "Storage visible; shelf shadow grain"
+    },
+    {
+      "id": "129",
+      "pass": false,
+      "name": "ATHLETICS TRAINERS",
+      "overall": 5.4,
+      "finding": "Trainer bench is plain cube; flat room finish"
+    },
+    {
+      "id": "130",
+      "pass": false,
+      "name": "CORRIDOR",
+      "overall": 6.7,
+      "finding": "Lighting balanced; continuous-looking stone veins"
+    },
+    {
+      "id": "GYM",
+      "pass": false,
+      "name": "EXISTING GYM",
+      "overall": 6.3,
+      "finding": "Tree removed; court lines clearer; basic enclosure and overly uniform sports floor"
+    }
+  ],
+  "threshold": 8.5,
+  "ranked_issues": [
+    {
+      "severity": "high",
+      "rank": 1,
+      "fix": "Improve shadow/AO sampling and light source penumbrae within rendering scope",
+      "issue": "Persistent granular shadows in wet rooms, shelves, classrooms and stairs; noisy cafe reflections"
+    },
+    {
+      "severity": "high",
+      "rank": 2,
+      "fix": "Explicit scope limitation; preserve furnishings and report unmet quality gate",
+      "issue": "Preserved blockout assets: opaque mirrors, floating-looking sinks, cube mop sink, blank monitors, floating-looking lab tools"
+    },
+    {
+      "severity": "medium",
+      "rank": 3,
+      "fix": "Refine architectural door veneer and stone contrast/variation",
+      "issue": "High-contrast horizontal door oak and continuous-looking broad stone veins"
+    },
+    {
+      "severity": "medium",
+      "rank": 4,
+      "fix": "Reduce grout contrast and improve filtering",
+      "issue": "Bright broken blue tile grout at oblique distance"
+    },
+    {
+      "severity": "medium",
+      "rank": 5,
+      "fix": "Keep inferred finish honest; no new furniture under this scope",
+      "issue": "Plain gym enclosure and simple sports-floor response"
+    },
+    {
+      "severity": "low",
+      "rank": 6,
+      "fix": "Reaim wide/detail for full front context in round4",
+      "issue": "120 cabinet coverage composition weak"
+    }
+  ],
+  "design": 6.5,
+  "overall": 6.4,
+  "aesthetics": 6.0,
+  "pass": false,
+  "accuracy": 6.6
+}

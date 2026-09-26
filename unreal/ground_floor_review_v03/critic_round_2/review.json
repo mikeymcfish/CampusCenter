@@ -1,0 +1,275 @@
+{
+  "coverage": {
+    "limitations": "All 76 base and 14 repair images inspected. Storage aisle and office repairs valid. Janitor cameras obstructed by laundry/partition; 120 repair wide obstructed so original cabinet views retained. Both lower staircase flights now visible. Full zero-error coverage cannot be certified.",
+    "zones": 31,
+    "excluded": "Upper-floor fitness and balcony; absent room107",
+    "repair_images_inspected": 14,
+    "base_images_inspected": 76
+  },
+  "round": 2,
+  "verdict": "FAIL: room readability is substantially improved, but texture scale, lighting balance, tree intrusion and preserved blockout assets remain below AAA quality.",
+  "zero_visible_errors": false,
+  "zone_scores": [
+    {
+      "id": "100",
+      "pass": false,
+      "name": "ENTRY VESTIBULE",
+      "overall": 7.5,
+      "finding": "Readable entry; dark lower stair and overscale oak"
+    },
+    {
+      "id": "101",
+      "pass": false,
+      "name": "CAFE",
+      "overall": 7,
+      "finding": "Noisy metal and dotted counter edge"
+    },
+    {
+      "id": "102",
+      "pass": false,
+      "name": "STUDENT COMMONS",
+      "overall": 8.1,
+      "finding": "Strong hero space; dark perimeter and noisy ceiling"
+    },
+    {
+      "id": "103",
+      "pass": false,
+      "name": "RECEPTION",
+      "overall": 6.5,
+      "finding": "Readable reception; bland surfaces"
+    },
+    {
+      "id": "104",
+      "pass": false,
+      "name": "ADMISSIONS OFFICE",
+      "overall": 5.5,
+      "finding": "Blank white monitor and plain walls"
+    },
+    {
+      "id": "105",
+      "pass": false,
+      "name": "CRI GALLERY",
+      "overall": 6.5,
+      "finding": "Dark gallery; bright aliased grout and perimeter strip"
+    },
+    {
+      "id": "106",
+      "pass": false,
+      "name": "CORRIDOR / DISPLAY HALL",
+      "overall": 8.1,
+      "finding": "All nine art decals intact; continuous floor"
+    },
+    {
+      "id": "108",
+      "pass": false,
+      "name": "INNOVATION LAB",
+      "overall": 6.8,
+      "finding": "Phantom shadows resolved; flat floor and simple equipment"
+    },
+    {
+      "id": "109",
+      "pass": false,
+      "name": "STORAGE / IT / MECH",
+      "overall": 5.2,
+      "finding": "Aisle visible; excessively warm and noisy shelf shadows"
+    },
+    {
+      "id": "110",
+      "pass": false,
+      "name": "CORRIDOR",
+      "overall": 7,
+      "finding": "Continuous oak; direction change mid-corridor and seam dashes"
+    },
+    {
+      "id": "111",
+      "pass": false,
+      "name": "OFFICE",
+      "overall": 5.3,
+      "finding": "Desk visible in repaired detail; warm white blockout appearance"
+    },
+    {
+      "id": "112",
+      "pass": false,
+      "name": "ASPIRE CLASSROOM",
+      "overall": 5.8,
+      "finding": "Readable classroom; cream cast and contact noise"
+    },
+    {
+      "id": "113",
+      "pass": false,
+      "name": "COLLABORATION ROOM",
+      "overall": 5.7,
+      "finding": "Reduced whitewash; flat furniture and noisy contact shadows"
+    },
+    {
+      "id": "114",
+      "pass": false,
+      "name": "VESTIBULE",
+      "overall": 6.5,
+      "finding": "Readable vestibule; overly warm"
+    },
+    {
+      "id": "115",
+      "pass": false,
+      "name": "CORRIDOR",
+      "overall": 6.8,
+      "finding": "Readable stone corridor; veins run through slab joints"
+    },
+    {
+      "id": "116",
+      "pass": false,
+      "name": "WOMENS TOILET",
+      "overall": 5,
+      "finding": "Opaque mirror and noisy white fixtures"
+    },
+    {
+      "id": "117",
+      "pass": false,
+      "name": "MENS TOILET",
+      "overall": 5.1,
+      "finding": "Opaque mirror and noisy white fixtures"
+    },
+    {
+      "id": "118",
+      "pass": false,
+      "name": "JANITOR",
+      "overall": 4.5,
+      "finding": "Laundry-camera obstruction; provisional score and limited coverage"
+    },
+    {
+      "id": "119",
+      "pass": false,
+      "name": "ATHLETICS STORAGE",
+      "overall": 5.2,
+      "finding": "Storage aisle visible; warm bright flat shelves"
+    },
+    {
+      "id": "120",
+      "pass": false,
+      "name": "MECH / ELECTRICAL",
+      "overall": 5,
+      "finding": "Cabinets readable in base; repair wide obstructed"
+    },
+    {
+      "id": "121",
+      "pass": false,
+      "name": "LOCKER ROOM",
+      "overall": 5.5,
+      "finding": "Aisle readable; primitive wet fixtures and noise"
+    },
+    {
+      "id": "122",
+      "pass": false,
+      "name": "LOCKER ROOM",
+      "overall": 5.7,
+      "finding": "Intensity improved; flat wet fixtures remain"
+    },
+    {
+      "id": "123",
+      "pass": false,
+      "name": "TROPHY HALL / CORRIDOR",
+      "overall": 8,
+      "finding": "All ten trophy decals intact; floor junction improved"
+    },
+    {
+      "id": "124",
+      "pass": false,
+      "name": "ATHLETICS OFFICE",
+      "overall": 5.3,
+      "finding": "Warm overlight and blank monitor"
+    },
+    {
+      "id": "125",
+      "pass": false,
+      "name": "ATHLETICS OFFICE",
+      "overall": 5.5,
+      "finding": "Warm overlight and simple furnishings"
+    },
+    {
+      "id": "126",
+      "pass": false,
+      "name": "ATHLETICS OFFICE",
+      "overall": 5.3,
+      "finding": "Warm overlight and blank monitor"
+    },
+    {
+      "id": "127",
+      "pass": false,
+      "name": "TRAINERS OFFICE",
+      "overall": 5.4,
+      "finding": "Warm overlight and blank monitor"
+    },
+    {
+      "id": "128",
+      "pass": false,
+      "name": "TRAINERS STORAGE",
+      "overall": 5.2,
+      "finding": "Storage aisle visible; noisy flat shelves"
+    },
+    {
+      "id": "129",
+      "pass": false,
+      "name": "ATHLETICS TRAINERS",
+      "overall": 5,
+      "finding": "White block trainer bench; warm overlight"
+    },
+    {
+      "id": "130",
+      "pass": false,
+      "name": "CORRIDOR",
+      "overall": 6.3,
+      "finding": "Readable corridor; overly warm and continuous giant veins"
+    },
+    {
+      "id": "GYM",
+      "pass": false,
+      "name": "EXISTING GYM",
+      "overall": 4.5,
+      "finding": "Exterior tree intersects court; amber light and aliased court lines"
+    }
+  ],
+  "threshold": 8.5,
+  "ranked_issues": [
+    {
+      "severity": "critical",
+      "issue": "Exterior tree visibly intrudes into gym court",
+      "rank": 1,
+      "fix": "Relocate misplaced exterior environment tree only"
+    },
+    {
+      "severity": "high",
+      "issue": "Oversized continuous stone and wood patterns; seam and court-line aliasing",
+      "rank": 2,
+      "fix": "Correct texture coordinates and physical scale; filter thin lines"
+    },
+    {
+      "severity": "high",
+      "issue": "Amber overlighting in small rooms and gym; noisy wet-room shadows",
+      "rank": 3,
+      "fix": "Neutralize and reduce task lights; improve shadow quality"
+    },
+    {
+      "severity": "high",
+      "issue": "Preserved blockout furniture, opaque mirrors, unconvincing wet fixtures",
+      "rank": 4,
+      "fix": "Scope limitation: preserve furniture; do not claim AAA readiness"
+    },
+    {
+      "severity": "medium",
+      "issue": "CRI pale perimeter strips, dark stair approaches, flat lab/plaster finishes",
+      "rank": 5,
+      "fix": "Complete allowed architectural finishes and balance fill"
+    },
+    {
+      "severity": "medium",
+      "issue": "118 and120 repair camera obstruction",
+      "rank": 6,
+      "fix": "Correct cameras for next review; retain evidence and limitation"
+    }
+  ],
+  "design": 6.4,
+  "overall": 6.1,
+  "aesthetics": 5.7,
+  "pass": false,
+  "accuracy": 6.2
+}

@@ -1,0 +1,44 @@
+{
+  "id": "concrete_floor_02",
+  "source": "https://polyhaven.com/a/concrete_floor_02",
+  "license": "CC0",
+  "physical_dimensions_cm": null,
+  "basecolor": "BaseColor.png",
+  "normal_unreal": "NormalDX.png",
+  "normal_gltf": "NormalGL.png",
+  "orm": "ORM.png",
+  "orm_channels": "R=ambient occlusion, G=roughness, B=metallic",
+  "unreal": {
+    "basecolor_srgb": true,
+    "normal_srgb": false,
+    "normal_compression": "Normalmap",
+    "orm_srgb": false,
+    "orm_compression": "Masks",
+    "mip_gen_settings": "FromTextureGroup",
+    "never_stream": false,
+    "max_texture_size": 2048
+  },
+  "validation": "All source images decoded; output images reopened; shader appearance pending",
+  "files": [
+    {
+      "path": "prepared/materials/concrete_floor_02/BaseColor.png",
+      "bytes": 10226799,
+      "sha256": "177986e17244b7d2157d1226fbe91cd01b4d29dd5ace0548fdfc2bd6bf3d72d6"
+    },
+    {
+      "path": "prepared/materials/concrete_floor_02/NormalDX.png",
+      "bytes": 8037268,
+      "sha256": "62ca263d9c7a850648b0ed63dbbe42db3519e7cdd3834ceefaf37df264b7d222"
+    },
+    {
+      "path": "prepared/materials/concrete_floor_02/NormalGL.png",
+      "bytes": 8037938,
+      "sha256": "ad368ad9f8ef91136fb28996954c6bedad7b57d62436b45bb2c1c9f045fdaa00"
+    },
+    {
+      "path": "prepared/materials/concrete_floor_02/ORM.png",
+      "bytes": 6261218,
+      "sha256": "8dde9e9d697ba566aa4ea775d5dd7eeb756cd6730fa59d8ca1e585d97f369899"
+    }
+  ]
+}

@@ -22,3 +22,5 @@
 *.npz filter=lfs diff=lfs merge=lfs -text
 
 *.mkv filter=lfs diff=lfs merge=lfs -text
+
+unreal/ground_floor_review_v03/**/*.png filter=lfs diff=lfs merge=lfs -text

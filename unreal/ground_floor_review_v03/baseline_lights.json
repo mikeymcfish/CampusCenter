@@ -1,0 +1,632 @@
+[
+  {
+    "label": "Daylight_Sun",
+    "class": "DirectionalLight",
+    "position": [
+      0.0,
+      0.0,
+      2000.0
+    ],
+    "intensity": 5.0
+  },
+  {
+    "label": "V8_Lab_area",
+    "class": "RectLight",
+    "position": [
+      -600.0,
+      -500.0,
+      381.9999933242798
+    ],
+    "intensity": 385.0
+  },
+  {
+    "label": "V8_Locker_area",
+    "class": "RectLight",
+    "position": [
+      -3760.7959747314453,
+      -2500.1047134399414,
+      370.0000047683716
+    ],
+    "intensity": 7700.0
+  },
+  {
+    "label": "V8_Fitness_area",
+    "class": "RectLight",
+    "position": [
+      -3522.2518920898438,
+      -2483.1607818603516,
+      810.0000381469727
+    ],
+    "intensity": 7700.0
+  },
+  {
+    "label": "V8_Classroom_area",
+    "class": "RectLight",
+    "position": [
+      -2324.5655059814453,
+      -904.293155670166,
+      379.9999952316284
+    ],
+    "intensity": 5940.0
+  },
+  {
+    "label": "Key",
+    "class": "RectLight",
+    "position": [
+      -2000.0,
+      1000.0,
+      5500.0
+    ],
+    "intensity": 7700.0
+  },
+  {
+    "label": "Fill",
+    "class": "RectLight",
+    "position": [
+      4000.0,
+      -4000.0,
+      5500.0
+    ],
+    "intensity": 7700.0
+  },
+  {
+    "label": "Gallery_fill",
+    "class": "RectLight",
+    "position": [
+      600.0,
+      -600.0,
+      780.0000190734863
+    ],
+    "intensity": 7700.0
+  },
+  {
+    "label": "Corridor_fill",
+    "class": "RectLight",
+    "position": [
+      -1200.0,
+      -1500.0,
+      790.0000095367432
+    ],
+    "intensity": 7700.0
+  },
+  {
+    "label": "Corridor ceiling fill 1",
+    "class": "RectLight",
+    "position": [
+      -3200.0,
+      -1489.9999618530273,
+      384.99999046325684
+    ],
+    "intensity": 2112.0
+  },
+  {
+    "label": "Corridor ceiling fill 2",
+    "class": "RectLight",
+    "position": [
+      -2800.0,
+      -1489.9999618530273,
+      384.99999046325684
+    ],
+    "intensity": 2112.0
+  },
+  {
+    "label": "Corridor ceiling fill 3",
+    "class": "RectLight",
+    "position": [
+      -2300.0,
+      -1489.9999618530273,
+      384.99999046325684
+    ],
+    "intensity": 2112.0
+  },
+  {
+    "label": "Corridor ceiling fill 4",
+    "class": "RectLight",
+    "position": [
+      -1800.0,
+      -1489.9999618530273,
+      384.99999046325684
+    ],
+    "intensity": 2112.0
+  },
+  {
+    "label": "Corridor ceiling fill 5",
+    "class": "RectLight",
+    "position": [
+      -1300.0,
+      -1489.9999618530273,
+      384.99999046325684
+    ],
+    "intensity": 2112.0
+  },
+  {
+    "label": "Corridor ceiling fill 6",
+    "class": "RectLight",
+    "position": [
+      -800.0,
+      -1489.9999618530273,
+      384.99999046325684
+    ],
+    "intensity": 2112.0
+  },
+  {
+    "label": "Corridor ceiling fill 7",
+    "class": "RectLight",
+    "position": [
+      -2800.0,
+      -1469.9999809265137,
+      790.0000095367432
+    ],
+    "intensity": 1320.0
+  },
+  {
+    "label": "Corridor ceiling fill 8",
+    "class": "RectLight",
+    "position": [
+      -2300.0,
+      -1469.9999809265137,
+      790.0000095367432
+    ],
+    "intensity": 1320.0
+  },
+  {
+    "label": "Corridor ceiling fill 9",
+    "class": "RectLight",
+    "position": [
+      -1800.0,
+      -1469.9999809265137,
+      790.0000095367432
+    ],
+    "intensity": 1320.0
+  },
+  {
+    "label": "Corridor ceiling fill 10",
+    "class": "RectLight",
+    "position": [
+      -1300.0,
+      -1469.9999809265137,
+      790.0000095367432
+    ],
+    "intensity": 1320.0
+  },
+  {
+    "label": "Corridor ceiling fill 11",
+    "class": "RectLight",
+    "position": [
+      -800.0,
+      -1469.9999809265137,
+      790.0000095367432
+    ],
+    "intensity": 1320.0
+  },
+  {
+    "label": "Corridor ceiling fill 12",
+    "class": "RectLight",
+    "position": [
+      -2810.0000381469727,
+      -1050.0,
+      780.0000190734863
+    ],
+    "intensity": 4620.0
+  },
+  {
+    "label": "Corridor ceiling fill 13",
+    "class": "RectLight",
+    "position": [
+      -3170.0000762939453,
+      -1900.0,
+      384.99999046325684
+    ],
+    "intensity": 2112.0
+  },
+  {
+    "label": "Wet_room_Mens",
+    "class": "RectLight",
+    "position": [
+      -3850.0,
+      -1080.0000190734863,
+      320.0000047683716
+    ],
+    "intensity": 2376.0
+  },
+  {
+    "label": "Wet_room_Womens",
+    "class": "RectLight",
+    "position": [
+      -3550.0,
+      -1080.0000190734863,
+      320.0000047683716
+    ],
+    "intensity": 2376.0
+  },
+  {
+    "label": "Wet_room_Showers122",
+    "class": "RectLight",
+    "position": [
+      -4329.999923706055,
+      -2750.0,
+      320.0000047683716
+    ],
+    "intensity": 2376.0
+  },
+  {
+    "label": "Wet_room_Showers121",
+    "class": "RectLight",
+    "position": [
+      -4329.999923706055,
+      -1770.0000762939453,
+      320.0000047683716
+    ],
+    "intensity": 2376.0
+  },
+  {
+    "label": "Wet_room_North_filler",
+    "class": "RectLight",
+    "position": [
+      -2729.9999237060547,
+      -2879.9999237060547,
+      359.99999046325684
+    ],
+    "intensity": 2376.0
+  },
+  {
+    "label": "Commons warm pool 0",
+    "class": "RectLight",
+    "position": [
+      420.0,
+      -2000.0,
+      510.0
+    ],
+    "intensity": 990.0
+  },
+  {
+    "label": "Commons warm pool 1",
+    "class": "RectLight",
+    "position": [
+      1000.0,
+      -2000.0,
+      510.0
+    ],
+    "intensity": 990.0
+  },
+  {
+    "label": "Commons warm pool 2",
+    "class": "RectLight",
+    "position": [
+      420.0,
+      -2700.0,
+      510.0
+    ],
+    "intensity": 990.0
+  },
+  {
+    "label": "Commons warm pool 3",
+    "class": "RectLight",
+    "position": [
+      1000.0,
+      -2700.0,
+      510.0
+    ],
+    "intensity": 990.0
+  },
+  {
+    "label": "King banner wall wash 0",
+    "class": "SpotLight",
+    "position": [
+      175.0,
+      -2000.0,
+      800.0
+    ],
+    "intensity": 2600.0
+  },
+  {
+    "label": "King banner wall wash 1",
+    "class": "SpotLight",
+    "position": [
+      175.0,
+      -2500.0,
+      800.0
+    ],
+    "intensity": 2600.0
+  },
+  {
+    "label": "King banner wall wash 2",
+    "class": "SpotLight",
+    "position": [
+      175.0,
+      -2900.0,
+      800.0
+    ],
+    "intensity": 2600.0
+  },
+  {
+    "label": "Cafe task lighting",
+    "class": "RectLight",
+    "position": [
+      1430.0,
+      -1760.0,
+      295.0
+    ],
+    "intensity": 1100.0
+  },
+  {
+    "label": "Fireplace ember glow",
+    "class": "PointLight",
+    "position": [
+      612.0,
+      -3000.0,
+      65.0
+    ],
+    "intensity": 180.0
+  },
+  {
+    "label": "Cool dusk window fill",
+    "class": "RectLight",
+    "position": [
+      1600.0,
+      -2400.0,
+      430.0
+    ],
+    "intensity": 2090.0
+  },
+  {
+    "label": "RingLight_V04_09_Down",
+    "class": "RectLight",
+    "position": [
+      400.0,
+      -2100.0,
+      661.5
+    ],
+    "intensity": 3575.0
+  },
+  {
+    "label": "RingLight_V04_09_CeilingBounce",
+    "class": "PointLight",
+    "position": [
+      400.0,
+      -2100.0,
+      681.5
+    ],
+    "intensity": 600.0
+  },
+  {
+    "label": "RingLight_V04_10_Down",
+    "class": "RectLight",
+    "position": [
+      800.0,
+      -2500.0,
+      671.5
+    ],
+    "intensity": 3575.0
+  },
+  {
+    "label": "RingLight_V04_10_CeilingBounce",
+    "class": "PointLight",
+    "position": [
+      800.0,
+      -2500.0,
+      691.5
+    ],
+    "intensity": 600.0
+  },
+  {
+    "label": "RingLight_V04_11_Down",
+    "class": "RectLight",
+    "position": [
+      500.0,
+      -2900.0,
+      671.5
+    ],
+    "intensity": 3575.0
+  },
+  {
+    "label": "RingLight_V04_11_CeilingBounce",
+    "class": "PointLight",
+    "position": [
+      500.0,
+      -2900.0,
+      691.5
+    ],
+    "intensity": 600.0
+  },
+  {
+    "label": "RingLight_V04_12_Down",
+    "class": "RectLight",
+    "position": [
+      700.0,
+      -1700.0,
+      661.5
+    ],
+    "intensity": 3575.0
+  },
+  {
+    "label": "RingLight_V04_12_CeilingBounce",
+    "class": "PointLight",
+    "position": [
+      700.0,
+      -1700.0,
+      681.5
+    ],
+    "intensity": 600.0
+  },
+  {
+    "label": "ILab_V05_Light_00",
+    "class": "RectLight",
+    "position": [
+      -960.0,
+      -220.0,
+      373.0
+    ],
+    "intensity": 1320.0
+  },
+  {
+    "label": "ILab_V05_Light_01",
+    "class": "RectLight",
+    "position": [
+      -960.0,
+      -510.0,
+      373.0
+    ],
+    "intensity": 1320.0
+  },
+  {
+    "label": "ILab_V05_Light_02",
+    "class": "RectLight",
+    "position": [
+      -960.0,
+      -800.0,
+      373.0
+    ],
+    "intensity": 1320.0
+  },
+  {
+    "label": "ILab_V05_Light_03",
+    "class": "RectLight",
+    "position": [
+      -670.0,
+      -220.0,
+      373.0
+    ],
+    "intensity": 1320.0
+  },
+  {
+    "label": "ILab_V05_Light_04",
+    "class": "RectLight",
+    "position": [
+      -670.0,
+      -510.0,
+      373.0
+    ],
+    "intensity": 1320.0
+  },
+  {
+    "label": "ILab_V05_Light_05",
+    "class": "RectLight",
+    "position": [
+      -670.0,
+      -800.0,
+      373.0
+    ],
+    "intensity": 1320.0
+  },
+  {
+    "label": "ILab_V05_Light_06",
+    "class": "RectLight",
+    "position": [
+      -350.0,
+      -220.0,
+      373.0
+    ],
+    "intensity": 1320.0
+  },
+  {
+    "label": "ILab_V05_Light_07",
+    "class": "RectLight",
+    "position": [
+      -350.0,
+      -510.0,
+      373.0
+    ],
+    "intensity": 1320.0
+  },
+  {
+    "label": "ILab_V05_Light_08",
+    "class": "RectLight",
+    "position": [
+      -350.0,
+      -800.0,
+      373.0
+    ],
+    "intensity": 1320.0
+  },
+  {
+    "label": "Architect_CRI_SoftFill",
+    "class": "RectLight",
+    "position": [
+      820.0,
+      -720.0,
+      360.0
+    ],
+    "intensity": 1600.0
+  },
+  {
+    "label": "Architect_Commons_SoftFill",
+    "class": "RectLight",
+    "position": [
+      760.0,
+      -2300.0,
+      780.0
+    ],
+    "intensity": 2600.0
+  },
+  {
+    "label": "DD_Gallery_Wash_0",
+    "class": "RectLight",
+    "position": [
+      -990.0,
+      -1350.0,
+      310.0
+    ],
+    "intensity": 220.0
+  },
+  {
+    "label": "DD_Gallery_Wash_1",
+    "class": "RectLight",
+    "position": [
+      -590.0,
+      -1350.0,
+      310.0
+    ],
+    "intensity": 220.0
+  },
+  {
+    "label": "DD_Gallery_Wash_2",
+    "class": "RectLight",
+    "position": [
+      -190.0,
+      -1350.0,
+      310.0
+    ],
+    "intensity": 220.0
+  },
+  {
+    "label": "DD_Trophy_Wash_0",
+    "class": "RectLight",
+    "position": [
+      -2870.0,
+      -1880.0,
+      345.0
+    ],
+    "intensity": 180.0
+  },
+  {
+    "label": "DD_Trophy_Wash_1",
+    "class": "RectLight",
+    "position": [
+      -2870.0,
+      -2290.0,
+      345.0
+    ],
+    "intensity": 180.0
+  },
+  {
+    "label": "DD_Trophy_Wash_2",
+    "class": "RectLight",
+    "position": [
+      -2870.0,
+      -2700.0,
+      345.0
+    ],
+    "intensity": 180.0
+  },
+  {
+    "label": "DD_Commons_WallFill",
+    "class": "RectLight",
+    "position": [
+      800.0,
+      -2320.0,
+      540.0
+    ],
+    "intensity": 700.0
+  }
+]

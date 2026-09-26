@@ -1,0 +1,29 @@
+{
+  "rounds": 4,
+  "zones": 31,
+  "base_images_per_round": [
+    76,
+    76,
+    76,
+    76
+  ],
+  "scores": [
+    4.2,
+    6.1,
+    6.4,
+    6.6
+  ],
+  "final_scores": {
+    "design": 6.7,
+    "aesthetics": 6.3,
+    "accuracy": 6.8,
+    "overall": 6.6
+  },
+  "visual_gate_passed": false,
+  "zero_visible_errors": false,
+  "saved_map_validation_errors": [],
+  "map": "/Game/Campus/Maps/CampusCenter_GroundFloorReview_v05",
+  "artworks": 9,
+  "trophies": 10,
+  "runtime_performance_measured": false
+}

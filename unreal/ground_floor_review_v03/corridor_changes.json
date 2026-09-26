@@ -1,0 +1,14 @@
+{
+  "actors": [
+    "DD_GalleryFloor_Oak",
+    "DD_TrophyFloor_Oak",
+    "GF_CorridorOakConnector",
+    "GF_TrophyOakConnector",
+    "GF_GalleryOakEdge"
+  ],
+  "plank_cm": [
+    108,
+    18
+  ],
+  "direction_change_only_at_trophy_corner": true
+}

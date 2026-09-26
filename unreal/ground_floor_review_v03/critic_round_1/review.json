@@ -1,0 +1,275 @@
+{
+  "coverage": {
+    "limitations": "Dark rooms cannot be judged for hidden geometry/material errors. 103/116 repaired. Lab sink label corrected to vice. Stair-named views mostly show adjacent corridors; ground approach visible, not complete staircase detail.",
+    "zones": 31,
+    "excluded": "Upper-floor fitness and balcony; absent room107",
+    "repair_images_inspected": 2,
+    "base_images_inspected": 76
+  },
+  "round": 1,
+  "verdict": "FAIL: hero spaces do not represent whole-floor quality. Large parts of the ground floor remain visually unreadable.",
+  "zero_visible_errors": false,
+  "zone_scores": [
+    {
+      "id": "100",
+      "pass": false,
+      "name": "ENTRY VESTIBULE",
+      "overall": 3,
+      "finding": "Severe entry underlight"
+    },
+    {
+      "id": "101",
+      "pass": false,
+      "name": "CAFE",
+      "overall": 6.7,
+      "finding": "Detailed equipment; noisy metal and counter edge"
+    },
+    {
+      "id": "102",
+      "pass": false,
+      "name": "STUDENT COMMONS",
+      "overall": 8,
+      "finding": "Strongest hero zone; dark perimeter and noisy ceiling"
+    },
+    {
+      "id": "103",
+      "pass": false,
+      "name": "RECEPTION",
+      "overall": 5.5,
+      "finding": "Repaired view valid; dark desk and blank walls"
+    },
+    {
+      "id": "104",
+      "pass": false,
+      "name": "ADMISSIONS OFFICE",
+      "overall": 4.8,
+      "finding": "Dark plain office"
+    },
+    {
+      "id": "105",
+      "pass": false,
+      "name": "CRI GALLERY",
+      "overall": 6.8,
+      "finding": "Bare gallery and bright grout"
+    },
+    {
+      "id": "106",
+      "pass": false,
+      "name": "CORRIDOR / DISPLAY HALL",
+      "overall": 7.9,
+      "finding": "Artwork intact; floor junction and phantom shadows"
+    },
+    {
+      "id": "108",
+      "pass": false,
+      "name": "INNOVATION LAB",
+      "overall": 6.7,
+      "finding": "Flat floor and equipment materials; phantom shadows"
+    },
+    {
+      "id": "109",
+      "pass": false,
+      "name": "STORAGE / IT / MECH",
+      "overall": 2,
+      "finding": "Nearly black"
+    },
+    {
+      "id": "110",
+      "pass": false,
+      "name": "CORRIDOR",
+      "overall": 5.8,
+      "finding": "Overscale unjointed travertine"
+    },
+    {
+      "id": "111",
+      "pass": false,
+      "name": "OFFICE",
+      "overall": 2,
+      "finding": "Nearly black"
+    },
+    {
+      "id": "112",
+      "pass": false,
+      "name": "ASPIRE CLASSROOM",
+      "overall": 5.4,
+      "finding": "Plain block furniture and uneven light"
+    },
+    {
+      "id": "113",
+      "pass": false,
+      "name": "COLLABORATION ROOM",
+      "overall": 4.8,
+      "finding": "Washed-out white furniture; grainy contact shadows"
+    },
+    {
+      "id": "114",
+      "pass": false,
+      "name": "VESTIBULE",
+      "overall": 2.5,
+      "finding": "Nearly black"
+    },
+    {
+      "id": "115",
+      "pass": false,
+      "name": "CORRIDOR",
+      "overall": 5.7,
+      "finding": "Overscale stone; phantom shadows"
+    },
+    {
+      "id": "116",
+      "pass": false,
+      "name": "WOMENS TOILET",
+      "overall": 4.2,
+      "finding": "Washed-out fixtures; opaque mirrors"
+    },
+    {
+      "id": "117",
+      "pass": false,
+      "name": "MENS TOILET",
+      "overall": 4.4,
+      "finding": "Washed-out fixtures; opaque mirrors"
+    },
+    {
+      "id": "118",
+      "pass": false,
+      "name": "JANITOR",
+      "overall": 2,
+      "finding": "Nearly black"
+    },
+    {
+      "id": "119",
+      "pass": false,
+      "name": "ATHLETICS STORAGE",
+      "overall": 2,
+      "finding": "Nearly black"
+    },
+    {
+      "id": "120",
+      "pass": false,
+      "name": "MECH / ELECTRICAL",
+      "overall": 2,
+      "finding": "Nearly black"
+    },
+    {
+      "id": "121",
+      "pass": false,
+      "name": "LOCKER ROOM",
+      "overall": 4.3,
+      "finding": "Dark locker aisle; bright noisy wet zone"
+    },
+    {
+      "id": "122",
+      "pass": false,
+      "name": "LOCKER ROOM",
+      "overall": 4.8,
+      "finding": "Washed-out lockers and wet zone"
+    },
+    {
+      "id": "123",
+      "pass": false,
+      "name": "TROPHY HALL / CORRIDOR",
+      "overall": 7.8,
+      "finding": "Trophies intact; patch floor edge and dark ends"
+    },
+    {
+      "id": "124",
+      "pass": false,
+      "name": "ATHLETICS OFFICE",
+      "overall": 2,
+      "finding": "Nearly black"
+    },
+    {
+      "id": "125",
+      "pass": false,
+      "name": "ATHLETICS OFFICE",
+      "overall": 2.2,
+      "finding": "Nearly black except window"
+    },
+    {
+      "id": "126",
+      "pass": false,
+      "name": "ATHLETICS OFFICE",
+      "overall": 2,
+      "finding": "Nearly black"
+    },
+    {
+      "id": "127",
+      "pass": false,
+      "name": "TRAINERS OFFICE",
+      "overall": 2,
+      "finding": "Nearly black except window"
+    },
+    {
+      "id": "128",
+      "pass": false,
+      "name": "TRAINERS STORAGE",
+      "overall": 2,
+      "finding": "Nearly black"
+    },
+    {
+      "id": "129",
+      "pass": false,
+      "name": "ATHLETICS TRAINERS",
+      "overall": 2,
+      "finding": "Nearly black except window"
+    },
+    {
+      "id": "130",
+      "pass": false,
+      "name": "CORRIDOR",
+      "overall": 3.5,
+      "finding": "Underlit corridor and abrupt floor junction"
+    },
+    {
+      "id": "GYM",
+      "pass": false,
+      "name": "EXISTING GYM",
+      "overall": 2,
+      "finding": "Unreadable gym; only wall and door slivers"
+    }
+  ],
+  "threshold": 8.5,
+  "ranked_issues": [
+    {
+      "issue": "Unreadable lighting in service/office rooms and gym",
+      "fix": "Add room-specific physically motivated task/high-bay lighting; preserve furniture",
+      "rank": 1,
+      "severity": "critical"
+    },
+    {
+      "issue": "Whitewash and grainy shadows in113,116,117,122 and wet zones121/122",
+      "fix": "Reduce excess direct illumination and improve shadow sampling",
+      "rank": 2,
+      "severity": "high"
+    },
+    {
+      "issue": "Disembodied human shadows in108/115/106",
+      "fix": "Resolve hidden actor shadow state",
+      "rank": 3,
+      "severity": "high"
+    },
+    {
+      "issue": "Abrupt floor patch boundaries and unjointed oversized travertine",
+      "fix": "Continuous finish extents and scaled slab joints",
+      "rank": 4,
+      "severity": "high"
+    },
+    {
+      "issue": "Opaque mirrors, simple furniture materials and apparent unsupported wet-zone fixtures",
+      "fix": "Persistent preserved-furniture limitation; do not silently alter scope",
+      "rank": 5,
+      "severity": "medium"
+    },
+    {
+      "issue": "Blank walls and flat material response outside hero areas",
+      "fix": "Improve allowed architectural finish variation and lighting hierarchy",
+      "rank": 6,
+      "severity": "medium"
+    }
+  ],
+  "design": 5.5,
+  "overall": 4.2,
+  "aesthetics": 3.5,
+  "pass": false,
+  "accuracy": 5.5
+}

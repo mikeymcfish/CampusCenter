@@ -1,0 +1,127 @@
+{
+  "door_slots": [
+    {
+      "actor": "Doors_Ground_04_11",
+      "slot": 0
+    },
+    {
+      "actor": "Doors_Ground_04_12",
+      "slot": 0
+    },
+    {
+      "actor": "Doors_Ground_04_13",
+      "slot": 0
+    },
+    {
+      "actor": "Doors_Ground_04_14",
+      "slot": 0
+    },
+    {
+      "actor": "Doors_Ground_05_11",
+      "slot": 0
+    },
+    {
+      "actor": "Doors_Ground_05_14",
+      "slot": 0
+    },
+    {
+      "actor": "Doors_Ground_06_11",
+      "slot": 0
+    },
+    {
+      "actor": "Doors_Ground_06_12",
+      "slot": 0
+    },
+    {
+      "actor": "Doors_Ground_06_13",
+      "slot": 0
+    },
+    {
+      "actor": "Doors_Ground_06_14",
+      "slot": 0
+    },
+    {
+      "actor": "Doors_Ground_07_10",
+      "slot": 0
+    },
+    {
+      "actor": "Doors_Ground_07_11",
+      "slot": 0
+    },
+    {
+      "actor": "Doors_Ground_07_12",
+      "slot": 0
+    },
+    {
+      "actor": "Doors_Ground_08_10",
+      "slot": 0
+    },
+    {
+      "actor": "Doors_Ground_08_11",
+      "slot": 0
+    },
+    {
+      "actor": "Doors_Ground_09_11",
+      "slot": 0
+    },
+    {
+      "actor": "Doors_Ground_10_10",
+      "slot": 0
+    },
+    {
+      "actor": "Doors_Ground_11_10",
+      "slot": 0
+    }
+  ],
+  "materials": [
+    "/Game/Campus/GroundFloorV03/Materials/M_GroundDoorOak.M_GroundDoorOak",
+    "/Game/Campus/GroundFloorV03/Materials/M_HonedTravertine120x60.M_HonedTravertine120x60",
+    "/Game/Campus/GroundFloorV03/Materials/M_BlueFloorGrout.M_BlueFloorGrout",
+    "/Game/Campus/GroundFloorV03/Materials/M_CRI_PerimeterTile.M_CRI_PerimeterTile"
+  ],
+  "lighting": [
+    "GF_Light_129",
+    "GF_Light_127",
+    "GF_Light_128",
+    "GF_Light_125",
+    "GF_Light_126",
+    "GF_Light_124",
+    "GF_Light_119",
+    "GF_Light_118",
+    "GF_Light_120",
+    "GF_Light_114",
+    "GF_Light_112",
+    "GF_Light_111",
+    "GF_Light_109",
+    "GF_Light_103",
+    "GF_Light_104",
+    "GF_Light_100",
+    "GF_Light_130_0",
+    "GF_Light_130_1",
+    "GF_Light_130_2",
+    "GF_Light_Cafe_0",
+    "GF_Light_Cafe_1",
+    "GF_Light_Locker121_0",
+    "GF_Light_Locker121_1",
+    "GF_Light_Gym_0_0",
+    "GF_Light_Gym_0_1",
+    "GF_Light_Gym_0_2",
+    "GF_Light_Gym_1_0",
+    "GF_Light_Gym_1_1",
+    "GF_Light_Gym_1_2",
+    "GF_Light_Gym_2_0",
+    "GF_Light_Gym_2_1",
+    "GF_Light_Gym_2_2",
+    "GF_Light_Gym_3_0",
+    "GF_Light_Gym_3_1",
+    "GF_Light_Gym_3_2"
+  ],
+  "grout_slots": [
+    0
+  ],
+  "project_quality_settings": {
+    "r.Shadow.Virtual.SMRT.RayCountLocal": 64,
+    "r.Shadow.Virtual.SMRT.AdaptiveRayCount": 0,
+    "r.Lumen.ScreenProbeGather.ShortRangeAO.DownsampleFactor": 1
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "painted_plaster_wall",
+  "source": "https://polyhaven.com/a/painted_plaster_wall",
+  "license": "CC0",
+  "physical_dimensions_cm": null,
+  "basecolor": "BaseColor.png",
+  "normal_unreal": "NormalDX.png",
+  "normal_gltf": "NormalGL.png",
+  "orm": "ORM.png",
+  "orm_channels": "R=ambient occlusion, G=roughness, B=metallic",
+  "unreal": {
+    "basecolor_srgb": true,
+    "normal_srgb": false,
+    "normal_compression": "Normalmap",
+    "orm_srgb": false,
+    "orm_compression": "Masks",
+    "mip_gen_settings": "FromTextureGroup",
+    "never_stream": false,
+    "max_texture_size": 2048
+  },
+  "validation": "All source images decoded; output images reopened; shader appearance pending",
+  "files": [
+    {
+      "path": "prepared/materials/painted_plaster_wall/BaseColor.png",
+      "bytes": 7523818,
+      "sha256": "03deb04967c6058e0c67cebf7caec45c7d2a14cdb65bea64cbb6fcfbc7cc8f98"
+    },
+    {
+      "path": "prepared/materials/painted_plaster_wall/NormalDX.png",
+      "bytes": 8550198,
+      "sha256": "da2d73e32f8711c5638577c44d416b9823af8a2c016b4a7a89b10eb73311a20b"
+    },
+    {
+      "path": "prepared/materials/painted_plaster_wall/NormalGL.png",
+      "bytes": 8551116,
+      "sha256": "4b2e5ad091d9111c1df23e497e9788ee3e92b43abf180d8dfef6058616712d91"
+    },
+    {
+      "path": "prepared/materials/painted_plaster_wall/ORM.png",
+      "bytes": 5004642,
+      "sha256": "50d196d8d6781c2df95736da03ecd5456ec9b21a98c881efa71622ebb8400a5d"
+    }
+  ]
+}

@@ -1,0 +1,520 @@
+{
+  "materials": [
+    "/Game/Campus/GroundFloorV03/Materials/M_HonedTravertine120x60.M_HonedTravertine120x60",
+    "/Game/Campus/GroundFloorV03/Materials/M_GymSportsOak.M_GymSportsOak"
+  ],
+  "lights": [
+    {
+      "name": "GF_Light_129",
+      "lumens": 6000,
+      "position": [
+        -4292.732984293194,
+        -3558.6596858638745,
+        423
+      ]
+    },
+    {
+      "name": "GF_Light_127",
+      "lumens": 4000,
+      "position": [
+        -3872.502617801047,
+        -3760.7958115183246,
+        423
+      ]
+    },
+    {
+      "name": "GF_Light_128",
+      "lumens": 3500,
+      "position": [
+        -3872.502617801047,
+        -3335.246073298429,
+        423
+      ]
+    },
+    {
+      "name": "GF_Light_125",
+      "lumens": 5000,
+      "position": [
+        -3468.2303664921465,
+        -3782.0732984293195,
+        423
+      ]
+    },
+    {
+      "name": "GF_Light_126",
+      "lumens": 4000,
+      "position": [
+        -3595.8952879581147,
+        -3361.8429319371726,
+        423
+      ]
+    },
+    {
+      "name": "GF_Light_124",
+      "lumens": 4000,
+      "position": [
+        -3308.6492146596856,
+        -3361.8429319371726,
+        423
+      ]
+    },
+    {
+      "name": "GF_Light_119",
+      "lumens": 4000,
+      "position": [
+        -4351.246073298429,
+        -1398.9947643979056,
+        398
+      ]
+    },
+    {
+      "name": "GF_Light_118",
+      "lumens": 2500,
+      "position": [
+        -4101.235602094241,
+        -1207.497382198953,
+        398
+      ]
+    },
+    {
+      "name": "GF_Light_120",
+      "lumens": 4500,
+      "position": [
+        -4314.010471204188,
+        -904.2931937172774,
+        398
+      ]
+    },
+    {
+      "name": "GF_Light_114",
+      "lumens": 3000,
+      "position": [
+        -3191.6230366492146,
+        -914.9319371727748,
+        398
+      ]
+    },
+    {
+      "name": "GF_Light_112",
+      "lumens": 5000,
+      "position": [
+        -1813.9057591623036,
+        -925.5706806282722,
+        398
+      ]
+    },
+    {
+      "name": "GF_Light_111",
+      "lumens": 3500,
+      "position": [
+        -1324.523560209424,
+        -1175.5811518324606,
+        398
+      ]
+    },
+    {
+      "name": "GF_Light_109",
+      "lumens": 3000,
+      "position": [
+        -1319.2041884816754,
+        -808.5445026178011,
+        398
+      ]
+    },
+    {
+      "name": "GF_Light_103",
+      "lumens": 4200,
+      "position": [
+        1414.9528795811516,
+        -707.4764397905758,
+        398
+      ]
+    },
+    {
+      "name": "GF_Light_104",
+      "lumens": 4200,
+      "position": [
+        1414.9528795811516,
+        -265.9685863874346,
+        398
+      ]
+    },
+    {
+      "name": "GF_Light_100",
+      "lumens": 4500,
+      "position": [
+        1771.3507853403141,
+        -1207.497382198953,
+        377
+      ]
+    },
+    {
+      "name": "GF_Light_130_0",
+      "lumens": 3500,
+      "position": [
+        -4260,
+        -3060,
+        423
+      ]
+    },
+    {
+      "name": "GF_Light_130_1",
+      "lumens": 3500,
+      "position": [
+        -3740,
+        -3060,
+        423
+      ]
+    },
+    {
+      "name": "GF_Light_130_2",
+      "lumens": 3500,
+      "position": [
+        -3200,
+        -3060,
+        423
+      ]
+    },
+    {
+      "name": "GF_Light_Cafe_0",
+      "lumens": 5000,
+      "position": [
+        1390,
+        -1600,
+        397
+      ]
+    },
+    {
+      "name": "GF_Light_Cafe_1",
+      "lumens": 5000,
+      "position": [
+        1550,
+        -1980,
+        397
+      ]
+    },
+    {
+      "name": "GF_Light_Locker121_0",
+      "lumens": 5000,
+      "position": [
+        -3480,
+        -1900,
+        398
+      ]
+    },
+    {
+      "name": "GF_Light_Locker121_1",
+      "lumens": 5000,
+      "position": [
+        -3850,
+        -2050,
+        398
+      ]
+    },
+    {
+      "name": "GF_Light_Gym_0_0",
+      "lumens": 25000,
+      "position": [
+        -2200,
+        -2000,
+        830
+      ]
+    },
+    {
+      "name": "GF_Light_Gym_0_1",
+      "lumens": 25000,
+      "position": [
+        -1300,
+        -2000,
+        830
+      ]
+    },
+    {
+      "name": "GF_Light_Gym_0_2",
+      "lumens": 25000,
+      "position": [
+        -400,
+        -2000,
+        830
+      ]
+    },
+    {
+      "name": "GF_Light_Gym_1_0",
+      "lumens": 25000,
+      "position": [
+        -2200,
+        -2750,
+        830
+      ]
+    },
+    {
+      "name": "GF_Light_Gym_1_1",
+      "lumens": 25000,
+      "position": [
+        -1300,
+        -2750,
+        830
+      ]
+    },
+    {
+      "name": "GF_Light_Gym_1_2",
+      "lumens": 25000,
+      "position": [
+        -400,
+        -2750,
+        830
+      ]
+    },
+    {
+      "name": "GF_Light_Gym_2_0",
+      "lumens": 25000,
+      "position": [
+        -2200,
+        -3500,
+        830
+      ]
+    },
+    {
+      "name": "GF_Light_Gym_2_1",
+      "lumens": 25000,
+      "position": [
+        -1300,
+        -3500,
+        830
+      ]
+    },
+    {
+      "name": "GF_Light_Gym_2_2",
+      "lumens": 25000,
+      "position": [
+        -400,
+        -3500,
+        830
+      ]
+    },
+    {
+      "name": "GF_Light_Gym_3_0",
+      "lumens": 25000,
+      "position": [
+        -2200,
+        -4250,
+        830
+      ]
+    },
+    {
+      "name": "GF_Light_Gym_3_1",
+      "lumens": 25000,
+      "position": [
+        -1300,
+        -4250,
+        830
+      ]
+    },
+    {
+      "name": "GF_Light_Gym_3_2",
+      "lumens": 25000,
+      "position": [
+        -400,
+        -4250,
+        830
+      ]
+    },
+    {
+      "name": "V8_Classroom_area",
+      "original_intensity": 3400.0,
+      "new_intensity": 3400.0
+    },
+    {
+      "name": "Wet_room_Mens",
+      "original_intensity": 1500.0,
+      "new_intensity": 1500.0
+    },
+    {
+      "name": "Wet_room_Womens",
+      "original_intensity": 1500.0,
+      "new_intensity": 1500.0
+    },
+    {
+      "name": "Wet_room_Showers122",
+      "original_intensity": 1500.0,
+      "new_intensity": 1500.0
+    },
+    {
+      "name": "Wet_room_Showers121",
+      "original_intensity": 1500.0,
+      "new_intensity": 1500.0
+    },
+    {
+      "name": "Wet_room_North_filler",
+      "original_intensity": 1500.0,
+      "new_intensity": 1500.0
+    }
+  ],
+  "geometry": [
+    "GF_CorridorOakConnector",
+    "GF_TrophyOakConnector",
+    "GF_GalleryOakEdge",
+    "GF_GalleryBlueThreshold",
+    "GF_TrophyNorthThreshold",
+    "GF_Light_129_Housing",
+    "GF_Light_129_Diffuser",
+    "GF_Light_127_Housing",
+    "GF_Light_127_Diffuser",
+    "GF_Light_128_Housing",
+    "GF_Light_128_Diffuser",
+    "GF_Light_125_Housing",
+    "GF_Light_125_Diffuser",
+    "GF_Light_126_Housing",
+    "GF_Light_126_Diffuser",
+    "GF_Light_124_Housing",
+    "GF_Light_124_Diffuser",
+    "GF_Light_119_Housing",
+    "GF_Light_119_Diffuser",
+    "GF_Light_118_Housing",
+    "GF_Light_118_Diffuser",
+    "GF_Light_120_Housing",
+    "GF_Light_120_Diffuser",
+    "GF_Light_114_Housing",
+    "GF_Light_114_Diffuser",
+    "GF_Light_112_Housing",
+    "GF_Light_112_Diffuser",
+    "GF_Light_111_Housing",
+    "GF_Light_111_Diffuser",
+    "GF_Light_109_Housing",
+    "GF_Light_109_Diffuser",
+    "GF_Light_103_Housing",
+    "GF_Light_103_Diffuser",
+    "GF_Light_104_Housing",
+    "GF_Light_104_Diffuser",
+    "GF_Light_100_Housing",
+    "GF_Light_100_Diffuser",
+    "GF_Light_130_0_Housing",
+    "GF_Light_130_0_Diffuser",
+    "GF_Light_130_1_Housing",
+    "GF_Light_130_1_Diffuser",
+    "GF_Light_130_2_Housing",
+    "GF_Light_130_2_Diffuser",
+    "GF_Light_Cafe_0_Housing",
+    "GF_Light_Cafe_0_Diffuser",
+    "GF_Light_Cafe_1_Housing",
+    "GF_Light_Cafe_1_Diffuser",
+    "GF_Light_Locker121_0_Housing",
+    "GF_Light_Locker121_0_Diffuser",
+    "GF_Light_Locker121_1_Housing",
+    "GF_Light_Locker121_1_Diffuser",
+    "GF_Light_Gym_0_0_Housing",
+    "GF_Light_Gym_0_0_Diffuser",
+    "GF_Light_Gym_0_1_Housing",
+    "GF_Light_Gym_0_1_Diffuser",
+    "GF_Light_Gym_0_2_Housing",
+    "GF_Light_Gym_0_2_Diffuser",
+    "GF_Light_Gym_1_0_Housing",
+    "GF_Light_Gym_1_0_Diffuser",
+    "GF_Light_Gym_1_1_Housing",
+    "GF_Light_Gym_1_1_Diffuser",
+    "GF_Light_Gym_1_2_Housing",
+    "GF_Light_Gym_1_2_Diffuser",
+    "GF_Light_Gym_2_0_Housing",
+    "GF_Light_Gym_2_0_Diffuser",
+    "GF_Light_Gym_2_1_Housing",
+    "GF_Light_Gym_2_1_Diffuser",
+    "GF_Light_Gym_2_2_Housing",
+    "GF_Light_Gym_2_2_Diffuser",
+    "GF_Light_Gym_3_0_Housing",
+    "GF_Light_Gym_3_0_Diffuser",
+    "GF_Light_Gym_3_1_Housing",
+    "GF_Light_Gym_3_1_Diffuser",
+    "GF_Light_Gym_3_2_Housing",
+    "GF_Light_Gym_3_2_Diffuser"
+  ],
+  "hidden_shadows": [
+    {
+      "actor": "Students_Ground_04_11",
+      "hidden": true,
+      "cast_hidden_shadow": false
+    },
+    {
+      "actor": "Students_Ground_04_12",
+      "hidden": true,
+      "cast_hidden_shadow": false
+    },
+    {
+      "actor": "Students_Ground_05_11",
+      "hidden": true,
+      "cast_hidden_shadow": false
+    },
+    {
+      "actor": "Students_Ground_05_12",
+      "hidden": true,
+      "cast_hidden_shadow": false
+    },
+    {
+      "actor": "Students_Ground_05_13",
+      "hidden": true,
+      "cast_hidden_shadow": false
+    },
+    {
+      "actor": "Students_Ground_05_14",
+      "hidden": true,
+      "cast_hidden_shadow": false
+    },
+    {
+      "actor": "Students_Ground_06_11",
+      "hidden": true,
+      "cast_hidden_shadow": false
+    },
+    {
+      "actor": "Students_Ground_06_13",
+      "hidden": true,
+      "cast_hidden_shadow": false
+    },
+    {
+      "actor": "Students_Ground_07_11",
+      "hidden": true,
+      "cast_hidden_shadow": false
+    },
+    {
+      "actor": "Students_Ground_08_10",
+      "hidden": true,
+      "cast_hidden_shadow": false
+    },
+    {
+      "actor": "Students_Ground_08_11",
+      "hidden": true,
+      "cast_hidden_shadow": false
+    },
+    {
+      "actor": "Students_Ground_09_10",
+      "hidden": true,
+      "cast_hidden_shadow": false
+    },
+    {
+      "actor": "Students_Ground_09_11",
+      "hidden": true,
+      "cast_hidden_shadow": false
+    },
+    {
+      "actor": "Students_Ground_10_10",
+      "hidden": true,
+      "cast_hidden_shadow": false
+    },
+    {
+      "actor": "Students_Ground_10_11",
+      "hidden": true,
+      "cast_hidden_shadow": false
+    },
+    {
+      "actor": "Students_Ground_11_10",
+      "hidden": true,
+      "cast_hidden_shadow": false
+    }
+  ],
+  "settings": [
+    {
+      "actor": "Exposure_and_Color",
+      "min_exposure": 5.0,
+      "max_exposure": 5.0,
+      "bias": 0.15000000596046448
+    }
+  ]
+}

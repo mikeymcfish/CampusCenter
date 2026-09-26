@@ -1,0 +1,195 @@
+{
+  "lights": [
+    {
+      "label": "GF_Light_129",
+      "lumens": 4000.0,
+      "temperature": 5200
+    },
+    {
+      "label": "GF_Light_127",
+      "lumens": 2600.0,
+      "temperature": 5200
+    },
+    {
+      "label": "GF_Light_128",
+      "lumens": 2200.0,
+      "temperature": 5200
+    },
+    {
+      "label": "GF_Light_125",
+      "lumens": 3300.0,
+      "temperature": 5200
+    },
+    {
+      "label": "GF_Light_126",
+      "lumens": 2600.0,
+      "temperature": 5200
+    },
+    {
+      "label": "GF_Light_124",
+      "lumens": 2600.0,
+      "temperature": 5200
+    },
+    {
+      "label": "GF_Light_119",
+      "lumens": 2500.0,
+      "temperature": 5200
+    },
+    {
+      "label": "GF_Light_118",
+      "lumens": 1600.0,
+      "temperature": 5200
+    },
+    {
+      "label": "GF_Light_120",
+      "lumens": 2800.0,
+      "temperature": 5200
+    },
+    {
+      "label": "GF_Light_114",
+      "lumens": 3000.0,
+      "temperature": 5200
+    },
+    {
+      "label": "GF_Light_112",
+      "lumens": 5000.0,
+      "temperature": 5200
+    },
+    {
+      "label": "GF_Light_111",
+      "lumens": 2300.0,
+      "temperature": 5200
+    },
+    {
+      "label": "GF_Light_109",
+      "lumens": 1800.0,
+      "temperature": 5200
+    },
+    {
+      "label": "GF_Light_103",
+      "lumens": 4200.0,
+      "temperature": 5200
+    },
+    {
+      "label": "GF_Light_104",
+      "lumens": 4200.0,
+      "temperature": 5200
+    },
+    {
+      "label": "GF_Light_100",
+      "lumens": 4500.0,
+      "temperature": 5200
+    },
+    {
+      "label": "GF_Light_130_0",
+      "lumens": 2300.0,
+      "temperature": 5200
+    },
+    {
+      "label": "GF_Light_130_1",
+      "lumens": 2300.0,
+      "temperature": 5200
+    },
+    {
+      "label": "GF_Light_130_2",
+      "lumens": 2300.0,
+      "temperature": 5200
+    },
+    {
+      "label": "GF_Light_Cafe_0",
+      "lumens": 5000.0,
+      "temperature": 5200
+    },
+    {
+      "label": "GF_Light_Cafe_1",
+      "lumens": 5000.0,
+      "temperature": 5200
+    },
+    {
+      "label": "GF_Light_Locker121_0",
+      "lumens": 5000.0,
+      "temperature": 5200
+    },
+    {
+      "label": "GF_Light_Locker121_1",
+      "lumens": 5000.0,
+      "temperature": 5200
+    },
+    {
+      "label": "GF_Light_Gym_0_0",
+      "lumens": 17500.0,
+      "temperature": 5200
+    },
+    {
+      "label": "GF_Light_Gym_0_1",
+      "lumens": 17500.0,
+      "temperature": 5200
+    },
+    {
+      "label": "GF_Light_Gym_0_2",
+      "lumens": 17500.0,
+      "temperature": 5200
+    },
+    {
+      "label": "GF_Light_Gym_1_0",
+      "lumens": 17500.0,
+      "temperature": 5200
+    },
+    {
+      "label": "GF_Light_Gym_1_1",
+      "lumens": 17500.0,
+      "temperature": 5200
+    },
+    {
+      "label": "GF_Light_Gym_1_2",
+      "lumens": 17500.0,
+      "temperature": 5200
+    },
+    {
+      "label": "GF_Light_Gym_2_0",
+      "lumens": 17500.0,
+      "temperature": 5200
+    },
+    {
+      "label": "GF_Light_Gym_2_1",
+      "lumens": 17500.0,
+      "temperature": 5200
+    },
+    {
+      "label": "GF_Light_Gym_2_2",
+      "lumens": 17500.0,
+      "temperature": 5200
+    },
+    {
+      "label": "GF_Light_Gym_3_0",
+      "lumens": 17500.0,
+      "temperature": 5200
+    },
+    {
+      "label": "GF_Light_Gym_3_1",
+      "lumens": 17500.0,
+      "temperature": 5200
+    },
+    {
+      "label": "GF_Light_Gym_3_2",
+      "lumens": 17500.0,
+      "temperature": 5200
+    }
+  ],
+  "environment_relocations": [
+    {
+      "actor": "Site_Tree_08_00",
+      "before": [
+        -400.0,
+        -4200.0,
+        -5.0
+      ],
+      "after": [
+        -400,
+        -5400,
+        -5
+      ],
+      "reason": "Exterior tree intersected gym court and ceiling"
+    }
+  ]
+}

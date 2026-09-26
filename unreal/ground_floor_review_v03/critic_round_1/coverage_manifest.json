@@ -1,0 +1,1317 @@
+{
+  "coordinate_system": "UE centimeters; source Blender meters transformed (x*100,-y*100,z*100)",
+  "coverage_status": "PROPOSED_PENDING_IMAGE_VALIDATION",
+  "excluded": {
+    "bridge_balcony": "Upper floor excluded, seen from ground only",
+    "room107": "Absent from A-101 schedule",
+    "fitness": "Upper floor: route eye elevation591.72cm"
+  },
+  "sources": [
+    "output_3d_v4/room_schedule.json",
+    "unreal_transfer/blender_inventory.json",
+    "unreal_transfer/exports/rooms.json",
+    "unreal_transfer/source/walkthrough_route.json"
+  ],
+  "zones": [
+    {
+      "name": "ENTRY VESTIBULE",
+      "id": "100",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "CAFE",
+      "id": "101",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "STUDENT COMMONS",
+      "id": "102",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "RECEPTION",
+      "id": "103",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "ADMISSIONS OFFICE",
+      "id": "104",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "CRI GALLERY",
+      "id": "105",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "CORRIDOR / DISPLAY HALL",
+      "id": "106",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "INNOVATION LAB",
+      "id": "108",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "STORAGE / IT / MECH",
+      "id": "109",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "CORRIDOR",
+      "id": "110",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "OFFICE",
+      "id": "111",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "ASPIRE CLASSROOM",
+      "id": "112",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "COLLABORATION ROOM",
+      "id": "113",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "VESTIBULE",
+      "id": "114",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "CORRIDOR",
+      "id": "115",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "WOMENS TOILET",
+      "id": "116",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "MENS TOILET",
+      "id": "117",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "JANITOR",
+      "id": "118",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "ATHLETICS STORAGE",
+      "id": "119",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "MECH / ELECTRICAL",
+      "id": "120",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "LOCKER ROOM",
+      "id": "121",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "LOCKER ROOM",
+      "id": "122",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "TROPHY HALL / CORRIDOR",
+      "id": "123",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "ATHLETICS OFFICE",
+      "id": "124",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "ATHLETICS OFFICE",
+      "id": "125",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "ATHLETICS OFFICE",
+      "id": "126",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "TRAINERS OFFICE",
+      "id": "127",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "TRAINERS STORAGE",
+      "id": "128",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "ATHLETICS TRAINERS",
+      "id": "129",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "CORRIDOR",
+      "id": "130",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "EXISTING GYM",
+      "id": "GYM",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    }
+  ],
+  "required_zero_visible_errors": true,
+  "views": [
+    {
+      "zone": "100",
+      "name": "100_wide",
+      "rotation": [
+        0.0,
+        180.0,
+        0.0
+      ],
+      "position": [
+        1950.0,
+        -1207.0,
+        165.0
+      ],
+      "fov": 88
+    },
+    {
+      "zone": "100",
+      "name": "100_detail",
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "position": [
+        1720.0,
+        -1207.0,
+        165.0
+      ],
+      "fov": 68
+    },
+    {
+      "zone": "101",
+      "name": "101_wide",
+      "rotation": [
+        -5.0,
+        -65.0,
+        0.0
+      ],
+      "position": [
+        1400.0,
+        -1540.0,
+        165.0
+      ],
+      "fov": 88
+    },
+    {
+      "zone": "101",
+      "name": "101_detail",
+      "rotation": [
+        -15.0,
+        -45.0,
+        0.0
+      ],
+      "position": [
+        1480.0,
+        -1790.0,
+        165.0
+      ],
+      "fov": 68
+    },
+    {
+      "zone": "102",
+      "name": "102_wide",
+      "rotation": [
+        5.0,
+        -143.0,
+        0.0
+      ],
+      "position": [
+        1410.0,
+        -1530.0,
+        172.0
+      ],
+      "fov": 88
+    },
+    {
+      "zone": "102",
+      "name": "102_detail",
+      "rotation": [
+        0.0,
+        50.0,
+        0.0
+      ],
+      "position": [
+        800.0,
+        -2720.0,
+        165.0
+      ],
+      "fov": 68
+    },
+    {
+      "zone": "103",
+      "name": "103_wide",
+      "rotation": [
+        -5.0,
+        135.0,
+        0.0
+      ],
+      "position": [
+        1510.0,
+        -830.0,
+        165.0
+      ],
+      "fov": 88
+    },
+    {
+      "zone": "103",
+      "name": "103_detail",
+      "rotation": [
+        -12.0,
+        0.0,
+        0.0
+      ],
+      "position": [
+        1310.0,
+        -610.0,
+        165.0
+      ],
+      "fov": 68
+    },
+    {
+      "zone": "104",
+      "name": "104_wide",
+      "rotation": [
+        -5.0,
+        135.0,
+        0.0
+      ],
+      "position": [
+        1510.0,
+        -380.0,
+        165.0
+      ],
+      "fov": 88
+    },
+    {
+      "zone": "104",
+      "name": "104_detail",
+      "rotation": [
+        -15.0,
+        0.0,
+        0.0
+      ],
+      "position": [
+        1310.0,
+        -220.0,
+        165.0
+      ],
+      "fov": 68
+    },
+    {
+      "zone": "105",
+      "name": "105_wide",
+      "rotation": [
+        0.0,
+        140.0,
+        0.0
+      ],
+      "position": [
+        950.0,
+        -600.0,
+        165.0
+      ],
+      "fov": 88
+    },
+    {
+      "zone": "105",
+      "name": "105_detail",
+      "rotation": [
+        -5.0,
+        0.0,
+        0.0
+      ],
+      "position": [
+        400.0,
+        -260.0,
+        165.0
+      ],
+      "fov": 68
+    },
+    {
+      "zone": "106",
+      "name": "106_wide",
+      "rotation": [
+        0.0,
+        -90.0,
+        0.0
+      ],
+      "position": [
+        -590.0,
+        -1050.0,
+        168.0
+      ],
+      "fov": 88
+    },
+    {
+      "zone": "106",
+      "name": "106_detail",
+      "rotation": [
+        0.0,
+        -142.0,
+        0.0
+      ],
+      "position": [
+        -75.0,
+        -1190.0,
+        170.0
+      ],
+      "fov": 68
+    },
+    {
+      "zone": "108",
+      "name": "108_wide",
+      "rotation": [
+        -4.0,
+        155.0,
+        0.0
+      ],
+      "position": [
+        -375.0,
+        -920.0,
+        165.0
+      ],
+      "fov": 88
+    },
+    {
+      "zone": "108",
+      "name": "108_detail",
+      "rotation": [
+        -8.0,
+        125.0,
+        0.0
+      ],
+      "position": [
+        -375.0,
+        -560.0,
+        165.0
+      ],
+      "fov": 68
+    },
+    {
+      "zone": "109",
+      "name": "109_wide",
+      "rotation": [
+        -8.0,
+        90.0,
+        0.0
+      ],
+      "position": [
+        -1280.0,
+        -805.0,
+        165.0
+      ],
+      "fov": 88
+    },
+    {
+      "zone": "109",
+      "name": "109_detail",
+      "rotation": [
+        -15.0,
+        -90.0,
+        0.0
+      ],
+      "position": [
+        -1319.0,
+        -780.0,
+        165.0
+      ],
+      "fov": 68
+    },
+    {
+      "zone": "110",
+      "name": "110_wide",
+      "rotation": [
+        0.0,
+        180.0,
+        0.0
+      ],
+      "position": [
+        -1300.0,
+        -1495.0,
+        165.0
+      ],
+      "fov": 88
+    },
+    {
+      "zone": "110",
+      "name": "110_detail",
+      "rotation": [
+        -20.0,
+        0.0,
+        0.0
+      ],
+      "position": [
+        -2450.0,
+        -1495.0,
+        165.0
+      ],
+      "fov": 68
+    },
+    {
+      "zone": "111",
+      "name": "111_wide",
+      "rotation": [
+        -5.0,
+        45.0,
+        0.0
+      ],
+      "position": [
+        -1380.0,
+        -1230.0,
+        165.0
+      ],
+      "fov": 88
+    },
+    {
+      "zone": "111",
+      "name": "111_detail",
+      "rotation": [
+        -15.0,
+        180.0,
+        0.0
+      ],
+      "position": [
+        -1260.0,
+        -1150.0,
+        165.0
+      ],
+      "fov": 68
+    },
+    {
+      "zone": "112",
+      "name": "112_wide",
+      "rotation": [
+        -5.0,
+        135.0,
+        0.0
+      ],
+      "position": [
+        -1650.0,
+        -1170.0,
+        165.0
+      ],
+      "fov": 88
+    },
+    {
+      "zone": "112",
+      "name": "112_detail",
+      "rotation": [
+        -15.0,
+        90.0,
+        0.0
+      ],
+      "position": [
+        -1830.0,
+        -900.0,
+        165.0
+      ],
+      "fov": 68
+    },
+    {
+      "zone": "113",
+      "name": "113_wide",
+      "rotation": [
+        -5.0,
+        135.0,
+        0.0
+      ],
+      "position": [
+        -2180.0,
+        -1170.0,
+        165.0
+      ],
+      "fov": 88
+    },
+    {
+      "zone": "113",
+      "name": "113_detail",
+      "rotation": [
+        -15.0,
+        90.0,
+        0.0
+      ],
+      "position": [
+        -2370.0,
+        -900.0,
+        165.0
+      ],
+      "fov": 68
+    },
+    {
+      "zone": "114",
+      "name": "114_wide",
+      "rotation": [
+        0.0,
+        90.0,
+        0.0
+      ],
+      "position": [
+        -3170.0,
+        -1050.0,
+        165.0
+      ],
+      "fov": 88
+    },
+    {
+      "zone": "114",
+      "name": "114_detail",
+      "rotation": [
+        -15.0,
+        0.0,
+        0.0
+      ],
+      "position": [
+        -3250.0,
+        -870.0,
+        165.0
+      ],
+      "fov": 68
+    },
+    {
+      "zone": "115",
+      "name": "115_wide",
+      "rotation": [
+        0.0,
+        180.0,
+        0.0
+      ],
+      "position": [
+        -3050.0,
+        -1490.0,
+        165.0
+      ],
+      "fov": 88
+    },
+    {
+      "zone": "115",
+      "name": "115_detail",
+      "rotation": [
+        -10.0,
+        0.0,
+        0.0
+      ],
+      "position": [
+        -3990.0,
+        -1490.0,
+        165.0
+      ],
+      "fov": 68
+    },
+    {
+      "zone": "116",
+      "name": "116_wide",
+      "rotation": [
+        -5.0,
+        110.0,
+        0.0
+      ],
+      "position": [
+        -3430.0,
+        -1220.0,
+        165.0
+      ],
+      "fov": 88
+    },
+    {
+      "zone": "116",
+      "name": "116_detail",
+      "rotation": [
+        -15.0,
+        160.0,
+        0.0
+      ],
+      "position": [
+        -3480.0,
+        -1060.0,
+        165.0
+      ],
+      "fov": 68
+    },
+    {
+      "zone": "117",
+      "name": "117_wide",
+      "rotation": [
+        -8.0,
+        55.0,
+        0.0
+      ],
+      "position": [
+        -3920.0,
+        -1180.0,
+        165.0
+      ],
+      "fov": 88
+    },
+    {
+      "zone": "117",
+      "name": "117_detail",
+      "rotation": [
+        -12.0,
+        0.0,
+        0.0
+      ],
+      "position": [
+        -3870.0,
+        -1130.0,
+        165.0
+      ],
+      "fov": 68
+    },
+    {
+      "zone": "118",
+      "name": "118_wide",
+      "rotation": [
+        -12.0,
+        80.0,
+        0.0
+      ],
+      "position": [
+        -4120.0,
+        -1260.0,
+        165.0
+      ],
+      "fov": 88
+    },
+    {
+      "zone": "118",
+      "name": "118_detail",
+      "rotation": [
+        -20.0,
+        150.0,
+        0.0
+      ],
+      "position": [
+        -4075.0,
+        -1210.0,
+        165.0
+      ],
+      "fov": 68
+    },
+    {
+      "zone": "119",
+      "name": "119_wide",
+      "rotation": [
+        -5.0,
+        170.0,
+        0.0
+      ],
+      "position": [
+        -4350.0,
+        -1450.0,
+        165.0
+      ],
+      "fov": 88
+    },
+    {
+      "zone": "119",
+      "name": "119_detail",
+      "rotation": [
+        -12.0,
+        -120.0,
+        0.0
+      ],
+      "position": [
+        -4380.0,
+        -1390.0,
+        165.0
+      ],
+      "fov": 68
+    },
+    {
+      "zone": "120",
+      "name": "120_wide",
+      "rotation": [
+        0.0,
+        70.0,
+        0.0
+      ],
+      "position": [
+        -4314.0,
+        -1000.0,
+        165.0
+      ],
+      "fov": 88
+    },
+    {
+      "zone": "120",
+      "name": "120_detail",
+      "rotation": [
+        -20.0,
+        180.0,
+        0.0
+      ],
+      "position": [
+        -4260.0,
+        -870.0,
+        165.0
+      ],
+      "fov": 68
+    },
+    {
+      "zone": "121",
+      "name": "121_wide",
+      "rotation": [
+        -5.0,
+        155.0,
+        0.0
+      ],
+      "position": [
+        -3500.0,
+        -2050.0,
+        165.0
+      ],
+      "fov": 88
+    },
+    {
+      "zone": "121",
+      "name": "121_detail",
+      "rotation": [
+        -10.0,
+        90.0,
+        0.0
+      ],
+      "position": [
+        -3890.0,
+        -1960.0,
+        165.0
+      ],
+      "fov": 68
+    },
+    {
+      "zone": "122",
+      "name": "122_wide",
+      "rotation": [
+        -5.0,
+        150.0,
+        0.0
+      ],
+      "position": [
+        -3500.0,
+        -2805.0,
+        165.0
+      ],
+      "fov": 88
+    },
+    {
+      "zone": "122",
+      "name": "122_detail",
+      "rotation": [
+        -8.0,
+        90.0,
+        0.0
+      ],
+      "position": [
+        -3890.0,
+        -2560.0,
+        165.0
+      ],
+      "fov": 68
+    },
+    {
+      "zone": "123",
+      "name": "123_wide",
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "position": [
+        -2990.0,
+        -2305.0,
+        162.0
+      ],
+      "fov": 88
+    },
+    {
+      "zone": "123",
+      "name": "123_detail",
+      "rotation": [
+        -3.0,
+        0.0,
+        0.0
+      ],
+      "position": [
+        -2875.0,
+        -2200.0,
+        215.0
+      ],
+      "fov": 68
+    },
+    {
+      "zone": "124",
+      "name": "124_wide",
+      "rotation": [
+        -5.0,
+        -110.0,
+        0.0
+      ],
+      "position": [
+        -3280.0,
+        -3260.0,
+        165.0
+      ],
+      "fov": 88
+    },
+    {
+      "zone": "124",
+      "name": "124_detail",
+      "rotation": [
+        -15.0,
+        -30.0,
+        0.0
+      ],
+      "position": [
+        -3340.0,
+        -3370.0,
+        165.0
+      ],
+      "fov": 68
+    },
+    {
+      "zone": "125",
+      "name": "125_wide",
+      "rotation": [
+        -5.0,
+        -135.0,
+        0.0
+      ],
+      "position": [
+        -3380.0,
+        -3700.0,
+        165.0
+      ],
+      "fov": 88
+    },
+    {
+      "zone": "125",
+      "name": "125_detail",
+      "rotation": [
+        -15.0,
+        25.0,
+        0.0
+      ],
+      "position": [
+        -3520.0,
+        -3840.0,
+        165.0
+      ],
+      "fov": 68
+    },
+    {
+      "zone": "126",
+      "name": "126_wide",
+      "rotation": [
+        -5.0,
+        -110.0,
+        0.0
+      ],
+      "position": [
+        -3540.0,
+        -3260.0,
+        165.0
+      ],
+      "fov": 88
+    },
+    {
+      "zone": "126",
+      "name": "126_detail",
+      "rotation": [
+        -15.0,
+        0.0,
+        0.0
+      ],
+      "position": [
+        -3650.0,
+        -3380.0,
+        165.0
+      ],
+      "fov": 68
+    },
+    {
+      "zone": "127",
+      "name": "127_wide",
+      "rotation": [
+        -5.0,
+        -125.0,
+        0.0
+      ],
+      "position": [
+        -3800.0,
+        -3650.0,
+        165.0
+      ],
+      "fov": 88
+    },
+    {
+      "zone": "127",
+      "name": "127_detail",
+      "rotation": [
+        -15.0,
+        0.0,
+        0.0
+      ],
+      "position": [
+        -3940.0,
+        -3790.0,
+        165.0
+      ],
+      "fov": 68
+    },
+    {
+      "zone": "128",
+      "name": "128_wide",
+      "rotation": [
+        -5.0,
+        115.0,
+        0.0
+      ],
+      "position": [
+        -3830.0,
+        -3340.0,
+        165.0
+      ],
+      "fov": 88
+    },
+    {
+      "zone": "128",
+      "name": "128_detail",
+      "rotation": [
+        -15.0,
+        -70.0,
+        0.0
+      ],
+      "position": [
+        -3910.0,
+        -3310.0,
+        165.0
+      ],
+      "fov": 68
+    },
+    {
+      "zone": "129",
+      "name": "129_wide",
+      "rotation": [
+        -5.0,
+        -130.0,
+        0.0
+      ],
+      "position": [
+        -4260.0,
+        -3480.0,
+        165.0
+      ],
+      "fov": 88
+    },
+    {
+      "zone": "129",
+      "name": "129_detail",
+      "rotation": [
+        -12.0,
+        180.0,
+        0.0
+      ],
+      "position": [
+        -4250.0,
+        -3700.0,
+        165.0
+      ],
+      "fov": 68
+    },
+    {
+      "zone": "130",
+      "name": "130_wide",
+      "rotation": [
+        0.0,
+        180.0,
+        0.0
+      ],
+      "position": [
+        -3300.0,
+        -3050.0,
+        165.0
+      ],
+      "fov": 88
+    },
+    {
+      "zone": "130",
+      "name": "130_detail",
+      "rotation": [
+        -10.0,
+        0.0,
+        0.0
+      ],
+      "position": [
+        -4050.0,
+        -3050.0,
+        165.0
+      ],
+      "fov": 68
+    },
+    {
+      "zone": "GYM",
+      "name": "GYM_wide",
+      "rotation": [
+        0.0,
+        -45.0,
+        0.0
+      ],
+      "position": [
+        -2350.0,
+        -1900.0,
+        165.0
+      ],
+      "fov": 88
+    },
+    {
+      "zone": "GYM",
+      "name": "GYM_detail",
+      "rotation": [
+        -12.0,
+        135.0,
+        0.0
+      ],
+      "position": [
+        -350.0,
+        -4250.0,
+        165.0
+      ],
+      "fov": 68
+    },
+    {
+      "zone": "108",
+      "name": "108_spray_booth",
+      "rotation": [
+        -7.0,
+        180.0,
+        0.0
+      ],
+      "position": [
+        -720.0,
+        -65.0,
+        165.0
+      ],
+      "fov": 78.0
+    },
+    {
+      "zone": "108",
+      "name": "108_sink",
+      "rotation": [
+        -15.0,
+        163.0,
+        0.0
+      ],
+      "position": [
+        -930.0,
+        -430.0,
+        165.0
+      ],
+      "fov": 68.0
+    },
+    {
+      "zone": "108",
+      "name": "108_reverse_entry",
+      "rotation": [
+        0.0,
+        -20.0,
+        0.0
+      ],
+      "position": [
+        -1000.0,
+        -820.0,
+        165.0
+      ],
+      "fov": 88.0
+    },
+    {
+      "zone": "121",
+      "name": "121_wet_zone",
+      "rotation": [
+        -5.0,
+        90.0,
+        0.0
+      ],
+      "position": [
+        -4320.0,
+        -2100.0,
+        165.0
+      ],
+      "fov": 88.0
+    },
+    {
+      "zone": "122",
+      "name": "122_wet_zone",
+      "rotation": [
+        -5.0,
+        90.0,
+        0.0
+      ],
+      "position": [
+        -4320.0,
+        -2860.0,
+        165.0
+      ],
+      "fov": 88.0
+    },
+    {
+      "zone": "123",
+      "name": "123_reverse_lockers",
+      "rotation": [
+        0.0,
+        -115.0,
+        0.0
+      ],
+      "position": [
+        -2850.0,
+        -1760.0,
+        165.0
+      ],
+      "fov": 88.0
+    },
+    {
+      "zone": "106",
+      "name": "106_art_detail",
+      "rotation": [
+        0.0,
+        -90.0,
+        0.0
+      ],
+      "position": [
+        -819.0,
+        -1430.0,
+        173.0
+      ],
+      "fov": 65.0
+    },
+    {
+      "zone": "106",
+      "name": "106_floor_transition",
+      "rotation": [
+        -25.0,
+        -142.0,
+        0.0
+      ],
+      "position": [
+        -75.0,
+        -1190.0,
+        170.0
+      ],
+      "fov": 76.0
+    },
+    {
+      "zone": "102",
+      "name": "102_k_detail",
+      "rotation": [
+        13.0,
+        -152.0,
+        0.0
+      ],
+      "position": [
+        630.0,
+        -2460.0,
+        215.0
+      ],
+      "fov": 68.0
+    },
+    {
+      "zone": "102",
+      "name": "102_ceiling_detail",
+      "rotation": [
+        78.0,
+        -110.0,
+        0.0
+      ],
+      "position": [
+        750.0,
+        -2200.0,
+        170.0
+      ],
+      "fov": 68.0
+    },
+    {
+      "zone": "100",
+      "name": "100_blue_floor_junction",
+      "rotation": [
+        -28.0,
+        -90.0,
+        0.0
+      ],
+      "position": [
+        900.0,
+        -950.0,
+        160.0
+      ],
+      "fov": 60.0
+    },
+    {
+      "zone": "115",
+      "name": "115_west_stair_ground",
+      "rotation": [
+        15.0,
+        -90.0,
+        0.0
+      ],
+      "position": [
+        -2830.0,
+        -1330.0,
+        165.0
+      ],
+      "fov": 85.0
+    },
+    {
+      "zone": "100",
+      "name": "100_east_stair_ground",
+      "rotation": [
+        12.0,
+        -80.0,
+        0.0
+      ],
+      "position": [
+        1480.0,
+        -1330.0,
+        165.0
+      ],
+      "fov": 85.0
+    },
+    {
+      "zone": "GYM",
+      "name": "GYM_reverse_wide",
+      "rotation": [
+        5.0,
+        135.0,
+        0.0
+      ],
+      "position": [
+        -350.0,
+        -4400.0,
+        165.0
+      ],
+      "fov": 100.0
+    }
+  ],
+  "review_rounds": 4,
+  "required_score": 8.5
+}

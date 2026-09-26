@@ -1,0 +1,158 @@
+{
+  "overrides": [
+    {
+      "actor": "Architecture_Ground_04_11",
+      "slot": 0,
+      "old": "/Game/Campus/PolishV02/Materials/M_Warm_Painted_Plaster.M_Warm_Painted_Plaster",
+      "new": "/Game/Campus/GroundFloorV03/Materials/M_GroundWarmPlaster.M_GroundWarmPlaster"
+    },
+    {
+      "actor": "Architecture_Ground_04_12",
+      "slot": 1,
+      "old": "/Game/Campus/PolishV02/Materials/M_Warm_Painted_Plaster.M_Warm_Painted_Plaster",
+      "new": "/Game/Campus/GroundFloorV03/Materials/M_GroundWarmPlaster.M_GroundWarmPlaster"
+    },
+    {
+      "actor": "Architecture_Ground_04_13",
+      "slot": 1,
+      "old": "/Game/Campus/PolishV02/Materials/M_Warm_Painted_Plaster.M_Warm_Painted_Plaster",
+      "new": "/Game/Campus/GroundFloorV03/Materials/M_GroundWarmPlaster.M_GroundWarmPlaster"
+    },
+    {
+      "actor": "Architecture_Ground_04_14",
+      "slot": 3,
+      "old": "/Game/Campus/PolishV02/Materials/M_Warm_Painted_Plaster.M_Warm_Painted_Plaster",
+      "new": "/Game/Campus/GroundFloorV03/Materials/M_GroundWarmPlaster.M_GroundWarmPlaster"
+    },
+    {
+      "actor": "Architecture_Ground_05_10",
+      "slot": 1,
+      "old": "/Game/Campus/PolishV02/Materials/M_Warm_Painted_Plaster.M_Warm_Painted_Plaster",
+      "new": "/Game/Campus/GroundFloorV03/Materials/M_GroundWarmPlaster.M_GroundWarmPlaster"
+    },
+    {
+      "actor": "Architecture_Ground_05_11",
+      "slot": 0,
+      "old": "/Game/Campus/PolishV02/Materials/M_Warm_Painted_Plaster.M_Warm_Painted_Plaster",
+      "new": "/Game/Campus/GroundFloorV03/Materials/M_GroundWarmPlaster.M_GroundWarmPlaster"
+    },
+    {
+      "actor": "Architecture_Ground_05_12",
+      "slot": 0,
+      "old": "/Game/Campus/PolishV02/Materials/M_Warm_Painted_Plaster.M_Warm_Painted_Plaster",
+      "new": "/Game/Campus/GroundFloorV03/Materials/M_GroundWarmPlaster.M_GroundWarmPlaster"
+    },
+    {
+      "actor": "Architecture_Ground_05_13",
+      "slot": 0,
+      "old": "/Game/Campus/PolishV02/Materials/M_Warm_Painted_Plaster.M_Warm_Painted_Plaster",
+      "new": "/Game/Campus/GroundFloorV03/Materials/M_GroundWarmPlaster.M_GroundWarmPlaster"
+    },
+    {
+      "actor": "Architecture_Ground_05_14",
+      "slot": 3,
+      "old": "/Game/Campus/PolishV02/Materials/M_Warm_Painted_Plaster.M_Warm_Painted_Plaster",
+      "new": "/Game/Campus/GroundFloorV03/Materials/M_GroundWarmPlaster.M_GroundWarmPlaster"
+    },
+    {
+      "actor": "Architecture_Ground_06_10",
+      "slot": 1,
+      "old": "/Game/Campus/PolishV02/Materials/M_Warm_Painted_Plaster.M_Warm_Painted_Plaster",
+      "new": "/Game/Campus/GroundFloorV03/Materials/M_GroundWarmPlaster.M_GroundWarmPlaster"
+    },
+    {
+      "actor": "Architecture_Ground_06_11",
+      "slot": 0,
+      "old": "/Game/Campus/PolishV02/Materials/M_Warm_Painted_Plaster.M_Warm_Painted_Plaster",
+      "new": "/Game/Campus/GroundFloorV03/Materials/M_GroundWarmPlaster.M_GroundWarmPlaster"
+    },
+    {
+      "actor": "Architecture_Ground_06_12",
+      "slot": 0,
+      "old": "/Game/Campus/PolishV02/Materials/M_Warm_Painted_Plaster.M_Warm_Painted_Plaster",
+      "new": "/Game/Campus/GroundFloorV03/Materials/M_GroundWarmPlaster.M_GroundWarmPlaster"
+    },
+    {
+      "actor": "Architecture_Ground_06_13",
+      "slot": 0,
+      "old": "/Game/Campus/PolishV02/Materials/M_Warm_Painted_Plaster.M_Warm_Painted_Plaster",
+      "new": "/Game/Campus/GroundFloorV03/Materials/M_GroundWarmPlaster.M_GroundWarmPlaster"
+    },
+    {
+      "actor": "Architecture_Ground_06_14",
+      "slot": 0,
+      "old": "/Game/Campus/PolishV02/Materials/M_Warm_Painted_Plaster.M_Warm_Painted_Plaster",
+      "new": "/Game/Campus/GroundFloorV03/Materials/M_GroundWarmPlaster.M_GroundWarmPlaster"
+    },
+    {
+      "actor": "Architecture_Ground_07_10",
+      "slot": 6,
+      "old": "/Game/Campus/PolishV02/Materials/M_Warm_Painted_Plaster.M_Warm_Painted_Plaster",
+      "new": "/Game/Campus/GroundFloorV03/Materials/M_GroundWarmPlaster.M_GroundWarmPlaster"
+    },
+    {
+      "actor": "Architecture_Ground_07_11",
+      "slot": 0,
+      "old": "/Game/Campus/PolishV02/Materials/M_Warm_Painted_Plaster.M_Warm_Painted_Plaster",
+      "new": "/Game/Campus/GroundFloorV03/Materials/M_GroundWarmPlaster.M_GroundWarmPlaster"
+    },
+    {
+      "actor": "Architecture_Ground_08_10",
+      "slot": 2,
+      "old": "/Game/Campus/PolishV02/Materials/M_Warm_Painted_Plaster.M_Warm_Painted_Plaster",
+      "new": "/Game/Campus/GroundFloorV03/Materials/M_GroundWarmPlaster.M_GroundWarmPlaster"
+    },
+    {
+      "actor": "Architecture_Ground_08_11",
+      "slot": 0,
+      "old": "/Game/Campus/PolishV02/Materials/M_Warm_Painted_Plaster.M_Warm_Painted_Plaster",
+      "new": "/Game/Campus/GroundFloorV03/Materials/M_GroundWarmPlaster.M_GroundWarmPlaster"
+    },
+    {
+      "actor": "Architecture_Ground_09_11",
+      "slot": 2,
+      "old": "/Game/Campus/PolishV02/Materials/M_Warm_Painted_Plaster.M_Warm_Painted_Plaster",
+      "new": "/Game/Campus/GroundFloorV03/Materials/M_GroundWarmPlaster.M_GroundWarmPlaster"
+    },
+    {
+      "actor": "Architecture_Ground_10_10",
+      "slot": 1,
+      "old": "/Game/Campus/PolishV02/Materials/M_Warm_Painted_Plaster.M_Warm_Painted_Plaster",
+      "new": "/Game/Campus/GroundFloorV03/Materials/M_GroundWarmPlaster.M_GroundWarmPlaster"
+    },
+    {
+      "actor": "Architecture_Ground_10_11",
+      "slot": 2,
+      "old": "/Game/Campus/PolishV02/Materials/M_Warm_Painted_Plaster.M_Warm_Painted_Plaster",
+      "new": "/Game/Campus/GroundFloorV03/Materials/M_GroundWarmPlaster.M_GroundWarmPlaster"
+    },
+    {
+      "actor": "Architecture_Ground_11_10",
+      "slot": 1,
+      "old": "/Game/Campus/PolishV02/Materials/M_Warm_Painted_Plaster.M_Warm_Painted_Plaster",
+      "new": "/Game/Campus/GroundFloorV03/Materials/M_GroundWarmPlaster.M_GroundWarmPlaster"
+    },
+    {
+      "actor": "Architecture_Ground_11_11",
+      "slot": 0,
+      "old": "/Game/Campus/PolishV02/Materials/M_Warm_Painted_Plaster.M_Warm_Painted_Plaster",
+      "new": "/Game/Campus/GroundFloorV03/Materials/M_GroundWarmPlaster.M_GroundWarmPlaster"
+    },
+    {
+      "actor": "Architecture_Ground_12_10",
+      "slot": 2,
+      "old": "/Game/Campus/PolishV02/Materials/M_Warm_Painted_Plaster.M_Warm_Painted_Plaster",
+      "new": "/Game/Campus/GroundFloorV03/Materials/M_GroundWarmPlaster.M_GroundWarmPlaster"
+    },
+    {
+      "actor": "ILab_Designed_Details",
+      "slot": 0,
+      "old": "/Game/Campus/ILabV05/ILab_Upgrade/Materials/ILab_EpoxyFloor.ILab_EpoxyFloor",
+      "new": "/Game/Campus/GroundFloorV03/Materials/M_LabEpoxy.M_LabEpoxy"
+    }
+  ],
+  "perimeter_extensions": [
+    "GF_CRI_EastPerimeter",
+    "GF_CRI_SouthPerimeter"
+  ]
+}

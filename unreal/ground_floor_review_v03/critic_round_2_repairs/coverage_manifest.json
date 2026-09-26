@@ -1,0 +1,387 @@
+{
+  "coordinate_system": "UE centimeters; source Blender meters transformed (x*100,-y*100,z*100)",
+  "coverage_status": "76 base views inspected; repaired 103/116; dark-room geometry reassessment required after lighting",
+  "excluded": {
+    "bridge_balcony": "Upper floor excluded, seen from ground only",
+    "room107": "Absent from A-101 schedule",
+    "fitness": "Upper floor: route eye elevation591.72cm"
+  },
+  "sources": [
+    "output_3d_v4/room_schedule.json",
+    "unreal_transfer/blender_inventory.json",
+    "unreal_transfer/exports/rooms.json",
+    "unreal_transfer/source/walkthrough_route.json"
+  ],
+  "zones": [
+    {
+      "name": "ENTRY VESTIBULE",
+      "id": "100",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "CAFE",
+      "id": "101",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "STUDENT COMMONS",
+      "id": "102",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "RECEPTION",
+      "id": "103",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "ADMISSIONS OFFICE",
+      "id": "104",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "CRI GALLERY",
+      "id": "105",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "CORRIDOR / DISPLAY HALL",
+      "id": "106",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "INNOVATION LAB",
+      "id": "108",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "STORAGE / IT / MECH",
+      "id": "109",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "CORRIDOR",
+      "id": "110",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "OFFICE",
+      "id": "111",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "ASPIRE CLASSROOM",
+      "id": "112",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "COLLABORATION ROOM",
+      "id": "113",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "VESTIBULE",
+      "id": "114",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "CORRIDOR",
+      "id": "115",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "WOMENS TOILET",
+      "id": "116",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "MENS TOILET",
+      "id": "117",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "JANITOR",
+      "id": "118",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "ATHLETICS STORAGE",
+      "id": "119",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "MECH / ELECTRICAL",
+      "id": "120",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "LOCKER ROOM",
+      "id": "121",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "LOCKER ROOM",
+      "id": "122",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "TROPHY HALL / CORRIDOR",
+      "id": "123",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "ATHLETICS OFFICE",
+      "id": "124",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "ATHLETICS OFFICE",
+      "id": "125",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "ATHLETICS OFFICE",
+      "id": "126",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "TRAINERS OFFICE",
+      "id": "127",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "TRAINERS STORAGE",
+      "id": "128",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "ATHLETICS TRAINERS",
+      "id": "129",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "CORRIDOR",
+      "id": "130",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    },
+    {
+      "name": "EXISTING GYM",
+      "id": "GYM",
+      "scope_note": "Ground floor A-101 schedule; furniture preserved. Proposed camera requires image validation."
+    }
+  ],
+  "required_zero_visible_errors": true,
+  "views": [
+    {
+      "zone": "109",
+      "name": "109_wide",
+      "rotation": [
+        -12,
+        180,
+        0
+      ],
+      "position": [
+        -1180,
+        -780,
+        165
+      ],
+      "fov": 90
+    },
+    {
+      "zone": "109",
+      "name": "109_detail",
+      "rotation": [
+        -25,
+        90,
+        0
+      ],
+      "position": [
+        -1300,
+        -780,
+        125
+      ],
+      "fov": 90
+    },
+    {
+      "zone": "111",
+      "name": "111_wide",
+      "rotation": [
+        -20,
+        140,
+        0
+      ],
+      "position": [
+        -1150,
+        -1350,
+        165
+      ],
+      "fov": 90
+    },
+    {
+      "zone": "111",
+      "name": "111_detail",
+      "rotation": [
+        -30,
+        110,
+        0
+      ],
+      "position": [
+        -1280,
+        -1360,
+        165
+      ],
+      "fov": 90
+    },
+    {
+      "zone": "118",
+      "name": "118_wide",
+      "rotation": [
+        -48,
+        85,
+        0
+      ],
+      "position": [
+        -4120,
+        -1280,
+        165
+      ],
+      "fov": 90
+    },
+    {
+      "zone": "118",
+      "name": "118_detail",
+      "rotation": [
+        -40,
+        130,
+        0
+      ],
+      "position": [
+        -4030,
+        -1250,
+        120
+      ],
+      "fov": 90
+    },
+    {
+      "zone": "119",
+      "name": "119_wide",
+      "rotation": [
+        -15,
+        180,
+        0
+      ],
+      "position": [
+        -4280,
+        -1480,
+        165
+      ],
+      "fov": 90
+    },
+    {
+      "zone": "119",
+      "name": "119_detail",
+      "rotation": [
+        -25,
+        90,
+        0
+      ],
+      "position": [
+        -4430,
+        -1470,
+        125
+      ],
+      "fov": 90
+    },
+    {
+      "zone": "120",
+      "name": "120_wide",
+      "rotation": [
+        -15,
+        140,
+        0
+      ],
+      "position": [
+        -4200,
+        -1120,
+        165
+      ],
+      "fov": 90
+    },
+    {
+      "zone": "124",
+      "name": "124_detail",
+      "rotation": [
+        -30,
+        -110,
+        0
+      ],
+      "position": [
+        -3280,
+        -3260,
+        165
+      ],
+      "fov": 90
+    },
+    {
+      "zone": "126",
+      "name": "126_detail",
+      "rotation": [
+        -30,
+        -110,
+        0
+      ],
+      "position": [
+        -3540,
+        -3260,
+        165
+      ],
+      "fov": 90
+    },
+    {
+      "zone": "127",
+      "name": "127_detail",
+      "rotation": [
+        -30,
+        -125,
+        0
+      ],
+      "position": [
+        -3800,
+        -3650,
+        165
+      ],
+      "fov": 90
+    },
+    {
+      "zone": "128",
+      "name": "128_wide",
+      "rotation": [
+        -15,
+        180,
+        0
+      ],
+      "position": [
+        -3740,
+        -3320,
+        165
+      ],
+      "fov": 90
+    },
+    {
+      "zone": "128",
+      "name": "128_detail",
+      "rotation": [
+        -25,
+        90,
+        0
+      ],
+      "position": [
+        -3850,
+        -3320,
+        125
+      ],
+      "fov": 90
+    }
+  ],
+  "review_rounds": 4,
+  "required_score": 8.5
+}
