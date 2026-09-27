@@ -1,3 +1,7 @@
+## Latest editable scene — September 27, 2026
+
+Current map: `/Game/Campus/Maps/CampusCenter_StandardAssets_v07`. Includes the latest landscape/grass, imported props and animated students, plus six additional laptops and six coffee cups, ten trophy decals enlarged 45%, and two three-row gym bleacher banks. [Change notes](prop_seating_v08/README.md) · [Screenshots](prop_seating_v08/review.html). Run `git lfs pull` after cloning, then `Edit_Commons_Dusk.cmd` to edit or `Launch_Unreal.cmd` to walk. The sections below describe previous revisions.
+
 # Campus Center — Unreal prototype
 
 ## Ground-floor review — September 25, 2026

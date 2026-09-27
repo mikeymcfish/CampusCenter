@@ -1,0 +1,82 @@
+[
+  {
+    "label": "DD_Trophy_05",
+    "factor": 1.45,
+    "base_before": 180.5,
+    "base_after": 180.5,
+    "height_cm": 86.99999999999997,
+    "width_cm": 69.00863647460938
+  },
+  {
+    "label": "DD_Trophy_06",
+    "factor": 1.45,
+    "base_before": 180.5,
+    "base_after": 180.5,
+    "height_cm": 84.09999999999997,
+    "width_cm": 57.51979370117169
+  },
+  {
+    "label": "DD_Trophy_07",
+    "factor": 1.45,
+    "base_before": 180.5,
+    "base_after": 180.5,
+    "height_cm": 104.39999999999998,
+    "width_cm": 43.04652099609393
+  },
+  {
+    "label": "DD_Trophy_08",
+    "factor": 1.45,
+    "base_before": 180.5,
+    "base_after": 180.5,
+    "height_cm": 98.59999999999997,
+    "width_cm": 41.668737792968386
+  },
+  {
+    "label": "DD_Trophy_09",
+    "factor": 1.45,
+    "base_before": 180.5,
+    "base_after": 180.5,
+    "height_cm": 100.04999999999998,
+    "width_cm": 44.2080078125
+  },
+  {
+    "label": "DD_Trophy_10",
+    "factor": 1.45,
+    "base_before": 180.5,
+    "base_after": 180.5,
+    "height_cm": 91.34999999999997,
+    "width_cm": 48.491455078125
+  },
+  {
+    "label": "DD_Trophy_11",
+    "factor": 1.45,
+    "base_before": 180.5,
+    "base_after": 180.50000000000006,
+    "height_cm": 73.94999999999999,
+    "width_cm": 61.92802734374982
+  },
+  {
+    "label": "DD_Trophy_12",
+    "factor": 1.45,
+    "base_before": 180.5,
+    "base_after": 180.50000000000006,
+    "height_cm": 95.69999999999999,
+    "width_cm": 43.917016601562864
+  },
+  {
+    "label": "DD_Trophy_13",
+    "factor": 1.45,
+    "base_before": 180.5,
+    "base_after": 180.5,
+    "height_cm": 78.29999999999998,
+    "width_cm": 33.473901367187864
+  },
+  {
+    "label": "DD_Trophy_14",
+    "factor": 1.45,
+    "base_before": 180.5,
+    "base_after": 180.5,
+    "height_cm": 78.29999999999998,
+    "width_cm": 34.5472412109375
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "map": "/Game/Campus/Maps/CampusCenter_StandardAssets_v07",
+  "saved": true,
+  "validation": {
+    "original_actors": 1269,
+    "current_actors": 1491,
+    "protected_original_actors": 1259,
+    "missing_or_changed_protected": [],
+    "unexpected_nonaddition": [],
+    "new_prop_parts": 24,
+    "bleacher_parts": 198
+  }
+}
