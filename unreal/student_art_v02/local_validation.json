@@ -1,0 +1,20 @@
+{
+  "status": "local_checks_passed_engine_not_run",
+  "artwork_count": 8,
+  "checks": [
+    "Python syntax: build_preview.py",
+    "Python syntax: apply_student_art.py",
+    "Python syntax: package_update.py",
+    "PNG dimensions/hash, mask bounds/gap, undistorted bounded sizing: marilyn_sommerville",
+    "PNG dimensions/hash, mask bounds/gap, undistorted bounded sizing: nina_griffith",
+    "PNG dimensions/hash, mask bounds/gap, undistorted bounded sizing: gates_seidelmann",
+    "PNG dimensions/hash, mask bounds/gap, undistorted bounded sizing: sophie_oconnor",
+    "PNG dimensions/hash, mask bounds/gap, undistorted bounded sizing: ellie_wayland",
+    "PNG dimensions/hash, mask bounds/gap, undistorted bounded sizing: nathan_trepanier",
+    "PNG dimensions/hash, mask bounds/gap, undistorted bounded sizing: lila_perkins",
+    "PNG dimensions/hash, mask bounds/gap, undistorted bounded sizing: sophie_oconnor_soup",
+    "Eight unique artworks and positions; all adjacent projection boxes separated by at least 10 cm"
+  ],
+  "visual_review": "New masked artworks and exact name labels inspected in browser; original four textures retained byte-for-byte.",
+  "unreal_validation": "NOT RUN \u2014 Unreal is not installed on this Mac."
+}

@@ -1,0 +1,14 @@
+{
+  "status": "local_checks_passed_engine_not_run",
+  "checks": [
+    "Syntax: build_preview.py",
+    "Syntax: apply_student_art.py",
+    "PNG dimensions, checksum and mask rectangles: Marilyn Sommerville",
+    "PNG dimensions, checksum and mask rectangles: Nina Griffith",
+    "PNG dimensions, checksum and mask rectangles: Gates Seidelmann",
+    "PNG dimensions, checksum and mask rectangles: Sophie O\u2019Connor",
+    "No projected canvas overlap at proposed centers"
+  ],
+  "visual_review": "All four masked artworks and exact name labels reviewed in browser. No background halo visible.",
+  "unreal_validation": "NOT RUN \u2014 Unreal is not installed on this Mac."
+}

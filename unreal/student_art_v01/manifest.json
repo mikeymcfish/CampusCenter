@@ -1,0 +1,118 @@
+{
+  "version": 1,
+  "source_map": "/Game/Campus/Maps/CampusCenter_Dusk_ArchitectFinishes_v03",
+  "target_map": "/Game/Campus/Maps/CampusCenter_StudentArt_v01",
+  "asset_root": "/Game/Campus/StudentArtV01",
+  "reference_archive": "https://king-student-art-references.king-school-3694.chatgpt.site/",
+  "artworks": [
+    {
+      "id": "marilyn_sommerville",
+      "student": "Marilyn Sommerville",
+      "title": "The Heart of a Hero",
+      "texture": "textures/marilyn_sommerville.png",
+      "size_px": [
+        1024,
+        1536
+      ],
+      "art_rect_px": [
+        94,
+        60,
+        932,
+        1336
+      ],
+      "label_rect_px": [
+        311,
+        1377,
+        712,
+        1437
+      ],
+      "source_image": "https://king-student-art-references.king-school-3694.chatgpt.site/photos/marilyn-0.jpg",
+      "sha256": "ba9d8d0b030e753c46ce362d79b60ae9a7ea24d0d570d5f73a606a771734507b",
+      "adaptation": "Imagegen reference-derived adaptation; not a pixel-exact scan. Name label added."
+    },
+    {
+      "id": "nina_griffith",
+      "student": "Nina Griffith",
+      "title": "Waiting in the Shade",
+      "texture": "textures/nina_griffith.png",
+      "size_px": [
+        1145,
+        1374
+      ],
+      "art_rect_px": [
+        172,
+        32,
+        974,
+        1180
+      ],
+      "label_rect_px": [
+        391,
+        1233,
+        753,
+        1330
+      ],
+      "source_image": "https://king-student-art-references.king-school-3694.chatgpt.site/photos/additional-1.jpg",
+      "sha256": "db724a24faae3c2e9bbc9f5ccc361d11ac60eb78ff456bcd92cab48606e6a8da",
+      "adaptation": "Imagegen reference-derived adaptation; not a pixel-exact scan. Name label added."
+    },
+    {
+      "id": "gates_seidelmann",
+      "student": "Gates Seidelmann",
+      "title": "Plein Air in Chalk Pastel",
+      "texture": "textures/gates_seidelmann.png",
+      "size_px": [
+        1086,
+        1448
+      ],
+      "art_rect_px": [
+        94,
+        43,
+        996,
+        1312
+      ],
+      "label_rect_px": [
+        352,
+        1344,
+        734,
+        1403
+      ],
+      "source_image": "https://king-student-art-references.king-school-3694.chatgpt.site/photos/additional-4.jpg",
+      "sha256": "ac9007788e123487f34f57257d11f3ed692703ff37319af8b60c734f803ab6f5",
+      "adaptation": "Imagegen reference-derived adaptation; not a pixel-exact scan. Name label added."
+    },
+    {
+      "id": "sophie_oconnor",
+      "student": "Sophie O’Connor",
+      "title": "Final project — acrylic graphic composition",
+      "texture": "textures/sophie_oconnor.png",
+      "size_px": [
+        1230,
+        1278
+      ],
+      "art_rect_px": [
+        87,
+        86,
+        1142,
+        1093
+      ],
+      "label_rect_px": [
+        387,
+        1138,
+        842,
+        1229
+      ],
+      "source_image": "https://king-student-art-references.king-school-3694.chatgpt.site/photos/sophie-9.jpg",
+      "sha256": "a4a3ece8c168dbef4f0227555c14d43d6d39d2ab54bdce7bc1b077a9e03528f3",
+      "adaptation": "Imagegen reference-derived adaptation; not a pixel-exact scan. Name label added."
+    }
+  ],
+  "hallway_x_cm": [
+    -600,
+    -750,
+    -900,
+    -1050
+  ],
+  "center_z_cm": 175,
+  "canvas_height_cm": 110,
+  "placement_basis": "Hallway alongside gym: existing Blender gallery used y=16.045 m; Unreal Y is negated. Runtime requires five collision hits per decal on matching vertical wall before saving."
+}

@@ -1,0 +1,223 @@
+{
+  "version": 2,
+  "source_map": "/Game/Campus/Maps/CampusCenter_Dusk_ArchitectFinishes_v03",
+  "target_map": "/Game/Campus/Maps/CampusCenter_StudentArt_v02",
+  "asset_root": "/Game/Campus/StudentArtV02",
+  "reference_archive": "https://king-student-art-references.king-school-3694.chatgpt.site/",
+  "artworks": [
+    {
+      "id": "marilyn_sommerville",
+      "student": "Marilyn Sommerville",
+      "title": "The Heart of a Hero",
+      "texture": "textures/marilyn_sommerville.png",
+      "size_px": [
+        1024,
+        1536
+      ],
+      "art_rect_px": [
+        94,
+        60,
+        932,
+        1336
+      ],
+      "label_rect_px": [
+        311,
+        1377,
+        712,
+        1437
+      ],
+      "source_image": "https://king-student-art-references.king-school-3694.chatgpt.site/photos/marilyn-0.jpg",
+      "sha256": "ba9d8d0b030e753c46ce362d79b60ae9a7ea24d0d570d5f73a606a771734507b",
+      "adaptation": "Imagegen reference-derived adaptation; not a pixel-exact scan. Name label added."
+    },
+    {
+      "id": "nina_griffith",
+      "student": "Nina Griffith",
+      "title": "Waiting in the Shade",
+      "texture": "textures/nina_griffith.png",
+      "size_px": [
+        1145,
+        1374
+      ],
+      "art_rect_px": [
+        172,
+        32,
+        974,
+        1180
+      ],
+      "label_rect_px": [
+        391,
+        1233,
+        753,
+        1330
+      ],
+      "source_image": "https://king-student-art-references.king-school-3694.chatgpt.site/photos/additional-1.jpg",
+      "sha256": "db724a24faae3c2e9bbc9f5ccc361d11ac60eb78ff456bcd92cab48606e6a8da",
+      "adaptation": "Imagegen reference-derived adaptation; not a pixel-exact scan. Name label added."
+    },
+    {
+      "id": "gates_seidelmann",
+      "student": "Gates Seidelmann",
+      "title": "Plein Air in Chalk Pastel",
+      "texture": "textures/gates_seidelmann.png",
+      "size_px": [
+        1086,
+        1448
+      ],
+      "art_rect_px": [
+        94,
+        43,
+        996,
+        1312
+      ],
+      "label_rect_px": [
+        352,
+        1344,
+        734,
+        1403
+      ],
+      "source_image": "https://king-student-art-references.king-school-3694.chatgpt.site/photos/additional-4.jpg",
+      "sha256": "ac9007788e123487f34f57257d11f3ed692703ff37319af8b60c734f803ab6f5",
+      "adaptation": "Imagegen reference-derived adaptation; not a pixel-exact scan. Name label added."
+    },
+    {
+      "id": "sophie_oconnor",
+      "student": "Sophie O’Connor",
+      "title": "Final project — acrylic graphic composition",
+      "texture": "textures/sophie_oconnor.png",
+      "size_px": [
+        1230,
+        1278
+      ],
+      "art_rect_px": [
+        87,
+        86,
+        1142,
+        1093
+      ],
+      "label_rect_px": [
+        387,
+        1138,
+        842,
+        1229
+      ],
+      "source_image": "https://king-student-art-references.king-school-3694.chatgpt.site/photos/sophie-9.jpg",
+      "sha256": "a4a3ece8c168dbef4f0227555c14d43d6d39d2ab54bdce7bc1b077a9e03528f3",
+      "adaptation": "Imagegen reference-derived adaptation; not a pixel-exact scan. Name label added."
+    },
+    {
+      "id": "ellie_wayland",
+      "student": "Ellie Wayland",
+      "title": "Cityscape",
+      "texture": "textures/ellie_wayland.png",
+      "size_px": [
+        1774,
+        887
+      ],
+      "art_rect_px": [
+        47,
+        48,
+        1728,
+        767
+      ],
+      "label_rect_px": [
+        744,
+        788,
+        1030,
+        851
+      ],
+      "source_image": "https://king-student-art-references.king-school-3694.chatgpt.site/photos/king-students-recognized-for-artistic-excellence-0.jpg",
+      "sha256": "da02e48208e1a0c82490cc242ef19c61a10f51eb32f97bf6216eae7272f0a314",
+      "adaptation": "Imagegen reference-derived adaptation; not a pixel-exact scan. Name label added."
+    },
+    {
+      "id": "nathan_trepanier",
+      "student": "Nathan Trepanier",
+      "title": "Shockwave — character illustration",
+      "texture": "textures/nathan_trepanier.png",
+      "size_px": [
+        1536,
+        1024
+      ],
+      "art_rect_px": [
+        356,
+        40,
+        1180,
+        897
+      ],
+      "label_rect_px": [
+        587,
+        925,
+        950,
+        978
+      ],
+      "source_image": "https://king-student-art-references.king-school-3694.chatgpt.site/photos/recent-2.jpg",
+      "sha256": "fc395763f54408dd3b7bb239b9f4568be2936a1e70fdea306a1374e99b5b72cb",
+      "adaptation": "Imagegen reference-derived adaptation; not a pixel-exact scan. Name label added."
+    },
+    {
+      "id": "lila_perkins",
+      "student": "Lila Perkins",
+      "title": "Blue-jeans pastel (descriptive title)",
+      "texture": "textures/lila_perkins.png",
+      "size_px": [
+        1024,
+        1536
+      ],
+      "art_rect_px": [
+        98,
+        42,
+        930,
+        1315
+      ],
+      "label_rect_px": [
+        326,
+        1366,
+        698,
+        1450
+      ],
+      "source_image": "https://king-student-art-references.king-school-3694.chatgpt.site/photos/recent-4.png",
+      "sha256": "b1bc11dbd6d0241086a9bd2f23f4c005d89ab2f021ac0e806f1c529075d9538b",
+      "adaptation": "Imagegen reference-derived adaptation; not a pixel-exact scan. Name label added. Obscured denim behind the student’s hand/arm reconstructed."
+    },
+    {
+      "id": "sophie_oconnor_soup",
+      "student": "Sophie O’Connor",
+      "title": "Color theory — painted soup-can composition",
+      "texture": "textures/sophie_oconnor_soup.png",
+      "size_px": [
+        988,
+        1592
+      ],
+      "art_rect_px": [
+        53,
+        69,
+        935,
+        1450
+      ],
+      "label_rect_px": [
+        347,
+        1479,
+        644,
+        1537
+      ],
+      "source_image": "https://king-student-art-references.king-school-3694.chatgpt.site/photos/sophie-4.jpg",
+      "sha256": "037eb757c6d4259ca9724eb0a125e860992099402628d20d546ed2123cd25783",
+      "adaptation": "Imagegen reference-derived adaptation; not a pixel-exact scan. Name label added."
+    }
+  ],
+  "hallway_x_cm": [
+    -600,
+    -750,
+    -900,
+    -1050,
+    -1200,
+    -1350,
+    -1500,
+    -1650
+  ],
+  "center_z_cm": 175,
+  "canvas_height_cm": 110,
+  "placement_basis": "Hallway alongside gym: existing Blender gallery used y=16.045 m; Unreal Y is negated. Runtime requires five collision hits per decal on matching vertical wall before saving.",
+  "max_canvas_width_cm": 140
+}
