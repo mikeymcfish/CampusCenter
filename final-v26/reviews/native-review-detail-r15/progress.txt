@@ -1,0 +1,15 @@
+1790831733.5313392 START
+1790831735.4520664 LOADED /Game/Campus/Maps/CampusCenter_R25_R15
+1790831758.6546285 CAMERA GallerySofa
+1790831765.6664145 SHOT C:\Users\mikef\Documents\Codex\2026-09-30\task\CampusCenter-new-plans\downstream\furniture_art_v26_r01\native-review-detail-r15\before_GallerySofa.png
+1790831772.6511428 VERIFIED_BYTES 1402642
+1790831774.6504421 CAMERA LockerSouth
+1790831781.6548243 SHOT C:\Users\mikef\Documents\Codex\2026-09-30\task\CampusCenter-new-plans\downstream\furniture_art_v26_r01\native-review-detail-r15\before_LockerSouth.png
+1790831788.6542022 VERIFIED_BYTES 956727
+1790831791.7891014 LOADED /Game/Campus/Maps/CampusCenter_FA26_Desktop_R15
+1790831815.6565125 CAMERA GallerySofa
+1790831822.6526191 SHOT C:\Users\mikef\Documents\Codex\2026-09-30\task\CampusCenter-new-plans\downstream\furniture_art_v26_r01\native-review-detail-r15\after_GallerySofa.png
+1790831829.6492505 VERIFIED_BYTES 1501040
+1790831831.6558616 CAMERA LockerSouth
+1790831838.6520574 SHOT C:\Users\mikef\Documents\Codex\2026-09-30\task\CampusCenter-new-plans\downstream\furniture_art_v26_r01\native-review-detail-r15\after_LockerSouth.png
+1790831845.6507123 VERIFIED_BYTES 1140812

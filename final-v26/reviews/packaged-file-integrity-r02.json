@@ -1,0 +1,42 @@
+{
+  "build": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task\\CampusCenter-new-plans\\downstream\\desktop_furniture_v26_r01\\review_build_enhancement_r02\\Windows",
+  "map": "/Game/Campus/Maps/CampusCenter_FA26_Desktop_R15",
+  "source_map_sha256": "1e08b622c15957f22a74ebd4f8c452e65472e4e6c609f0023897ac2b835082e9",
+  "files": [
+    {
+      "file": "CampusCenter/Binaries/Win64/CampusCenter.exe",
+      "bytes": 351342080,
+      "sha256": "c1d1e88dfa532e4d3751d6b10a0373e68f0c97b3899f1441233e959b2dbd3425"
+    },
+    {
+      "file": "CampusCenter.exe",
+      "bytes": 171520,
+      "sha256": "6806c335d6f2884b75cda84cfb7da70a24b78d790ab73af784e35ca6b5dd9eab"
+    },
+    {
+      "file": "CampusCenter/Content/Paks/CampusCenter-Windows.pak",
+      "bytes": 11660923,
+      "sha256": "13a84625be19d3319fc6f7e01e5c5a9cec42336d639d72fbe5d523e166c7a700"
+    },
+    {
+      "file": "CampusCenter/Content/Paks/CampusCenter-Windows.ucas",
+      "bytes": 4685182656,
+      "sha256": "76774f54dd358d1da4b1c12fed4d16ea405ca4565e1c8e4f5d9f75508d665525"
+    },
+    {
+      "file": "CampusCenter/Content/Paks/CampusCenter-Windows.utoc",
+      "bytes": 2493595,
+      "sha256": "b0c7d2882d71de282168aadc52414793ee6418157818f0ec79ba73fd8219fff3"
+    },
+    {
+      "file": "CampusCenter/Content/Paks/global.ucas",
+      "bytes": 3787936,
+      "sha256": "51eae22da3a092b2daf02a0613d88f2809ef605a7331c6ecf1f17f00216f944c"
+    },
+    {
+      "file": "CampusCenter/Content/Paks/global.utoc",
+      "bytes": 890,
+      "sha256": "49dc952bc12623dec505cb1339f3943fa22a81ad81944f26c51e078c5933f3d8"
+    }
+  ]
+}

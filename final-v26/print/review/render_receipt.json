@@ -1,0 +1,154 @@
+{
+  "blender": "5.0.0",
+  "views": [
+    {
+      "image": "ground_furniture_overview.png",
+      "objects": [
+        "Ground_Furnished"
+      ],
+      "target_m": [
+        0.3857499957084656,
+        0.28700003027915955,
+        0.026784000918269157
+      ],
+      "orthographic_width_m": 0.9374400973320007
+    },
+    {
+      "image": "ground_furniture_top.png",
+      "objects": [
+        "Ground_Furnished"
+      ],
+      "target_m": [
+        0.3857499957084656,
+        0.28700003027915955,
+        0.026784000918269157
+      ],
+      "orthographic_width_m": 0.9374400973320007
+    },
+    {
+      "image": "upper_furniture_overview.png",
+      "objects": [
+        "Upper_Enclosed"
+      ],
+      "target_m": [
+        0.39897850155830383,
+        0.28811702132225037,
+        0.026784000918269157
+      ],
+      "orthographic_width_m": 0.942086935043335
+    },
+    {
+      "image": "upper_furniture_top.png",
+      "objects": [
+        "Upper_Enclosed"
+      ],
+      "target_m": [
+        0.39897850155830383,
+        0.28811702132225037,
+        0.026784000918269157
+      ],
+      "orthographic_width_m": 0.942086935043335
+    },
+    {
+      "image": "bleachers.png",
+      "objects": [
+        "Ground_Furnished"
+      ],
+      "target_m": [
+        0.26404911279678345,
+        0.4584132134914398,
+        0.014628571458160877
+      ],
+      "orthographic_width_m": 0.20000000298023224
+    },
+    {
+      "image": "locker_benches.png",
+      "objects": [
+        "Ground_Furnished"
+      ],
+      "target_m": [
+        0.09019548445940018,
+        0.2275313138961792,
+        0.007428571581840515
+      ],
+      "orthographic_width_m": 0.14000000059604645
+    },
+    {
+      "image": "trainer.png",
+      "objects": [
+        "Ground_Furnished"
+      ],
+      "target_m": [
+        0.0371808297932148,
+        0.4663393497467041,
+        0.009257142432034016
+      ],
+      "orthographic_width_m": 0.15000000596046448
+    },
+    {
+      "image": "fitness_connected_overview.png",
+      "objects": [
+        "Upper_Enclosed"
+      ],
+      "target_m": [
+        0.14150455594062805,
+        0.3053738474845886,
+        0.015794284641742706
+      ],
+      "orthographic_width_m": 0.25
+    },
+    {
+      "image": "supported_rack_detail.png",
+      "objects": [
+        "Upper_Enclosed"
+      ],
+      "target_m": [
+        0.12715676426887512,
+        0.3434327244758606,
+        0.012537148781120777
+      ],
+      "orthographic_width_m": 0.07500000298023224
+    },
+    {
+      "image": "standalone_bench_detail.png",
+      "objects": [
+        "Upper_Enclosed"
+      ],
+      "target_m": [
+        0.20691776275634766,
+        0.30192580819129944,
+        0.007664003875106573
+      ],
+      "orthographic_width_m": 0.07500000298023224
+    },
+    {
+      "image": "miniature_assembled.png",
+      "objects": [
+        "Stack_Ground",
+        "Stack_Upper",
+        "Stack_Roof"
+      ],
+      "target_m": [
+        0.09962500631809235,
+        0.07212500274181366,
+        0.014962715096771717
+      ],
+      "orthographic_width_m": 0.33000001311302185
+    },
+    {
+      "image": "miniature_separated.png",
+      "objects": [
+        "Stack_Ground",
+        "Stack_Upper",
+        "Stack_Roof"
+      ],
+      "target_m": [
+        0.09962500631809235,
+        0.07212500274181366,
+        0.049962714314460754
+      ],
+      "orthographic_width_m": 0.3799999952316284
+    }
+  ],
+  "geometry_source": "actual exported print STLs; no further geometry edits"
+}

@@ -1,0 +1,20 @@
+{
+  "cook_exit": 0,
+  "stage_exit": 0,
+  "normal_smoke_exit": 0,
+  "nonprofiling_smoke_exit": 0,
+  "profiling_capture_exit": 777003,
+  "inspected_packaged_views": [
+    "Commons",
+    "GallerySofa",
+    "Fitness",
+    "Gym",
+    "iLab",
+    "Trainer"
+  ],
+  "art_followup_camera": "obstructed wall; not delivered as evidence",
+  "map_sha256": "1e08b622c15957f22a74ebd4f8c452e65472e4e6c609f0023897ac2b835082e9",
+  "release_manifest_sha256": "a311ac1bcecff89ff5e661a244c2d05441112023f095830e851de3a8973c241f",
+  "build": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task\\CampusCenter-new-plans\\downstream\\desktop_furniture_v26_r01\\review_build_enhancement_r02\\Windows",
+  "launcher": "Start_Enhanced_CampusCenter.cmd"
+}

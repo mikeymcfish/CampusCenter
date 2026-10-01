@@ -1,0 +1,737 @@
+{
+  "status": "passed",
+  "source_sha256_after": "3013db5f7f8171b403bd5fac8561c84e24591875aa049683f950c3ee4e19e56e",
+  "source_unchanged": true,
+  "stl_files": [
+    {
+      "file": "ground_furnished\\Ground_Furnished.stl",
+      "sha256": "697e36590992878c9215c1f4a98610ab3ac808dc4fb849a3b925a732bcd15607",
+      "watertight": true,
+      "normals_consistent": true,
+      "zero_area_faces": 0,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        736.5,
+        558.0,
+        53.56800079345703
+      ],
+      "bed_fit": false
+    },
+    {
+      "file": "ground_furnished\\print_tiles\\Ground_Furnished_A1.stl",
+      "sha256": "1bde29bd2b2cbf5c5ec54fb32d5acbc05308047c913a754c98097a9a0bafc563",
+      "watertight": true,
+      "normals_consistent": true,
+      "zero_area_faces": 0,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        245.5,
+        190.0,
+        53.56800079345703
+      ],
+      "bed_fit": true
+    },
+    {
+      "file": "ground_furnished\\print_tiles\\Ground_Furnished_A2.stl",
+      "sha256": "90063fa52f2b50cbdc74ececf0c944a733be592a4af672e4cc7f1cfb822fb3af",
+      "watertight": true,
+      "normals_consistent": true,
+      "zero_area_faces": 0,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        245.5,
+        279.0,
+        53.56800079345703
+      ],
+      "bed_fit": true
+    },
+    {
+      "file": "ground_furnished\\print_tiles\\Ground_Furnished_A3.stl",
+      "sha256": "fb3ee28b788b9bcd8c63f495e034e361a3f6019ea7ebc63a0bbb057bd6f43bbb",
+      "watertight": true,
+      "normals_consistent": true,
+      "zero_area_faces": 0,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        245.5,
+        263.0,
+        53.56800079345703
+      ],
+      "bed_fit": true
+    },
+    {
+      "file": "ground_furnished\\print_tiles\\Ground_Furnished_B1_1.stl",
+      "sha256": "bcb22ccff236b77a005974be8c21d90e2a9fa4d1270f6f6391356f30f1f07fce",
+      "watertight": true,
+      "normals_consistent": true,
+      "zero_area_faces": 0,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        224.5,
+        191.5,
+        53.56800079345703
+      ],
+      "bed_fit": true
+    },
+    {
+      "file": "ground_furnished\\print_tiles\\Ground_Furnished_B1_2.stl",
+      "sha256": "4388e40ce588f28da87d73c86f6429fe4cd544a15a0c7e67ec5622e5817fd044",
+      "watertight": true,
+      "normals_consistent": true,
+      "zero_area_faces": 0,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        19.5,
+        279.0,
+        53.56800079345703
+      ],
+      "bed_fit": true
+    },
+    {
+      "file": "ground_furnished\\print_tiles\\Ground_Furnished_B2.stl",
+      "sha256": "7b481eb7f81fac20d9718da68500bf4e61743ce4a5a5d4ebeb57d299d8a41a77",
+      "watertight": true,
+      "normals_consistent": true,
+      "zero_area_faces": 0,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        245.5,
+        279.0,
+        53.56800079345703
+      ],
+      "bed_fit": true
+    },
+    {
+      "file": "ground_furnished\\print_tiles\\Ground_Furnished_B3_1.stl",
+      "sha256": "39bfca40afc99db4cdf9188d8a449c392d37457da88b5ea2955c5924cc006108",
+      "watertight": true,
+      "normals_consistent": true,
+      "zero_area_faces": 0,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        188.0,
+        93.5,
+        53.56800079345703
+      ],
+      "bed_fit": true
+    },
+    {
+      "file": "ground_furnished\\print_tiles\\Ground_Furnished_B3_2.stl",
+      "sha256": "8181e155549358e6153eb7a57438adecc3ba2139e6bb97736f98515ac7a32eaf",
+      "watertight": true,
+      "normals_consistent": true,
+      "zero_area_faces": 0,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        27.0,
+        279.0,
+        53.56800079345703
+      ],
+      "bed_fit": true
+    },
+    {
+      "file": "ground_enclosed\\Ground_Enclosed.stl",
+      "sha256": "970ab0f8cecd275141d48cc592cf499c7c57443627e24d3fe4ef6e7c5c1f1832",
+      "watertight": true,
+      "normals_consistent": true,
+      "zero_area_faces": 0,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        736.5,
+        558.0,
+        53.56800079345703
+      ],
+      "bed_fit": false
+    },
+    {
+      "file": "ground_enclosed\\print_tiles\\Ground_Enclosed_A1.stl",
+      "sha256": "fedfd0299aad337de7e5c90556ce36062f9ce56610ce3898ffa20cab72349b43",
+      "watertight": true,
+      "normals_consistent": true,
+      "zero_area_faces": 0,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        245.5,
+        190.0,
+        53.56800079345703
+      ],
+      "bed_fit": true
+    },
+    {
+      "file": "ground_enclosed\\print_tiles\\Ground_Enclosed_A2.stl",
+      "sha256": "9f134fcb5edf317825faa17fcb2903e605db683d01ba22f54e9d75ea7f882095",
+      "watertight": true,
+      "normals_consistent": true,
+      "zero_area_faces": 0,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        245.5,
+        279.0,
+        53.56800079345703
+      ],
+      "bed_fit": true
+    },
+    {
+      "file": "ground_enclosed\\print_tiles\\Ground_Enclosed_A3.stl",
+      "sha256": "39fcc01d2fe12ae8b6ecab4719240e88da170c1e1aca55ad442d8d71c65b6789",
+      "watertight": true,
+      "normals_consistent": true,
+      "zero_area_faces": 0,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        245.5,
+        263.0,
+        53.56800079345703
+      ],
+      "bed_fit": true
+    },
+    {
+      "file": "ground_enclosed\\print_tiles\\Ground_Enclosed_B1.stl",
+      "sha256": "57f30151d6725dbfb0c25df29ef3d8dabae22da31c71f6735cc474f306c18689",
+      "watertight": true,
+      "normals_consistent": true,
+      "zero_area_faces": 0,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        245.5,
+        279.0,
+        53.56800079345703
+      ],
+      "bed_fit": true
+    },
+    {
+      "file": "ground_enclosed\\print_tiles\\Ground_Enclosed_B2.stl",
+      "sha256": "547df731d56ee58bf1545c74f4b2a77ed917cd935e9e511f2c4df5b1d5b5e4d0",
+      "watertight": true,
+      "normals_consistent": true,
+      "zero_area_faces": 0,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        245.5,
+        279.0,
+        53.56800079345703
+      ],
+      "bed_fit": true
+    },
+    {
+      "file": "ground_enclosed\\print_tiles\\Ground_Enclosed_B3.stl",
+      "sha256": "63512c44d7c23d0d7c51d81f663b729a2deffbf3322130e79e24dad61c6048cd",
+      "watertight": true,
+      "normals_consistent": true,
+      "zero_area_faces": 0,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        216.5,
+        279.0,
+        53.56800079345703
+      ],
+      "bed_fit": true
+    },
+    {
+      "file": "ground_acrylic\\Ground_Acrylic.stl",
+      "sha256": "eed8d9159f3b9f9fb4ccee0904b8c72a10a6d29b1b31fe42c5a1949badef0510",
+      "watertight": true,
+      "normals_consistent": true,
+      "zero_area_faces": 0,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        739.2730102539062,
+        558.0,
+        53.56800079345703
+      ],
+      "bed_fit": false
+    },
+    {
+      "file": "ground_acrylic\\print_tiles\\Ground_Acrylic_A1.stl",
+      "sha256": "fc8125fa240896de51000d9f541fa6035265ea14214bd7a7757b8bfd06f42f1a",
+      "watertight": true,
+      "normals_consistent": true,
+      "zero_area_faces": 0,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        246.42440795898438,
+        192.7949981689453,
+        53.56800079345703
+      ],
+      "bed_fit": true
+    },
+    {
+      "file": "ground_acrylic\\print_tiles\\Ground_Acrylic_A2.stl",
+      "sha256": "644d1c85d855ba3c7682bcee6b2136b828e8635f9f5eaa51062efd7175522cd9",
+      "watertight": true,
+      "normals_consistent": true,
+      "zero_area_faces": 0,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        246.4244384765625,
+        279.0,
+        53.56800079345703
+      ],
+      "bed_fit": true
+    },
+    {
+      "file": "ground_acrylic\\print_tiles\\Ground_Acrylic_A3.stl",
+      "sha256": "18170d012d8b12af2f968ea05446913de536b118429b3ec75af2172dce39596d",
+      "watertight": true,
+      "normals_consistent": true,
+      "zero_area_faces": 0,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        246.42416381835938,
+        265.7460021972656,
+        53.56800079345703
+      ],
+      "bed_fit": true
+    },
+    {
+      "file": "ground_acrylic\\print_tiles\\Ground_Acrylic_B1.stl",
+      "sha256": "20d784bf68b9347162e3845e1c95a88aeb1efdb967cbac91bb6ab7641d20b2d4",
+      "watertight": true,
+      "normals_consistent": true,
+      "zero_area_faces": 0,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        246.42440795898438,
+        279.0,
+        53.56800079345703
+      ],
+      "bed_fit": true
+    },
+    {
+      "file": "ground_acrylic\\print_tiles\\Ground_Acrylic_B2.stl",
+      "sha256": "e5032e376bb9b547dbd38d596b0584fd756a26eba35bf7c5b8a681d44ad38553",
+      "watertight": true,
+      "normals_consistent": true,
+      "zero_area_faces": 0,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        246.4244384765625,
+        279.0,
+        53.56800079345703
+      ],
+      "bed_fit": true
+    },
+    {
+      "file": "ground_acrylic\\print_tiles\\Ground_Acrylic_B3.stl",
+      "sha256": "ed758e652bb8cfdf9fecaf170fcf58a5e7b4f09c3fe853fa201bbb0fd03cb6c6",
+      "watertight": true,
+      "normals_consistent": true,
+      "zero_area_faces": 0,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        217.24417114257812,
+        279.0,
+        53.56800079345703
+      ],
+      "bed_fit": true
+    },
+    {
+      "file": "upper_enclosed\\Upper_Enclosed.stl",
+      "sha256": "53944a82218429c79bca63d4ed129fa5cc5ee3af6ec4027e8520f6fd7bc8362a",
+      "watertight": true,
+      "normals_consistent": true,
+      "zero_area_faces": 0,
+      "components": 4,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        768.9569702148438,
+        560.7659997940063,
+        53.56800079345703
+      ],
+      "bed_fit": false
+    },
+    {
+      "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_A1.stl",
+      "sha256": "a248bef059f23e0cb30b8206a54d1efea36ba0f5678ff3f3dd1d87154574240d",
+      "watertight": true,
+      "normals_consistent": true,
+      "zero_area_faces": 0,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        256.3190002441406,
+        188.11700439453125,
+        53.56800079345703
+      ],
+      "bed_fit": true
+    },
+    {
+      "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_A2.stl",
+      "sha256": "7bd626301fb49166fd54e34ee387f74c8b638367b48b369e09c2ed990e858078",
+      "watertight": true,
+      "normals_consistent": true,
+      "zero_area_faces": 0,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        256.3190002441406,
+        191.0,
+        53.56800079345703
+      ],
+      "bed_fit": true
+    },
+    {
+      "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_A3_1.stl",
+      "sha256": "13cc47c2f494ef915786614c386b8af9d4600eb8bee947b56db4d4ee6d360b99",
+      "watertight": true,
+      "normals_consistent": true,
+      "zero_area_faces": 0,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        256.3189697265625,
+        280.38299560546875,
+        53.56800079345703
+      ],
+      "bed_fit": true
+    },
+    {
+      "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_A3_2.stl",
+      "sha256": "7b2eb4b6ac2887fd4c9a606fd7a1f975c7838aae66e57b87df3bcaf70e3a7055",
+      "watertight": true,
+      "normals_consistent": true,
+      "zero_area_faces": 0,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        1.5,
+        27.0,
+        17.06399917602539
+      ],
+      "bed_fit": true
+    },
+    {
+      "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_B1.stl",
+      "sha256": "359dd9d89e65fdb6db32da3b44ad314682e54f4067d33d8c0508b0a5df6a123d",
+      "watertight": true,
+      "normals_consistent": true,
+      "zero_area_faces": 0,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        256.3190002441406,
+        280.38299560546875,
+        53.56800079345703
+      ],
+      "bed_fit": true
+    },
+    {
+      "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_B2.stl",
+      "sha256": "6b6f7d0cd11c6d0901b3f9bf128f997df37c9283d2c39cb7b4d6f90c0d93f153",
+      "watertight": true,
+      "normals_consistent": true,
+      "zero_area_faces": 0,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        256.3190002441406,
+        4.5,
+        53.56800079345703
+      ],
+      "bed_fit": true
+    },
+    {
+      "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_B3_1.stl",
+      "sha256": "b153b604ad23f2742451ca3c8d0326ddd163b2f3fdff51e49903facd8a133541",
+      "watertight": true,
+      "normals_consistent": true,
+      "zero_area_faces": 0,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        200.2919921875,
+        280.38299560546875,
+        53.56800079345703
+      ],
+      "bed_fit": true
+    },
+    {
+      "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_B3_2.stl",
+      "sha256": "d8b3b9a2b5c11848bd5078065a1e013027083ae1ef688c320f2d1dc1f56f3a4d",
+      "watertight": true,
+      "normals_consistent": true,
+      "zero_area_faces": 0,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        33.0,
+        11.0,
+        52.03200149536133
+      ],
+      "bed_fit": true
+    },
+    {
+      "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_B3_3.stl",
+      "sha256": "803e48d7d60e026c242d75a6cc715fd3a38c9de707cbfc024e90a043c5e82d25",
+      "watertight": true,
+      "normals_consistent": true,
+      "zero_area_faces": 0,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        23.0,
+        1.5,
+        17.152000427246094
+      ],
+      "bed_fit": true
+    },
+    {
+      "file": "stacked_1_350\\Stack_Ground.stl",
+      "sha256": "e03e4d7ce0f5a18130b890990128264ad5c2acdb917434ba2c60682d60130fd8",
+      "watertight": true,
+      "normals_consistent": true,
+      "zero_area_faces": 0,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        185.25,
+        140.0,
+        13.392000198364258
+      ],
+      "bed_fit": true
+    },
+    {
+      "file": "stacked_1_350\\Stack_Roof.stl",
+      "sha256": "11bb37cd9e282a230d9b9dcb6a91de94cb328696d9f7df0bc8dae337707e12b7",
+      "watertight": true,
+      "normals_consistent": true,
+      "zero_area_faces": 0,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        177.75,
+        135.25,
+        6.847714424133301
+      ],
+      "bed_fit": true
+    },
+    {
+      "file": "stacked_1_350\\Stack_Upper.stl",
+      "sha256": "770b0fb7a250f79b1c3b264988420581d39c46f9a672c7c5e940598ed9ff1827",
+      "watertight": true,
+      "normals_consistent": true,
+      "zero_area_faces": 0,
+      "components": 2,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        193.25,
+        141.25,
+        13.392000198364258
+      ],
+      "bed_fit": true
+    }
+  ],
+  "three_mf_files": [
+    {
+      "file": "ground_furnished\\Ground_Furnished_Assembly.3mf",
+      "unit": "millimeter",
+      "reopened_meshes": 8
+    },
+    {
+      "file": "ground_furnished\\print_tiles\\Ground_Furnished_A1.3mf",
+      "unit": "millimeter",
+      "reopened_meshes": 1
+    },
+    {
+      "file": "ground_furnished\\print_tiles\\Ground_Furnished_A2.3mf",
+      "unit": "millimeter",
+      "reopened_meshes": 1
+    },
+    {
+      "file": "ground_furnished\\print_tiles\\Ground_Furnished_A3.3mf",
+      "unit": "millimeter",
+      "reopened_meshes": 1
+    },
+    {
+      "file": "ground_furnished\\print_tiles\\Ground_Furnished_B1_1.3mf",
+      "unit": "millimeter",
+      "reopened_meshes": 1
+    },
+    {
+      "file": "ground_furnished\\print_tiles\\Ground_Furnished_B1_2.3mf",
+      "unit": "millimeter",
+      "reopened_meshes": 1
+    },
+    {
+      "file": "ground_furnished\\print_tiles\\Ground_Furnished_B2.3mf",
+      "unit": "millimeter",
+      "reopened_meshes": 1
+    },
+    {
+      "file": "ground_furnished\\print_tiles\\Ground_Furnished_B3_1.3mf",
+      "unit": "millimeter",
+      "reopened_meshes": 1
+    },
+    {
+      "file": "ground_furnished\\print_tiles\\Ground_Furnished_B3_2.3mf",
+      "unit": "millimeter",
+      "reopened_meshes": 1
+    },
+    {
+      "file": "ground_enclosed\\Ground_Enclosed_Assembly.3mf",
+      "unit": "millimeter",
+      "reopened_meshes": 6
+    },
+    {
+      "file": "ground_enclosed\\print_tiles\\Ground_Enclosed_A1.3mf",
+      "unit": "millimeter",
+      "reopened_meshes": 1
+    },
+    {
+      "file": "ground_enclosed\\print_tiles\\Ground_Enclosed_A2.3mf",
+      "unit": "millimeter",
+      "reopened_meshes": 1
+    },
+    {
+      "file": "ground_enclosed\\print_tiles\\Ground_Enclosed_A3.3mf",
+      "unit": "millimeter",
+      "reopened_meshes": 1
+    },
+    {
+      "file": "ground_enclosed\\print_tiles\\Ground_Enclosed_B1.3mf",
+      "unit": "millimeter",
+      "reopened_meshes": 1
+    },
+    {
+      "file": "ground_enclosed\\print_tiles\\Ground_Enclosed_B2.3mf",
+      "unit": "millimeter",
+      "reopened_meshes": 1
+    },
+    {
+      "file": "ground_enclosed\\print_tiles\\Ground_Enclosed_B3.3mf",
+      "unit": "millimeter",
+      "reopened_meshes": 1
+    },
+    {
+      "file": "ground_acrylic\\Ground_Acrylic_Assembly.3mf",
+      "unit": "millimeter",
+      "reopened_meshes": 6
+    },
+    {
+      "file": "ground_acrylic\\print_tiles\\Ground_Acrylic_A1.3mf",
+      "unit": "millimeter",
+      "reopened_meshes": 1
+    },
+    {
+      "file": "ground_acrylic\\print_tiles\\Ground_Acrylic_A2.3mf",
+      "unit": "millimeter",
+      "reopened_meshes": 1
+    },
+    {
+      "file": "ground_acrylic\\print_tiles\\Ground_Acrylic_A3.3mf",
+      "unit": "millimeter",
+      "reopened_meshes": 1
+    },
+    {
+      "file": "ground_acrylic\\print_tiles\\Ground_Acrylic_B1.3mf",
+      "unit": "millimeter",
+      "reopened_meshes": 1
+    },
+    {
+      "file": "ground_acrylic\\print_tiles\\Ground_Acrylic_B2.3mf",
+      "unit": "millimeter",
+      "reopened_meshes": 1
+    },
+    {
+      "file": "ground_acrylic\\print_tiles\\Ground_Acrylic_B3.3mf",
+      "unit": "millimeter",
+      "reopened_meshes": 1
+    },
+    {
+      "file": "upper_enclosed\\Upper_Enclosed_Assembly.3mf",
+      "unit": "millimeter",
+      "reopened_meshes": 9
+    },
+    {
+      "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_A1.3mf",
+      "unit": "millimeter",
+      "reopened_meshes": 1
+    },
+    {
+      "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_A2.3mf",
+      "unit": "millimeter",
+      "reopened_meshes": 1
+    },
+    {
+      "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_A3_1.3mf",
+      "unit": "millimeter",
+      "reopened_meshes": 1
+    },
+    {
+      "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_A3_2.3mf",
+      "unit": "millimeter",
+      "reopened_meshes": 1
+    },
+    {
+      "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_B1.3mf",
+      "unit": "millimeter",
+      "reopened_meshes": 1
+    },
+    {
+      "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_B2.3mf",
+      "unit": "millimeter",
+      "reopened_meshes": 1
+    },
+    {
+      "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_B3_1.3mf",
+      "unit": "millimeter",
+      "reopened_meshes": 1
+    },
+    {
+      "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_B3_2.3mf",
+      "unit": "millimeter",
+      "reopened_meshes": 1
+    },
+    {
+      "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_B3_3.3mf",
+      "unit": "millimeter",
+      "reopened_meshes": 1
+    },
+    {
+      "file": "stacked_1_350\\Stack_Assembly.3mf",
+      "unit": "millimeter",
+      "reopened_meshes": 3
+    },
+    {
+      "file": "stacked_1_350\\Stack_Ground.3mf",
+      "unit": "millimeter",
+      "reopened_meshes": 1
+    },
+    {
+      "file": "stacked_1_350\\Stack_Roof.3mf",
+      "unit": "millimeter",
+      "reopened_meshes": 1
+    },
+    {
+      "file": "stacked_1_350\\Stack_Upper.3mf",
+      "unit": "millimeter",
+      "reopened_meshes": 1
+    }
+  ],
+  "acrylic_furniture_insertion_collisions": [],
+  "minimum_feature_assessment": "Constructive supported envelopes: 0.5 mm sampling plus one-cell broadening each side at 1:87.5; 0.25 mm miniature sampling with one-cell broadening. Floor clipping/cut edges can leave smaller local tips. No exhaustive thickness or slicer certification.",
+  "physical_or_slicer_tested": false
+}

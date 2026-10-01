@@ -1,0 +1,229 @@
+{
+  "watertight": true,
+  "winding_consistent": true,
+  "components": 1,
+  "elevated_down_faces": 0,
+  "dimensions_mm": [
+    736.5,
+    558.0,
+    53.56800079345703
+  ],
+  "bounds_mm": [
+    [
+      17.5,
+      8.0,
+      0.0
+    ],
+    [
+      754.0,
+      566.0,
+      53.56800079345703
+    ]
+  ],
+  "volume_mm3": 3035310.190419324,
+  "triangles": 35990,
+  "scale": "1:87.5",
+  "units": "mm",
+  "split_x_mm": [
+    17.5,
+    263.0,
+    508.5,
+    754.0
+  ],
+  "split_y_mm": [
+    8.0,
+    287.0,
+    566.0
+  ],
+  "tiles": [
+    {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        245.5,
+        190.0,
+        53.56800079345703
+      ],
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          245.5,
+          190.0,
+          53.56800079345703
+        ]
+      ],
+      "volume_mm3": 647822.4494374633,
+      "triangles": 6140,
+      "name": "Ground_Enclosed_A1",
+      "assembly_offset_mm": [
+        17.5,
+        97.0,
+        0.0
+      ]
+    },
+    {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        245.5,
+        279.0,
+        53.56800079345703
+      ],
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          245.5,
+          279.0,
+          53.56800079345703
+        ]
+      ],
+      "volume_mm3": 541769.4475812798,
+      "triangles": 5378,
+      "name": "Ground_Enclosed_A2",
+      "assembly_offset_mm": [
+        263.0,
+        8.0,
+        0.0
+      ]
+    },
+    {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        245.5,
+        263.0,
+        53.56800079345703
+      ],
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          245.5,
+          263.0,
+          53.56800079345703
+        ]
+      ],
+      "volume_mm3": 582933.8765094229,
+      "triangles": 12052,
+      "name": "Ground_Enclosed_A3",
+      "assembly_offset_mm": [
+        508.5,
+        24.0,
+        0.0
+      ]
+    },
+    {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        245.5,
+        279.0,
+        53.56800079345703
+      ],
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          245.5,
+          279.0,
+          53.56800079345703
+        ]
+      ],
+      "volume_mm3": 607311.3508098404,
+      "triangles": 5044,
+      "name": "Ground_Enclosed_B1",
+      "assembly_offset_mm": [
+        17.5,
+        287.0,
+        0.0
+      ]
+    },
+    {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        245.5,
+        279.0,
+        53.56800079345703
+      ],
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          245.5,
+          279.0,
+          53.56800079345703
+        ]
+      ],
+      "volume_mm3": 380548.8447013732,
+      "triangles": 130,
+      "name": "Ground_Enclosed_B2",
+      "assembly_offset_mm": [
+        263.0,
+        287.0,
+        0.0
+      ]
+    },
+    {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        216.5,
+        279.0,
+        53.56800079345703
+      ],
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          216.5,
+          279.0,
+          53.56800079345703
+        ]
+      ],
+      "volume_mm3": 274924.3375821119,
+      "triangles": 7930,
+      "name": "Ground_Enclosed_B3",
+      "assembly_offset_mm": [
+        508.5,
+        287.0,
+        0.0
+      ]
+    }
+  ],
+  "baseline": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task-4\\CampusCenter-print-r25-r01\\ground_enclosed\\Ground_Enclosed.stl",
+  "geometry_operation": "baseline solid union supported furniture envelope; no shell subtraction",
+  "physical_or_slicer_tested": false
+}

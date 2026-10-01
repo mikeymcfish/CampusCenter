@@ -1,0 +1,28 @@
+{
+  "pid": 559300,
+  "exit_code": 777003,
+  "normal_close_windows": [
+    [
+      14353280,
+      "CampusCenter (64-bit Development PCD3D_SM6) "
+    ]
+  ],
+  "files": [
+    {
+      "view": "Trainer",
+      "path": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task\\CampusCenter-new-plans\\downstream\\furniture_art_v26_r01\\packaged-captures-r02\\Trainer.png",
+      "exists": true
+    },
+    {
+      "view": "ArtWest",
+      "path": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task\\CampusCenter-new-plans\\downstream\\furniture_art_v26_r01\\packaged-captures-r02\\ArtWest.png",
+      "exists": true
+    },
+    {
+      "view": "ArtEast",
+      "path": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task\\CampusCenter-new-plans\\downstream\\furniture_art_v26_r01\\packaged-captures-r02\\ArtEast.png",
+      "exists": true
+    }
+  ],
+  "scope": "Capture result, pixels/log require inspection; does not replace independent normal smoke test."
+}

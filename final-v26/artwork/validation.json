@@ -1,0 +1,274 @@
+{
+  "checks": [
+    {
+      "id": "ART26_IMG_1758",
+      "format": "fbx",
+      "mesh_count": 1,
+      "dimensions_m": [
+        0.949999988079071,
+        0.05750000476837158,
+        0.6153125166893005
+      ],
+      "material_slots": 2,
+      "passed": true
+    },
+    {
+      "id": "ART26_IMG_1758",
+      "format": "glb",
+      "mesh_count": 1,
+      "dimensions_m": [
+        0.949999988079071,
+        0.05750000476837158,
+        0.6153125166893005
+      ],
+      "material_slots": 2,
+      "passed": true
+    },
+    {
+      "id": "ART26_IMG_1770",
+      "format": "fbx",
+      "mesh_count": 1,
+      "dimensions_m": [
+        0.949999988079071,
+        0.05750000476837158,
+        0.7250000238418579
+      ],
+      "material_slots": 2,
+      "passed": true
+    },
+    {
+      "id": "ART26_IMG_1770",
+      "format": "glb",
+      "mesh_count": 1,
+      "dimensions_m": [
+        0.949999988079071,
+        0.05750000476837158,
+        0.7250000238418579
+      ],
+      "material_slots": 2,
+      "passed": true
+    },
+    {
+      "id": "ART26_IMG_1820",
+      "format": "fbx",
+      "mesh_count": 1,
+      "dimensions_m": [
+        0.949999988079071,
+        0.05750000476837158,
+        0.5914062261581421
+      ],
+      "material_slots": 2,
+      "passed": true
+    },
+    {
+      "id": "ART26_IMG_1820",
+      "format": "glb",
+      "mesh_count": 1,
+      "dimensions_m": [
+        0.949999988079071,
+        0.05750000476837158,
+        0.5914062261581421
+      ],
+      "material_slots": 2,
+      "passed": true
+    },
+    {
+      "id": "ART26_IMG_1869",
+      "format": "fbx",
+      "mesh_count": 1,
+      "dimensions_m": [
+        0.949999988079071,
+        0.05750000476837158,
+        0.7250000238418579
+      ],
+      "material_slots": 2,
+      "passed": true
+    },
+    {
+      "id": "ART26_IMG_1869",
+      "format": "glb",
+      "mesh_count": 1,
+      "dimensions_m": [
+        0.949999988079071,
+        0.05750000476837158,
+        0.7250000238418579
+      ],
+      "material_slots": 2,
+      "passed": true
+    },
+    {
+      "id": "ART26_IMG_2813",
+      "format": "fbx",
+      "mesh_count": 1,
+      "dimensions_m": [
+        0.8374999761581421,
+        0.05750000476837158,
+        1.100000023841858
+      ],
+      "material_slots": 2,
+      "passed": true
+    },
+    {
+      "id": "ART26_IMG_2813",
+      "format": "glb",
+      "mesh_count": 1,
+      "dimensions_m": [
+        0.8374999761581421,
+        0.05750000476837158,
+        1.100000023841858
+      ],
+      "material_slots": 2,
+      "passed": true
+    },
+    {
+      "id": "ART26_IMG_3037",
+      "format": "fbx",
+      "mesh_count": 1,
+      "dimensions_m": [
+        0.8374999761581421,
+        0.05750000476837158,
+        1.100000023841858
+      ],
+      "material_slots": 2,
+      "passed": true
+    },
+    {
+      "id": "ART26_IMG_3037",
+      "format": "glb",
+      "mesh_count": 1,
+      "dimensions_m": [
+        0.8374999761581421,
+        0.05750000476837158,
+        1.100000023841858
+      ],
+      "material_slots": 2,
+      "passed": true
+    },
+    {
+      "id": "ART26_IMG_3248",
+      "format": "fbx",
+      "mesh_count": 1,
+      "dimensions_m": [
+        0.949999988079071,
+        0.05750000476837158,
+        0.7250000238418579
+      ],
+      "material_slots": 2,
+      "passed": true
+    },
+    {
+      "id": "ART26_IMG_3248",
+      "format": "glb",
+      "mesh_count": 1,
+      "dimensions_m": [
+        0.949999988079071,
+        0.05750000476837158,
+        0.7250000238418579
+      ],
+      "material_slots": 2,
+      "passed": true
+    },
+    {
+      "id": "ART26_IMG_3260",
+      "format": "fbx",
+      "mesh_count": 1,
+      "dimensions_m": [
+        0.949999988079071,
+        0.05750000476837158,
+        0.9537500143051147
+      ],
+      "material_slots": 2,
+      "passed": true
+    },
+    {
+      "id": "ART26_IMG_3260",
+      "format": "glb",
+      "mesh_count": 1,
+      "dimensions_m": [
+        0.949999988079071,
+        0.05750000476837158,
+        0.9537500143051147
+      ],
+      "material_slots": 2,
+      "passed": true
+    },
+    {
+      "id": "ART26_IMG_4122",
+      "format": "fbx",
+      "mesh_count": 1,
+      "dimensions_m": [
+        0.7505468726158142,
+        0.05750000476837158,
+        1.100000023841858
+      ],
+      "material_slots": 2,
+      "passed": true
+    },
+    {
+      "id": "ART26_IMG_4122",
+      "format": "glb",
+      "mesh_count": 1,
+      "dimensions_m": [
+        0.7505468726158142,
+        0.05750000476837158,
+        1.100000023841858
+      ],
+      "material_slots": 2,
+      "passed": true
+    },
+    {
+      "id": "ART26_IMG_6652",
+      "format": "fbx",
+      "mesh_count": 1,
+      "dimensions_m": [
+        0.8374999761581421,
+        0.05750000476837158,
+        1.100000023841858
+      ],
+      "material_slots": 2,
+      "passed": true
+    },
+    {
+      "id": "ART26_IMG_6652",
+      "format": "glb",
+      "mesh_count": 1,
+      "dimensions_m": [
+        0.8374999761581421,
+        0.05750000476837158,
+        1.100000023841858
+      ],
+      "material_slots": 2,
+      "passed": true
+    },
+    {
+      "id": "ART26_IMG_6988",
+      "format": "fbx",
+      "mesh_count": 1,
+      "dimensions_m": [
+        0.8374999761581421,
+        0.05750000476837158,
+        1.100000023841858
+      ],
+      "material_slots": 2,
+      "passed": true
+    },
+    {
+      "id": "ART26_IMG_6988",
+      "format": "glb",
+      "mesh_count": 1,
+      "dimensions_m": [
+        0.8374999761581421,
+        0.05750000476837158,
+        1.100000023841858
+      ],
+      "material_slots": 2,
+      "passed": true
+    }
+  ],
+  "saved_scene_reopened": true,
+  "art_mesh_count": 11,
+  "missing_textures": [],
+  "originals_hash_verified_after": 12,
+  "visual_qa": "All 11 individual renders and proposed_layout.png inspected: correct orientation, source content, no frame clipping, no duplicate main red/black asset. Layout schematic shows spaced wall presentation.",
+  "remaining_checks": "Unreal importer runtime, current-map wall corner traces, v26 furniture/door/equipment clearances, desktop/Vive appearance and package smoke are owned by integration workers; this batch does not certify those."
+}

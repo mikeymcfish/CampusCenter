@@ -1,0 +1,77 @@
+[
+  {
+    "file": "apply_consumer_patch.py",
+    "sha256": "9352d778520a7d7255d3bba411d5c63703a8580af1ff0bc4c5abc9d861eaa7d6",
+    "bytes": 1713
+  },
+  {
+    "file": "collision-only-geometry-proof.json",
+    "sha256": "125fb80918ef1f62654a6b84940680c60f178ff12aed13f4f0741a3bf6f93546",
+    "bytes": 348
+  },
+  {
+    "file": "dependency-closure.json",
+    "sha256": "909ef4f1eaed9dda69e3414813cc7e35f73f393bbdc3fe6d661ee7f2f73b9dd6",
+    "bytes": 8080
+  },
+  {
+    "file": "FitnessSupport_U218_R01.glb",
+    "sha256": "4e00666f3a5bfc2d53c487e2c0062cd3b702b9f909ddb8db6c18bb383e997a85",
+    "bytes": 6455624
+  },
+  {
+    "file": "frozen-baseline-byte-proof.json",
+    "sha256": "41a05fb0da2b253e3d54b37f38df7b2c7104c9f6bbbdde99a6c2705253ae6e05",
+    "bytes": 1774409
+  },
+  {
+    "file": "manifest.json",
+    "sha256": "27f4cfb83f647a28ea322aaa26ecac1a0ea5c7327a0c36af095798af722c3678",
+    "bytes": 8135
+  },
+  {
+    "file": "material-compatibility.json",
+    "sha256": "ae01517897ec96edb215c5ab00ea2ec30cb073ea4eb274433923362cc684e576",
+    "bytes": 1293
+  },
+  {
+    "file": "mesh-collision-comparison-final.json",
+    "sha256": "f6b9b63434f5dfbbad1cf2e2b45fecb73c6e0cd974dbff339303a9167e54cbef",
+    "bytes": 776
+  },
+  {
+    "file": "native-patch-manifest.json",
+    "sha256": "1d05d71c9ed5493a2da417ba69f5227a06d942f71c81b3356a047f9eeb14ccfe",
+    "bytes": 11926
+  },
+  {
+    "file": "README.txt",
+    "sha256": "9b5aacfc648ca9a73f688da6d7102f8c38eebc8073ecb3376eb8df40fc8d45a2",
+    "bytes": 531
+  },
+  {
+    "file": "source-manifest.json",
+    "sha256": "bb44e99c34acf4799ce34b8cc662a190551904187423248e0e3f873acad9a6c8",
+    "bytes": 6948
+  },
+  {
+    "file": "source-support-validation.json",
+    "sha256": "5ac1b5b4e3b192d6e8585e449907f3f8bc68170b83475f0b2ce77d32709b1ad9",
+    "bytes": 3918
+  },
+  {
+    "file": "Content/Campus/FitnessSupportR26R01/Compat/Blockout_equipment_-_untextured_898e9409.uasset",
+    "sha256": "c6ea577189f37afac4f48785b971e7fb314d3c0444a3eabf79fef0f3dc2893c8",
+    "bytes": 64933
+  },
+  {
+    "file": "Content/Campus/FitnessSupportR26R01/Compat/V8_plain_dark_screen_4dd4b3d1.uasset",
+    "sha256": "17f6f5e0b27c986ab8ff5199f797e6382f2d11c09d43e7fe0abd799d489aa0a2",
+    "bytes": 64812
+  },
+  {
+    "file": "Content/Campus/FitnessSupportR26R01/Runtime/FA26_FitnessSupport_U218_R06.uasset",
+    "sha256": "c841f6b45976841bf048c85c5eee266e1985a7ee89f7dea40eb656f3bcda3d60",
+    "bytes": 171965
+  }
+]

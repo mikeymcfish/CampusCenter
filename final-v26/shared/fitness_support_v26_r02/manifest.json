@@ -1,0 +1,172 @@
+{
+  "release": "fitness_support_v26_r02",
+  "requires": "shared_furniture_art_v26_r03",
+  "base_release_manifest_sha256": "a311ac1bcecff89ff5e661a244c2d05441112023f095830e851de3a8973c241f",
+  "scope": "One complete U218 furniture group replacement, preserving all other actor recipes. Seven donor bench meshes repaired: two standalone Exercise Benches lose inappropriate loaded bar assemblies; five rack stations retain bars extended to their supports. No architecture, footprint centres, iLab or baseline settings changed.",
+  "source_blend": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task\\CampusCenter-new-plans\\scene\\Campus_Center_New_Plans_Furniture_v26_b05.blend",
+  "source_sha256": "3013db5f7f8171b403bd5fac8561c84e24591875aa049683f950c3ee4e19e56e",
+  "desktop_map": "/Game/Campus/Maps/CampusCenter_FA26_Desktop_R21_Support",
+  "desktop_map_sha256": "5535d2c636f94e75288ff38d63644e51cda05cbdeb08a34658c1ce3b1a514578",
+  "actor_label": "R25_U218_Furniture",
+  "expected_old_mesh": "/Game/Campus/Revision25R01/Geometry/Campus_R25_Delta_02/StaticMeshes/R25_U218_Furniture.R25_U218_Furniture",
+  "new_mesh": "/Game/Campus/FitnessSupportR26R01/Runtime/FA26_FitnessSupport_U218_R06.FA26_FitnessSupport_U218_R06",
+  "materials": [
+    {
+      "slot": "V8_plain_rubber",
+      "path": "/Game/Campus/FurnitureR26/CompatR03/V8_plain_rubber_33d74d26.V8_plain_rubber_33d74d26",
+      "nanite_usage": true
+    },
+    {
+      "slot": "Dark_metal",
+      "path": "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+      "nanite_usage": true
+    },
+    {
+      "slot": "V8_plain_dark_screen",
+      "path": "/Game/Campus/FitnessSupportR26R01/Compat/V8_plain_dark_screen_4dd4b3d1.V8_plain_dark_screen_4dd4b3d1",
+      "nanite_usage": true
+    },
+    {
+      "slot": "Blockout_equipment_-_untextured",
+      "path": "/Game/Campus/FitnessSupportR26R01/Compat/Blockout_equipment_-_untextured_898e9409.Blockout_equipment_-_untextured_898e9409",
+      "nanite_usage": true
+    },
+    {
+      "slot": "V8_plain_sage_upholstery",
+      "path": "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric",
+      "nanite_usage": true
+    },
+    {
+      "slot": "Brushed_stainless_hardware",
+      "path": "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware",
+      "nanite_usage": true
+    }
+  ],
+  "new_packages": [
+    {
+      "package": "/Game/Campus/FitnessSupportR26R01/Runtime/FA26_FitnessSupport_U218_R06",
+      "sha256": "c841f6b45976841bf048c85c5eee266e1985a7ee89f7dea40eb656f3bcda3d60",
+      "new_patch_asset": true,
+      "relative_file": "Content/Campus/FitnessSupportR26R01/Runtime/FA26_FitnessSupport_U218_R06.uasset"
+    },
+    {
+      "package": "/Game/Campus/FitnessSupportR26R01/Compat/V8_plain_dark_screen_4dd4b3d1",
+      "sha256": "17f6f5e0b27c986ab8ff5199f797e6382f2d11c09d43e7fe0abd799d489aa0a2",
+      "new_patch_asset": true,
+      "relative_file": "Content/Campus/FitnessSupportR26R01/Compat/V8_plain_dark_screen_4dd4b3d1.uasset"
+    },
+    {
+      "package": "/Game/Campus/FitnessSupportR26R01/Compat/Blockout_equipment_-_untextured_898e9409",
+      "sha256": "c6ea577189f37afac4f48785b971e7fb314d3c0444a3eabf79fef0f3dc2893c8",
+      "new_patch_asset": true,
+      "relative_file": "Content/Campus/FitnessSupportR26R01/Compat/Blockout_equipment_-_untextured_898e9409.uasset"
+    }
+  ],
+  "existing_dependencies": [
+    {
+      "package": "/Game/Campus/FurnitureR26/CompatR03/MI_Default_Opaque_DS_a53f40f3",
+      "sha256": "4207cb70c38f32a16d6bc97bf9402d9e73b5918f9d854babd725029b70eb116b",
+      "new_patch_asset": false
+    },
+    {
+      "package": "/Game/Campus/FurnitureR26/CompatR03/M_Default_54bd2060",
+      "sha256": "446f9de0e0e0ac844dcfe614d84caf9e25bb21816cee4066859fa5d6dbfa6812",
+      "new_patch_asset": false
+    },
+    {
+      "package": "/Game/Campus/FurnitureR26/CompatR03/V8_plain_rubber_33d74d26",
+      "sha256": "4cb3572d99fdb82798cb57b1541c598ad6875ff8fad1de53d8260b9a2ff62761",
+      "new_patch_asset": false
+    },
+    {
+      "package": "/Game/Campus/PolishV03/Materials/M_Dark_metal",
+      "sha256": "b22f2abf52393ed0a588adaa34b43b2acc24d731c62360994fc38c84f9554921",
+      "new_patch_asset": false
+    },
+    {
+      "package": "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware",
+      "sha256": "4c269214ae891dfc094707da5d90806f73c7e8a5a6d235d360cf7dba9c785802",
+      "new_patch_asset": false
+    },
+    {
+      "package": "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric",
+      "sha256": "416f980d644b1ce234e52d5e90943d86337e9f4079774b4a6218f790e42be074",
+      "new_patch_asset": false
+    },
+    {
+      "package": "/Game/Campus/PolishV02/Textures/Fabric030_1K-JPG_Roughness",
+      "sha256": "767250437267d860a1e61383bf64979e7fc5857c2093db671819d1ba50870616",
+      "new_patch_asset": false
+    },
+    {
+      "package": "/Game/Campus/PolishV02/Textures/Fabric030_1K-JPG_NormalDX",
+      "sha256": "0bcbfa967481f683fc885d9a027a036dd66d6365e442df927e39cc62a330ac36",
+      "new_patch_asset": false
+    },
+    {
+      "package": "/Game/Campus/PolishV02/Textures/Fabric030_1K-JPG_Color",
+      "sha256": "344eae7b87010a5d032b153586dd756c0a4b7539b6adbf4acd13f181899ce30c",
+      "new_patch_asset": false
+    }
+  ],
+  "source_group_membership": [
+    "RE07_PH02_Fitness218_003_0",
+    "RE07_PH02_Fitness218_003_1",
+    "RE07_PH02_Fitness218_004_0",
+    "RE07_PH02_Fitness218_004_1",
+    "RE07_PH02_Fitness218_005_0",
+    "RE07_PH02_Fitness218_005_1",
+    "RE07_PH02_Fitness218_006_0",
+    "RE07_PH02_Fitness218_006_1",
+    "RE07_PH02_Fitness218_007_0",
+    "RE07_PH02_Fitness218_007_1",
+    "RE07_PH02_Fitness218_008_0",
+    "RE07_PH02_Fitness218_008_1",
+    "RE07_PH02_Fitness218_009_0",
+    "RE07_PH02_Fitness218_009_1",
+    "RE07_PH02_Fitness218_009_2",
+    "RE07_PH02_Fitness218_010_0",
+    "RE07_PH02_Fitness218_011_0",
+    "RE07_PH02_Fitness218_011_1",
+    "RE07_PH02_Fitness218_011_2",
+    "RE07_PH02_Fitness218_012_0",
+    "RE07_PH02_Fitness218_013_0",
+    "RE07_PH02_Fitness218_013_1",
+    "RE07_PH02_Fitness218_013_2",
+    "RE07_PH02_Fitness218_014_0",
+    "RE07_PH02_Fitness218_015_0",
+    "RE07_PH02_Fitness218_015_1",
+    "RE07_PH02_Fitness218_015_2",
+    "RE07_PH02_Fitness218_016_0",
+    "RE07_PH02_Fitness218_017_0",
+    "RE07_PH02_Fitness218_017_1",
+    "RE07_PH02_Fitness218_017_2",
+    "RE07_PH02_Fitness218_018_0",
+    "RE07_PH02_Fitness218_035_0",
+    "RE07_PH02_Fitness218_036_0",
+    "RE07_PH02_Fitness218_037_0",
+    "RE07_PH02_Fitness218_038_0",
+    "RE07_PH02_Fitness218_039_0"
+  ],
+  "print_instruction": "Use B05 or this complete corrected group as donor for separate simplified print variant. Remove no enclosing room geometry. Thicken/fuse bench feet and simplify supported bars at print scale; do not consume the old two unsupported exercise-bench bar assemblies. Slicer/minimum-feature validation remains separate.",
+  "limits": "Generic source-scaled donor fits, not verified manufacturer geometry or certified rack hardware. Existing R03/builds remain immutable.",
+  "supersedes": "fitness_support_v26_r01 - hold due default collision mismatch",
+  "collision_policy": "CTF_USE_COMPLEX_AS_SIMPLE, identical to original R25 group; simple collision count remains one and unused by that trace policy. Actor/component flags preserved.",
+  "geometry_identical_to_visually_reviewed_r01": {
+    "before": {
+      "vertices": 21120,
+      "triangles": 12964,
+      "positions_sha256": "56dd62323b3c23532e9c018014017f0d0f61c7a470177a3a5581c265cbbb2383"
+    },
+    "after": {
+      "vertices": 21120,
+      "triangles": 12964,
+      "positions_sha256": "56dd62323b3c23532e9c018014017f0d0f61c7a470177a3a5581c265cbbb2383"
+    },
+    "identical": true
+  },
+  "allowed_old_meshes": [
+    "/Game/Campus/Revision25R01/Geometry/Campus_R25_Delta_02/StaticMeshes/R25_U218_Furniture.R25_U218_Furniture",
+    "/Game/Campus/FitnessSupportR26R01/Runtime/FA26_FitnessSupport_U218_R05.FA26_FitnessSupport_U218_R05"
+  ]
+}

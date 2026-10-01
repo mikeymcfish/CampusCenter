@@ -1,0 +1,291 @@
+{
+  "watertight": true,
+  "winding_consistent": true,
+  "components": 1,
+  "elevated_down_faces": 0,
+  "dimensions_mm": [
+    736.5,
+    558.0,
+    53.56800079345703
+  ],
+  "bounds_mm": [
+    [
+      17.5,
+      8.0,
+      0.0
+    ],
+    [
+      754.0,
+      566.0,
+      53.56800079345703
+    ]
+  ],
+  "volume_mm3": 2836431.278569564,
+  "triangles": 35800,
+  "scale": "1:87.5",
+  "units": "mm",
+  "split_x_mm": [
+    17.5,
+    263.0,
+    508.5,
+    754.0
+  ],
+  "split_y_mm": [
+    8.0,
+    287.0,
+    566.0
+  ],
+  "tiles": [
+    {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        245.5,
+        190.0,
+        53.56800079345703
+      ],
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          245.5,
+          190.0,
+          53.56800079345703
+        ]
+      ],
+      "volume_mm3": 621288.4733564457,
+      "triangles": 6040,
+      "name": "Ground_Furnished_A1",
+      "assembly_offset_mm": [
+        17.5,
+        97.0,
+        0.0
+      ]
+    },
+    {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        245.5,
+        279.0,
+        53.56800079345703
+      ],
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          245.5,
+          279.0,
+          53.56800079345703
+        ]
+      ],
+      "volume_mm3": 512889.70028179884,
+      "triangles": 5332,
+      "name": "Ground_Furnished_A2",
+      "assembly_offset_mm": [
+        263.0,
+        8.0,
+        0.0
+      ]
+    },
+    {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        245.5,
+        263.0,
+        53.56800079345703
+      ],
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          245.5,
+          263.0,
+          53.56800079345703
+        ]
+      ],
+      "volume_mm3": 520320.67817715806,
+      "triangles": 12054,
+      "name": "Ground_Furnished_A3",
+      "assembly_offset_mm": [
+        508.5,
+        24.0,
+        0.0
+      ]
+    },
+    {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        224.5,
+        191.5,
+        53.56800079345703
+      ],
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          224.5,
+          191.5,
+          53.56800079345703
+        ]
+      ],
+      "volume_mm3": 495254.0953316467,
+      "triangles": 4794,
+      "name": "Ground_Furnished_B1_1",
+      "assembly_offset_mm": [
+        17.5,
+        287.0,
+        0.0
+      ]
+    },
+    {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        19.5,
+        279.0,
+        53.56800079345703
+      ],
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          19.5,
+          279.0,
+          53.56800079345703
+        ]
+      ],
+      "volume_mm3": 80675.34102074306,
+      "triangles": 172,
+      "name": "Ground_Furnished_B1_2",
+      "assembly_offset_mm": [
+        243.5,
+        287.0,
+        0.0
+      ]
+    },
+    {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        245.5,
+        279.0,
+        53.56800079345703
+      ],
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          245.5,
+          279.0,
+          53.56800079345703
+        ]
+      ],
+      "volume_mm3": 367321.8868230581,
+      "triangles": 122,
+      "name": "Ground_Furnished_B2",
+      "assembly_offset_mm": [
+        263.0,
+        287.0,
+        0.0
+      ]
+    },
+    {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        188.0,
+        93.5,
+        53.56800079345703
+      ],
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          188.0,
+          93.5,
+          53.56800079345703
+        ]
+      ],
+      "volume_mm3": 162445.56564659625,
+      "triangles": 7908,
+      "name": "Ground_Furnished_B3_1",
+      "assembly_offset_mm": [
+        537.0,
+        287.0,
+        0.0
+      ]
+    },
+    {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        27.0,
+        279.0,
+        53.56800079345703
+      ],
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          27.0,
+          279.0,
+          53.56800079345703
+        ]
+      ],
+      "volume_mm3": 76235.53793211778,
+      "triangles": 24,
+      "name": "Ground_Furnished_B3_2",
+      "assembly_offset_mm": [
+        508.5,
+        287.0,
+        0.0
+      ]
+    }
+  ],
+  "baseline": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task-4\\CampusCenter-print-r25-r01\\ground_furnished\\Ground_Furnished.stl",
+  "geometry_operation": "baseline solid union supported furniture envelope; no shell subtraction",
+  "physical_or_slicer_tested": false
+}

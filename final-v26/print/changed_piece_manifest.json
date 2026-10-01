@@ -1,0 +1,3924 @@
+{
+  "source_sha256": "3013db5f7f8171b403bd5fac8561c84e24591875aa049683f950c3ee4e19e56e",
+  "furniture_groups_carried": [
+    {
+      "id": "PH12_G105_Sofa",
+      "level": "ground",
+      "provenance": "actual geometry reuse",
+      "source_objects": [
+        "FA26_PH12_G105_Sofa_NativeSofa_0",
+        "FA26_PH12_G105_Sofa_NativeSofa_1",
+        "FA26_PH12_G105_Sofa_NativeSofa_2",
+        "FA26_PH12_G105_Sofa_NativeSofa_3",
+        "FA26_PH12_G105_Sofa_NativeSofa_4",
+        "FA26_PH12_G105_Sofa_NativeSofa_5"
+      ],
+      "source_bounds_m": [
+        [
+          6.673368453979492,
+          5.711111068725586,
+          2.0861626315316073e-10
+        ],
+        [
+          9.398843765258789,
+          6.485012054443359,
+          0.7521249651908875
+        ]
+      ],
+      "supported_raster_cells": 1280,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH14_G121_Bench_0",
+      "level": "ground",
+      "provenance": "actual geometry reuse",
+      "source_objects": [
+        "FA26_PH14_G121_Bench_0_LockerBench"
+      ],
+      "source_bounds_m": [
+        [
+          -40.32709884643555,
+          21.126605987548828,
+          0.0
+        ],
+        [
+          -37.88869094848633,
+          21.426605224609375,
+          0.46000000834465027
+        ]
+      ],
+      "supported_raster_cells": 513,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH14_G121_Bench_1",
+      "level": "ground",
+      "provenance": "actual geometry reuse",
+      "source_objects": [
+        "FA26_PH14_G121_Bench_1_LockerBench"
+      ],
+      "source_bounds_m": [
+        [
+          -37.47376251220703,
+          21.126605987548828,
+          0.0
+        ],
+        [
+          -35.03535461425781,
+          21.426605224609375,
+          0.46000000834465027
+        ]
+      ],
+      "supported_raster_cells": 513,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH14_G121_Bench_2",
+      "level": "ground",
+      "provenance": "actual geometry reuse",
+      "source_objects": [
+        "FA26_PH14_G121_Bench_2_LockerBench"
+      ],
+      "source_bounds_m": [
+        [
+          -34.617061614990234,
+          21.126605987548828,
+          0.0
+        ],
+        [
+          -32.178653717041016,
+          21.426605224609375,
+          0.46000000834465027
+        ]
+      ],
+      "supported_raster_cells": 522,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH14_G121_Bench_3",
+      "level": "ground",
+      "provenance": "actual geometry reuse",
+      "source_objects": [
+        "FA26_PH14_G121_Bench_3_LockerBench"
+      ],
+      "source_bounds_m": [
+        [
+          -40.32709884643555,
+          17.4589900970459,
+          0.0
+        ],
+        [
+          -37.88869094848633,
+          17.758989334106445,
+          0.46000000834465027
+        ]
+      ],
+      "supported_raster_cells": 456,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH14_G121_Bench_4",
+      "level": "ground",
+      "provenance": "actual geometry reuse",
+      "source_objects": [
+        "FA26_PH14_G121_Bench_4_LockerBench"
+      ],
+      "source_bounds_m": [
+        [
+          -37.47376251220703,
+          17.4589900970459,
+          0.0
+        ],
+        [
+          -35.03535461425781,
+          17.758989334106445,
+          0.46000000834465027
+        ]
+      ],
+      "supported_raster_cells": 456,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH14_G121_Bench_5",
+      "level": "ground",
+      "provenance": "actual geometry reuse",
+      "source_objects": [
+        "FA26_PH14_G121_Bench_5_LockerBench"
+      ],
+      "source_bounds_m": [
+        [
+          -34.61311721801758,
+          17.4589900970459,
+          0.0
+        ],
+        [
+          -33.393917083740234,
+          17.758989334106445,
+          0.46000000834465027
+        ]
+      ],
+      "supported_raster_cells": 240,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH14_G121_Bench_6",
+      "level": "ground",
+      "provenance": "actual geometry reuse",
+      "source_objects": [
+        "FA26_PH14_G121_Bench_6_LockerBench"
+      ],
+      "source_bounds_m": [
+        [
+          -38.60512924194336,
+          18.40053367614746,
+          0.0
+        ],
+        [
+          -38.30512619018555,
+          20.229337692260742,
+          0.46000000834465027
+        ]
+      ],
+      "supported_raster_cells": 396,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH14_G121_Bench_7",
+      "level": "ground",
+      "provenance": "actual geometry reuse",
+      "source_objects": [
+        "FA26_PH14_G121_Bench_7_LockerBench"
+      ],
+      "source_bounds_m": [
+        [
+          -35.68449401855469,
+          18.40053367614746,
+          0.0
+        ],
+        [
+          -35.384490966796875,
+          20.229337692260742,
+          0.46000000834465027
+        ]
+      ],
+      "supported_raster_cells": 352,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH14_G122_Bench_0",
+      "level": "ground",
+      "provenance": "actual geometry reuse",
+      "source_objects": [
+        "FA26_PH14_G122_Bench_0_LockerBench"
+      ],
+      "source_bounds_m": [
+        [
+          -40.32709884643555,
+          27.627370834350586,
+          0.0
+        ],
+        [
+          -37.88869094848633,
+          27.927370071411133,
+          0.46000000834465027
+        ]
+      ],
+      "supported_raster_cells": 513,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH14_G122_Bench_1",
+      "level": "ground",
+      "provenance": "actual geometry reuse",
+      "source_objects": [
+        "FA26_PH14_G122_Bench_1_LockerBench"
+      ],
+      "source_bounds_m": [
+        [
+          -37.47376251220703,
+          27.627370834350586,
+          0.0
+        ],
+        [
+          -35.03535461425781,
+          27.927370071411133,
+          0.46000000834465027
+        ]
+      ],
+      "supported_raster_cells": 513,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH14_G122_Bench_2",
+      "level": "ground",
+      "provenance": "actual geometry reuse",
+      "source_objects": [
+        "FA26_PH14_G122_Bench_2_LockerBench"
+      ],
+      "source_bounds_m": [
+        [
+          -34.61311721801758,
+          27.627370834350586,
+          0.0
+        ],
+        [
+          -33.393917083740234,
+          27.927370071411133,
+          0.46000000834465027
+        ]
+      ],
+      "supported_raster_cells": 270,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH14_G122_Bench_3",
+      "level": "ground",
+      "provenance": "actual geometry reuse",
+      "source_objects": [
+        "FA26_PH14_G122_Bench_3_LockerBench"
+      ],
+      "source_bounds_m": [
+        [
+          -40.32709884643555,
+          23.959754943847656,
+          0.0
+        ],
+        [
+          -37.88869094848633,
+          24.259754180908203,
+          0.46000000834465027
+        ]
+      ],
+      "supported_raster_cells": 513,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH14_G122_Bench_4",
+      "level": "ground",
+      "provenance": "actual geometry reuse",
+      "source_objects": [
+        "FA26_PH14_G122_Bench_4_LockerBench"
+      ],
+      "source_bounds_m": [
+        [
+          -37.47376251220703,
+          23.959754943847656,
+          0.0
+        ],
+        [
+          -35.03535461425781,
+          24.259754180908203,
+          0.46000000834465027
+        ]
+      ],
+      "supported_raster_cells": 513,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH14_G122_Bench_5",
+      "level": "ground",
+      "provenance": "actual geometry reuse",
+      "source_objects": [
+        "FA26_PH14_G122_Bench_5_LockerBench"
+      ],
+      "source_bounds_m": [
+        [
+          -34.617061614990234,
+          23.959754943847656,
+          0.0
+        ],
+        [
+          -32.178653717041016,
+          24.259754180908203,
+          0.46000000834465027
+        ]
+      ],
+      "supported_raster_cells": 522,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH14_G122_Bench_6",
+      "level": "ground",
+      "provenance": "actual geometry reuse",
+      "source_objects": [
+        "FA26_PH14_G122_Bench_6_LockerBench"
+      ],
+      "source_bounds_m": [
+        [
+          -38.60512924194336,
+          24.901296615600586,
+          0.0
+        ],
+        [
+          -38.30512619018555,
+          26.730100631713867,
+          0.46000000834465027
+        ]
+      ],
+      "supported_raster_cells": 396,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH14_G122_Bench_7",
+      "level": "ground",
+      "provenance": "actual geometry reuse",
+      "source_objects": [
+        "FA26_PH14_G122_Bench_7_LockerBench"
+      ],
+      "source_bounds_m": [
+        [
+          -35.68449401855469,
+          24.901296615600586,
+          0.0
+        ],
+        [
+          -35.384490966796875,
+          26.730100631713867,
+          0.46000000834465027
+        ]
+      ],
+      "supported_raster_cells": 352,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH_Gym_BleacherBank_01",
+      "level": "ground",
+      "provenance": "actual geometry reuse",
+      "source_objects": [
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_deck_0",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_riser_0",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seat_0_0",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seat_0_1",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seat_0_2",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seat_0_3",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seat_0_4",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seat_0_5",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seat_0_6",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seat_0_7",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seat_0_8",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seat_0_9",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seat_0_10",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seat_0_11",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seatleg_0_-2980",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seatleg_0_-2840",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seatleg_0_-2700",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seatleg_0_-2560",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seatleg_0_-2420",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_beam_0",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_deck_1",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_riser_1",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seat_1_0",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seat_1_1",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seat_1_2",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seat_1_3",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seat_1_4",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seat_1_5",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seat_1_6",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seat_1_7",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seat_1_8",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seat_1_9",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seat_1_10",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seat_1_11",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seatleg_1_-2980",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_underframe_1_-2980",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seatleg_1_-2840",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_underframe_1_-2840",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seatleg_1_-2700",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_underframe_1_-2700",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seatleg_1_-2560",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_underframe_1_-2560",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seatleg_1_-2420",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_underframe_1_-2420",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_beam_1",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_deck_2",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_riser_2",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seat_2_0",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seat_2_1",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seat_2_2",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seat_2_3",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seat_2_4",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seat_2_5",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seat_2_6",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seat_2_7",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seat_2_8",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seat_2_9",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seat_2_10",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seat_2_11",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seatleg_2_-2980",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_underframe_2_-2980",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seatleg_2_-2840",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_underframe_2_-2840",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seatleg_2_-2700",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_underframe_2_-2700",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seatleg_2_-2560",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_underframe_2_-2560",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_seatleg_2_-2420",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_underframe_2_-2420",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_beam_2",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_backpost_-2999",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_backpost_-2850",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_backpost_-2700",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_backpost_-2550",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_backpost_-2401",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_backrail_115",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_backrail_170",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_sidepost_-2401_0",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_sideguard_-2401_0",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_sidehandrail_-2401_0",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_sidepost_-2401_1",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_sideguard_-2401_1",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_sidehandrail_-2401_1",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_sidepost_-2401_2",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_sideguard_-2401_2",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_sidehandrail_-2401_2",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_deckgroove_0_-28",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_deckgroove_0_-20",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_deckgroove_0_-12",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_deckgroove_1_-28",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_deckgroove_1_-20",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_deckgroove_1_-12",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_deckgroove_2_-28",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_deckgroove_2_-20",
+        "FA26_PH_Gym_BleacherBank_01_PS08_Bleacher_1_deckgroove_2_-12"
+      ],
+      "source_bounds_m": [
+        [
+          -25.39303207397461,
+          34.580963134765625,
+          2.0861626315316073e-10
+        ],
+        [
+          -22.398372650146484,
+          41.041351318359375,
+          1.7200000286102295
+        ]
+      ],
+      "supported_raster_cells": 10500,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH_Gym_BleacherBank_02",
+      "level": "ground",
+      "provenance": "actual geometry reuse",
+      "source_objects": [
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_deck_0",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_riser_0",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seat_0_0",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seat_0_1",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seat_0_2",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seat_0_3",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seat_0_4",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seat_0_5",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seat_0_6",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seat_0_7",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seat_0_8",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seat_0_9",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seat_0_10",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seat_0_11",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seatleg_0_-3760",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seatleg_0_-3620",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seatleg_0_-3480",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seatleg_0_-3340",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seatleg_0_-3200",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_beam_0",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_deck_1",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_riser_1",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seat_1_0",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seat_1_1",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seat_1_2",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seat_1_3",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seat_1_4",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seat_1_5",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seat_1_6",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seat_1_7",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seat_1_8",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seat_1_9",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seat_1_10",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seat_1_11",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seatleg_1_-3760",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_underframe_1_-3760",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seatleg_1_-3620",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_underframe_1_-3620",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seatleg_1_-3480",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_underframe_1_-3480",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seatleg_1_-3340",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_underframe_1_-3340",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seatleg_1_-3200",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_underframe_1_-3200",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_beam_1",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_deck_2",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_riser_2",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seat_2_0",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seat_2_1",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seat_2_2",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seat_2_3",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seat_2_4",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seat_2_5",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seat_2_6",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seat_2_7",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seat_2_8",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seat_2_9",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seat_2_10",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seat_2_11",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seatleg_2_-3760",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_underframe_2_-3760",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seatleg_2_-3620",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_underframe_2_-3620",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seatleg_2_-3480",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_underframe_2_-3480",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seatleg_2_-3340",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_underframe_2_-3340",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_seatleg_2_-3200",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_underframe_2_-3200",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_beam_2",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_backpost_-3779",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_backpost_-3630",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_backpost_-3480",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_backpost_-3330",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_backpost_-3181",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_backrail_115",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_backrail_170",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_sidepost_-3779_0",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_sideguard_-3779_0",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_sidehandrail_-3779_0",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_sidepost_-3779_1",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_sideguard_-3779_1",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_sidehandrail_-3779_1",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_sidepost_-3779_2",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_sideguard_-3779_2",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_sidehandrail_-3779_2",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_deckgroove_0_-28",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_deckgroove_0_-20",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_deckgroove_0_-12",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_deckgroove_1_-28",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_deckgroove_1_-20",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_deckgroove_1_-12",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_deckgroove_2_-28",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_deckgroove_2_-20",
+        "FA26_PH_Gym_BleacherBank_02_PS08_Bleacher_2_deckgroove_2_-12"
+      ],
+      "source_bounds_m": [
+        [
+          -25.39303207397461,
+          18.2954044342041,
+          2.0861626315316073e-10
+        ],
+        [
+          -22.398372650146484,
+          28.65894317626953,
+          1.7200000286102295
+        ]
+      ],
+      "supported_raster_cells": 16663,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH24_Trainer_StoolLike_1",
+      "level": "ground",
+      "provenance": "actual geometry reuse",
+      "source_objects": [
+        "FA26_PH24_Trainer_StoolLike_1_BacklessStool"
+      ],
+      "source_bounds_m": [
+        [
+          -42.707908630371094,
+          35.45506286621094,
+          0.0
+        ],
+        [
+          -42.316017150878906,
+          35.86951446533203,
+          0.4999999701976776
+        ]
+      ],
+      "supported_raster_cells": 108,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH24_Trainer_StoolLike_2",
+      "level": "ground",
+      "provenance": "actual geometry reuse",
+      "source_objects": [
+        "FA26_PH24_Trainer_StoolLike_2_BacklessStool"
+      ],
+      "source_bounds_m": [
+        [
+          -42.36670684814453,
+          35.789100646972656,
+          0.0
+        ],
+        [
+          -41.974815368652344,
+          36.20355224609375,
+          0.4999999701976776
+        ]
+      ],
+      "supported_raster_cells": 108,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH24_Trainer_StoolLike_3",
+      "level": "ground",
+      "provenance": "actual geometry reuse",
+      "source_objects": [
+        "FA26_PH24_Trainer_StoolLike_3_BacklessStool"
+      ],
+      "source_bounds_m": [
+        [
+          -42.26531982421875,
+          35.32310104370117,
+          0.0
+        ],
+        [
+          -41.87342834472656,
+          35.737552642822266,
+          0.4999999701976776
+        ]
+      ],
+      "supported_raster_cells": 112,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH11_Commons_UpperCurvedPiece_0",
+      "level": "ground",
+      "provenance": "generic estimated geometry",
+      "source_objects": [
+        "FA26_PH11_Commons_UpperCurvedPiece_0_CurvedSeat",
+        "FA26_PH11_Commons_UpperCurvedPiece_0_CurvedSeat_OakBase"
+      ],
+      "source_bounds_m": [
+        [
+          4.35166597366333,
+          28.154226303100586,
+          2.0861626315316073e-10
+        ],
+        [
+          5.764875888824463,
+          29.432844161987305,
+          0.46000000834465027
+        ]
+      ],
+      "supported_raster_cells": 657,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH11_Commons_UpperCurvedPiece_1",
+      "level": "ground",
+      "provenance": "generic estimated geometry",
+      "source_objects": [
+        "FA26_PH11_Commons_UpperCurvedPiece_1_CurvedSeat",
+        "FA26_PH11_Commons_UpperCurvedPiece_1_CurvedSeat_OakBase"
+      ],
+      "source_bounds_m": [
+        [
+          6.30324125289917,
+          28.154226303100586,
+          2.0861626315316073e-10
+        ],
+        [
+          7.716451168060303,
+          29.432844161987305,
+          0.46000000834465027
+        ]
+      ],
+      "supported_raster_cells": 664,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH12_G102_GlazingCounter",
+      "level": "ground",
+      "provenance": "generic estimated geometry",
+      "source_objects": [
+        "FA26_PH12_G102_GlazingCounter_OakCounterTop",
+        "FA26_PH12_G102_GlazingCounter_WallSideApron",
+        "FA26_PH12_G102_GlazingCounter_Bracket-2.9663269042968747",
+        "FA26_PH12_G102_GlazingCounter_Bracket0",
+        "FA26_PH12_G102_GlazingCounter_Bracket2.9663269042968747",
+        "FA26_PH12_G102_GlazingCounter_Leg-2.8250732421875",
+        "FA26_PH12_G102_GlazingCounter_Leg2.8250732421875"
+      ],
+      "source_bounds_m": [
+        [
+          15.456802368164062,
+          23.948246002197266,
+          2.0861626315316073e-10
+        ],
+        [
+          16.16206169128418,
+          31.010929107666016,
+          1.0499999523162842
+        ]
+      ],
+      "supported_raster_cells": 2916,
+      "clipped_outside_floor_cells": 18,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH02_Trainer_046",
+      "level": "ground",
+      "provenance": "generic estimated geometry",
+      "source_objects": [
+        "FA26_PH02_Trainer_046_Cushion",
+        "FA26_PH02_Trainer_046_SupportFrame",
+        "FA26_PH02_Trainer_046_Leg(-0.28054306030273435, -0.6426412963867187)",
+        "FA26_PH02_Trainer_046_Leg(-0.28054306030273435, 0.6426412963867187)",
+        "FA26_PH02_Trainer_046_Leg(0.28054306030273435, -0.6426412963867187)",
+        "FA26_PH02_Trainer_046_Leg(0.28054306030273435, 0.6426412963867187)",
+        "FA26_PH02_Trainer_046_LowerShelf"
+      ],
+      "source_bounds_m": [
+        [
+          -44.125789642333984,
+          37.55963134765625,
+          2.0861626315316073e-10
+        ],
+        [
+          -43.3675651550293,
+          39.44975280761719,
+          0.7799999713897705
+        ]
+      ],
+      "supported_raster_cells": 855,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH02_Trainer_047",
+      "level": "ground",
+      "provenance": "generic estimated geometry",
+      "source_objects": [
+        "FA26_PH02_Trainer_047_Cushion",
+        "FA26_PH02_Trainer_047_SupportFrame",
+        "FA26_PH02_Trainer_047_Leg(-0.28054306030273435, -0.6426412963867187)",
+        "FA26_PH02_Trainer_047_Leg(-0.28054306030273435, 0.6426412963867187)",
+        "FA26_PH02_Trainer_047_Leg(0.28054306030273435, -0.6426412963867187)",
+        "FA26_PH02_Trainer_047_Leg(0.28054306030273435, 0.6426412963867187)",
+        "FA26_PH02_Trainer_047_LowerShelf"
+      ],
+      "source_bounds_m": [
+        [
+          -42.6418342590332,
+          37.55963134765625,
+          2.0861626315316073e-10
+        ],
+        [
+          -41.883609771728516,
+          39.44975280761719,
+          0.7799999713897705
+        ]
+      ],
+      "supported_raster_cells": 855,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH02_Trainer_048",
+      "level": "ground",
+      "provenance": "generic estimated geometry",
+      "source_objects": [
+        "FA26_PH02_Trainer_048_Cabinet",
+        "FA26_PH02_Trainer_048_PaddedTop",
+        "FA26_PH02_Trainer_048_DrawerFront0.24",
+        "FA26_PH02_Trainer_048_DrawerPull0.24",
+        "FA26_PH02_Trainer_048_DrawerFront0.47",
+        "FA26_PH02_Trainer_048_DrawerPull0.47",
+        "FA26_PH02_Trainer_048_DrawerFront0.67",
+        "FA26_PH02_Trainer_048_DrawerPull0.67"
+      ],
+      "source_bounds_m": [
+        [
+          -41.13621520996094,
+          38.54065704345703,
+          2.0861626315316073e-10
+        ],
+        [
+          -40.26966857910156,
+          39.23210144042969,
+          0.8799999952316284
+        ]
+      ],
+      "supported_raster_cells": 374,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH02_Trainer_049",
+      "level": "ground",
+      "provenance": "generic estimated geometry",
+      "source_objects": [
+        "FA26_PH02_Trainer_049_StorageCabinet",
+        "FA26_PH02_Trainer_049_CabinetTop",
+        "FA26_PH02_Trainer_049_Front0.22",
+        "FA26_PH02_Trainer_049_Pull0.22",
+        "FA26_PH02_Trainer_049_Front0.49",
+        "FA26_PH02_Trainer_049_Pull0.49",
+        "FA26_PH02_Trainer_049_Front0.72",
+        "FA26_PH02_Trainer_049_Pull0.72"
+      ],
+      "source_bounds_m": [
+        [
+          -41.13621520996094,
+          37.7401008605957,
+          2.0861626315316073e-10
+        ],
+        [
+          -40.26966857910156,
+          38.36150360107422,
+          0.8999999761581421
+        ]
+      ],
+      "supported_raster_cells": 352,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH02_Trainer_050",
+      "level": "ground",
+      "provenance": "generic estimated geometry",
+      "source_objects": [
+        "FA26_PH02_Trainer_050_Cabinet",
+        "FA26_PH02_Trainer_050_PaddedTop",
+        "FA26_PH02_Trainer_050_DrawerFront0.24",
+        "FA26_PH02_Trainer_050_DrawerPull0.24",
+        "FA26_PH02_Trainer_050_DrawerFront0.47",
+        "FA26_PH02_Trainer_050_DrawerPull0.47",
+        "FA26_PH02_Trainer_050_DrawerFront0.67",
+        "FA26_PH02_Trainer_050_DrawerPull0.67"
+      ],
+      "source_bounds_m": [
+        [
+          -41.13621520996094,
+          36.856727600097656,
+          2.0861626315316073e-10
+        ],
+        [
+          -40.26966857910156,
+          37.54817199707031,
+          0.8799999952316284
+        ]
+      ],
+      "supported_raster_cells": 396,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH02_Trainer_051",
+      "level": "ground",
+      "provenance": "generic estimated geometry",
+      "source_objects": [
+        "FA26_PH02_Trainer_051_Cushion",
+        "FA26_PH02_Trainer_051_SupportFrame",
+        "FA26_PH02_Trainer_051_Leg(-0.436845703125, -0.7283261108398438)",
+        "FA26_PH02_Trainer_051_Leg(-0.436845703125, 0.7283261108398438)",
+        "FA26_PH02_Trainer_051_Leg(0.436845703125, -0.7283261108398438)",
+        "FA26_PH02_Trainer_051_Leg(0.436845703125, 0.7283261108398438)",
+        "FA26_PH02_Trainer_051_LowerShelf"
+      ],
+      "source_bounds_m": [
+        [
+          -45.36061096191406,
+          34.11158752441406,
+          2.0861626315316073e-10
+        ],
+        [
+          -44.17994689941406,
+          36.25372314453125,
+          0.47999998927116394
+        ]
+      ],
+      "supported_raster_cells": 1478,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH02_Trainer_052",
+      "level": "ground",
+      "provenance": "generic estimated geometry",
+      "source_objects": [
+        "FA26_PH02_Trainer_052_Cushion",
+        "FA26_PH02_Trainer_052_SupportFrame",
+        "FA26_PH02_Trainer_052_Leg(-0.5450550079345703, -0.3193751525878906)",
+        "FA26_PH02_Trainer_052_Leg(-0.5450550079345703, 0.3193751525878906)",
+        "FA26_PH02_Trainer_052_Leg(0.5450550079345703, -0.3193751525878906)",
+        "FA26_PH02_Trainer_052_Leg(0.5450550079345703, 0.3193751525878906)",
+        "FA26_PH02_Trainer_052_LowerShelf"
+      ],
+      "source_bounds_m": [
+        [
+          -45.36061096191406,
+          32.87441635131836,
+          2.0861626315316073e-10
+        ],
+        [
+          -43.887489318847656,
+          33.81375503540039,
+          0.6600000262260437
+        ]
+      ],
+      "supported_raster_cells": 828,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH02_Trainer_053",
+      "level": "ground",
+      "provenance": "generic estimated geometry",
+      "source_objects": [
+        "FA26_PH02_Trainer_053_BasinFloor",
+        "FA26_PH02_Trainer_053_BasinSide-0.7174971008300781",
+        "FA26_PH02_Trainer_053_BasinSide0.7174971008300781",
+        "FA26_PH02_Trainer_053_BasinEnd-0.8536489868164063",
+        "FA26_PH02_Trainer_053_BasinEnd0.8536489868164063",
+        "FA26_PH02_Trainer_053_Support-0.530323944091797",
+        "FA26_PH02_Trainer_053_Support0.530323944091797",
+        "FA26_PH02_Trainer_053_ControlPanel",
+        "FA26_PH02_Trainer_053_Drain"
+      ],
+      "source_bounds_m": [
+        [
+          -41.80778503417969,
+          31.843441009521484,
+          2.0861626315316073e-10
+        ],
+        [
+          -40.248008728027344,
+          33.69919967651367,
+          0.9850000143051147
+        ]
+      ],
+      "supported_raster_cells": 1665,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH10_Trainer_059",
+      "level": "ground",
+      "provenance": "generic estimated geometry",
+      "source_objects": [
+        "FA26_PH10_Trainer_059_CounterBack",
+        "FA26_PH10_Trainer_059_CounterEnd-0.7470928955078125",
+        "FA26_PH10_Trainer_059_CounterEnd0.7470928955078125",
+        "FA26_PH10_Trainer_059_SinkCutTop_Left",
+        "FA26_PH10_Trainer_059_SinkCutTop_Right",
+        "FA26_PH10_Trainer_059_SinkCutTop_Front",
+        "FA26_PH10_Trainer_059_SinkCutTop_Back"
+      ],
+      "source_bounds_m": [
+        [
+          -45.355628967285156,
+          31.846649169921875,
+          2.0861626315316073e-10
+        ],
+        [
+          -43.73151397705078,
+          32.4693603515625,
+          0.9275000095367432
+        ]
+      ],
+      "supported_raster_cells": 614,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH10_Trainer_060",
+      "level": "ground",
+      "provenance": "generic estimated geometry",
+      "source_objects": [
+        "FA26_PH10_Trainer_060_SinkBottom",
+        "FA26_PH10_Trainer_060_SinkRimX-0.19432220458984376",
+        "FA26_PH10_Trainer_060_SinkRimX0.19432220458984376",
+        "FA26_PH10_Trainer_060_SinkRimY-0.22131744384765625",
+        "FA26_PH10_Trainer_060_SinkRimY0.22131744384765625",
+        "FA26_PH10_Trainer_060_TapStem",
+        "FA26_PH10_Trainer_060_TapSpout",
+        "FA26_PH10_Trainer_060_WastePipe"
+      ],
+      "source_bounds_m": [
+        [
+          -44.73236846923828,
+          31.906444549560547,
+          0.014999985694885254
+        ],
+        [
+          -44.30992889404297,
+          32.387569427490234,
+          1.0940001010894775
+        ]
+      ],
+      "supported_raster_cells": 143,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH10_Trainer_061",
+      "level": "ground",
+      "provenance": "generic estimated geometry",
+      "source_objects": [
+        "FA26_PH10_Trainer_061_UndercounterAppliance",
+        "FA26_PH10_Trainer_061_Door",
+        "FA26_PH10_Trainer_061_Handle"
+      ],
+      "source_bounds_m": [
+        [
+          -45.30168533325195,
+          31.855043411254883,
+          2.0861626315316073e-10
+        ],
+        [
+          -44.81295394897461,
+          32.4246826171875,
+          0.8600000143051147
+        ]
+      ],
+      "supported_raster_cells": 195,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH02_Trainer_056",
+      "level": "ground",
+      "provenance": "generic estimated geometry",
+      "source_objects": [
+        "FA26_PH02_Trainer_056_StorageCabinet",
+        "FA26_PH02_Trainer_056_CabinetTop",
+        "FA26_PH02_Trainer_056_Front0.22",
+        "FA26_PH02_Trainer_056_Pull0.22",
+        "FA26_PH02_Trainer_056_Front0.49",
+        "FA26_PH02_Trainer_056_Pull0.49",
+        "FA26_PH02_Trainer_056_Front0.72",
+        "FA26_PH02_Trainer_056_Pull0.72"
+      ],
+      "source_bounds_m": [
+        [
+          -38.70907211303711,
+          35.08615493774414,
+          2.0861626315316073e-10
+        ],
+        [
+          -37.65678787231445,
+          35.597557067871094,
+          0.8999999761581421
+        ]
+      ],
+      "supported_raster_cells": 338,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH10_Trainer_063",
+      "level": "ground",
+      "provenance": "generic estimated geometry",
+      "source_objects": [
+        "FA26_PH10_Trainer_063_OfficeServiceCabinet",
+        "FA26_PH10_Trainer_063_OakTop",
+        "FA26_PH10_Trainer_063_GenericPrinterBody",
+        "FA26_PH10_Trainer_063_PrinterLid",
+        "FA26_PH10_Trainer_063_PaperSlot"
+      ],
+      "source_bounds_m": [
+        [
+          -40.050445556640625,
+          38.6539306640625,
+          2.0861626315316073e-10
+        ],
+        [
+          -38.836273193359375,
+          39.42552185058594,
+          1.1124999523162842
+        ]
+      ],
+      "supported_raster_cells": 600,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH12_G127_NorthBand",
+      "level": "ground",
+      "provenance": "generic estimated geometry",
+      "source_objects": [
+        "FA26_PH12_G127_NorthBand_Cabinet",
+        "FA26_PH12_G127_NorthBand_OakWorktop",
+        "FA26_PH12_G127_NorthBand_Door-0.630772705078125",
+        "FA26_PH12_G127_NorthBand_Pull-0.630772705078125",
+        "FA26_PH12_G127_NorthBand_Door0.630772705078125",
+        "FA26_PH12_G127_NorthBand_Pull0.630772705078125"
+      ],
+      "source_bounds_m": [
+        [
+          -34.41520309448242,
+          35.169517517089844,
+          2.0861626315316073e-10
+        ],
+        [
+          -31.786983489990234,
+          35.478477478027344,
+          0.8799999952316284
+        ]
+      ],
+      "supported_raster_cells": 617,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH12_AthleticsNE_WestBand",
+      "level": "ground",
+      "provenance": "generic estimated geometry",
+      "source_objects": [
+        "FA26_PH12_AthleticsNE_WestBand_Cabinet",
+        "FA26_PH12_AthleticsNE_WestBand_OakWorktop",
+        "FA26_PH12_AthleticsNE_WestBand_Door-0.07480224609375",
+        "FA26_PH12_AthleticsNE_WestBand_Pull-0.07480224609375",
+        "FA26_PH12_AthleticsNE_WestBand_Door0.07480224609375",
+        "FA26_PH12_AthleticsNE_WestBand_Pull0.07480224609375"
+      ],
+      "source_bounds_m": [
+        [
+          -37.23455810546875,
+          35.71014404296875,
+          2.0861626315316073e-10
+        ],
+        [
+          -36.922882080078125,
+          39.41477966308594,
+          0.8799999952316284
+        ]
+      ],
+      "supported_raster_cells": 774,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH12_G_ATHLETICS_SW_NorthBand",
+      "level": "ground",
+      "provenance": "generic estimated geometry",
+      "source_objects": [
+        "FA26_PH12_G_ATHLETICS_SW_NorthBand_Cabinet",
+        "FA26_PH12_G_ATHLETICS_SW_NorthBand_OakWorktop",
+        "FA26_PH12_G_ATHLETICS_SW_NorthBand_Door-0.608902587890625",
+        "FA26_PH12_G_ATHLETICS_SW_NorthBand_Pull-0.608902587890625",
+        "FA26_PH12_G_ATHLETICS_SW_NorthBand_Door0.608902587890625",
+        "FA26_PH12_G_ATHLETICS_SW_NorthBand_Pull0.608902587890625"
+      ],
+      "source_bounds_m": [
+        [
+          -37.217018127441406,
+          35.169517517089844,
+          2.0861626315316073e-10
+        ],
+        [
+          -34.67992401123047,
+          35.478477478027344,
+          0.8799999952316284
+        ]
+      ],
+      "supported_raster_cells": 596,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH12_U202_Sofa",
+      "level": "upper",
+      "provenance": "actual geometry reuse",
+      "source_objects": [
+        "FA26_PH12_U202_Sofa_NativeSofa_0",
+        "FA26_PH12_U202_Sofa_NativeSofa_1",
+        "FA26_PH12_U202_Sofa_NativeSofa_2",
+        "FA26_PH12_U202_Sofa_NativeSofa_3",
+        "FA26_PH12_U202_Sofa_NativeSofa_4",
+        "FA26_PH12_U202_Sofa_NativeSofa_5"
+      ],
+      "source_bounds_m": [
+        [
+          -2.447037935256958,
+          0.6252913475036621,
+          4.267199516296387
+        ],
+        [
+          -0.29524827003479004,
+          1.3767099380493164,
+          5.01932430267334
+        ]
+      ],
+      "supported_raster_cells": 988,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH02_Fitness218_027",
+      "level": "upper",
+      "provenance": "generic estimated geometry",
+      "source_objects": [
+        "FA26_PH02_Fitness218_027_WeightedBase",
+        "FA26_PH02_Fitness218_027_WeightStack",
+        "FA26_PH02_Fitness218_027_FrameUpright-0.7354788208007813",
+        "FA26_PH02_Fitness218_027_FrameUpright0.7354788208007813",
+        "FA26_PH02_Fitness218_027_CrossBeam",
+        "FA26_PH02_Fitness218_027_Seat",
+        "FA26_PH02_Fitness218_027_BackPad",
+        "FA26_PH02_Fitness218_027_Arm-0.4838676452636719",
+        "FA26_PH02_Fitness218_027_Grip-0.4838676452636719",
+        "FA26_PH02_Fitness218_027_Arm0.4838676452636719",
+        "FA26_PH02_Fitness218_027_Grip0.4838676452636719"
+      ],
+      "source_bounds_m": [
+        [
+          -37.44208526611328,
+          24.13644027709961,
+          4.267199516296387
+        ],
+        [
+          -35.60338592529297,
+          25.034156799316406,
+          6.062199592590332
+        ]
+      ],
+      "supported_raster_cells": 1012,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH02_Fitness218_029",
+      "level": "upper",
+      "provenance": "generic estimated geometry",
+      "source_objects": [
+        "FA26_PH02_Fitness218_029_WeightedBase",
+        "FA26_PH02_Fitness218_029_WeightStack",
+        "FA26_PH02_Fitness218_029_FrameUpright-0.4499395751953125",
+        "FA26_PH02_Fitness218_029_FrameUpright0.4499395751953125",
+        "FA26_PH02_Fitness218_029_CrossBeam",
+        "FA26_PH02_Fitness218_029_Seat",
+        "FA26_PH02_Fitness218_029_BackPad",
+        "FA26_PH02_Fitness218_029_Arm-0.29601287841796875",
+        "FA26_PH02_Fitness218_029_Grip-0.29601287841796875",
+        "FA26_PH02_Fitness218_029_Arm0.29601287841796875",
+        "FA26_PH02_Fitness218_029_Grip0.29601287841796875",
+        "FA26_PH02_Fitness218_029_Cable",
+        "FA26_PH02_Fitness218_029_PullBar"
+      ],
+      "source_bounds_m": [
+        [
+          -37.46086883544922,
+          22.421838760375977,
+          4.267199516296387
+        ],
+        [
+          -36.336021423339844,
+          23.92524528503418,
+          6.062199592590332
+        ]
+      ],
+      "supported_raster_cells": 1008,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH02_Fitness218_030",
+      "level": "upper",
+      "provenance": "generic estimated geometry",
+      "source_objects": [
+        "FA26_PH02_Fitness218_030_WeightedBase",
+        "FA26_PH02_Fitness218_030_WeightStack",
+        "FA26_PH02_Fitness218_030_FrameUpright-0.45859359741210937",
+        "FA26_PH02_Fitness218_030_FrameUpright0.45859359741210937",
+        "FA26_PH02_Fitness218_030_CrossBeam",
+        "FA26_PH02_Fitness218_030_Seat",
+        "FA26_PH02_Fitness218_030_BackPad",
+        "FA26_PH02_Fitness218_030_Arm-0.30170631408691406",
+        "FA26_PH02_Fitness218_030_Grip-0.30170631408691406",
+        "FA26_PH02_Fitness218_030_Arm0.30170631408691406",
+        "FA26_PH02_Fitness218_030_Grip0.30170631408691406"
+      ],
+      "source_bounds_m": [
+        [
+          -37.46030044555664,
+          21.146135330200195,
+          4.267199516296387
+        ],
+        [
+          -36.31381607055664,
+          22.195276260375977,
+          6.062199592590332
+        ]
+      ],
+      "supported_raster_cells": 728,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH12_U203_SinkCounter",
+      "level": "upper",
+      "provenance": "generic estimated geometry",
+      "source_objects": [
+        "FA26_PH12_U203_SinkCounter_Cabinet",
+        "FA26_PH12_U203_SinkCounter_OakWorktop",
+        "FA26_PH12_U203_SinkCounter_Door-0.5164295196533203",
+        "FA26_PH12_U203_SinkCounter_Pull-0.5164295196533203",
+        "FA26_PH12_U203_SinkCounter_Door0.5164295196533203",
+        "FA26_PH12_U203_SinkCounter_Pull0.5164295196533203",
+        "FA26_PH12_U203_SinkCounter_SinkInset",
+        "FA26_PH12_U203_SinkCounter_TapStem",
+        "FA26_PH12_U203_SinkCounter_TapSpout"
+      ],
+      "source_bounds_m": [
+        [
+          -7.638657569885254,
+          5.7088847160339355,
+          4.267199516296387
+        ],
+        [
+          -5.486867904663086,
+          6.1584649085998535,
+          5.319199562072754
+        ]
+      ],
+      "supported_raster_cells": 612,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH02_Fitness218_001",
+      "level": "upper",
+      "provenance": "generic estimated geometry",
+      "source_objects": [
+        "FA26_PH02_Fitness218_001_GroundStabilizer-0.44675216674804685",
+        "FA26_PH02_Fitness218_001_GroundStabilizer0.42193260192871096",
+        "FA26_PH02_Fitness218_001_Flywheel",
+        "FA26_PH02_Fitness218_001_FrameMain",
+        "FA26_PH02_Fitness218_001_SeatTube",
+        "FA26_PH02_Fitness218_001_UpperFrame",
+        "FA26_PH02_Fitness218_001_Saddle",
+        "FA26_PH02_Fitness218_001_HandleStem",
+        "FA26_PH02_Fitness218_001_HandleBar",
+        "FA26_PH02_Fitness218_001_Crank",
+        "FA26_PH02_Fitness218_001_Pedal-0.18785476684570312",
+        "FA26_PH02_Fitness218_001_Pedal0.18785476684570312",
+        "FA26_PH02_Fitness218_001_Console"
+      ],
+      "source_bounds_m": [
+        [
+          -45.05930709838867,
+          28.01502799987793,
+          4.267199516296387
+        ],
+        [
+          -44.483219146728516,
+          29.0447940826416,
+          5.414699554443359
+        ]
+      ],
+      "supported_raster_cells": 296,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH02_Fitness218_002",
+      "level": "upper",
+      "provenance": "generic estimated geometry",
+      "source_objects": [
+        "FA26_PH02_Fitness218_002_GroundStabilizer-0.44675216674804685",
+        "FA26_PH02_Fitness218_002_GroundStabilizer0.42193260192871096",
+        "FA26_PH02_Fitness218_002_Flywheel",
+        "FA26_PH02_Fitness218_002_FrameMain",
+        "FA26_PH02_Fitness218_002_SeatTube",
+        "FA26_PH02_Fitness218_002_UpperFrame",
+        "FA26_PH02_Fitness218_002_Saddle",
+        "FA26_PH02_Fitness218_002_HandleStem",
+        "FA26_PH02_Fitness218_002_HandleBar",
+        "FA26_PH02_Fitness218_002_Crank",
+        "FA26_PH02_Fitness218_002_Pedal-0.18785476684570312",
+        "FA26_PH02_Fitness218_002_Pedal0.18785476684570312",
+        "FA26_PH02_Fitness218_002_Console"
+      ],
+      "source_bounds_m": [
+        [
+          -44.137107849121094,
+          28.015031814575195,
+          4.267199516296387
+        ],
+        [
+          -43.56101989746094,
+          29.044797897338867,
+          5.414699554443359
+        ]
+      ],
+      "supported_raster_cells": 296,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH02_Fitness218_019",
+      "level": "upper",
+      "provenance": "generic estimated geometry",
+      "source_objects": [
+        "FA26_PH02_Fitness218_019_GroundStabilizer-0.44265289306640626",
+        "FA26_PH02_Fitness218_019_GroundStabilizer0.41806106567382817",
+        "FA26_PH02_Fitness218_019_Flywheel",
+        "FA26_PH02_Fitness218_019_FrameMain",
+        "FA26_PH02_Fitness218_019_SeatTube",
+        "FA26_PH02_Fitness218_019_UpperFrame",
+        "FA26_PH02_Fitness218_019_Saddle",
+        "FA26_PH02_Fitness218_019_HandleStem",
+        "FA26_PH02_Fitness218_019_HandleBar",
+        "FA26_PH02_Fitness218_019_Crank",
+        "FA26_PH02_Fitness218_019_Pedal-0.18443870544433594",
+        "FA26_PH02_Fitness218_019_Pedal0.18443870544433594",
+        "FA26_PH02_Fitness218_019_Console"
+      ],
+      "source_bounds_m": [
+        [
+          -44.99774932861328,
+          25.99318504333496,
+          4.267199516296387
+        ],
+        [
+          -43.974586486816406,
+          26.55879783630371,
+          5.414699554443359
+        ]
+      ],
+      "supported_raster_cells": 271,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH02_Fitness218_020",
+      "level": "upper",
+      "provenance": "generic estimated geometry",
+      "source_objects": [
+        "FA26_PH02_Fitness218_020_GroundStabilizer-0.44265289306640626",
+        "FA26_PH02_Fitness218_020_GroundStabilizer0.41806106567382817",
+        "FA26_PH02_Fitness218_020_Flywheel",
+        "FA26_PH02_Fitness218_020_FrameMain",
+        "FA26_PH02_Fitness218_020_SeatTube",
+        "FA26_PH02_Fitness218_020_UpperFrame",
+        "FA26_PH02_Fitness218_020_Saddle",
+        "FA26_PH02_Fitness218_020_HandleStem",
+        "FA26_PH02_Fitness218_020_HandleBar",
+        "FA26_PH02_Fitness218_020_Crank",
+        "FA26_PH02_Fitness218_020_Pedal-0.18443870544433594",
+        "FA26_PH02_Fitness218_020_Pedal0.18443870544433594",
+        "FA26_PH02_Fitness218_020_Console"
+      ],
+      "source_bounds_m": [
+        [
+          -44.99774932861328,
+          25.059602737426758,
+          4.267199516296387
+        ],
+        [
+          -43.974586486816406,
+          25.625215530395508,
+          5.414699554443359
+        ]
+      ],
+      "supported_raster_cells": 271,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH02_Fitness218_021",
+      "level": "upper",
+      "provenance": "generic estimated geometry",
+      "source_objects": [
+        "FA26_PH02_Fitness218_021_GroundStabilizer-0.44265289306640626",
+        "FA26_PH02_Fitness218_021_GroundStabilizer0.41806106567382817",
+        "FA26_PH02_Fitness218_021_Flywheel",
+        "FA26_PH02_Fitness218_021_FrameMain",
+        "FA26_PH02_Fitness218_021_SeatTube",
+        "FA26_PH02_Fitness218_021_UpperFrame",
+        "FA26_PH02_Fitness218_021_Saddle",
+        "FA26_PH02_Fitness218_021_HandleStem",
+        "FA26_PH02_Fitness218_021_HandleBar",
+        "FA26_PH02_Fitness218_021_Crank",
+        "FA26_PH02_Fitness218_021_Pedal-0.18443870544433594",
+        "FA26_PH02_Fitness218_021_Pedal0.18443870544433594",
+        "FA26_PH02_Fitness218_021_Console"
+      ],
+      "source_bounds_m": [
+        [
+          -44.99774932861328,
+          24.137407302856445,
+          4.267199516296387
+        ],
+        [
+          -43.974586486816406,
+          24.703020095825195,
+          5.414699554443359
+        ]
+      ],
+      "supported_raster_cells": 271,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH02_Fitness218_022",
+      "level": "upper",
+      "provenance": "generic estimated geometry",
+      "source_objects": [
+        "FA26_PH02_Fitness218_022_GroundStabilizer-0.44265289306640626",
+        "FA26_PH02_Fitness218_022_GroundStabilizer0.41806106567382817",
+        "FA26_PH02_Fitness218_022_Flywheel",
+        "FA26_PH02_Fitness218_022_FrameMain",
+        "FA26_PH02_Fitness218_022_SeatTube",
+        "FA26_PH02_Fitness218_022_UpperFrame",
+        "FA26_PH02_Fitness218_022_Saddle",
+        "FA26_PH02_Fitness218_022_HandleStem",
+        "FA26_PH02_Fitness218_022_HandleBar",
+        "FA26_PH02_Fitness218_022_Crank",
+        "FA26_PH02_Fitness218_022_Pedal-0.18443870544433594",
+        "FA26_PH02_Fitness218_022_Pedal0.18443870544433594",
+        "FA26_PH02_Fitness218_022_Console"
+      ],
+      "source_bounds_m": [
+        [
+          -44.99774932861328,
+          23.22659683227539,
+          4.267199516296387
+        ],
+        [
+          -43.974586486816406,
+          23.79220962524414,
+          5.414699554443359
+        ]
+      ],
+      "supported_raster_cells": 270,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH02_Fitness218_023",
+      "level": "upper",
+      "provenance": "generic estimated geometry",
+      "source_objects": [
+        "FA26_PH02_Fitness218_023_GroundStabilizer-0.44265289306640626",
+        "FA26_PH02_Fitness218_023_GroundStabilizer0.41806106567382817",
+        "FA26_PH02_Fitness218_023_Flywheel",
+        "FA26_PH02_Fitness218_023_FrameMain",
+        "FA26_PH02_Fitness218_023_SeatTube",
+        "FA26_PH02_Fitness218_023_UpperFrame",
+        "FA26_PH02_Fitness218_023_Saddle",
+        "FA26_PH02_Fitness218_023_HandleStem",
+        "FA26_PH02_Fitness218_023_HandleBar",
+        "FA26_PH02_Fitness218_023_Crank",
+        "FA26_PH02_Fitness218_023_Pedal-0.18443870544433594",
+        "FA26_PH02_Fitness218_023_Pedal0.18443870544433594",
+        "FA26_PH02_Fitness218_023_Console"
+      ],
+      "source_bounds_m": [
+        [
+          -44.99774932861328,
+          22.29301643371582,
+          4.267199516296387
+        ],
+        [
+          -43.974586486816406,
+          22.85862922668457,
+          5.414699554443359
+        ]
+      ],
+      "supported_raster_cells": 272,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH02_Fitness218_024",
+      "level": "upper",
+      "provenance": "generic estimated geometry",
+      "source_objects": [
+        "FA26_PH02_Fitness218_024_GroundStabilizer-0.44265289306640626",
+        "FA26_PH02_Fitness218_024_GroundStabilizer0.41806106567382817",
+        "FA26_PH02_Fitness218_024_Flywheel",
+        "FA26_PH02_Fitness218_024_FrameMain",
+        "FA26_PH02_Fitness218_024_SeatTube",
+        "FA26_PH02_Fitness218_024_UpperFrame",
+        "FA26_PH02_Fitness218_024_Saddle",
+        "FA26_PH02_Fitness218_024_HandleStem",
+        "FA26_PH02_Fitness218_024_HandleBar",
+        "FA26_PH02_Fitness218_024_Crank",
+        "FA26_PH02_Fitness218_024_Pedal-0.18443870544433594",
+        "FA26_PH02_Fitness218_024_Pedal0.18443870544433594",
+        "FA26_PH02_Fitness218_024_MovingHandle-0.15369892120361328",
+        "FA26_PH02_Fitness218_024_MovingHandle0.15369892120361328"
+      ],
+      "source_bounds_m": [
+        [
+          -44.99774932861328,
+          21.382205963134766,
+          4.267199516296387
+        ],
+        [
+          -43.974586486816406,
+          21.947818756103516,
+          5.471475601196289
+        ]
+      ],
+      "supported_raster_cells": 280,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH02_Fitness218_025",
+      "level": "upper",
+      "provenance": "generic estimated geometry",
+      "source_objects": [
+        "FA26_PH02_Fitness218_025_Post(-0.28690490722656253, -0.2914596557617188)",
+        "FA26_PH02_Fitness218_025_Post(-0.28690490722656253, 0.2914596557617188)",
+        "FA26_PH02_Fitness218_025_Post(0.28690490722656253, -0.2914596557617188)",
+        "FA26_PH02_Fitness218_025_Post(0.28690490722656253, 0.2914596557617188)",
+        "FA26_PH02_Fitness218_025_BasketRail(0.2, -0.24774070739746096)",
+        "FA26_PH02_Fitness218_025_BasketRail(0.2, 0.24774070739746096)",
+        "FA26_PH02_Fitness218_025_ExerciseBall0.2",
+        "FA26_PH02_Fitness218_025_BasketRail(0.73, -0.24774070739746096)",
+        "FA26_PH02_Fitness218_025_BasketRail(0.73, 0.24774070739746096)",
+        "FA26_PH02_Fitness218_025_ExerciseBall0.73",
+        "FA26_PH02_Fitness218_025_BasketRail(1.27, -0.24774070739746096)",
+        "FA26_PH02_Fitness218_025_BasketRail(1.27, 0.24774070739746096)",
+        "FA26_PH02_Fitness218_025_ExerciseBall1.27"
+      ],
+      "source_bounds_m": [
+        [
+          -39.31728744506836,
+          24.35922622680664,
+          4.267199516296387
+        ],
+        [
+          -38.7034797668457,
+          24.982147216796875,
+          5.918033123016357
+        ]
+      ],
+      "supported_raster_cells": 188,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH02_Fitness218_026",
+      "level": "upper",
+      "provenance": "generic estimated geometry",
+      "source_objects": [
+        "FA26_PH02_Fitness218_026_Post(-0.28690490722656253, -0.2914596557617188)",
+        "FA26_PH02_Fitness218_026_Post(-0.28690490722656253, 0.2914596557617188)",
+        "FA26_PH02_Fitness218_026_Post(0.28690490722656253, -0.2914596557617188)",
+        "FA26_PH02_Fitness218_026_Post(0.28690490722656253, 0.2914596557617188)",
+        "FA26_PH02_Fitness218_026_BasketRail(0.2, -0.24774070739746096)",
+        "FA26_PH02_Fitness218_026_BasketRail(0.2, 0.24774070739746096)",
+        "FA26_PH02_Fitness218_026_ExerciseBall0.2",
+        "FA26_PH02_Fitness218_026_BasketRail(0.73, -0.24774070739746096)",
+        "FA26_PH02_Fitness218_026_BasketRail(0.73, 0.24774070739746096)",
+        "FA26_PH02_Fitness218_026_ExerciseBall0.73",
+        "FA26_PH02_Fitness218_026_BasketRail(1.27, -0.24774070739746096)",
+        "FA26_PH02_Fitness218_026_BasketRail(1.27, 0.24774070739746096)",
+        "FA26_PH02_Fitness218_026_ExerciseBall1.27"
+      ],
+      "source_bounds_m": [
+        [
+          -38.45201873779297,
+          24.35922622680664,
+          4.267199516296387
+        ],
+        [
+          -37.83821105957031,
+          24.982147216796875,
+          5.918033123016357
+        ]
+      ],
+      "supported_raster_cells": 183,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH02_Fitness218_031",
+      "level": "upper",
+      "provenance": "generic estimated geometry",
+      "source_objects": [
+        "FA26_PH02_Fitness218_031_Post(-0.28690490722656253, -0.28690490722656253)",
+        "FA26_PH02_Fitness218_031_Post(-0.28690490722656253, 0.28690490722656253)",
+        "FA26_PH02_Fitness218_031_Post(0.28690490722656253, -0.28690490722656253)",
+        "FA26_PH02_Fitness218_031_Post(0.28690490722656253, 0.28690490722656253)",
+        "FA26_PH02_Fitness218_031_BasketRail(0.2, -0.24386917114257814)",
+        "FA26_PH02_Fitness218_031_BasketRail(0.2, 0.24386917114257814)",
+        "FA26_PH02_Fitness218_031_ExerciseBall0.2",
+        "FA26_PH02_Fitness218_031_BasketRail(0.73, -0.24386917114257814)",
+        "FA26_PH02_Fitness218_031_BasketRail(0.73, 0.24386917114257814)",
+        "FA26_PH02_Fitness218_031_ExerciseBall0.73",
+        "FA26_PH02_Fitness218_031_BasketRail(1.27, -0.24386917114257814)",
+        "FA26_PH02_Fitness218_031_BasketRail(1.27, 0.24386917114257814)",
+        "FA26_PH02_Fitness218_031_ExerciseBall1.27"
+      ],
+      "source_bounds_m": [
+        [
+          -36.015602111816406,
+          21.170251846313477,
+          4.267199516296387
+        ],
+        [
+          -35.40179443359375,
+          21.7840633392334,
+          5.918033123016357
+        ]
+      ],
+      "supported_raster_cells": 154,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH02_Fitness218_032",
+      "level": "upper",
+      "provenance": "generic estimated geometry",
+      "source_objects": [
+        "FA26_PH02_Fitness218_032_Post(-0.29601440429687503, -0.2914596557617188)",
+        "FA26_PH02_Fitness218_032_Post(-0.29601440429687503, 0.2914596557617188)",
+        "FA26_PH02_Fitness218_032_Post(0.29601440429687503, -0.2914596557617188)",
+        "FA26_PH02_Fitness218_032_Post(0.29601440429687503, 0.2914596557617188)",
+        "FA26_PH02_Fitness218_032_BasketRail(0.2, -0.24774070739746096)",
+        "FA26_PH02_Fitness218_032_BasketRail(0.2, 0.24774070739746096)",
+        "FA26_PH02_Fitness218_032_ExerciseBall0.2",
+        "FA26_PH02_Fitness218_032_BasketRail(0.73, -0.24774070739746096)",
+        "FA26_PH02_Fitness218_032_BasketRail(0.73, 0.24774070739746096)",
+        "FA26_PH02_Fitness218_032_ExerciseBall0.73",
+        "FA26_PH02_Fitness218_032_BasketRail(1.27, -0.24774070739746096)",
+        "FA26_PH02_Fitness218_032_BasketRail(1.27, 0.24774070739746096)",
+        "FA26_PH02_Fitness218_032_ExerciseBall1.27"
+      ],
+      "source_bounds_m": [
+        [
+          -35.17082595825195,
+          21.160005569458008,
+          4.267199516296387
+        ],
+        [
+          -34.53879928588867,
+          21.782926559448242,
+          5.9212212562561035
+        ]
+      ],
+      "supported_raster_cells": 155,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH02_Fitness218_033",
+      "level": "upper",
+      "provenance": "generic estimated geometry",
+      "source_objects": [
+        "FA26_PH02_Fitness218_033_RackEnd-0.636428508758545",
+        "FA26_PH02_Fitness218_033_RackEnd0.636428508758545",
+        "FA26_PH02_Fitness218_033_Shelf0.14",
+        "FA26_PH02_Fitness218_033_WeightDisc(0.14, 0)",
+        "FA26_PH02_Fitness218_033_WeightDisc(0.14, 1)",
+        "FA26_PH02_Fitness218_033_WeightDisc(0.14, 2)",
+        "FA26_PH02_Fitness218_033_WeightDisc(0.14, 3)",
+        "FA26_PH02_Fitness218_033_Shelf0.44",
+        "FA26_PH02_Fitness218_033_WeightDisc(0.44, 0)",
+        "FA26_PH02_Fitness218_033_WeightDisc(0.44, 1)",
+        "FA26_PH02_Fitness218_033_WeightDisc(0.44, 2)",
+        "FA26_PH02_Fitness218_033_WeightDisc(0.44, 3)",
+        "FA26_PH02_Fitness218_033_Shelf0.72",
+        "FA26_PH02_Fitness218_033_WeightDisc(0.72, 0)",
+        "FA26_PH02_Fitness218_033_WeightDisc(0.72, 1)",
+        "FA26_PH02_Fitness218_033_WeightDisc(0.72, 2)",
+        "FA26_PH02_Fitness218_033_WeightDisc(0.72, 3)"
+      ],
+      "source_bounds_m": [
+        [
+          -32.91080093383789,
+          25.59880256652832,
+          4.267199516296387
+        ],
+        [
+          -31.50473976135254,
+          25.996828079223633,
+          5.122199535369873
+        ]
+      ],
+      "supported_raster_cells": 374,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH02_Fitness218_034",
+      "level": "upper",
+      "provenance": "generic estimated geometry",
+      "source_objects": [
+        "FA26_PH02_Fitness218_034_Cabinet",
+        "FA26_PH02_Fitness218_034_OakWorktop",
+        "FA26_PH02_Fitness218_034_Door-0.22952453613281248",
+        "FA26_PH02_Fitness218_034_Pull-0.22952453613281248",
+        "FA26_PH02_Fitness218_034_Door0.22952453613281248",
+        "FA26_PH02_Fitness218_034_Pull0.22952453613281248"
+      ],
+      "source_bounds_m": [
+        [
+          -31.37665557861328,
+          25.575822830200195,
+          4.267199516296387
+        ],
+        [
+          -30.420303344726562,
+          26.01413345336914,
+          5.147199630737305
+        ]
+      ],
+      "supported_raster_cells": 288,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH02_Fitness218_040",
+      "level": "upper",
+      "provenance": "generic estimated geometry",
+      "source_objects": [
+        "FA26_PH02_Fitness218_040_RackEnd-0.20071937561035155",
+        "FA26_PH02_Fitness218_040_RackEnd0.20071937561035155",
+        "FA26_PH02_Fitness218_040_Shelf0.14",
+        "FA26_PH02_Fitness218_040_WeightDisc(0.14, 0)",
+        "FA26_PH02_Fitness218_040_WeightDisc(0.14, 1)",
+        "FA26_PH02_Fitness218_040_WeightDisc(0.14, 2)",
+        "FA26_PH02_Fitness218_040_WeightDisc(0.14, 3)",
+        "FA26_PH02_Fitness218_040_Shelf0.44",
+        "FA26_PH02_Fitness218_040_WeightDisc(0.44, 0)",
+        "FA26_PH02_Fitness218_040_WeightDisc(0.44, 1)",
+        "FA26_PH02_Fitness218_040_WeightDisc(0.44, 2)",
+        "FA26_PH02_Fitness218_040_WeightDisc(0.44, 3)",
+        "FA26_PH02_Fitness218_040_Shelf0.72",
+        "FA26_PH02_Fitness218_040_WeightDisc(0.72, 0)",
+        "FA26_PH02_Fitness218_040_WeightDisc(0.72, 1)",
+        "FA26_PH02_Fitness218_040_WeightDisc(0.72, 2)",
+        "FA26_PH02_Fitness218_040_WeightDisc(0.72, 3)"
+      ],
+      "source_bounds_m": [
+        [
+          -26.471363067626953,
+          19.091062545776367,
+          4.267199516296387
+        ],
+        [
+          -26.025928497314453,
+          19.593828201293945,
+          5.122199535369873
+        ]
+      ],
+      "supported_raster_cells": 156,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH02_Fitness218_043",
+      "level": "upper",
+      "provenance": "generic estimated geometry",
+      "source_objects": [
+        "FA26_PH02_Fitness218_043_RackEnd-0.670697250366211",
+        "FA26_PH02_Fitness218_043_RackEnd0.670697250366211",
+        "FA26_PH02_Fitness218_043_Shelf0.14",
+        "FA26_PH02_Fitness218_043_Kettlebell(0.14, 0)",
+        "FA26_PH02_Fitness218_043_KBHandleLeft(0.14, 0)",
+        "FA26_PH02_Fitness218_043_KBHandleTop(0.14, 0)",
+        "FA26_PH02_Fitness218_043_KBHandleRight(0.14, 0)",
+        "FA26_PH02_Fitness218_043_Kettlebell(0.14, 1)",
+        "FA26_PH02_Fitness218_043_KBHandleLeft(0.14, 1)",
+        "FA26_PH02_Fitness218_043_KBHandleTop(0.14, 1)",
+        "FA26_PH02_Fitness218_043_KBHandleRight(0.14, 1)",
+        "FA26_PH02_Fitness218_043_Kettlebell(0.14, 2)",
+        "FA26_PH02_Fitness218_043_KBHandleLeft(0.14, 2)",
+        "FA26_PH02_Fitness218_043_KBHandleTop(0.14, 2)",
+        "FA26_PH02_Fitness218_043_KBHandleRight(0.14, 2)",
+        "FA26_PH02_Fitness218_043_Kettlebell(0.14, 3)",
+        "FA26_PH02_Fitness218_043_KBHandleLeft(0.14, 3)",
+        "FA26_PH02_Fitness218_043_KBHandleTop(0.14, 3)",
+        "FA26_PH02_Fitness218_043_KBHandleRight(0.14, 3)",
+        "FA26_PH02_Fitness218_043_Shelf0.44",
+        "FA26_PH02_Fitness218_043_Kettlebell(0.44, 0)",
+        "FA26_PH02_Fitness218_043_KBHandleLeft(0.44, 0)",
+        "FA26_PH02_Fitness218_043_KBHandleTop(0.44, 0)",
+        "FA26_PH02_Fitness218_043_KBHandleRight(0.44, 0)",
+        "FA26_PH02_Fitness218_043_Kettlebell(0.44, 1)",
+        "FA26_PH02_Fitness218_043_KBHandleLeft(0.44, 1)",
+        "FA26_PH02_Fitness218_043_KBHandleTop(0.44, 1)",
+        "FA26_PH02_Fitness218_043_KBHandleRight(0.44, 1)",
+        "FA26_PH02_Fitness218_043_Kettlebell(0.44, 2)",
+        "FA26_PH02_Fitness218_043_KBHandleLeft(0.44, 2)",
+        "FA26_PH02_Fitness218_043_KBHandleTop(0.44, 2)",
+        "FA26_PH02_Fitness218_043_KBHandleRight(0.44, 2)",
+        "FA26_PH02_Fitness218_043_Kettlebell(0.44, 3)",
+        "FA26_PH02_Fitness218_043_KBHandleLeft(0.44, 3)",
+        "FA26_PH02_Fitness218_043_KBHandleTop(0.44, 3)",
+        "FA26_PH02_Fitness218_043_KBHandleRight(0.44, 3)",
+        "FA26_PH02_Fitness218_043_Shelf0.72",
+        "FA26_PH02_Fitness218_043_Kettlebell(0.72, 0)",
+        "FA26_PH02_Fitness218_043_KBHandleLeft(0.72, 0)",
+        "FA26_PH02_Fitness218_043_KBHandleTop(0.72, 0)",
+        "FA26_PH02_Fitness218_043_KBHandleRight(0.72, 0)",
+        "FA26_PH02_Fitness218_043_Kettlebell(0.72, 1)",
+        "FA26_PH02_Fitness218_043_KBHandleLeft(0.72, 1)",
+        "FA26_PH02_Fitness218_043_KBHandleTop(0.72, 1)",
+        "FA26_PH02_Fitness218_043_KBHandleRight(0.72, 1)",
+        "FA26_PH02_Fitness218_043_Kettlebell(0.72, 2)",
+        "FA26_PH02_Fitness218_043_KBHandleLeft(0.72, 2)",
+        "FA26_PH02_Fitness218_043_KBHandleTop(0.72, 2)",
+        "FA26_PH02_Fitness218_043_KBHandleRight(0.72, 2)",
+        "FA26_PH02_Fitness218_043_Kettlebell(0.72, 3)",
+        "FA26_PH02_Fitness218_043_KBHandleLeft(0.72, 3)",
+        "FA26_PH02_Fitness218_043_KBHandleTop(0.72, 3)",
+        "FA26_PH02_Fitness218_043_KBHandleRight(0.72, 3)"
+      ],
+      "source_bounds_m": [
+        [
+          -36.472354888916016,
+          19.010000228881836,
+          4.267199516296387
+        ],
+        [
+          -34.99058151245117,
+          19.48134422302246,
+          5.1461992263793945
+        ]
+      ],
+      "supported_raster_cells": 468,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "PH10_Fitness218_058",
+      "level": "upper",
+      "provenance": "generic estimated geometry",
+      "source_objects": [
+        "FA26_PH10_Fitness218_058_StandBase",
+        "FA26_PH10_Fitness218_058_Stand",
+        "FA26_PH10_Fitness218_058_Bowl",
+        "FA26_PH10_Fitness218_058_ChalkSurface"
+      ],
+      "source_bounds_m": [
+        [
+          -26.59995460510254,
+          26.274351119995117,
+          4.267199516296387
+        ],
+        [
+          -26.173147201538086,
+          26.70115852355957,
+          5.236199378967285
+        ]
+      ],
+      "supported_raster_cells": 118,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    },
+    {
+      "id": "OriginalFitness_U218_Corrected",
+      "level": "upper",
+      "provenance": "corrected existing source geometry, schematic support",
+      "source_objects": [
+        "RE07_PH02_Fitness218_003_0",
+        "RE07_PH02_Fitness218_003_1",
+        "RE07_PH02_Fitness218_004_0",
+        "RE07_PH02_Fitness218_004_1",
+        "RE07_PH02_Fitness218_005_0",
+        "RE07_PH02_Fitness218_005_1",
+        "RE07_PH02_Fitness218_006_0",
+        "RE07_PH02_Fitness218_006_1",
+        "RE07_PH02_Fitness218_007_0",
+        "RE07_PH02_Fitness218_007_1",
+        "RE07_PH02_Fitness218_008_0",
+        "RE07_PH02_Fitness218_008_1",
+        "RE07_PH02_Fitness218_009_0",
+        "RE07_PH02_Fitness218_009_1",
+        "RE07_PH02_Fitness218_009_2",
+        "RE07_PH02_Fitness218_010_0",
+        "RE07_PH02_Fitness218_011_0",
+        "RE07_PH02_Fitness218_011_1",
+        "RE07_PH02_Fitness218_011_2",
+        "RE07_PH02_Fitness218_012_0",
+        "RE07_PH02_Fitness218_013_0",
+        "RE07_PH02_Fitness218_013_1",
+        "RE07_PH02_Fitness218_013_2",
+        "RE07_PH02_Fitness218_014_0",
+        "RE07_PH02_Fitness218_015_0",
+        "RE07_PH02_Fitness218_015_1",
+        "RE07_PH02_Fitness218_015_2",
+        "RE07_PH02_Fitness218_016_0",
+        "RE07_PH02_Fitness218_017_0",
+        "RE07_PH02_Fitness218_017_1",
+        "RE07_PH02_Fitness218_017_2",
+        "RE07_PH02_Fitness218_018_0",
+        "RE07_PH02_Fitness218_035_0",
+        "RE07_PH02_Fitness218_036_0",
+        "RE07_PH02_Fitness218_037_0",
+        "RE07_PH02_Fitness218_038_0",
+        "RE07_PH02_Fitness218_039_0"
+      ],
+      "source_bounds_m": [
+        [
+          -43.22857666015625,
+          19.729537963867188,
+          4.279200077056885
+        ],
+        [
+          -26.00812339782715,
+          29.11088752746582,
+          6.179199695587158
+        ]
+      ],
+      "supported_raster_cells": 16470,
+      "clipped_outside_floor_cells": 0,
+      "simplification": "0.5 mm maximum surface envelope; vertically filled to base; 0.5 mm broadening each side; height cap 3.2 m; thin cavities/rods merged into solid support"
+    }
+  ],
+  "omitted_groups": [
+    {
+      "id": "PH19_G126_TrophyCase_0",
+      "reason": "omit trophy contents/cases at display scale"
+    },
+    {
+      "id": "PH19_G126_TrophyCase_1",
+      "reason": "omit trophy contents/cases at display scale"
+    },
+    {
+      "id": "PH02_Fitness218_044",
+      "reason": "omit thin wall racks at display scale"
+    },
+    {
+      "id": "PH02_Fitness218_045",
+      "reason": "omit thin wall racks at display scale"
+    },
+    {
+      "id": "PH10_Fitness218_057",
+      "reason": "omit thin wall racks at display scale"
+    }
+  ],
+  "art_presentations_omitted": 11,
+  "families": [
+    {
+      "family": "ground_furnished",
+      "regions": [
+        {
+          "region": "A1",
+          "baseline_files": [
+            "Ground_Furnished_A1.stl"
+          ],
+          "variant_files": [
+            "Ground_Furnished_A1.stl"
+          ],
+          "volume_delta_mm3": 14278.799352645874,
+          "changed_geometry": true,
+          "piece_numbering_note": "Suffixes assigned by descending component volume, then bounds. Use variant assembly offsets; source baseline suffix identity is not assumed.",
+          "pieces": [
+            {
+              "file": "ground_furnished\\print_tiles\\Ground_Furnished_A1.stl",
+              "sha256": "1bde29bd2b2cbf5c5ec54fb32d5acbc05308047c913a754c98097a9a0bafc563",
+              "dimensions_mm": [
+                245.5,
+                190.0,
+                53.56800079345703
+              ],
+              "assembly_offset_mm": [
+                17.5,
+                97.0,
+                0.0
+              ],
+              "volume_mm3": 621288.4733564457,
+              "region_has_furniture_geometry_change": true,
+              "baseline_region_candidates": [
+                {
+                  "file": "ground_furnished\\print_tiles\\Ground_Furnished_A1.stl",
+                  "sha256": "c308b73049aa2e31d828342e967024331104f619d7a3caf6803e6080819f8293",
+                  "assembly_offset_mm": [
+                    17.5,
+                    97.0,
+                    0.0
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "region": "A2",
+          "baseline_files": [
+            "Ground_Furnished_A2.stl"
+          ],
+          "variant_files": [
+            "Ground_Furnished_A2.stl"
+          ],
+          "volume_delta_mm3": 4454.442869385064,
+          "changed_geometry": true,
+          "piece_numbering_note": "Suffixes assigned by descending component volume, then bounds. Use variant assembly offsets; source baseline suffix identity is not assumed.",
+          "pieces": [
+            {
+              "file": "ground_furnished\\print_tiles\\Ground_Furnished_A2.stl",
+              "sha256": "90063fa52f2b50cbdc74ececf0c944a733be592a4af672e4cc7f1cfb822fb3af",
+              "dimensions_mm": [
+                245.5,
+                279.0,
+                53.56800079345703
+              ],
+              "assembly_offset_mm": [
+                263.0,
+                8.0,
+                0.0
+              ],
+              "volume_mm3": 512889.70028179884,
+              "region_has_furniture_geometry_change": true,
+              "baseline_region_candidates": [
+                {
+                  "file": "ground_furnished\\print_tiles\\Ground_Furnished_A2.stl",
+                  "sha256": "d5e1160362106805de7eb03aedae03a6621dc7d54b68e52224d1ade7a849c2d0",
+                  "assembly_offset_mm": [
+                    263.0,
+                    8.0,
+                    0.0
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "region": "A3",
+          "baseline_files": [
+            "Ground_Furnished_A3.stl"
+          ],
+          "variant_files": [
+            "Ground_Furnished_A3.stl"
+          ],
+          "volume_delta_mm3": 2165.8558447162504,
+          "changed_geometry": true,
+          "piece_numbering_note": "Suffixes assigned by descending component volume, then bounds. Use variant assembly offsets; source baseline suffix identity is not assumed.",
+          "pieces": [
+            {
+              "file": "ground_furnished\\print_tiles\\Ground_Furnished_A3.stl",
+              "sha256": "fb3ee28b788b9bcd8c63f495e034e361a3f6019ea7ebc63a0bbb057bd6f43bbb",
+              "dimensions_mm": [
+                245.5,
+                263.0,
+                53.56800079345703
+              ],
+              "assembly_offset_mm": [
+                508.5,
+                24.0,
+                0.0
+              ],
+              "volume_mm3": 520320.67817715806,
+              "region_has_furniture_geometry_change": true,
+              "baseline_region_candidates": [
+                {
+                  "file": "ground_furnished\\print_tiles\\Ground_Furnished_A3.stl",
+                  "sha256": "b406643b35181f250f71e323fe1d05f7cad43632fc4d29f9750d1a44b0423031",
+                  "assembly_offset_mm": [
+                    508.5,
+                    24.0,
+                    0.0
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "region": "B1",
+          "baseline_files": [
+            "Ground_Furnished_B1_1.stl",
+            "Ground_Furnished_B1_2.stl"
+          ],
+          "variant_files": [
+            "Ground_Furnished_B1_1.stl",
+            "Ground_Furnished_B1_2.stl"
+          ],
+          "volume_delta_mm3": 46060.0986933487,
+          "changed_geometry": true,
+          "piece_numbering_note": "Suffixes assigned by descending component volume, then bounds. Use variant assembly offsets; source baseline suffix identity is not assumed.",
+          "pieces": [
+            {
+              "file": "ground_furnished\\print_tiles\\Ground_Furnished_B1_1.stl",
+              "sha256": "bcb22ccff236b77a005974be8c21d90e2a9fa4d1270f6f6391356f30f1f07fce",
+              "dimensions_mm": [
+                224.5,
+                191.5,
+                53.56800079345703
+              ],
+              "assembly_offset_mm": [
+                17.5,
+                287.0,
+                0.0
+              ],
+              "volume_mm3": 495254.0953316467,
+              "region_has_furniture_geometry_change": true,
+              "baseline_region_candidates": [
+                {
+                  "file": "ground_furnished\\print_tiles\\Ground_Furnished_B1_1.stl",
+                  "sha256": "6fa2b2b808239b381ca557ba778eafeb428bc293eb8f4b5c3a99a89f62b63ce0",
+                  "assembly_offset_mm": [
+                    17.5,
+                    287.0,
+                    0.0
+                  ]
+                },
+                {
+                  "file": "ground_furnished\\print_tiles\\Ground_Furnished_B1_2.stl",
+                  "sha256": "9c6e192e9eed77fcfd3957d9318127318fcab3259914e578fb46ad068d6b936e",
+                  "assembly_offset_mm": [
+                    243.5,
+                    287.0,
+                    0.0
+                  ]
+                }
+              ]
+            },
+            {
+              "file": "ground_furnished\\print_tiles\\Ground_Furnished_B1_2.stl",
+              "sha256": "4388e40ce588f28da87d73c86f6429fe4cd544a15a0c7e67ec5622e5817fd044",
+              "dimensions_mm": [
+                19.5,
+                279.0,
+                53.56800079345703
+              ],
+              "assembly_offset_mm": [
+                243.5,
+                287.0,
+                0.0
+              ],
+              "volume_mm3": 80675.34102074306,
+              "region_has_furniture_geometry_change": true,
+              "baseline_region_candidates": [
+                {
+                  "file": "ground_furnished\\print_tiles\\Ground_Furnished_B1_1.stl",
+                  "sha256": "6fa2b2b808239b381ca557ba778eafeb428bc293eb8f4b5c3a99a89f62b63ce0",
+                  "assembly_offset_mm": [
+                    17.5,
+                    287.0,
+                    0.0
+                  ]
+                },
+                {
+                  "file": "ground_furnished\\print_tiles\\Ground_Furnished_B1_2.stl",
+                  "sha256": "9c6e192e9eed77fcfd3957d9318127318fcab3259914e578fb46ad068d6b936e",
+                  "assembly_offset_mm": [
+                    243.5,
+                    287.0,
+                    0.0
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "region": "B2",
+          "baseline_files": [
+            "Ground_Furnished_B2.stl"
+          ],
+          "variant_files": [
+            "Ground_Furnished_B2.stl"
+          ],
+          "volume_delta_mm3": 11610.049425840378,
+          "changed_geometry": true,
+          "piece_numbering_note": "Suffixes assigned by descending component volume, then bounds. Use variant assembly offsets; source baseline suffix identity is not assumed.",
+          "pieces": [
+            {
+              "file": "ground_furnished\\print_tiles\\Ground_Furnished_B2.stl",
+              "sha256": "7b481eb7f81fac20d9718da68500bf4e61743ce4a5a5d4ebeb57d299d8a41a77",
+              "dimensions_mm": [
+                245.5,
+                279.0,
+                53.56800079345703
+              ],
+              "assembly_offset_mm": [
+                263.0,
+                287.0,
+                0.0
+              ],
+              "volume_mm3": 367321.8868230581,
+              "region_has_furniture_geometry_change": true,
+              "baseline_region_candidates": [
+                {
+                  "file": "ground_furnished\\print_tiles\\Ground_Furnished_B2.stl",
+                  "sha256": "3b84656f2884ec7903140776d53772625c6e456bc7f4edb0c24ccf4a4187d081",
+                  "assembly_offset_mm": [
+                    263.0,
+                    287.0,
+                    0.0
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "region": "B3",
+          "baseline_files": [
+            "Ground_Furnished_B3_1.stl",
+            "Ground_Furnished_B3_2.stl"
+          ],
+          "variant_files": [
+            "Ground_Furnished_B3_1.stl",
+            "Ground_Furnished_B3_2.stl"
+          ],
+          "volume_delta_mm3": 10262.382323212922,
+          "changed_geometry": true,
+          "piece_numbering_note": "Suffixes assigned by descending component volume, then bounds. Use variant assembly offsets; source baseline suffix identity is not assumed.",
+          "pieces": [
+            {
+              "file": "ground_furnished\\print_tiles\\Ground_Furnished_B3_1.stl",
+              "sha256": "39bfca40afc99db4cdf9188d8a449c392d37457da88b5ea2955c5924cc006108",
+              "dimensions_mm": [
+                188.0,
+                93.5,
+                53.56800079345703
+              ],
+              "assembly_offset_mm": [
+                537.0,
+                287.0,
+                0.0
+              ],
+              "volume_mm3": 162445.56564659625,
+              "region_has_furniture_geometry_change": true,
+              "baseline_region_candidates": [
+                {
+                  "file": "ground_furnished\\print_tiles\\Ground_Furnished_B3_1.stl",
+                  "sha256": "5139dbd07e9e28641d056b0664ad1e12cd0763aa6b3c44a72e6a5f7e68ec2d46",
+                  "assembly_offset_mm": [
+                    537.0,
+                    287.0,
+                    0.0
+                  ]
+                },
+                {
+                  "file": "ground_furnished\\print_tiles\\Ground_Furnished_B3_2.stl",
+                  "sha256": "a740036f38f9b98896d0b2843278160de035af374b2d28eb0f11a8c76f745e18",
+                  "assembly_offset_mm": [
+                    508.5,
+                    287.0,
+                    0.0
+                  ]
+                }
+              ]
+            },
+            {
+              "file": "ground_furnished\\print_tiles\\Ground_Furnished_B3_2.stl",
+              "sha256": "8181e155549358e6153eb7a57438adecc3ba2139e6bb97736f98515ac7a32eaf",
+              "dimensions_mm": [
+                27.0,
+                279.0,
+                53.56800079345703
+              ],
+              "assembly_offset_mm": [
+                508.5,
+                287.0,
+                0.0
+              ],
+              "volume_mm3": 76235.53793211778,
+              "region_has_furniture_geometry_change": true,
+              "baseline_region_candidates": [
+                {
+                  "file": "ground_furnished\\print_tiles\\Ground_Furnished_B3_1.stl",
+                  "sha256": "5139dbd07e9e28641d056b0664ad1e12cd0763aa6b3c44a72e6a5f7e68ec2d46",
+                  "assembly_offset_mm": [
+                    537.0,
+                    287.0,
+                    0.0
+                  ]
+                },
+                {
+                  "file": "ground_furnished\\print_tiles\\Ground_Furnished_B3_2.stl",
+                  "sha256": "a740036f38f9b98896d0b2843278160de035af374b2d28eb0f11a8c76f745e18",
+                  "assembly_offset_mm": [
+                    508.5,
+                    287.0,
+                    0.0
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "family": "ground_enclosed",
+      "regions": [
+        {
+          "region": "A1",
+          "baseline_files": [
+            "Ground_Enclosed_A1.stl"
+          ],
+          "variant_files": [
+            "Ground_Enclosed_A1.stl"
+          ],
+          "volume_delta_mm3": 14277.910958199063,
+          "changed_geometry": true,
+          "piece_numbering_note": "Suffixes assigned by descending component volume, then bounds. Use variant assembly offsets; source baseline suffix identity is not assumed.",
+          "pieces": [
+            {
+              "file": "ground_enclosed\\print_tiles\\Ground_Enclosed_A1.stl",
+              "sha256": "fedfd0299aad337de7e5c90556ce36062f9ce56610ce3898ffa20cab72349b43",
+              "dimensions_mm": [
+                245.5,
+                190.0,
+                53.56800079345703
+              ],
+              "assembly_offset_mm": [
+                17.5,
+                97.0,
+                0.0
+              ],
+              "volume_mm3": 647822.4494374633,
+              "region_has_furniture_geometry_change": true,
+              "baseline_region_candidates": [
+                {
+                  "file": "ground_enclosed\\print_tiles\\Ground_Enclosed_A1.stl",
+                  "sha256": "e32a74bdfc7f2737591ba8a2e543e0f84cd1ce0734631b81430045dd1988746c",
+                  "assembly_offset_mm": [
+                    17.5,
+                    97.0,
+                    0.0
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "region": "A2",
+          "baseline_files": [
+            "Ground_Enclosed_A2.stl"
+          ],
+          "variant_files": [
+            "Ground_Enclosed_A2.stl"
+          ],
+          "volume_delta_mm3": 4454.272486440255,
+          "changed_geometry": true,
+          "piece_numbering_note": "Suffixes assigned by descending component volume, then bounds. Use variant assembly offsets; source baseline suffix identity is not assumed.",
+          "pieces": [
+            {
+              "file": "ground_enclosed\\print_tiles\\Ground_Enclosed_A2.stl",
+              "sha256": "9f134fcb5edf317825faa17fcb2903e605db683d01ba22f54e9d75ea7f882095",
+              "dimensions_mm": [
+                245.5,
+                279.0,
+                53.56800079345703
+              ],
+              "assembly_offset_mm": [
+                263.0,
+                8.0,
+                0.0
+              ],
+              "volume_mm3": 541769.4475812798,
+              "region_has_furniture_geometry_change": true,
+              "baseline_region_candidates": [
+                {
+                  "file": "ground_enclosed\\print_tiles\\Ground_Enclosed_A2.stl",
+                  "sha256": "c8d06d61e8220b3e43c82055744e84b45b6307053a44819abda89836affae88d",
+                  "assembly_offset_mm": [
+                    263.0,
+                    8.0,
+                    0.0
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "region": "A3",
+          "baseline_files": [
+            "Ground_Enclosed_A3.stl"
+          ],
+          "variant_files": [
+            "Ground_Enclosed_A3.stl"
+          ],
+          "volume_delta_mm3": 2165.272085539531,
+          "changed_geometry": true,
+          "piece_numbering_note": "Suffixes assigned by descending component volume, then bounds. Use variant assembly offsets; source baseline suffix identity is not assumed.",
+          "pieces": [
+            {
+              "file": "ground_enclosed\\print_tiles\\Ground_Enclosed_A3.stl",
+              "sha256": "39fcc01d2fe12ae8b6ecab4719240e88da170c1e1aca55ad442d8d71c65b6789",
+              "dimensions_mm": [
+                245.5,
+                263.0,
+                53.56800079345703
+              ],
+              "assembly_offset_mm": [
+                508.5,
+                24.0,
+                0.0
+              ],
+              "volume_mm3": 582933.8765094229,
+              "region_has_furniture_geometry_change": true,
+              "baseline_region_candidates": [
+                {
+                  "file": "ground_enclosed\\print_tiles\\Ground_Enclosed_A3.stl",
+                  "sha256": "9488f770075ac3ac00a6fe334839303514229e3a50f7108b17fa5cbae7ebabe1",
+                  "assembly_offset_mm": [
+                    508.5,
+                    24.0,
+                    0.0
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "region": "B1",
+          "baseline_files": [
+            "Ground_Enclosed_B1.stl"
+          ],
+          "variant_files": [
+            "Ground_Enclosed_B1.stl"
+          ],
+          "volume_delta_mm3": 45157.53375639289,
+          "changed_geometry": true,
+          "piece_numbering_note": "Suffixes assigned by descending component volume, then bounds. Use variant assembly offsets; source baseline suffix identity is not assumed.",
+          "pieces": [
+            {
+              "file": "ground_enclosed\\print_tiles\\Ground_Enclosed_B1.stl",
+              "sha256": "57f30151d6725dbfb0c25df29ef3d8dabae22da31c71f6735cc474f306c18689",
+              "dimensions_mm": [
+                245.5,
+                279.0,
+                53.56800079345703
+              ],
+              "assembly_offset_mm": [
+                17.5,
+                287.0,
+                0.0
+              ],
+              "volume_mm3": 607311.3508098404,
+              "region_has_furniture_geometry_change": true,
+              "baseline_region_candidates": [
+                {
+                  "file": "ground_enclosed\\print_tiles\\Ground_Enclosed_B1.stl",
+                  "sha256": "16de6388f8ad80d53fbbfbf1d1390dc09455ec2a6ec9214f172d183f566d5b06",
+                  "assembly_offset_mm": [
+                    17.5,
+                    287.0,
+                    0.0
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "region": "B2",
+          "baseline_files": [
+            "Ground_Enclosed_B2.stl"
+          ],
+          "variant_files": [
+            "Ground_Enclosed_B2.stl"
+          ],
+          "volume_delta_mm3": 11609.94154011528,
+          "changed_geometry": true,
+          "piece_numbering_note": "Suffixes assigned by descending component volume, then bounds. Use variant assembly offsets; source baseline suffix identity is not assumed.",
+          "pieces": [
+            {
+              "file": "ground_enclosed\\print_tiles\\Ground_Enclosed_B2.stl",
+              "sha256": "547df731d56ee58bf1545c74f4b2a77ed917cd935e9e511f2c4df5b1d5b5e4d0",
+              "dimensions_mm": [
+                245.5,
+                279.0,
+                53.56800079345703
+              ],
+              "assembly_offset_mm": [
+                263.0,
+                287.0,
+                0.0
+              ],
+              "volume_mm3": 380548.8447013732,
+              "region_has_furniture_geometry_change": true,
+              "baseline_region_candidates": [
+                {
+                  "file": "ground_enclosed\\print_tiles\\Ground_Enclosed_B2.stl",
+                  "sha256": "260d2a75b34d18dab74d2b60e54f05b1ee8059812bf9e3c96988c06839ea6b21",
+                  "assembly_offset_mm": [
+                    263.0,
+                    287.0,
+                    0.0
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "region": "B3",
+          "baseline_files": [
+            "Ground_Enclosed_B3.stl"
+          ],
+          "variant_files": [
+            "Ground_Enclosed_B3.stl"
+          ],
+          "volume_delta_mm3": 9066.597870784346,
+          "changed_geometry": true,
+          "piece_numbering_note": "Suffixes assigned by descending component volume, then bounds. Use variant assembly offsets; source baseline suffix identity is not assumed.",
+          "pieces": [
+            {
+              "file": "ground_enclosed\\print_tiles\\Ground_Enclosed_B3.stl",
+              "sha256": "63512c44d7c23d0d7c51d81f663b729a2deffbf3322130e79e24dad61c6048cd",
+              "dimensions_mm": [
+                216.5,
+                279.0,
+                53.56800079345703
+              ],
+              "assembly_offset_mm": [
+                508.5,
+                287.0,
+                0.0
+              ],
+              "volume_mm3": 274924.3375821119,
+              "region_has_furniture_geometry_change": true,
+              "baseline_region_candidates": [
+                {
+                  "file": "ground_enclosed\\print_tiles\\Ground_Enclosed_B3.stl",
+                  "sha256": "8ac84fa9278d0d49260d8a5dbd7aae22cba8bfbac18f8f2852986f9539997244",
+                  "assembly_offset_mm": [
+                    508.5,
+                    287.0,
+                    0.0
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "family": "ground_acrylic",
+      "regions": [
+        {
+          "region": "A1",
+          "baseline_files": [
+            "Ground_Acrylic_A1.stl"
+          ],
+          "variant_files": [
+            "Ground_Acrylic_A1.stl"
+          ],
+          "volume_delta_mm3": 14722.003340490279,
+          "changed_geometry": true,
+          "piece_numbering_note": "Suffixes assigned by descending component volume, then bounds. Use variant assembly offsets; source baseline suffix identity is not assumed.",
+          "pieces": [
+            {
+              "file": "ground_acrylic\\print_tiles\\Ground_Acrylic_A1.stl",
+              "sha256": "fc8125fa240896de51000d9f541fa6035265ea14214bd7a7757b8bfd06f42f1a",
+              "dimensions_mm": [
+                246.42440795898438,
+                192.7949981689453,
+                53.56800079345703
+              ],
+              "assembly_offset_mm": [
+                17.5,
+                94.20500183105469,
+                0.0
+              ],
+              "volume_mm3": 643640.480494937,
+              "region_has_furniture_geometry_change": true,
+              "baseline_region_candidates": [
+                {
+                  "file": "ground_acrylic\\print_tiles\\Ground_Acrylic_A1.stl",
+                  "sha256": "63e3bc241bf5a4cda238e883d223a20b66c6c3883d9b5b143e8417ae4d56f200",
+                  "assembly_offset_mm": [
+                    17.5,
+                    94.20538330078125,
+                    0.0
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "region": "A2",
+          "baseline_files": [
+            "Ground_Acrylic_A2.stl"
+          ],
+          "variant_files": [
+            "Ground_Acrylic_A2.stl"
+          ],
+          "volume_delta_mm3": 4007.4364914098987,
+          "changed_geometry": true,
+          "piece_numbering_note": "Suffixes assigned by descending component volume, then bounds. Use variant assembly offsets; source baseline suffix identity is not assumed.",
+          "pieces": [
+            {
+              "file": "ground_acrylic\\print_tiles\\Ground_Acrylic_A2.stl",
+              "sha256": "644d1c85d855ba3c7682bcee6b2136b828e8635f9f5eaa51062efd7175522cd9",
+              "dimensions_mm": [
+                246.4244384765625,
+                279.0,
+                53.56800079345703
+              ],
+              "assembly_offset_mm": [
+                263.9244079589844,
+                8.0,
+                0.0
+              ],
+              "volume_mm3": 510617.19535715395,
+              "region_has_furniture_geometry_change": true,
+              "baseline_region_candidates": [
+                {
+                  "file": "ground_acrylic\\print_tiles\\Ground_Acrylic_A2.stl",
+                  "sha256": "de0e172291120323d8f1c4766c4c51988de83cf51292d06f32a5c2857f7d3c34",
+                  "assembly_offset_mm": [
+                    263.9244079589844,
+                    8.0,
+                    0.0
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "region": "A3",
+          "baseline_files": [
+            "Ground_Acrylic_A3.stl"
+          ],
+          "variant_files": [
+            "Ground_Acrylic_A3.stl"
+          ],
+          "volume_delta_mm3": 2165.8312083898927,
+          "changed_geometry": true,
+          "piece_numbering_note": "Suffixes assigned by descending component volume, then bounds. Use variant assembly offsets; source baseline suffix identity is not assumed.",
+          "pieces": [
+            {
+              "file": "ground_acrylic\\print_tiles\\Ground_Acrylic_A3.stl",
+              "sha256": "18170d012d8b12af2f968ea05446913de536b118429b3ec75af2172dce39596d",
+              "dimensions_mm": [
+                246.42416381835938,
+                265.746000289917,
+                53.56800079345703
+              ],
+              "assembly_offset_mm": [
+                510.3488464355469,
+                21.253999710083008,
+                0.0
+              ],
+              "volume_mm3": 521301.7139975789,
+              "region_has_furniture_geometry_change": true,
+              "baseline_region_candidates": [
+                {
+                  "file": "ground_acrylic\\print_tiles\\Ground_Acrylic_A3.stl",
+                  "sha256": "41ef199b0a9ce05f1aa9e8940cc3255f47c39d1b9ef3c327978d26e5bc7a9de2",
+                  "assembly_offset_mm": [
+                    510.3488464355469,
+                    21.25400161743164,
+                    0.0
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "region": "B1",
+          "baseline_files": [
+            "Ground_Acrylic_B1.stl"
+          ],
+          "variant_files": [
+            "Ground_Acrylic_B1.stl"
+          ],
+          "volume_delta_mm3": 46366.92722228053,
+          "changed_geometry": true,
+          "piece_numbering_note": "Suffixes assigned by descending component volume, then bounds. Use variant assembly offsets; source baseline suffix identity is not assumed.",
+          "pieces": [
+            {
+              "file": "ground_acrylic\\print_tiles\\Ground_Acrylic_B1.stl",
+              "sha256": "20d784bf68b9347162e3845e1c95a88aeb1efdb967cbac91bb6ab7641d20b2d4",
+              "dimensions_mm": [
+                246.42440795898438,
+                279.0,
+                53.56800079345703
+              ],
+              "assembly_offset_mm": [
+                17.5,
+                287.0,
+                0.0
+              ],
+              "volume_mm3": 599278.2681705911,
+              "region_has_furniture_geometry_change": true,
+              "baseline_region_candidates": [
+                {
+                  "file": "ground_acrylic\\print_tiles\\Ground_Acrylic_B1.stl",
+                  "sha256": "0212d7238c6443b5f2ba2caa8ddfc8ff46eda235534b5a071528dee71a5eb5e7",
+                  "assembly_offset_mm": [
+                    17.5,
+                    287.0,
+                    0.0
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "region": "B2",
+          "baseline_files": [
+            "Ground_Acrylic_B2.stl"
+          ],
+          "variant_files": [
+            "Ground_Acrylic_B2.stl"
+          ],
+          "volume_delta_mm3": 10416.576678291429,
+          "changed_geometry": true,
+          "piece_numbering_note": "Suffixes assigned by descending component volume, then bounds. Use variant assembly offsets; source baseline suffix identity is not assumed.",
+          "pieces": [
+            {
+              "file": "ground_acrylic\\print_tiles\\Ground_Acrylic_B2.stl",
+              "sha256": "e5032e376bb9b547dbd38d596b0584fd756a26eba35bf7c5b8a681d44ad38553",
+              "dimensions_mm": [
+                246.4244384765625,
+                279.0,
+                53.56800079345703
+              ],
+              "assembly_offset_mm": [
+                263.9244079589844,
+                287.0,
+                0.0
+              ],
+              "volume_mm3": 380744.7316423315,
+              "region_has_furniture_geometry_change": true,
+              "baseline_region_candidates": [
+                {
+                  "file": "ground_acrylic\\print_tiles\\Ground_Acrylic_B2.stl",
+                  "sha256": "dff76ba6442dd2f83359cd85e5598f839da5c5fcbd3feff4b2fee6aa557e28eb",
+                  "assembly_offset_mm": [
+                    263.9244079589844,
+                    287.0,
+                    0.0
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "region": "B3",
+          "baseline_files": [
+            "Ground_Acrylic_B3.stl"
+          ],
+          "variant_files": [
+            "Ground_Acrylic_B3.stl"
+          ],
+          "volume_delta_mm3": 9911.329120129929,
+          "changed_geometry": true,
+          "piece_numbering_note": "Suffixes assigned by descending component volume, then bounds. Use variant assembly offsets; source baseline suffix identity is not assumed.",
+          "pieces": [
+            {
+              "file": "ground_acrylic\\print_tiles\\Ground_Acrylic_B3.stl",
+              "sha256": "ed758e652bb8cfdf9fecaf170fcf58a5e7b4f09c3fe853fa201bbb0fd03cb6c6",
+              "dimensions_mm": [
+                217.24417114257812,
+                279.0,
+                53.56800079345703
+              ],
+              "assembly_offset_mm": [
+                510.3488464355469,
+                287.0,
+                0.0
+              ],
+              "volume_mm3": 238818.0184466717,
+              "region_has_furniture_geometry_change": true,
+              "baseline_region_candidates": [
+                {
+                  "file": "ground_acrylic\\print_tiles\\Ground_Acrylic_B3.stl",
+                  "sha256": "c91ccd28d5ec3cef29a384da995a3b61b2ec55bd3682ba947a7837f658e8a645",
+                  "assembly_offset_mm": [
+                    510.3488464355469,
+                    287.0,
+                    0.0
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "family": "upper_enclosed",
+      "regions": [
+        {
+          "region": "A1",
+          "baseline_files": [
+            "Upper_Enclosed_A1.stl"
+          ],
+          "variant_files": [
+            "Upper_Enclosed_A1.stl"
+          ],
+          "volume_delta_mm3": 5685.546192099457,
+          "changed_geometry": true,
+          "piece_numbering_note": "Suffixes assigned by descending component volume, then bounds. Use variant assembly offsets; source baseline suffix identity is not assumed.",
+          "pieces": [
+            {
+              "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_A1.stl",
+              "sha256": "a248bef059f23e0cb30b8206a54d1efea36ba0f5678ff3f3dd1d87154574240d",
+              "dimensions_mm": [
+                256.3190002441406,
+                188.11700439453125,
+                53.56800079345703
+              ],
+              "assembly_offset_mm": [
+                14.5,
+                100.0,
+                0.0
+              ],
+              "volume_mm3": 530051.7436576458,
+              "region_has_furniture_geometry_change": true,
+              "baseline_region_candidates": [
+                {
+                  "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_A1.stl",
+                  "sha256": "9c56cc271e6a4fff5217ec04ed12e1f1de7b263a5cd3b8319f17923e84501a29",
+                  "assembly_offset_mm": [
+                    14.5,
+                    100.0,
+                    0.0
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "region": "A2",
+          "baseline_files": [
+            "Upper_Enclosed_A2.stl"
+          ],
+          "variant_files": [
+            "Upper_Enclosed_A2.stl"
+          ],
+          "volume_delta_mm3": 2343.9032211358426,
+          "changed_geometry": true,
+          "piece_numbering_note": "Suffixes assigned by descending component volume, then bounds. Use variant assembly offsets; source baseline suffix identity is not assumed.",
+          "pieces": [
+            {
+              "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_A2.stl",
+              "sha256": "7bd626301fb49166fd54e34ee387f74c8b638367b48b369e09c2ed990e858078",
+              "dimensions_mm": [
+                256.3190002441406,
+                191.0,
+                53.56800079345703
+              ],
+              "assembly_offset_mm": [
+                270.8190002441406,
+                24.5,
+                0.0
+              ],
+              "volume_mm3": 492832.342391179,
+              "region_has_furniture_geometry_change": true,
+              "baseline_region_candidates": [
+                {
+                  "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_A2.stl",
+                  "sha256": "951d2609d9cd0901710caf7e74f25eae242d57491ad5044cd46e21ae228a01bc",
+                  "assembly_offset_mm": [
+                    270.8190002441406,
+                    24.5,
+                    0.0
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "region": "A3",
+          "baseline_files": [
+            "Upper_Enclosed_A3_1.stl",
+            "Upper_Enclosed_A3_2.stl"
+          ],
+          "variant_files": [
+            "Upper_Enclosed_A3_1.stl",
+            "Upper_Enclosed_A3_2.stl"
+          ],
+          "volume_delta_mm3": 499.21191524580354,
+          "changed_geometry": true,
+          "piece_numbering_note": "Suffixes assigned by descending component volume, then bounds. Use variant assembly offsets; source baseline suffix identity is not assumed.",
+          "pieces": [
+            {
+              "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_A3_1.stl",
+              "sha256": "13cc47c2f494ef915786614c386b8af9d4600eb8bee947b56db4d4ee6d360b99",
+              "dimensions_mm": [
+                256.3189697265625,
+                280.3830041885376,
+                53.56800079345703
+              ],
+              "assembly_offset_mm": [
+                527.1380004882812,
+                7.734000205993652,
+                0.0
+              ],
+              "volume_mm3": 285610.9923802614,
+              "region_has_furniture_geometry_change": true,
+              "baseline_region_candidates": [
+                {
+                  "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_A3_1.stl",
+                  "sha256": "71ca364c4315536999199f721f99f6d633293d8a5c6878568bbe50b813c25381",
+                  "assembly_offset_mm": [
+                    527.1380004882812,
+                    7.734000205993652,
+                    0.0
+                  ]
+                },
+                {
+                  "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_A3_2.stl",
+                  "sha256": "7b2eb4b6ac2887fd4c9a606fd7a1f975c7838aae66e57b87df3bcaf70e3a7055",
+                  "assembly_offset_mm": [
+                    556.5,
+                    122.5,
+                    0.0
+                  ]
+                }
+              ]
+            },
+            {
+              "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_A3_2.stl",
+              "sha256": "7b2eb4b6ac2887fd4c9a606fd7a1f975c7838aae66e57b87df3bcaf70e3a7055",
+              "dimensions_mm": [
+                1.5,
+                27.0,
+                17.06399917602539
+              ],
+              "assembly_offset_mm": [
+                556.5,
+                122.5,
+                0.0
+              ],
+              "volume_mm3": 462.18447983264923,
+              "region_has_furniture_geometry_change": true,
+              "baseline_region_candidates": [
+                {
+                  "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_A3_1.stl",
+                  "sha256": "71ca364c4315536999199f721f99f6d633293d8a5c6878568bbe50b813c25381",
+                  "assembly_offset_mm": [
+                    527.1380004882812,
+                    7.734000205993652,
+                    0.0
+                  ]
+                },
+                {
+                  "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_A3_2.stl",
+                  "sha256": "7b2eb4b6ac2887fd4c9a606fd7a1f975c7838aae66e57b87df3bcaf70e3a7055",
+                  "assembly_offset_mm": [
+                    556.5,
+                    122.5,
+                    0.0
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "region": "B1",
+          "baseline_files": [
+            "Upper_Enclosed_B1.stl"
+          ],
+          "variant_files": [
+            "Upper_Enclosed_B1.stl"
+          ],
+          "volume_delta_mm3": 8708.423128183786,
+          "changed_geometry": true,
+          "piece_numbering_note": "Suffixes assigned by descending component volume, then bounds. Use variant assembly offsets; source baseline suffix identity is not assumed.",
+          "pieces": [
+            {
+              "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_B1.stl",
+              "sha256": "359dd9d89e65fdb6db32da3b44ad314682e54f4067d33d8c0508b0a5df6a123d",
+              "dimensions_mm": [
+                256.3190002441406,
+                280.38299560546875,
+                53.56800079345703
+              ],
+              "assembly_offset_mm": [
+                14.5,
+                288.11700439453125,
+                0.0
+              ],
+              "volume_mm3": 266887.3497947257,
+              "region_has_furniture_geometry_change": true,
+              "baseline_region_candidates": [
+                {
+                  "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_B1.stl",
+                  "sha256": "03733b4fa4cf67420941ce8c2350a8cb21fdc4bbc92642e62b2e85edeafc8417",
+                  "assembly_offset_mm": [
+                    14.5,
+                    288.11700439453125,
+                    0.0
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "region": "B2",
+          "baseline_files": [
+            "Upper_Enclosed_B2.stl"
+          ],
+          "variant_files": [
+            "Upper_Enclosed_B2.stl"
+          ],
+          "volume_delta_mm3": 0.0,
+          "changed_geometry": false,
+          "piece_numbering_note": "Suffixes assigned by descending component volume, then bounds. Use variant assembly offsets; source baseline suffix identity is not assumed.",
+          "pieces": [
+            {
+              "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_B2.stl",
+              "sha256": "6b6f7d0cd11c6d0901b3f9bf128f997df37c9283d2c39cb7b4d6f90c0d93f153",
+              "dimensions_mm": [
+                256.3190002441406,
+                4.5,
+                53.56800079345703
+              ],
+              "assembly_offset_mm": [
+                270.8190002441406,
+                564.0,
+                0.0
+              ],
+              "volume_mm3": 61787.23383805307,
+              "region_has_furniture_geometry_change": false,
+              "baseline_region_candidates": [
+                {
+                  "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_B2.stl",
+                  "sha256": "6b6f7d0cd11c6d0901b3f9bf128f997df37c9283d2c39cb7b4d6f90c0d93f153",
+                  "assembly_offset_mm": [
+                    270.8190002441406,
+                    564.0,
+                    0.0
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "region": "B3",
+          "baseline_files": [
+            "Upper_Enclosed_B3_1.stl",
+            "Upper_Enclosed_B3_2.stl",
+            "Upper_Enclosed_B3_3.stl"
+          ],
+          "variant_files": [
+            "Upper_Enclosed_B3_1.stl",
+            "Upper_Enclosed_B3_2.stl",
+            "Upper_Enclosed_B3_3.stl"
+          ],
+          "volume_delta_mm3": 0.0,
+          "changed_geometry": false,
+          "piece_numbering_note": "Suffixes assigned by descending component volume, then bounds. Use variant assembly offsets; source baseline suffix identity is not assumed.",
+          "pieces": [
+            {
+              "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_B3_1.stl",
+              "sha256": "b153b604ad23f2742451ca3c8d0326ddd163b2f3fdff51e49903facd8a133541",
+              "dimensions_mm": [
+                200.2919921875,
+                280.38299560546875,
+                53.56800079345703
+              ],
+              "assembly_offset_mm": [
+                527.1380004882812,
+                288.11700439453125,
+                0.0
+              ],
+              "volume_mm3": 147669.7894898413,
+              "region_has_furniture_geometry_change": false,
+              "baseline_region_candidates": [
+                {
+                  "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_B3_1.stl",
+                  "sha256": "43ca8c6dfd7a84710608b1678b7891d670957f5c3824871b9d8b2927de0e2413",
+                  "assembly_offset_mm": [
+                    527.1380004882812,
+                    288.11700439453125,
+                    0.0
+                  ]
+                },
+                {
+                  "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_B3_2.stl",
+                  "sha256": "d8b3b9a2b5c11848bd5078065a1e013027083ae1ef688c320f2d1dc1f56f3a4d",
+                  "assembly_offset_mm": [
+                    590.5,
+                    371.5,
+                    0.0
+                  ]
+                },
+                {
+                  "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_B3_3.stl",
+                  "sha256": "803e48d7d60e026c242d75a6cc715fd3a38c9de707cbfc024e90a043c5e82d25",
+                  "assembly_offset_mm": [
+                    653.5,
+                    397.5,
+                    0.0
+                  ]
+                }
+              ]
+            },
+            {
+              "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_B3_2.stl",
+              "sha256": "d8b3b9a2b5c11848bd5078065a1e013027083ae1ef688c320f2d1dc1f56f3a4d",
+              "dimensions_mm": [
+                33.0,
+                11.0,
+                52.03200149536133
+              ],
+              "assembly_offset_mm": [
+                590.5,
+                371.5,
+                0.0
+              ],
+              "volume_mm3": 18887.616542816162,
+              "region_has_furniture_geometry_change": false,
+              "baseline_region_candidates": [
+                {
+                  "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_B3_1.stl",
+                  "sha256": "43ca8c6dfd7a84710608b1678b7891d670957f5c3824871b9d8b2927de0e2413",
+                  "assembly_offset_mm": [
+                    527.1380004882812,
+                    288.11700439453125,
+                    0.0
+                  ]
+                },
+                {
+                  "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_B3_2.stl",
+                  "sha256": "d8b3b9a2b5c11848bd5078065a1e013027083ae1ef688c320f2d1dc1f56f3a4d",
+                  "assembly_offset_mm": [
+                    590.5,
+                    371.5,
+                    0.0
+                  ]
+                },
+                {
+                  "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_B3_3.stl",
+                  "sha256": "803e48d7d60e026c242d75a6cc715fd3a38c9de707cbfc024e90a043c5e82d25",
+                  "assembly_offset_mm": [
+                    653.5,
+                    397.5,
+                    0.0
+                  ]
+                }
+              ]
+            },
+            {
+              "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_B3_3.stl",
+              "sha256": "803e48d7d60e026c242d75a6cc715fd3a38c9de707cbfc024e90a043c5e82d25",
+              "dimensions_mm": [
+                23.0,
+                1.5,
+                17.152000427246094
+              ],
+              "assembly_offset_mm": [
+                653.5,
+                397.5,
+                0.0
+              ],
+              "volume_mm3": 395.63175415992737,
+              "region_has_furniture_geometry_change": false,
+              "baseline_region_candidates": [
+                {
+                  "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_B3_1.stl",
+                  "sha256": "43ca8c6dfd7a84710608b1678b7891d670957f5c3824871b9d8b2927de0e2413",
+                  "assembly_offset_mm": [
+                    527.1380004882812,
+                    288.11700439453125,
+                    0.0
+                  ]
+                },
+                {
+                  "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_B3_2.stl",
+                  "sha256": "d8b3b9a2b5c11848bd5078065a1e013027083ae1ef688c320f2d1dc1f56f3a4d",
+                  "assembly_offset_mm": [
+                    590.5,
+                    371.5,
+                    0.0
+                  ]
+                },
+                {
+                  "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_B3_3.stl",
+                  "sha256": "803e48d7d60e026c242d75a6cc715fd3a38c9de707cbfc024e90a043c5e82d25",
+                  "assembly_offset_mm": [
+                    653.5,
+                    397.5,
+                    0.0
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "scale_note": "Estimated donor/product geometry remains estimated; source room envelopes preserved.",
+  "unchanged_accessories": "Original v25 optional partitions, acrylic coupon/cut schedule/reference panes copied byte-identically under original_accessories.",
+  "regeneration_dependencies": "Generators read sibling CampusCenter-print-r25-r01 baseline and its isolated python_packages; that verified package must be available for regeneration. Editable Blender/STL/3MF/STEP can be used independently.",
+  "incremental_R01_comparison": {
+    "previous_version": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task-4\\CampusCenter-print-furniture-v26-r01",
+    "pieces": [
+      {
+        "file": "ground_furnished\\print_tiles\\Ground_Furnished_A1.stl",
+        "sha256_R02": "1bde29bd2b2cbf5c5ec54fb32d5acbc05308047c913a754c98097a9a0bafc563",
+        "sha256_R01": "1bde29bd2b2cbf5c5ec54fb32d5acbc05308047c913a754c98097a9a0bafc563",
+        "byte_changed_from_R01": false,
+        "volume_delta_mm3": 0.0,
+        "assembly_offset_mm": [
+          17.5,
+          97.0,
+          0.0
+        ],
+        "dimensions_mm": [
+          245.5,
+          190.0,
+          53.56800079345703
+        ],
+        "note": "Byte changes can include triangulation. Component suffixes use volume ordering; compare assembly offsets for identity."
+      },
+      {
+        "file": "ground_furnished\\print_tiles\\Ground_Furnished_A2.stl",
+        "sha256_R02": "90063fa52f2b50cbdc74ececf0c944a733be592a4af672e4cc7f1cfb822fb3af",
+        "sha256_R01": "90063fa52f2b50cbdc74ececf0c944a733be592a4af672e4cc7f1cfb822fb3af",
+        "byte_changed_from_R01": false,
+        "volume_delta_mm3": 0.0,
+        "assembly_offset_mm": [
+          263.0,
+          8.0,
+          0.0
+        ],
+        "dimensions_mm": [
+          245.5,
+          279.0,
+          53.56800079345703
+        ],
+        "note": "Byte changes can include triangulation. Component suffixes use volume ordering; compare assembly offsets for identity."
+      },
+      {
+        "file": "ground_furnished\\print_tiles\\Ground_Furnished_A3.stl",
+        "sha256_R02": "fb3ee28b788b9bcd8c63f495e034e361a3f6019ea7ebc63a0bbb057bd6f43bbb",
+        "sha256_R01": "fb3ee28b788b9bcd8c63f495e034e361a3f6019ea7ebc63a0bbb057bd6f43bbb",
+        "byte_changed_from_R01": false,
+        "volume_delta_mm3": 0.0,
+        "assembly_offset_mm": [
+          508.5,
+          24.0,
+          0.0
+        ],
+        "dimensions_mm": [
+          245.5,
+          263.0,
+          53.56800079345703
+        ],
+        "note": "Byte changes can include triangulation. Component suffixes use volume ordering; compare assembly offsets for identity."
+      },
+      {
+        "file": "ground_furnished\\print_tiles\\Ground_Furnished_B1_1.stl",
+        "sha256_R02": "bcb22ccff236b77a005974be8c21d90e2a9fa4d1270f6f6391356f30f1f07fce",
+        "sha256_R01": "bcb22ccff236b77a005974be8c21d90e2a9fa4d1270f6f6391356f30f1f07fce",
+        "byte_changed_from_R01": false,
+        "volume_delta_mm3": 0.0,
+        "assembly_offset_mm": [
+          17.5,
+          287.0,
+          0.0
+        ],
+        "dimensions_mm": [
+          224.5,
+          191.5,
+          53.56800079345703
+        ],
+        "note": "Byte changes can include triangulation. Component suffixes use volume ordering; compare assembly offsets for identity."
+      },
+      {
+        "file": "ground_furnished\\print_tiles\\Ground_Furnished_B1_2.stl",
+        "sha256_R02": "4388e40ce588f28da87d73c86f6429fe4cd544a15a0c7e67ec5622e5817fd044",
+        "sha256_R01": "4388e40ce588f28da87d73c86f6429fe4cd544a15a0c7e67ec5622e5817fd044",
+        "byte_changed_from_R01": false,
+        "volume_delta_mm3": 0.0,
+        "assembly_offset_mm": [
+          243.5,
+          287.0,
+          0.0
+        ],
+        "dimensions_mm": [
+          19.5,
+          279.0,
+          53.56800079345703
+        ],
+        "note": "Byte changes can include triangulation. Component suffixes use volume ordering; compare assembly offsets for identity."
+      },
+      {
+        "file": "ground_furnished\\print_tiles\\Ground_Furnished_B2.stl",
+        "sha256_R02": "7b481eb7f81fac20d9718da68500bf4e61743ce4a5a5d4ebeb57d299d8a41a77",
+        "sha256_R01": "7b481eb7f81fac20d9718da68500bf4e61743ce4a5a5d4ebeb57d299d8a41a77",
+        "byte_changed_from_R01": false,
+        "volume_delta_mm3": 0.0,
+        "assembly_offset_mm": [
+          263.0,
+          287.0,
+          0.0
+        ],
+        "dimensions_mm": [
+          245.5,
+          279.0,
+          53.56800079345703
+        ],
+        "note": "Byte changes can include triangulation. Component suffixes use volume ordering; compare assembly offsets for identity."
+      },
+      {
+        "file": "ground_furnished\\print_tiles\\Ground_Furnished_B3_1.stl",
+        "sha256_R02": "39bfca40afc99db4cdf9188d8a449c392d37457da88b5ea2955c5924cc006108",
+        "sha256_R01": "39bfca40afc99db4cdf9188d8a449c392d37457da88b5ea2955c5924cc006108",
+        "byte_changed_from_R01": false,
+        "volume_delta_mm3": 0.0,
+        "assembly_offset_mm": [
+          537.0,
+          287.0,
+          0.0
+        ],
+        "dimensions_mm": [
+          188.0,
+          93.5,
+          53.56800079345703
+        ],
+        "note": "Byte changes can include triangulation. Component suffixes use volume ordering; compare assembly offsets for identity."
+      },
+      {
+        "file": "ground_furnished\\print_tiles\\Ground_Furnished_B3_2.stl",
+        "sha256_R02": "8181e155549358e6153eb7a57438adecc3ba2139e6bb97736f98515ac7a32eaf",
+        "sha256_R01": "8181e155549358e6153eb7a57438adecc3ba2139e6bb97736f98515ac7a32eaf",
+        "byte_changed_from_R01": false,
+        "volume_delta_mm3": 0.0,
+        "assembly_offset_mm": [
+          508.5,
+          287.0,
+          0.0
+        ],
+        "dimensions_mm": [
+          27.0,
+          279.0,
+          53.56800079345703
+        ],
+        "note": "Byte changes can include triangulation. Component suffixes use volume ordering; compare assembly offsets for identity."
+      },
+      {
+        "file": "ground_enclosed\\print_tiles\\Ground_Enclosed_A1.stl",
+        "sha256_R02": "fedfd0299aad337de7e5c90556ce36062f9ce56610ce3898ffa20cab72349b43",
+        "sha256_R01": "fedfd0299aad337de7e5c90556ce36062f9ce56610ce3898ffa20cab72349b43",
+        "byte_changed_from_R01": false,
+        "volume_delta_mm3": 0.0,
+        "assembly_offset_mm": [
+          17.5,
+          97.0,
+          0.0
+        ],
+        "dimensions_mm": [
+          245.5,
+          190.0,
+          53.56800079345703
+        ],
+        "note": "Byte changes can include triangulation. Component suffixes use volume ordering; compare assembly offsets for identity."
+      },
+      {
+        "file": "ground_enclosed\\print_tiles\\Ground_Enclosed_A2.stl",
+        "sha256_R02": "9f134fcb5edf317825faa17fcb2903e605db683d01ba22f54e9d75ea7f882095",
+        "sha256_R01": "9f134fcb5edf317825faa17fcb2903e605db683d01ba22f54e9d75ea7f882095",
+        "byte_changed_from_R01": false,
+        "volume_delta_mm3": 0.0,
+        "assembly_offset_mm": [
+          263.0,
+          8.0,
+          0.0
+        ],
+        "dimensions_mm": [
+          245.5,
+          279.0,
+          53.56800079345703
+        ],
+        "note": "Byte changes can include triangulation. Component suffixes use volume ordering; compare assembly offsets for identity."
+      },
+      {
+        "file": "ground_enclosed\\print_tiles\\Ground_Enclosed_A3.stl",
+        "sha256_R02": "39fcc01d2fe12ae8b6ecab4719240e88da170c1e1aca55ad442d8d71c65b6789",
+        "sha256_R01": "39fcc01d2fe12ae8b6ecab4719240e88da170c1e1aca55ad442d8d71c65b6789",
+        "byte_changed_from_R01": false,
+        "volume_delta_mm3": 0.0,
+        "assembly_offset_mm": [
+          508.5,
+          24.0,
+          0.0
+        ],
+        "dimensions_mm": [
+          245.5,
+          263.0,
+          53.56800079345703
+        ],
+        "note": "Byte changes can include triangulation. Component suffixes use volume ordering; compare assembly offsets for identity."
+      },
+      {
+        "file": "ground_enclosed\\print_tiles\\Ground_Enclosed_B1.stl",
+        "sha256_R02": "57f30151d6725dbfb0c25df29ef3d8dabae22da31c71f6735cc474f306c18689",
+        "sha256_R01": "57f30151d6725dbfb0c25df29ef3d8dabae22da31c71f6735cc474f306c18689",
+        "byte_changed_from_R01": false,
+        "volume_delta_mm3": 0.0,
+        "assembly_offset_mm": [
+          17.5,
+          287.0,
+          0.0
+        ],
+        "dimensions_mm": [
+          245.5,
+          279.0,
+          53.56800079345703
+        ],
+        "note": "Byte changes can include triangulation. Component suffixes use volume ordering; compare assembly offsets for identity."
+      },
+      {
+        "file": "ground_enclosed\\print_tiles\\Ground_Enclosed_B2.stl",
+        "sha256_R02": "547df731d56ee58bf1545c74f4b2a77ed917cd935e9e511f2c4df5b1d5b5e4d0",
+        "sha256_R01": "547df731d56ee58bf1545c74f4b2a77ed917cd935e9e511f2c4df5b1d5b5e4d0",
+        "byte_changed_from_R01": false,
+        "volume_delta_mm3": 0.0,
+        "assembly_offset_mm": [
+          263.0,
+          287.0,
+          0.0
+        ],
+        "dimensions_mm": [
+          245.5,
+          279.0,
+          53.56800079345703
+        ],
+        "note": "Byte changes can include triangulation. Component suffixes use volume ordering; compare assembly offsets for identity."
+      },
+      {
+        "file": "ground_enclosed\\print_tiles\\Ground_Enclosed_B3.stl",
+        "sha256_R02": "63512c44d7c23d0d7c51d81f663b729a2deffbf3322130e79e24dad61c6048cd",
+        "sha256_R01": "63512c44d7c23d0d7c51d81f663b729a2deffbf3322130e79e24dad61c6048cd",
+        "byte_changed_from_R01": false,
+        "volume_delta_mm3": 0.0,
+        "assembly_offset_mm": [
+          508.5,
+          287.0,
+          0.0
+        ],
+        "dimensions_mm": [
+          216.5,
+          279.0,
+          53.56800079345703
+        ],
+        "note": "Byte changes can include triangulation. Component suffixes use volume ordering; compare assembly offsets for identity."
+      },
+      {
+        "file": "ground_acrylic\\print_tiles\\Ground_Acrylic_A1.stl",
+        "sha256_R02": "fc8125fa240896de51000d9f541fa6035265ea14214bd7a7757b8bfd06f42f1a",
+        "sha256_R01": "fc8125fa240896de51000d9f541fa6035265ea14214bd7a7757b8bfd06f42f1a",
+        "byte_changed_from_R01": false,
+        "volume_delta_mm3": 0.0,
+        "assembly_offset_mm": [
+          17.5,
+          94.20500183105469,
+          0.0
+        ],
+        "dimensions_mm": [
+          246.42440795898438,
+          192.7949981689453,
+          53.56800079345703
+        ],
+        "note": "Byte changes can include triangulation. Component suffixes use volume ordering; compare assembly offsets for identity."
+      },
+      {
+        "file": "ground_acrylic\\print_tiles\\Ground_Acrylic_A2.stl",
+        "sha256_R02": "644d1c85d855ba3c7682bcee6b2136b828e8635f9f5eaa51062efd7175522cd9",
+        "sha256_R01": "644d1c85d855ba3c7682bcee6b2136b828e8635f9f5eaa51062efd7175522cd9",
+        "byte_changed_from_R01": false,
+        "volume_delta_mm3": 0.0,
+        "assembly_offset_mm": [
+          263.9244079589844,
+          8.0,
+          0.0
+        ],
+        "dimensions_mm": [
+          246.4244384765625,
+          279.0,
+          53.56800079345703
+        ],
+        "note": "Byte changes can include triangulation. Component suffixes use volume ordering; compare assembly offsets for identity."
+      },
+      {
+        "file": "ground_acrylic\\print_tiles\\Ground_Acrylic_A3.stl",
+        "sha256_R02": "18170d012d8b12af2f968ea05446913de536b118429b3ec75af2172dce39596d",
+        "sha256_R01": "18170d012d8b12af2f968ea05446913de536b118429b3ec75af2172dce39596d",
+        "byte_changed_from_R01": false,
+        "volume_delta_mm3": 0.0,
+        "assembly_offset_mm": [
+          510.3488464355469,
+          21.253999710083008,
+          0.0
+        ],
+        "dimensions_mm": [
+          246.42416381835938,
+          265.746000289917,
+          53.56800079345703
+        ],
+        "note": "Byte changes can include triangulation. Component suffixes use volume ordering; compare assembly offsets for identity."
+      },
+      {
+        "file": "ground_acrylic\\print_tiles\\Ground_Acrylic_B1.stl",
+        "sha256_R02": "20d784bf68b9347162e3845e1c95a88aeb1efdb967cbac91bb6ab7641d20b2d4",
+        "sha256_R01": "20d784bf68b9347162e3845e1c95a88aeb1efdb967cbac91bb6ab7641d20b2d4",
+        "byte_changed_from_R01": false,
+        "volume_delta_mm3": 0.0,
+        "assembly_offset_mm": [
+          17.5,
+          287.0,
+          0.0
+        ],
+        "dimensions_mm": [
+          246.42440795898438,
+          279.0,
+          53.56800079345703
+        ],
+        "note": "Byte changes can include triangulation. Component suffixes use volume ordering; compare assembly offsets for identity."
+      },
+      {
+        "file": "ground_acrylic\\print_tiles\\Ground_Acrylic_B2.stl",
+        "sha256_R02": "e5032e376bb9b547dbd38d596b0584fd756a26eba35bf7c5b8a681d44ad38553",
+        "sha256_R01": "e5032e376bb9b547dbd38d596b0584fd756a26eba35bf7c5b8a681d44ad38553",
+        "byte_changed_from_R01": false,
+        "volume_delta_mm3": 0.0,
+        "assembly_offset_mm": [
+          263.9244079589844,
+          287.0,
+          0.0
+        ],
+        "dimensions_mm": [
+          246.4244384765625,
+          279.0,
+          53.56800079345703
+        ],
+        "note": "Byte changes can include triangulation. Component suffixes use volume ordering; compare assembly offsets for identity."
+      },
+      {
+        "file": "ground_acrylic\\print_tiles\\Ground_Acrylic_B3.stl",
+        "sha256_R02": "ed758e652bb8cfdf9fecaf170fcf58a5e7b4f09c3fe853fa201bbb0fd03cb6c6",
+        "sha256_R01": "ed758e652bb8cfdf9fecaf170fcf58a5e7b4f09c3fe853fa201bbb0fd03cb6c6",
+        "byte_changed_from_R01": false,
+        "volume_delta_mm3": 0.0,
+        "assembly_offset_mm": [
+          510.3488464355469,
+          287.0,
+          0.0
+        ],
+        "dimensions_mm": [
+          217.24417114257812,
+          279.0,
+          53.56800079345703
+        ],
+        "note": "Byte changes can include triangulation. Component suffixes use volume ordering; compare assembly offsets for identity."
+      },
+      {
+        "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_A1.stl",
+        "sha256_R02": "a248bef059f23e0cb30b8206a54d1efea36ba0f5678ff3f3dd1d87154574240d",
+        "sha256_R01": "51ba38b8607545892c0d89c9607cd70d212cff78d35501a97a3963d55b3be224",
+        "byte_changed_from_R01": true,
+        "volume_delta_mm3": 5685.529525369173,
+        "assembly_offset_mm": [
+          14.5,
+          100.0,
+          0.0
+        ],
+        "dimensions_mm": [
+          256.3190002441406,
+          188.11700439453125,
+          53.56800079345703
+        ],
+        "note": "Byte changes can include triangulation. Component suffixes use volume ordering; compare assembly offsets for identity."
+      },
+      {
+        "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_A2.stl",
+        "sha256_R02": "7bd626301fb49166fd54e34ee387f74c8b638367b48b369e09c2ed990e858078",
+        "sha256_R01": "d9a37a8017ea688f812ac9301f83762fbe287b8787b896478adae1c7d29c24f4",
+        "byte_changed_from_R01": true,
+        "volume_delta_mm3": 0.0328832411323674,
+        "assembly_offset_mm": [
+          270.8190002441406,
+          24.5,
+          0.0
+        ],
+        "dimensions_mm": [
+          256.3190002441406,
+          191.0,
+          53.56800079345703
+        ],
+        "note": "Byte changes can include triangulation. Component suffixes use volume ordering; compare assembly offsets for identity."
+      },
+      {
+        "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_A3_1.stl",
+        "sha256_R02": "13cc47c2f494ef915786614c386b8af9d4600eb8bee947b56db4d4ee6d360b99",
+        "sha256_R01": "36e7a17bab70aebd399d499e0e8d334f07117ba39d4ba8aab3ebe8259a7db6c6",
+        "byte_changed_from_R01": true,
+        "volume_delta_mm3": 0.0,
+        "assembly_offset_mm": [
+          527.1380004882812,
+          7.734000205993652,
+          0.0
+        ],
+        "dimensions_mm": [
+          256.3189697265625,
+          280.3830041885376,
+          53.56800079345703
+        ],
+        "note": "Byte changes can include triangulation. Component suffixes use volume ordering; compare assembly offsets for identity."
+      },
+      {
+        "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_A3_2.stl",
+        "sha256_R02": "7b2eb4b6ac2887fd4c9a606fd7a1f975c7838aae66e57b87df3bcaf70e3a7055",
+        "sha256_R01": "7b2eb4b6ac2887fd4c9a606fd7a1f975c7838aae66e57b87df3bcaf70e3a7055",
+        "byte_changed_from_R01": false,
+        "volume_delta_mm3": 0.0,
+        "assembly_offset_mm": [
+          556.5,
+          122.5,
+          0.0
+        ],
+        "dimensions_mm": [
+          1.5,
+          27.0,
+          17.06399917602539
+        ],
+        "note": "Byte changes can include triangulation. Component suffixes use volume ordering; compare assembly offsets for identity."
+      },
+      {
+        "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_B1.stl",
+        "sha256_R02": "359dd9d89e65fdb6db32da3b44ad314682e54f4067d33d8c0508b0a5df6a123d",
+        "sha256_R01": "2c848f8e5e0092f0157be265c0ea2634677bebf27732321f315799c9d4b6d7d3",
+        "byte_changed_from_R01": true,
+        "volume_delta_mm3": 8708.423128183786,
+        "assembly_offset_mm": [
+          14.5,
+          288.11700439453125,
+          0.0
+        ],
+        "dimensions_mm": [
+          256.3190002441406,
+          280.38299560546875,
+          53.56800079345703
+        ],
+        "note": "Byte changes can include triangulation. Component suffixes use volume ordering; compare assembly offsets for identity."
+      },
+      {
+        "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_B2.stl",
+        "sha256_R02": "6b6f7d0cd11c6d0901b3f9bf128f997df37c9283d2c39cb7b4d6f90c0d93f153",
+        "sha256_R01": "6b6f7d0cd11c6d0901b3f9bf128f997df37c9283d2c39cb7b4d6f90c0d93f153",
+        "byte_changed_from_R01": false,
+        "volume_delta_mm3": 0.0,
+        "assembly_offset_mm": [
+          270.8190002441406,
+          564.0,
+          0.0
+        ],
+        "dimensions_mm": [
+          256.3190002441406,
+          4.5,
+          53.56800079345703
+        ],
+        "note": "Byte changes can include triangulation. Component suffixes use volume ordering; compare assembly offsets for identity."
+      },
+      {
+        "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_B3_1.stl",
+        "sha256_R02": "b153b604ad23f2742451ca3c8d0326ddd163b2f3fdff51e49903facd8a133541",
+        "sha256_R01": "b153b604ad23f2742451ca3c8d0326ddd163b2f3fdff51e49903facd8a133541",
+        "byte_changed_from_R01": false,
+        "volume_delta_mm3": 0.0,
+        "assembly_offset_mm": [
+          527.1380004882812,
+          288.11700439453125,
+          0.0
+        ],
+        "dimensions_mm": [
+          200.2919921875,
+          280.38299560546875,
+          53.56800079345703
+        ],
+        "note": "Byte changes can include triangulation. Component suffixes use volume ordering; compare assembly offsets for identity."
+      },
+      {
+        "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_B3_2.stl",
+        "sha256_R02": "d8b3b9a2b5c11848bd5078065a1e013027083ae1ef688c320f2d1dc1f56f3a4d",
+        "sha256_R01": "d8b3b9a2b5c11848bd5078065a1e013027083ae1ef688c320f2d1dc1f56f3a4d",
+        "byte_changed_from_R01": false,
+        "volume_delta_mm3": 0.0,
+        "assembly_offset_mm": [
+          590.5,
+          371.5,
+          0.0
+        ],
+        "dimensions_mm": [
+          33.0,
+          11.0,
+          52.03200149536133
+        ],
+        "note": "Byte changes can include triangulation. Component suffixes use volume ordering; compare assembly offsets for identity."
+      },
+      {
+        "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_B3_3.stl",
+        "sha256_R02": "803e48d7d60e026c242d75a6cc715fd3a38c9de707cbfc024e90a043c5e82d25",
+        "sha256_R01": "803e48d7d60e026c242d75a6cc715fd3a38c9de707cbfc024e90a043c5e82d25",
+        "byte_changed_from_R01": false,
+        "volume_delta_mm3": 0.0,
+        "assembly_offset_mm": [
+          653.5,
+          397.5,
+          0.0
+        ],
+        "dimensions_mm": [
+          23.0,
+          1.5,
+          17.152000427246094
+        ],
+        "note": "Byte changes can include triangulation. Component suffixes use volume ordering; compare assembly offsets for identity."
+      }
+    ],
+    "unchanged_ground_STL_STEP_proof": "reused_ground_step_proof.json",
+    "corrected_source": "B05",
+    "enhancement_groups_carried": 63,
+    "corrected_existing_mesh_objects": 37,
+    "intentional_omissions": {
+      "thin_wall_racks": 3,
+      "trophy_cases": 2,
+      "photo_presentations": 11
+    },
+    "fitness_replacement_region": {
+      "xy_bounds_mm": [
+        [
+          41.0,
+          249.5
+        ],
+        [
+          242.0,
+          361.0
+        ]
+      ],
+      "method": "Replace complete old/corrected Fitness envelope bounds plus 2 mm reinforcement margin; retain original upper solid outside this bounded region. Reconstruction retains accepted floor/structure/glazing inputs."
+    }
+  }
+}

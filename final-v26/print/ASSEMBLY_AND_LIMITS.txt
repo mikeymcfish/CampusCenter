@@ -1,0 +1,13 @@
+CampusCenter furniture print variant
+
+CampusCenter furniture print variant R02
+
+Separate derivative of the validated v25 print package and preserved furniture R01. 63 enhancement placement groups carried from pinned B05: 23 geometry reuses and 40 generic estimated representations. In addition, 37 existing Fitness source meshes are replaced from the corrected complete donor group. Source dimensions and styles remain estimates where labeled as such. Eleven photo presentations, two trophy cases and three thin wall racks are omitted.
+
+B05 is the donor explicitly named by fitness_support_v26_r02. Its read-only proof records five shafts intersecting both supporting uprights, loaded bars removed from two standalone benches, and 6,589 other meshes unchanged. The upper furniture field is reconstructed without the old Fitness donor group before B05 is added. Support hardware/product safety is not certified.
+
+Four large variants retain 1:87.5, 4.8 mm floors, overall dimensions within 0.003 mm and exact v25 split coordinates. Supported maximum-surface envelopes use 0.5 mm sampling plus one-cell broadening per side. The separate 1:350 assembly retains 0 / 12.192 / 23.077714 mm installation levels and the original roof grid. No intentional room-envelope edits.
+
+The acrylic family trims added furniture within existing pane/channel insertion envelopes; original frames/panes are untouched. Nominal 1.85 mm slots, 1.5875 mm acrylic and 0.2625 mm total thickness clearance remain. Optional partitions, cut sheets and coupons retain original v25 conventions.
+
+See the compact review, changed_piece_manifest.json, digital_validation.json and each family validation/STEP receipt. Print each separate print_tiles file at millimetre scale with no fit-to-bed scaling. Butt join on a supporting board; no new pins/sockets. Existing acrylic cut sheets/coupon and optional partition files are copied unchanged under original_accessories. Physical/slicer acceptance remains untested. Original v25 assembly notes govern retained interfaces.

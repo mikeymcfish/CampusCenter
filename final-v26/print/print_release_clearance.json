@@ -1,0 +1,7 @@
+{
+  "release_manifest_sha256": "27f4cfb83f647a28ea322aaa26ecac1a0ea5c7327a0c36af095798af722c3678",
+  "B05_sha256": "3013db5f7f8171b403bd5fac8561c84e24591875aa049683f950c3ee4e19e56e",
+  "parent_explicitly_cleared_for_print": true,
+  "R02_supersedes_held_R01": true,
+  "verified_manifest_hash_matches": true
+}

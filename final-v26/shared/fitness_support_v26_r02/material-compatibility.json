@@ -1,0 +1,26 @@
+[
+  {
+    "source": "/Game/Campus/Imported/Campus_Transfer/Materials/V8_plain_rubber.V8_plain_rubber",
+    "compatibility_clone": "/Game/Campus/FurnitureR26/CompatR03/V8_plain_rubber_33d74d26.V8_plain_rubber_33d74d26",
+    "existing_r03_clone": true,
+    "source_bytes_untouched": true
+  },
+  {
+    "source": "/InterchangeAssets/gltf/MaterialInstances/MI_Default_Opaque_DS.MI_Default_Opaque_DS",
+    "compatibility_clone": "/Game/Campus/FurnitureR26/CompatR03/MI_Default_Opaque_DS_a53f40f3.MI_Default_Opaque_DS_a53f40f3",
+    "existing_r03_clone": true,
+    "source_bytes_untouched": true
+  },
+  {
+    "source": "/Game/Campus/Imported/Campus_Transfer/Materials/V8_plain_dark_screen.V8_plain_dark_screen",
+    "compatibility_clone": "/Game/Campus/FitnessSupportR26R01/Compat/V8_plain_dark_screen_4dd4b3d1.V8_plain_dark_screen_4dd4b3d1",
+    "existing_r03_clone": false,
+    "source_bytes_untouched": true
+  },
+  {
+    "source": "/Game/Campus/Imported/Campus_Transfer/Materials/Blockout_equipment_-_untextured.Blockout_equipment_-_untextured",
+    "compatibility_clone": "/Game/Campus/FitnessSupportR26R01/Compat/Blockout_equipment_-_untextured_898e9409.Blockout_equipment_-_untextured_898e9409",
+    "existing_r03_clone": false,
+    "source_bytes_untouched": true
+  }
+]

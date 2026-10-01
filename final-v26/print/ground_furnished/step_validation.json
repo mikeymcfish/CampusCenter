@@ -1,0 +1,14 @@
+{
+  "file": "Ground_Furnished.step",
+  "valid_brep": true,
+  "reopened_solid_count": 1,
+  "reopened_dimensions_mm": [
+    736.5000001999999,
+    558.0000001999999,
+    53.568000993467905
+  ],
+  "reopened_volume_mm3": 2836431.278569662,
+  "mesh_volume_mm3": 2836431.278569564,
+  "relative_volume_error": 3.447602311872015e-14,
+  "representation": "Closed faceted B-representation, coplanar faces unified; editable generator and heightfield are supplied separately."
+}

@@ -1,0 +1,14 @@
+CampusCenter ART26_R01 — separate Tank output
+
+11 unique source-photo presentations; 12 originals verified before/after. IMG_1795 aliases IMG_1869 and is not instantiated. MPO uses primary RGB artwork; EXIF orientation baked with embedded color management. No AI regeneration, cropping, inpainting, or invented artwork.
+
+Editable scene: source/CampusCenter_Art26_R01.blend
+Import contract and deterministic proposed anchors: manifest.json
+Per-asset FBX and texture mapping plus embedded-texture GLB alternative: exports/ and textures/
+Visual evidence: renders/ (11 asset stills and proposed_layout.png); validation.json includes export reopening tests.
+
+These are photo presentations of sculptures/garments, labeled estimated/incomplete reconstruction. Volumetric replicas are not delivered. This preserves visible source appearance and follows the inventory photo-first option. Old v02 textures were re-verified and retained by reference; no duplicate old assets created.
+
+Placement is intentionally conditional on current worker map traces and furniture clearance checks. Layout render is an art-only inventory-derived wall/floor schematic, not a furnished v26 room approval. No UE session or print model was changed. Original photos, frozen baselines, primary worker scene/maps and Vive files remain untouched.
+
+Blender background used two CPU threads; no other processes stopped. Runtime/import/desktop/Vive checks remain with integration owner.

@@ -1,0 +1,1088 @@
+{
+  "version": "ART26_R01",
+  "host": "Tank",
+  "unit": "metres",
+  "unreal_position_mapping": "[100*x,-100*y,100*z] centimetres",
+  "originals_preserved": true,
+  "authorship_or_licensing": "Not established by sources; no inferred attribution",
+  "source_inventory": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task\\CampusCenter-new-plans\\downstream\\next_phase_plan\\art-implementation-inventory.json",
+  "artworks": [
+    {
+      "stable_id": "ART26_IMG_1758",
+      "source": "IMG_1758.jpeg",
+      "sha256": "515c71512f78f702caecd675a89a8b63c394eeefaf1eb7f26bfb69d75a8ec36a",
+      "identity": "Garment/mannequin installation",
+      "proposed_placement": "G106 presentation hall, on a wall panel initially",
+      "implementation": "No complete mannequin/garment donor verified. Use photo presentation first; 3D garments/mannequins would be generic adaptations, not reconstructed originals.",
+      "physical_scale": "Estimated presentation size; photo pixels do not establish physical dimensions",
+      "original_unchanged": true,
+      "source_absolute": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task\\CampusCenter-new-plans\\references\\art\\future_unreal_20260930\\IMG_1758.jpeg",
+      "normalization": {
+        "raw_size": [
+          640,
+          402
+        ],
+        "icc_present": true,
+        "output_size": [
+          640,
+          402
+        ],
+        "exif_orientation": 1,
+        "creative_edits": false,
+        "normalization": "System.Drawing FromStream embedded color management enabled; draw to RGB bitmap; EXIF rotation baked; MPO primary RGB image only"
+      },
+      "texture": "textures/ART26_IMG_1758.png",
+      "texture_sha256": "deb00fc510c9f017e1e4248870a711915dd161834c7c33900b8be145e3f08063",
+      "texture_size": [
+        640,
+        402
+      ],
+      "representation": "source photograph in shallow frame; photographed surroundings retained; no unseen geometry reconstructed",
+      "reconstruction_status": "estimated/incomplete reconstruction",
+      "instantiate": true,
+      "estimated_dimensions_m": [
+        0.95,
+        0.0575,
+        0.61531
+      ],
+      "dimension_basis": "reversible presentation size; not measured artwork dimensions",
+      "pivot": "centre of photo, wall backing local y=0; front local -Y",
+      "fbx": "exports/ART26_IMG_1758.fbx",
+      "glb": "exports/ART26_IMG_1758.glb",
+      "material_slots": [
+        "ART26_Frame_MatteCharcoal",
+        "ART26_IMG_1758_Photo"
+      ],
+      "collision": "Disable collision for shallow wall frames; no floor footprint",
+      "proposed_anchor": {
+        "room": "G105 Gallery",
+        "support_object": "Lab_east_wall0",
+        "blender_position_m": [
+          0.15,
+          1.8,
+          0.95
+        ],
+        "blender_rotation_deg": [
+          0,
+          0,
+          90
+        ],
+        "unreal_position_cm": [
+          15,
+          -180.0,
+          95.0
+        ],
+        "unreal_rotation_deg": {
+          "pitch": 0,
+          "yaw": -90,
+          "roll": 0
+        },
+        "status": "PROPOSED_CURRENT_MAP_TRACE_REQUIRED",
+        "front_normal_blender": [
+          1,
+          0,
+          0
+        ]
+      },
+      "mesh_vertices": 44,
+      "mesh_faces": 31
+    },
+    {
+      "stable_id": "ART26_IMG_1770",
+      "source": "IMG_1770.jpeg",
+      "sha256": "1f069931a06312b012429edbc864f77550f1e23bff613862f390dbc43185bbe2",
+      "identity": "Hands with hanging strings",
+      "proposed_placement": "G106 display wall clear of doors",
+      "implementation": "Photo-backed framed panel first; shallow relief and strings later only as estimated adaptation.",
+      "physical_scale": "Estimated presentation size; photo pixels do not establish physical dimensions",
+      "original_unchanged": true,
+      "source_absolute": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task\\CampusCenter-new-plans\\references\\art\\future_unreal_20260930\\IMG_1770.jpeg",
+      "normalization": {
+        "raw_size": [
+          640,
+          480
+        ],
+        "icc_present": true,
+        "output_size": [
+          640,
+          480
+        ],
+        "exif_orientation": 1,
+        "creative_edits": false,
+        "normalization": "System.Drawing FromStream embedded color management enabled; draw to RGB bitmap; EXIF rotation baked; MPO primary RGB image only"
+      },
+      "texture": "textures/ART26_IMG_1770.png",
+      "texture_sha256": "2afe69067af7c61436bb82fd93eda0b70d11b04c30856ecdf2892c959938b727",
+      "texture_size": [
+        640,
+        480
+      ],
+      "representation": "source photograph in shallow frame; photographed surroundings retained; no unseen geometry reconstructed",
+      "reconstruction_status": "photo-backed presentation; estimated frame dimensions",
+      "instantiate": true,
+      "estimated_dimensions_m": [
+        0.95,
+        0.0575,
+        0.725
+      ],
+      "dimension_basis": "reversible presentation size; not measured artwork dimensions",
+      "pivot": "centre of photo, wall backing local y=0; front local -Y",
+      "fbx": "exports/ART26_IMG_1770.fbx",
+      "glb": "exports/ART26_IMG_1770.glb",
+      "material_slots": [
+        "ART26_Frame_MatteCharcoal",
+        "ART26_IMG_1770_Photo"
+      ],
+      "collision": "Disable collision for shallow wall frames; no floor footprint",
+      "proposed_anchor": {
+        "room": "G105 Gallery",
+        "support_object": "Lab_east_wall0",
+        "blender_position_m": [
+          0.15,
+          3.1,
+          0.95
+        ],
+        "blender_rotation_deg": [
+          0,
+          0,
+          90
+        ],
+        "unreal_position_cm": [
+          15,
+          -310.0,
+          95.0
+        ],
+        "unreal_rotation_deg": {
+          "pitch": 0,
+          "yaw": -90,
+          "roll": 0
+        },
+        "status": "PROPOSED_CURRENT_MAP_TRACE_REQUIRED",
+        "front_normal_blender": [
+          1,
+          0,
+          0
+        ]
+      },
+      "mesh_vertices": 44,
+      "mesh_faces": 31
+    },
+    {
+      "stable_id": "ART26_IMG_1795",
+      "source": "IMG_1795.jpeg",
+      "sha256": "6030794747d51337dae03a8a58633851958992b23dfbdee0bfeb08cb2eaf656b",
+      "identity": "Red/black work with three smaller works",
+      "proposed_placement": "G106 long display wall",
+      "implementation": "Wide photo reference. Same main artwork as IMG_1869; do not instantiate both as distinct main artworks.",
+      "physical_scale": "Estimated presentation size; photo pixels do not establish physical dimensions",
+      "original_unchanged": true,
+      "source_absolute": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task\\CampusCenter-new-plans\\references\\art\\future_unreal_20260930\\IMG_1795.jpeg",
+      "normalization": {
+        "raw_size": [
+          640,
+          480
+        ],
+        "icc_present": true,
+        "output_size": [
+          640,
+          480
+        ],
+        "exif_orientation": 1,
+        "creative_edits": false,
+        "normalization": "System.Drawing FromStream embedded color management enabled; draw to RGB bitmap; EXIF rotation baked; MPO primary RGB image only"
+      },
+      "texture": "textures/ART26_IMG_1795.png",
+      "texture_sha256": "62aba901ab1f0dcc7fe9089fea841eaef2f419a02a39c563e50a0679fde6db91",
+      "texture_size": [
+        640,
+        480
+      ],
+      "representation": "source photograph in shallow frame; photographed surroundings retained; no unseen geometry reconstructed",
+      "reconstruction_status": "photo-backed presentation; estimated frame dimensions",
+      "instantiate": false,
+      "alias_of": "ART26_IMG_1869",
+      "role": "wider grouping reference only; not an additional main artwork"
+    },
+    {
+      "stable_id": "ART26_IMG_1820",
+      "source": "IMG_1820.jpeg",
+      "sha256": "264c7f48b8838c368ce48068e88a7d7e7786ea2f2284823a508cf8a1e610c04f",
+      "identity": "Framed mixed-media artwork",
+      "proposed_placement": "G105 Gallery wall",
+      "implementation": "Simple frame + rectified image derivative; no existing exact adaptation verified.",
+      "physical_scale": "Estimated presentation size; photo pixels do not establish physical dimensions",
+      "original_unchanged": true,
+      "source_absolute": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task\\CampusCenter-new-plans\\references\\art\\future_unreal_20260930\\IMG_1820.jpeg",
+      "normalization": {
+        "raw_size": [
+          640,
+          385
+        ],
+        "icc_present": true,
+        "output_size": [
+          640,
+          385
+        ],
+        "exif_orientation": 1,
+        "creative_edits": false,
+        "normalization": "System.Drawing FromStream embedded color management enabled; draw to RGB bitmap; EXIF rotation baked; MPO primary RGB image only"
+      },
+      "texture": "textures/ART26_IMG_1820.png",
+      "texture_sha256": "1854a1c02e9ef279eb66abd07b0fe7028aa67d3fc1ab25ddcc4241de7789aa6e",
+      "texture_size": [
+        640,
+        385
+      ],
+      "representation": "source photograph in shallow frame; photographed surroundings retained; no unseen geometry reconstructed",
+      "reconstruction_status": "photo-backed presentation; estimated frame dimensions",
+      "instantiate": true,
+      "estimated_dimensions_m": [
+        0.95,
+        0.0575,
+        0.59141
+      ],
+      "dimension_basis": "reversible presentation size; not measured artwork dimensions",
+      "pivot": "centre of photo, wall backing local y=0; front local -Y",
+      "fbx": "exports/ART26_IMG_1820.fbx",
+      "glb": "exports/ART26_IMG_1820.glb",
+      "material_slots": [
+        "ART26_Frame_MatteCharcoal",
+        "ART26_IMG_1820_Photo"
+      ],
+      "collision": "Disable collision for shallow wall frames; no floor footprint",
+      "proposed_anchor": {
+        "room": "G105 Gallery",
+        "support_object": "Lab_east_wall0",
+        "blender_position_m": [
+          0.15,
+          4.4,
+          0.95
+        ],
+        "blender_rotation_deg": [
+          0,
+          0,
+          90
+        ],
+        "unreal_position_cm": [
+          15,
+          -440.00000000000006,
+          95.0
+        ],
+        "unreal_rotation_deg": {
+          "pitch": 0,
+          "yaw": -90,
+          "roll": 0
+        },
+        "status": "PROPOSED_CURRENT_MAP_TRACE_REQUIRED",
+        "front_normal_blender": [
+          1,
+          0,
+          0
+        ]
+      },
+      "mesh_vertices": 44,
+      "mesh_faces": 31
+    },
+    {
+      "stable_id": "ART26_IMG_1869",
+      "source": "IMG_1869.jpeg",
+      "sha256": "72dbc24b8ac895cb7b286aa461cfbce48abf2cc684be6fc5aaefab83f46accd6",
+      "identity": "Closer red/black work reference",
+      "proposed_placement": "Same placement as IMG_1795",
+      "implementation": "Preferred closer detail source for main work. Choose one representation; wider view guides grouping.",
+      "physical_scale": "Estimated presentation size; photo pixels do not establish physical dimensions",
+      "original_unchanged": true,
+      "source_absolute": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task\\CampusCenter-new-plans\\references\\art\\future_unreal_20260930\\IMG_1869.jpeg",
+      "normalization": {
+        "raw_size": [
+          640,
+          480
+        ],
+        "icc_present": true,
+        "output_size": [
+          640,
+          480
+        ],
+        "exif_orientation": 1,
+        "creative_edits": false,
+        "normalization": "System.Drawing FromStream embedded color management enabled; draw to RGB bitmap; EXIF rotation baked; MPO primary RGB image only"
+      },
+      "texture": "textures/ART26_IMG_1869.png",
+      "texture_sha256": "c18512ade4fda3b286ce5786874a0af20f7058624dfa76a2abf6972bb3b8e595",
+      "texture_size": [
+        640,
+        480
+      ],
+      "representation": "source photograph in shallow frame; photographed surroundings retained; no unseen geometry reconstructed",
+      "reconstruction_status": "photo-backed presentation; estimated frame dimensions",
+      "instantiate": true,
+      "estimated_dimensions_m": [
+        0.95,
+        0.0575,
+        0.725
+      ],
+      "dimension_basis": "reversible presentation size; not measured artwork dimensions",
+      "pivot": "centre of photo, wall backing local y=0; front local -Y",
+      "fbx": "exports/ART26_IMG_1869.fbx",
+      "glb": "exports/ART26_IMG_1869.glb",
+      "material_slots": [
+        "ART26_Frame_MatteCharcoal",
+        "ART26_IMG_1869_Photo"
+      ],
+      "collision": "Disable collision for shallow wall frames; no floor footprint",
+      "proposed_anchor": {
+        "room": "G105 Gallery",
+        "support_object": "Lab_east_wall0",
+        "blender_position_m": [
+          0.15,
+          5.7,
+          0.95
+        ],
+        "blender_rotation_deg": [
+          0,
+          0,
+          90
+        ],
+        "unreal_position_cm": [
+          15,
+          -570.0,
+          95.0
+        ],
+        "unreal_rotation_deg": {
+          "pitch": 0,
+          "yaw": -90,
+          "roll": 0
+        },
+        "status": "PROPOSED_CURRENT_MAP_TRACE_REQUIRED",
+        "front_normal_blender": [
+          1,
+          0,
+          0
+        ]
+      },
+      "mesh_vertices": 44,
+      "mesh_faces": 31
+    },
+    {
+      "stable_id": "ART26_IMG_2813",
+      "source": "IMG_2813.jpeg",
+      "sha256": "0c40b34aadcad819c06df99bd2d1a53f6e4a3f72011ea212b73859af881f3173",
+      "identity": "Cream ceramic teapot",
+      "proposed_placement": "G106 generic glass display case",
+      "implementation": "Photo card first. Later conservative ceramic proxy from silhouettes; reverse side and physical size unknown.",
+      "physical_scale": "Estimated presentation size; photo pixels do not establish physical dimensions",
+      "original_unchanged": true,
+      "source_absolute": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task\\CampusCenter-new-plans\\references\\art\\future_unreal_20260930\\IMG_2813.jpeg",
+      "normalization": {
+        "raw_size": [
+          480,
+          640
+        ],
+        "icc_present": true,
+        "output_size": [
+          480,
+          640
+        ],
+        "exif_orientation": 1,
+        "creative_edits": false,
+        "normalization": "System.Drawing FromStream embedded color management enabled; draw to RGB bitmap; EXIF rotation baked; MPO primary RGB image only"
+      },
+      "texture": "textures/ART26_IMG_2813.png",
+      "texture_sha256": "5bd8c2b6fe4c761182a8b19af86014d30c041051460a73cc11ab7ffa4b4460d1",
+      "texture_size": [
+        480,
+        640
+      ],
+      "representation": "source photograph in shallow frame; photographed surroundings retained; no unseen geometry reconstructed",
+      "reconstruction_status": "estimated/incomplete reconstruction",
+      "instantiate": true,
+      "estimated_dimensions_m": [
+        0.8375,
+        0.0575,
+        1.1
+      ],
+      "dimension_basis": "reversible presentation size; not measured artwork dimensions",
+      "pivot": "centre of photo, wall backing local y=0; front local -Y",
+      "fbx": "exports/ART26_IMG_2813.fbx",
+      "glb": "exports/ART26_IMG_2813.glb",
+      "material_slots": [
+        "ART26_Frame_MatteCharcoal",
+        "ART26_IMG_2813_Photo"
+      ],
+      "collision": "Disable collision for shallow wall frames; no floor footprint",
+      "proposed_anchor": {
+        "room": "G105 Gallery",
+        "support_object": "Lab_east_wall0",
+        "blender_position_m": [
+          0.15,
+          7.0,
+          0.95
+        ],
+        "blender_rotation_deg": [
+          0,
+          0,
+          90
+        ],
+        "unreal_position_cm": [
+          15,
+          -700.0,
+          95.0
+        ],
+        "unreal_rotation_deg": {
+          "pitch": 0,
+          "yaw": -90,
+          "roll": 0
+        },
+        "status": "PROPOSED_CURRENT_MAP_TRACE_REQUIRED",
+        "front_normal_blender": [
+          1,
+          0,
+          0
+        ]
+      },
+      "mesh_vertices": 44,
+      "mesh_faces": 31
+    },
+    {
+      "stable_id": "ART26_IMG_3037",
+      "source": "IMG_3037.jpeg",
+      "sha256": "775abaaf03302d047ec7289a80ba1a7578715905e0c2a98bb88a3eb1258ce34e",
+      "identity": "Blue-gray teapot with feet",
+      "proposed_placement": "G106 generic glass display case",
+      "implementation": "Photo card first; handle EXIF orientation 6 in derivative. No exact sculpture mesh verified.",
+      "physical_scale": "Estimated presentation size; photo pixels do not establish physical dimensions",
+      "original_unchanged": true,
+      "source_absolute": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task\\CampusCenter-new-plans\\references\\art\\future_unreal_20260930\\IMG_3037.jpeg",
+      "normalization": {
+        "raw_size": [
+          640,
+          480
+        ],
+        "icc_present": false,
+        "output_size": [
+          480,
+          640
+        ],
+        "exif_orientation": 6,
+        "creative_edits": false,
+        "normalization": "System.Drawing FromStream embedded color management enabled; draw to RGB bitmap; EXIF rotation baked; MPO primary RGB image only"
+      },
+      "texture": "textures/ART26_IMG_3037.png",
+      "texture_sha256": "ae994549c52c0ead2f9791e234188dc7e8eb4ea18cc16a7d7e47e1452438730d",
+      "texture_size": [
+        480,
+        640
+      ],
+      "representation": "source photograph in shallow frame; photographed surroundings retained; no unseen geometry reconstructed",
+      "reconstruction_status": "estimated/incomplete reconstruction",
+      "instantiate": true,
+      "estimated_dimensions_m": [
+        0.8375,
+        0.0575,
+        1.1
+      ],
+      "dimension_basis": "reversible presentation size; not measured artwork dimensions",
+      "pivot": "centre of photo, wall backing local y=0; front local -Y",
+      "fbx": "exports/ART26_IMG_3037.fbx",
+      "glb": "exports/ART26_IMG_3037.glb",
+      "material_slots": [
+        "ART26_Frame_MatteCharcoal",
+        "ART26_IMG_3037_Photo"
+      ],
+      "collision": "Disable collision for shallow wall frames; no floor footprint",
+      "proposed_anchor": {
+        "room": "G105 Gallery",
+        "support_object": "Lab_east_wall0",
+        "blender_position_m": [
+          0.15,
+          8.3,
+          0.95
+        ],
+        "blender_rotation_deg": [
+          0,
+          0,
+          90
+        ],
+        "unreal_position_cm": [
+          15,
+          -830.0000000000001,
+          95.0
+        ],
+        "unreal_rotation_deg": {
+          "pitch": 0,
+          "yaw": -90,
+          "roll": 0
+        },
+        "status": "PROPOSED_CURRENT_MAP_TRACE_REQUIRED",
+        "front_normal_blender": [
+          1,
+          0,
+          0
+        ]
+      },
+      "mesh_vertices": 44,
+      "mesh_faces": 31
+    },
+    {
+      "stable_id": "ART26_IMG_3248",
+      "source": "IMG_3248.jpeg",
+      "sha256": "67b4330caab9b44f600915bb2d9c634303ed5d1e7891d936928b6f040c1317ab",
+      "identity": "Colored faces with pink backlight",
+      "proposed_placement": "G105 display wall",
+      "implementation": "Photo/frame first; optional shallow relief and pink emissive/backlight estimated without changing room lighting globally.",
+      "physical_scale": "Estimated presentation size; photo pixels do not establish physical dimensions",
+      "original_unchanged": true,
+      "source_absolute": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task\\CampusCenter-new-plans\\references\\art\\future_unreal_20260930\\IMG_3248.jpeg",
+      "normalization": {
+        "raw_size": [
+          640,
+          480
+        ],
+        "icc_present": true,
+        "output_size": [
+          640,
+          480
+        ],
+        "exif_orientation": 1,
+        "creative_edits": false,
+        "normalization": "System.Drawing FromStream embedded color management enabled; draw to RGB bitmap; EXIF rotation baked; MPO primary RGB image only"
+      },
+      "texture": "textures/ART26_IMG_3248.png",
+      "texture_sha256": "5d62ff6a2462cb950ef704f308d24a6af4b2bdef7705e335cf1b17372405a2c9",
+      "texture_size": [
+        640,
+        480
+      ],
+      "representation": "source photograph in shallow frame; photographed surroundings retained; no unseen geometry reconstructed",
+      "reconstruction_status": "photo-backed presentation; estimated frame dimensions",
+      "instantiate": true,
+      "estimated_dimensions_m": [
+        0.95,
+        0.0575,
+        0.725
+      ],
+      "dimension_basis": "reversible presentation size; not measured artwork dimensions",
+      "pivot": "centre of photo, wall backing local y=0; front local -Y",
+      "fbx": "exports/ART26_IMG_3248.fbx",
+      "glb": "exports/ART26_IMG_3248.glb",
+      "material_slots": [
+        "ART26_Frame_MatteCharcoal",
+        "ART26_IMG_3248_Photo"
+      ],
+      "collision": "Disable collision for shallow wall frames; no floor footprint",
+      "proposed_anchor": {
+        "room": "G105 Gallery",
+        "support_object": "Lab_east_wall0",
+        "blender_position_m": [
+          0.15,
+          1.8,
+          2.45
+        ],
+        "blender_rotation_deg": [
+          0,
+          0,
+          90
+        ],
+        "unreal_position_cm": [
+          15,
+          -180.0,
+          245.00000000000003
+        ],
+        "unreal_rotation_deg": {
+          "pitch": 0,
+          "yaw": -90,
+          "roll": 0
+        },
+        "status": "PROPOSED_CURRENT_MAP_TRACE_REQUIRED",
+        "front_normal_blender": [
+          1,
+          0,
+          0
+        ]
+      },
+      "mesh_vertices": 44,
+      "mesh_faces": 31
+    },
+    {
+      "stable_id": "ART26_IMG_3260",
+      "source": "IMG_3260.jpeg",
+      "sha256": "e66514bb56cb61500047a124e5f4522ad88809b4cdeec1967667a4a2b5e26af8",
+      "identity": "Circular blue Earth-like artwork",
+      "proposed_placement": "G105 or G106 wall",
+      "implementation": "Image panel; mask only in derivative if cleanly supportable. Keep original photograph unchanged.",
+      "physical_scale": "Estimated presentation size; photo pixels do not establish physical dimensions",
+      "original_unchanged": true,
+      "source_absolute": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task\\CampusCenter-new-plans\\references\\art\\future_unreal_20260930\\IMG_3260.jpeg",
+      "normalization": {
+        "raw_size": [
+          480,
+          482
+        ],
+        "icc_present": true,
+        "output_size": [
+          480,
+          482
+        ],
+        "exif_orientation": 1,
+        "creative_edits": false,
+        "normalization": "System.Drawing FromStream embedded color management enabled; draw to RGB bitmap; EXIF rotation baked; MPO primary RGB image only"
+      },
+      "texture": "textures/ART26_IMG_3260.png",
+      "texture_sha256": "530b959be2211d2015bcea6e0da0c14b3709b650b366de2bee80d09a05e203b3",
+      "texture_size": [
+        480,
+        482
+      ],
+      "representation": "source photograph in shallow frame; photographed surroundings retained; no unseen geometry reconstructed",
+      "reconstruction_status": "photo-backed presentation; estimated frame dimensions",
+      "instantiate": true,
+      "estimated_dimensions_m": [
+        0.95,
+        0.0575,
+        0.95375
+      ],
+      "dimension_basis": "reversible presentation size; not measured artwork dimensions",
+      "pivot": "centre of photo, wall backing local y=0; front local -Y",
+      "fbx": "exports/ART26_IMG_3260.fbx",
+      "glb": "exports/ART26_IMG_3260.glb",
+      "material_slots": [
+        "ART26_Frame_MatteCharcoal",
+        "ART26_IMG_3260_Photo"
+      ],
+      "collision": "Disable collision for shallow wall frames; no floor footprint",
+      "proposed_anchor": {
+        "room": "G105 Gallery",
+        "support_object": "Lab_east_wall0",
+        "blender_position_m": [
+          0.15,
+          3.1,
+          2.45
+        ],
+        "blender_rotation_deg": [
+          0,
+          0,
+          90
+        ],
+        "unreal_position_cm": [
+          15,
+          -310.0,
+          245.00000000000003
+        ],
+        "unreal_rotation_deg": {
+          "pitch": 0,
+          "yaw": -90,
+          "roll": 0
+        },
+        "status": "PROPOSED_CURRENT_MAP_TRACE_REQUIRED",
+        "front_normal_blender": [
+          1,
+          0,
+          0
+        ]
+      },
+      "mesh_vertices": 44,
+      "mesh_faces": 31
+    },
+    {
+      "stable_id": "ART26_IMG_4122",
+      "source": "IMG_4122.jpeg",
+      "sha256": "93b02a7ce599a0e4ffad64b84476c0042897c883dcdd54c8e03314f15ee4d431",
+      "identity": "Hand/rod sculpture",
+      "proposed_placement": "G106 small display pedestal",
+      "implementation": "Photo card first; simple hand silhouette proxy would be estimated, not photogrammetry.",
+      "physical_scale": "Estimated presentation size; photo pixels do not establish physical dimensions",
+      "original_unchanged": true,
+      "source_absolute": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task\\CampusCenter-new-plans\\references\\art\\future_unreal_20260930\\IMG_4122.jpeg",
+      "normalization": {
+        "raw_size": [
+          427,
+          640
+        ],
+        "icc_present": false,
+        "output_size": [
+          427,
+          640
+        ],
+        "exif_orientation": 1,
+        "creative_edits": false,
+        "normalization": "System.Drawing FromStream embedded color management enabled; draw to RGB bitmap; EXIF rotation baked; MPO primary RGB image only"
+      },
+      "texture": "textures/ART26_IMG_4122.png",
+      "texture_sha256": "82d460c9be7ed8658763aabfcc112b1acb19584d3347d08f40bcce0c681ed35e",
+      "texture_size": [
+        427,
+        640
+      ],
+      "representation": "source photograph in shallow frame; photographed surroundings retained; no unseen geometry reconstructed",
+      "reconstruction_status": "estimated/incomplete reconstruction",
+      "instantiate": true,
+      "estimated_dimensions_m": [
+        0.75055,
+        0.0575,
+        1.1
+      ],
+      "dimension_basis": "reversible presentation size; not measured artwork dimensions",
+      "pivot": "centre of photo, wall backing local y=0; front local -Y",
+      "fbx": "exports/ART26_IMG_4122.fbx",
+      "glb": "exports/ART26_IMG_4122.glb",
+      "material_slots": [
+        "ART26_Frame_MatteCharcoal",
+        "ART26_IMG_4122_Photo"
+      ],
+      "collision": "Disable collision for shallow wall frames; no floor footprint",
+      "proposed_anchor": {
+        "room": "G105 Gallery",
+        "support_object": "Lab_east_wall0",
+        "blender_position_m": [
+          0.15,
+          4.4,
+          2.45
+        ],
+        "blender_rotation_deg": [
+          0,
+          0,
+          90
+        ],
+        "unreal_position_cm": [
+          15,
+          -440.00000000000006,
+          245.00000000000003
+        ],
+        "unreal_rotation_deg": {
+          "pitch": 0,
+          "yaw": -90,
+          "roll": 0
+        },
+        "status": "PROPOSED_CURRENT_MAP_TRACE_REQUIRED",
+        "front_normal_blender": [
+          1,
+          0,
+          0
+        ]
+      },
+      "mesh_vertices": 44,
+      "mesh_faces": 31
+    },
+    {
+      "stable_id": "ART26_IMG_6652",
+      "source": "IMG_6652.jpeg",
+      "sha256": "50bcc6ae03c0d852c941ea7bafb88ab4702b53efcc765cc99842c3cf888c7974",
+      "identity": "HOW DARE YOU collage",
+      "proposed_placement": "G106 display wall",
+      "implementation": "Frame + rectified derivative; orientation 6, thread geometry later estimate.",
+      "physical_scale": "Estimated presentation size; photo pixels do not establish physical dimensions",
+      "original_unchanged": true,
+      "source_absolute": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task\\CampusCenter-new-plans\\references\\art\\future_unreal_20260930\\IMG_6652.jpeg",
+      "normalization": {
+        "raw_size": [
+          640,
+          480
+        ],
+        "icc_present": true,
+        "output_size": [
+          480,
+          640
+        ],
+        "exif_orientation": 6,
+        "creative_edits": false,
+        "normalization": "System.Drawing FromStream embedded color management enabled; draw to RGB bitmap; EXIF rotation baked; MPO primary RGB image only"
+      },
+      "texture": "textures/ART26_IMG_6652.png",
+      "texture_sha256": "ea93392f3dc0ef8ee353158f5b1cddaad431487435ee01aed57ce1c245ff91c4",
+      "texture_size": [
+        480,
+        640
+      ],
+      "representation": "source photograph in shallow frame; photographed surroundings retained; no unseen geometry reconstructed",
+      "reconstruction_status": "photo-backed presentation; estimated frame dimensions",
+      "instantiate": true,
+      "estimated_dimensions_m": [
+        0.8375,
+        0.0575,
+        1.1
+      ],
+      "dimension_basis": "reversible presentation size; not measured artwork dimensions",
+      "pivot": "centre of photo, wall backing local y=0; front local -Y",
+      "fbx": "exports/ART26_IMG_6652.fbx",
+      "glb": "exports/ART26_IMG_6652.glb",
+      "material_slots": [
+        "ART26_Frame_MatteCharcoal",
+        "ART26_IMG_6652_Photo"
+      ],
+      "collision": "Disable collision for shallow wall frames; no floor footprint",
+      "proposed_anchor": {
+        "room": "G105 Gallery",
+        "support_object": "Lab_east_wall0",
+        "blender_position_m": [
+          0.15,
+          5.7,
+          2.45
+        ],
+        "blender_rotation_deg": [
+          0,
+          0,
+          90
+        ],
+        "unreal_position_cm": [
+          15,
+          -570.0,
+          245.00000000000003
+        ],
+        "unreal_rotation_deg": {
+          "pitch": 0,
+          "yaw": -90,
+          "roll": 0
+        },
+        "status": "PROPOSED_CURRENT_MAP_TRACE_REQUIRED",
+        "front_normal_blender": [
+          1,
+          0,
+          0
+        ]
+      },
+      "mesh_vertices": 44,
+      "mesh_faces": 31
+    },
+    {
+      "stable_id": "ART26_IMG_6988",
+      "source": "IMG_6988.jpeg",
+      "sha256": "2bfa8af481ec36e91b855dba5dba3f1fb294bba2cffb4383989c9734cd30dd5c",
+      "identity": "Orange mixed-media clock/face sculpture",
+      "proposed_placement": "G106 display wall",
+      "implementation": "Frame-0 photo card first; MPO frame 1 is auxiliary grayscale, not an additional artwork. No exact modeled adaptation verified.",
+      "physical_scale": "Estimated presentation size; photo pixels do not establish physical dimensions",
+      "original_unchanged": true,
+      "source_absolute": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task\\CampusCenter-new-plans\\references\\art\\future_unreal_20260930\\IMG_6988.jpeg",
+      "normalization": {
+        "raw_size": [
+          480,
+          640
+        ],
+        "icc_present": true,
+        "output_size": [
+          480,
+          640
+        ],
+        "exif_orientation": 1,
+        "creative_edits": false,
+        "normalization": "System.Drawing FromStream embedded color management enabled; draw to RGB bitmap; EXIF rotation baked; MPO primary RGB image only",
+        "container": "MPO",
+        "included_frame": 0,
+        "excluded_frame": 1,
+        "excluded_frame_role": "grayscale auxiliary; not separate artwork"
+      },
+      "texture": "textures/ART26_IMG_6988.png",
+      "texture_sha256": "b85e095cca5394614c54b2952abf963aa336f3480fbbe1a8b00f264715f137b9",
+      "texture_size": [
+        480,
+        640
+      ],
+      "representation": "source photograph in shallow frame; photographed surroundings retained; no unseen geometry reconstructed",
+      "reconstruction_status": "estimated/incomplete reconstruction",
+      "instantiate": true,
+      "estimated_dimensions_m": [
+        0.8375,
+        0.0575,
+        1.1
+      ],
+      "dimension_basis": "reversible presentation size; not measured artwork dimensions",
+      "pivot": "centre of photo, wall backing local y=0; front local -Y",
+      "fbx": "exports/ART26_IMG_6988.fbx",
+      "glb": "exports/ART26_IMG_6988.glb",
+      "material_slots": [
+        "ART26_Frame_MatteCharcoal",
+        "ART26_IMG_6988_Photo"
+      ],
+      "collision": "Disable collision for shallow wall frames; no floor footprint",
+      "proposed_anchor": {
+        "room": "G105 Gallery",
+        "support_object": "Lab_east_wall0",
+        "blender_position_m": [
+          0.15,
+          7.0,
+          2.45
+        ],
+        "blender_rotation_deg": [
+          0,
+          0,
+          90
+        ],
+        "unreal_position_cm": [
+          15,
+          -700.0,
+          245.00000000000003
+        ],
+        "unreal_rotation_deg": {
+          "pitch": 0,
+          "yaw": -90,
+          "roll": 0
+        },
+        "status": "PROPOSED_CURRENT_MAP_TRACE_REQUIRED",
+        "front_normal_blender": [
+          1,
+          0,
+          0
+        ]
+      },
+      "mesh_vertices": 44,
+      "mesh_faces": 31
+    }
+  ],
+  "existing_packages": [
+    {
+      "version": "v01",
+      "source_map": "/Game/Campus/Maps/CampusCenter_Dusk_ArchitectFinishes_v03",
+      "entries": [
+        {
+          "id": "marilyn_sommerville",
+          "path": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task-3\\CampusCenter-vive\\unreal\\student_art_v01\\textures\\marilyn_sommerville.png",
+          "sha256": "ba9d8d0b030e753c46ce362d79b60ae9a7ea24d0d570d5f73a606a771734507b",
+          "matches_manifest": true,
+          "adaptation": "Imagegen reference-derived adaptation; not a pixel-exact scan. Name label added."
+        },
+        {
+          "id": "nina_griffith",
+          "path": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task-3\\CampusCenter-vive\\unreal\\student_art_v01\\textures\\nina_griffith.png",
+          "sha256": "db724a24faae3c2e9bbc9f5ccc361d11ac60eb78ff456bcd92cab48606e6a8da",
+          "matches_manifest": true,
+          "adaptation": "Imagegen reference-derived adaptation; not a pixel-exact scan. Name label added."
+        },
+        {
+          "id": "gates_seidelmann",
+          "path": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task-3\\CampusCenter-vive\\unreal\\student_art_v01\\textures\\gates_seidelmann.png",
+          "sha256": "ac9007788e123487f34f57257d11f3ed692703ff37319af8b60c734f803ab6f5",
+          "matches_manifest": true,
+          "adaptation": "Imagegen reference-derived adaptation; not a pixel-exact scan. Name label added."
+        },
+        {
+          "id": "sophie_oconnor",
+          "path": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task-3\\CampusCenter-vive\\unreal\\student_art_v01\\textures\\sophie_oconnor.png",
+          "sha256": "a4a3ece8c168dbef4f0227555c14d43d6d39d2ab54bdce7bc1b077a9e03528f3",
+          "matches_manifest": true,
+          "adaptation": "Imagegen reference-derived adaptation; not a pixel-exact scan. Name label added."
+        }
+      ],
+      "reuse_policy": "Reuse v02 existing assets by reference only when primary worker retains them; v01 IDs are already contained in v02. No verified identity match to the new photos; no duplicate exports or script execution."
+    },
+    {
+      "version": "v02",
+      "source_map": "/Game/Campus/Maps/CampusCenter_Dusk_ArchitectFinishes_v03",
+      "entries": [
+        {
+          "id": "marilyn_sommerville",
+          "path": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task-3\\CampusCenter-vive\\unreal\\student_art_v02\\textures\\marilyn_sommerville.png",
+          "sha256": "ba9d8d0b030e753c46ce362d79b60ae9a7ea24d0d570d5f73a606a771734507b",
+          "matches_manifest": true,
+          "adaptation": "Imagegen reference-derived adaptation; not a pixel-exact scan. Name label added."
+        },
+        {
+          "id": "nina_griffith",
+          "path": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task-3\\CampusCenter-vive\\unreal\\student_art_v02\\textures\\nina_griffith.png",
+          "sha256": "db724a24faae3c2e9bbc9f5ccc361d11ac60eb78ff456bcd92cab48606e6a8da",
+          "matches_manifest": true,
+          "adaptation": "Imagegen reference-derived adaptation; not a pixel-exact scan. Name label added."
+        },
+        {
+          "id": "gates_seidelmann",
+          "path": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task-3\\CampusCenter-vive\\unreal\\student_art_v02\\textures\\gates_seidelmann.png",
+          "sha256": "ac9007788e123487f34f57257d11f3ed692703ff37319af8b60c734f803ab6f5",
+          "matches_manifest": true,
+          "adaptation": "Imagegen reference-derived adaptation; not a pixel-exact scan. Name label added."
+        },
+        {
+          "id": "sophie_oconnor",
+          "path": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task-3\\CampusCenter-vive\\unreal\\student_art_v02\\textures\\sophie_oconnor.png",
+          "sha256": "a4a3ece8c168dbef4f0227555c14d43d6d39d2ab54bdce7bc1b077a9e03528f3",
+          "matches_manifest": true,
+          "adaptation": "Imagegen reference-derived adaptation; not a pixel-exact scan. Name label added."
+        },
+        {
+          "id": "ellie_wayland",
+          "path": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task-3\\CampusCenter-vive\\unreal\\student_art_v02\\textures\\ellie_wayland.png",
+          "sha256": "da02e48208e1a0c82490cc242ef19c61a10f51eb32f97bf6216eae7272f0a314",
+          "matches_manifest": true,
+          "adaptation": "Imagegen reference-derived adaptation; not a pixel-exact scan. Name label added."
+        },
+        {
+          "id": "nathan_trepanier",
+          "path": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task-3\\CampusCenter-vive\\unreal\\student_art_v02\\textures\\nathan_trepanier.png",
+          "sha256": "fc395763f54408dd3b7bb239b9f4568be2936a1e70fdea306a1374e99b5b72cb",
+          "matches_manifest": true,
+          "adaptation": "Imagegen reference-derived adaptation; not a pixel-exact scan. Name label added."
+        },
+        {
+          "id": "lila_perkins",
+          "path": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task-3\\CampusCenter-vive\\unreal\\student_art_v02\\textures\\lila_perkins.png",
+          "sha256": "b1bc11dbd6d0241086a9bd2f23f4c005d89ab2f021ac0e806f1c529075d9538b",
+          "matches_manifest": true,
+          "adaptation": "Imagegen reference-derived adaptation; not a pixel-exact scan. Name label added. Obscured denim behind the student\u00e2\u20ac\u2122s hand/arm reconstructed."
+        },
+        {
+          "id": "sophie_oconnor_soup",
+          "path": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task-3\\CampusCenter-vive\\unreal\\student_art_v02\\textures\\sophie_oconnor_soup.png",
+          "sha256": "037eb757c6d4259ca9724eb0a125e860992099402628d20d546ed2123cd25783",
+          "matches_manifest": true,
+          "adaptation": "Imagegen reference-derived adaptation; not a pixel-exact scan. Name label added."
+        }
+      ],
+      "reuse_policy": "Reuse v02 existing assets by reference only when primary worker retains them; v01 IDs are already contained in v02. No verified identity match to the new photos; no duplicate exports or script execution."
+    }
+  ],
+  "render_contract": {
+    "engine": "BLENDER_EEVEE",
+    "device": "default raster device",
+    "samples": "EEVEE defaults; sample count was not explicitly set in builder. Saved scene provides authoritative settings.",
+    "resolution": [
+      640,
+      640
+    ],
+    "format": "PNG RGBA 8-bit",
+    "view_transform": "Standard",
+    "outputs": "11 individual photo-frame renders plus 1 proposed-layout render",
+    "purpose": "asset and reversible layout QA; not final room approval"
+  },
+  "integration_limits": [
+    "No print implementation",
+    "Do not run old updater scripts",
+    "Placement is proposed; primary worker must validate v26 furniture clearances and trace current wall corners before enabling actors",
+    "No edits to frozen baselines or Vive/primary copies"
+  ],
+  "layout_basis": "Photo frames on Gallery-facing surface of Lab_east_wall0; all geometry kept east of x=0.125m, outside protected iLab. Two rows of six/ five small reversible photo panels. No new freestanding display floor footprint.",
+  "layout_render_scope": "Art-only schematic with inventory-derived west wall and floor context. It is not a current furnished-room render.",
+  "blender_version": "5.0.0",
+  "asset_count": 11,
+  "three_dimensional_limits": "Volumetric sculpture/mannequin reconstructions remain deferred; these are honest photo presentations per planning inventory, not complete sculpture meshes.",
+  "material_mapping": {
+    "ART26_Frame_MatteCharcoal": {
+      "base_color_srgb": [
+        0.025,
+        0.025,
+        0.025
+      ],
+      "roughness": 0.75,
+      "metallic": 0
+    },
+    "ART26_IMG_*_Photo": {
+      "base_color_texture": "matching artwork texture field",
+      "srgb": true,
+      "roughness": 1,
+      "metallic": 0,
+      "two_sided": false,
+      "opacity_mode": "opaque"
+    }
+  },
+  "import_contract": {
+    "asset_root": "/Game/Campus/ArtworkART26R01",
+    "formats": "FBX primary static meshes; GLB portable embedded-texture alternate. Import one format per ID, never both.",
+    "fbx_units": "FBX declares metre scene units; Unreal converts to centimetres, import uniform scale 1. Validate dimensions against manifest.",
+    "actor_tags": [
+      "ART26_R01",
+      "stable_id"
+    ],
+    "idempotence": "Upsert by stable_id tag inside new enhancement map only. Skip duplicate IDs already present; do not delete pre-existing student art actors.",
+    "map_policy": "Use current worker-owned enhancement map; this package loads no obsolete map.",
+    "textures": "Import textures with sRGB enabled, use artwork texture mapping for Photo material; GLB embeds texture.",
+    "collision": "No collision for wall presentation meshes. Do not import QA_ONLY context objects.",
+    "placement_gate": "Before spawning, verify all four artwork corners against current support wall and compare door/equipment/window/furniture clearances; reject unsupported placements. The absolute transforms are proposed anchors, not unconditional spawn instructions."
+  }
+}

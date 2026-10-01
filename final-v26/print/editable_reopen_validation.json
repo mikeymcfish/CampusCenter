@@ -1,0 +1,41 @@
+{
+  "status": "passed",
+  "file": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task-4\\CampusCenter-print-furniture-v26-r02\\CampusCenter_Furniture_Print_Edit_R02.blend",
+  "authoring_blender_version": "5.0.0",
+  "mesh_objects": 7,
+  "units": "metres",
+  "objects": [
+    {
+      "object": "Ground_Furnished",
+      "dimensions_mm": [
+        736.5000247955322,
+        558.0000281333923,
+        53.568001836538315
+      ]
+    },
+    {
+      "object": "Ground_Enclosed",
+      "dimensions_mm": [
+        736.5000247955322,
+        558.0000281333923,
+        53.568001836538315
+      ]
+    },
+    {
+      "object": "Ground_Acrylic",
+      "dimensions_mm": [
+        739.2730712890625,
+        558.0000281333923,
+        53.568001836538315
+      ]
+    },
+    {
+      "object": "Upper_Enclosed",
+      "dimensions_mm": [
+        768.9569592475891,
+        560.7660412788391,
+        53.568001836538315
+      ]
+    }
+  ]
+}

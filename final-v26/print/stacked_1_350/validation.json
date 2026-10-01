@@ -1,0 +1,103 @@
+{
+  "scale": "1:350",
+  "assembly_z_mm": {
+    "ground": 0,
+    "upper": 12.192,
+    "roof": 23.077714285714286
+  },
+  "interfaces": [
+    {
+      "lower": "ground",
+      "upper": "upper",
+      "penetration_mm3": 0.0002299113955338559,
+      "contact_area_mm2": 2381.0,
+      "centroid_supported": true
+    },
+    {
+      "lower": "upper",
+      "upper": "roof",
+      "penetration_mm3": 8.358361031274232e-05,
+      "contact_area_mm2": 1868.125,
+      "centroid_supported": true
+    }
+  ],
+  "meshes": {
+    "ground": {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        185.25,
+        140.0,
+        13.392000198364258
+      ],
+      "bounds_mm": [
+        [
+          3.75,
+          2.0,
+          0.0
+        ],
+        [
+          189.0,
+          142.0,
+          13.392000198364258
+        ]
+      ],
+      "volume_mm3": 60015.92509088541,
+      "triangles": 7566
+    },
+    "upper": {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 2,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        193.25,
+        141.25,
+        13.392000198364258
+      ],
+      "bounds_mm": [
+        [
+          3.0,
+          1.5,
+          0.0
+        ],
+        [
+          196.25,
+          142.75,
+          13.392000198364258
+        ]
+      ],
+      "volume_mm3": 41526.80386854336,
+      "triangles": 6918
+    },
+    "roof": {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        177.75,
+        135.25,
+        6.847714424133301
+      ],
+      "bounds_mm": [
+        [
+          3.75,
+          6.25,
+          0.0
+        ],
+        [
+          181.5,
+          141.5,
+          6.847714424133301
+        ]
+      ],
+      "volume_mm3": 49922.11983285099,
+      "triangles": 954
+    }
+  },
+  "roof_unchanged_grid": true,
+  "physical_or_slicer_tested": false
+}

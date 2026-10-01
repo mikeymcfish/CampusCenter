@@ -1,0 +1,253 @@
+{
+  "archive": "fwd.zip",
+  "archive_bytes": 1224923,
+  "archive_sha256": "44feb642fc0d6241ecf19073a28e589de635e63687207065c616aaa69acf744b",
+  "reviewed_date_utc": "2026-09-30",
+  "status": "FUTURE UNREAL IMPLEMENTATION — deferred source photographs only; no scene import, modeling, texturing, or placement performed.",
+  "entry_count": 12,
+  "total_uncompressed_bytes": 1265400,
+  "path_validation": "All entries top-level filenames; no absolute paths, traversal, symlinks, duplicate names, or encryption.",
+  "validation": "All entry CRC checks passed and all image payloads decoded successfully. No archive contents executed and no embedded URLs contacted.",
+  "license_and_usage": "No license, readme, or placement-note file is included. Inspected descriptive EXIF/IPTC metadata contained no rights statement. Rights must not be inferred from possession of the files.",
+  "later_notes": [
+    "Photographic visual references of displayed artworks, not supplied meshes, Unreal packages, or finished PBR texture sets.",
+    "Retain original filenames and untouched archive. Any conversion or crop should be a separate derivative in a later approved implementation.",
+    "IMG_3037.jpeg and IMG_6652.jpeg need EXIF orientation accounted for when preparing derivatives.",
+    "IMG_6988.jpeg is MPO despite its extension; frame 0 is 480x640 RGB and frame 1 is 240x320 grayscale auxiliary image. Do not automatically treat the second frame as another artwork.",
+    "Embedded Apple color profiles should be considered when preparing later color-managed derivatives.",
+    "IMG_1795.jpeg and IMG_1869.jpeg show overlapping coverage of the same red/black wall artwork.",
+    "Exact in-world placement, physical scale, cropping, and any modeling remain unspecified by the archive."
+  ],
+  "assets": [
+    {
+      "filename": "IMG_1758.jpeg",
+      "bytes": 101167,
+      "sha256": "515c71512f78f702caecd675a89a8b63c394eeefaf1eb7f26bfb69d75a8ec36a",
+      "detected_format": "JPEG",
+      "stored_dimensions_px": [
+        640,
+        402
+      ],
+      "display_dimensions_px": [
+        640,
+        402
+      ],
+      "mode": "RGB",
+      "exif_orientation": 1,
+      "description": "Photograph of eight mannequins displaying colorful garments against a gallery wall",
+      "icc_profile": "Apple Wide Color Sharing Profile",
+      "frame_count": 1
+    },
+    {
+      "filename": "IMG_1770.jpeg",
+      "bytes": 90469,
+      "sha256": "1f069931a06312b012429edbc864f77550f1e23bff613862f390dbc43185bbe2",
+      "detected_format": "JPEG",
+      "stored_dimensions_px": [
+        640,
+        480
+      ],
+      "display_dimensions_px": [
+        640,
+        480
+      ],
+      "mode": "RGB",
+      "exif_orientation": 1,
+      "description": "Photograph of a blue and an orange hand artwork with thin strings or cords extending upward",
+      "icc_profile": "Apple Wide Color Sharing Profile",
+      "frame_count": 1
+    },
+    {
+      "filename": "IMG_1795.jpeg",
+      "bytes": 90738,
+      "sha256": "6030794747d51337dae03a8a58633851958992b23dfbdee0bfeb08cb2eaf656b",
+      "detected_format": "JPEG",
+      "stored_dimensions_px": [
+        640,
+        480
+      ],
+      "display_dimensions_px": [
+        640,
+        480
+      ],
+      "mode": "RGB",
+      "exif_orientation": 1,
+      "description": "Wide gallery-wall photograph with large red/black abstract work and three smaller works below",
+      "icc_profile": "Apple Wide Color Sharing Profile",
+      "frame_count": 1
+    },
+    {
+      "filename": "IMG_1820.jpeg",
+      "bytes": 109007,
+      "sha256": "264c7f48b8838c368ce48068e88a7d7e7786ea2f2284823a508cf8a1e610c04f",
+      "detected_format": "JPEG",
+      "stored_dimensions_px": [
+        640,
+        385
+      ],
+      "display_dimensions_px": [
+        640,
+        385
+      ],
+      "mode": "RGB",
+      "exif_orientation": 1,
+      "description": "Framed horizontal mixed-media artwork with layered colored forms and visible background text",
+      "icc_profile": "Apple Wide Color Sharing Profile",
+      "frame_count": 1
+    },
+    {
+      "filename": "IMG_1869.jpeg",
+      "bytes": 99331,
+      "sha256": "72dbc24b8ac895cb7b286aa461cfbce48abf2cc684be6fc5aaefab83f46accd6",
+      "detected_format": "JPEG",
+      "stored_dimensions_px": [
+        640,
+        480
+      ],
+      "display_dimensions_px": [
+        640,
+        480
+      ],
+      "mode": "RGB",
+      "exif_orientation": 1,
+      "description": "Closer photograph of the same red/black abstract work seen in IMG_1795.jpeg",
+      "icc_profile": "Apple Wide Color Sharing Profile",
+      "frame_count": 1
+    },
+    {
+      "filename": "IMG_2813.jpeg",
+      "bytes": 71308,
+      "sha256": "0c40b34aadcad819c06df99bd2d1a53f6e4a3f72011ea212b73859af881f3173",
+      "detected_format": "JPEG",
+      "stored_dimensions_px": [
+        480,
+        640
+      ],
+      "display_dimensions_px": [
+        480,
+        640
+      ],
+      "mode": "RGB",
+      "exif_orientation": 1,
+      "description": "Cream ceramic teapot with orange handle/lid and colored curved-line decoration",
+      "icc_profile": "Apple Wide Color Sharing Profile",
+      "frame_count": 1
+    },
+    {
+      "filename": "IMG_3037.jpeg",
+      "bytes": 77773,
+      "sha256": "775abaaf03302d047ec7289a80ba1a7578715905e0c2a98bb88a3eb1258ce34e",
+      "detected_format": "JPEG",
+      "stored_dimensions_px": [
+        640,
+        480
+      ],
+      "display_dimensions_px": [
+        480,
+        640
+      ],
+      "mode": "RGB",
+      "exif_orientation": 6,
+      "description": "Pale blue-gray ceramic teapot sculpture with two foot-like supports",
+      "icc_profile": null,
+      "frame_count": 1
+    },
+    {
+      "filename": "IMG_3248.jpeg",
+      "bytes": 102914,
+      "sha256": "67b4330caab9b44f600915bb2d9c634303ed5d1e7891d936928b6f040c1317ab",
+      "detected_format": "JPEG",
+      "stored_dimensions_px": [
+        640,
+        480
+      ],
+      "display_dimensions_px": [
+        640,
+        480
+      ],
+      "mode": "RGB",
+      "exif_orientation": 1,
+      "description": "Colorful wall-mounted cluster of stylized faces with pink backlighting",
+      "icc_profile": "Apple Wide Color Sharing Profile",
+      "frame_count": 1
+    },
+    {
+      "filename": "IMG_3260.jpeg",
+      "bytes": 124042,
+      "sha256": "e66514bb56cb61500047a124e5f4522ad88809b4cdeec1967667a4a2b5e26af8",
+      "detected_format": "JPEG",
+      "stored_dimensions_px": [
+        480,
+        482
+      ],
+      "display_dimensions_px": [
+        480,
+        482
+      ],
+      "mode": "RGB",
+      "exif_orientation": 1,
+      "description": "Circular blue Earth-like artwork on a dark speckled background",
+      "icc_profile": "Apple Wide Color Sharing Profile",
+      "frame_count": 1
+    },
+    {
+      "filename": "IMG_4122.jpeg",
+      "bytes": 28591,
+      "sha256": "93b02a7ce599a0e4ffad64b84476c0042897c883dcdd54c8e03314f15ee4d431",
+      "detected_format": "JPEG",
+      "stored_dimensions_px": [
+        427,
+        640
+      ],
+      "display_dimensions_px": [
+        427,
+        640
+      ],
+      "mode": "RGB",
+      "exif_orientation": 1,
+      "description": "Monochrome sculpture of a hand holding a long rod, emerging from a cylindrical base",
+      "icc_profile": null,
+      "frame_count": 1
+    },
+    {
+      "filename": "IMG_6652.jpeg",
+      "bytes": 134508,
+      "sha256": "50bcc6ae03c0d852c941ea7bafb88ab4702b53efcc765cc99842c3cf888c7974",
+      "detected_format": "JPEG",
+      "stored_dimensions_px": [
+        640,
+        480
+      ],
+      "display_dimensions_px": [
+        480,
+        640
+      ],
+      "mode": "RGB",
+      "exif_orientation": 6,
+      "description": "Mixed-media collage with prominent HOW DARE YOU text, blue diagonal section, and hanging red threads",
+      "icc_profile": "Apple Wide Color Sharing Profile",
+      "frame_count": 1
+    },
+    {
+      "filename": "IMG_6988.jpeg",
+      "bytes": 235552,
+      "sha256": "2bfa8af481ec36e91b855dba5dba3f1fb294bba2cffb4383989c9734cd30dd5c",
+      "detected_format": "MPO",
+      "stored_dimensions_px": [
+        480,
+        640
+      ],
+      "display_dimensions_px": [
+        480,
+        640
+      ],
+      "mode": "RGB",
+      "exif_orientation": 1,
+      "description": "Orange spiky-faced mixed-media wall sculpture with clock, traffic-light form, and assorted objects",
+      "icc_profile": "Apple Poppy Output Profile",
+      "frame_count": 2
+    }
+  ],
+  "storage": "Original image payloads are stored individually, unchanged, with their original filenames. The untouched source archive fwd.zip is retained separately in the project owner's Library; the ZIP itself is not included in this repository addition.",
+  "archive_provenance": "User-supplied fwd.zip, received 2026-09-30; archive size and SHA-256 below identify the original source."
+}

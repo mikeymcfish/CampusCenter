@@ -1,0 +1,301 @@
+{
+  "map": "/Game/Campus/Maps/CampusCenter_FA26_Desktop_R21_Support",
+  "file": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task\\CampusCenter-new-plans\\downstream\\desktop_furniture_v26_r01\\unreal_project\\Content\\Campus\\Maps\\CampusCenter_FA26_Desktop_R21_Support.umap",
+  "sha256": "5535d2c636f94e75288ff38d63644e51cda05cbdeb08a34658c1ce3b1a514578",
+  "changed_actor_names": [
+    "StaticMeshActor_1510"
+  ],
+  "actor_label": "R25_U218_Furniture",
+  "old_mesh": "/Game/Campus/Revision25R01/Geometry/Campus_R25_Delta_02/StaticMeshes/R25_U218_Furniture.R25_U218_Furniture",
+  "new_mesh": "/Game/Campus/FitnessSupportR26R01/Runtime/FA26_FitnessSupport_U218_R06.FA26_FitnessSupport_U218_R06",
+  "new_mesh_file": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task\\CampusCenter-new-plans\\downstream\\desktop_furniture_v26_r01\\unreal_project\\Content\\Campus\\FitnessSupportR26R01\\Runtime\\FA26_FitnessSupport_U218_R06.uasset",
+  "new_mesh_sha256": "c841f6b45976841bf048c85c5eee266e1985a7ee89f7dea40eb656f3bcda3d60",
+  "materials": [
+    {
+      "slot": "V8_plain_rubber",
+      "path": "/Game/Campus/FurnitureR26/CompatR03/V8_plain_rubber_33d74d26.V8_plain_rubber_33d74d26",
+      "nanite_usage": true
+    },
+    {
+      "slot": "Dark_metal",
+      "path": "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+      "nanite_usage": true
+    },
+    {
+      "slot": "V8_plain_dark_screen",
+      "path": "/Game/Campus/FitnessSupportR26R01/Compat/V8_plain_dark_screen_4dd4b3d1.V8_plain_dark_screen_4dd4b3d1",
+      "nanite_usage": true
+    },
+    {
+      "slot": "Blockout_equipment_-_untextured",
+      "path": "/Game/Campus/FitnessSupportR26R01/Compat/Blockout_equipment_-_untextured_898e9409.Blockout_equipment_-_untextured_898e9409",
+      "nanite_usage": true
+    },
+    {
+      "slot": "V8_plain_sage_upholstery",
+      "path": "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric",
+      "nanite_usage": true
+    },
+    {
+      "slot": "Brushed_stainless_hardware",
+      "path": "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware",
+      "nanite_usage": true
+    }
+  ],
+  "nanite_matches_original": true,
+  "nanite_enabled": true,
+  "before": {
+    "label": "R25_U218_Furniture",
+    "mesh": "/Game/Campus/Revision25R01/Geometry/Campus_R25_Delta_02/StaticMeshes/R25_U218_Furniture.R25_U218_Furniture",
+    "materials": [
+      "/Game/Campus/Imported/Campus_Transfer/Materials/V8_plain_rubber.V8_plain_rubber",
+      "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+      "/Game/Campus/Imported/Campus_Transfer/Materials/V8_plain_dark_screen.V8_plain_dark_screen",
+      "/Game/Campus/Imported/Campus_Transfer/Materials/Blockout_equipment_-_untextured.Blockout_equipment_-_untextured",
+      "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric",
+      "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": {
+      "pitch": 0.0,
+      "yaw": 0.0,
+      "roll": 0.0
+    },
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "hidden": false,
+    "collision": true,
+    "component_collision": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+  },
+  "after": {
+    "label": "R25_U218_Furniture",
+    "mesh": "/Game/Campus/FitnessSupportR26R01/Runtime/FA26_FitnessSupport_U218_R06.FA26_FitnessSupport_U218_R06",
+    "materials": [
+      "/Game/Campus/FurnitureR26/CompatR03/V8_plain_rubber_33d74d26.V8_plain_rubber_33d74d26",
+      "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+      "/Game/Campus/FitnessSupportR26R01/Compat/V8_plain_dark_screen_4dd4b3d1.V8_plain_dark_screen_4dd4b3d1",
+      "/Game/Campus/FitnessSupportR26R01/Compat/Blockout_equipment_-_untextured_898e9409.Blockout_equipment_-_untextured_898e9409",
+      "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric",
+      "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": {
+      "pitch": 0.0,
+      "yaw": 0.0,
+      "roll": 0.0
+    },
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "hidden": false,
+    "collision": true,
+    "component_collision": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+  },
+  "source": {
+    "source": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task\\CampusCenter-new-plans\\scene\\Campus_Center_New_Plans_Furniture_v26_b05.blend",
+    "source_sha256": "3013db5f7f8171b403bd5fac8561c84e24591875aa049683f950c3ee4e19e56e",
+    "export": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task\\CampusCenter-new-plans\\downstream\\furniture_art_v26_r01\\fitness_support_patch_r01\\FitnessSupport_U218_R01.glb",
+    "export_sha256": "4e00666f3a5bfc2d53c487e2c0062cd3b702b9f909ddb8db6c18bb383e997a85",
+    "replacement_actor": "R25_U218_Furniture",
+    "complete_group_membership": [
+      "RE07_PH02_Fitness218_003_0",
+      "RE07_PH02_Fitness218_003_1",
+      "RE07_PH02_Fitness218_004_0",
+      "RE07_PH02_Fitness218_004_1",
+      "RE07_PH02_Fitness218_005_0",
+      "RE07_PH02_Fitness218_005_1",
+      "RE07_PH02_Fitness218_006_0",
+      "RE07_PH02_Fitness218_006_1",
+      "RE07_PH02_Fitness218_007_0",
+      "RE07_PH02_Fitness218_007_1",
+      "RE07_PH02_Fitness218_008_0",
+      "RE07_PH02_Fitness218_008_1",
+      "RE07_PH02_Fitness218_009_0",
+      "RE07_PH02_Fitness218_009_1",
+      "RE07_PH02_Fitness218_009_2",
+      "RE07_PH02_Fitness218_010_0",
+      "RE07_PH02_Fitness218_011_0",
+      "RE07_PH02_Fitness218_011_1",
+      "RE07_PH02_Fitness218_011_2",
+      "RE07_PH02_Fitness218_012_0",
+      "RE07_PH02_Fitness218_013_0",
+      "RE07_PH02_Fitness218_013_1",
+      "RE07_PH02_Fitness218_013_2",
+      "RE07_PH02_Fitness218_014_0",
+      "RE07_PH02_Fitness218_015_0",
+      "RE07_PH02_Fitness218_015_1",
+      "RE07_PH02_Fitness218_015_2",
+      "RE07_PH02_Fitness218_016_0",
+      "RE07_PH02_Fitness218_017_0",
+      "RE07_PH02_Fitness218_017_1",
+      "RE07_PH02_Fitness218_017_2",
+      "RE07_PH02_Fitness218_018_0",
+      "RE07_PH02_Fitness218_035_0",
+      "RE07_PH02_Fitness218_036_0",
+      "RE07_PH02_Fitness218_037_0",
+      "RE07_PH02_Fitness218_038_0",
+      "RE07_PH02_Fitness218_039_0"
+    ],
+    "changes": [
+      {
+        "object": "RE07_PH02_Fitness218_010_0",
+        "source_label": "Bench",
+        "raw_dimensions": "24W x 53L; deliberately inside rack footprint",
+        "footprint_m": [
+          0.614797058439344,
+          1.3548305547089252
+        ],
+        "body_refit": "Retained donor pad/base/legs; correct long axis and accepted footprint",
+        "removed_barbell": false,
+        "bar_support": "Loaded shaft extends across both retained rack uprights; schematic support, not manufacturer geometry",
+        "rack_objects": [
+          "RE07_PH02_Fitness218_009_0",
+          "RE07_PH02_Fitness218_009_1"
+        ],
+        "bar_envelope_x_m": [
+          -36.80211685180664,
+          -34.945449371337894
+        ],
+        "upright_centres_x_m": [
+          -36.57211685180664,
+          -35.17544937133789
+        ]
+      },
+      {
+        "object": "RE07_PH02_Fitness218_012_0",
+        "source_label": "Bench",
+        "raw_dimensions": "24W x 53L; deliberately inside rack footprint",
+        "footprint_m": [
+          0.614797058439344,
+          1.3548305547089252
+        ],
+        "body_refit": "Retained donor pad/base/legs; correct long axis and accepted footprint",
+        "removed_barbell": false,
+        "bar_support": "Loaded shaft extends across both retained rack uprights; schematic support, not manufacturer geometry",
+        "rack_objects": [
+          "RE07_PH02_Fitness218_011_0",
+          "RE07_PH02_Fitness218_011_1"
+        ],
+        "bar_envelope_x_m": [
+          -34.55924652099609,
+          -32.70257904052735
+        ],
+        "upright_centres_x_m": [
+          -34.329246520996094,
+          -32.932579040527344
+        ]
+      },
+      {
+        "object": "RE07_PH02_Fitness218_014_0",
+        "source_label": "Bench",
+        "raw_dimensions": "24W x 53L; deliberately inside rack footprint",
+        "footprint_m": [
+          0.614797058439344,
+          1.3548305547089252
+        ],
+        "body_refit": "Retained donor pad/base/legs; correct long axis and accepted footprint",
+        "removed_barbell": false,
+        "bar_support": "Loaded shaft extends across both retained rack uprights; schematic support, not manufacturer geometry",
+        "rack_objects": [
+          "RE07_PH02_Fitness218_013_0",
+          "RE07_PH02_Fitness218_013_1"
+        ],
+        "bar_envelope_x_m": [
+          -32.32775924682617,
+          -30.47109176635742
+        ],
+        "upright_centres_x_m": [
+          -32.09775924682617,
+          -30.701091766357422
+        ]
+      },
+      {
+        "object": "RE07_PH02_Fitness218_016_0",
+        "source_label": "Bench",
+        "raw_dimensions": "24W x 53L; deliberately inside rack footprint",
+        "footprint_m": [
+          0.614797058439344,
+          1.3548305547089252
+        ],
+        "body_refit": "Retained donor pad/base/legs; correct long axis and accepted footprint",
+        "removed_barbell": false,
+        "bar_support": "Loaded shaft extends across both retained rack uprights; schematic support, not manufacturer geometry",
+        "rack_objects": [
+          "RE07_PH02_Fitness218_015_0",
+          "RE07_PH02_Fitness218_015_1"
+        ],
+        "bar_envelope_x_m": [
+          -30.096273880004883,
+          -28.239606399536132
+        ],
+        "upright_centres_x_m": [
+          -29.866273880004883,
+          -28.469606399536133
+        ]
+      },
+      {
+        "object": "RE07_PH02_Fitness218_018_0",
+        "source_label": "Bench",
+        "raw_dimensions": "24W x 53L; deliberately inside rack footprint",
+        "footprint_m": [
+          0.614797058439344,
+          1.3548305547089252
+        ],
+        "body_refit": "Retained donor pad/base/legs; correct long axis and accepted footprint",
+        "removed_barbell": false,
+        "bar_support": "Loaded shaft extends across both retained rack uprights; schematic support, not manufacturer geometry",
+        "rack_objects": [
+          "RE07_PH02_Fitness218_017_0",
+          "RE07_PH02_Fitness218_017_1"
+        ],
+        "bar_envelope_x_m": [
+          -27.864788513183594,
+          -26.008121032714843
+        ],
+        "upright_centres_x_m": [
+          -27.634788513183594,
+          -26.238121032714844
+        ]
+      },
+      {
+        "object": "RE07_PH02_Fitness218_035_0",
+        "source_label": "Exercise Bench",
+        "raw_dimensions": "18W x 48L",
+        "footprint_m": [
+          1.2295941168786841,
+          0.46679035918542655
+        ],
+        "body_refit": "Retained donor pad/base/legs; correct long axis and accepted footprint",
+        "removed_barbell": true
+      },
+      {
+        "object": "RE07_PH02_Fitness218_036_0",
+        "source_label": "Exercise Bench",
+        "raw_dimensions": "18W x 48L",
+        "footprint_m": [
+          1.2295941168786841,
+          0.46679035918543044
+        ],
+        "body_refit": "Retained donor pad/base/legs; correct long axis and accepted footprint",
+        "removed_barbell": true
+      }
+    ],
+    "limits": "Source-scaled silhouettes. No manufacturer/product/use clearance certification; five retained rack bars now intersect the supporting upright X spans. Two standalone benches have no loaded bars."
+  },
+  "actor_count": 2228,
+  "saved_reopened": true,
+  "all_other_actor_scoped_properties_unchanged": true
+}

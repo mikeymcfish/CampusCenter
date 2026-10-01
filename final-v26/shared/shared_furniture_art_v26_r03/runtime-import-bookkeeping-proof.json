@@ -1,0 +1,906 @@
+{
+  "map_sha256_unchanged": "1e08b622c15957f22a74ebd4f8c452e65472e4e6c609f0023897ac2b835082e9",
+  "meshes": [
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH11_Commons_UpperCurvedPiece_0.FA26_PH11_Commons_UpperCurvedPiece_0",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH11_Commons_UpperCurvedPiece_0.FA26_PH11_Commons_UpperCurvedPiece_0:RuntimeProvenanceInExternalManifest",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 504,
+        "triangles": 328,
+        "position_sha256": "4003eef52bcdb77ee7546c341b6c442ab83e37abed24d5bc6e729c3d5c6d8a52"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH11_Commons_UpperCurvedPiece_1.FA26_PH11_Commons_UpperCurvedPiece_1",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH11_Commons_UpperCurvedPiece_1.FA26_PH11_Commons_UpperCurvedPiece_1:RuntimeProvenanceInExternalManifest",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 504,
+        "triangles": 328,
+        "position_sha256": "6b43a0d1bb871275652fd3e0c86310945561160d1ec12bf5d1c590a60bde6700"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH12_G102_GlazingCounter.FA26_PH12_G102_GlazingCounter",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH12_G102_GlazingCounter.FA26_PH12_G102_GlazingCounter:RuntimeProvenanceInExternalManifest",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 2688,
+        "triangles": 1316,
+        "position_sha256": "738b3b6353a989eff71992b4b05bbb347aedcba5cdabd1851349edef7cd63ad5"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G121_Bench_0.FA26_PH14_G121_Bench_0",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G121_Bench_0.FA26_PH14_G121_Bench_0:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 24,
+        "triangles": 12,
+        "position_sha256": "8eab3eabad3d6ed35a15905836a1097a42c39bb4120f1c36abed2861df9f475e"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G121_Bench_1.FA26_PH14_G121_Bench_1",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G121_Bench_1.FA26_PH14_G121_Bench_1:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 24,
+        "triangles": 12,
+        "position_sha256": "b7295db13e954f4d3a559c3a4f3953cd945d5c0d9c277e825a59c9314ba60bff"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G121_Bench_2.FA26_PH14_G121_Bench_2",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G121_Bench_2.FA26_PH14_G121_Bench_2:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 24,
+        "triangles": 12,
+        "position_sha256": "8528e26527c59e3bc5cc79c17e16f7414526b5966fa32d8a0d331865e022a056"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G121_Bench_3.FA26_PH14_G121_Bench_3",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G121_Bench_3.FA26_PH14_G121_Bench_3:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 24,
+        "triangles": 12,
+        "position_sha256": "63cd6525e3a8402f9a75f74b62a4f568d9ed1a49e99adfc6181f2dd16ec475fe"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G121_Bench_4.FA26_PH14_G121_Bench_4",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G121_Bench_4.FA26_PH14_G121_Bench_4:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 24,
+        "triangles": 12,
+        "position_sha256": "0c30a1c441aa79655bee6d54d8cc4b0d3487a7ea906db5a6c01069f30e53f3ee"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G121_Bench_5.FA26_PH14_G121_Bench_5",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G121_Bench_5.FA26_PH14_G121_Bench_5:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 24,
+        "triangles": 12,
+        "position_sha256": "74f5c3cc644261e6784f19570783050c445cf91d03aca4a8aa58e8fa6ab0f341"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G121_Bench_6.FA26_PH14_G121_Bench_6",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G121_Bench_6.FA26_PH14_G121_Bench_6:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 24,
+        "triangles": 12,
+        "position_sha256": "fc4b70a2a040748f7abcac9c3f45b9c51a1fa141d6c44de801bf19751bc55170"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G121_Bench_7.FA26_PH14_G121_Bench_7",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G121_Bench_7.FA26_PH14_G121_Bench_7:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 24,
+        "triangles": 12,
+        "position_sha256": "0679c6c1d9250d5b808b473397889a0909d6157484569510c8334224adc31920"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G122_Bench_0.FA26_PH14_G122_Bench_0",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G122_Bench_0.FA26_PH14_G122_Bench_0:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 24,
+        "triangles": 12,
+        "position_sha256": "0f2bd37d5acdfa791bc0eaf9b9caedf1852f801208294540b5d91c2923178a1c"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G122_Bench_1.FA26_PH14_G122_Bench_1",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G122_Bench_1.FA26_PH14_G122_Bench_1:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 24,
+        "triangles": 12,
+        "position_sha256": "628582d1b6ec0b9129bcecb6c5c23fe07e952cabf0b0d75363de7a90d361571e"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G122_Bench_2.FA26_PH14_G122_Bench_2",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G122_Bench_2.FA26_PH14_G122_Bench_2:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 24,
+        "triangles": 12,
+        "position_sha256": "39c31a80925ccb28d50ef9137a017f5560e4544061b1a4289c4aa3482aea0d74"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G122_Bench_3.FA26_PH14_G122_Bench_3",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G122_Bench_3.FA26_PH14_G122_Bench_3:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 24,
+        "triangles": 12,
+        "position_sha256": "ec57d7d2a1ac6eb8230b2ca4bcee94fe8bb3f79d57d4c9362c21a8cd747ec70a"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G122_Bench_4.FA26_PH14_G122_Bench_4",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G122_Bench_4.FA26_PH14_G122_Bench_4:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 24,
+        "triangles": 12,
+        "position_sha256": "ae3bcd3083435dac56f005244f95b7924dc9b0fe8a99ef62d551ea3fb9eeedef"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G122_Bench_5.FA26_PH14_G122_Bench_5",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G122_Bench_5.FA26_PH14_G122_Bench_5:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 24,
+        "triangles": 12,
+        "position_sha256": "7f1900ebb26167c12e15525f8f2123f548e46f84b9f371c4e54b0fef59472dbe"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G122_Bench_6.FA26_PH14_G122_Bench_6",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G122_Bench_6.FA26_PH14_G122_Bench_6:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 24,
+        "triangles": 12,
+        "position_sha256": "93b1eac777894dc6c6f4e99a9208af234ebe99293972d9985d667936859555e3"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G122_Bench_7.FA26_PH14_G122_Bench_7",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G122_Bench_7.FA26_PH14_G122_Bench_7:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 24,
+        "triangles": 12,
+        "position_sha256": "51b6f01c5949eebec33b4447a8b9ea6240af905324f6eb14e14007d5de4f13c2"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH19_G126_TrophyCase_0.FA26_PH19_G126_TrophyCase_0",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH19_G126_TrophyCase_0.FA26_PH19_G126_TrophyCase_0:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 4176,
+        "triangles": 2200,
+        "position_sha256": "9e405e5d308b493ffb4d2eed07e6c70b0edabbed2ec94e1b085ecf61df1056f6"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH19_G126_TrophyCase_1.FA26_PH19_G126_TrophyCase_1",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH19_G126_TrophyCase_1.FA26_PH19_G126_TrophyCase_1:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 4176,
+        "triangles": 2200,
+        "position_sha256": "a7452a6960d5999a1593ece942a41e6c337f960b336a8910799f9a1c85fabfc1"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Trainer_046.FA26_PH02_Trainer_046",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Trainer_046.FA26_PH02_Trainer_046:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 2688,
+        "triangles": 1316,
+        "position_sha256": "c432ad700617eadf157de7d3ce42cabf9b04cef8dae3ace89783f39b4b8c9046"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Trainer_047.FA26_PH02_Trainer_047",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Trainer_047.FA26_PH02_Trainer_047:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 2688,
+        "triangles": 1316,
+        "position_sha256": "926932c9473bd7df43807c88bc1320b83e0431d804b85c53cc3d0b1abdc597d2"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Trainer_048.FA26_PH02_Trainer_048",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Trainer_048.FA26_PH02_Trainer_048:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 2280,
+        "triangles": 1168,
+        "position_sha256": "de88f3831181d1434f054bc268ba842adc4af1f603bde14299c0c25f2452ee8a"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Trainer_049.FA26_PH02_Trainer_049",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Trainer_049.FA26_PH02_Trainer_049:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 2280,
+        "triangles": 1168,
+        "position_sha256": "41a47bc1854e9aa1956bec94136a9a139b6f0e2de41db4267408e16d2d7ad668"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Trainer_050.FA26_PH02_Trainer_050",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Trainer_050.FA26_PH02_Trainer_050:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 2280,
+        "triangles": 1168,
+        "position_sha256": "b3fbd83c0677e43c2d64dffaf9e2cc4f6baf448020a2c9005165ac59db55c06b"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Trainer_051.FA26_PH02_Trainer_051",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Trainer_051.FA26_PH02_Trainer_051:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 2688,
+        "triangles": 1316,
+        "position_sha256": "887c143452ec6760ac5632429d15a6ab1435fce6120eb2424de45bfefda8292a"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Trainer_052.FA26_PH02_Trainer_052",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Trainer_052.FA26_PH02_Trainer_052:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 2688,
+        "triangles": 1316,
+        "position_sha256": "8cbd2293a19d2fcfc677f806ca4d5406eb00a2810f9e0709805324f5fef4bde6"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Trainer_053.FA26_PH02_Trainer_053",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Trainer_053.FA26_PH02_Trainer_053:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 3192,
+        "triangles": 1580,
+        "position_sha256": "0e73ebc9c8c8c14e2b105cb81e5539f51ed97760d62d562afbc79bfc25a14b1f"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH10_Trainer_059.FA26_PH10_Trainer_059",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH10_Trainer_059.FA26_PH10_Trainer_059:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 1248,
+        "triangles": 612,
+        "position_sha256": "11bec9c68d80035395090c1c31e698d3e10c7e53e69cd3f21bc3799447f07a85"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH10_Trainer_060.FA26_PH10_Trainer_060",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH10_Trainer_060.FA26_PH10_Trainer_060:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 2280,
+        "triangles": 1168,
+        "position_sha256": "5b1944228ce36588ba536c3ebcf876e4af6e352667e7684e3d50b938f718c913"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH10_Trainer_061.FA26_PH10_Trainer_061",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH10_Trainer_061.FA26_PH10_Trainer_061:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 888,
+        "triangles": 452,
+        "position_sha256": "a4f86913b6f39722421bd9b664487f4e689dbbb52d17c2a3968f18a81d5b4ed7"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH24_Trainer_StoolLike_1.FA26_PH24_Trainer_StoolLike_1",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH24_Trainer_StoolLike_1.FA26_PH24_Trainer_StoolLike_1:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 1104,
+        "triangles": 700,
+        "position_sha256": "d671e1fa09462467144567d50e49624fb6e9f72c3f4ea6eb79fef25f7d1ebbfc"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH24_Trainer_StoolLike_2.FA26_PH24_Trainer_StoolLike_2",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH24_Trainer_StoolLike_2.FA26_PH24_Trainer_StoolLike_2:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 1104,
+        "triangles": 700,
+        "position_sha256": "6e2184dcbed83c6a0bd3415f339609f348ada9fa2e92a7f144899b997d44f65d"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH24_Trainer_StoolLike_3.FA26_PH24_Trainer_StoolLike_3",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH24_Trainer_StoolLike_3.FA26_PH24_Trainer_StoolLike_3:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 1104,
+        "triangles": 700,
+        "position_sha256": "8282401bb3d62ca590f944025567c5a3a248ab8ad25b043fdad2528ecd39d583"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Trainer_056.FA26_PH02_Trainer_056",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Trainer_056.FA26_PH02_Trainer_056:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 2280,
+        "triangles": 1168,
+        "position_sha256": "7a4daaed458e2c9ade9eced6ca3e4101998b060658be9ce05ec6b7703daba2b9"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH10_Trainer_063.FA26_PH10_Trainer_063",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH10_Trainer_063.FA26_PH10_Trainer_063:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 1560,
+        "triangles": 764,
+        "position_sha256": "3f11f9839b50c8358bb8ba446de0be17f52f3a4420e117b74e57592f283d1e63"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH12_G127_NorthBand.FA26_PH12_G127_NorthBand",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH12_G127_NorthBand.FA26_PH12_G127_NorthBand:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 1776,
+        "triangles": 904,
+        "position_sha256": "419581a34872e0303e42fe51598f41b53e942fe2f851974524c7823e82744273"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH12_AthleticsNE_WestBand.FA26_PH12_AthleticsNE_WestBand",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH12_AthleticsNE_WestBand.FA26_PH12_AthleticsNE_WestBand:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 1776,
+        "triangles": 904,
+        "position_sha256": "841a703a38a521034d230f8e31401ee12c5909ddfefcf610105cfb308571773e"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH12_G_ATHLETICS_SW_NorthBand.FA26_PH12_G_ATHLETICS_SW_NorthBand",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH12_G_ATHLETICS_SW_NorthBand.FA26_PH12_G_ATHLETICS_SW_NorthBand:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 1776,
+        "triangles": 904,
+        "position_sha256": "2fa708b756590ba964bfc718741492451a9b7bf2c2d9ecfd33440da960b60516"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH12_U203_SinkCounter.FA26_PH12_U203_SinkCounter",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH12_U203_SinkCounter.FA26_PH12_U203_SinkCounter:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 2400,
+        "triangles": 1244,
+        "position_sha256": "85597714162f64808129569d6ce037ab4d2aa1f7a0c8a4b069354d34ad8d6780"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_001.FA26_PH02_Fitness218_001",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_001.FA26_PH02_Fitness218_001:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 3216,
+        "triangles": 1708,
+        "position_sha256": "51e5a9d8c5e1d12dc161446ed7e02bb615f94604dbdd591a840039e87ab9ea08"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_002.FA26_PH02_Fitness218_002",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_002.FA26_PH02_Fitness218_002:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 3216,
+        "triangles": 1708,
+        "position_sha256": "72a1c7b31ff055857e9a4ed7a5ebafc9ed1ad5003470d9b5bcaab5ab45782e46"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_019.FA26_PH02_Fitness218_019",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_019.FA26_PH02_Fitness218_019:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 3216,
+        "triangles": 1708,
+        "position_sha256": "47052acdfbf413bec333d972dabe81da3bc25137df9eb5d67facfe7857626aee"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_020.FA26_PH02_Fitness218_020",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_020.FA26_PH02_Fitness218_020:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 3216,
+        "triangles": 1708,
+        "position_sha256": "23bcf249ffa30a6be147e09a57474c6e7a4502ddf7a6ab3106189f9047ba006b"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_021.FA26_PH02_Fitness218_021",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_021.FA26_PH02_Fitness218_021:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 3216,
+        "triangles": 1708,
+        "position_sha256": "f90dcef57183304c04fabaf2d39b49f8a037fae432f3091c913873f8e3308f0d"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_022.FA26_PH02_Fitness218_022",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_022.FA26_PH02_Fitness218_022:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 3216,
+        "triangles": 1708,
+        "position_sha256": "e269d86567da8ce4472e15b61df197568b7dbc9317631f07678b8d2ed48b332c"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_023.FA26_PH02_Fitness218_023",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_023.FA26_PH02_Fitness218_023:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 3216,
+        "triangles": 1708,
+        "position_sha256": "01ee16f11a7f50a592e23489a42cb93efcc09b5e7b091d402f148ea85d568983"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_024.FA26_PH02_Fitness218_024",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_024.FA26_PH02_Fitness218_024:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 3072,
+        "triangles": 1672,
+        "position_sha256": "bdb4dba79a57575bf52cbdf66d58f9861b12b705388c8028441c77db4fcf5e36"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_025.FA26_PH02_Fitness218_025",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_025.FA26_PH02_Fitness218_025:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 3960,
+        "triangles": 2080,
+        "position_sha256": "e56ab38cda980d78e96415d659e83e181b7e4deaa08312131624752f79ba51c9"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_026.FA26_PH02_Fitness218_026",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_026.FA26_PH02_Fitness218_026:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 3960,
+        "triangles": 2080,
+        "position_sha256": "921aa3130d5be7f3897c8dfec2e5f5935da63fd9a114d4f7e314ef4a00a82b58"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_027.FA26_PH02_Fitness218_027",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_027.FA26_PH02_Fitness218_027:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 2376,
+        "triangles": 1284,
+        "position_sha256": "6b167a3c8dcddf302f0da4b84de486d8ce0118c5a0fd0312eddf1126801523dd"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_029.FA26_PH02_Fitness218_029",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_029.FA26_PH02_Fitness218_029:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 2616,
+        "triangles": 1436,
+        "position_sha256": "2df0b6e487302c233f45f39bfb3757af6711c2f288970e05971805995738e81d"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_030.FA26_PH02_Fitness218_030",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_030.FA26_PH02_Fitness218_030:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 2376,
+        "triangles": 1284,
+        "position_sha256": "9b0ef08543290d60483995ad71f893dc653f902413f1def354f5dcfe01961fde"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_031.FA26_PH02_Fitness218_031",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_031.FA26_PH02_Fitness218_031:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 3960,
+        "triangles": 2080,
+        "position_sha256": "fd6687ee44b982cf35cbdfc5f42fc6a04e880c7e1c230915c0f6a0de484fb463"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_032.FA26_PH02_Fitness218_032",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_032.FA26_PH02_Fitness218_032:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 3960,
+        "triangles": 2080,
+        "position_sha256": "f18438bd064aecafe3bac7a7d22efe9d2debca8a731aa1130104d296f92e118b"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_033.FA26_PH02_Fitness218_033",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_033.FA26_PH02_Fitness218_033:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 3360,
+        "triangles": 1852,
+        "position_sha256": "874f3363b1d896146fe36fc428100201347f959446160d4a10d0823fb33ddaa2"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_034.FA26_PH02_Fitness218_034",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_034.FA26_PH02_Fitness218_034:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 1776,
+        "triangles": 904,
+        "position_sha256": "9d0e6249f71abfbf00ef66abc2b4684e6c3fcb273c2cf09b1a1fea41409ce33f"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_040.FA26_PH02_Fitness218_040",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_040.FA26_PH02_Fitness218_040:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 3360,
+        "triangles": 1852,
+        "position_sha256": "7ae0091df3f242b0c38e47d02fc5899d4876d9dea7579036e6846ff3ff7e93d1"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_043.FA26_PH02_Fitness218_043",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_043.FA26_PH02_Fitness218_043:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 17280,
+        "triangles": 8956,
+        "position_sha256": "63f96aee28a4e7f108a887a787b8f60084ccfd88860db030a46219876ee67f96"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_044.FA26_PH02_Fitness218_044",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_044.FA26_PH02_Fitness218_044:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 1128,
+        "triangles": 604,
+        "position_sha256": "bd5abb25ccc114151249cd81ab955dd6d7c184f7ee478b98239335abb68c25ca"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_045.FA26_PH02_Fitness218_045",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_045.FA26_PH02_Fitness218_045:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 1128,
+        "triangles": 604,
+        "position_sha256": "6a25a492e77c737621bc05bd835129be89fa0f3192d6cdfcf2a0da6e8a280659"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH10_Fitness218_057.FA26_PH10_Fitness218_057",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH10_Fitness218_057.FA26_PH10_Fitness218_057:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 1728,
+        "triangles": 984,
+        "position_sha256": "c27baf2c98d7a1602465034c0debc8c8b6cfa0b2a2b960fa83b7af2857ef402a"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH10_Fitness218_058.FA26_PH10_Fitness218_058",
+      "removed_editor_import_bookkeeping": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH10_Fitness218_058.FA26_PH10_Fitness218_058:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 480,
+        "triangles": 304,
+        "position_sha256": "52917208ce335ca5b3b2d4282bded7213fc49b0c8c6da08312a639a93d9e2138"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/ArtworkART26R01/RuntimeB04/ART26_IMG_1758.ART26_IMG_1758",
+      "removed_editor_import_bookkeeping": "/Game/Campus/ArtworkART26R01/RuntimeB04/ART26_IMG_1758.ART26_IMG_1758:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 124,
+        "triangles": 62,
+        "position_sha256": "b02be5e0379cc1ba2816ff93a0df4048eca027d67d1be9146e6893854baa5c71"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/ArtworkART26R01/RuntimeB04/ART26_IMG_1770.ART26_IMG_1770",
+      "removed_editor_import_bookkeeping": "/Game/Campus/ArtworkART26R01/RuntimeB04/ART26_IMG_1770.ART26_IMG_1770:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 124,
+        "triangles": 62,
+        "position_sha256": "07b1f013ac00eee7cb005e58002cb9375d0be82df0e41c60e7d0246449bdcf6c"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/ArtworkART26R01/RuntimeB04/ART26_IMG_1820.ART26_IMG_1820",
+      "removed_editor_import_bookkeeping": "/Game/Campus/ArtworkART26R01/RuntimeB04/ART26_IMG_1820.ART26_IMG_1820:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 124,
+        "triangles": 62,
+        "position_sha256": "af13a6ae9ec8c4fcaf771f2dfdfa0a67a40ae9df4e030eda60334d96e7199243"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/ArtworkART26R01/RuntimeB04/ART26_IMG_1869.ART26_IMG_1869",
+      "removed_editor_import_bookkeeping": "/Game/Campus/ArtworkART26R01/RuntimeB04/ART26_IMG_1869.ART26_IMG_1869:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 124,
+        "triangles": 62,
+        "position_sha256": "07b1f013ac00eee7cb005e58002cb9375d0be82df0e41c60e7d0246449bdcf6c"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/ArtworkART26R01/RuntimeB02/ART26_IMG_2813.ART26_IMG_2813",
+      "removed_editor_import_bookkeeping": "/Game/Campus/ArtworkART26R01/RuntimeB02/ART26_IMG_2813.ART26_IMG_2813:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 124,
+        "triangles": 62,
+        "position_sha256": "9afcf79fde3a812cf10bbf4408b0749d0ce4dead591527dbf1f4925359799578"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/ArtworkART26R01/RuntimeB02/ART26_IMG_3248.ART26_IMG_3248",
+      "removed_editor_import_bookkeeping": "/Game/Campus/ArtworkART26R01/RuntimeB02/ART26_IMG_3248.ART26_IMG_3248:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 124,
+        "triangles": 62,
+        "position_sha256": "07b1f013ac00eee7cb005e58002cb9375d0be82df0e41c60e7d0246449bdcf6c"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/ArtworkART26R01/RuntimeB02/ART26_IMG_3260.ART26_IMG_3260",
+      "removed_editor_import_bookkeeping": "/Game/Campus/ArtworkART26R01/RuntimeB02/ART26_IMG_3260.ART26_IMG_3260:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 124,
+        "triangles": 62,
+        "position_sha256": "73ef7ab66b7e92a0ddbfb47afea080764dcdde4a115f1c34f235662662210e21"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/ArtworkART26R01/RuntimeB02/ART26_IMG_4122.ART26_IMG_4122",
+      "removed_editor_import_bookkeeping": "/Game/Campus/ArtworkART26R01/RuntimeB02/ART26_IMG_4122.ART26_IMG_4122:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 124,
+        "triangles": 62,
+        "position_sha256": "4b033d6584f49015d09ce82d69d196f2896344f86a06e7f612106892b76e43d6"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/ArtworkART26R01/RuntimeB02/ART26_IMG_6652.ART26_IMG_6652",
+      "removed_editor_import_bookkeeping": "/Game/Campus/ArtworkART26R01/RuntimeB02/ART26_IMG_6652.ART26_IMG_6652:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 124,
+        "triangles": 62,
+        "position_sha256": "9afcf79fde3a812cf10bbf4408b0749d0ce4dead591527dbf1f4925359799578"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/ArtworkART26R01/RuntimeB02/ART26_IMG_3037.ART26_IMG_3037",
+      "removed_editor_import_bookkeeping": "/Game/Campus/ArtworkART26R01/RuntimeB02/ART26_IMG_3037.ART26_IMG_3037:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 124,
+        "triangles": 62,
+        "position_sha256": "9afcf79fde3a812cf10bbf4408b0749d0ce4dead591527dbf1f4925359799578"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    },
+    {
+      "mesh": "/Game/Campus/ArtworkART26R01/RuntimeB02/ART26_IMG_6988.ART26_IMG_6988",
+      "removed_editor_import_bookkeeping": "/Game/Campus/ArtworkART26R01/RuntimeB02/ART26_IMG_6988.ART26_IMG_6988:InterchangeAssetImportData_0",
+      "source_positions_triangles_materials_unchanged": true,
+      "resource_bound_recalculation_error_cm": 0.0,
+      "geometry": {
+        "vertices": 124,
+        "triangles": 62,
+        "position_sha256": "9afcf79fde3a812cf10bbf4408b0749d0ce4dead591527dbf1f4925359799578"
+      },
+      "source_provenance": "Original authoring assets retained in B04/source-art namespaces and immutable external source/membership manifests."
+    }
+  ],
+  "scope": "Only editor import data removed from own unreleased runtime mesh copies. Geometry/material/collision fields and original authoring/source assets remain unchanged."
+}

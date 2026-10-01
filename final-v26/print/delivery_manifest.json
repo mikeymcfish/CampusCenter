@@ -1,0 +1,737 @@
+[
+  {
+    "file": "acrylic_furniture_addition.npz",
+    "bytes": 13849,
+    "sha256": "5ebdffeb711c265b88147015a52724252cf32f9f611f05bc1c13dea5882db780"
+  },
+  {
+    "file": "ASSEMBLY_AND_LIMITS.txt",
+    "bytes": 2047,
+    "sha256": "d80c8fd8167bfcbf174a9455ec4b94888f530752376080344ea0504f2186d125"
+  },
+  {
+    "file": "baseline_manifest_reference.json",
+    "bytes": 27467,
+    "sha256": "2dd8ec0421819c7b1f4b2e43e6a543efecae21b5d6481442b880923c046c42ba"
+  },
+  {
+    "file": "build_variant.py",
+    "bytes": 12096,
+    "sha256": "59fd19e9ea4676d55647b6c640b8531e11090cfc5e9ef97aace91d6ddd1faf24"
+  },
+  {
+    "file": "CampusCenter_Furniture_Print_Changed_Pieces_R02.json",
+    "bytes": 153378,
+    "sha256": "cd758ec0b548a4b5ed2f293eb4b33c38f6a8d17851a0e476269cf9026c34a7ac"
+  },
+  {
+    "file": "CampusCenter_Furniture_Print_Edit_R02.blend",
+    "bytes": 3296850,
+    "sha256": "a83c32fed7e444eee43444c569991451b5b8f8b13079714694c7b0640d42a9ed"
+  },
+  {
+    "file": "CampusCenter_Furniture_Print_Review_R02.html",
+    "bytes": 1319392,
+    "sha256": "ad7bd8b169c29b911f63b1451676cb392c9d51d0ef4a0b14e98b38fc90b80431"
+  },
+  {
+    "file": "changed_piece_manifest.json",
+    "bytes": 153378,
+    "sha256": "cd758ec0b548a4b5ed2f293eb4b33c38f6a8d17851a0e476269cf9026c34a7ac"
+  },
+  {
+    "file": "digital_validation.json",
+    "bytes": 21617,
+    "sha256": "b7a26655f5a04dc9cc5ea2150fbce10da2079c6a31995b28c757f77807211dab"
+  },
+  {
+    "file": "editable_reopen_validation.json",
+    "bytes": 963,
+    "sha256": "1c01d9fef20ddb36ce31f0ae54c204006d95ca10dd74d6f396353be02d9a2432"
+  },
+  {
+    "file": "export_step_revised.py",
+    "bytes": 3689,
+    "sha256": "6b78ed06c125e8547983b6e7df10afddaef01ba8847ca8a132aa951bd1e4bdb1"
+  },
+  {
+    "file": "extract_furniture.py",
+    "bytes": 3726,
+    "sha256": "523375dd0c7bae550d60d3be9274c73b7ff0646bcaeef067fc410dcbab12b5f3"
+  },
+  {
+    "file": "finish_manifest.py",
+    "bytes": 1639,
+    "sha256": "1a7af1f47c4f4239071f1d428bf66a4baf0c7a91cf945947fe37ac9d7a0be438"
+  },
+  {
+    "file": "fitness_replacement_region.json",
+    "bytes": 336,
+    "sha256": "b8321a1953f5e26fbab71097cd93446f9f6bfd39229c52d199e6e55b6150b1b4"
+  },
+  {
+    "file": "furniture_source.json",
+    "bytes": 229130,
+    "sha256": "9196850932d12fd0ab2e8f70a63e5148200c6abf8d9d1333fe89267ef8172a0a"
+  },
+  {
+    "file": "furniture_surfaces.npz",
+    "bytes": 1069952,
+    "sha256": "3596d962b57ba4ed0b34398b9a31f989f0189e580cbda0f70d71dae531090124"
+  },
+  {
+    "file": "ground_furniture_addition.npz",
+    "bytes": 13862,
+    "sha256": "677cb6128ab09497fbdf7b46615a7904a593bf788ce388a58a99cb1cf6b75f3a"
+  },
+  {
+    "file": "incremental_manifest.py",
+    "bytes": 1591,
+    "sha256": "03d0fdcb33d740281a9ee9def40659324038036a062f67516c30ded8b5824aed"
+  },
+  {
+    "file": "library-deliverables.json",
+    "bytes": 2521,
+    "sha256": "15db631b281e33af4662491ba0de2a4271f0b508a1c9cd10f1e51b68546c2d09"
+  },
+  {
+    "file": "package_review.py",
+    "bytes": 8725,
+    "sha256": "fbb51abb5ae73a5dec9090aad852c4897457907face06052d38744d2052435e9"
+  },
+  {
+    "file": "preservation.json",
+    "bytes": 8270,
+    "sha256": "e97e402dbecece042c689fa200278f33820795ec5b706c93ac02e0c70af09b0e"
+  },
+  {
+    "file": "print_release_clearance.json",
+    "bytes": 313,
+    "sha256": "c3d3feb6e3253f35b175caaf5f782c01ecef95e605f28d96eabe71f68daf0934"
+  },
+  {
+    "file": "render_variant.py",
+    "bytes": 4429,
+    "sha256": "278f00e5a403291c18835ffdc3e7179c0bc39a0641d76ce7ebfbac79f9161277"
+  },
+  {
+    "file": "reopen_variant.py",
+    "bytes": 875,
+    "sha256": "b2719f5adfcf83ba0137b98acb1b38ddc4725c7ff4cfa55d2373b7f3fa91ccce"
+  },
+  {
+    "file": "reused_ground_step_proof.json",
+    "bytes": 1347,
+    "sha256": "eed7c97cb8d9a727509a8b51598c29e45bcc4b9dbf53416df30244a1d8677e45"
+  },
+  {
+    "file": "upper_furniture_addition.npz",
+    "bytes": 14434,
+    "sha256": "d08a8f9a5e37040d5507d5327d1ef73dfcefd554b43239deb804dafa97231530"
+  },
+  {
+    "file": "validate_variant.py",
+    "bytes": 3654,
+    "sha256": "5288929bf07f24609b905940e3b8740c39c8b6bc84c751342d33968b88df8de8"
+  },
+  {
+    "file": "verify_preservation.py",
+    "bytes": 1312,
+    "sha256": "3ece66eade4fbf6c38c6e0e76d251048e9d8dbd23d4d8a8269e5016bbdc90ae5"
+  },
+  {
+    "file": "verify_reused_steps.py",
+    "bytes": 999,
+    "sha256": "7605c29fcbf1058200d2d1462f7c9d17cdf6817fc0199906a1932027722cb537"
+  },
+  {
+    "file": "ground_acrylic\\cad_mesh.npz",
+    "bytes": 246817,
+    "sha256": "bd15fdc8c27ff7b6981fdcdb804bf63c2773d040acab23901a57363af3b03f3f"
+  },
+  {
+    "file": "ground_acrylic\\Ground_Acrylic.step",
+    "bytes": 54544042,
+    "sha256": "9871e689e317a2aec5d87d5880d9773ea4772e23b106f0c077f9b0780bda8e33"
+  },
+  {
+    "file": "ground_acrylic\\Ground_Acrylic.stl",
+    "bytes": 1900584,
+    "sha256": "eed8d9159f3b9f9fb4ccee0904b8c72a10a6d29b1b31fe42c5a1949badef0510"
+  },
+  {
+    "file": "ground_acrylic\\Ground_Acrylic_Assembly.3mf",
+    "bytes": 341403,
+    "sha256": "33089d109eac6b5754756def4b031bbe440b7f43cd55ab2a93d1e09f3834e5c0"
+  },
+  {
+    "file": "ground_acrylic\\step_validation.json",
+    "bytes": 477,
+    "sha256": "7d9c9504e9c2224aa4f8d35b63790d2d3dd18403cc10a2089c11c185fa20891d"
+  },
+  {
+    "file": "ground_acrylic\\validation.json",
+    "bytes": 4803,
+    "sha256": "a6df29e5cc524d0bf0a14dee13269a3c6516d717de15563edeb6667bb675e03c"
+  },
+  {
+    "file": "ground_acrylic\\print_tiles\\Ground_Acrylic_A1.3mf",
+    "bytes": 60288,
+    "sha256": "7491103eb711b1eaf5433728131f182c9967ba1ee193e1651f7500bd40fed94e"
+  },
+  {
+    "file": "ground_acrylic\\print_tiles\\Ground_Acrylic_A1.stl",
+    "bytes": 333384,
+    "sha256": "fc8125fa240896de51000d9f541fa6035265ea14214bd7a7757b8bfd06f42f1a"
+  },
+  {
+    "file": "ground_acrylic\\print_tiles\\Ground_Acrylic_A2.3mf",
+    "bytes": 53442,
+    "sha256": "40ecd1937252c9353f5e9dbcf680e2daabca083896a866c6ee3077b7fa530b5f"
+  },
+  {
+    "file": "ground_acrylic\\print_tiles\\Ground_Acrylic_A2.stl",
+    "bytes": 298284,
+    "sha256": "644d1c85d855ba3c7682bcee6b2136b828e8635f9f5eaa51062efd7175522cd9"
+  },
+  {
+    "file": "ground_acrylic\\print_tiles\\Ground_Acrylic_A3.3mf",
+    "bytes": 110487,
+    "sha256": "9235973e60fde7dd026fbaed7f3343cba3adeafd45afbe444a58d352627e109e"
+  },
+  {
+    "file": "ground_acrylic\\print_tiles\\Ground_Acrylic_A3.stl",
+    "bytes": 631484,
+    "sha256": "18170d012d8b12af2f968ea05446913de536b118429b3ec75af2172dce39596d"
+  },
+  {
+    "file": "ground_acrylic\\print_tiles\\Ground_Acrylic_B1.3mf",
+    "bytes": 48307,
+    "sha256": "b1c865b0584fcd3ff552b4c06203dd862ff1e01634a71d7eca841ea210218c35"
+  },
+  {
+    "file": "ground_acrylic\\print_tiles\\Ground_Acrylic_B1.stl",
+    "bytes": 274384,
+    "sha256": "20d784bf68b9347162e3845e1c95a88aeb1efdb967cbac91bb6ab7641d20b2d4"
+  },
+  {
+    "file": "ground_acrylic\\print_tiles\\Ground_Acrylic_B2.3mf",
+    "bytes": 2016,
+    "sha256": "31da71b79d168e8264105ff0ced9987d79ffcb8264d365087ddd62b0b6e16e97"
+  },
+  {
+    "file": "ground_acrylic\\print_tiles\\Ground_Acrylic_B2.stl",
+    "bytes": 6484,
+    "sha256": "e5032e376bb9b547dbd38d596b0584fd756a26eba35bf7c5b8a681d44ad38553"
+  },
+  {
+    "file": "ground_acrylic\\print_tiles\\Ground_Acrylic_B3.3mf",
+    "bytes": 69031,
+    "sha256": "e66095ef93055301c0e1394269dfbe5a644aa28a3d2fb112047029009b7f09e7"
+  },
+  {
+    "file": "ground_acrylic\\print_tiles\\Ground_Acrylic_B3.stl",
+    "bytes": 395984,
+    "sha256": "ed758e652bb8cfdf9fecaf170fcf58a5e7b4f09c3fe853fa201bbb0fd03cb6c6"
+  },
+  {
+    "file": "ground_enclosed\\cad_mesh.npz",
+    "bytes": 230233,
+    "sha256": "8bdb090f3392f2a03f183f65279c4e72f76afec13edb414dc9bc4dc9f9e1b2ce"
+  },
+  {
+    "file": "ground_enclosed\\Ground_Enclosed.step",
+    "bytes": 52575679,
+    "sha256": "f0c4d20f3c3a22758e343d61965e1611579f1c1da6c75f0d5d9a72cc5af140d2"
+  },
+  {
+    "file": "ground_enclosed\\Ground_Enclosed.stl",
+    "bytes": 1799584,
+    "sha256": "970ab0f8cecd275141d48cc592cf499c7c57443627e24d3fe4ef6e7c5c1f1832"
+  },
+  {
+    "file": "ground_enclosed\\Ground_Enclosed_Assembly.3mf",
+    "bytes": 321775,
+    "sha256": "6b74f1449e5bcd4ecb3db7fb9f7a21cf0e2de8f1823342c5ad6991566568a729"
+  },
+  {
+    "file": "ground_enclosed\\step_validation.json",
+    "bytes": 479,
+    "sha256": "247ed848a5d23cfe800bd2b94d6035a63f572667012b39b04f325f60e2a88fa3"
+  },
+  {
+    "file": "ground_enclosed\\validation.json",
+    "bytes": 4478,
+    "sha256": "b867054a73013fcf0a4e58a4766decf0c38cd2b23484e801f8c3ff122ad3bf5d"
+  },
+  {
+    "file": "ground_enclosed\\print_tiles\\Ground_Enclosed_A1.3mf",
+    "bytes": 55205,
+    "sha256": "f2bfc80a291e1248098372a4a1db04108f3cbcaf1777b882a208541e8257c8b6"
+  },
+  {
+    "file": "ground_enclosed\\print_tiles\\Ground_Enclosed_A1.stl",
+    "bytes": 307084,
+    "sha256": "fedfd0299aad337de7e5c90556ce36062f9ce56610ce3898ffa20cab72349b43"
+  },
+  {
+    "file": "ground_enclosed\\print_tiles\\Ground_Enclosed_A2.3mf",
+    "bytes": 47498,
+    "sha256": "10289cfb7a984cfed07d88817e387fec5342404d922c6dcb165e8724d43c90ac"
+  },
+  {
+    "file": "ground_enclosed\\print_tiles\\Ground_Enclosed_A2.stl",
+    "bytes": 268984,
+    "sha256": "9f134fcb5edf317825faa17fcb2903e605db683d01ba22f54e9d75ea7f882095"
+  },
+  {
+    "file": "ground_enclosed\\print_tiles\\Ground_Enclosed_A3.3mf",
+    "bytes": 105235,
+    "sha256": "abd21da05bb1b6ec3a469688e5a817218fa8026772a8935ded39813ab2118137"
+  },
+  {
+    "file": "ground_enclosed\\print_tiles\\Ground_Enclosed_A3.stl",
+    "bytes": 602684,
+    "sha256": "39fcc01d2fe12ae8b6ecab4719240e88da170c1e1aca55ad442d8d71c65b6789"
+  },
+  {
+    "file": "ground_enclosed\\print_tiles\\Ground_Enclosed_B1.3mf",
+    "bytes": 44532,
+    "sha256": "83eb954cc95c4a5d881b497b17aef5026e8166015f7ca10286d76a159dc290ef"
+  },
+  {
+    "file": "ground_enclosed\\print_tiles\\Ground_Enclosed_B1.stl",
+    "bytes": 252284,
+    "sha256": "57f30151d6725dbfb0c25df29ef3d8dabae22da31c71f6735cc474f306c18689"
+  },
+  {
+    "file": "ground_enclosed\\print_tiles\\Ground_Enclosed_B2.3mf",
+    "bytes": 2028,
+    "sha256": "d37f8ce0e5ba882a805fc688fa332f6adac04a7a917f9127d0bdf15ac9e233e4"
+  },
+  {
+    "file": "ground_enclosed\\print_tiles\\Ground_Enclosed_B2.stl",
+    "bytes": 6584,
+    "sha256": "547df731d56ee58bf1545c74f4b2a77ed917cd935e9e511f2c4df5b1d5b5e4d0"
+  },
+  {
+    "file": "ground_enclosed\\print_tiles\\Ground_Enclosed_B3.3mf",
+    "bytes": 69115,
+    "sha256": "f6521f015ccc2955bcef3d2f906501753af99b4ed2c55ee85a5f29ba548f6b3c"
+  },
+  {
+    "file": "ground_enclosed\\print_tiles\\Ground_Enclosed_B3.stl",
+    "bytes": 396584,
+    "sha256": "63512c44d7c23d0d7c51d81f663b729a2deffbf3322130e79e24dad61c6048cd"
+  },
+  {
+    "file": "ground_furnished\\cad_mesh.npz",
+    "bytes": 229402,
+    "sha256": "b4c6a595be2ebb41c0f9264158122143f5ea5e7d6fbd0c7c0fb3f86037d7ff06"
+  },
+  {
+    "file": "ground_furnished\\Ground_Furnished.step",
+    "bytes": 52310256,
+    "sha256": "7518c2e18b418859e0aadb5002706704e9730133c57f4d894c300ad79c968341"
+  },
+  {
+    "file": "ground_furnished\\Ground_Furnished.stl",
+    "bytes": 1790084,
+    "sha256": "697e36590992878c9215c1f4a98610ab3ac808dc4fb849a3b925a732bcd15607"
+  },
+  {
+    "file": "ground_furnished\\Ground_Furnished_Assembly.3mf",
+    "bytes": 318336,
+    "sha256": "0373357c98bea95b8d2e95b3a707b5a3a492e2d20287df0ea6bbc3cdbc928e52"
+  },
+  {
+    "file": "ground_furnished\\step_validation.json",
+    "bytes": 479,
+    "sha256": "d3147cc994fbea4411da787a8237cb26fdad87a216556dfb65d120c3b581fa5c"
+  },
+  {
+    "file": "ground_furnished\\validation.json",
+    "bytes": 5702,
+    "sha256": "e1373f8709d90c03e2e127bb866638edde99cdbe53d62246f7097b1175a4f29d"
+  },
+  {
+    "file": "ground_furnished\\print_tiles\\Ground_Furnished_A1.3mf",
+    "bytes": 54325,
+    "sha256": "9cfb99fafb1dd9347c7c237ef161292a90559da27c86bfac94fcedc1e6205144"
+  },
+  {
+    "file": "ground_furnished\\print_tiles\\Ground_Furnished_A1.stl",
+    "bytes": 302084,
+    "sha256": "1bde29bd2b2cbf5c5ec54fb32d5acbc05308047c913a754c98097a9a0bafc563"
+  },
+  {
+    "file": "ground_furnished\\print_tiles\\Ground_Furnished_A2.3mf",
+    "bytes": 47035,
+    "sha256": "05a7421301aa34ccca10ff89e81eff01169f60ea2fc3174deef0500c14cfc4e6"
+  },
+  {
+    "file": "ground_furnished\\print_tiles\\Ground_Furnished_A2.stl",
+    "bytes": 266684,
+    "sha256": "90063fa52f2b50cbdc74ececf0c944a733be592a4af672e4cc7f1cfb822fb3af"
+  },
+  {
+    "file": "ground_furnished\\print_tiles\\Ground_Furnished_A3.3mf",
+    "bytes": 105329,
+    "sha256": "0fc049bded53904b031a1943d2ee92200cddab2d59b8fdfc949bac5508e4cc9d"
+  },
+  {
+    "file": "ground_furnished\\print_tiles\\Ground_Furnished_A3.stl",
+    "bytes": 602784,
+    "sha256": "fb3ee28b788b9bcd8c63f495e034e361a3f6019ea7ebc63a0bbb057bd6f43bbb"
+  },
+  {
+    "file": "ground_furnished\\print_tiles\\Ground_Furnished_B1_1.3mf",
+    "bytes": 41920,
+    "sha256": "d0389441444d03347be81df0ae279934fa08374cfdd0c83eef04dbd8b204e4b5"
+  },
+  {
+    "file": "ground_furnished\\print_tiles\\Ground_Furnished_B1_1.stl",
+    "bytes": 239784,
+    "sha256": "bcb22ccff236b77a005974be8c21d90e2a9fa4d1270f6f6391356f30f1f07fce"
+  },
+  {
+    "file": "ground_furnished\\print_tiles\\Ground_Furnished_B1_2.3mf",
+    "bytes": 2390,
+    "sha256": "312a702b00e0e5537b1d3cb578cabfd51cd6fb588b352ff328311a8eda27f7e0"
+  },
+  {
+    "file": "ground_furnished\\print_tiles\\Ground_Furnished_B1_2.stl",
+    "bytes": 8684,
+    "sha256": "4388e40ce588f28da87d73c86f6429fe4cd544a15a0c7e67ec5622e5817fd044"
+  },
+  {
+    "file": "ground_furnished\\print_tiles\\Ground_Furnished_B2.3mf",
+    "bytes": 1957,
+    "sha256": "8d38449e7e2d53fc312367d9780b6f352021cf3386d0d2a37d2fc0e45340f809"
+  },
+  {
+    "file": "ground_furnished\\print_tiles\\Ground_Furnished_B2.stl",
+    "bytes": 6184,
+    "sha256": "7b481eb7f81fac20d9718da68500bf4e61743ce4a5a5d4ebeb57d299d8a41a77"
+  },
+  {
+    "file": "ground_furnished\\print_tiles\\Ground_Furnished_B3_1.3mf",
+    "bytes": 68538,
+    "sha256": "08b98e78d1acf16a4b7a0a6ffe4f04ddcfe24ba09cc6760f45559271a164925e"
+  },
+  {
+    "file": "ground_furnished\\print_tiles\\Ground_Furnished_B3_1.stl",
+    "bytes": 395484,
+    "sha256": "39bfca40afc99db4cdf9188d8a449c392d37457da88b5ea2955c5924cc006108"
+  },
+  {
+    "file": "ground_furnished\\print_tiles\\Ground_Furnished_B3_2.3mf",
+    "bytes": 1173,
+    "sha256": "5777c7924d1b6d2bec0c917a13cc7d2d01ef50f8967c201c14a39e3a92c9d15c"
+  },
+  {
+    "file": "ground_furnished\\print_tiles\\Ground_Furnished_B3_2.stl",
+    "bytes": 1284,
+    "sha256": "8181e155549358e6153eb7a57438adecc3ba2139e6bb97736f98515ac7a32eaf"
+  },
+  {
+    "file": "original_accessories\\Acrylic_Cut_List.csv",
+    "bytes": 3724,
+    "sha256": "6b69d2f2f88d3de9f0704cf76e39519c7195321fa88754c593691226ea3dd183"
+  },
+  {
+    "file": "original_accessories\\Acrylic_Cut_Sheet_01.svg",
+    "bytes": 5601,
+    "sha256": "0ed7ae3e5ccac464cc0b2c9013617c28453bc5f5e08d8fddb31af0d4b9008469"
+  },
+  {
+    "file": "original_accessories\\Acrylic_Fit_Coupon.3mf",
+    "bytes": 1687,
+    "sha256": "0568b6b64e8b9c9d3558409df794e629c564471c32d67a19d2f131bfb535ed23"
+  },
+  {
+    "file": "original_accessories\\Acrylic_Fit_Coupon.stl",
+    "bytes": 4684,
+    "sha256": "6759848ef6c4221b0a8c51746be35cc871832f5f8b4beff010777c0c1d6a841c"
+  },
+  {
+    "file": "original_accessories\\Acrylic_Panes_REFERENCE_ONLY.stl",
+    "bytes": 24084,
+    "sha256": "65fafd9f2477527f34843c065d6c825b124555ab502b5991ab40abce8c97a251"
+  },
+  {
+    "file": "original_accessories\\ASSEMBLY_AND_VERIFICATION.md",
+    "bytes": 10915,
+    "sha256": "42457254ab7be233d0cb1fa06af24badae25c112a20a972b08fc00c3e8bc4acc"
+  },
+  {
+    "file": "original_accessories\\glazing_schedule.json",
+    "bytes": 23213,
+    "sha256": "8d603cf58f90254a8415746b54b988b0f8f138addb4d6a6f721d920e996a15b7"
+  },
+  {
+    "file": "original_accessories\\partition_optional\\Partition_Closed.3mf",
+    "bytes": 2007,
+    "sha256": "b928b9de89a81a2673112b4648b7fe3e3ffdb19e3ac1eb5107c45b051b971937"
+  },
+  {
+    "file": "original_accessories\\partition_optional\\Partition_Closed.stl",
+    "bytes": 6284,
+    "sha256": "42126a20de104813463700be0286aad9429e88fdd54c387f32a1147e4467462c"
+  },
+  {
+    "file": "original_accessories\\partition_optional\\Partition_Closed_Assembly_Orientation.stl",
+    "bytes": 6284,
+    "sha256": "32710447c94c2810a43dcce0606832726a5636b417b9855a25c35c862cf1a46f"
+  },
+  {
+    "file": "original_accessories\\partition_optional\\Partition_Folded.3mf",
+    "bytes": 3166,
+    "sha256": "9a86ba47def69971301b4d749110f9d919a9daed0b0f965bb9a1f71402d0b8a3"
+  },
+  {
+    "file": "original_accessories\\partition_optional\\Partition_Folded.stl",
+    "bytes": 11884,
+    "sha256": "f30534a5b3c6e08544762a45f4e33ad1ace6348dbb2485e2f6defe0850f64177"
+  },
+  {
+    "file": "original_accessories\\partition_optional\\Partition_Folded_Assembly_Orientation.stl",
+    "bytes": 11884,
+    "sha256": "f30534a5b3c6e08544762a45f4e33ad1ace6348dbb2485e2f6defe0850f64177"
+  },
+  {
+    "file": "original_accessories\\partition_optional\\validation.json",
+    "bytes": 1744,
+    "sha256": "8f1b4c5d34df24682154ae739e51802da2ff1311519679e44144c31ea092dab1"
+  },
+  {
+    "file": "review\\bleachers.png",
+    "bytes": 1730708,
+    "sha256": "8eef808664a8c548f2671eb7a6a3ab0d420c5aa35ae30c78f4aa65bfd666c9a4"
+  },
+  {
+    "file": "review\\fitness_connected_overview.png",
+    "bytes": 1873413,
+    "sha256": "273796a34b929ea25cb7e24acb853acd8c98cf61d2a8802aec07269f98a1ddf6"
+  },
+  {
+    "file": "review\\ground_furniture_overview.png",
+    "bytes": 1756583,
+    "sha256": "7c74fcf724a7dd9b806050b9c89ba98b613a5e3a54234dfc98804d22be8d4b38"
+  },
+  {
+    "file": "review\\ground_furniture_top.png",
+    "bytes": 1691308,
+    "sha256": "30e8737e54e85b9755cfb16b382d47172e923e3b08032e0f5e60f555d9e84544"
+  },
+  {
+    "file": "review\\locker_benches.png",
+    "bytes": 1830539,
+    "sha256": "0c6e56d152ff968f1a536ab7dd31df1ee0126392cc2d05a6b27408a46aa2ec1a"
+  },
+  {
+    "file": "review\\miniature_assembled.png",
+    "bytes": 1514618,
+    "sha256": "058f9a1fb7c5a80150c0123e220b1b6d2d152e07f9f2112215f04cc8e0a2686a"
+  },
+  {
+    "file": "review\\miniature_separated.png",
+    "bytes": 1581056,
+    "sha256": "05a6e770432f7b22826c274272c743ad898d0fe3ee2dc785f91112246d098a7a"
+  },
+  {
+    "file": "review\\render_receipt.json",
+    "bytes": 3624,
+    "sha256": "ea0a85757b6b4b9236e51386a1b881483f46f1dc46da278e57aa7a5e6bbb3164"
+  },
+  {
+    "file": "review\\standalone_bench_detail.png",
+    "bytes": 1602484,
+    "sha256": "1d3ddc482dc9c9b9c79d68def1cbb98d58ff4fe5ff00341c7264899acdc45d8b"
+  },
+  {
+    "file": "review\\supported_rack_detail.png",
+    "bytes": 1727280,
+    "sha256": "135f2481938d8097b34a535c73cf735f560f4445ace083c4b9dce0c160724b83"
+  },
+  {
+    "file": "review\\trainer.png",
+    "bytes": 1698988,
+    "sha256": "de35f71ccb63f7c4176cf7f88cc1a1ebe5e4b997425356cac1d494570f820a31"
+  },
+  {
+    "file": "review\\upper_furniture_overview.png",
+    "bytes": 1651424,
+    "sha256": "820c187e733fc41ca3c1d81c5088f18b4e4d6d9dc1c427340ea43250066f7590"
+  },
+  {
+    "file": "review\\upper_furniture_top.png",
+    "bytes": 1576727,
+    "sha256": "fb32f2abf5da27c9135dc15481ae3baa108d886445fb1b7e92b5f81288b655a8"
+  },
+  {
+    "file": "stacked_1_350\\editable_assembly_grids.npz",
+    "bytes": 37156,
+    "sha256": "3795e9391d4572a61049a33fe79ad26883575710b4984a8bb472b6708046fdb7"
+  },
+  {
+    "file": "stacked_1_350\\Stack_Assembly.3mf",
+    "bytes": 137738,
+    "sha256": "e26c94fa6c7cbe1255d6bafeaf3a51ba702822c515b1a23966b799365a8a5c30"
+  },
+  {
+    "file": "stacked_1_350\\Stack_Ground.3mf",
+    "bytes": 68674,
+    "sha256": "a60f6ab2a930d421eb22b0ace1c7218e6360a70a6f631a8753fe7744cfd3b7f6"
+  },
+  {
+    "file": "stacked_1_350\\Stack_Ground.stl",
+    "bytes": 378384,
+    "sha256": "e03e4d7ce0f5a18130b890990128264ad5c2acdb917434ba2c60682d60130fd8"
+  },
+  {
+    "file": "stacked_1_350\\Stack_Roof.3mf",
+    "bytes": 8969,
+    "sha256": "c40c425c12c0f5447bc30df31ba8ceb8a4b892048df0e801b5b68b7f65e57c28"
+  },
+  {
+    "file": "stacked_1_350\\Stack_Roof.stl",
+    "bytes": 47784,
+    "sha256": "11bb37cd9e282a230d9b9dcb6a91de94cb328696d9f7df0bc8dae337707e12b7"
+  },
+  {
+    "file": "stacked_1_350\\Stack_Upper.3mf",
+    "bytes": 61547,
+    "sha256": "03918aca08202766ed4e3d603c136b93b628a53c89481c8dd6db7c9be2854649"
+  },
+  {
+    "file": "stacked_1_350\\Stack_Upper.stl",
+    "bytes": 345984,
+    "sha256": "770b0fb7a250f79b1c3b264988420581d39c46f9a672c7c5e940598ed9ff1827"
+  },
+  {
+    "file": "stacked_1_350\\validation.json",
+    "bytes": 2096,
+    "sha256": "42b4de33ae93083f5b6013853ff91d6de71658ef0bc9ef7da8de6af064339b6d"
+  },
+  {
+    "file": "upper_enclosed\\cad_mesh.npz",
+    "bytes": 196521,
+    "sha256": "71d1ecd9411072b068029c14f8a579377be3ead1a30329e035677d500c95ba59"
+  },
+  {
+    "file": "upper_enclosed\\step_validation.json",
+    "bytes": 478,
+    "sha256": "ca28728e53609cc5cfba795a9188aafc3ed5568071847f09a037da66ff2498d4"
+  },
+  {
+    "file": "upper_enclosed\\Upper_Enclosed.step",
+    "bytes": 43160261,
+    "sha256": "e5cd447726b50bd4d740cf69db69bcaa0dd0c6a92a5ad9afabcb9491cc2eeff1"
+  },
+  {
+    "file": "upper_enclosed\\Upper_Enclosed.stl",
+    "bytes": 1543384,
+    "sha256": "53944a82218429c79bca63d4ed129fa5cc5ee3af6ec4027e8520f6fd7bc8362a"
+  },
+  {
+    "file": "upper_enclosed\\Upper_Enclosed_Assembly.3mf",
+    "bytes": 274539,
+    "sha256": "2f37001da78ec14dbf19084b4c03b146ed4184cab5a8041d50cea4b582bb0466"
+  },
+  {
+    "file": "upper_enclosed\\validation.json",
+    "bytes": 6868,
+    "sha256": "d2e4a310d3749de29022e7081e2323b62cdafe970e2eb348fc3a0772281b7e06"
+  },
+  {
+    "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_A1.3mf",
+    "bytes": 60306,
+    "sha256": "b89060d21c1485447400d898da9181c9c70c2901c459034d8b1e7c0e5ee96d8a"
+  },
+  {
+    "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_A1.stl",
+    "bytes": 348184,
+    "sha256": "a248bef059f23e0cb30b8206a54d1efea36ba0f5678ff3f3dd1d87154574240d"
+  },
+  {
+    "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_A2.3mf",
+    "bytes": 56277,
+    "sha256": "ab2d8ed819b1aa53d8565e40c7b6a4e8f95304b99d021102b85bfb19d4907457"
+  },
+  {
+    "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_A2.stl",
+    "bytes": 322784,
+    "sha256": "7bd626301fb49166fd54e34ee387f74c8b638367b48b369e09c2ed990e858078"
+  },
+  {
+    "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_A3_1.3mf",
+    "bytes": 88661,
+    "sha256": "063b61cdddf99d4afb54adb8daa6fdd684ffa729b8cc1093e98812cd6b194c77"
+  },
+  {
+    "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_A3_1.stl",
+    "bytes": 511584,
+    "sha256": "13cc47c2f494ef915786614c386b8af9d4600eb8bee947b56db4d4ee6d360b99"
+  },
+  {
+    "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_A3_2.3mf",
+    "bytes": 1135,
+    "sha256": "edddbe34fb82388cc902f135e340ad5296c319e24259fa9a3151c90c2faeefc6"
+  },
+  {
+    "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_A3_2.stl",
+    "bytes": 1084,
+    "sha256": "7b2eb4b6ac2887fd4c9a606fd7a1f975c7838aae66e57b87df3bcaf70e3a7055"
+  },
+  {
+    "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_B1.3mf",
+    "bytes": 39157,
+    "sha256": "0e17321c216e35c2c9903f288aa89b9deca4060334b2c0aac98026fc665b498a"
+  },
+  {
+    "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_B1.stl",
+    "bytes": 221584,
+    "sha256": "359dd9d89e65fdb6db32da3b44ad314682e54f4067d33d8c0508b0a5df6a123d"
+  },
+  {
+    "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_B2.3mf",
+    "bytes": 1066,
+    "sha256": "da815eb24ffbafe2bc1aa3697c61fe517e5d15c3f6626b797b27f3aa7ae31dda"
+  },
+  {
+    "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_B2.stl",
+    "bytes": 684,
+    "sha256": "6b6f7d0cd11c6d0901b3f9bf128f997df37c9283d2c39cb7b4d6f90c0d93f153"
+  },
+  {
+    "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_B3_1.3mf",
+    "bytes": 31771,
+    "sha256": "d60e733fed5afa0a41bcae63ed7f50a83071a86812a5362b44ff0e2619769526"
+  },
+  {
+    "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_B3_1.stl",
+    "bytes": 176484,
+    "sha256": "b153b604ad23f2742451ca3c8d0326ddd163b2f3fdff51e49903facd8a133541"
+  },
+  {
+    "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_B3_2.3mf",
+    "bytes": 1069,
+    "sha256": "050cf1b5ae6091c4d908b6664fa100eac5f17b2d397e4f4af3e0b29e067e3f28"
+  },
+  {
+    "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_B3_2.stl",
+    "bytes": 684,
+    "sha256": "d8b3b9a2b5c11848bd5078065a1e013027083ae1ef688c320f2d1dc1f56f3a4d"
+  },
+  {
+    "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_B3_3.3mf",
+    "bytes": 1099,
+    "sha256": "4f260212bfa1efc96827de36bb9830ce6a7c546dabacef5bc28ba48637261c3d"
+  },
+  {
+    "file": "upper_enclosed\\print_tiles\\Upper_Enclosed_B3_3.stl",
+    "bytes": 884,
+    "sha256": "803e48d7d60e026c242d75a6cc715fd3a38c9de707cbfc024e90a043c5e82d25"
+  }
+]

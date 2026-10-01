@@ -1,0 +1,7 @@
+CampusCenter architectural review prototype, final V26 release.
+
+By using this packaged prototype, you accept it as provided, without warranty. Epic Games and other licensed-content providers disclaim all representations, warranties, conditions and liabilities related to their licensed technology and content. Those components may be used only as incorporated into this application; this download does not grant rights to redistribute extracted source assets or engine tools. Original ownership and applicable third-party licenses remain in force.
+
+Copyright, trademark and other rights in student artwork, reference material, Unreal Engine and third-party content remain with their respective owners. Public availability does not confer a new open-source license.
+
+Headset and controller operation and physical print slicing/fit have not been tested. Inherited Research doorway obstruction and navigation limitations remain. This prototype is not a construction, accessibility or life-safety approval.

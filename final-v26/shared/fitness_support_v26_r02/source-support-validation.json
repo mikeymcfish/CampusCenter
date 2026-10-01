@@ -1,0 +1,139 @@
+{
+  "changed_objects": [
+    "RE07_PH02_Fitness218_010_0",
+    "RE07_PH02_Fitness218_012_0",
+    "RE07_PH02_Fitness218_014_0",
+    "RE07_PH02_Fitness218_016_0",
+    "RE07_PH02_Fitness218_018_0",
+    "RE07_PH02_Fitness218_035_0",
+    "RE07_PH02_Fitness218_036_0"
+  ],
+  "unchanged_mesh_objects": 6589,
+  "iLab_unchanged": true,
+  "all_mesh_basis_materials_visibility_unchanged": true,
+  "support_tests": [
+    {
+      "object": "RE07_PH02_Fitness218_010_0",
+      "both_supports_intersect_shaft": true,
+      "checks": [
+        {
+          "rack_object": "RE07_PH02_Fitness218_009_0",
+          "shaft_upright_overlap_m": [
+            0.08339691162109375,
+            0.028905868530273438,
+            0.03199958801269531
+          ]
+        },
+        {
+          "rack_object": "RE07_PH02_Fitness218_009_1",
+          "shaft_upright_overlap_m": [
+            0.08339691162109375,
+            0.028905868530273438,
+            0.03199958801269531
+          ]
+        }
+      ]
+    },
+    {
+      "object": "RE07_PH02_Fitness218_012_0",
+      "both_supports_intersect_shaft": true,
+      "checks": [
+        {
+          "rack_object": "RE07_PH02_Fitness218_011_0",
+          "shaft_upright_overlap_m": [
+            0.08339691162109375,
+            0.028905868530273438,
+            0.03199958801269531
+          ]
+        },
+        {
+          "rack_object": "RE07_PH02_Fitness218_011_1",
+          "shaft_upright_overlap_m": [
+            0.08339691162109375,
+            0.028905868530273438,
+            0.03199958801269531
+          ]
+        }
+      ]
+    },
+    {
+      "object": "RE07_PH02_Fitness218_014_0",
+      "both_supports_intersect_shaft": true,
+      "checks": [
+        {
+          "rack_object": "RE07_PH02_Fitness218_013_0",
+          "shaft_upright_overlap_m": [
+            0.08339691162109375,
+            0.028905868530273438,
+            0.03199958801269531
+          ]
+        },
+        {
+          "rack_object": "RE07_PH02_Fitness218_013_1",
+          "shaft_upright_overlap_m": [
+            0.08339691162109375,
+            0.028905868530273438,
+            0.03199958801269531
+          ]
+        }
+      ]
+    },
+    {
+      "object": "RE07_PH02_Fitness218_016_0",
+      "both_supports_intersect_shaft": true,
+      "checks": [
+        {
+          "rack_object": "RE07_PH02_Fitness218_015_0",
+          "shaft_upright_overlap_m": [
+            0.08339691162109375,
+            0.028905868530273438,
+            0.03199958801269531
+          ]
+        },
+        {
+          "rack_object": "RE07_PH02_Fitness218_015_1",
+          "shaft_upright_overlap_m": [
+            0.08339691162109375,
+            0.028905868530273438,
+            0.03199958801269531
+          ]
+        }
+      ]
+    },
+    {
+      "object": "RE07_PH02_Fitness218_018_0",
+      "both_supports_intersect_shaft": true,
+      "checks": [
+        {
+          "rack_object": "RE07_PH02_Fitness218_017_0",
+          "shaft_upright_overlap_m": [
+            0.08339691162109375,
+            0.028905868530273438,
+            0.03199958801269531
+          ]
+        },
+        {
+          "rack_object": "RE07_PH02_Fitness218_017_1",
+          "shaft_upright_overlap_m": [
+            0.08339691162109375,
+            0.028905868530273438,
+            0.03199958801269531
+          ]
+        }
+      ]
+    },
+    {
+      "object": "RE07_PH02_Fitness218_035_0",
+      "loaded_bar_removed": true,
+      "floor_gap_m": 0.012000077056884884,
+      "body_height_m": 0.4772000312805176
+    },
+    {
+      "object": "RE07_PH02_Fitness218_036_0",
+      "loaded_bar_removed": true,
+      "floor_gap_m": 0.012000077056884884,
+      "body_height_m": 0.4772000312805176
+    }
+  ],
+  "limit": "Positive schematic shaft/support intersection is not certified rack hardware or product safety."
+}

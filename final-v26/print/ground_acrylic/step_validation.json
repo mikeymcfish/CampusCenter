@@ -1,0 +1,14 @@
+{
+  "file": "Ground_Acrylic.step",
+  "valid_brep": true,
+  "reopened_solid_count": 1,
+  "reopened_dimensions_mm": [
+    739.2730104538999,
+    558.0000001999999,
+    53.568000993468296
+  ],
+  "reopened_volume_mm3": 2894399.915634223,
+  "mesh_volume_mm3": 2894399.915634344,
+  "relative_volume_error": 4.182971884639438e-14,
+  "representation": "Closed faceted B-representation, coplanar faces unified; editable generator and heightfield are supplied separately."
+}

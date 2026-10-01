@@ -1,0 +1,14 @@
+1790828796.3059385 START
+1790828797.236544 LOAD fa26
+1790828858.3552706 fa26 Research113 -25 reached=True crossed=True
+1790828861.3867435 fa26 Research113 0 reached=True crossed=True
+1790828867.4426079 fa26 Research113 25 reached=False crossed=False
+1790828869.842509 fa26 Trainer -25 reached=True crossed=True
+1790828872.2209373 fa26 Trainer 0 reached=True crossed=True
+1790828874.6782775 fa26 Trainer 25 reached=True crossed=True
+1790828877.0521317 fa26 UpperClassroom -25 reached=True crossed=True
+1790828879.4424837 fa26 UpperClassroom 0 reached=True crossed=True
+1790828881.8428032 fa26 UpperClassroom 25 reached=True crossed=True
+1790828884.2848532 fa26 iLab -25 reached=True crossed=True
+1790828886.680752 fa26 iLab 0 reached=True crossed=True
+1790828889.0805311 fa26 iLab 25 reached=True crossed=True

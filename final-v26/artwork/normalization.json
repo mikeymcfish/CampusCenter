@@ -1,0 +1,170 @@
+{
+  "IMG_1869.jpeg": {
+    "raw_size": [
+      640,
+      480
+    ],
+    "icc_present": true,
+    "output_size": [
+      640,
+      480
+    ],
+    "exif_orientation": 1,
+    "creative_edits": false,
+    "normalization": "System.Drawing FromStream embedded color management enabled; draw to RGB bitmap; EXIF rotation baked; MPO primary RGB image only"
+  },
+  "IMG_2813.jpeg": {
+    "raw_size": [
+      480,
+      640
+    ],
+    "icc_present": true,
+    "output_size": [
+      480,
+      640
+    ],
+    "exif_orientation": 1,
+    "creative_edits": false,
+    "normalization": "System.Drawing FromStream embedded color management enabled; draw to RGB bitmap; EXIF rotation baked; MPO primary RGB image only"
+  },
+  "IMG_4122.jpeg": {
+    "raw_size": [
+      427,
+      640
+    ],
+    "icc_present": false,
+    "output_size": [
+      427,
+      640
+    ],
+    "exif_orientation": 1,
+    "creative_edits": false,
+    "normalization": "System.Drawing FromStream embedded color management enabled; draw to RGB bitmap; EXIF rotation baked; MPO primary RGB image only"
+  },
+  "IMG_3037.jpeg": {
+    "raw_size": [
+      640,
+      480
+    ],
+    "icc_present": false,
+    "output_size": [
+      480,
+      640
+    ],
+    "exif_orientation": 6,
+    "creative_edits": false,
+    "normalization": "System.Drawing FromStream embedded color management enabled; draw to RGB bitmap; EXIF rotation baked; MPO primary RGB image only"
+  },
+  "IMG_3260.jpeg": {
+    "raw_size": [
+      480,
+      482
+    ],
+    "icc_present": true,
+    "output_size": [
+      480,
+      482
+    ],
+    "exif_orientation": 1,
+    "creative_edits": false,
+    "normalization": "System.Drawing FromStream embedded color management enabled; draw to RGB bitmap; EXIF rotation baked; MPO primary RGB image only"
+  },
+  "IMG_1820.jpeg": {
+    "raw_size": [
+      640,
+      385
+    ],
+    "icc_present": true,
+    "output_size": [
+      640,
+      385
+    ],
+    "exif_orientation": 1,
+    "creative_edits": false,
+    "normalization": "System.Drawing FromStream embedded color management enabled; draw to RGB bitmap; EXIF rotation baked; MPO primary RGB image only"
+  },
+  "IMG_3248.jpeg": {
+    "raw_size": [
+      640,
+      480
+    ],
+    "icc_present": true,
+    "output_size": [
+      640,
+      480
+    ],
+    "exif_orientation": 1,
+    "creative_edits": false,
+    "normalization": "System.Drawing FromStream embedded color management enabled; draw to RGB bitmap; EXIF rotation baked; MPO primary RGB image only"
+  },
+  "IMG_6988.jpeg": {
+    "raw_size": [
+      480,
+      640
+    ],
+    "icc_present": true,
+    "output_size": [
+      480,
+      640
+    ],
+    "exif_orientation": 1,
+    "creative_edits": false,
+    "normalization": "System.Drawing FromStream embedded color management enabled; draw to RGB bitmap; EXIF rotation baked; MPO primary RGB image only"
+  },
+  "IMG_1770.jpeg": {
+    "raw_size": [
+      640,
+      480
+    ],
+    "icc_present": true,
+    "output_size": [
+      640,
+      480
+    ],
+    "exif_orientation": 1,
+    "creative_edits": false,
+    "normalization": "System.Drawing FromStream embedded color management enabled; draw to RGB bitmap; EXIF rotation baked; MPO primary RGB image only"
+  },
+  "IMG_1795.jpeg": {
+    "raw_size": [
+      640,
+      480
+    ],
+    "icc_present": true,
+    "output_size": [
+      640,
+      480
+    ],
+    "exif_orientation": 1,
+    "creative_edits": false,
+    "normalization": "System.Drawing FromStream embedded color management enabled; draw to RGB bitmap; EXIF rotation baked; MPO primary RGB image only"
+  },
+  "IMG_1758.jpeg": {
+    "raw_size": [
+      640,
+      402
+    ],
+    "icc_present": true,
+    "output_size": [
+      640,
+      402
+    ],
+    "exif_orientation": 1,
+    "creative_edits": false,
+    "normalization": "System.Drawing FromStream embedded color management enabled; draw to RGB bitmap; EXIF rotation baked; MPO primary RGB image only"
+  },
+  "IMG_6652.jpeg": {
+    "raw_size": [
+      640,
+      480
+    ],
+    "icc_present": true,
+    "output_size": [
+      480,
+      640
+    ],
+    "exif_orientation": 6,
+    "creative_edits": false,
+    "normalization": "System.Drawing FromStream embedded color management enabled; draw to RGB bitmap; EXIF rotation baked; MPO primary RGB image only"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "xy_bounds_mm": [
+    [
+      41.0,
+      249.5
+    ],
+    [
+      242.0,
+      361.0
+    ]
+  ],
+  "method": "Replace complete old/corrected Fitness envelope bounds plus 2 mm reinforcement margin; retain original upper solid outside this bounded region. Reconstruction retains accepted floor/structure/glazing inputs."
+}

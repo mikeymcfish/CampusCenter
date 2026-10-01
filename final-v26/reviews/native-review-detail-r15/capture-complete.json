@@ -1,0 +1,41 @@
+{
+  "maps": [
+    [
+      "before",
+      "/Game/Campus/Maps/CampusCenter_R25_R15"
+    ],
+    [
+      "after",
+      "/Game/Campus/Maps/CampusCenter_FA26_Desktop_R15"
+    ]
+  ],
+  "views": [
+    [
+      "GallerySofa",
+      [
+        1080,
+        -790,
+        145
+      ],
+      [
+        -5,
+        145,
+        0
+      ]
+    ],
+    [
+      "LockerSouth",
+      [
+        -4100,
+        -2200,
+        172
+      ],
+      [
+        0,
+        35,
+        0
+      ]
+    ]
+  ],
+  "settings": "Same unchanged project renderer and viewport camera method. PNGs require independent pixel inspection."
+}

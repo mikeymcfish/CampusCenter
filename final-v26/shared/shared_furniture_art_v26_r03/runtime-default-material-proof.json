@@ -1,0 +1,956 @@
+{
+  "map_sha256_unchanged": "1e08b622c15957f22a74ebd4f8c452e65472e4e6c609f0023897ac2b835082e9",
+  "meshes": [
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH11_Commons_UpperCurvedPiece_0.FA26_PH11_Commons_UpperCurvedPiece_0",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_V8_plain_sage_upholstery.SLOT_V8_plain_sage_upholstery",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Natural_oak.SLOT_Natural_oak"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric",
+        "/Game/Campus/PolishV03/Materials/M_Natural_Oak_PBR.M_Natural_Oak_PBR"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH11_Commons_UpperCurvedPiece_1.FA26_PH11_Commons_UpperCurvedPiece_1",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_V8_plain_sage_upholstery_001.SLOT_V8_plain_sage_upholstery_001",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Natural_oak_001.SLOT_Natural_oak_001"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric",
+        "/Game/Campus/PolishV03/Materials/M_Natural_Oak_PBR.M_Natural_Oak_PBR"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH12_G102_GlazingCounter.FA26_PH12_G102_GlazingCounter",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Natural_oak_002.SLOT_Natural_oak_002",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Brushed_stainless_hardware.SLOT_Brushed_stainless_hardware",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Dark_metal.SLOT_Dark_metal"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Natural_Oak_PBR.M_Natural_Oak_PBR",
+        "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware",
+        "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G121_Bench_0.FA26_PH14_G121_Bench_0",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Blockout_furniture_-_untextured.SLOT_Blockout_furniture_-_untextured"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Natural_Oak_PBR.M_Natural_Oak_PBR"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G121_Bench_1.FA26_PH14_G121_Bench_1",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Blockout_furniture_-_untextured_001.SLOT_Blockout_furniture_-_untextured_001"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Natural_Oak_PBR.M_Natural_Oak_PBR"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G121_Bench_2.FA26_PH14_G121_Bench_2",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Blockout_furniture_-_untextured_002.SLOT_Blockout_furniture_-_untextured_002"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Natural_Oak_PBR.M_Natural_Oak_PBR"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G121_Bench_3.FA26_PH14_G121_Bench_3",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Blockout_furniture_-_untextured_003.SLOT_Blockout_furniture_-_untextured_003"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Natural_Oak_PBR.M_Natural_Oak_PBR"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G121_Bench_4.FA26_PH14_G121_Bench_4",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Blockout_furniture_-_untextured_004.SLOT_Blockout_furniture_-_untextured_004"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Natural_Oak_PBR.M_Natural_Oak_PBR"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G121_Bench_5.FA26_PH14_G121_Bench_5",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Blockout_furniture_-_untextured_005.SLOT_Blockout_furniture_-_untextured_005"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Natural_Oak_PBR.M_Natural_Oak_PBR"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G121_Bench_6.FA26_PH14_G121_Bench_6",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Blockout_furniture_-_untextured_006.SLOT_Blockout_furniture_-_untextured_006"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Natural_Oak_PBR.M_Natural_Oak_PBR"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G121_Bench_7.FA26_PH14_G121_Bench_7",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Blockout_furniture_-_untextured_007.SLOT_Blockout_furniture_-_untextured_007"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Natural_Oak_PBR.M_Natural_Oak_PBR"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G122_Bench_0.FA26_PH14_G122_Bench_0",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Blockout_furniture_-_untextured_008.SLOT_Blockout_furniture_-_untextured_008"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Natural_Oak_PBR.M_Natural_Oak_PBR"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G122_Bench_1.FA26_PH14_G122_Bench_1",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Blockout_furniture_-_untextured_009.SLOT_Blockout_furniture_-_untextured_009"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Natural_Oak_PBR.M_Natural_Oak_PBR"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G122_Bench_2.FA26_PH14_G122_Bench_2",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Blockout_furniture_-_untextured_010.SLOT_Blockout_furniture_-_untextured_010"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Natural_Oak_PBR.M_Natural_Oak_PBR"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G122_Bench_3.FA26_PH14_G122_Bench_3",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Blockout_furniture_-_untextured_011.SLOT_Blockout_furniture_-_untextured_011"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Natural_Oak_PBR.M_Natural_Oak_PBR"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G122_Bench_4.FA26_PH14_G122_Bench_4",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Blockout_furniture_-_untextured_012.SLOT_Blockout_furniture_-_untextured_012"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Natural_Oak_PBR.M_Natural_Oak_PBR"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G122_Bench_5.FA26_PH14_G122_Bench_5",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Blockout_furniture_-_untextured_013.SLOT_Blockout_furniture_-_untextured_013"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Natural_Oak_PBR.M_Natural_Oak_PBR"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G122_Bench_6.FA26_PH14_G122_Bench_6",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Blockout_furniture_-_untextured_014.SLOT_Blockout_furniture_-_untextured_014"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Natural_Oak_PBR.M_Natural_Oak_PBR"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G122_Bench_7.FA26_PH14_G122_Bench_7",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Blockout_furniture_-_untextured_015.SLOT_Blockout_furniture_-_untextured_015"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Natural_Oak_PBR.M_Natural_Oak_PBR"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH19_G126_TrophyCase_0.FA26_PH19_G126_TrophyCase_0",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Natural_oak_003.SLOT_Natural_oak_003",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_FA26_generic_display_glass_estimate.SLOT_FA26_generic_display_glass_estimate",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_V8_plain_light_table_surface.SLOT_V8_plain_light_table_surface",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Dark_metal_001.SLOT_Dark_metal_001",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Brushed_stainless_hardware_001.SLOT_Brushed_stainless_hardware_001"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Natural_Oak_PBR.M_Natural_Oak_PBR",
+        "/Game/Campus/PlayFixes/M_ClearGlass_Stable.M_ClearGlass_Stable",
+        "/Game/Campus/FurnitureR26/CompatR03/V8_plain_light_table_surface_47688cfd.V8_plain_light_table_surface_47688cfd",
+        "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+        "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH19_G126_TrophyCase_1.FA26_PH19_G126_TrophyCase_1",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Natural_oak_004.SLOT_Natural_oak_004",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_FA26_generic_display_glass_estimate_001.SLOT_FA26_generic_display_glass_estimate_001",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_V8_plain_light_table_surface_001.SLOT_V8_plain_light_table_surface_001",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Dark_metal_002.SLOT_Dark_metal_002",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Brushed_stainless_hardware_002.SLOT_Brushed_stainless_hardware_002"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Natural_Oak_PBR.M_Natural_Oak_PBR",
+        "/Game/Campus/PlayFixes/M_ClearGlass_Stable.M_ClearGlass_Stable",
+        "/Game/Campus/FurnitureR26/CompatR03/V8_plain_light_table_surface_47688cfd.V8_plain_light_table_surface_47688cfd",
+        "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+        "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Trainer_046.FA26_PH02_Trainer_046",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_V8_plain_sage_upholstery_002.SLOT_V8_plain_sage_upholstery_002",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Dark_metal_005.SLOT_Dark_metal_005",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Brushed_stainless_hardware_003.SLOT_Brushed_stainless_hardware_003",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_V8_plain_light_table_surface_002.SLOT_V8_plain_light_table_surface_002"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric",
+        "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+        "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware",
+        "/Game/Campus/FurnitureR26/CompatR03/V8_plain_light_table_surface_47688cfd.V8_plain_light_table_surface_47688cfd"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Trainer_047.FA26_PH02_Trainer_047",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_V8_plain_sage_upholstery_003.SLOT_V8_plain_sage_upholstery_003",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Dark_metal_006.SLOT_Dark_metal_006",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Brushed_stainless_hardware_004.SLOT_Brushed_stainless_hardware_004",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_V8_plain_light_table_surface_003.SLOT_V8_plain_light_table_surface_003"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric",
+        "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+        "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware",
+        "/Game/Campus/FurnitureR26/CompatR03/V8_plain_light_table_surface_47688cfd.V8_plain_light_table_surface_47688cfd"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Trainer_048.FA26_PH02_Trainer_048",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_V8_plain_light_table_surface_004.SLOT_V8_plain_light_table_surface_004",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_V8_plain_sage_upholstery_004.SLOT_V8_plain_sage_upholstery_004",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Natural_oak_005.SLOT_Natural_oak_005",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Brushed_stainless_hardware_005.SLOT_Brushed_stainless_hardware_005"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/FurnitureR26/CompatR03/V8_plain_light_table_surface_47688cfd.V8_plain_light_table_surface_47688cfd",
+        "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric",
+        "/Game/Campus/PolishV03/Materials/M_Natural_Oak_PBR.M_Natural_Oak_PBR",
+        "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Trainer_049.FA26_PH02_Trainer_049",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_V8_plain_light_table_surface_005.SLOT_V8_plain_light_table_surface_005",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Natural_oak_006.SLOT_Natural_oak_006",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Brushed_stainless_hardware_006.SLOT_Brushed_stainless_hardware_006"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/FurnitureR26/CompatR03/V8_plain_light_table_surface_47688cfd.V8_plain_light_table_surface_47688cfd",
+        "/Game/Campus/PolishV03/Materials/M_Natural_Oak_PBR.M_Natural_Oak_PBR",
+        "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Trainer_050.FA26_PH02_Trainer_050",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_V8_plain_light_table_surface_006.SLOT_V8_plain_light_table_surface_006",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_V8_plain_sage_upholstery_005.SLOT_V8_plain_sage_upholstery_005",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Natural_oak_007.SLOT_Natural_oak_007",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Brushed_stainless_hardware_007.SLOT_Brushed_stainless_hardware_007"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/FurnitureR26/CompatR03/V8_plain_light_table_surface_47688cfd.V8_plain_light_table_surface_47688cfd",
+        "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric",
+        "/Game/Campus/PolishV03/Materials/M_Natural_Oak_PBR.M_Natural_Oak_PBR",
+        "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Trainer_051.FA26_PH02_Trainer_051",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_V8_plain_sage_upholstery_006.SLOT_V8_plain_sage_upholstery_006",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Dark_metal_007.SLOT_Dark_metal_007",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Brushed_stainless_hardware_008.SLOT_Brushed_stainless_hardware_008",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_V8_plain_light_table_surface_007.SLOT_V8_plain_light_table_surface_007"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric",
+        "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+        "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware",
+        "/Game/Campus/FurnitureR26/CompatR03/V8_plain_light_table_surface_47688cfd.V8_plain_light_table_surface_47688cfd"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Trainer_052.FA26_PH02_Trainer_052",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_V8_plain_sage_upholstery_007.SLOT_V8_plain_sage_upholstery_007",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Dark_metal_008.SLOT_Dark_metal_008",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Brushed_stainless_hardware_009.SLOT_Brushed_stainless_hardware_009",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_V8_plain_light_table_surface_008.SLOT_V8_plain_light_table_surface_008"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric",
+        "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+        "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware",
+        "/Game/Campus/FurnitureR26/CompatR03/V8_plain_light_table_surface_47688cfd.V8_plain_light_table_surface_47688cfd"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Trainer_053.FA26_PH02_Trainer_053",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_V8_plain_light_table_surface_009.SLOT_V8_plain_light_table_surface_009",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Dark_metal_009.SLOT_Dark_metal_009",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Brushed_stainless_hardware_010.SLOT_Brushed_stainless_hardware_010"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/FurnitureR26/CompatR03/V8_plain_light_table_surface_47688cfd.V8_plain_light_table_surface_47688cfd",
+        "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+        "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH10_Trainer_059.FA26_PH10_Trainer_059",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_V8_plain_light_table_surface_010.SLOT_V8_plain_light_table_surface_010",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Natural_oak_008.SLOT_Natural_oak_008"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/FurnitureR26/CompatR03/V8_plain_light_table_surface_47688cfd.V8_plain_light_table_surface_47688cfd",
+        "/Game/Campus/PolishV03/Materials/M_Natural_Oak_PBR.M_Natural_Oak_PBR"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH10_Trainer_060.FA26_PH10_Trainer_060",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Brushed_stainless_hardware_011.SLOT_Brushed_stainless_hardware_011"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH10_Trainer_061.FA26_PH10_Trainer_061",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Brushed_stainless_hardware_012.SLOT_Brushed_stainless_hardware_012",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Dark_metal_010.SLOT_Dark_metal_010"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware",
+        "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH24_Trainer_StoolLike_1.FA26_PH24_Trainer_StoolLike_1",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Brushed_stainless_hardware_013.SLOT_Brushed_stainless_hardware_013",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Natural_oak_009.SLOT_Natural_oak_009",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_V8_plain_rubber.SLOT_V8_plain_rubber"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware",
+        "/Game/Campus/PolishV03/Materials/M_Natural_Oak_PBR.M_Natural_Oak_PBR",
+        "/Game/Campus/FurnitureR26/CompatR03/V8_plain_rubber_33d74d26.V8_plain_rubber_33d74d26"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH24_Trainer_StoolLike_2.FA26_PH24_Trainer_StoolLike_2",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Brushed_stainless_hardware_014.SLOT_Brushed_stainless_hardware_014",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Natural_oak_010.SLOT_Natural_oak_010",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_V8_plain_rubber_001.SLOT_V8_plain_rubber_001"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware",
+        "/Game/Campus/PolishV03/Materials/M_Natural_Oak_PBR.M_Natural_Oak_PBR",
+        "/Game/Campus/FurnitureR26/CompatR03/V8_plain_rubber_33d74d26.V8_plain_rubber_33d74d26"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH24_Trainer_StoolLike_3.FA26_PH24_Trainer_StoolLike_3",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Brushed_stainless_hardware_015.SLOT_Brushed_stainless_hardware_015",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Natural_oak_011.SLOT_Natural_oak_011",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_V8_plain_rubber_002.SLOT_V8_plain_rubber_002"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware",
+        "/Game/Campus/PolishV03/Materials/M_Natural_Oak_PBR.M_Natural_Oak_PBR",
+        "/Game/Campus/FurnitureR26/CompatR03/V8_plain_rubber_33d74d26.V8_plain_rubber_33d74d26"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Trainer_056.FA26_PH02_Trainer_056",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_V8_plain_light_table_surface_014.SLOT_V8_plain_light_table_surface_014",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Natural_oak_012.SLOT_Natural_oak_012",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Brushed_stainless_hardware_016.SLOT_Brushed_stainless_hardware_016"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/FurnitureR26/CompatR03/V8_plain_light_table_surface_47688cfd.V8_plain_light_table_surface_47688cfd",
+        "/Game/Campus/PolishV03/Materials/M_Natural_Oak_PBR.M_Natural_Oak_PBR",
+        "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH10_Trainer_063.FA26_PH10_Trainer_063",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_V8_plain_light_table_surface_015.SLOT_V8_plain_light_table_surface_015",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Natural_oak_013.SLOT_Natural_oak_013",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Dark_metal_011.SLOT_Dark_metal_011"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/FurnitureR26/CompatR03/V8_plain_light_table_surface_47688cfd.V8_plain_light_table_surface_47688cfd",
+        "/Game/Campus/PolishV03/Materials/M_Natural_Oak_PBR.M_Natural_Oak_PBR",
+        "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH12_G127_NorthBand.FA26_PH12_G127_NorthBand",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_V8_plain_light_table_surface_016.SLOT_V8_plain_light_table_surface_016",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Natural_oak_014.SLOT_Natural_oak_014",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Brushed_stainless_hardware_017.SLOT_Brushed_stainless_hardware_017"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/FurnitureR26/CompatR03/V8_plain_light_table_surface_47688cfd.V8_plain_light_table_surface_47688cfd",
+        "/Game/Campus/PolishV03/Materials/M_Natural_Oak_PBR.M_Natural_Oak_PBR",
+        "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH12_AthleticsNE_WestBand.FA26_PH12_AthleticsNE_WestBand",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_V8_plain_light_table_surface_017.SLOT_V8_plain_light_table_surface_017",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Natural_oak_015.SLOT_Natural_oak_015",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Brushed_stainless_hardware_018.SLOT_Brushed_stainless_hardware_018"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/FurnitureR26/CompatR03/V8_plain_light_table_surface_47688cfd.V8_plain_light_table_surface_47688cfd",
+        "/Game/Campus/PolishV03/Materials/M_Natural_Oak_PBR.M_Natural_Oak_PBR",
+        "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH12_G_ATHLETICS_SW_NorthBand.FA26_PH12_G_ATHLETICS_SW_NorthBand",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_V8_plain_light_table_surface_018.SLOT_V8_plain_light_table_surface_018",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Natural_oak_016.SLOT_Natural_oak_016",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Brushed_stainless_hardware_019.SLOT_Brushed_stainless_hardware_019"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/FurnitureR26/CompatR03/V8_plain_light_table_surface_47688cfd.V8_plain_light_table_surface_47688cfd",
+        "/Game/Campus/PolishV03/Materials/M_Natural_Oak_PBR.M_Natural_Oak_PBR",
+        "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH12_U203_SinkCounter.FA26_PH12_U203_SinkCounter",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_V8_plain_light_table_surface_019.SLOT_V8_plain_light_table_surface_019",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Natural_oak_017.SLOT_Natural_oak_017",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Brushed_stainless_hardware_020.SLOT_Brushed_stainless_hardware_020"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/FurnitureR26/CompatR03/V8_plain_light_table_surface_47688cfd.V8_plain_light_table_surface_47688cfd",
+        "/Game/Campus/PolishV03/Materials/M_Natural_Oak_PBR.M_Natural_Oak_PBR",
+        "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_001.FA26_PH02_Fitness218_001",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Dark_metal_012.SLOT_Dark_metal_012",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Brushed_stainless_hardware_021.SLOT_Brushed_stainless_hardware_021"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+        "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_002.FA26_PH02_Fitness218_002",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Dark_metal_013.SLOT_Dark_metal_013",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Brushed_stainless_hardware_022.SLOT_Brushed_stainless_hardware_022"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+        "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_019.FA26_PH02_Fitness218_019",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Dark_metal_014.SLOT_Dark_metal_014",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Brushed_stainless_hardware_023.SLOT_Brushed_stainless_hardware_023"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+        "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_020.FA26_PH02_Fitness218_020",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Dark_metal_015.SLOT_Dark_metal_015",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Brushed_stainless_hardware_024.SLOT_Brushed_stainless_hardware_024"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+        "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_021.FA26_PH02_Fitness218_021",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Dark_metal_016.SLOT_Dark_metal_016",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Brushed_stainless_hardware_025.SLOT_Brushed_stainless_hardware_025"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+        "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_022.FA26_PH02_Fitness218_022",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Dark_metal_017.SLOT_Dark_metal_017",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Brushed_stainless_hardware_026.SLOT_Brushed_stainless_hardware_026"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+        "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_023.FA26_PH02_Fitness218_023",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Dark_metal_018.SLOT_Dark_metal_018",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Brushed_stainless_hardware_027.SLOT_Brushed_stainless_hardware_027"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+        "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_024.FA26_PH02_Fitness218_024",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Dark_metal_019.SLOT_Dark_metal_019",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Brushed_stainless_hardware_028.SLOT_Brushed_stainless_hardware_028"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+        "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_025.FA26_PH02_Fitness218_025",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Dark_metal_020.SLOT_Dark_metal_020",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Brushed_stainless_hardware_029.SLOT_Brushed_stainless_hardware_029",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_V8_plain_sage_upholstery_008.SLOT_V8_plain_sage_upholstery_008"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+        "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware",
+        "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_026.FA26_PH02_Fitness218_026",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Dark_metal_021.SLOT_Dark_metal_021",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Brushed_stainless_hardware_030.SLOT_Brushed_stainless_hardware_030",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_V8_plain_sage_upholstery_009.SLOT_V8_plain_sage_upholstery_009"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+        "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware",
+        "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_027.FA26_PH02_Fitness218_027",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Dark_metal_022.SLOT_Dark_metal_022",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Brushed_stainless_hardware_031.SLOT_Brushed_stainless_hardware_031",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_V8_plain_sage_upholstery_010.SLOT_V8_plain_sage_upholstery_010"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+        "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware",
+        "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_029.FA26_PH02_Fitness218_029",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Dark_metal_023.SLOT_Dark_metal_023",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Brushed_stainless_hardware_032.SLOT_Brushed_stainless_hardware_032",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_V8_plain_sage_upholstery_011.SLOT_V8_plain_sage_upholstery_011"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+        "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware",
+        "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_030.FA26_PH02_Fitness218_030",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Dark_metal_024.SLOT_Dark_metal_024",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Brushed_stainless_hardware_033.SLOT_Brushed_stainless_hardware_033",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_V8_plain_sage_upholstery_012.SLOT_V8_plain_sage_upholstery_012"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+        "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware",
+        "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_031.FA26_PH02_Fitness218_031",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Dark_metal_025.SLOT_Dark_metal_025",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Brushed_stainless_hardware_034.SLOT_Brushed_stainless_hardware_034",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_V8_plain_sage_upholstery_013.SLOT_V8_plain_sage_upholstery_013"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+        "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware",
+        "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_032.FA26_PH02_Fitness218_032",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Dark_metal_026.SLOT_Dark_metal_026",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Brushed_stainless_hardware_035.SLOT_Brushed_stainless_hardware_035",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_V8_plain_sage_upholstery_014.SLOT_V8_plain_sage_upholstery_014"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+        "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware",
+        "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_033.FA26_PH02_Fitness218_033",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Dark_metal_027.SLOT_Dark_metal_027",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Brushed_stainless_hardware_036.SLOT_Brushed_stainless_hardware_036"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+        "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_034.FA26_PH02_Fitness218_034",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_V8_plain_light_table_surface_020.SLOT_V8_plain_light_table_surface_020",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Natural_oak_018.SLOT_Natural_oak_018",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Brushed_stainless_hardware_037.SLOT_Brushed_stainless_hardware_037"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/FurnitureR26/CompatR03/V8_plain_light_table_surface_47688cfd.V8_plain_light_table_surface_47688cfd",
+        "/Game/Campus/PolishV03/Materials/M_Natural_Oak_PBR.M_Natural_Oak_PBR",
+        "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_040.FA26_PH02_Fitness218_040",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Dark_metal_028.SLOT_Dark_metal_028",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Brushed_stainless_hardware_038.SLOT_Brushed_stainless_hardware_038"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+        "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_043.FA26_PH02_Fitness218_043",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Dark_metal_029.SLOT_Dark_metal_029",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Brushed_stainless_hardware_039.SLOT_Brushed_stainless_hardware_039"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+        "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_044.FA26_PH02_Fitness218_044",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Natural_oak_019.SLOT_Natural_oak_019",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Dark_metal_030.SLOT_Dark_metal_030",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_V8_plain_sage_upholstery_015.SLOT_V8_plain_sage_upholstery_015"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Natural_Oak_PBR.M_Natural_Oak_PBR",
+        "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+        "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_045.FA26_PH02_Fitness218_045",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Natural_oak_020.SLOT_Natural_oak_020",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Dark_metal_031.SLOT_Dark_metal_031",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_V8_plain_sage_upholstery_016.SLOT_V8_plain_sage_upholstery_016"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Natural_Oak_PBR.M_Natural_Oak_PBR",
+        "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+        "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH10_Fitness218_057.FA26_PH10_Fitness218_057",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Natural_oak_021.SLOT_Natural_oak_021",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Dark_metal_032.SLOT_Dark_metal_032",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Brushed_stainless_hardware_040.SLOT_Brushed_stainless_hardware_040"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Natural_Oak_PBR.M_Natural_Oak_PBR",
+        "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+        "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH10_Fitness218_058.FA26_PH10_Fitness218_058",
+      "previous_default_materials": [
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Dark_metal_033.SLOT_Dark_metal_033",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_Brushed_stainless_hardware_041.SLOT_Brushed_stainless_hardware_041",
+        "/Game/Campus/FurnitureR26/B04/Campus_Furniture_v26_Batch4/Materials/SLOT_V8_plain_light_table_surface_021.SLOT_V8_plain_light_table_surface_021"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+        "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware",
+        "/Game/Campus/FurnitureR26/CompatR03/V8_plain_light_table_surface_47688cfd.V8_plain_light_table_surface_47688cfd"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/ArtworkART26R01/RuntimeB04/ART26_IMG_1758.ART26_IMG_1758",
+      "previous_default_materials": [
+        "/Game/Campus/ArtworkART26R01/ART26_IMG_1758/ART26_IMG_1758/Materials/ART26_Frame_MatteCharcoal.ART26_Frame_MatteCharcoal",
+        "/Game/Campus/ArtworkART26R01/ART26_IMG_1758/ART26_IMG_1758/Materials/ART26_IMG_1758_Photo.ART26_IMG_1758_Photo"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/ArtworkART26R01/ART26_IMG_1758/ART26_Frame_MatteCharcoal.ART26_Frame_MatteCharcoal",
+        "/Game/Campus/ArtworkART26R01/RuntimeMaterialsR04/ART26_IMG_1758_Photo.ART26_IMG_1758_Photo"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/ArtworkART26R01/RuntimeB04/ART26_IMG_1770.ART26_IMG_1770",
+      "previous_default_materials": [
+        "/Game/Campus/ArtworkART26R01/ART26_IMG_1770/ART26_IMG_1770/Materials/ART26_Frame_MatteCharcoal.ART26_Frame_MatteCharcoal",
+        "/Game/Campus/ArtworkART26R01/ART26_IMG_1770/ART26_IMG_1770/Materials/ART26_IMG_1770_Photo.ART26_IMG_1770_Photo"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/ArtworkART26R01/ART26_IMG_1770/ART26_Frame_MatteCharcoal.ART26_Frame_MatteCharcoal",
+        "/Game/Campus/ArtworkART26R01/RuntimeMaterialsR04/ART26_IMG_1770_Photo.ART26_IMG_1770_Photo"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/ArtworkART26R01/RuntimeB04/ART26_IMG_1820.ART26_IMG_1820",
+      "previous_default_materials": [
+        "/Game/Campus/ArtworkART26R01/ART26_IMG_1820/ART26_IMG_1820/Materials/ART26_Frame_MatteCharcoal.ART26_Frame_MatteCharcoal",
+        "/Game/Campus/ArtworkART26R01/ART26_IMG_1820/ART26_IMG_1820/Materials/ART26_IMG_1820_Photo.ART26_IMG_1820_Photo"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/ArtworkART26R01/ART26_IMG_1820/ART26_Frame_MatteCharcoal.ART26_Frame_MatteCharcoal",
+        "/Game/Campus/ArtworkART26R01/RuntimeMaterialsR04/ART26_IMG_1820_Photo.ART26_IMG_1820_Photo"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/ArtworkART26R01/RuntimeB04/ART26_IMG_1869.ART26_IMG_1869",
+      "previous_default_materials": [
+        "/Game/Campus/ArtworkART26R01/ART26_IMG_1869/ART26_IMG_1869/Materials/ART26_Frame_MatteCharcoal.ART26_Frame_MatteCharcoal",
+        "/Game/Campus/ArtworkART26R01/ART26_IMG_1869/ART26_IMG_1869/Materials/ART26_IMG_1869_Photo.ART26_IMG_1869_Photo"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/ArtworkART26R01/ART26_IMG_1869/ART26_Frame_MatteCharcoal.ART26_Frame_MatteCharcoal",
+        "/Game/Campus/ArtworkART26R01/RuntimeMaterialsR04/ART26_IMG_1869_Photo.ART26_IMG_1869_Photo"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/ArtworkART26R01/RuntimeB02/ART26_IMG_2813.ART26_IMG_2813",
+      "previous_default_materials": [
+        "/Game/Campus/ArtworkART26R01/ART26_IMG_2813/ART26_IMG_2813/Materials/ART26_Frame_MatteCharcoal.ART26_Frame_MatteCharcoal",
+        "/Game/Campus/ArtworkART26R01/ART26_IMG_2813/ART26_IMG_2813/Materials/ART26_IMG_2813_Photo.ART26_IMG_2813_Photo"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/ArtworkART26R01/ART26_IMG_2813/ART26_Frame_MatteCharcoal.ART26_Frame_MatteCharcoal",
+        "/Game/Campus/ArtworkART26R01/RuntimeMaterialsR02/ART26_IMG_2813_Photo.ART26_IMG_2813_Photo"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/ArtworkART26R01/RuntimeB02/ART26_IMG_3248.ART26_IMG_3248",
+      "previous_default_materials": [
+        "/Game/Campus/ArtworkART26R01/ART26_IMG_3248/ART26_IMG_3248/Materials/ART26_Frame_MatteCharcoal.ART26_Frame_MatteCharcoal",
+        "/Game/Campus/ArtworkART26R01/ART26_IMG_3248/ART26_IMG_3248/Materials/ART26_IMG_3248_Photo.ART26_IMG_3248_Photo"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/ArtworkART26R01/ART26_IMG_3248/ART26_Frame_MatteCharcoal.ART26_Frame_MatteCharcoal",
+        "/Game/Campus/ArtworkART26R01/RuntimeMaterialsR02/ART26_IMG_3248_Photo.ART26_IMG_3248_Photo"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/ArtworkART26R01/RuntimeB02/ART26_IMG_3260.ART26_IMG_3260",
+      "previous_default_materials": [
+        "/Game/Campus/ArtworkART26R01/ART26_IMG_3260/ART26_IMG_3260/Materials/ART26_Frame_MatteCharcoal.ART26_Frame_MatteCharcoal",
+        "/Game/Campus/ArtworkART26R01/ART26_IMG_3260/ART26_IMG_3260/Materials/ART26_IMG_3260_Photo.ART26_IMG_3260_Photo"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/ArtworkART26R01/ART26_IMG_3260/ART26_Frame_MatteCharcoal.ART26_Frame_MatteCharcoal",
+        "/Game/Campus/ArtworkART26R01/RuntimeMaterialsR02/ART26_IMG_3260_Photo.ART26_IMG_3260_Photo"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/ArtworkART26R01/RuntimeB02/ART26_IMG_4122.ART26_IMG_4122",
+      "previous_default_materials": [
+        "/Game/Campus/ArtworkART26R01/ART26_IMG_4122/ART26_IMG_4122/Materials/ART26_Frame_MatteCharcoal.ART26_Frame_MatteCharcoal",
+        "/Game/Campus/ArtworkART26R01/ART26_IMG_4122/ART26_IMG_4122/Materials/ART26_IMG_4122_Photo.ART26_IMG_4122_Photo"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/ArtworkART26R01/ART26_IMG_4122/ART26_Frame_MatteCharcoal.ART26_Frame_MatteCharcoal",
+        "/Game/Campus/ArtworkART26R01/RuntimeMaterialsR02/ART26_IMG_4122_Photo.ART26_IMG_4122_Photo"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/ArtworkART26R01/RuntimeB02/ART26_IMG_6652.ART26_IMG_6652",
+      "previous_default_materials": [
+        "/Game/Campus/ArtworkART26R01/ART26_IMG_6652/ART26_IMG_6652/Materials/ART26_Frame_MatteCharcoal.ART26_Frame_MatteCharcoal",
+        "/Game/Campus/ArtworkART26R01/ART26_IMG_6652/ART26_IMG_6652/Materials/ART26_IMG_6652_Photo.ART26_IMG_6652_Photo"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/ArtworkART26R01/ART26_IMG_6652/ART26_Frame_MatteCharcoal.ART26_Frame_MatteCharcoal",
+        "/Game/Campus/ArtworkART26R01/RuntimeMaterialsR02/ART26_IMG_6652_Photo.ART26_IMG_6652_Photo"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/ArtworkART26R01/RuntimeB02/ART26_IMG_3037.ART26_IMG_3037",
+      "previous_default_materials": [
+        "/Game/Campus/ArtworkART26R01/ART26_IMG_3037/ART26_IMG_3037/Materials/ART26_Frame_MatteCharcoal.ART26_Frame_MatteCharcoal",
+        "/Game/Campus/ArtworkART26R01/ART26_IMG_3037/ART26_IMG_3037/Materials/ART26_IMG_3037_Photo.ART26_IMG_3037_Photo"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/ArtworkART26R01/ART26_IMG_3037/ART26_Frame_MatteCharcoal.ART26_Frame_MatteCharcoal",
+        "/Game/Campus/ArtworkART26R01/RuntimeMaterialsR02/ART26_IMG_3037_Photo.ART26_IMG_3037_Photo"
+      ],
+      "actor_overrides_unchanged": true
+    },
+    {
+      "mesh": "/Game/Campus/ArtworkART26R01/RuntimeB02/ART26_IMG_6988.ART26_IMG_6988",
+      "previous_default_materials": [
+        "/Game/Campus/ArtworkART26R01/ART26_IMG_6988/ART26_IMG_6988/Materials/ART26_Frame_MatteCharcoal.ART26_Frame_MatteCharcoal",
+        "/Game/Campus/ArtworkART26R01/ART26_IMG_6988/ART26_IMG_6988/Materials/ART26_IMG_6988_Photo.ART26_IMG_6988_Photo"
+      ],
+      "runtime_default_materials": [
+        "/Game/Campus/ArtworkART26R01/ART26_IMG_6988/ART26_Frame_MatteCharcoal.ART26_Frame_MatteCharcoal",
+        "/Game/Campus/ArtworkART26R01/RuntimeMaterialsR02/ART26_IMG_6988_Photo.ART26_IMG_6988_Photo"
+      ],
+      "actor_overrides_unchanged": true
+    }
+  ],
+  "scope": "Only revision runtime mesh defaults aligned with already-validated actor materials; no original native material or actor changed."
+}

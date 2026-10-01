@@ -1,0 +1,35 @@
+{
+  "files": [
+    {
+      "file": "ground_furnished\\Ground_Furnished.stl",
+      "sha256": "697e36590992878c9215c1f4a98610ab3ac808dc4fb849a3b925a732bcd15607",
+      "byte_identical_to_validated_R01": true
+    },
+    {
+      "file": "ground_furnished\\Ground_Furnished.step",
+      "sha256": "7518c2e18b418859e0aadb5002706704e9730133c57f4d894c300ad79c968341",
+      "byte_identical_to_validated_R01": true
+    },
+    {
+      "file": "ground_enclosed\\Ground_Enclosed.stl",
+      "sha256": "970ab0f8cecd275141d48cc592cf499c7c57443627e24d3fe4ef6e7c5c1f1832",
+      "byte_identical_to_validated_R01": true
+    },
+    {
+      "file": "ground_enclosed\\Ground_Enclosed.step",
+      "sha256": "f0c4d20f3c3a22758e343d61965e1611579f1c1da6c75f0d5d9a72cc5af140d2",
+      "byte_identical_to_validated_R01": true
+    },
+    {
+      "file": "ground_acrylic\\Ground_Acrylic.stl",
+      "sha256": "eed8d9159f3b9f9fb4ccee0904b8c72a10a6d29b1b31fe42c5a1949badef0510",
+      "byte_identical_to_validated_R01": true
+    },
+    {
+      "file": "ground_acrylic\\Ground_Acrylic.step",
+      "sha256": "9871e689e317a2aec5d87d5880d9773ea4772e23b106f0c077f9b0780bda8e33",
+      "byte_identical_to_validated_R01": true
+    }
+  ],
+  "reason": "Ground geometry unchanged; retain exact independently reopened R01 STEP exports and receipts."
+}

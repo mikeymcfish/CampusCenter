@@ -1,0 +1,59 @@
+{
+  "pid": 559300,
+  "arguments": [
+    "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task\\CampusCenter-new-plans\\downstream\\desktop_furniture_v26_r01\\review_build_enhancement_r02\\Windows\\CampusCenter\\Binaries\\Win64\\CampusCenter.exe",
+    "/Game/Campus/Maps/CampusCenter_FA26_Desktop_R15",
+    "-windowed",
+    "-ResX=1280",
+    "-ResY=720",
+    "-unattended",
+    "-nosplash",
+    "-abslog=C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task\\CampusCenter-new-plans\\downstream\\furniture_art_v26_r01\\packaged-captures-r02\\runtime.log",
+    "-csvCaptureFrames=100000",
+    "-csvExecCmds=20:Ghost,25:obj list class=NiagaraComponent,40:BugItGo -4350 -3410 113 0 -80 0,130:HighResShot 1280x720 filename=C:/Users/mikef/Documents/Codex/2026-09-30/task/CampusCenter-new-plans/downstream/furniture_art_v26_r01/packaged-captures-r02/Trainer.png,200:BugItGo -2410 -1700 128 0 90 0,290:HighResShot 1280x720 filename=C:/Users/mikef/Documents/Codex/2026-09-30/task/CampusCenter-new-plans/downstream/furniture_art_v26_r01/packaged-captures-r02/ArtWest.png,360:BugItGo -1870 -1700 128 0 90 0,450:HighResShot 1280x720 filename=C:/Users/mikef/Documents/Codex/2026-09-30/task/CampusCenter-new-plans/downstream/furniture_art_v26_r01/packaged-captures-r02/ArtEast.png,540:obj list class=NiagaraComponent",
+    "-csvAllCategoriesDisabled",
+    "-UserDir=C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task\\CampusCenter-new-plans\\downstream\\furniture_art_v26_r01\\packaged-captures-r02\\DisposableUserData/"
+  ],
+  "views": [
+    [
+      "Trainer",
+      [
+        -4350,
+        -3410,
+        113
+      ],
+      [
+        0,
+        -80,
+        0
+      ]
+    ],
+    [
+      "ArtWest",
+      [
+        -2410,
+        -1700,
+        128
+      ],
+      [
+        0,
+        90,
+        0
+      ]
+    ],
+    [
+      "ArtEast",
+      [
+        -1870,
+        -1700,
+        128
+      ],
+      [
+        0,
+        90,
+        0
+      ]
+    ]
+  ],
+  "scope": "Actual packaged diagnostic cameras; approximate native eye offsets, not pixel-matched editor poses. Ghost changes only this disposable QA session, not saved maps or player settings."
+}
