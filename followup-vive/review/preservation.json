@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "baseline_actors_accounted": 2232,
+  "final_actor_count": 2233,
+  "new_actor": "Vive_OpenXR_Local_Origin_R01, non-colliding",
+  "existing_dependency_changes": [],
+  "actor_failures": []
+}

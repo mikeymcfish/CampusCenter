@@ -1,0 +1,34 @@
+{
+  "utc": "2026-10-01T22:39:55.549587+00:00",
+  "backup": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task-3\\vr-openxr-r07-r01\\original-r06-state",
+  "before_files": [
+    {
+      "path": "CampusCenter.uproject",
+      "sha256": "cc9de63a1b680e951b2b6f1d7d30888a29d6e41ca22b7fd1b0f163fa2e936479"
+    },
+    {
+      "path": "Config/DefaultInput.ini",
+      "sha256": "24a5a55f97b4ddf2912acde45b252e5a477199cb2b35eeafa74bad4c9c78a4e0"
+    },
+    {
+      "path": "Config/DefaultEngine.ini",
+      "sha256": "952434373b7cf7569584a383468b9e08a138400db01a79af0042a89c6bcd2a42"
+    }
+  ],
+  "allowed_changes": [
+    "Enable installed OpenXR project plugin, dependency XRBase automatic",
+    "Register existing trigger context for OpenXR action construction, no automatic activation outside helper map",
+    "New map-only local tracking origin initialization and VR launcher flag"
+  ],
+  "runtime_read_only": {
+    "SOFTWARE\\Khronos\\OpenXR\\1\\ActiveRuntime": {
+      "error": "[WinError 2] The system cannot find the file specified",
+      "winerror": 2
+    },
+    "SOFTWARE\\Valve\\Steam\\SteamPath": "c:/program files (x86)/steam",
+    "SOFTWARE\\WOW6432Node\\Valve\\Steam\\InstallPath": "C:\\Program Files (x86)\\Steam",
+    "XR_RUNTIME_JSON_environment": null,
+    "default_SteamVR_directory_exists": false
+  },
+  "system_changes": false
+}
