@@ -1,0 +1,22 @@
+{
+  "mesh_collision": [
+    {
+      "role": "old_mesh",
+      "mesh": "/Game/Campus/Revision25R01/Geometry/Campus_R25_Delta_02/StaticMeshes/R25_U218_Furniture.R25_U218_Furniture",
+      "trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+      "simple_collision_count": 1
+    },
+    {
+      "role": "new_mesh",
+      "mesh": "/Game/Campus/FitnessSupportR26R01/Runtime/FA26_FitnessSupport_U218_R06.FA26_FitnessSupport_U218_R06",
+      "trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+      "simple_collision_count": 1
+    }
+  ],
+  "actor_component": {
+    "before": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+    "after": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+  },
+  "flags_match": true,
+  "simple_counts_match": true
+}

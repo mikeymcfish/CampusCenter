@@ -1,0 +1,13 @@
+{
+  "before": {
+    "vertices": 21120,
+    "triangles": 12964,
+    "positions_sha256": "56dd62323b3c23532e9c018014017f0d0f61c7a470177a3a5581c265cbbb2383"
+  },
+  "after": {
+    "vertices": 21120,
+    "triangles": 12964,
+    "positions_sha256": "56dd62323b3c23532e9c018014017f0d0f61c7a470177a3a5581c265cbbb2383"
+  },
+  "identical": true
+}

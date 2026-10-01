@@ -1,0 +1,125 @@
+{
+  "dependencies": [
+    {
+      "package": "/Game/Campus/FitnessSupportR26R01/Runtime/FA26_FitnessSupport_U218_R06",
+      "file": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task\\CampusCenter-new-plans\\downstream\\desktop_furniture_v26_r01\\unreal_project\\Content\\Campus\\FitnessSupportR26R01\\Runtime\\FA26_FitnessSupport_U218_R06.uasset",
+      "sha256": "c841f6b45976841bf048c85c5eee266e1985a7ee89f7dea40eb656f3bcda3d60",
+      "new_patch_asset": true
+    },
+    {
+      "package": "/Game/Campus/FitnessSupportR26R01/Compat/V8_plain_dark_screen_4dd4b3d1",
+      "file": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task\\CampusCenter-new-plans\\downstream\\desktop_furniture_v26_r01\\unreal_project\\Content\\Campus\\FitnessSupportR26R01\\Compat\\V8_plain_dark_screen_4dd4b3d1.uasset",
+      "sha256": "17f6f5e0b27c986ab8ff5199f797e6382f2d11c09d43e7fe0abd799d489aa0a2",
+      "new_patch_asset": true
+    },
+    {
+      "package": "/Game/Campus/FurnitureR26/CompatR03/MI_Default_Opaque_DS_a53f40f3",
+      "file": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task\\CampusCenter-new-plans\\downstream\\desktop_furniture_v26_r01\\unreal_project\\Content\\Campus\\FurnitureR26\\CompatR03\\MI_Default_Opaque_DS_a53f40f3.uasset",
+      "sha256": "4207cb70c38f32a16d6bc97bf9402d9e73b5918f9d854babd725029b70eb116b",
+      "new_patch_asset": false
+    },
+    {
+      "package": "/Game/Campus/FurnitureR26/CompatR03/M_Default_54bd2060",
+      "file": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task\\CampusCenter-new-plans\\downstream\\desktop_furniture_v26_r01\\unreal_project\\Content\\Campus\\FurnitureR26\\CompatR03\\M_Default_54bd2060.uasset",
+      "sha256": "446f9de0e0e0ac844dcfe614d84caf9e25bb21816cee4066859fa5d6dbfa6812",
+      "new_patch_asset": false
+    },
+    {
+      "package": "/Game/Campus/FitnessSupportR26R01/Compat/Blockout_equipment_-_untextured_898e9409",
+      "file": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task\\CampusCenter-new-plans\\downstream\\desktop_furniture_v26_r01\\unreal_project\\Content\\Campus\\FitnessSupportR26R01\\Compat\\Blockout_equipment_-_untextured_898e9409.uasset",
+      "sha256": "c6ea577189f37afac4f48785b971e7fb314d3c0444a3eabf79fef0f3dc2893c8",
+      "new_patch_asset": true
+    },
+    {
+      "package": "/Game/Campus/FurnitureR26/CompatR03/V8_plain_rubber_33d74d26",
+      "file": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task\\CampusCenter-new-plans\\downstream\\desktop_furniture_v26_r01\\unreal_project\\Content\\Campus\\FurnitureR26\\CompatR03\\V8_plain_rubber_33d74d26.uasset",
+      "sha256": "4cb3572d99fdb82798cb57b1541c598ad6875ff8fad1de53d8260b9a2ff62761",
+      "new_patch_asset": false
+    },
+    {
+      "package": "/Game/Campus/PolishV03/Materials/M_Dark_metal",
+      "file": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task\\CampusCenter-new-plans\\downstream\\desktop_furniture_v26_r01\\unreal_project\\Content\\Campus\\PolishV03\\Materials\\M_Dark_metal.uasset",
+      "sha256": "b22f2abf52393ed0a588adaa34b43b2acc24d731c62360994fc38c84f9554921",
+      "new_patch_asset": false
+    },
+    {
+      "package": "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware",
+      "file": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task\\CampusCenter-new-plans\\downstream\\desktop_furniture_v26_r01\\unreal_project\\Content\\Campus\\PolishV03\\Materials\\M_Brushed_stainless_hardware.uasset",
+      "sha256": "4c269214ae891dfc094707da5d90806f73c7e8a5a6d235d360cf7dba9c785802",
+      "new_patch_asset": false
+    },
+    {
+      "package": "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric",
+      "file": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task\\CampusCenter-new-plans\\downstream\\desktop_furniture_v26_r01\\unreal_project\\Content\\Campus\\PolishV02\\Materials\\M_Sage_Woven_Fabric.uasset",
+      "sha256": "416f980d644b1ce234e52d5e90943d86337e9f4079774b4a6218f790e42be074",
+      "new_patch_asset": false
+    },
+    {
+      "package": "/Game/Campus/PolishV02/Textures/Fabric030_1K-JPG_Roughness",
+      "file": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task\\CampusCenter-new-plans\\downstream\\desktop_furniture_v26_r01\\unreal_project\\Content\\Campus\\PolishV02\\Textures\\Fabric030_1K-JPG_Roughness.uasset",
+      "sha256": "767250437267d860a1e61383bf64979e7fc5857c2093db671819d1ba50870616",
+      "new_patch_asset": false
+    },
+    {
+      "package": "/Game/Campus/PolishV02/Textures/Fabric030_1K-JPG_NormalDX",
+      "file": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task\\CampusCenter-new-plans\\downstream\\desktop_furniture_v26_r01\\unreal_project\\Content\\Campus\\PolishV02\\Textures\\Fabric030_1K-JPG_NormalDX.uasset",
+      "sha256": "0bcbfa967481f683fc885d9a027a036dd66d6365e442df927e39cc62a330ac36",
+      "new_patch_asset": false
+    },
+    {
+      "package": "/Game/Campus/PolishV02/Textures/Fabric030_1K-JPG_Color",
+      "file": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task\\CampusCenter-new-plans\\downstream\\desktop_furniture_v26_r01\\unreal_project\\Content\\Campus\\PolishV02\\Textures\\Fabric030_1K-JPG_Color.uasset",
+      "sha256": "344eae7b87010a5d032b153586dd756c0a4b7539b6adbf4acd13f181899ce30c",
+      "new_patch_asset": false
+    }
+  ],
+  "engine_dependencies": [
+    "/InterchangeAssets/gltf/Textures/T_Anisotropy_Direction_Linear",
+    "/InterchangeAssets/gltf/MaterialFunctions/MF_RotateNormals_TS",
+    "/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components",
+    "/InterchangeAssets/gltf/MaterialFunctions/MF_Specular",
+    "/InterchangeAssets/gltf/MaterialFunctions/MF_MetallicRoughness",
+    "/InterchangeAssets/gltf/MaterialFunctions/MF_RotateV2",
+    "/InterchangeAssets/gltf/MaterialFunctions/MF_Occlusion",
+    "/InterchangeAssets/gltf/MaterialFunctions/MF_Normals",
+    "/Script/NavigationSystem",
+    "/InterchangeAssets/gltf/Textures/T_White_srgb",
+    "/InterchangeAssets/gltf/Textures/T_Generic_N",
+    "/InterchangeAssets/gltf/MaterialFunctions/MF_Emissive",
+    "/InterchangeAssets/gltf/MaterialBodies/MF_Default_Body",
+    "/InterchangeAssets/gltf/MaterialFunctions/MF_SpecularAnisotropy",
+    "/Script/InterchangeEngine",
+    "/InterchangeAssets/gltf/MaterialFunctions/MF_TransformUVs",
+    "/InterchangeAssets/gltf/MaterialFunctions/MF_IOR",
+    "/InterchangeAssets/gltf/MaterialFunctions/MF_Iridescence",
+    "/InterchangeAssets/gltf/Textures/T_White_Linear",
+    "/Engine/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix",
+    "/InterchangeAssets/Functions/MF_IridescenceNoLUT",
+    "/InterchangeAssets/gltf/MaterialFunctions/MF_ScaleNormal",
+    "/Engine/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3",
+    "/InterchangeAssets/gltf/MaterialFunctions/MF_BaseColor"
+  ],
+  "new_asset_count": 3,
+  "material_parameter_validation": [
+    {
+      "source": "/Game/Campus/Imported/Campus_Transfer/Materials/V8_plain_rubber.V8_plain_rubber",
+      "clone": "/Game/Campus/FurnitureR26/CompatR03/V8_plain_rubber_33d74d26.V8_plain_rubber_33d74d26",
+      "effective_parameter_checks_pass": true
+    },
+    {
+      "source": "/InterchangeAssets/gltf/MaterialInstances/MI_Default_Opaque_DS.MI_Default_Opaque_DS",
+      "clone": "/Game/Campus/FurnitureR26/CompatR03/MI_Default_Opaque_DS_a53f40f3.MI_Default_Opaque_DS_a53f40f3",
+      "effective_parameter_checks_pass": true
+    },
+    {
+      "source": "/Game/Campus/Imported/Campus_Transfer/Materials/V8_plain_dark_screen.V8_plain_dark_screen",
+      "clone": "/Game/Campus/FitnessSupportR26R01/Compat/V8_plain_dark_screen_4dd4b3d1.V8_plain_dark_screen_4dd4b3d1",
+      "effective_parameter_checks_pass": true
+    },
+    {
+      "source": "/Game/Campus/Imported/Campus_Transfer/Materials/Blockout_equipment_-_untextured.Blockout_equipment_-_untextured",
+      "clone": "/Game/Campus/FitnessSupportR26R01/Compat/Blockout_equipment_-_untextured_898e9409.Blockout_equipment_-_untextured_898e9409",
+      "effective_parameter_checks_pass": true
+    }
+  ]
+}

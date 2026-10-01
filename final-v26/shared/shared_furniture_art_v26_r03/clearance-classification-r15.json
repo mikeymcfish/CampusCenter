@@ -1,0 +1,4791 @@
+{
+  "map": "/Game/Campus/Maps/CampusCenter_FA26_Desktop_R15",
+  "map_sha256": "1e08b622c15957f22a74ebd4f8c452e65472e4e6c609f0023897ac2b835082e9",
+  "samples": [
+    {
+      "id": "FA26_PH11_Commons_UpperCurvedPiece_0",
+      "side": "west",
+      "sample_cm": [
+        395.1665954589844,
+        -2879.353515625,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH11_Commons_UpperCurvedPiece_0",
+      "side": "east",
+      "sample_cm": [
+        616.4876098632812,
+        -2879.353515625,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          642.0801391601562,
+          -2866.313232421875,
+          44.01470947265625
+        ],
+        "label": "FA26_PH11_Commons_UpperCurvedPiece_1",
+        "actor": "StaticMeshActor_1783"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH11_Commons_UpperCurvedPiece_0",
+      "side": "north",
+      "sample_cm": [
+        505.8271026611328,
+        -2775.422607421875,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH11_Commons_UpperCurvedPiece_0",
+      "side": "south",
+      "sample_cm": [
+        505.8271026611328,
+        -2983.284423828125,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          505.82710456848145,
+          -2972.2774505615234,
+          23.0
+        ],
+        "label": "003 fireplace_surround / C_V6_V5_Fireplace_hearth_corrected",
+        "actor": "StaticMeshActor_336"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH11_Commons_UpperCurvedPiece_1",
+      "side": "west",
+      "sample_cm": [
+        590.3240966796875,
+        -2879.353515625,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          564.7315063476562,
+          -2866.313232421875,
+          44.01470184326172
+        ],
+        "label": "FA26_PH11_Commons_UpperCurvedPiece_0",
+        "actor": "StaticMeshActor_1782"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH11_Commons_UpperCurvedPiece_1",
+      "side": "east",
+      "sample_cm": [
+        811.6451416015625,
+        -2879.353515625,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH11_Commons_UpperCurvedPiece_1",
+      "side": "north",
+      "sample_cm": [
+        700.984619140625,
+        -2775.422607421875,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH11_Commons_UpperCurvedPiece_1",
+      "side": "south",
+      "sample_cm": [
+        700.984619140625,
+        -2983.284423828125,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          685.477762,
+          -2983.2844240844724,
+          134.99999237060547
+        ],
+        "label": "003 fireplace_surround / C_V6_V5_Fireplace_hearth_corrected2",
+        "actor": "StaticMeshActor_123"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH12_G102_GlazingCounter",
+      "side": "west",
+      "sample_cm": [
+        1505.68017578125,
+        -2747.9588623046875,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          1508.673261642456,
+          -2744.6565074920654,
+          45.598323822021484
+        ],
+        "label": "R25_NATIVE_RE12_G102_GlazingStool_5_StaticMeshActor_626",
+        "actor": "StaticMeshActor_1701"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH12_G102_GlazingCounter",
+      "side": "east",
+      "sample_cm": [
+        1656.2061767578125,
+        -2747.9588623046875,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          1647.1858825683594,
+          -2741.4566040039062,
+          113.14494323730469
+        ],
+        "label": "002 architectural_frames / C_Commons_east_mullion0_3",
+        "actor": "StaticMeshActor_282"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH12_G102_GlazingCounter",
+      "side": "north",
+      "sample_cm": [
+        1580.9431762695312,
+        -2354.82470703125,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH12_G102_GlazingCounter",
+      "side": "south",
+      "sample_cm": [
+        1580.9431762695312,
+        -3141.093017578125,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH12_G105_Sofa",
+      "side": "west",
+      "sample_cm": [
+        627.3368453979492,
+        -609.8061561584473,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH12_G105_Sofa",
+      "side": "east",
+      "sample_cm": [
+        979.8843765258789,
+        -609.8061561584473,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH12_G105_Sofa",
+      "side": "north",
+      "sample_cm": [
+        803.6106109619141,
+        -531.1111068725585,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH12_G105_Sofa",
+      "side": "south",
+      "sample_cm": [
+        803.6106109619141,
+        -688.5012054443359,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          803.6106109619141,
+          -698.9730834960938,
+          43.0
+        ],
+        "label": "R25_NATIVE_RE12_G105_Coffee_StaticMeshActor_666",
+        "actor": "StaticMeshActor_1759"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH12_U202_Sofa",
+      "side": "west",
+      "sample_cm": [
+        -284.70379352569574,
+        -100.10006427764893,
+        516.72
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH12_U202_Sofa",
+      "side": "east",
+      "sample_cm": [
+        10.47517299652094,
+        -100.10006427764893,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          12.5,
+          -100.10006713867188,
+          547.2783813476562
+        ],
+        "label": "Architecture_Upper_10_10",
+        "actor": "StaticMeshActor_67"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH12_U202_Sofa",
+      "side": "north",
+      "sample_cm": [
+        -137.1143102645874,
+        -22.52913475036621,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -137.1143035888672,
+          -12.5,
+          492.3832702636719
+        ],
+        "label": "Architecture_Upper_09_10",
+        "actor": "StaticMeshActor_62"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH12_U202_Sofa",
+      "side": "south",
+      "sample_cm": [
+        -137.1143102645874,
+        -177.67099380493164,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -136.9456024169922,
+          -196.1581268310547,
+          478.0752258300781
+        ],
+        "label": "R25_U202_Furniture",
+        "actor": "StaticMeshActor_1515"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH14_G121_Bench_0",
+      "side": "west",
+      "sample_cm": [
+        -4072.7099609375,
+        -2127.66064453125,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH14_G121_Bench_0",
+      "side": "east",
+      "sample_cm": [
+        -3748.869140625,
+        -2127.66064453125,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3747.376220703125,
+          -2127.66064453125,
+          43.27631378173828
+        ],
+        "label": "FA26_PH14_G121_Bench_1",
+        "actor": "StaticMeshActor_1798"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH14_G121_Bench_0",
+      "side": "north",
+      "sample_cm": [
+        -3910.78955078125,
+        -2072.66064453125,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH14_G121_Bench_0",
+      "side": "south",
+      "sample_cm": [
+        -3910.78955078125,
+        -2182.66064453125,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3910.78857421875,
+          -2197.788818359375,
+          91.39823913574219
+        ],
+        "label": "R25_Furniture_Ground_05_12",
+        "actor": "StaticMeshActor_1503"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH14_G121_Bench_1",
+      "side": "west",
+      "sample_cm": [
+        -3787.376220703125,
+        -2127.66064453125,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3788.869140625,
+          -2127.66064453125,
+          43.27631378173828
+        ],
+        "label": "FA26_PH14_G121_Bench_0",
+        "actor": "StaticMeshActor_1797"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH14_G121_Bench_1",
+      "side": "east",
+      "sample_cm": [
+        -3463.535400390625,
+        -2127.66064453125,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3461.7060546875,
+          -2127.66064453125,
+          43.27631378173828
+        ],
+        "label": "FA26_PH14_G121_Bench_2",
+        "actor": "StaticMeshActor_1799"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH14_G121_Bench_1",
+      "side": "north",
+      "sample_cm": [
+        -3625.455810546875,
+        -2072.66064453125,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH14_G121_Bench_1",
+      "side": "south",
+      "sample_cm": [
+        -3625.455810546875,
+        -2182.66064453125,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3625.454833984375,
+          -2197.7900390625,
+          91.36431121826172
+        ],
+        "label": "R25_Furniture_Ground_05_12",
+        "actor": "StaticMeshActor_1503"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH14_G121_Bench_2",
+      "side": "west",
+      "sample_cm": [
+        -3501.7060546875,
+        -2127.66064453125,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3503.535400390625,
+          -2127.66064453125,
+          43.27631378173828
+        ],
+        "label": "FA26_PH14_G121_Bench_1",
+        "actor": "StaticMeshActor_1798"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH14_G121_Bench_2",
+      "side": "east",
+      "sample_cm": [
+        -3177.865478515625,
+        -2127.66064453125,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH14_G121_Bench_2",
+      "side": "north",
+      "sample_cm": [
+        -3339.7857666015625,
+        -2072.66064453125,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH14_G121_Bench_2",
+      "side": "south",
+      "sample_cm": [
+        -3339.7857666015625,
+        -2182.66064453125,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3339.78466796875,
+          -2197.788818359375,
+          91.39657592773438
+        ],
+        "label": "R25_Furniture_Ground_05_12",
+        "actor": "StaticMeshActor_1503"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH14_G121_Bench_3",
+      "side": "west",
+      "sample_cm": [
+        -4072.7099609375,
+        -1760.8989868164062,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH14_G121_Bench_3",
+      "side": "east",
+      "sample_cm": [
+        -3748.869140625,
+        -1760.8989868164062,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3747.376220703125,
+          -1760.89892578125,
+          43.27631759643555
+        ],
+        "label": "FA26_PH14_G121_Bench_4",
+        "actor": "StaticMeshActor_1801"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH14_G121_Bench_3",
+      "side": "north",
+      "sample_cm": [
+        -3910.78955078125,
+        -1705.8990478515625,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3910.791748046875,
+          -1672.2109375,
+          91.38726806640625
+        ],
+        "label": "R25_Furniture_Ground_05_12",
+        "actor": "StaticMeshActor_1503"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH14_G121_Bench_3",
+      "side": "south",
+      "sample_cm": [
+        -3910.78955078125,
+        -1815.89892578125,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH14_G121_Bench_4",
+      "side": "west",
+      "sample_cm": [
+        -3787.376220703125,
+        -1760.8989868164062,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3788.869140625,
+          -1760.89892578125,
+          43.27631759643555
+        ],
+        "label": "FA26_PH14_G121_Bench_3",
+        "actor": "StaticMeshActor_1800"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH14_G121_Bench_4",
+      "side": "east",
+      "sample_cm": [
+        -3463.535400390625,
+        -1760.8989868164062,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3461.311767578125,
+          -1760.89892578125,
+          43.27631759643555
+        ],
+        "label": "FA26_PH14_G121_Bench_5",
+        "actor": "StaticMeshActor_1802"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH14_G121_Bench_4",
+      "side": "north",
+      "sample_cm": [
+        -3625.455810546875,
+        -1705.8990478515625,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3625.4580078125,
+          -1672.2119140625,
+          91.41712951660156
+        ],
+        "label": "R25_Furniture_Ground_05_12",
+        "actor": "StaticMeshActor_1503"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH14_G121_Bench_4",
+      "side": "south",
+      "sample_cm": [
+        -3625.455810546875,
+        -1815.89892578125,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH14_G121_Bench_5",
+      "side": "west",
+      "sample_cm": [
+        -3501.311767578125,
+        -1760.8989868164062,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3503.535400390625,
+          -1760.89892578125,
+          43.27631759643555
+        ],
+        "label": "FA26_PH14_G121_Bench_4",
+        "actor": "StaticMeshActor_1801"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH14_G121_Bench_5",
+      "side": "east",
+      "sample_cm": [
+        -3299.3916015625,
+        -1760.8989868164062,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH14_G121_Bench_5",
+      "side": "north",
+      "sample_cm": [
+        -3400.3516845703125,
+        -1705.8990478515625,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3401.43896484375,
+          -1672.2098388671875,
+          91.36248779296875
+        ],
+        "label": "R25_Furniture_Ground_05_12",
+        "actor": "StaticMeshActor_1503"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH14_G121_Bench_5",
+      "side": "south",
+      "sample_cm": [
+        -3400.3516845703125,
+        -1815.89892578125,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3400.325927734375,
+          -1845.6514892578125,
+          143.0050506591797
+        ],
+        "label": "R25_G121_Furniture",
+        "actor": "StaticMeshActor_1522"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH14_G121_Bench_6",
+      "side": "west",
+      "sample_cm": [
+        -3900.512939453125,
+        -1931.4935302734375,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH14_G121_Bench_6",
+      "side": "east",
+      "sample_cm": [
+        -3790.5126953125,
+        -1931.4935302734375,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH14_G121_Bench_6",
+      "side": "north",
+      "sample_cm": [
+        -3845.5128173828125,
+        -1800.0533447265625,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3845.5126953125,
+          -1775.89892578125,
+          46.0
+        ],
+        "label": "FA26_PH14_G121_Bench_3",
+        "actor": "StaticMeshActor_1800"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH14_G121_Bench_6",
+      "side": "south",
+      "sample_cm": [
+        -3845.5128173828125,
+        -2062.9337158203125,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH14_G121_Bench_7",
+      "side": "west",
+      "sample_cm": [
+        -3608.449462890625,
+        -1931.4935302734375,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH14_G121_Bench_7",
+      "side": "east",
+      "sample_cm": [
+        -3498.44921875,
+        -1931.4935302734375,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH14_G121_Bench_7",
+      "side": "north",
+      "sample_cm": [
+        -3553.4493408203125,
+        -1800.0533447265625,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3553.44921875,
+          -1775.89892578125,
+          46.0
+        ],
+        "label": "FA26_PH14_G121_Bench_4",
+        "actor": "StaticMeshActor_1801"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH14_G121_Bench_7",
+      "side": "south",
+      "sample_cm": [
+        -3553.4493408203125,
+        -2062.9337158203125,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH14_G122_Bench_0",
+      "side": "west",
+      "sample_cm": [
+        -4072.7099609375,
+        -2777.737060546875,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH14_G122_Bench_0",
+      "side": "east",
+      "sample_cm": [
+        -3748.869140625,
+        -2777.737060546875,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3747.376220703125,
+          -2777.737060546875,
+          43.27631378173828
+        ],
+        "label": "FA26_PH14_G122_Bench_1",
+        "actor": "StaticMeshActor_1806"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH14_G122_Bench_0",
+      "side": "north",
+      "sample_cm": [
+        -3910.78955078125,
+        -2722.737060546875,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH14_G122_Bench_0",
+      "side": "south",
+      "sample_cm": [
+        -3910.78955078125,
+        -2832.737060546875,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3902.542236328125,
+          -2862.389404296875,
+          129.8472137451172
+        ],
+        "label": "R25_Furniture_Ground_05_13",
+        "actor": "StaticMeshActor_1502"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH14_G122_Bench_1",
+      "side": "west",
+      "sample_cm": [
+        -3787.376220703125,
+        -2777.737060546875,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3788.869140625,
+          -2777.737060546875,
+          43.27631378173828
+        ],
+        "label": "FA26_PH14_G122_Bench_0",
+        "actor": "StaticMeshActor_1805"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH14_G122_Bench_1",
+      "side": "east",
+      "sample_cm": [
+        -3463.535400390625,
+        -2777.737060546875,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3461.311767578125,
+          -2777.737060546875,
+          43.27631378173828
+        ],
+        "label": "FA26_PH14_G122_Bench_2",
+        "actor": "StaticMeshActor_1807"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH14_G122_Bench_1",
+      "side": "north",
+      "sample_cm": [
+        -3625.455810546875,
+        -2722.737060546875,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH14_G122_Bench_1",
+      "side": "south",
+      "sample_cm": [
+        -3625.455810546875,
+        -2832.737060546875,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3622.0234375,
+          -2863.7783203125,
+          105.334228515625
+        ],
+        "label": "R25_Furniture_Ground_05_13",
+        "actor": "StaticMeshActor_1502"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH14_G122_Bench_2",
+      "side": "west",
+      "sample_cm": [
+        -3501.311767578125,
+        -2777.737060546875,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3503.535400390625,
+          -2777.737060546875,
+          43.27631378173828
+        ],
+        "label": "FA26_PH14_G122_Bench_1",
+        "actor": "StaticMeshActor_1806"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH14_G122_Bench_2",
+      "side": "east",
+      "sample_cm": [
+        -3299.3916015625,
+        -2777.737060546875,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH14_G122_Bench_2",
+      "side": "north",
+      "sample_cm": [
+        -3400.3516845703125,
+        -2722.737060546875,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3400.3369140625,
+          -2689.619384765625,
+          143.00332641601562
+        ],
+        "label": "R25_G122_Furniture",
+        "actor": "StaticMeshActor_1521"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH14_G122_Bench_2",
+      "side": "south",
+      "sample_cm": [
+        -3400.3516845703125,
+        -2832.737060546875,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3409.181884765625,
+          -2861.05712890625,
+          52.48374938964844
+        ],
+        "label": "R25_Furniture_Ground_05_13",
+        "actor": "StaticMeshActor_1502"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH14_G122_Bench_3",
+      "side": "west",
+      "sample_cm": [
+        -4072.7099609375,
+        -2410.9754638671875,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH14_G122_Bench_3",
+      "side": "east",
+      "sample_cm": [
+        -3748.869140625,
+        -2410.9754638671875,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3747.376220703125,
+          -2410.9755859375,
+          43.27631759643555
+        ],
+        "label": "FA26_PH14_G122_Bench_4",
+        "actor": "StaticMeshActor_1809"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH14_G122_Bench_3",
+      "side": "north",
+      "sample_cm": [
+        -3910.78955078125,
+        -2355.9755859375,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH14_G122_Bench_3",
+      "side": "south",
+      "sample_cm": [
+        -3910.78955078125,
+        -2465.975341796875,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH14_G122_Bench_4",
+      "side": "west",
+      "sample_cm": [
+        -3787.376220703125,
+        -2410.9754638671875,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3788.869140625,
+          -2410.9755859375,
+          43.27631759643555
+        ],
+        "label": "FA26_PH14_G122_Bench_3",
+        "actor": "StaticMeshActor_1808"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH14_G122_Bench_4",
+      "side": "east",
+      "sample_cm": [
+        -3463.535400390625,
+        -2410.9754638671875,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3461.7060546875,
+          -2410.9755859375,
+          43.27631759643555
+        ],
+        "label": "FA26_PH14_G122_Bench_5",
+        "actor": "StaticMeshActor_1810"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH14_G122_Bench_4",
+      "side": "north",
+      "sample_cm": [
+        -3625.455810546875,
+        -2355.9755859375,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH14_G122_Bench_4",
+      "side": "south",
+      "sample_cm": [
+        -3625.455810546875,
+        -2465.975341796875,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH14_G122_Bench_5",
+      "side": "west",
+      "sample_cm": [
+        -3501.7060546875,
+        -2410.9754638671875,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3503.535400390625,
+          -2410.9755859375,
+          43.27631759643555
+        ],
+        "label": "FA26_PH14_G122_Bench_4",
+        "actor": "StaticMeshActor_1809"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH14_G122_Bench_5",
+      "side": "east",
+      "sample_cm": [
+        -3177.865478515625,
+        -2410.9754638671875,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH14_G122_Bench_5",
+      "side": "north",
+      "sample_cm": [
+        -3339.7857666015625,
+        -2355.9755859375,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH14_G122_Bench_5",
+      "side": "south",
+      "sample_cm": [
+        -3339.7857666015625,
+        -2465.975341796875,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH14_G122_Bench_6",
+      "side": "west",
+      "sample_cm": [
+        -3900.512939453125,
+        -2581.56982421875,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH14_G122_Bench_6",
+      "side": "east",
+      "sample_cm": [
+        -3790.5126953125,
+        -2581.56982421875,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH14_G122_Bench_6",
+      "side": "north",
+      "sample_cm": [
+        -3845.5128173828125,
+        -2450.129638671875,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3845.5126953125,
+          -2425.975341796875,
+          46.0
+        ],
+        "label": "FA26_PH14_G122_Bench_3",
+        "actor": "StaticMeshActor_1808"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH14_G122_Bench_6",
+      "side": "south",
+      "sample_cm": [
+        -3845.5128173828125,
+        -2713.010009765625,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH14_G122_Bench_7",
+      "side": "west",
+      "sample_cm": [
+        -3608.449462890625,
+        -2581.56982421875,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH14_G122_Bench_7",
+      "side": "east",
+      "sample_cm": [
+        -3498.44921875,
+        -2581.56982421875,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH14_G122_Bench_7",
+      "side": "north",
+      "sample_cm": [
+        -3553.4493408203125,
+        -2450.129638671875,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3553.44921875,
+          -2425.975341796875,
+          46.0
+        ],
+        "label": "FA26_PH14_G122_Bench_4",
+        "actor": "StaticMeshActor_1809"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH14_G122_Bench_7",
+      "side": "south",
+      "sample_cm": [
+        -3553.4493408203125,
+        -2713.010009765625,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH19_G126_TrophyCase_0",
+      "side": "west",
+      "sample_cm": [
+        -2682.87109375,
+        -2359.830810546875,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH19_G126_TrophyCase_0",
+      "side": "east",
+      "sample_cm": [
+        -2542.30517578125,
+        -2359.830810546875,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -2539.303207133397,
+          -2359.8308044102046,
+          115.00000615753217
+        ],
+        "label": "FA26_PH_Gym_BleacherBank_02_Native_75",
+        "actor": "StaticMeshActor_1985"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH19_G126_TrophyCase_0",
+      "side": "north",
+      "sample_cm": [
+        -2612.588134765625,
+        -2198.698486328125,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -2594.3994140625,
+          -2194.392333984375,
+          109.10523223876953
+        ],
+        "label": "FA26_PH19_G126_TrophyCase_1",
+        "actor": "StaticMeshActor_1814"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH19_G126_TrophyCase_0",
+      "side": "south",
+      "sample_cm": [
+        -2612.588134765625,
+        -2520.963134765625,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -2584.256591796875,
+          -2520.963134765625,
+          142.65188598632812
+        ],
+        "label": "Architecture_Upper_06_12",
+        "actor": "StaticMeshActor_51"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH19_G126_TrophyCase_1",
+      "side": "west",
+      "sample_cm": [
+        -2682.87109375,
+        -2117.5662841796875,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH19_G126_TrophyCase_1",
+      "side": "east",
+      "sample_cm": [
+        -2542.30517578125,
+        -2117.5662841796875,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -2539.303207133397,
+          -2117.5663111309095,
+          114.99998832842871
+        ],
+        "label": "FA26_PH_Gym_BleacherBank_02_Native_75",
+        "actor": "StaticMeshActor_1985"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH19_G126_TrophyCase_1",
+      "side": "north",
+      "sample_cm": [
+        -2612.588134765625,
+        -1956.43408203125,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -2584.256591796875,
+          -1956.43408203125,
+          130.09652709960938
+        ],
+        "label": "Architecture_Upper_06_12",
+        "actor": "StaticMeshActor_51"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH19_G126_TrophyCase_1",
+      "side": "south",
+      "sample_cm": [
+        -2612.588134765625,
+        -2278.698486328125,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -2630.7783203125,
+          -2283.0048828125,
+          62.89457321166992
+        ],
+        "label": "FA26_PH19_G126_TrophyCase_0",
+        "actor": "StaticMeshActor_1813"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH_Gym_BleacherBank_01",
+      "side": "west",
+      "sample_cm": [
+        -2579.303207397461,
+        -3781.11572265625,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -2584.256591796875,
+          -3781.11572265625,
+          127.44854736328125
+        ],
+        "label": "Architecture_Upper_06_15",
+        "actor": "StaticMeshActor_54"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH_Gym_BleacherBank_01",
+      "side": "east",
+      "sample_cm": [
+        -2199.837265014648,
+        -3781.11572265625,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH_Gym_BleacherBank_01",
+      "side": "north",
+      "sample_cm": [
+        -2389.5702362060547,
+        -3418.096313476562,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH_Gym_BleacherBank_01",
+      "side": "south",
+      "sample_cm": [
+        -2389.5702362060547,
+        -4144.1351318359375,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH_Gym_BleacherBank_02",
+      "side": "west",
+      "sample_cm": [
+        -2579.303207397461,
+        -2347.7173805236816,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -2582.605224609375,
+          -2347.71728515625,
+          87.930908203125
+        ],
+        "label": "FA26_PH19_G126_TrophyCase_0",
+        "actor": "StaticMeshActor_1813"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH_Gym_BleacherBank_02",
+      "side": "east",
+      "sample_cm": [
+        -2199.837265014648,
+        -2347.7173805236816,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH_Gym_BleacherBank_02",
+      "side": "north",
+      "sample_cm": [
+        -2389.5702362060547,
+        -1789.5404434204102,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH_Gym_BleacherBank_02",
+      "side": "south",
+      "sample_cm": [
+        -2389.5702362060547,
+        -2905.894317626953,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Trainer_046",
+      "side": "west",
+      "sample_cm": [
+        -4452.5791015625,
+        -3850.46923828125,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Trainer_046",
+      "side": "east",
+      "sample_cm": [
+        -4296.75634765625,
+        -3850.46923828125,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4264.18359375,
+          -3850.46923828125,
+          72.79824829101562
+        ],
+        "label": "FA26_PH02_Trainer_047",
+        "actor": "StaticMeshActor_2006"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH02_Trainer_046",
+      "side": "north",
+      "sample_cm": [
+        -4374.667724609375,
+        -3715.963134765625,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Trainer_046",
+      "side": "south",
+      "sample_cm": [
+        -4374.667724609375,
+        -3984.975341796875,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4374.66796875,
+          -3970.112548828125,
+          65.66326904296875
+        ],
+        "label": "Architecture_Ground_04_14",
+        "actor": "StaticMeshActor_3"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH02_Trainer_047",
+      "side": "west",
+      "sample_cm": [
+        -4304.18359375,
+        -3850.46923828125,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4336.75634765625,
+          -3850.46923828125,
+          72.79824829101562
+        ],
+        "label": "FA26_PH02_Trainer_046",
+        "actor": "StaticMeshActor_2005"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH02_Trainer_047",
+      "side": "east",
+      "sample_cm": [
+        -4148.36083984375,
+        -3850.46923828125,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Trainer_047",
+      "side": "north",
+      "sample_cm": [
+        -4226.272216796875,
+        -3715.963134765625,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Trainer_047",
+      "side": "south",
+      "sample_cm": [
+        -4226.272216796875,
+        -3984.975341796875,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4226.2724609375,
+          -3970.112548828125,
+          65.66326904296875
+        ],
+        "label": "Architecture_Ground_04_14",
+        "actor": "StaticMeshActor_3"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH02_Trainer_048",
+      "side": "west",
+      "sample_cm": [
+        -4153.62158203125,
+        -3888.637939453125,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4188.36083984375,
+          -3888.637939453125,
+          72.79824829101562
+        ],
+        "label": "FA26_PH02_Trainer_047",
+        "actor": "StaticMeshActor_2006"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH02_Trainer_048",
+      "side": "east",
+      "sample_cm": [
+        -3986.966796875,
+        -3888.637939453125,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3981.756103515625,
+          -3880.374755859375,
+          78.0
+        ],
+        "label": "FA26_PH10_Trainer_063",
+        "actor": "StaticMeshActor_2020"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH02_Trainer_048",
+      "side": "north",
+      "sample_cm": [
+        -4070.294189453125,
+        -3814.065673828125,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4066.1220703125,
+          -3808.1767578125,
+          84.0
+        ],
+        "label": "FA26_PH02_Trainer_049",
+        "actor": "StaticMeshActor_2008"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH02_Trainer_048",
+      "side": "south",
+      "sample_cm": [
+        -4070.294189453125,
+        -3963.210205078125,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4070.294189453125,
+          -3970.112548828125,
+          114.5460205078125
+        ],
+        "label": "Architecture_Ground_04_14",
+        "actor": "StaticMeshActor_3"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH02_Trainer_049",
+      "side": "west",
+      "sample_cm": [
+        -4153.62158203125,
+        -3805.0802001953125,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4188.36083984375,
+          -3805.080078125,
+          72.7982406616211
+        ],
+        "label": "FA26_PH02_Trainer_047",
+        "actor": "StaticMeshActor_2006"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH02_Trainer_049",
+      "side": "east",
+      "sample_cm": [
+        -3986.966796875,
+        -3805.0802001953125,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4007.12548828125,
+          -3805.080078125,
+          114.54602813720703
+        ],
+        "label": "Architecture_Ground_04_14",
+        "actor": "StaticMeshActor_3"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH02_Trainer_049",
+      "side": "north",
+      "sample_cm": [
+        -4070.294189453125,
+        -3734.010009765625,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4063.631103515625,
+          -3725.6826171875,
+          79.99995422363281
+        ],
+        "label": "FA26_PH02_Trainer_050",
+        "actor": "StaticMeshActor_2009"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH02_Trainer_049",
+      "side": "south",
+      "sample_cm": [
+        -4070.294189453125,
+        -3876.150390625,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4076.460205078125,
+          -3884.002685546875,
+          88.0
+        ],
+        "label": "FA26_PH02_Trainer_048",
+        "actor": "StaticMeshActor_2007"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH02_Trainer_050",
+      "side": "west",
+      "sample_cm": [
+        -4153.62158203125,
+        -3720.2449951171875,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Trainer_050",
+      "side": "east",
+      "sample_cm": [
+        -3986.966796875,
+        -3720.2449951171875,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4007.12548828125,
+          -3720.2451171875,
+          133.77194213867188
+        ],
+        "label": "Architecture_Ground_04_14",
+        "actor": "StaticMeshActor_3"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH02_Trainer_050",
+      "side": "north",
+      "sample_cm": [
+        -4070.294189453125,
+        -3645.6728515625,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Trainer_050",
+      "side": "south",
+      "sample_cm": [
+        -4070.294189453125,
+        -3794.817138671875,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4075.20166015625,
+          -3801.743896484375,
+          83.99999237060547
+        ],
+        "label": "FA26_PH02_Trainer_049",
+        "actor": "StaticMeshActor_2008"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH02_Trainer_051",
+      "side": "west",
+      "sample_cm": [
+        -4576.06103515625,
+        -3518.2655029296875,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4560.56298828125,
+          -3518.265625,
+          114.54602813720703
+        ],
+        "label": "Architecture_Ground_04_14",
+        "actor": "StaticMeshActor_3"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH02_Trainer_051",
+      "side": "east",
+      "sample_cm": [
+        -4377.99462890625,
+        -3518.2655029296875,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Trainer_051",
+      "side": "north",
+      "sample_cm": [
+        -4477.02783203125,
+        -3371.15869140625,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4477.0283203125,
+          -3378.87548828125,
+          66.00000762939453
+        ],
+        "label": "FA26_PH02_Trainer_052",
+        "actor": "StaticMeshActor_2011"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH02_Trainer_051",
+      "side": "south",
+      "sample_cm": [
+        -4477.02783203125,
+        -3665.372314453125,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Trainer_052",
+      "side": "west",
+      "sample_cm": [
+        -4576.06103515625,
+        -3334.4085693359375,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4560.56298828125,
+          -3334.40869140625,
+          114.54603576660156
+        ],
+        "label": "Architecture_Ground_04_14",
+        "actor": "StaticMeshActor_3"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH02_Trainer_052",
+      "side": "east",
+      "sample_cm": [
+        -4348.7490234375,
+        -3334.4085693359375,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Trainer_052",
+      "side": "north",
+      "sample_cm": [
+        -4462.405029296875,
+        -3247.441650390625,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4462.4052734375,
+          -3246.93603515625,
+          87.25000762939453
+        ],
+        "label": "FA26_PH10_Trainer_059",
+        "actor": "StaticMeshActor_2013"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH02_Trainer_052",
+      "side": "south",
+      "sample_cm": [
+        -4462.405029296875,
+        -3421.37548828125,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4462.4052734375,
+          -3413.6591796875,
+          48.0
+        ],
+        "label": "FA26_PH02_Trainer_051",
+        "actor": "StaticMeshActor_2010"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH02_Trainer_053",
+      "side": "west",
+      "sample_cm": [
+        -4220.7783203125,
+        -3277.1319580078125,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4198.4140625,
+          -3277.1318359375,
+          95.78732299804688
+        ],
+        "label": "R25_REV24_TrainerSouth_DoorLeaf",
+        "actor": "StaticMeshActor_1544"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH02_Trainer_053",
+      "side": "east",
+      "sample_cm": [
+        -3984.80078125,
+        -3277.1319580078125,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3984.49365234375,
+          -3268.356689453125,
+          69.59953308105469
+        ],
+        "label": "R25_G_TRAINER_SERVICE_Furniture",
+        "actor": "StaticMeshActor_1512"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH02_Trainer_053",
+      "side": "north",
+      "sample_cm": [
+        -4102.78955078125,
+        -3144.343994140625,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4102.78955078125,
+          -3166.664794921875,
+          114.5460205078125
+        ],
+        "label": "R25_G_TRAINER_Architecture",
+        "actor": "StaticMeshActor_1536"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH02_Trainer_053",
+      "side": "south",
+      "sample_cm": [
+        -4102.78955078125,
+        -3409.919921875,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH10_Trainer_059",
+      "side": "west",
+      "sample_cm": [
+        -4575.56298828125,
+        -3215.800537109375,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4560.56298828125,
+          -3215.800537109375,
+          114.54602813720703
+        ],
+        "label": "Architecture_Ground_04_14",
+        "actor": "StaticMeshActor_3"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH10_Trainer_059",
+      "side": "east",
+      "sample_cm": [
+        -4333.1513671875,
+        -3215.800537109375,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4333.1513671875,
+          -3184.6650390625,
+          88.11552429199219
+        ],
+        "label": "R25_G_TRAINER_Architecture",
+        "actor": "StaticMeshActor_1536"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH10_Trainer_059",
+      "side": "north",
+      "sample_cm": [
+        -4454.357177734375,
+        -3144.6650390625,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4454.357421875,
+          -3166.664794921875,
+          114.5460205078125
+        ],
+        "label": "R25_G_TRAINER_Architecture",
+        "actor": "StaticMeshActor_1536"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH10_Trainer_059",
+      "side": "south",
+      "sample_cm": [
+        -4454.357177734375,
+        -3286.93603515625,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4454.357421875,
+          -3287.441650390625,
+          59.952392578125
+        ],
+        "label": "FA26_PH02_Trainer_052",
+        "actor": "StaticMeshActor_2011"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH10_Trainer_060",
+      "side": "west",
+      "sample_cm": [
+        -4513.23681640625,
+        -3214.70068359375,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4508.89697265625,
+          -3210.161865234375,
+          92.74999237060547
+        ],
+        "label": "FA26_PH10_Trainer_059",
+        "actor": "StaticMeshActor_2013"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "intentional_integrated_counter_sink_appliance_contact"
+    },
+    {
+      "id": "FA26_PH10_Trainer_060",
+      "side": "east",
+      "sample_cm": [
+        -4390.99267578125,
+        -3214.70068359375,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4397.94775390625,
+          -3221.4736328125,
+          92.75
+        ],
+        "label": "FA26_PH10_Trainer_059",
+        "actor": "StaticMeshActor_2013"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "intentional_integrated_counter_sink_appliance_contact"
+    },
+    {
+      "id": "FA26_PH10_Trainer_060",
+      "side": "north",
+      "sample_cm": [
+        -4452.11474609375,
+        -3150.64453125,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4452.11474609375,
+          -3166.664794921875,
+          114.54603576660156
+        ],
+        "label": "R25_G_TRAINER_Architecture",
+        "actor": "StaticMeshActor_1536"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH10_Trainer_060",
+      "side": "south",
+      "sample_cm": [
+        -4452.11474609375,
+        -3278.7568359375,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4452.11474609375,
+          -3287.441650390625,
+          58.458919525146484
+        ],
+        "label": "FA26_PH02_Trainer_052",
+        "actor": "StaticMeshActor_2011"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH10_Trainer_061",
+      "side": "west",
+      "sample_cm": [
+        -4570.16845703125,
+        -3213.986328125,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4560.56298828125,
+          -3213.986328125,
+          114.54602813720703
+        ],
+        "label": "Architecture_Ground_04_14",
+        "actor": "StaticMeshActor_3"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH10_Trainer_061",
+      "side": "east",
+      "sample_cm": [
+        -4441.29541015625,
+        -3213.986328125,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4435.5927734375,
+          -3213.986328125,
+          83.2500991821289
+        ],
+        "label": "FA26_PH10_Trainer_060",
+        "actor": "StaticMeshActor_2014"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "intentional_integrated_counter_sink_appliance_contact"
+    },
+    {
+      "id": "FA26_PH10_Trainer_061",
+      "side": "north",
+      "sample_cm": [
+        -4505.73193359375,
+        -3145.50439453125,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4505.73193359375,
+          -3166.664794921875,
+          114.54602813720703
+        ],
+        "label": "R25_G_TRAINER_Architecture",
+        "actor": "StaticMeshActor_1536"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH10_Trainer_061",
+      "side": "south",
+      "sample_cm": [
+        -4505.73193359375,
+        -3282.46826171875,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4505.73193359375,
+          -3287.441650390625,
+          55.656368255615234
+        ],
+        "label": "FA26_PH02_Trainer_052",
+        "actor": "StaticMeshActor_2011"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH24_Trainer_StoolLike_1",
+      "side": "west",
+      "sample_cm": [
+        -4310.791015625,
+        -3566.2288818359375,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH24_Trainer_StoolLike_1",
+      "side": "east",
+      "sample_cm": [
+        -4191.6015625,
+        -3566.2288818359375,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4191.87890625,
+          -3566.027587890625,
+          42.17118835449219
+        ],
+        "label": "FA26_PH24_Trainer_StoolLike_3",
+        "actor": "StaticMeshActor_2018"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH24_Trainer_StoolLike_1",
+      "side": "north",
+      "sample_cm": [
+        -4251.1962890625,
+        -3505.50634765625,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH24_Trainer_StoolLike_1",
+      "side": "south",
+      "sample_cm": [
+        -4251.1962890625,
+        -3626.951416015625,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4233.29833984375,
+          -3617.197509765625,
+          41.50647735595703
+        ],
+        "label": "FA26_PH24_Trainer_StoolLike_2",
+        "actor": "StaticMeshActor_2017"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH24_Trainer_StoolLike_2",
+      "side": "west",
+      "sample_cm": [
+        -4276.6708984375,
+        -3599.6326904296875,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4266.8720703125,
+          -3584.3720703125,
+          41.50647735595703
+        ],
+        "label": "FA26_PH24_Trainer_StoolLike_1",
+        "actor": "StaticMeshActor_2016"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH24_Trainer_StoolLike_2",
+      "side": "east",
+      "sample_cm": [
+        -4157.4814453125,
+        -3599.6326904296875,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH24_Trainer_StoolLike_2",
+      "side": "north",
+      "sample_cm": [
+        -4217.076171875,
+        -3538.91015625,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4217.34326171875,
+          -3538.65771484375,
+          49.99999237060547
+        ],
+        "label": "FA26_PH24_Trainer_StoolLike_3",
+        "actor": "StaticMeshActor_2018"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH24_Trainer_StoolLike_2",
+      "side": "south",
+      "sample_cm": [
+        -4217.076171875,
+        -3660.355224609375,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH24_Trainer_StoolLike_3",
+      "side": "west",
+      "sample_cm": [
+        -4266.5322265625,
+        -3553.03271484375,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4266.2548828125,
+          -3553.234130859375,
+          50.0
+        ],
+        "label": "FA26_PH24_Trainer_StoolLike_1",
+        "actor": "StaticMeshActor_2016"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH24_Trainer_StoolLike_3",
+      "side": "east",
+      "sample_cm": [
+        -4147.3427734375,
+        -3553.03271484375,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH24_Trainer_StoolLike_3",
+      "side": "north",
+      "sample_cm": [
+        -4206.9375,
+        -3492.31005859375,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH24_Trainer_StoolLike_3",
+      "side": "south",
+      "sample_cm": [
+        -4206.9375,
+        -3613.75537109375,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4206.75537109375,
+          -3614.05322265625,
+          42.17119216918945
+        ],
+        "label": "FA26_PH24_Trainer_StoolLike_2",
+        "actor": "StaticMeshActor_2017"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH02_Trainer_056",
+      "side": "west",
+      "sample_cm": [
+        -3910.9072265625,
+        -3534.185546875,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3910.9072265625,
+          -3509.146484375,
+          114.5460205078125
+        ],
+        "label": "Architecture_Ground_05_14",
+        "actor": "StaticMeshActor_8"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH02_Trainer_056",
+      "side": "east",
+      "sample_cm": [
+        -3725.6787109375,
+        -3534.185546875,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3725.19921875,
+          -3534.185546875,
+          114.54602813720703
+        ],
+        "label": "Architecture_Ground_05_14",
+        "actor": "StaticMeshActor_8"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH02_Trainer_056",
+      "side": "north",
+      "sample_cm": [
+        -3818.29296875,
+        -3468.615478515625,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3810.776123046875,
+          -3468.615478515625,
+          43.458274841308594
+        ],
+        "label": "R25_G_TRAINER_SERVICE_Furniture",
+        "actor": "StaticMeshActor_1512"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH02_Trainer_056",
+      "side": "south",
+      "sample_cm": [
+        -3818.29296875,
+        -3599.755615234375,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH10_Trainer_063",
+      "side": "west",
+      "sample_cm": [
+        -4045.04443359375,
+        -3903.97265625,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4047.47119140625,
+          -3907.00537109375,
+          79.9999771118164
+        ],
+        "label": "FA26_PH02_Trainer_048",
+        "actor": "StaticMeshActor_2007"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH10_Trainer_063",
+      "side": "east",
+      "sample_cm": [
+        -3843.62744140625,
+        -3903.97265625,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH10_Trainer_063",
+      "side": "north",
+      "sample_cm": [
+        -3944.3359375,
+        -3825.39306640625,
+        90
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH10_Trainer_063",
+      "side": "south",
+      "sample_cm": [
+        -3944.3359375,
+        -3982.55224609375,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3944.3359375,
+          -3970.112548828125,
+          65.66326141357422
+        ],
+        "label": "Architecture_Ground_05_14",
+        "actor": "StaticMeshActor_8"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH12_G127_NorthBand",
+      "side": "west",
+      "sample_cm": [
+        -3481.520263671875,
+        -3532.399658203125,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3468.59326171875,
+          -3532.400146484375,
+          88.00007629394531
+        ],
+        "label": "FA26_PH12_G_ATHLETICS_SW_NorthBand",
+        "actor": "StaticMeshActor_2023"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH12_G127_NorthBand",
+      "side": "east",
+      "sample_cm": [
+        -3138.6982421875,
+        -3532.399658203125,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3156.0263671875,
+          -3532.399658203125,
+          114.54602813720703
+        ],
+        "label": "Architecture_Ground_06_14",
+        "actor": "StaticMeshActor_13"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH12_G127_NorthBand",
+      "side": "north",
+      "sample_cm": [
+        -3310.1092529296875,
+        -3476.95166015625,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3312.02394359123,
+          -3476.121793092103,
+          42.442958068847645
+        ],
+        "label": "R25_NATIVE_RE12_G127_WorkChair",
+        "actor": "StaticMeshActor_1466"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH12_G127_NorthBand",
+      "side": "south",
+      "sample_cm": [
+        -3310.1092529296875,
+        -3587.84765625,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3310.109375,
+          -3567.65966796875,
+          114.54602813720703
+        ],
+        "label": "Architecture_Ground_05_14",
+        "actor": "StaticMeshActor_8"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH12_AthleticsNE_WestBand",
+      "side": "west",
+      "sample_cm": [
+        -3763.455810546875,
+        -3756.2462158203125,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3774.0259457452485,
+          -3756.2457707039375,
+          63.900441777706135
+        ],
+        "label": "R25_NATIVE_RE10_Trainer_OfficeChair_0",
+        "actor": "StaticMeshActor_1445"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH12_AthleticsNE_WestBand",
+      "side": "east",
+      "sample_cm": [
+        -3652.2880859375,
+        -3756.2462158203125,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3652.2880826680757,
+          -3756.2464072894118,
+          69.30072021484375
+        ],
+        "label": "R25_NATIVE_RE12_AthleticsNE_DeskPart_1",
+        "actor": "StaticMeshActor_1461"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH12_AthleticsNE_WestBand",
+      "side": "north",
+      "sample_cm": [
+        -3707.8719482421875,
+        -3531.014404296875,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3706.63037109375,
+          -3520.068603515625,
+          80.0
+        ],
+        "label": "FA26_PH12_G_ATHLETICS_SW_NorthBand",
+        "actor": "StaticMeshActor_2023"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH12_AthleticsNE_WestBand",
+      "side": "south",
+      "sample_cm": [
+        -3707.8719482421875,
+        -3981.47802734375,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3707.8720703125,
+          -3970.112548828125,
+          114.5460205078125
+        ],
+        "label": "Architecture_Ground_05_14",
+        "actor": "StaticMeshActor_8"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH12_G_ATHLETICS_SW_NorthBand",
+      "side": "west",
+      "sample_cm": [
+        -3761.701904296875,
+        -3532.399658203125,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3765.652099609375,
+          -3532.402099609375,
+          89.46160888671875
+        ],
+        "label": "FA26_PH02_Trainer_056",
+        "actor": "StaticMeshActor_2019"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH12_G_ATHLETICS_SW_NorthBand",
+      "side": "east",
+      "sample_cm": [
+        -3427.992431640625,
+        -3532.399658203125,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3426.6337890625,
+          -3519.99169921875,
+          80.0
+        ],
+        "label": "FA26_PH12_G127_NorthBand",
+        "actor": "StaticMeshActor_2021"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH12_G_ATHLETICS_SW_NorthBand",
+      "side": "north",
+      "sample_cm": [
+        -3594.84716796875,
+        -3476.95166015625,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3606.234851151219,
+          -3476.951193631501,
+          67.20028991699218
+        ],
+        "label": "R25_NATIVE_RE12_G_ATHLETICS_SW_WorkChair",
+        "actor": "StaticMeshActor_1464"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH12_G_ATHLETICS_SW_NorthBand",
+      "side": "south",
+      "sample_cm": [
+        -3594.84716796875,
+        -3587.84765625,
+        90
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3594.8017578125,
+          -3587.882568359375,
+          42.50001907348633
+        ],
+        "label": "R25_G_ATHLETICS_NE_Furniture",
+        "actor": "StaticMeshActor_1517"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH12_U203_SinkCounter",
+      "side": "west",
+      "sample_cm": [
+        -803.8657836914062,
+        -593.3674926757812,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -803.8657836914062,
+          -609.1258544921875,
+          540.593505859375
+        ],
+        "label": "Architecture_Upper_08_10",
+        "actor": "StaticMeshActor_58"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH12_U203_SinkCounter",
+      "side": "east",
+      "sample_cm": [
+        -508.686767578125,
+        -593.3674926757812,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -508.686767578125,
+          -568.510498046875,
+          537.605712890625
+        ],
+        "label": "Architecture_Upper_09_10",
+        "actor": "StaticMeshActor_62"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH12_U203_SinkCounter",
+      "side": "north",
+      "sample_cm": [
+        -656.2762756347656,
+        -530.8884887695312,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -656.2762451171875,
+          -550.510498046875,
+          540.593505859375
+        ],
+        "label": "Architecture_Upper_09_10",
+        "actor": "StaticMeshActor_62"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH12_U203_SinkCounter",
+      "side": "south",
+      "sample_cm": [
+        -656.2762756347656,
+        -655.8464965820312,
+        516.72
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_001",
+      "side": "west",
+      "sample_cm": [
+        -4545.9306640625,
+        -2852.9910888671875,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4543.513671875,
+          -2852.9912109375,
+          540.593505859375
+        ],
+        "label": "Architecture_Upper_04_13",
+        "actor": "StaticMeshActor_44"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_001",
+      "side": "east",
+      "sample_cm": [
+        -4408.32177734375,
+        -2852.9910888671875,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4404.31787109375,
+          -2852.804931640625,
+          462.8039245605469
+        ],
+        "label": "FA26_PH02_Fitness218_002",
+        "actor": "StaticMeshActor_2026"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_001",
+      "side": "north",
+      "sample_cm": [
+        -4477.126220703125,
+        -2761.502685546875,
+        516.72
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_001",
+      "side": "south",
+      "sample_cm": [
+        -4477.126220703125,
+        -2944.4794921875,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4477.1259765625,
+          -2944.91259765625,
+          516.7200317382812
+        ],
+        "label": "Architecture_Upper_04_13",
+        "actor": "StaticMeshActor_44"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_002",
+      "side": "west",
+      "sample_cm": [
+        -4453.7109375,
+        -2852.991455078125,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4457.71435546875,
+          -2852.8046875,
+          462.8039245605469
+        ],
+        "label": "FA26_PH02_Fitness218_001",
+        "actor": "StaticMeshActor_2025"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_002",
+      "side": "east",
+      "sample_cm": [
+        -4316.10205078125,
+        -2852.991455078125,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4322.9921875,
+          -2873.76220703125,
+          460.5622863769531
+        ],
+        "label": "R25_U218_Furniture",
+        "actor": "StaticMeshActor_1510"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_002",
+      "side": "north",
+      "sample_cm": [
+        -4384.906494140625,
+        -2761.503173828125,
+        516.72
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_002",
+      "side": "south",
+      "sample_cm": [
+        -4384.906494140625,
+        -2944.479736328125,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4384.90625,
+          -2944.91259765625,
+          516.7200317382812
+        ],
+        "label": "Architecture_Upper_04_13",
+        "actor": "StaticMeshActor_44"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_019",
+      "side": "west",
+      "sample_cm": [
+        -4539.77490234375,
+        -2627.5992431640625,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4543.513671875,
+          -2627.59912109375,
+          503.42938232421875
+        ],
+        "label": "Architecture_Upper_04_13",
+        "actor": "StaticMeshActor_44"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_019",
+      "side": "east",
+      "sample_cm": [
+        -4357.45849609375,
+        -2627.5992431640625,
+        516.72
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_019",
+      "side": "north",
+      "sample_cm": [
+        -4448.61669921875,
+        -2559.318603515625,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4448.8828125,
+          -2553.299560546875,
+          462.803955078125
+        ],
+        "label": "FA26_PH02_Fitness218_020",
+        "actor": "StaticMeshActor_2028"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_019",
+      "side": "south",
+      "sample_cm": [
+        -4448.61669921875,
+        -2695.8798828125,
+        516.72
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_020",
+      "side": "west",
+      "sample_cm": [
+        -4539.77490234375,
+        -2534.2408447265625,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4543.513671875,
+          -2534.24072265625,
+          492.38323974609375
+        ],
+        "label": "Architecture_Upper_04_13",
+        "actor": "StaticMeshActor_44"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_020",
+      "side": "east",
+      "sample_cm": [
+        -4357.45849609375,
+        -2534.2408447265625,
+        516.72
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_020",
+      "side": "north",
+      "sample_cm": [
+        -4448.61669921875,
+        -2465.960205078125,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4448.8828125,
+          -2461.080078125,
+          462.8039245605469
+        ],
+        "label": "FA26_PH02_Fitness218_021",
+        "actor": "StaticMeshActor_2029"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_020",
+      "side": "south",
+      "sample_cm": [
+        -4448.61669921875,
+        -2602.521484375,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4448.8828125,
+          -2608.54052734375,
+          462.803955078125
+        ],
+        "label": "FA26_PH02_Fitness218_019",
+        "actor": "StaticMeshActor_2027"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_021",
+      "side": "west",
+      "sample_cm": [
+        -4539.77490234375,
+        -2442.0213623046875,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4543.513671875,
+          -2442.021484375,
+          492.3832702636719
+        ],
+        "label": "Architecture_Upper_04_13",
+        "actor": "StaticMeshActor_44"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_021",
+      "side": "east",
+      "sample_cm": [
+        -4357.45849609375,
+        -2442.0213623046875,
+        516.72
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_021",
+      "side": "north",
+      "sample_cm": [
+        -4448.61669921875,
+        -2373.74072265625,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4448.8828125,
+          -2369.9990234375,
+          462.8039245605469
+        ],
+        "label": "FA26_PH02_Fitness218_022",
+        "actor": "StaticMeshActor_2030"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_021",
+      "side": "south",
+      "sample_cm": [
+        -4448.61669921875,
+        -2510.302001953125,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4448.8828125,
+          -2515.182373046875,
+          462.8039245605469
+        ],
+        "label": "FA26_PH02_Fitness218_020",
+        "actor": "StaticMeshActor_2028"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_022",
+      "side": "west",
+      "sample_cm": [
+        -4539.77490234375,
+        -2350.9403076171875,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4543.513671875,
+          -2350.9404296875,
+          492.3832702636719
+        ],
+        "label": "Architecture_Upper_04_13",
+        "actor": "StaticMeshActor_44"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_022",
+      "side": "east",
+      "sample_cm": [
+        -4357.45849609375,
+        -2350.9403076171875,
+        516.72
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_022",
+      "side": "north",
+      "sample_cm": [
+        -4448.61669921875,
+        -2282.65966796875,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4448.8828125,
+          -2276.640869140625,
+          462.8039245605469
+        ],
+        "label": "FA26_PH02_Fitness218_023",
+        "actor": "StaticMeshActor_2031"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_022",
+      "side": "south",
+      "sample_cm": [
+        -4448.61669921875,
+        -2419.220947265625,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4448.8828125,
+          -2422.962646484375,
+          462.8039245605469
+        ],
+        "label": "FA26_PH02_Fitness218_021",
+        "actor": "StaticMeshActor_2029"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_023",
+      "side": "west",
+      "sample_cm": [
+        -4539.77490234375,
+        -2257.5823974609375,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4543.513671875,
+          -2257.58251953125,
+          540.593505859375
+        ],
+        "label": "R25_Architecture_Upper_04_12",
+        "actor": "StaticMeshActor_1484"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_023",
+      "side": "east",
+      "sample_cm": [
+        -4357.45849609375,
+        -2257.5823974609375,
+        516.72
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_023",
+      "side": "north",
+      "sample_cm": [
+        -4448.61669921875,
+        -2189.3017578125,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4448.8828125,
+          -2185.559814453125,
+          462.803955078125
+        ],
+        "label": "FA26_PH02_Fitness218_024",
+        "actor": "StaticMeshActor_2032"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_023",
+      "side": "south",
+      "sample_cm": [
+        -4448.61669921875,
+        -2325.863037109375,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4448.8828125,
+          -2331.8818359375,
+          462.8039245605469
+        ],
+        "label": "FA26_PH02_Fitness218_022",
+        "actor": "StaticMeshActor_2030"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_024",
+      "side": "west",
+      "sample_cm": [
+        -4539.77490234375,
+        -2166.5013427734375,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4543.513671875,
+          -2166.50146484375,
+          540.593505859375
+        ],
+        "label": "R25_Architecture_Upper_04_12",
+        "actor": "StaticMeshActor_1484"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_024",
+      "side": "east",
+      "sample_cm": [
+        -4357.45849609375,
+        -2166.5013427734375,
+        516.72
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_024",
+      "side": "north",
+      "sample_cm": [
+        -4448.61669921875,
+        -2098.220703125,
+        516.72
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_024",
+      "side": "south",
+      "sample_cm": [
+        -4448.61669921875,
+        -2234.781982421875,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -4448.8828125,
+          -2238.523681640625,
+          462.8039245605469
+        ],
+        "label": "FA26_PH02_Fitness218_023",
+        "actor": "StaticMeshActor_2031"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_025",
+      "side": "west",
+      "sample_cm": [
+        -3971.728759765625,
+        -2467.0687255859375,
+        516.72
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_025",
+      "side": "east",
+      "sample_cm": [
+        -3830.347900390625,
+        -2467.0687255859375,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3830.347900390625,
+          -2467.068603515625,
+          559.650146484375
+        ],
+        "label": "FA26_PH02_Fitness218_026",
+        "actor": "StaticMeshActor_2034"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_025",
+      "side": "north",
+      "sample_cm": [
+        -3901.038330078125,
+        -2395.922607421875,
+        516.72
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_025",
+      "side": "south",
+      "sample_cm": [
+        -3901.038330078125,
+        -2538.21484375,
+        516.72
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_026",
+      "side": "west",
+      "sample_cm": [
+        -3885.201904296875,
+        -2467.0687255859375,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3885.201904296875,
+          -2467.068603515625,
+          559.650146484375
+        ],
+        "label": "FA26_PH02_Fitness218_025",
+        "actor": "StaticMeshActor_2033"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_026",
+      "side": "east",
+      "sample_cm": [
+        -3743.821044921875,
+        -2467.0687255859375,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3743.6279296875,
+          -2467.06884765625,
+          440.7208251953125
+        ],
+        "label": "FA26_PH02_Fitness218_027",
+        "actor": "StaticMeshActor_2035"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_026",
+      "side": "north",
+      "sample_cm": [
+        -3814.511474609375,
+        -2395.922607421875,
+        516.72
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_026",
+      "side": "south",
+      "sample_cm": [
+        -3814.511474609375,
+        -2538.21484375,
+        516.72
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_027",
+      "side": "west",
+      "sample_cm": [
+        -3784.20849609375,
+        -2458.5299072265625,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3795.410888671875,
+          -2460.862548828125,
+          517.7199096679688
+        ],
+        "label": "FA26_PH02_Fitness218_026",
+        "actor": "StaticMeshActor_2034"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_027",
+      "side": "east",
+      "sample_cm": [
+        -3520.338623046875,
+        -2458.5299072265625,
+        516.72
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_027",
+      "side": "north",
+      "sample_cm": [
+        -3652.2735595703125,
+        -2373.64404296875,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3650.91455078125,
+          -2373.0625,
+          547.7265014648438
+        ],
+        "label": "FA26_PH02_Fitness218_029",
+        "actor": "StaticMeshActor_2036"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_027",
+      "side": "south",
+      "sample_cm": [
+        -3652.2735595703125,
+        -2543.415771484375,
+        516.72
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_029",
+      "side": "west",
+      "sample_cm": [
+        -3786.0869140625,
+        -2317.3541259765625,
+        516.72
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_029",
+      "side": "east",
+      "sample_cm": [
+        -3593.60205078125,
+        -2317.3541259765625,
+        516.72
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_029",
+      "side": "north",
+      "sample_cm": [
+        -3689.844482421875,
+        -2202.183837890625,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3689.844482421875,
+          -2179.69677734375,
+          537.005126953125
+        ],
+        "label": "FA26_PH02_Fitness218_030",
+        "actor": "StaticMeshActor_2037"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_029",
+      "side": "south",
+      "sample_cm": [
+        -3689.844482421875,
+        -2432.5244140625,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3693.206787109375,
+          -2432.52392578125,
+          486.2201843261719
+        ],
+        "label": "FA26_PH02_Fitness218_027",
+        "actor": "StaticMeshActor_2035"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_030",
+      "side": "west",
+      "sample_cm": [
+        -3786.030029296875,
+        -2167.070556640625,
+        516.72
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_030",
+      "side": "east",
+      "sample_cm": [
+        -3591.381591796875,
+        -2167.070556640625,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3591.381591796875,
+          -2170.302734375,
+          553.719970703125
+        ],
+        "label": "FA26_PH02_Fitness218_031",
+        "actor": "StaticMeshActor_2038"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_030",
+      "side": "north",
+      "sample_cm": [
+        -3688.705810546875,
+        -2074.613525390625,
+        516.72
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_030",
+      "side": "south",
+      "sample_cm": [
+        -3688.705810546875,
+        -2259.527587890625,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3688.705810546875,
+          -2255.46142578125,
+          486.219970703125
+        ],
+        "label": "FA26_PH02_Fitness218_029",
+        "actor": "StaticMeshActor_2036"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_031",
+      "side": "west",
+      "sample_cm": [
+        -3641.560302734375,
+        -2147.7156982421875,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3655.64111328125,
+          -2147.709228515625,
+          544.7500610351562
+        ],
+        "label": "FA26_PH02_Fitness218_030",
+        "actor": "StaticMeshActor_2037"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_031",
+      "side": "east",
+      "sample_cm": [
+        -3500.179443359375,
+        -2147.7156982421875,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3500.15966796875,
+          -2147.724365234375,
+          557.74072265625
+        ],
+        "label": "FA26_PH02_Fitness218_032",
+        "actor": "StaticMeshActor_2039"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_031",
+      "side": "north",
+      "sample_cm": [
+        -3570.869873046875,
+        -2077.025146484375,
+        516.72
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_031",
+      "side": "south",
+      "sample_cm": [
+        -3570.869873046875,
+        -2218.40625,
+        516.72
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_032",
+      "side": "west",
+      "sample_cm": [
+        -3557.08251953125,
+        -2147.1466064453125,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3556.76708984375,
+          -2147.096435546875,
+          557.5189208984375
+        ],
+        "label": "FA26_PH02_Fitness218_031",
+        "actor": "StaticMeshActor_2038"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_032",
+      "side": "east",
+      "sample_cm": [
+        -3413.8798828125,
+        -2147.1466064453125,
+        516.72
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_032",
+      "side": "north",
+      "sample_cm": [
+        -3485.481201171875,
+        -2076.00048828125,
+        516.72
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_032",
+      "side": "south",
+      "sample_cm": [
+        -3485.481201171875,
+        -2218.292724609375,
+        516.72
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_033",
+      "side": "west",
+      "sample_cm": [
+        -3331.080078125,
+        -2579.7816162109375,
+        516.72
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_033",
+      "side": "east",
+      "sample_cm": [
+        -3110.473876953125,
+        -2579.7816162109375,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3107.089111328125,
+          -2572.142578125,
+          506.719970703125
+        ],
+        "label": "FA26_PH02_Fitness218_034",
+        "actor": "StaticMeshActor_2041"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_033",
+      "side": "north",
+      "sample_cm": [
+        -3220.7769775390625,
+        -2519.88037109375,
+        516.72
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_033",
+      "side": "south",
+      "sample_cm": [
+        -3220.7769775390625,
+        -2639.682861328125,
+        516.72
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_034",
+      "side": "west",
+      "sample_cm": [
+        -3177.66552734375,
+        -2579.497802734375,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3180.77294921875,
+          -2590.791259765625,
+          500.46990966796875
+        ],
+        "label": "FA26_PH02_Fitness218_033",
+        "actor": "StaticMeshActor_2040"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_034",
+      "side": "east",
+      "sample_cm": [
+        -3002.0302734375,
+        -2579.497802734375,
+        516.72
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_034",
+      "side": "north",
+      "sample_cm": [
+        -3089.847900390625,
+        -2517.582275390625,
+        516.72
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_034",
+      "side": "south",
+      "sample_cm": [
+        -3089.847900390625,
+        -2641.413330078125,
+        516.72
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_040",
+      "side": "west",
+      "sample_cm": [
+        -2687.13623046875,
+        -1934.2445068359375,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -2685.42138671875,
+          -1934.2445068359375,
+          522.0174560546875
+        ],
+        "label": "Doors_Upper_06_12",
+        "actor": "StaticMeshActor_109"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "door_nearby_sample_actual_walking_checked_separately"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_040",
+      "side": "east",
+      "sample_cm": [
+        -2562.5927734375,
+        -1934.2445068359375,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -2561.248291015625,
+          -1934.2445068359375,
+          517.6705932617188
+        ],
+        "label": "Architecture_Upper_06_12",
+        "actor": "StaticMeshActor_51"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_040",
+      "side": "north",
+      "sample_cm": [
+        -2624.864501953125,
+        -1869.106201171875,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -2624.864501953125,
+          -1877.349609375,
+          540.593505859375
+        ],
+        "label": "Architecture_Upper_06_12",
+        "actor": "StaticMeshActor_51"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_040",
+      "side": "south",
+      "sample_cm": [
+        -2624.864501953125,
+        -1999.3828125,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -2601.5283203125,
+          -1999.38818359375,
+          492.4189758300781
+        ],
+        "label": "R25_U218_Furniture",
+        "actor": "StaticMeshActor_1510"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_043",
+      "side": "west",
+      "sample_cm": [
+        -3687.235595703125,
+        -1924.5671997070312,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3687.235595703125,
+          -1895.3497314453125,
+          540.593505859375
+        ],
+        "label": "Architecture_Upper_05_12",
+        "actor": "StaticMeshActor_47"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_043",
+      "side": "east",
+      "sample_cm": [
+        -3459.05810546875,
+        -1924.5671997070312,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3459.05810546875,
+          -1895.3497314453125,
+          540.593505859375
+        ],
+        "label": "Architecture_Upper_05_12",
+        "actor": "StaticMeshActor_47"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_043",
+      "side": "north",
+      "sample_cm": [
+        -3573.1468505859375,
+        -1861.0,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3563.23779296875,
+          -1852.734130859375,
+          469.33587646484375
+        ],
+        "label": "R25_Equipment_Upper_05_12",
+        "actor": "StaticMeshActor_1499"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_043",
+      "side": "south",
+      "sample_cm": [
+        -3573.1468505859375,
+        -1988.1343994140625,
+        516.72
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_044",
+      "side": "west",
+      "sample_cm": [
+        -3330.22607421875,
+        -1908.6281127929688,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3321.48583984375,
+          -1889.849609375,
+          539.1237182617188
+        ],
+        "label": "Architecture_Upper_05_12",
+        "actor": "StaticMeshActor_47"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_044",
+      "side": "east",
+      "sample_cm": [
+        -3185.3310546875,
+        -1908.6281127929688,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3190.951904296875,
+          -1908.6624755859375,
+          501.5074462890625
+        ],
+        "label": "FA26_PH10_Fitness218_057",
+        "actor": "StaticMeshActor_2046"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_044",
+      "side": "north",
+      "sample_cm": [
+        -3257.778564453125,
+        -1854.3966064453125,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3257.778564453125,
+          -1885.1495361328125,
+          539.1237182617188
+        ],
+        "label": "Architecture_Upper_05_12",
+        "actor": "StaticMeshActor_47"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_044",
+      "side": "south",
+      "sample_cm": [
+        -3257.778564453125,
+        -1962.859619140625,
+        516.72
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_045",
+      "side": "west",
+      "sample_cm": [
+        -3170.83447265625,
+        -1908.6281127929688,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3170.564453125,
+          -1908.6376953125,
+          500.8198547363281
+        ],
+        "label": "FA26_PH10_Fitness218_057",
+        "actor": "StaticMeshActor_2046"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_045",
+      "side": "east",
+      "sample_cm": [
+        -2991.783935546875,
+        -1908.6281127929688,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -2991.783935546875,
+          -1895.3497314453125,
+          540.593505859375
+        ],
+        "label": "Architecture_Upper_06_12",
+        "actor": "StaticMeshActor_51"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_045",
+      "side": "north",
+      "sample_cm": [
+        -3081.3092041015625,
+        -1854.3966064453125,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3069.314697265625,
+          -1877.349609375,
+          540.593505859375
+        ],
+        "label": "Architecture_Upper_06_12",
+        "actor": "StaticMeshActor_51"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH02_Fitness218_045",
+      "side": "south",
+      "sample_cm": [
+        -3081.3092041015625,
+        -1962.859619140625,
+        516.72
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH10_Fitness218_057",
+      "side": "west",
+      "sample_cm": [
+        -3263.05419921875,
+        -1911.8638916015625,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3263.667236328125,
+          -1912.17626953125,
+          503.69122314453125
+        ],
+        "label": "FA26_PH02_Fitness218_044",
+        "actor": "StaticMeshActor_2044"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH10_Fitness218_057",
+      "side": "east",
+      "sample_cm": [
+        -3098.690185546875,
+        -1911.8638916015625,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3098.6904296875,
+          -1919.116943359375,
+          521.69482421875
+        ],
+        "label": "FA26_PH02_Fitness218_045",
+        "actor": "StaticMeshActor_2045"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides"
+    },
+    {
+      "id": "FA26_PH10_Fitness218_057",
+      "side": "north",
+      "sample_cm": [
+        -3180.8721923828125,
+        -1862.65087890625,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -3190.150146484375,
+          -1882.8497314453125,
+          539.1237182617188
+        ],
+        "label": "Architecture_Upper_06_12",
+        "actor": "StaticMeshActor_51"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH10_Fitness218_057",
+      "side": "south",
+      "sample_cm": [
+        -3180.8721923828125,
+        -1961.076904296875,
+        516.72
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH10_Fitness218_058",
+      "side": "west",
+      "sample_cm": [
+        -2699.995361328125,
+        -2648.7755126953125,
+        516.72
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    },
+    {
+      "id": "FA26_PH10_Fitness218_058",
+      "side": "east",
+      "sample_cm": [
+        -2577.314697265625,
+        -2648.7755126953125,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -2584.256591796875,
+          -2648.775390625,
+          512.6007080078125
+        ],
+        "label": "Architecture_Upper_06_12",
+        "actor": "StaticMeshActor_51"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH10_Fitness218_058",
+      "side": "north",
+      "sample_cm": [
+        -2638.655029296875,
+        -2587.43505859375,
+        516.72
+      ],
+      "hit": {
+        "blocking": true,
+        "point_cm": [
+          -2638.655029296875,
+          -2585.480224609375,
+          495.4061279296875
+        ],
+        "label": "R25_U218_Furniture",
+        "actor": "StaticMeshActor_1510"
+      },
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "retained_wall_or_furniture_contact_not_a_new_penetration_proof"
+    },
+    {
+      "id": "FA26_PH10_Fitness218_058",
+      "side": "south",
+      "sample_cm": [
+        -2638.655029296875,
+        -2710.115966796875,
+        516.72
+      ],
+      "hit": null,
+      "interpretation": "Side-space diagnostic, not a requirement for access on every side or a regulatory clearance.",
+      "classification": "clear_sample"
+    }
+  ],
+  "classification_counts": {
+    "clear_sample": 109,
+    "adjacent_asset_side_space_contact_requires_selected_approach_not_all_sides": 86,
+    "retained_wall_or_furniture_contact_not_a_new_penetration_proof": 73,
+    "intentional_integrated_counter_sink_appliance_contact": 3,
+    "door_nearby_sample_actual_walking_checked_separately": 1
+  },
+  "positive_group_envelopes": [
+    {
+      "a": "FA26_PH10_Trainer_059",
+      "b": "FA26_PH10_Trainer_060",
+      "envelope_overlap_cm": [
+        42.244140625,
+        48.1123046875,
+        91.25000143051147
+      ],
+      "circular_seat_gap_cm": null,
+      "interpretation": "Deliberate sink/undercounter appliance inside first-aid counter envelope; counter has modeled top cutout, not a filled box. Component envelopes are not solid-intersection evidence."
+    },
+    {
+      "a": "FA26_PH10_Trainer_059",
+      "b": "FA26_PH10_Trainer_061",
+      "envelope_overlap_cm": [
+        48.873046875,
+        56.9638671875,
+        85.99999997913838
+      ],
+      "circular_seat_gap_cm": null,
+      "interpretation": "Deliberate sink/undercounter appliance inside first-aid counter envelope; counter has modeled top cutout, not a filled box. Component envelopes are not solid-intersection evidence."
+    },
+    {
+      "a": "FA26_PH24_Trainer_StoolLike_1",
+      "b": "FA26_PH24_Trainer_StoolLike_2",
+      "envelope_overlap_cm": [
+        5.0693359375,
+        8.041259765625,
+        49.999996185302734
+      ],
+      "circular_seat_gap_cm": 8.559859178494165,
+      "interpretation": "Round stool envelopes overlap only at box corners; circular seat separation measured below. No relocation to hide a shell conflict."
+    }
+  ],
+  "all_four_samples_blocked": [
+    "FA26_PH02_Trainer_048",
+    "FA26_PH02_Trainer_049",
+    "FA26_PH10_Trainer_059",
+    "FA26_PH10_Trainer_060",
+    "FA26_PH10_Trainer_061",
+    "FA26_PH12_G127_NorthBand",
+    "FA26_PH12_AthleticsNE_WestBand",
+    "FA26_PH12_G_ATHLETICS_SW_NorthBand",
+    "FA26_PH02_Fitness218_040"
+  ],
+  "scope": "272 broad side capsules are diagnostics, not 272 clearance requirements. No new inter-item group-envelope overlap beyond integrated counter and separated circular stools. Adjacent crowded layouts and wall-mounted racks retain source/estimated footprint placements; product-use and regulatory clearances remain uncertified. Actual configured doorway walking 11/12 equals baseline; the Research offset failure is inherited. No new global nav tuning or architecture resizing."
+}

@@ -1,0 +1,677 @@
+[
+  {
+    "file": "all-copied-baseline-byte-proof.json",
+    "bytes": 1774409,
+    "sha256": "18949c17997749cb070189dd235de5e44821fab43654c45cdf4a5eb9d45d7f16"
+  },
+  {
+    "file": "apply_fa26_consumer.py",
+    "bytes": 3135,
+    "sha256": "8e7d815b44ea290e2f82ff6bf3ed45d718bab0d39333e0d9576756dc4bbba97f"
+  },
+  {
+    "file": "clearance-classification-r15.json",
+    "bytes": 150206,
+    "sha256": "e6197697aeec634bc8de1cfbef116f8739246aa552a0536063115b1600afe44b"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/ART26_IMG_1758/ART26_Frame_MatteCharcoal.uasset",
+    "bytes": 5268,
+    "sha256": "e289dff7e9d4add31756ad32b7080ee87ef20a7754082e3ddd9c80e1af12e7df"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/ART26_IMG_1770/ART26_Frame_MatteCharcoal.uasset",
+    "bytes": 5268,
+    "sha256": "8947e678a198af7e9461166fdf204ae88b4975ed0cf71597daefc636326f331d"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/ART26_IMG_1820/ART26_Frame_MatteCharcoal.uasset",
+    "bytes": 5268,
+    "sha256": "e6e60b267b1fed1dbc196526b9d0ebffab3c266632ddadc8da2218294387d1b4"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/ART26_IMG_1869/ART26_Frame_MatteCharcoal.uasset",
+    "bytes": 5268,
+    "sha256": "ffcca82b6b260aa9807e7552e795102b3cf47f2d8efabb9dd1d8001ad0f8d0ea"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/ART26_IMG_2813/ART26_Frame_MatteCharcoal.uasset",
+    "bytes": 5268,
+    "sha256": "8857f0255af1d95e702d180847cb1fb9f7b5a739459f4ac79f6c506b0a1c2214"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/ART26_IMG_2813/ART26_IMG_2813_SourcePhoto.uasset",
+    "bytes": 263111,
+    "sha256": "02210443936ffb724a1919d5afc63dd56ebb3ceec98d91ff4877dca83fdd9e55"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/ART26_IMG_3037/ART26_Frame_MatteCharcoal.uasset",
+    "bytes": 5268,
+    "sha256": "87ca3e494996c80a4b0475157505662693c109453dfd5d945624381e5a971583"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/ART26_IMG_3037/ART26_IMG_3037_SourcePhoto.uasset",
+    "bytes": 340488,
+    "sha256": "97219583b4499184bf3dbbd8aa949b590c1fd2d075e08c987859b031ed6858c3"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/ART26_IMG_3248/ART26_Frame_MatteCharcoal.uasset",
+    "bytes": 5268,
+    "sha256": "e72bbbb1d94630368a335f3aac104d5fb950bf500aa3f4e5004bff188cc3b330"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/ART26_IMG_3248/ART26_IMG_3248_SourcePhoto.uasset",
+    "bytes": 467007,
+    "sha256": "2179568fdfda3f2c116781feb15dad7299e738ead10a957b5ac22e3752e3a4a6"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/ART26_IMG_3260/ART26_Frame_MatteCharcoal.uasset",
+    "bytes": 5268,
+    "sha256": "16f5d80048af5bde19b5c9018e20ede59adbe1ad549f69db5a083855e4840578"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/ART26_IMG_3260/ART26_IMG_3260_SourcePhoto.uasset",
+    "bytes": 468252,
+    "sha256": "202ca0ae0db45634ab01fd5f7449e76039d35d5a8d7ae027c0eda61f94450e47"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/ART26_IMG_4122/ART26_Frame_MatteCharcoal.uasset",
+    "bytes": 5268,
+    "sha256": "532548555117fda1021b48091cb027004655ccb6351a1e9734fd56d60619e2a7"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/ART26_IMG_4122/ART26_IMG_4122_SourcePhoto.uasset",
+    "bytes": 142822,
+    "sha256": "68e5068e4be2c273c2246a8df3332505f307432978c4788f353f4d242d7cc025"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/ART26_IMG_6652/ART26_Frame_MatteCharcoal.uasset",
+    "bytes": 5268,
+    "sha256": "07f29d33906710589faf0535a2d5db69c4a5af4791364932382fdd46ffe0ec4a"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/ART26_IMG_6652/ART26_IMG_6652_SourcePhoto.uasset",
+    "bytes": 516120,
+    "sha256": "bac21c16c4e2af0d92122f2235cbb55a45a3a32cb8cef8fe92c64df4183fa864"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/ART26_IMG_6988/ART26_Frame_MatteCharcoal.uasset",
+    "bytes": 5268,
+    "sha256": "b0ca27b5db92ef0341fb8fcef2a8ef6b4db51844ae3a5fb51e4e235b33b4ce8b"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/ART26_IMG_6988/ART26_IMG_6988_SourcePhoto.uasset",
+    "bytes": 550882,
+    "sha256": "1c184c3892fba0ed6630584e3cf082559c44a168bdff1019c4edadc267e44bed"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/RuntimeB02/ART26_IMG_2813.uasset",
+    "bytes": 14420,
+    "sha256": "913258646587905ef563a520a290d56672cbb053fef4fc914c7d2d45165162c3"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/RuntimeB02/ART26_IMG_3037.uasset",
+    "bytes": 14420,
+    "sha256": "70d9f110de7f31322a2a151dcfab9be5938b06143436a5e705a4c4bcffc7707a"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/RuntimeB02/ART26_IMG_3248.uasset",
+    "bytes": 14412,
+    "sha256": "349b0f9f051b4e80bef14d027df3e29a0a4e4fb0e5fc897e3460467ae2eb08fd"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/RuntimeB02/ART26_IMG_3260.uasset",
+    "bytes": 14427,
+    "sha256": "a78009ef545d2b0ed64cf697774931a9eb6c7b9de443899c9edeb51f6853b8de"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/RuntimeB02/ART26_IMG_4122.uasset",
+    "bytes": 14428,
+    "sha256": "03bf6e564d89f920e9a2629ebdeb98846a1e1fa2b8c228cffff24703bddba3eb"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/RuntimeB02/ART26_IMG_6652.uasset",
+    "bytes": 14420,
+    "sha256": "2dd36a3ad6b43a90cd2aa885337f328ebe91379c1374f9a3bc3c385a430a4ea5"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/RuntimeB02/ART26_IMG_6988.uasset",
+    "bytes": 14420,
+    "sha256": "fa17189b794332e265387796af029eb18e44572149cdca1ef2b0298ac10b4bc6"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/RuntimeB04/ART26_IMG_1758.uasset",
+    "bytes": 14423,
+    "sha256": "f1bb5cbb236a6afea41210585d1619d65ed2456bee6314990704424c50c45996"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/RuntimeB04/ART26_IMG_1770.uasset",
+    "bytes": 14412,
+    "sha256": "1014e14ddf85717d91800d765ca65f3ceb16048e71094b46806e001c9e9b07a3"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/RuntimeB04/ART26_IMG_1820.uasset",
+    "bytes": 14411,
+    "sha256": "10dfa2a48a73191e4f405f6e8e1edf190f289981a49c60c098a241a034370d17"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/RuntimeB04/ART26_IMG_1869.uasset",
+    "bytes": 14412,
+    "sha256": "1470daedd89b918ca5fa29ddd054895dc2857841b9cdd7897bb56eb784a5ff32"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/RuntimeImagesR04/ART26_IMG_1758_SinglePhoto.uasset",
+    "bytes": 349292,
+    "sha256": "9b581bac571c43872a9482010c50b89b6ba3f80866d9b26b9d78362a44535f35"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/RuntimeImagesR04/ART26_IMG_1770_SinglePhoto.uasset",
+    "bytes": 347495,
+    "sha256": "2340be65dc428a79d13242bb133a8a9ccd659cdb3455a6a09bf5111579f8e27b"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/RuntimeImagesR04/ART26_IMG_1820_SinglePhoto.uasset",
+    "bytes": 362013,
+    "sha256": "84cb539da8b210a58bca6d0c7191f2ac58cf685af71fd2fb1c2a5b04a1d19009"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/RuntimeImagesR04/ART26_IMG_1869_SinglePhoto.uasset",
+    "bytes": 360237,
+    "sha256": "0f3579dd211b37775e54059e8ce14a5b2f8b398c7e3a421601c0a92ce95905a7"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/RuntimeMaterialsR02/ART26_IMG_2813_Photo.uasset",
+    "bytes": 5509,
+    "sha256": "41a5451d61180aca0a96d5e3dd07060cf4097500d24510ebed49784fbe59c9b1"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/RuntimeMaterialsR02/ART26_IMG_3037_Photo.uasset",
+    "bytes": 5509,
+    "sha256": "3daf5019ab4cf8238c7e089b52a4efd1981786200ca761936c5f0e5ed48b04df"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/RuntimeMaterialsR02/ART26_IMG_3248_Photo.uasset",
+    "bytes": 5509,
+    "sha256": "1bf06cea43a2fdb4180a85eb0d3d6c701c94feaf66daa56224c371984277642d"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/RuntimeMaterialsR02/ART26_IMG_3260_Photo.uasset",
+    "bytes": 5509,
+    "sha256": "ce7fe44ed3311eabe9549a29e00fe39eb1d1883d4900f0f04a3a2739b8103b94"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/RuntimeMaterialsR02/ART26_IMG_4122_Photo.uasset",
+    "bytes": 5509,
+    "sha256": "405ef65d737af2c4b32c77764628a3b420a9aefe33806c78c18fbecb75e92a32"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/RuntimeMaterialsR02/ART26_IMG_6652_Photo.uasset",
+    "bytes": 5509,
+    "sha256": "cccd02aabf7e4692047dc62c132a27fc2543cd049996e4b725c6f123cf6fd3ad"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/RuntimeMaterialsR02/ART26_IMG_6988_Photo.uasset",
+    "bytes": 5509,
+    "sha256": "b22f30474c2c28f8a00cff565af65a4b2fad99da55512d7c497f5e65d0658b37"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/RuntimeMaterialsR04/ART26_IMG_1758_Photo.uasset",
+    "bytes": 5511,
+    "sha256": "00741779583b108f7ad2ad51f6825d0cd496823034c8f47ee42b940b3ccdd5b6"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/RuntimeMaterialsR04/ART26_IMG_1770_Photo.uasset",
+    "bytes": 5511,
+    "sha256": "3de84e377ee43f65df02185ad6530064263a7d9cfaabb9ed3a1a533d44b0013d"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/RuntimeMaterialsR04/ART26_IMG_1820_Photo.uasset",
+    "bytes": 5511,
+    "sha256": "410100a7af330cd62e79395fcbd928865383e3c08f9549fd8906f9170f91c1be"
+  },
+  {
+    "file": "Content/Campus/ArtworkART26R01/RuntimeMaterialsR04/ART26_IMG_1869_Photo.uasset",
+    "bytes": 5511,
+    "sha256": "d4a1cc30c5d7e7e6976e36f8e4526f6703d628cd1d51ff0a7b1c563fc2d225e2"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/CompatR03/1001_6c8f94f7.uasset",
+    "bytes": 76657,
+    "sha256": "75d00e826b57ef34c439be83fd34f3b1a51e6245a03a914b1eff9d0e69b0581b"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/CompatR03/1002_fc7c37fd.uasset",
+    "bytes": 77545,
+    "sha256": "5912b2fc37e3764ffb1bf120f91042922a93b78f7b23390e29c187a421deab42"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/CompatR03/1003_cdab23e1.uasset",
+    "bytes": 77545,
+    "sha256": "8974f8943d7eb1ba32d3514df0f2f2a4f8965ae8b54e0f8b5dc5f16a00982ab4"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/CompatR03/1004_ac99f0f6.uasset",
+    "bytes": 77471,
+    "sha256": "df8148272a21ce7280e15e9b40ec1a1ab66ace29945384cc6465f8dbd92f6452"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/CompatR03/1005_17ab5885.uasset",
+    "bytes": 77509,
+    "sha256": "99e16954bded6cfc9b91cd5c66ef6548281848d9b8df9de246e619152ac1e8a2"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/CompatR03/1006_d2d58c6f.uasset",
+    "bytes": 77545,
+    "sha256": "026c911b40199726d7afa1040d181475e715026facddefaa63760d353e8187a9"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/CompatR03/M_Bleacher_Aluminum_2ea982b1.uasset",
+    "bytes": 5641,
+    "sha256": "39d53ec7221de9399fa44ec0764c3d7b7c06d344ef91d6219161ba646fc413cc"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/CompatR03/M_Bleacher_Frame_004473f9.uasset",
+    "bytes": 5626,
+    "sha256": "cddf9d831e5cabc7a4f13333ffa22de2137db81bd3f237d2d77eaaa1875fe460"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/CompatR03/M_Bleacher_Navy_8e62597f.uasset",
+    "bytes": 5621,
+    "sha256": "7bcb0f4f569ec7fcb43a3ec8d4892f87087eb0096fa2d366702c4e5dca14378b"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/CompatR03/M_Default_54bd2060.uasset",
+    "bytes": 86745,
+    "sha256": "446f9de0e0e0ac844dcfe614d84caf9e25bb21816cee4066859fa5d6dbfa6812"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/CompatR03/MI_Default_Opaque_DS_a53f40f3.uasset",
+    "bytes": 5223,
+    "sha256": "4207cb70c38f32a16d6bc97bf9402d9e73b5918f9d854babd725029b70eb116b"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/CompatR03/V8_plain_light_table_surface_47688cfd.uasset",
+    "bytes": 64890,
+    "sha256": "44c76b3b5dadc26e5de3bda4331337fdd3c149811364626357cf2c08c4876417"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/CompatR03/V8_plain_rubber_33d74d26.uasset",
+    "bytes": 64747,
+    "sha256": "4cb3572d99fdb82798cb57b1541c598ad6875ff8fad1de53d8260b9a2ff62761"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_001.uasset",
+    "bytes": 52938,
+    "sha256": "d47aea64876d48171217b11ea6eea7ac1d87d21b32b04a43b5b87d0b08ef4911"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_002.uasset",
+    "bytes": 53092,
+    "sha256": "bcdaa95bf8fe8e5b509641490b41054b98fd33b433535100d3c93d2f1764b6b1"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_019.uasset",
+    "bytes": 53149,
+    "sha256": "be971b688ad57cd184900bef71191b8446046fca7a7e807f9569df04cf0bd869"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_020.uasset",
+    "bytes": 53123,
+    "sha256": "28335f553501c699449f33f57cf6b2aa970a876496fdfbc4781b9e62597482fa"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_021.uasset",
+    "bytes": 53059,
+    "sha256": "fa2c06594612d74d6cfd34c5cf78faa29cec87c5c258c5143d0ad0a4b8deb1c6"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_022.uasset",
+    "bytes": 53060,
+    "sha256": "9de30657fb8a6e1b9df5e25db42b25ca290e7640e0c34b72dd16a2e74b061218"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_023.uasset",
+    "bytes": 53050,
+    "sha256": "6537f16d7173275ea1e9fe8e7fb409ab79e7adda3216a5695561e3a2816df919"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_024.uasset",
+    "bytes": 51393,
+    "sha256": "c2bdba580e7c5fddcb5fb5934cbc4b179048119ed09cccd3c85d4c243fae6fa2"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_025.uasset",
+    "bytes": 53294,
+    "sha256": "dafc0f86e6e06c4f6aaf623b07944d0576f19e10f3daff902aa9a384f21fc103"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_026.uasset",
+    "bytes": 53224,
+    "sha256": "eeb00cb6b35070d0f6f07da4911d2fddb12657815b1f7f167d464c2d697ec5a3"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_027.uasset",
+    "bytes": 40806,
+    "sha256": "1912f88643257c6d0683b2aec7142f4778d6c10ca585e97e7a2bcdd99bbf1317"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_029.uasset",
+    "bytes": 46142,
+    "sha256": "31fe1640250b4e7680e058271031e8fd85cab251e67915f29ad348c7bbfc740d"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_030.uasset",
+    "bytes": 40995,
+    "sha256": "295bee39268879536bc2eb9a351a52a63293e026d52a45cdd83b22150e513c02"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_031.uasset",
+    "bytes": 53115,
+    "sha256": "2a54f4ab2fcf6fbad3dff8bfd29ab55dbe90643b78001a7cb568738feb72dee9"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_032.uasset",
+    "bytes": 52449,
+    "sha256": "01d81ff1d068216e3bee03f29754912723bf65acaaba458ca58b74830c56bd34"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_033.uasset",
+    "bytes": 49450,
+    "sha256": "97480719f61c75efa7830b202741d2a98d027de9d847eee58a0229cddb95e5a3"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_034.uasset",
+    "bytes": 35395,
+    "sha256": "0c692438812ad98963ee49fb57027a5790dadf9ed0219f9dc8983e5eee166da4"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_040.uasset",
+    "bytes": 49044,
+    "sha256": "8b931779a82ed73aafdb75db612b2b16cc6cc09ba223bb81823e38f431ab0767"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_043.uasset",
+    "bytes": 158559,
+    "sha256": "e037d6e3a85e5e99715ce20c613e902618e993bfc3c6c30ecbc66f063fac1cc6"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_044.uasset",
+    "bytes": 29145,
+    "sha256": "33d6d4f95309e7f94ce2e6683ca2018797ae6978f222bb124c4ad55c048bd1a2"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_045.uasset",
+    "bytes": 29195,
+    "sha256": "928604995fc971e1eab9dc694cbd292469bd805f58ad461edb872fca057f1a04"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Trainer_046.uasset",
+    "bytes": 46035,
+    "sha256": "0ad7829b57820c68cfbd12e3f7809ee9eed7e4d5e5b0608ffbb9fb4ab1ded548"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Trainer_047.uasset",
+    "bytes": 45920,
+    "sha256": "4dc7b4d63e6badd408018b9f1d835608214ff0894485512e677f157e83067106"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Trainer_048.uasset",
+    "bytes": 39745,
+    "sha256": "8b00abc526e740881ae1dc4e0ced30ff79beef1dd13ecc8dbeac1d072ad73be0"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Trainer_049.uasset",
+    "bytes": 37752,
+    "sha256": "7d67d6d76fe17b144c927b80facfbe2a5e6612669304c09d5f496ec965b55bf0"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Trainer_050.uasset",
+    "bytes": 39828,
+    "sha256": "0041f0d6ceb7d700ba8e1d7e402623a1c9823204186ffe7afbcea46d19693f8e"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Trainer_051.uasset",
+    "bytes": 45473,
+    "sha256": "ea1d90b28ef7a9e9256b3bbd89c0c473e0075a5cab30b17e2b742c1c42ec370a"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Trainer_052.uasset",
+    "bytes": 45404,
+    "sha256": "023f4adf967aaafb84f83b9dfa8352e07566378e0175303b060e64959ccde5b1"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Trainer_053.uasset",
+    "bytes": 51086,
+    "sha256": "7fe519ff9c84f1f464a6041f6e177bf0e98960b5b90052e3069dc9d7b0b1650c"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Trainer_056.uasset",
+    "bytes": 37751,
+    "sha256": "9f7e3205d0b269efd80eaace5581eccc2a6614ed342dcac511b24e1b6e977ecf"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH10_Fitness218_057.uasset",
+    "bytes": 33957,
+    "sha256": "16c8f1b121fb4d2ca53e4256407e48d03fca8bbd902595797432137ab26b7fc3"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH10_Fitness218_058.uasset",
+    "bytes": 21858,
+    "sha256": "3f153fdc862c657dd76059c139281a31a3a784c3cc50fe71694c3b187646eb1b"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH10_Trainer_059.uasset",
+    "bytes": 27089,
+    "sha256": "e3fefcd57bb6a1fbabb0f676eaba0b2171cb4f32c3d6b1c39b989f35d2bec018"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH10_Trainer_060.uasset",
+    "bytes": 37161,
+    "sha256": "6253a83c27e061ed35765c7e3110ed19816f3ffaab5f77b14cf6e12df1e57269"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH10_Trainer_061.uasset",
+    "bytes": 25813,
+    "sha256": "e9e59778e26849d7f9bd3798a1335f202ee5a1abf77bd0eb886147c9d1ce7617"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH10_Trainer_063.uasset",
+    "bytes": 33412,
+    "sha256": "48aec815497e8c724d750548612fc635e082dbe4345a22f2c54321d85cc06819"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH11_Commons_UpperCurvedPiece_0.uasset",
+    "bytes": 19773,
+    "sha256": "bab3d1c383eb14da58e3415791cfcd461010ef66d4cc568fae7b93cc7ca5225f"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH11_Commons_UpperCurvedPiece_1.uasset",
+    "bytes": 19765,
+    "sha256": "f284cbe0273df42fde20c168882e5553478795e4fd45d0cb8dd265eedf0ee0f2"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH12_AthleticsNE_WestBand.uasset",
+    "bytes": 35315,
+    "sha256": "161be1bb4f7ffae6482be147c928154e515c0fa743a7ae79ae326b506982978d"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH12_G102_GlazingCounter.uasset",
+    "bytes": 44100,
+    "sha256": "a55bc616c098c2d383c3f07c71ac0c80e0b954f0ca0030d263d013f49382a9ba"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH12_G127_NorthBand.uasset",
+    "bytes": 35340,
+    "sha256": "fea386b12f5f969fd3fc450ed8fca46bb77df06e359ca0194b1b01a66b8fcb36"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH12_G_ATHLETICS_SW_NorthBand.uasset",
+    "bytes": 35250,
+    "sha256": "330fc18d7e1b418a6dc93ebfb3712dccfd0e6a392b6fef499fd922ffa3de17f4"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH12_U203_SinkCounter.uasset",
+    "bytes": 39375,
+    "sha256": "2701275ed3be238920f0b98e9f16eb34128f174fda6147026e4c1ac1eb040821"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G121_Bench_0.uasset",
+    "bytes": 12876,
+    "sha256": "3319fedf8f1b2dd1f5c8f7ccd5aee7c0c78d8d62f9a080fe354508edc29ff129"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G121_Bench_1.uasset",
+    "bytes": 12888,
+    "sha256": "305694cab0ec178776295adbb53cd3510aaf83d69f0f262c9df00bbc05da289c"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G121_Bench_2.uasset",
+    "bytes": 12888,
+    "sha256": "f7fff8c77e72aaf436a5949684ca33087e73452dd5791fa868aa735b214288d9"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G121_Bench_3.uasset",
+    "bytes": 12888,
+    "sha256": "c13a855536972c18d76c617f91d679b729ba877cbeffa731b796879fd002c9af"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G121_Bench_4.uasset",
+    "bytes": 12888,
+    "sha256": "dad54a4df0038eda14b7d80a1050b82c4956ff2ffaa71b3b40c150d368e06b8b"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G121_Bench_5.uasset",
+    "bytes": 12888,
+    "sha256": "6d39a626fb227b569594c7286603bb1fbd80f8c0abcd1f588ddcd2512dd6ca31"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G121_Bench_6.uasset",
+    "bytes": 12883,
+    "sha256": "550101e0c992508f650320ee4e91e4dc522b225622e8a90529d4c46becfac0ec"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G121_Bench_7.uasset",
+    "bytes": 12883,
+    "sha256": "3b00b4cfbf8ca0540f8e97217fe2092320aec4c1b888dfe789933bf5fcdc5390"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G122_Bench_0.uasset",
+    "bytes": 12888,
+    "sha256": "d2f85c939eddc06bb3010479b8e4009f8cac97960a1a383a33c376f306b88e7d"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G122_Bench_1.uasset",
+    "bytes": 12888,
+    "sha256": "0f7e19bd7416f2d5abba1343c106a667f9b1a3d7487844114b355e9dbdd3fc2a"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G122_Bench_2.uasset",
+    "bytes": 12888,
+    "sha256": "c861107c769e272e0ef857180216e4080190195fb24374149ef7ca1620fec728"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G122_Bench_3.uasset",
+    "bytes": 12888,
+    "sha256": "672953674661a2e46c7112a253228acb013c974259cceaa64f9df3ef42ea0197"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G122_Bench_4.uasset",
+    "bytes": 12888,
+    "sha256": "3e3487608da254687fdc3534c10f26fc58b5e6769e5033186a8c4dc17f9fcf98"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G122_Bench_5.uasset",
+    "bytes": 12888,
+    "sha256": "a072340fc96cdcf45b56b960b185a88fb661f9d4530647f3e0c5c1c07f15fb06"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G122_Bench_6.uasset",
+    "bytes": 12883,
+    "sha256": "a2c6e5481e57e0c153c743f399601e16f57f0894567cd1e627e231c73859ef82"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH14_G122_Bench_7.uasset",
+    "bytes": 12883,
+    "sha256": "c3d77aeeb203e4ea492f71d25137d3fcbcd0c9f09836861642346901ddceab22"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH19_G126_TrophyCase_0.uasset",
+    "bytes": 62016,
+    "sha256": "484abe058a14c132d5cb53a6462a8b405633e09e383f77c027908fde8e5166a4"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH19_G126_TrophyCase_1.uasset",
+    "bytes": 62157,
+    "sha256": "33102410370122c0a30928b05edd8f6aa4fcba82f7688feff310db77fdbd1b8a"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH24_Trainer_StoolLike_1.uasset",
+    "bytes": 29385,
+    "sha256": "9939f44871141df3bd25ce20cdfc4018e5ff4eb39e3ab3b1e337bc16a8782772"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH24_Trainer_StoolLike_2.uasset",
+    "bytes": 29436,
+    "sha256": "d53f519cfc07b4fc224fe5cd1fea3472dcd07437a8fe2285bb6bf5787dc1d431"
+  },
+  {
+    "file": "Content/Campus/FurnitureR26/RuntimeB01/FA26_PH24_Trainer_StoolLike_3.uasset",
+    "bytes": 29471,
+    "sha256": "a85cdcc312d7ba1432a9e0b2b9c1738e91a8ecc5528d53275f5d99b1996181ee"
+  },
+  {
+    "file": "manifest.json",
+    "bytes": 392495,
+    "sha256": "a311ac1bcecff89ff5e661a244c2d05441112023f095830e851de3a8973c241f"
+  },
+  {
+    "file": "native-properties-r15.json",
+    "bytes": 322446,
+    "sha256": "05872755d8165c4a4194a5281a686c0477ac30ca5d23c4f5b9ceaf714401535d"
+  },
+  {
+    "file": "original-photo-manifest.json",
+    "bytes": 8825,
+    "sha256": "3f1de3e85ec6eba24926f479edb6b906e828fe327dce46f646dd606fa30fdd97"
+  },
+  {
+    "file": "preservation-r15.json",
+    "bytes": 453256,
+    "sha256": "906657164fd056f098ecd0a74e825419ee85f966a0fa018828c4e99cdf280001"
+  },
+  {
+    "file": "README.txt",
+    "bytes": 389,
+    "sha256": "1774d237f75e3e2c205732bb5de7c16d8baf1b3949ce06dd422ed3f964d5e8c5"
+  },
+  {
+    "file": "runtime-default-material-proof.json",
+    "bytes": 59974,
+    "sha256": "2493cb59c20b4cfbaaa7bfe4e888d0b71b1bb1d789d00151c85a4fce428bb26a"
+  },
+  {
+    "file": "runtime-import-bookkeeping-proof.json",
+    "bytes": 54265,
+    "sha256": "8d1a779eb3db702d10aca0a983d3f96900be6dc2b6ada23dcf8a160a55556147"
+  },
+  {
+    "file": "source_export/Campus_Furniture_v26_Batch4.glb",
+    "bytes": 11488112,
+    "sha256": "e3511ae3bf3236de875bab364973bd8c938ffca714938656c2022d59b9b4cb61"
+  },
+  {
+    "file": "source_export/manifest.json",
+    "bytes": 161431,
+    "sha256": "d4600b02f8560675a134c86e2e07c8a90ec7f80efbf78bd44736f27f21b43fd1"
+  },
+  {
+    "file": "walking-baseline-comparison.json",
+    "bytes": 222600,
+    "sha256": "67915c76b6ed451e8d98c9382e7162ac6a6c2cbf6f2796648930a5ffaa660521"
+  },
+  {
+    "file": "walking-enhancement.json",
+    "bytes": 207327,
+    "sha256": "1634ffd88a3b65f5ea9538ba60882dcc731f9f34ac5fabf4d58e325b648da574"
+  }
+]
