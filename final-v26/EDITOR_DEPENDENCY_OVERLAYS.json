@@ -1,0 +1,3020 @@
+[
+  {
+    "consumer": "desktop",
+    "baseline_commit": "bba09634bc610e4b71586523b8d7a7b7f8586ddd",
+    "additional_project_owned_dependencies": [
+      {
+        "path": "Campus/DetailsV07/M_Nature.uasset",
+        "bytes": 9607,
+        "sha256": "ef53fcd6fb286f9bebb539fee4fe9b9414bd73e0026b1037efaf8be1bb80c4b4",
+        "baseline_sha256": "f92e511e3eb1a0b4b9fb6252499208c961183bfe5735fe5f169b56a888f9d1b4"
+      },
+      {
+        "path": "Campus/DetailsV08/Furniture_Keyboard_Tools/Materials/V08_Anodized.uasset",
+        "bytes": 64768,
+        "sha256": "dc460bc76ccc7e763ca2eb2eab17ae4c55a7de3df1d05d7afb2b670b5d667565",
+        "baseline_sha256": "3db4e32ca153d4a78cb46dc4701fe83e29d64452399aa1a4fc0423d25264e1b0"
+      },
+      {
+        "path": "Campus/DetailsV08/Furniture_Keyboard_Tools/Materials/V08_KeyLegend.uasset",
+        "bytes": 64779,
+        "sha256": "dacf18fb4b18b6cf4181593c74b7cf2a5a589c3d6a51376e5d14617ede0c281b",
+        "baseline_sha256": "42641a4a96025b304992356b6417be93c37a18010b7a02598e15406f72f7a509"
+      },
+      {
+        "path": "Campus/DetailsV08/Furniture_Keyboard_Tools/Materials/V08_Nylon.uasset",
+        "bytes": 64735,
+        "sha256": "c5743924edbfc28e18afffb25ecf7c4bc94b58b37409d7864374341278bc2e32",
+        "baseline_sha256": "72e7bb64cb9962d8baa0727fda01786066187e7aebbcf734d5d47f30bdc61d0d"
+      },
+      {
+        "path": "Campus/DetailsV08/Furniture_Keyboard_Tools/Materials/V08_PBT_0.uasset",
+        "bytes": 64731,
+        "sha256": "3ab0cff2b4c56be3da7dae076f1f4bc4646f52f3bc46ad5a486fc8a08570ed5c",
+        "baseline_sha256": "4e5374da0f957d0d472ad8ea7670ae1340a9fa25275b76f2d00464b7b2cdd0e0"
+      },
+      {
+        "path": "Campus/DetailsV08/Furniture_Keyboard_Tools/Materials/V08_PBT_1.uasset",
+        "bytes": 64731,
+        "sha256": "4691e587923220de1623577e87f31cd2af9f589bac1c81e64e9495ca85b2cd90",
+        "baseline_sha256": "d58faa4b53302485d95ce0677aa7d2444dfa448ce217a1e4b8b1fd344cba1f84"
+      },
+      {
+        "path": "Campus/DetailsV08/Furniture_Keyboard_Tools/Materials/V08_PBT_2.uasset",
+        "bytes": 64731,
+        "sha256": "b0d07c887fe4012e9cc89beae2418d88fa31822f73bbc3becff12a6405687d29",
+        "baseline_sha256": "178071c3d9c37f2e7dbcdbe83d98ecb82ab580943b347e2b3d11b60e03a2b7be"
+      },
+      {
+        "path": "Campus/DetailsV08/Furniture_Keyboard_Tools/Materials/V08_PBT_3.uasset",
+        "bytes": 64734,
+        "sha256": "5d9df359c82ec298fef17f376b69ef1251a582aa200534756038bc607668d839",
+        "baseline_sha256": "e9a573cd498d8415861b813ad0352d30b475c63500201f10d738c9fad857cc2d"
+      },
+      {
+        "path": "Campus/DetailsV08/Furniture_Keyboard_Tools/Materials/V08_PowderCoatedSteel.uasset",
+        "bytes": 64870,
+        "sha256": "389475dd754930de4687c92faf1a2f43eb90ddf2c0b274eafb5d386f970a9f26",
+        "baseline_sha256": "51d18ef9f558b0d536c2c44b2bcdb7ea162e508db8be4d631e37f802470bc8dc"
+      },
+      {
+        "path": "Campus/DetailsV08/Furniture_Keyboard_Tools/Materials/V08_Rubber.uasset",
+        "bytes": 64746,
+        "sha256": "b015f42af0c64bbd319f637dd7610a03d000123387b1f0fc1bb5eb38c344b35b",
+        "baseline_sha256": "d1078a7b7ecd4802370ec66573345bd1d6f25ef0348d12e8a1c5547a6418c520"
+      },
+      {
+        "path": "Campus/DetailsV08/Furniture_Keyboard_Tools/Materials/V08_Seam.uasset",
+        "bytes": 64724,
+        "sha256": "325311497a518b038f1a9006443cddc8eac59cc0ff821607e98b0fe4647323f7",
+        "baseline_sha256": "8378c757051304e529c3d5c6ceede8aff4675c4a5444504dc7440b186f56cd2c"
+      },
+      {
+        "path": "Campus/DetailsV08/Furniture_Keyboard_Tools/Materials/V08_Steel.uasset",
+        "bytes": 64735,
+        "sha256": "526822fa3415ba43d2574e7ccefa3c817ab0807c01519393a4f960b06c6406e0",
+        "baseline_sha256": "0495fd257056f4cf201436af4303c4cf2e15cf01956d35838c3702beda7919f0"
+      },
+      {
+        "path": "Campus/DetailsV08/Furniture_Keyboard_Tools/Materials/V08_ToolGrip.uasset",
+        "bytes": 64771,
+        "sha256": "ccc7c49f3e9a9edb1586c0994d6770d75b38141e8bd235375d5d71bdda1de522",
+        "baseline_sha256": "e134cbdd8084ab7c8d6692fb66be9d011b6ef2e82e95dfbf3f4646229cb73752"
+      },
+      {
+        "path": "Campus/DetailsV08/M_WovenChair.uasset",
+        "bytes": 6363,
+        "sha256": "15b96c0cb605627d764fb19c2157516526f3b08fc4de9d42f55cfac4599b09ff",
+        "baseline_sha256": "e6f28322ec1b28af20d4ee64ac89f237ca3d2acbdaac339b2908e63053fd197e"
+      },
+      {
+        "path": "Campus/EquipmentV06/cure/cure/Materials/cure_PBR.uasset",
+        "bytes": 70165,
+        "sha256": "c51bbd9f5e9a090abe284e6a1de1aa72d34286cb5c1589a1a342ac9fc427f8c3",
+        "baseline_sha256": "3d0da141f77ee85b800b0a899ca93d5692a21c29bb37aecaba99df99378289f9"
+      },
+      {
+        "path": "Campus/EquipmentV06/form3/form3/Materials/form3_PBR.uasset",
+        "bytes": 70241,
+        "sha256": "589445d97063e899ac75d20f346ae9ff88167d6947749bb65d580d6d430c9b43",
+        "baseline_sha256": "db8a5d99d54c78ab470041fb96ce2a7621a184b6ca09afeecec9d67209591056"
+      },
+      {
+        "path": "Campus/EquipmentV06/form4/form4/Materials/form4_PBR.uasset",
+        "bytes": 70241,
+        "sha256": "e94f8110136213026f55c6d281c8485b38a27390056f6a1af6dbbe59d2500340",
+        "baseline_sha256": "f3175f2696f0eb776ec00d407f07cd158a019c9546bde648c80bdd9d99846ca0"
+      },
+      {
+        "path": "Campus/EquipmentV06/h2d/h2d/Materials/h2d_PBR.uasset",
+        "bytes": 70071,
+        "sha256": "adfb44283b32a336572c66782a80df252c8af6fa122674a51c96b2709436240e",
+        "baseline_sha256": "01a412e959b2565c61efb5c1773d67e16ebe23b2f1ed759baff3400a053aef52"
+      },
+      {
+        "path": "Campus/EquipmentV06/pc/pc/Materials/pc_PBR.uasset",
+        "bytes": 69995,
+        "sha256": "67d67ab49bfd832f3931340cae400e94309c423327422bd813962deb935f2ced",
+        "baseline_sha256": "8b29437a7bf2d2f3cf2277f4349a5eff64f111abaa82979ebec7a1b683128af0"
+      },
+      {
+        "path": "Campus/EquipmentV06/robot/robot/Materials/BakedMaterial.uasset",
+        "bytes": 71181,
+        "sha256": "dd4f0414b371a1813355628cafca2a6c9ea64139042354d3d074366f82b40c4c",
+        "baseline_sha256": "f7b50d8da1a78cc523573ff0a19c5eb5de798912db46ec6f0db222277cef182d"
+      },
+      {
+        "path": "Campus/EquipmentV06/solder/solder/Materials/BakedMaterial.uasset",
+        "bytes": 71253,
+        "sha256": "bdfa9175fd0352413a2d8b6a033ac188577dcc919861dcfbb656c1e7cac371be",
+        "baseline_sha256": "be1c0fc7a1f1bba6ef0772c5c218a7f3c1f6da6415e8f2d5918bf4d03173d351"
+      },
+      {
+        "path": "Campus/EquipmentV06/wash/wash/Materials/wash_PBR.uasset",
+        "bytes": 70165,
+        "sha256": "8f755532f949386f9dfc99541f8d37730a5ce5addbd67ea832bd584533037669",
+        "baseline_sha256": "bfe12a07717350f6d3b83fce0460426e66a01bc5bc01ce674128f7b7f7881818"
+      },
+      {
+        "path": "Campus/ILabV05/ILab_Upgrade/Materials/ILab_AmberCover.uasset",
+        "bytes": 64639,
+        "sha256": "c5ec6dc129e2cef540295b5daaf21ec9fca6845cd88f6fe46fcdc74fc9e7631d",
+        "baseline_sha256": "b6be662723513f7ba6a894052d38731415b6ff57b208d34dadd288a2b28e26fc"
+      },
+      {
+        "path": "Campus/ILabV06/ILab_Furniture/Materials/ILab_BrushedMetal.uasset",
+        "bytes": 64685,
+        "sha256": "6a3709a95efd0955011848f50516b367566d61b301d2283df8fe14de01a6c3d2",
+        "baseline_sha256": "5aad1a2028296232c11901bf7cb5585890ed2c8d3b8a1fbe587cf67e22559227"
+      },
+      {
+        "path": "Campus/ILabV06/ILab_Furniture/Materials/V06_PegboardTools.uasset",
+        "bytes": 67232,
+        "sha256": "b4be186bf7b8532e92d8e6685b46d93a7fd6cbacfbdd36cd5a555de4f147708b",
+        "baseline_sha256": "4a5fa6b4899295b174dfdd074da3e7877fe7628323ba2a52888ad807b2da2338"
+      },
+      {
+        "path": "Campus/ILabV06/ILab_Furniture/Materials/V06_PowderCoat.uasset",
+        "bytes": 64652,
+        "sha256": "b69875d3bce527401d8e9da19c1f49efcc380c58a0e9352d4a80b61e27f3caf2",
+        "baseline_sha256": "0d8382b592153a6c44c0efbe807768d81886d40147b40d1ae8b19365cfd16d31"
+      },
+      {
+        "path": "Campus/ILabV06/ILab_Furniture/Materials/V06_Rubber.uasset",
+        "bytes": 64608,
+        "sha256": "b1acf64128480464b2f13c27413ac80b12c5dd21b2778459dc6dc5c74982dde4",
+        "baseline_sha256": "750fb96129e49aa5d65ab726b9a55f224b4369c7c9f874b2d63ff3abc0355493"
+      },
+      {
+        "path": "Campus/ILabV06/Surface/M_AMS_DarkEnclosure.uasset",
+        "bytes": 9868,
+        "sha256": "3d35451d751d3ead885f9dcbceb90a6507b13223f5418a78542433946298c014",
+        "baseline_sha256": "6c5229b0d8ec9b5d64b027b3508c120f6b298a2d9a6ba8478229d28b019a2578"
+      },
+      {
+        "path": "Campus/ILabV06/Surface/M_WorktableOak.uasset",
+        "bytes": 6452,
+        "sha256": "a199165d2bb7208cbc91292e9e456ded61916e47189e0274f9fe46fd7cd5c5d1",
+        "baseline_sha256": "8d13af7bbe05705dc63eec87b40e5d2b9eebda3e818e838233fa44c0e29710bd"
+      },
+      {
+        "path": "Campus/ILabV06Tech/ILab_Trellis_UE/Materials/Material_0.uasset",
+        "bytes": 68424,
+        "sha256": "90abbdbe0eef5f3e3898a2d21ee8c518248ce478dd9437852859c7991c3822ba",
+        "baseline_sha256": "b2b86f8b326612457328cce6a4ca8f1f5083e5580c9a85adb58a881196fc4183"
+      },
+      {
+        "path": "Campus/ILabV06Tech/ILab_Trellis_UE/Materials/Material_0_002.uasset",
+        "bytes": 68636,
+        "sha256": "ffa37792702cfce11c69db408c87f59a5c772e53d175451b04c3b54954f08014",
+        "baseline_sha256": "115526c6f785cd100bebe3460c03a5405f4f659f00476e47d2303ebf5ed7deb3"
+      },
+      {
+        "path": "Campus/ILabV06Tech/ILab_Trellis_UE/Materials/Material_0_003.uasset",
+        "bytes": 68636,
+        "sha256": "a0610a5b53013936a27714c0d3e48101f9b4079ca8fbf4d862fe8889e38b5ae6",
+        "baseline_sha256": "6c295aef384460f8ffc9f397f208758042688c850a321815286896d6b7ac0f4e"
+      },
+      {
+        "path": "Campus/ILabV06Tech/ILab_Trellis_UE/Materials/Material_0_005.uasset",
+        "bytes": 68656,
+        "sha256": "fc043eab47b3a7ad7b5903fd3343c00a9d8606db10a55aa76da2e8cb60ff5975",
+        "baseline_sha256": "66a8aa8db595326ccbe148272e5798e241c69e7f660f2b7b657823f48c900acc"
+      },
+      {
+        "path": "Campus/ILabV06Tech/ILab_Trellis_UE/Materials/Material_0_006.uasset",
+        "bytes": 68656,
+        "sha256": "8a89d82c3eb43b05aaba31591d489101e8b7d5fcfc964ba339dad58536cfb320",
+        "baseline_sha256": "4bbdc4c24cc77b686d975ce4bc878dda1fcfb344e1a40214e3a6241da70a79f0"
+      },
+      {
+        "path": "Campus/ILabV06Tech/ILab_Trellis_UE/Materials/V06_RepairedPrinterBack.uasset",
+        "bytes": 64787,
+        "sha256": "b9b2d5aea70d779c3473f46d40a33ec54aba6a33fc012a95657ac39f3cef97d8",
+        "baseline_sha256": "23ea63ac8f453648daffe5a6bcdb66a5dfa8e9a3a3f4ff49595f7a7a1aad4658"
+      },
+      {
+        "path": "Campus/Revision25R01/CollisionR02/R25_Doors_Ground_04_13.uasset",
+        "bytes": 224534,
+        "sha256": "25089ce79fe5b61413dfbbe0a718ee9d53bccbc1c8a5567c644e2c3aaa092934",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/CollisionR03/R25_Doors_Ground_04_13.uasset",
+        "bytes": 224534,
+        "sha256": "e3562404958788dfda6e1e4f773fa78cdd2dced3b5cc05ae2c1931e3f0630309",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/CollisionR04/R25_Doors_Ground_04_13.uasset",
+        "bytes": 224534,
+        "sha256": "e391bb4647c7508f5c762694687cf3a56f669b439894b6a1eb6a2e9e2d10154b",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/CollisionR05/R25_Doors_Ground_04_13.uasset",
+        "bytes": 224534,
+        "sha256": "a61a45a1cbe472827ec8364729636346586799badbe850250cf2c3bd1a048ffb",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/CollisionR05/R25_Doors_Ground_04_14.uasset",
+        "bytes": 96987,
+        "sha256": "bfa9541abcc3dcb9f2c8559a83e71cbe90a762ba13ac0dc7698c8d4b5a0a48b2",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/CollisionR05/R25_Doors_Ground_08_11.uasset",
+        "bytes": 213497,
+        "sha256": "875ca51a7b43b1b28d28631c0b2dbc578724b7dda0facf9b41dc52b0e2b186a6",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/CollisionR06/R25_Doors_Ground_04_13.uasset",
+        "bytes": 224534,
+        "sha256": "859984a92ca698248f28967968cb655f44323c907f5c72ad83302a0f8220f699",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/CollisionR06/R25_Doors_Ground_04_14.uasset",
+        "bytes": 96987,
+        "sha256": "a415e8d76ef652b1e30c6f836e3ebd71c7602786e1e1f88865ae6858dc5bf426",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/CollisionR06/R25_Doors_Ground_08_11.uasset",
+        "bytes": 213497,
+        "sha256": "1ef7249b4fb70bd4a630b46cc9701dc3a146d8ca914ab413a23b5e4836525626",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/CollisionR06/R25_Doors_Upper_04_11.uasset",
+        "bytes": 125960,
+        "sha256": "d8212736dcd9da40b36858b3b4d688ea969c4f95c7ef0e4726f84a1efca1ec52",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/CollisionR06/R25_Doors_Upper_04_12.uasset",
+        "bytes": 155231,
+        "sha256": "848af1df126a7f701845d32a64850894a70a47c83d3d903d99ee156721270b1a",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/CollisionR06/R25_Doors_Upper_05_11.uasset",
+        "bytes": 145993,
+        "sha256": "d2c1acfa4d53f4c73bf94d33f020f9c7cdf48b30f1bbd277e67fedf2ad2340e1",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/DoorAccessR14/Campus_R25_UpperDoorOpen_R14/Materials/SLOT_Anodized_aluminum.uasset",
+        "bytes": 65038,
+        "sha256": "87bd7db17d41c004392eb0398574cd0af8986d5b41936fcd1a77d0d39ac868a5",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/DoorAccessR14/Campus_R25_UpperDoorOpen_R14/Materials/SLOT_Brushed_stainless_hardware.uasset",
+        "bytes": 65137,
+        "sha256": "82a50d7eba507e06c253cd0dc1d22359565c73d632d09b5a9ee3acc62bba55ae",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/DoorAccessR14/Campus_R25_UpperDoorOpen_R14/Materials/SLOT_Clear_architectural_glazing.uasset",
+        "bytes": 65148,
+        "sha256": "add63ccf6ee150ff8e9c9afce3e38dc24205453f08f579697eea49dd0ed30871",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/DoorAccessR14/Campus_R25_UpperDoorOpen_R14/Materials/SLOT_Natural_oak.uasset",
+        "bytes": 64972,
+        "sha256": "58fe57c0b0f7554ec8debe915e01202111263ccfb8d146411c36cc6cb9e690e4",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/DoorAccessR14/Campus_R25_UpperDoorOpen_R14/StaticMeshes/R14_Retained_Doors_Upper_07_11.uasset",
+        "bytes": 156471,
+        "sha256": "2d5710ec08fdbaa41a2fb9dcf44e6e9cf536779eac82e87183af77723760b8b2",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/DoorAccessR14/Campus_R25_UpperDoorOpen_R14/StaticMeshes/R14_Retained_Doors_Upper_08_11.uasset",
+        "bytes": 200962,
+        "sha256": "0d6cdb3cdf5bf8fb0abd734d80bc4aeb24b57c1f4a7127f2a9d3097c71139c48",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/DoorAccessR14/Campus_R25_UpperDoorOpen_R14/StaticMeshes/R14_UpperClassDoor_Open90.uasset",
+        "bytes": 156124,
+        "sha256": "56cc1da294ad996580aeded86e75dac6a67ef55fc7221e4a4cafc45558348d16",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/DoorAccessR15/Campus_R25_UpperDoorOpen_R15/Materials/SLOT_Anodized_aluminum.uasset",
+        "bytes": 65038,
+        "sha256": "9cb8f569fb31a8f19c4103df5788cd4b064019b87061185daaaf0bda10860f7d",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/DoorAccessR15/Campus_R25_UpperDoorOpen_R15/Materials/SLOT_Brushed_stainless_hardware.uasset",
+        "bytes": 65137,
+        "sha256": "3a5bbe66b197b32d13eb065396de35760d190b9de5f78d25173da98e0bf6f7c5",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/DoorAccessR15/Campus_R25_UpperDoorOpen_R15/Materials/SLOT_Clear_architectural_glazing.uasset",
+        "bytes": 65148,
+        "sha256": "8068b17e798fe162a76454f96220485a6244eee6d52581a4fe5be3721c2a69a3",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/DoorAccessR15/Campus_R25_UpperDoorOpen_R15/StaticMeshes/Campus_R25_UpperDoorOpen_R15.uasset",
+        "bytes": 156998,
+        "sha256": "5f26ccda445e0e51da5dce5db7ddca9e76bbd25fbd9fbe429ab9436eaf1f0a87",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/Materials/SLOT_Anodized_aluminum.uasset",
+        "bytes": 64900,
+        "sha256": "d5497456c368418b796530ba432c9c1f87c6e3b34ef0ba2a96d62c47def3aabb",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/Materials/SLOT_Brushed_stainless_hardware.uasset",
+        "bytes": 64999,
+        "sha256": "56a0f80140c29428ca7679efff22cef6e0db134ca0459a53e125e9ef0d82f765",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/Materials/SLOT_Clear_architectural_glazing.uasset",
+        "bytes": 65010,
+        "sha256": "5d0df59641df729febec41d75073a5b8648605ad68b1f33edccf4b44ba5f08b6",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/Materials/SLOT_Dark_metal.uasset",
+        "bytes": 64823,
+        "sha256": "e9958a7f3b1b9ba667fa9e5f1b8588b89b7408a64f3fa52bfa1351221e4b49db",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/Materials/SLOT_Gray_thin_brick.uasset",
+        "bytes": 64878,
+        "sha256": "a286f7abaff3119bbcd8922c0d28478e0c1d870bbe91f30a42905673b3c59e60",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/Materials/SLOT_Light_stone_paving.uasset",
+        "bytes": 64911,
+        "sha256": "f2f52e4c40ffa3a3fa9ddd0c25bfc85ae53dba66f803170676a10de14f6434a4",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/Materials/SLOT_Natural_oak.uasset",
+        "bytes": 64834,
+        "sha256": "1cad6e951f4f6d9ac4b701af40af8aab6884c9dc61b02a5e211e5665e3205d48",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/Materials/SLOT_V02_Light_blue_matte_interior_paint.uasset",
+        "bytes": 65098,
+        "sha256": "b4bdc8fed58bc779ab3049f0eb61674ce415f1c2c3bea05ad5173ed2ef7fa1b9",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/Materials/SLOT_Warm_ivory_facade_brick.uasset",
+        "bytes": 64966,
+        "sha256": "b8ab0dbd98f6bfb0db2bec8dd12f3bb5ba89261fedd2126c2717fcd659dc261b",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/Materials/SLOT_Warm_white_plaster.uasset",
+        "bytes": 64911,
+        "sha256": "5783da2e5ec3dfd9ee185a3be72ed666dcc9286695bf7d13747a9a3cbdf918b0",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Ground_04_11.uasset",
+        "bytes": 85838,
+        "sha256": "e93a3e0da3e5b66219ed4c9ed826c6b35c81f9364636aec057be137891bbfc66",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Ground_04_12.uasset",
+        "bytes": 97029,
+        "sha256": "5bb475a63ca305a7a0bd948a6286fb4291118586b9ce1a4ef9a734890b34d7cb",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Ground_04_13.uasset",
+        "bytes": 97585,
+        "sha256": "e38777022d9655044e172bd53c8bab0d689538566f4610ec6c34931ac8c1216f",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Ground_05_13.uasset",
+        "bytes": 94235,
+        "sha256": "72e1ddb46c5fabee74ef985bebe80640a2d633089910819d96c3717683fee6ce",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Ground_07_10.uasset",
+        "bytes": 115215,
+        "sha256": "8fd4e638359e8d7964d92efc042de0a1e4178dec7e9e7dab513312f56a329642",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Ground_07_11.uasset",
+        "bytes": 92064,
+        "sha256": "8eeb85bf6eb4e57113e63cb399201ff9e26ebf2795978e05ccc6f72cdff51155",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Ground_08_11.uasset",
+        "bytes": 100559,
+        "sha256": "a3955e4ff7589a916b0bb7ac9ee5855b17dd6932a028f62c47fd29dbd37047af",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Ground_09_11.uasset",
+        "bytes": 98007,
+        "sha256": "b0a745470c1c042cdf24156e5ee7dafc44cf46c6b65210ca8f4f96d097dd862e",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Ground_10_13.uasset",
+        "bytes": 91488,
+        "sha256": "c2b60e8f139dea6479d06ad818c036c13b248b51ef3b8714546776abb9d4622f",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Upper_04_11.uasset",
+        "bytes": 107351,
+        "sha256": "51dd50cd50a576dd6e470d599882fc5cd740d7c6cd386b1d1eed434c8226904d",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Upper_04_12.uasset",
+        "bytes": 93183,
+        "sha256": "bfa120d9920ef1c0d3617ff4ed234706d031cf7ceb1fd1219a7898f612eda45b",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Upper_05_11.uasset",
+        "bytes": 94021,
+        "sha256": "f656c419544a3ea49869ce942e4ef05aa8e1ebf17ad1a54443d29380c9f44b9a",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Upper_07_12.uasset",
+        "bytes": 77304,
+        "sha256": "05ddb859cf3e9b7a8b7ca1db7de1faadc4a7ead89ec2b5d0caba08e73e7b0f8c",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Upper_08_12.uasset",
+        "bytes": 82099,
+        "sha256": "9e154caf2a45266ecb41f39eecb77f4fe5a67727a76f462c25a31eb332888675",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Upper_12_11.uasset",
+        "bytes": 105193,
+        "sha256": "334dc00e401a368fae646cddd04b583cbe7fd32d4668ff36088ffc68b176fc98",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/StaticMeshes/R25_Doors_Ground_04_13.uasset",
+        "bytes": 223354,
+        "sha256": "59721126a556a28005709306efa83f8139433a07b6e5c9acfe75a67bd9115225",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/StaticMeshes/R25_Doors_Ground_04_14.uasset",
+        "bytes": 96700,
+        "sha256": "d86b0277db4e769c7ab69521a883bb150e6ce79d7e80a78ee89e5abf8b57928d",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/StaticMeshes/R25_Doors_Ground_08_11.uasset",
+        "bytes": 211987,
+        "sha256": "21685b87f96f8faae8b7f70da5254643ab86172ca1cf12bb1fd4294169c7a3a9",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/Materials/SLOT_Anodized_aluminum.uasset",
+        "bytes": 64900,
+        "sha256": "19a9cbf0231c7a596366f35b6451a97cb4247b661304a81ae2ea9cd5cb0697ad",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/Materials/SLOT_Blockout_equipment_-_untextured.uasset",
+        "bytes": 65057,
+        "sha256": "eb23a03603b99fc6d2f8e21d36e3b70323795cf91d3c8b01d1318208fb4f5394",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/Materials/SLOT_Blockout_furniture_-_untextured.uasset",
+        "bytes": 65054,
+        "sha256": "0d5c08f28ac83e04f101afe0bdfe6be1bb24e8b38015ef525d7ba6a660e8c075",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/Materials/SLOT_Brushed_stainless_hardware.uasset",
+        "bytes": 64999,
+        "sha256": "1da677e136481ccc566e43d6fdf1c468b27ee41621dffe31dd897bc18b0abdbd",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/Materials/SLOT_Clear_architectural_glazing.uasset",
+        "bytes": 65010,
+        "sha256": "219ccfd77cbb35ccc7bd8eafa1a2287be08a9908213e8ef1251ee32463c6d284",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/Materials/SLOT_Dark_metal.uasset",
+        "bytes": 64823,
+        "sha256": "167b222ca6a653c429c3741b837d258c5ea60538905e9de1e1ea6a11ca6515ee",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/Materials/SLOT_Gray_thin_brick.uasset",
+        "bytes": 64878,
+        "sha256": "abea9a01a7ffb49462a35307fafb607d6eb3d8df6ed3af53591951868fc6632f",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/Materials/SLOT_Natural_oak.uasset",
+        "bytes": 64834,
+        "sha256": "079174ad41b5ecaf6fa44a988e912969d9b81f7e4c46dd1d561b11673b178214",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/Materials/SLOT_Texture-free_equipment_gray.uasset",
+        "bytes": 65013,
+        "sha256": "30ac05dd202bd512459ea73e4272724a869206dd0a314bc29a2ff182d93f80b3",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/Materials/SLOT_V02_Light_blue_matte_interior_paint.uasset",
+        "bytes": 65098,
+        "sha256": "21bb8b35b39d1f7459b479e50991c46ee44214544a91abc3cb963b8f182acca3",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/Materials/SLOT_V03_Amber_resin_hood.uasset",
+        "bytes": 64936,
+        "sha256": "361f17debef47743674dbe54789c6c4e2f106e79c9aaa383d994543dfbbc5367",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/Materials/SLOT_V03_Graphite_powdercoat.uasset",
+        "bytes": 64969,
+        "sha256": "09f113df437d06b6bbded587799cb317b9bb7d2e18e7f5f939d5b0f833661bc1",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/Materials/SLOT_V8_plain_chair_shell.uasset",
+        "bytes": 64936,
+        "sha256": "e9542f86f3e06e199917d0b0df31afdafd977fdfc2877f2969e0136288c3fda2",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/Materials/SLOT_V8_plain_dark_screen.uasset",
+        "bytes": 64933,
+        "sha256": "08bfc58c60beb9396b3cef8674dcdfd163452dc31c88752319fc98f0498d0227",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/Materials/SLOT_V8_plain_light_table_surface.uasset",
+        "bytes": 65024,
+        "sha256": "5b613450bd678740f2e3700e683d0ed87b9f9a4560e380f41cb2044faa8f133d",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/Materials/SLOT_V8_plain_porcelain.uasset",
+        "bytes": 64914,
+        "sha256": "7446ce97e5ef068df9773fd3dc50cac785c1e278c129d3de9be1909224427432",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/Materials/SLOT_Warm_white_plaster.uasset",
+        "bytes": 64911,
+        "sha256": "d4cbee9a70088344303e33f0f89f9f6cbae17afe2355cd0732cbb1911e4d8ca8",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/StaticMeshes/R25_Architecture_Upper_10_12.uasset",
+        "bytes": 97336,
+        "sha256": "50036b3071af60d12df40f8f2eca210078b1106507ec7cd06fa5553b40479ae7",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/StaticMeshes/R25_Architecture_Upper_10_13.uasset",
+        "bytes": 102758,
+        "sha256": "7db49776099f41740038d565b5d05e285f90de065788a37b2db211882e95465e",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/StaticMeshes/R25_Architecture_Upper_11_12.uasset",
+        "bytes": 92211,
+        "sha256": "358e1b6931a1e141ed7c2832098b4d4e1fe3c9e52ec4c2b2f5d587511083f84b",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/StaticMeshes/R25_Doors_Upper_04_11.uasset",
+        "bytes": 124495,
+        "sha256": "4a8357b81c9cc12257644eca6a5642fc8517a14cd03519963703541b81932604",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/StaticMeshes/R25_Doors_Upper_04_12.uasset",
+        "bytes": 153492,
+        "sha256": "378aa97b3c762fe8be62d75ffe4c3d8957f5ce3b955864462a199d2545caec5a",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/StaticMeshes/R25_Doors_Upper_05_11.uasset",
+        "bytes": 145038,
+        "sha256": "9a06dd43845ae7cc238062ccc51d0030617b9eb7b5237fb748f7dd74fade2b4c",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/StaticMeshes/R25_Equipment_Ground_04_11.uasset",
+        "bytes": 101620,
+        "sha256": "f9bbf55773a0786516fbeb741040037f1c219c827f7a4c94a9e9f3f0bfb6e50d",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/StaticMeshes/R25_Equipment_Ground_04_12.uasset",
+        "bytes": 117701,
+        "sha256": "993252b39421864083308f00b44981c0fa97b10ccbedc703929e137abe5253c0",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/StaticMeshes/R25_Equipment_Ground_04_13.uasset",
+        "bytes": 102175,
+        "sha256": "9efeaba9fc8dd8ddd96a6866f80ef39d743687ebe63b574f1cd5d8d662d99f2f",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/StaticMeshes/R25_Equipment_Ground_09_10.uasset",
+        "bytes": 3448714,
+        "sha256": "d4a44b5e5cf58ff2eccedae98d9ecf30738e3f4ef423274eb4dd1dfb0ee826db",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/StaticMeshes/R25_Equipment_Upper_04_12.uasset",
+        "bytes": 88428,
+        "sha256": "de9974ec5fd49d43f663a88f41e7a09c99ab6db693993c49e12455daddc064ee",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/StaticMeshes/R25_Equipment_Upper_05_12.uasset",
+        "bytes": 76935,
+        "sha256": "09e43cf028bba8e4e108374b22ff2c958d06b62c1644a3cef206e4f7e2b635e9",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/StaticMeshes/R25_Furniture_Ground_08_11.uasset",
+        "bytes": 84019,
+        "sha256": "1fd06db3256246af15c9c47d2bf0e8b1334e30a3ed0f38a20b16c7e6076d2f45",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/StaticMeshes/R25_Furniture_Ground_11_10.uasset",
+        "bytes": 77056,
+        "sha256": "47bdf8a34b2ceb7359b737c769c21cbab61fc5c9fde2a50d5e9d938becadc6fd",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/StaticMeshes/R25_Furniture_Ground_11_12.uasset",
+        "bytes": 86293,
+        "sha256": "3b19996d8571cb932f6235ca9ba9d3f08c91cb1419d19df814070cfb41872bcb",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/StaticMeshes/R25_Furniture_Upper_05_12.uasset",
+        "bytes": 79233,
+        "sha256": "5601d167fc024072e5482a1f5ec82e3e739bee06ef93704f1e8b88be685920cb",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/StaticMeshes/R25_Furniture_Upper_07_11.uasset",
+        "bytes": 76929,
+        "sha256": "c14f593593ba93d93eb15567feb7b17db4efe73f5860f9c8c1f4b7c1b6051bf1",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/StaticMeshes/R25_Furniture_Upper_08_11.uasset",
+        "bytes": 76940,
+        "sha256": "db5a66da28ae39b883de8e15437e21ff226c8a6a7b9e15c9ae15838df4516973",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/Materials/SLOT_Blockout_equipment_-_untextured.uasset",
+        "bytes": 65057,
+        "sha256": "4f02839d9606d13cb0d540bae14a0fd0e4aef2c8b987812d22ac160956a4e1ae",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/Materials/SLOT_Blockout_furniture_-_untextured.uasset",
+        "bytes": 65057,
+        "sha256": "3cf044bdd18128d700f3fc9ec9dab1c5ed82a7f627cea5b756b8c13f572533a0",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/Materials/SLOT_Brushed_stainless_hardware.uasset",
+        "bytes": 64999,
+        "sha256": "7a1031f7bee281adb481e466f0a4a535ae71a4c422014009e9981c61cf272019",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/Materials/SLOT_Clear_architectural_glazing.uasset",
+        "bytes": 65010,
+        "sha256": "cdcb1dba2f9948046a251157bc8074c623a6efda218c882a89cfac3759c8fb62",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/Materials/SLOT_Dark_metal.uasset",
+        "bytes": 64823,
+        "sha256": "64e0f16fd575345d66869871ac62ae75da6c562e90292dbf6296b4528b918da8",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/Materials/SLOT_Natural_oak.uasset",
+        "bytes": 64834,
+        "sha256": "e8d2691cc08c7273117951bd6861f1fa3f1a0fb732986d99363656246489e8bd",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/Materials/SLOT_Texture-free_equipment_gray.uasset",
+        "bytes": 65010,
+        "sha256": "dc99f3edd17e9ddfcce03797e44e5da0d1488507a606f107c237b12636a329e5",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/Materials/SLOT_V8_plain_chair_shell.uasset",
+        "bytes": 64933,
+        "sha256": "3df4c8f375a3edef0bc3a04c72141964db644a88bdd0d91436d85bd12ad78975",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/Materials/SLOT_V8_plain_dark_screen.uasset",
+        "bytes": 64933,
+        "sha256": "b5e1ba23cc3e57f2c3bc4676fb4204a097ad1033ef76088154fd308ca13a6554",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/Materials/SLOT_V8_plain_light_table_surface.uasset",
+        "bytes": 65021,
+        "sha256": "67ddf4f1d3aa2491095aea649f7adf80a1b86cf6e11c310e1e30614be1457f2c",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/Materials/SLOT_V8_plain_porcelain.uasset",
+        "bytes": 64911,
+        "sha256": "caaa7c48f9614b059ec1b018034829474df394311c1463f1a390393a24276d0f",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/Materials/SLOT_V8_plain_rubber.uasset",
+        "bytes": 64881,
+        "sha256": "bf97b409c497c062b3c3fa3d0b592ac5f32eb4f9f3a6f248010a7d2b1c7ca9d2",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/Materials/SLOT_V8_plain_sage_upholstery.uasset",
+        "bytes": 64980,
+        "sha256": "ac1ff8505fec0c91c53bb0c71dc7575cba2a1e981da9c49540405501920b26f9",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/Materials/SLOT_V8_recess_shade.uasset",
+        "bytes": 64881,
+        "sha256": "177eca203533222ceb56d783dce36d5aa2165dd19a31badbb48dcc7ce48f6dff",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/Materials/SLOT_Warm_ivory_facade_brick.uasset",
+        "bytes": 64969,
+        "sha256": "1ef25982e72d020901e8b3395c056df86496c62ce93a79c05c7839a42daea468",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/Materials/SLOT_Warm_white_plaster.uasset",
+        "bytes": 64911,
+        "sha256": "d63f10effa962715558361ef82d92f0db698570b9ca29c67bcff154e06d4aee4",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/StaticMeshes/R25_Equipment_Ground_08_10.uasset",
+        "bytes": 994684,
+        "sha256": "fae95eb672f56ba393148972c5be981cdff5a0f209f5e4890dcf706ba8fbf623",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/StaticMeshes/R25_Equipment_Ground_11_12.uasset",
+        "bytes": 164232,
+        "sha256": "aff05695337f2e35838685ba4a68e3d6a3f96f928c375b4577fba6521f1313b2",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/StaticMeshes/R25_Furniture_Ground_05_12.uasset",
+        "bytes": 486233,
+        "sha256": "21a207599bd596547e46b992f3353efdb27bb94323751428f9886ea81f36daf3",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/StaticMeshes/R25_Furniture_Ground_05_13.uasset",
+        "bytes": 282557,
+        "sha256": "23b4991709b1b4b7c3401883156571b482ca56bba4b58a71aa091671d11c07e8",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/StaticMeshes/R25_G101_Architecture.uasset",
+        "bytes": 76872,
+        "sha256": "32f5f7600687affad04d4376e96d7fb745a9f349ea51dbbeca4bd9593e61c104",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/StaticMeshes/R25_G102_Furniture.uasset",
+        "bytes": 451111,
+        "sha256": "a57e06c3cedb39e505dd43a53a09a694621ad324128e74bde83197af25f7ca0d",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/StaticMeshes/R25_G103_Furniture.uasset",
+        "bytes": 76712,
+        "sha256": "5be0db9c10da9443f5c79f253b14f465ff81116dd63251e0b55007488eb1e450",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/StaticMeshes/R25_G104_Furniture.uasset",
+        "bytes": 123072,
+        "sha256": "869477b0930c86f7fed21870f0a2c543ce50977d78da08e068b65bbe8d5107e0",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/StaticMeshes/R25_G107_Furniture.uasset",
+        "bytes": 126547,
+        "sha256": "9d7ad53783895509c1a788cfb03c5b3e04586411d18504ecaf330a1dfb6886a9",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/StaticMeshes/R25_G111_private_Architecture.uasset",
+        "bytes": 82441,
+        "sha256": "37ad271e54d257a7cd31109cab91116ce5762bc38ad838bd20a9dce28b61d037",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/StaticMeshes/R25_G112_Furniture.uasset",
+        "bytes": 82501,
+        "sha256": "6be1df5425bdf8d108017008836ee9b92712a3d895972ca5a79e9c28320bc075",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/StaticMeshes/R25_G113_Furniture.uasset",
+        "bytes": 84025,
+        "sha256": "5f7e4cae1d84d9e4c206c53e063d8ce1cc8bb9a7bf8c4a700f0afe78b0bedfdb",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/StaticMeshes/R25_G_TRAINER_SERVICE_Furniture.uasset",
+        "bytes": 94660,
+        "sha256": "01eae38d552ac803eff0314ff8c41c7a14178a9f14a660b741cb5179aa638e3c",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/StaticMeshes/R25_U200_Furniture.uasset",
+        "bytes": 336465,
+        "sha256": "baa61dca89712064d4207ee35d4583327caa79e9f524af2e88cb5d7147c3c8f3",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/StaticMeshes/R25_U202_Furniture.uasset",
+        "bytes": 190022,
+        "sha256": "960779c08a996b1356a5c877acaf9942bcfdaee7fd39b93c5de1fc08f630c6e1",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/StaticMeshes/R25_U204_Furniture.uasset",
+        "bytes": 169629,
+        "sha256": "869859198ead4b920b818799aacfe63269adee0b9d2aa675e48385ea3d3f1008",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/StaticMeshes/R25_U218_Furniture.uasset",
+        "bytes": 203666,
+        "sha256": "36b1ffe718541d3b4e1a75a5877a4b4d8a2ae616a086c7fd1237a9269f85acd5",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/StaticMeshes/R25_Unassigned_Architecture.uasset",
+        "bytes": 77368,
+        "sha256": "a408f8562194eeec215b64182de93384f421a2460e017ffc97ae87e701b122a3",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/Materials/SLOT_Blockout_equipment_-_untextured.uasset",
+        "bytes": 65063,
+        "sha256": "abedccde51bf468b2c00803e20a0ca4975516c2f5136107c3cb30d25d1e111da",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/Materials/SLOT_Blockout_furniture_-_untextured.uasset",
+        "bytes": 65066,
+        "sha256": "0122a6d9f18defa7c4fbbf3d735d287182e8a9ffe88afb06246e4f0c47e19ca3",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/Materials/SLOT_Brushed_stainless_hardware.uasset",
+        "bytes": 65008,
+        "sha256": "08d362f1f74c94e95999fe2d3969ce468156946c124a9104925387a2d0c31c70",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/Materials/SLOT_Dark_metal.uasset",
+        "bytes": 64832,
+        "sha256": "4605b9ca4d12ec13feb8a8fc6e63b960c925b70018718b71eeb0268892a33bfe",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/Materials/SLOT_Natural_oak.uasset",
+        "bytes": 64843,
+        "sha256": "2580aaaac529e2cac762cecb38c3caecf6973f7f64817a6da33fda51d29e4b67",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/Materials/SLOT_V02_Commons_carpet_and_original_stone.uasset",
+        "bytes": 65132,
+        "sha256": "e4e0bcc007dcd34a56e6d4e5e2594e653a45afd973b7c22ea93ee93b1d8d4114",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/Materials/SLOT_V8_plain_chair_shell.uasset",
+        "bytes": 64942,
+        "sha256": "ae0b716174f14ef904c1da77ebead18ca4c9ef9261485af883c97aafbb10611c",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/Materials/SLOT_V8_plain_light_table_surface.uasset",
+        "bytes": 65030,
+        "sha256": "63db89bbecb75c31969191dd6f9e583027ae3a79efc24483ba9d138c86e25b03",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/Materials/SLOT_V8_plain_porcelain.uasset",
+        "bytes": 64923,
+        "sha256": "575d5540c8c23e475a3bae4ce17dd7f04d45d507fd8b65a926718e5730802c6b",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/Materials/SLOT_V8_plain_rubber.uasset",
+        "bytes": 64887,
+        "sha256": "0d2afd8d2dc78f4e873cc93cd09da92393ad73648176373aed7dd29764076cd4",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/Materials/SLOT_V8_plain_sage_upholstery.uasset",
+        "bytes": 64986,
+        "sha256": "a6709b07c02814b2ece080e596b58d829cdd6b723e1b62fa4937e125453cb63f",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/Materials/SLOT_V8_recess_shade.uasset",
+        "bytes": 64887,
+        "sha256": "95716a3de6e70447b942ed61d9ac5dc6c07c492a00a7fbd23a32689c3da6e4f1",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/Materials/SLOT_Warm_white_plaster.uasset",
+        "bytes": 64920,
+        "sha256": "feb546b04124109de8486af5750b404c30eb923938b47a9debe0271d6a286535",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/StaticMeshes/R25_G105_Furniture.uasset",
+        "bytes": 106019,
+        "sha256": "971ed322520ba6c6eab401c3e8b5b3e35681f059d37df51b6dbb97e8baac1e83",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/StaticMeshes/R25_G121_Architecture.uasset",
+        "bytes": 83523,
+        "sha256": "55d058f801da98144cf172e636b7c4a827907678677527d021bf41127946a661",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/StaticMeshes/R25_G121_Furniture.uasset",
+        "bytes": 334116,
+        "sha256": "788a17f8c37acc462232fde71f1f93af3307cb8b4a07bcf240f1a84884fc9a60",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/StaticMeshes/R25_G122_Architecture.uasset",
+        "bytes": 78843,
+        "sha256": "61a5adbd615cc509a7c66e7b196c276acffefa9edf859cc0e38d946cdbe2fc17",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/StaticMeshes/R25_G122_Furniture.uasset",
+        "bytes": 333973,
+        "sha256": "d9d8273a2786034d28a0b92b4807f7ace3cd1f0167ae41e4df7bc4188c69e40d",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/StaticMeshes/R25_G126_Architecture.uasset",
+        "bytes": 77020,
+        "sha256": "ef5aebdcd976162a8f55d7c04f214ca66798272336e62104ed5cf6eaf8082008",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/StaticMeshes/R25_G127_Furniture.uasset",
+        "bytes": 102162,
+        "sha256": "601d4d709261dcfac760bcb514c5a44831dc222f60e5f48767801497c11efc51",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/StaticMeshes/R25_G_ATHLETICS_NE_Furniture.uasset",
+        "bytes": 136827,
+        "sha256": "77b3ae42bedae6946428c7862808fae9e2cbdd77b397497cd1ba6b8ac4a2ff7b",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/StaticMeshes/R25_G_ATHLETICS_SW_Furniture.uasset",
+        "bytes": 102495,
+        "sha256": "8821ef152af298d179533b63af3c7dffa7bea5ff3850471c23eca2f333fce105",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/StaticMeshes/R25_G_SW_SERVICE_M_Architecture.uasset",
+        "bytes": 78834,
+        "sha256": "6aa538f58ce64b9c489e0fb071d1171bd068e762777288536a3464dae8258764",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/StaticMeshes/R25_G_SW_SERVICE_N_Architecture.uasset",
+        "bytes": 78510,
+        "sha256": "cad918d8232308436886e34eea1ec1d4fe152fec62fe3c00f9a38933ead85df9",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/StaticMeshes/R25_REV18_NorthToilet_DoorLeaf.uasset",
+        "bytes": 76670,
+        "sha256": "7855cc4948dcea5625e2355899a5df69f263c8e7c323218f9684e306f4c5f0a6",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/StaticMeshes/R25_U201_Furniture.uasset",
+        "bytes": 125366,
+        "sha256": "84728caeada7818d12a40782d92f70f0ff73d1804a4def40991d019825a12bdd",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/StaticMeshes/R25_U_TOILET_MS_Architecture.uasset",
+        "bytes": 77766,
+        "sha256": "5fd1fb449a667b2322f9091e3ab4fd467af3275f4b264653b4ce5937beae9eb7",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/StaticMeshes/R25_U_TOILET_N_Architecture.uasset",
+        "bytes": 79046,
+        "sha256": "caffdbf3a39374a8b7a4c0def923265eb631b29a1c1e0c98584bc5756b820092",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/StaticMeshes/R25_U_TOILET_N_Furniture.uasset",
+        "bytes": 102293,
+        "sha256": "4b9eda968320bf4e9c6db96a416eaea8f08742b74b1a97dd55bf794545eab3d0",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/StaticMeshes/R25_U_TOILET_S_Architecture.uasset",
+        "bytes": 78508,
+        "sha256": "d465f752d594ee2fa05e17b91ff38c1ed6b3f60189896d4f7f4015e23186a1a9",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/StaticMeshes/R25_U_TOILET_S_Furniture.uasset",
+        "bytes": 102317,
+        "sha256": "0b20b62281f8b6f4002a558891e3576cd1476e32cab4da5429d99f2d00dd1d19",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_04/Materials/SLOT_Natural_oak.uasset",
+        "bytes": 64843,
+        "sha256": "784356718a81d69113ca144a4d9231b14b74ad51bf0771751c8c28037410e630",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_04/Materials/SLOT_Warm_white_plaster.uasset",
+        "bytes": 64920,
+        "sha256": "256210e1b6d19f4eb679f24261e7bbaa4540c9696c850c88c930352862f28aaa",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_04/StaticMeshes/R25_G_SW_SERVICE_S_Architecture.uasset",
+        "bytes": 77916,
+        "sha256": "c888dc2218c7594022816b71231f378c566a66f9056cf5649e4820f59ff30be0",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_04/StaticMeshes/R25_G_TRAINER_Architecture.uasset",
+        "bytes": 77264,
+        "sha256": "21c059b5b46e8c748f88db0472dbd298f640086ca66335830a9a948a9580f674",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_04/StaticMeshes/R25_REV24_CompactEntry_DoorLeaf.uasset",
+        "bytes": 76677,
+        "sha256": "c477263facedfb5d143b428e575f874f63874e54cb1e641b59f3c75111308a74",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_04/StaticMeshes/R25_REV24_Service_MiddleAccess_DoorLeaf.uasset",
+        "bytes": 76761,
+        "sha256": "2297c11504ede9e93ffe0c533db000000145b708a5bca6c36a60e44f0fd05ae5",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_04/StaticMeshes/R25_REV24_Service_NorthEast_DoorLeaf.uasset",
+        "bytes": 76732,
+        "sha256": "627a7f6827219b7396a7ff78affb3d39f35b6633846e35ed0ddf19fee0fe831c",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_04/StaticMeshes/R25_REV24_Service_NorthWest_DoorLeaf.uasset",
+        "bytes": 76730,
+        "sha256": "bb86621255fc9a47738865c55d6c813364c17274e7e4c282d9b3be6cdfc51d3b",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_04/StaticMeshes/R25_REV24_Service_SouthWest_DoorLeaf.uasset",
+        "bytes": 76726,
+        "sha256": "c85c011deff3370110bcc37c9746c38b11a4ae582c65e7d67ce79bba11fae4e6",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_04/StaticMeshes/R25_REV24_Service_UtilityNorth_DoorLeaf.uasset",
+        "bytes": 76765,
+        "sha256": "34530455cecb0fdc639198290997181dfa653497658b6f950bd9e96c0e207c5c",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_04/StaticMeshes/R25_REV24_SouthEntry_DoorLeaf.uasset",
+        "bytes": 76655,
+        "sha256": "290a9f84b7e88b0f4b49752df65d959abad75894377b65dd8f879e7e7b9e68ca",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_04/StaticMeshes/R25_REV24_TrainerSouth_DoorLeaf.uasset",
+        "bytes": 76674,
+        "sha256": "0eedbd77ffef5d1df2b9e15ad4c346a94720fc8013069b5364e1ede87305f3ff",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Closed/Materials/SLOT_Natural_oak.uasset",
+        "bytes": 64936,
+        "sha256": "639ae4e85b4c2de01b0a885808eecb4b91428f555a4f34a37ad969f18b975aba",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Closed/Materials/SLOT_Natural_oak_001.uasset",
+        "bytes": 64980,
+        "sha256": "f0c566432c5d698e455cc8dc2a5a2909582d551bf3099ea12ed5b7f5620e8728",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Closed/Materials/SLOT_Natural_oak_002.uasset",
+        "bytes": 64980,
+        "sha256": "e1f4070e17ae941971c0e8aabaa21024842a5c294d5acde460de7528b2985588",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Closed/Materials/SLOT_Natural_oak_003.uasset",
+        "bytes": 64980,
+        "sha256": "c365b6cb8e89f295704cb2a1319895f22e75bcbbaf20c4309ed989103b2f2fbb",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Closed/Materials/SLOT_Natural_oak_004.uasset",
+        "bytes": 64980,
+        "sha256": "3ee4c50522d73030a845c614e13ce2cb5c5f7ce6aa5379b3c0e7afaa9370dc0e",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Closed/Materials/SLOT_Natural_oak_005.uasset",
+        "bytes": 64980,
+        "sha256": "d73c99108f8818c8e855a3aa1abd10fc722c7272fb186a269889b6bf07d59395",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Closed/Materials/SLOT_Natural_oak_006.uasset",
+        "bytes": 64980,
+        "sha256": "ad31974f0640b0018aac71dfd114b16405a80b604152f9f3a5a7a47e9b44d06b",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Closed/Materials/SLOT_Natural_oak_007.uasset",
+        "bytes": 64980,
+        "sha256": "d3c54c67e94c311de07424d704f578759aad1c8de596493d02f44f75cc1c0ee8",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Closed/StaticMeshes/R25_Partition_Closed_00.uasset",
+        "bytes": 76896,
+        "sha256": "f7fadbafe832674ad39b93584a56ee5138adc19c1cad6dee79887fb3a9b2d1d4",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Closed/StaticMeshes/R25_Partition_Closed_01.uasset",
+        "bytes": 76958,
+        "sha256": "c801a9146281f6b89b92581a926a0bce0b70a8ce76ab52582ab88a6674f321d2",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Closed/StaticMeshes/R25_Partition_Closed_02.uasset",
+        "bytes": 76964,
+        "sha256": "03f3cb1694f0dc0e2ee967e91786bba9dea6fbf2e225fefae5240417a4ed00b2",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Closed/StaticMeshes/R25_Partition_Closed_03.uasset",
+        "bytes": 76964,
+        "sha256": "c4c42cbd31e6279c830c83f87f886a2139d8dd8247631218becb39f1e2741564",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Closed/StaticMeshes/R25_Partition_Closed_04.uasset",
+        "bytes": 76962,
+        "sha256": "52002f9f878ddede20ebc8968026b135dbdc55f69b2a6229aa52c3b6fc72c16f",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Closed/StaticMeshes/R25_Partition_Closed_05.uasset",
+        "bytes": 76964,
+        "sha256": "bce6f7f6d141e54c18c9fc0d001b2d7ed794db48bc67e4d9f6bf3540dcee4b76",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Closed/StaticMeshes/R25_Partition_Closed_06.uasset",
+        "bytes": 76964,
+        "sha256": "92e3bd733584ee4323477b29a9cfbf182f17d3693208984b93f952a5a41fb13b",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Closed/StaticMeshes/R25_Partition_Closed_07.uasset",
+        "bytes": 76964,
+        "sha256": "e807b496dfd848de2b970dd82e4d06c17ea64fdeab1fd4f98164410d59bedb69",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Folded/Materials/SLOT_Warm_white_plaster.uasset",
+        "bytes": 65013,
+        "sha256": "0145e9eda34e1dc6a4c97c7f06a6de534c677731f022abe6883a8317f4b2e79a",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Folded/Materials/SLOT_Warm_white_plaster_001.uasset",
+        "bytes": 65057,
+        "sha256": "472a358a265093a6ef167d9e1b3b230c4c4ba6ea02781a23fa79a9705308bf88",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Folded/Materials/SLOT_Warm_white_plaster_002.uasset",
+        "bytes": 65057,
+        "sha256": "738373522cde82ea5005ef3e2f06224127913144185fb72abbf72c0505a25666",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Folded/Materials/SLOT_Warm_white_plaster_003.uasset",
+        "bytes": 65057,
+        "sha256": "00d46a94a2b7f2905056aa589c543cb00f13f2170bb38df9e79a70fd384a3cda",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Folded/Materials/SLOT_Warm_white_plaster_004.uasset",
+        "bytes": 65057,
+        "sha256": "e21dc5f227e2b5b0868c8165dc95ae3b8052cd1205c839449d787860fcd95255",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Folded/Materials/SLOT_Warm_white_plaster_005.uasset",
+        "bytes": 65057,
+        "sha256": "a7fbe315c8e9c25d892bc2cdbaef0ce540e73106e33c6ce2d020a2b337d12984",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Folded/Materials/SLOT_Warm_white_plaster_006.uasset",
+        "bytes": 65057,
+        "sha256": "29999fa8eacaa8b59ce351bebd70e269d81422ecf98ced37eb2acc5a15910ad1",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Folded/Materials/SLOT_Warm_white_plaster_007.uasset",
+        "bytes": 65057,
+        "sha256": "024f88c1af1323a19d43ce1589561da555768c1aa7bdcf5af40d9ec049c19902",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Folded/StaticMeshes/R25_Partition_Folded_0.uasset",
+        "bytes": 78648,
+        "sha256": "6d116dba3d1108ec58fea9bf71a4a57734e9a2146e19aa5a21507297c635a49c",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Folded/StaticMeshes/R25_Partition_Folded_1.uasset",
+        "bytes": 78709,
+        "sha256": "47328972661be537cff77883f17a9f91495d70d890035fbbcd7ea6015d474f7e",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Folded/StaticMeshes/R25_Partition_Folded_2.uasset",
+        "bytes": 78709,
+        "sha256": "2686cd87cd53bee47eb426120c9836956ebba1d7b6be8cbfb136cf09aed65e08",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Folded/StaticMeshes/R25_Partition_Folded_3.uasset",
+        "bytes": 78709,
+        "sha256": "5fdb609300ec40033b9736e237fd3ceee0fad906e89e41246af94b259f71c0b1",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Folded/StaticMeshes/R25_Partition_Folded_4.uasset",
+        "bytes": 78714,
+        "sha256": "c9456818211658ecc14c21a619dadb6eddf4916c5eab7cf37b932e3c6ed85feb",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Folded/StaticMeshes/R25_Partition_Folded_5.uasset",
+        "bytes": 78709,
+        "sha256": "806bd1c4d0f78213c0872edbd311dbb85fb66151c55962e3b0b12e587504d50b",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Folded/StaticMeshes/R25_Partition_Folded_6.uasset",
+        "bytes": 78716,
+        "sha256": "c3b3e50bd3523529655c5f63dc6813758185dc8551b9138e472ae6cd61f3b100",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Folded/StaticMeshes/R25_Partition_Folded_7.uasset",
+        "bytes": 78709,
+        "sha256": "ad060b9c3d05873ea6d67bec34c66d2d45245dcd763b9ba6677110af43f68540",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Pilot/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Ground_04_11.uasset",
+        "bytes": 74190,
+        "sha256": "b05d432d9173aa0fa58dd95e2c4d94b6bbcd8385f32437ed057bdda15e8cc33e",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Pilot/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Ground_04_12.uasset",
+        "bytes": 77095,
+        "sha256": "873ed1fba14d0d3066e71e135c59414c25f6f6f46f17414e9d5025e18e0dbc3a",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Pilot/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Ground_04_13.uasset",
+        "bytes": 77661,
+        "sha256": "2e692562fa281e4850cafda575c5f5f2e7d803b64dfb2279f8fe087da879efc4",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Pilot/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Ground_05_13.uasset",
+        "bytes": 78555,
+        "sha256": "a4a2dee14508a0bb3ceac79edd1f2d9ee326ab20da6989d939b88e55495a5def",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Pilot/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Ground_07_10.uasset",
+        "bytes": 86952,
+        "sha256": "63be01af0a1d9fe7bcc2d17b32876d0adf85bd7b3cc19993ac917ed7225eeed2",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Pilot/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Ground_07_11.uasset",
+        "bytes": 76382,
+        "sha256": "c3443c46a44aafb4d05c311454207129d9f1ca3e1dca34297e55bbcf9498f5dc",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Pilot/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Ground_08_11.uasset",
+        "bytes": 80620,
+        "sha256": "d258343aa0674d0c75308f947a306c0c971744bc65aa628448a53e1ece3fd127",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Pilot/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Ground_09_11.uasset",
+        "bytes": 78021,
+        "sha256": "01d767c126685f05b191adf4fe66b879e149c5d3709a7aa4f4a6a6fc0d0d6c4d",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Pilot/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Ground_10_13.uasset",
+        "bytes": 75931,
+        "sha256": "e5e2e690e87ce89ad98969c088347ba606292702a8b4ae815fb6709055c1d31b",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Pilot/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Upper_04_11.uasset",
+        "bytes": 83364,
+        "sha256": "56a934ca7c7eb3232238409fd4c53d320aa6b11477ab9dd696e8e0d22742c869",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Pilot/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Upper_04_12.uasset",
+        "bytes": 77070,
+        "sha256": "2609d2574d6b9afbb021333d88222e2d9316e85a978368c04102491d5dea70d1",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Pilot/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Upper_05_11.uasset",
+        "bytes": 78337,
+        "sha256": "8fe420168dfd7a0ad164996fd5713b891c7e3846cec720b333faac6b2bc717dc",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Pilot/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Upper_07_12.uasset",
+        "bytes": 73784,
+        "sha256": "cd1c0fc061412c6b9b59e8587c0ce9cd8899c433f31e9f240dd5936f07a5b4cb",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Pilot/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Upper_08_12.uasset",
+        "bytes": 74777,
+        "sha256": "b00fde7c8be07a8fef6e3de089797dc56ba9fcd9d1c4601e341496c6d9bb7384",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Pilot/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Upper_12_11.uasset",
+        "bytes": 84908,
+        "sha256": "bdd4196dfe4663307682f0b7176e59fed4b360799a7eef0885a88e641c879328",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Pilot/Campus_R25_Delta_00/StaticMeshes/R25_Doors_Ground_04_13.uasset",
+        "bytes": 215748,
+        "sha256": "2025927783ada89a67451ee08ca7508b8d07762d8910b4810ad92933f685112c",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Pilot/Campus_R25_Delta_00/StaticMeshes/R25_Doors_Ground_04_14.uasset",
+        "bytes": 92982,
+        "sha256": "9cd4a86e44c17c6447946528dbc93f64a5d399f99429cc8bd984759cc641fdd0",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Pilot/Campus_R25_Delta_00/StaticMeshes/R25_Doors_Ground_08_11.uasset",
+        "bytes": 200166,
+        "sha256": "fe2325bf85c89088e47dfab3fa7f382df5595747baa752027a095c722ac71487",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/PilotSlots/Campus_R25_Delta_00/Materials/SLOT_Anodized_aluminum.uasset",
+        "bytes": 64912,
+        "sha256": "464e841b7ea0a9d8fcef342e41ee8208e7199af5d66601e77943d0f884606675",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/PilotSlots/Campus_R25_Delta_00/Materials/SLOT_Brushed_stainless_hardware.uasset",
+        "bytes": 65011,
+        "sha256": "87c46ea458b9c74b743fb5fd3ccd447bcd6a428ea0478a0bf62f4de732c966f1",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/PilotSlots/Campus_R25_Delta_00/Materials/SLOT_Clear_architectural_glazing.uasset",
+        "bytes": 65022,
+        "sha256": "c7f98150fd837495712660bcbdbcc6f50b459b4c615dc76a490a5aba53e78ccf",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/PilotSlots/Campus_R25_Delta_00/Materials/SLOT_Dark_metal.uasset",
+        "bytes": 64835,
+        "sha256": "9b9535f0ca7aee8057fed4a40f1909844d3877796c0fc6b342b6b1f73f25e2b6",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/PilotSlots/Campus_R25_Delta_00/Materials/SLOT_Gray_thin_brick.uasset",
+        "bytes": 64890,
+        "sha256": "767d520fdc10d014b74b14fc3809ab490376cbe10acd418e3133faf60b53879c",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/PilotSlots/Campus_R25_Delta_00/Materials/SLOT_Light_stone_paving.uasset",
+        "bytes": 64923,
+        "sha256": "48654b49bfdab9ec97cb78306d3147f03e5d6c7bc5e7d3a5060e62786f1f3935",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/PilotSlots/Campus_R25_Delta_00/Materials/SLOT_Natural_oak.uasset",
+        "bytes": 64846,
+        "sha256": "6c7e3e393f58ba97e637053c111aa7efe37f9dec25345d3475ba81582ef362d6",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/PilotSlots/Campus_R25_Delta_00/Materials/SLOT_V02_Light_blue_matte_interior_paint.uasset",
+        "bytes": 65110,
+        "sha256": "8a360b35bee55cd4774231374ef8c72bdb6a749e08d9aca3e6435d605d3822d6",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/PilotSlots/Campus_R25_Delta_00/Materials/SLOT_Warm_ivory_facade_brick.uasset",
+        "bytes": 64978,
+        "sha256": "6baf50e202be905ed1ead647ca335c426af06c95d129d09a88b6af66c8e99645",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/PilotSlots/Campus_R25_Delta_00/Materials/SLOT_Warm_white_plaster.uasset",
+        "bytes": 64923,
+        "sha256": "0305a498ab97b5b62413e3200c8e8de367b88a80ad47441e49821cc3ccd1e9ec",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/PilotSlots/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Ground_04_11.uasset",
+        "bytes": 85702,
+        "sha256": "93ba27d9d83307492acdf95ad9af3138a990ef8ce201bf8e82b7dd8424826030",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/PilotSlots/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Ground_04_12.uasset",
+        "bytes": 96908,
+        "sha256": "3995243cf53ce26943ee69c619b3f653f608c3c5b4934fb1216915c6915e6bd3",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/PilotSlots/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Ground_04_13.uasset",
+        "bytes": 97464,
+        "sha256": "1aedef54e018a0f530414b6a76e65341b1c6a4b1581910c96c84d2f28352e7e5",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/PilotSlots/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Ground_05_13.uasset",
+        "bytes": 94106,
+        "sha256": "7ccc2820b13bcb5c596659ca9f341a6a8e48b4339c50e3182834cfc13183deaf",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/PilotSlots/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Ground_07_10.uasset",
+        "bytes": 115110,
+        "sha256": "9caa36f9a540b9d87bb8311a9b7967676c886299af9d461c9772f8ce50bcbe3a",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/PilotSlots/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Ground_07_11.uasset",
+        "bytes": 91935,
+        "sha256": "df6dec347d3640604f2d2a367e9a5081304a2639f1a5654a22b8254edd993ef2",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/PilotSlots/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Ground_08_11.uasset",
+        "bytes": 100438,
+        "sha256": "b8e5ffa44252310764f1be89cacad343d59fdf834af301ff0d36af37d79a49be",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/PilotSlots/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Ground_09_11.uasset",
+        "bytes": 97886,
+        "sha256": "c481837010f8cdb4a50ff6ce9a6baf702020f12c77e1f47763af2d2e9ebd754b",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/PilotSlots/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Ground_10_13.uasset",
+        "bytes": 91529,
+        "sha256": "8cb94bdfdab9aec94b7ce69ad89a626fa9144bbfaa2b4cfec9f75648c85a88f3",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/PilotSlots/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Upper_04_11.uasset",
+        "bytes": 107238,
+        "sha256": "cbb1c2d563e621f43e5f34c908e8acd84baa5cba820836bcdff96e08c4494249",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/PilotSlots/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Upper_04_12.uasset",
+        "bytes": 93054,
+        "sha256": "e78e20fda1c063543a253c5ae4140213bbbbc66c86234fdc2cf74c43e7caa437",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/PilotSlots/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Upper_05_11.uasset",
+        "bytes": 93892,
+        "sha256": "4649e8bacb94fe9740637e98bd8a7ef3da8d5534e52dac4a862a3b4bda3f59cb",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/PilotSlots/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Upper_07_12.uasset",
+        "bytes": 77152,
+        "sha256": "5e94ef377aa521cceaee5372a05985b7d0902c73b6c51974a807ff58b137e06f",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/PilotSlots/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Upper_08_12.uasset",
+        "bytes": 81954,
+        "sha256": "4d196199cbc23f7a698e74cd38ba5a0858cd5499e2afe29369befea12eeb6517",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/PilotSlots/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Upper_12_11.uasset",
+        "bytes": 105072,
+        "sha256": "dfac3ef9d27d85e64f7b5f53df58bffcb5b2c6efe9270d6b412e030635ac84eb",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/PilotSlots/Campus_R25_Delta_00/StaticMeshes/R25_Doors_Ground_04_13.uasset",
+        "bytes": 223211,
+        "sha256": "0b393a5b4281b00710941c4fc2d527a10b9d6831caee7a6a4f96a526b91acd39",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/PilotSlots/Campus_R25_Delta_00/StaticMeshes/R25_Doors_Ground_04_14.uasset",
+        "bytes": 96550,
+        "sha256": "7080ff24fa2e1c3f7e6a72e40f0f1417a080873fba8dd3ed5d835c98f609244a",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/PilotSlots/Campus_R25_Delta_00/StaticMeshes/R25_Doors_Ground_08_11.uasset",
+        "bytes": 211869,
+        "sha256": "e271770003562363788d215863393aaa98e870097eb0dfc02c66599ac2b61bad",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/RuntimeCompatR01/Base_M_Default_54bd2060.uasset",
+        "bytes": 86806,
+        "sha256": "002bd497a8f6d2c44c11ed9c223f9a705add8fe24301233efb745b0a8d465b7c",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/RuntimeCompatR01/Parent_MI_Default_Opaque_7dfe6a62.uasset",
+        "bytes": 5079,
+        "sha256": "63d75f9c1326e0d7a41fef37e6c51aaa71e56574b1c5f170c8644756f2d7dea8",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/RuntimeCompatR01/Parent_MI_Default_Opaque_DS_a53f40f3.uasset",
+        "bytes": 5254,
+        "sha256": "c6f89a6c128f6ca3adf147e40b9357f8a5a44240fb00e1a7c8f786657c7c8996",
+        "baseline_sha256": null
+      },
+      {
+        "path": "FirstPerson/Lvl_FirstPerson.ini",
+        "bytes": 775,
+        "sha256": "0376b7936e554c39681a79bd2ee7ef85df30682a35937f4b78c6227ab83c4394",
+        "baseline_sha256": null
+      }
+    ]
+  },
+  {
+    "consumer": "vive",
+    "baseline_commit": "db5b1cec11adbdf25b2df4e1615d00d5f009fc82",
+    "additional_project_owned_dependencies": [
+      {
+        "path": "Campus/DetailsV07/M_Nature.uasset",
+        "bytes": 9607,
+        "sha256": "83769216184678c6555fffbb8100ebc738719ff77614c52d28eac8254d607f08",
+        "baseline_sha256": "f92e511e3eb1a0b4b9fb6252499208c961183bfe5735fe5f169b56a888f9d1b4"
+      },
+      {
+        "path": "Campus/DetailsV08/Furniture_Keyboard_Tools/Materials/V08_Anodized.uasset",
+        "bytes": 64768,
+        "sha256": "c0472fab9d263ab55b531e52b333df5c284c4f7ab7cec49614496d1e0fe4aeaf",
+        "baseline_sha256": "3db4e32ca153d4a78cb46dc4701fe83e29d64452399aa1a4fc0423d25264e1b0"
+      },
+      {
+        "path": "Campus/DetailsV08/Furniture_Keyboard_Tools/Materials/V08_KeyLegend.uasset",
+        "bytes": 64779,
+        "sha256": "a02ef3af9a6d63b430ff591ed948dafeb058dd8b78389c753bbcc231d4ca568f",
+        "baseline_sha256": "42641a4a96025b304992356b6417be93c37a18010b7a02598e15406f72f7a509"
+      },
+      {
+        "path": "Campus/DetailsV08/Furniture_Keyboard_Tools/Materials/V08_Nylon.uasset",
+        "bytes": 64735,
+        "sha256": "ab779ef4e3d361cbb76d47c69c379a13025468ae8c8539e7b6d0ff6e0aa26d69",
+        "baseline_sha256": "72e7bb64cb9962d8baa0727fda01786066187e7aebbcf734d5d47f30bdc61d0d"
+      },
+      {
+        "path": "Campus/DetailsV08/Furniture_Keyboard_Tools/Materials/V08_PBT_0.uasset",
+        "bytes": 64731,
+        "sha256": "2c6bb8567dbb0db658cfea5530cac8269ea71ff95f549065a208312ad6861d2f",
+        "baseline_sha256": "4e5374da0f957d0d472ad8ea7670ae1340a9fa25275b76f2d00464b7b2cdd0e0"
+      },
+      {
+        "path": "Campus/DetailsV08/Furniture_Keyboard_Tools/Materials/V08_PBT_1.uasset",
+        "bytes": 64731,
+        "sha256": "a45de71629eac448b366d87eaacdec5c9212011a15305c64c17b319f9ed7a37d",
+        "baseline_sha256": "d58faa4b53302485d95ce0677aa7d2444dfa448ce217a1e4b8b1fd344cba1f84"
+      },
+      {
+        "path": "Campus/DetailsV08/Furniture_Keyboard_Tools/Materials/V08_PBT_2.uasset",
+        "bytes": 64731,
+        "sha256": "ee349c20660fe183d0dd51cad961e4e3fd4e9e82df7fe12eb3b7ea87ccacab1c",
+        "baseline_sha256": "178071c3d9c37f2e7dbcdbe83d98ecb82ab580943b347e2b3d11b60e03a2b7be"
+      },
+      {
+        "path": "Campus/DetailsV08/Furniture_Keyboard_Tools/Materials/V08_PBT_3.uasset",
+        "bytes": 64734,
+        "sha256": "85eddd163e0ecbb72486fbb9e8b2f338862d73ab4b5ec5f641d9936c05298f21",
+        "baseline_sha256": "e9a573cd498d8415861b813ad0352d30b475c63500201f10d738c9fad857cc2d"
+      },
+      {
+        "path": "Campus/DetailsV08/Furniture_Keyboard_Tools/Materials/V08_PowderCoatedSteel.uasset",
+        "bytes": 64870,
+        "sha256": "5d541ddba4b3adc587e1f4dd8bde51a6f521f7e6377973e3b55e2397d94c7be8",
+        "baseline_sha256": "51d18ef9f558b0d536c2c44b2bcdb7ea162e508db8be4d631e37f802470bc8dc"
+      },
+      {
+        "path": "Campus/DetailsV08/Furniture_Keyboard_Tools/Materials/V08_Rubber.uasset",
+        "bytes": 64746,
+        "sha256": "79055b1b808864063bc35b55ac1513e5a00ba31f59227f0158325775498776b2",
+        "baseline_sha256": "d1078a7b7ecd4802370ec66573345bd1d6f25ef0348d12e8a1c5547a6418c520"
+      },
+      {
+        "path": "Campus/DetailsV08/Furniture_Keyboard_Tools/Materials/V08_Seam.uasset",
+        "bytes": 64724,
+        "sha256": "51409bf16dc63fd0e3596b8792120af21eeee620918c87cb0902657cbe6b92ce",
+        "baseline_sha256": "8378c757051304e529c3d5c6ceede8aff4675c4a5444504dc7440b186f56cd2c"
+      },
+      {
+        "path": "Campus/DetailsV08/Furniture_Keyboard_Tools/Materials/V08_Steel.uasset",
+        "bytes": 64735,
+        "sha256": "276dfe62c200ca5797c32800ccb04aa334eec975ab2240f4e66fa02025f13562",
+        "baseline_sha256": "0495fd257056f4cf201436af4303c4cf2e15cf01956d35838c3702beda7919f0"
+      },
+      {
+        "path": "Campus/DetailsV08/Furniture_Keyboard_Tools/Materials/V08_ToolGrip.uasset",
+        "bytes": 64771,
+        "sha256": "38d32ac971bd42ae53f85e729bd692e8d388059a8af0571d0e5247f65d538d21",
+        "baseline_sha256": "e134cbdd8084ab7c8d6692fb66be9d011b6ef2e82e95dfbf3f4646229cb73752"
+      },
+      {
+        "path": "Campus/DetailsV08/M_WovenChair.uasset",
+        "bytes": 6363,
+        "sha256": "4388b7834ba22134814670dbf78dc63e13c995c4d4d9bfccda9af064699c509c",
+        "baseline_sha256": "e6f28322ec1b28af20d4ee64ac89f237ca3d2acbdaac339b2908e63053fd197e"
+      },
+      {
+        "path": "Campus/EquipmentV06/cure/cure/Materials/cure_PBR.uasset",
+        "bytes": 70165,
+        "sha256": "441c29c862c0675a573d4816f3a1dfba6e901ccc36aa584b50c71955e2d73111",
+        "baseline_sha256": "3d0da141f77ee85b800b0a899ca93d5692a21c29bb37aecaba99df99378289f9"
+      },
+      {
+        "path": "Campus/EquipmentV06/form3/form3/Materials/form3_PBR.uasset",
+        "bytes": 70241,
+        "sha256": "10ccdb9bde65546a0b1f620783b379a52e3640936666a1e5176dd84704b874fa",
+        "baseline_sha256": "db8a5d99d54c78ab470041fb96ce2a7621a184b6ca09afeecec9d67209591056"
+      },
+      {
+        "path": "Campus/EquipmentV06/form4/form4/Materials/form4_PBR.uasset",
+        "bytes": 70241,
+        "sha256": "718ea5ce1c2d4a8cadfc0c976fd0025d434894b1a9ad17dc8f674abb6b7a19a6",
+        "baseline_sha256": "f3175f2696f0eb776ec00d407f07cd158a019c9546bde648c80bdd9d99846ca0"
+      },
+      {
+        "path": "Campus/EquipmentV06/h2d/h2d/Materials/h2d_PBR.uasset",
+        "bytes": 70071,
+        "sha256": "1642b5cb51c3da633d186c87bafa68417b93e020d58397517cf35d0eabb5fd67",
+        "baseline_sha256": "01a412e959b2565c61efb5c1773d67e16ebe23b2f1ed759baff3400a053aef52"
+      },
+      {
+        "path": "Campus/EquipmentV06/pc/pc/Materials/pc_PBR.uasset",
+        "bytes": 69995,
+        "sha256": "71e547cb45d05862cb5a53a54a3242451d368e5fec0123a4dbc18703b5c98995",
+        "baseline_sha256": "8b29437a7bf2d2f3cf2277f4349a5eff64f111abaa82979ebec7a1b683128af0"
+      },
+      {
+        "path": "Campus/EquipmentV06/robot/robot/Materials/BakedMaterial.uasset",
+        "bytes": 71181,
+        "sha256": "fb9f7cd84c7f9c80d0c5484f412bb41f7c5db8ebc7ff0ea86ecbc884ff8e600a",
+        "baseline_sha256": "f7b50d8da1a78cc523573ff0a19c5eb5de798912db46ec6f0db222277cef182d"
+      },
+      {
+        "path": "Campus/EquipmentV06/solder/solder/Materials/BakedMaterial.uasset",
+        "bytes": 71253,
+        "sha256": "32f019f9d5633c10d4cfda4c86a9c4e2428d672ab532395d334e29848f9d508f",
+        "baseline_sha256": "be1c0fc7a1f1bba6ef0772c5c218a7f3c1f6da6415e8f2d5918bf4d03173d351"
+      },
+      {
+        "path": "Campus/EquipmentV06/wash/wash/Materials/wash_PBR.uasset",
+        "bytes": 70165,
+        "sha256": "b64f6be3269bd9856f2e117f36d6e5c9776e19cfa2942bfddd7b8d118f840411",
+        "baseline_sha256": "bfe12a07717350f6d3b83fce0460426e66a01bc5bc01ce674128f7b7f7881818"
+      },
+      {
+        "path": "Campus/ILabV05/ILab_Upgrade/Materials/ILab_AmberCover.uasset",
+        "bytes": 64639,
+        "sha256": "ee71a28e790be131d71e9d9081e23c0965bb5aead8dbd48b6e3e73bca24003d5",
+        "baseline_sha256": "b6be662723513f7ba6a894052d38731415b6ff57b208d34dadd288a2b28e26fc"
+      },
+      {
+        "path": "Campus/ILabV06/ILab_Furniture/Materials/ILab_BrushedMetal.uasset",
+        "bytes": 64685,
+        "sha256": "761c8b6cff377b527c8134741342fa31299f772794aea3e6ed19470d482e954e",
+        "baseline_sha256": "5aad1a2028296232c11901bf7cb5585890ed2c8d3b8a1fbe587cf67e22559227"
+      },
+      {
+        "path": "Campus/ILabV06/ILab_Furniture/Materials/V06_PegboardTools.uasset",
+        "bytes": 67232,
+        "sha256": "b8ffd0a7727d78e00fb8107245f1c7d05307d0bb5a3879658094dc75c54817df",
+        "baseline_sha256": "4a5fa6b4899295b174dfdd074da3e7877fe7628323ba2a52888ad807b2da2338"
+      },
+      {
+        "path": "Campus/ILabV06/ILab_Furniture/Materials/V06_PowderCoat.uasset",
+        "bytes": 64652,
+        "sha256": "85525c5c9a71b4b9d0583f00a067ff65decc399e0dab3cf0eb2bf6cbd11dd714",
+        "baseline_sha256": "0d8382b592153a6c44c0efbe807768d81886d40147b40d1ae8b19365cfd16d31"
+      },
+      {
+        "path": "Campus/ILabV06/ILab_Furniture/Materials/V06_Rubber.uasset",
+        "bytes": 64608,
+        "sha256": "c53027b9ba8a17ca0afe9d79dbe9a0d48292c2cad293fb820d6f3cf25f7e04e5",
+        "baseline_sha256": "750fb96129e49aa5d65ab726b9a55f224b4369c7c9f874b2d63ff3abc0355493"
+      },
+      {
+        "path": "Campus/ILabV06/Surface/M_AMS_DarkEnclosure.uasset",
+        "bytes": 9868,
+        "sha256": "fee4001b2ecda440a9bf77e748811dd33f9ad4838f190696271bc46e314eeb2b",
+        "baseline_sha256": "6c5229b0d8ec9b5d64b027b3508c120f6b298a2d9a6ba8478229d28b019a2578"
+      },
+      {
+        "path": "Campus/ILabV06/Surface/M_WorktableOak.uasset",
+        "bytes": 6452,
+        "sha256": "7e6e91df20c29b785eb3de42133d3ff920e8b22dab9716cd45f49747026c7998",
+        "baseline_sha256": "8d13af7bbe05705dc63eec87b40e5d2b9eebda3e818e838233fa44c0e29710bd"
+      },
+      {
+        "path": "Campus/ILabV06Tech/ILab_Trellis_UE/Materials/Material_0.uasset",
+        "bytes": 68424,
+        "sha256": "7418b0ec380d920009e487f92be0ed5d3c7caaa3bcda1a4dbb1f3f18bb3346b2",
+        "baseline_sha256": "b2b86f8b326612457328cce6a4ca8f1f5083e5580c9a85adb58a881196fc4183"
+      },
+      {
+        "path": "Campus/ILabV06Tech/ILab_Trellis_UE/Materials/Material_0_002.uasset",
+        "bytes": 68636,
+        "sha256": "3fbb218a9a8d145faf856ae8f793cdde135bb940b08355a2640c1ffa021ece19",
+        "baseline_sha256": "115526c6f785cd100bebe3460c03a5405f4f659f00476e47d2303ebf5ed7deb3"
+      },
+      {
+        "path": "Campus/ILabV06Tech/ILab_Trellis_UE/Materials/Material_0_003.uasset",
+        "bytes": 68636,
+        "sha256": "6c6d6f48076452f5298676eb5f6fcad313855707539efd265301dd1f51ce271a",
+        "baseline_sha256": "6c295aef384460f8ffc9f397f208758042688c850a321815286896d6b7ac0f4e"
+      },
+      {
+        "path": "Campus/ILabV06Tech/ILab_Trellis_UE/Materials/Material_0_005.uasset",
+        "bytes": 68656,
+        "sha256": "e5cf32ca748827b130e92c2b44c7a657248ddfe2e0a3354a49c95fae36aa752d",
+        "baseline_sha256": "66a8aa8db595326ccbe148272e5798e241c69e7f660f2b7b657823f48c900acc"
+      },
+      {
+        "path": "Campus/ILabV06Tech/ILab_Trellis_UE/Materials/Material_0_006.uasset",
+        "bytes": 68656,
+        "sha256": "37366c369aa44c61f7d801b281a9ae0dc90127fa969158df4ea608c9823d846d",
+        "baseline_sha256": "4bbdc4c24cc77b686d975ce4bc878dda1fcfb344e1a40214e3a6241da70a79f0"
+      },
+      {
+        "path": "Campus/ILabV06Tech/ILab_Trellis_UE/Materials/V06_RepairedPrinterBack.uasset",
+        "bytes": 64787,
+        "sha256": "8b0337c29b108c84496035caa58357be88a2014cd90299dfb1faf9dd0f7ef1b7",
+        "baseline_sha256": "23ea63ac8f453648daffe5a6bcdb66a5dfa8e9a3a3f4ff49595f7a7a1aad4658"
+      },
+      {
+        "path": "Campus/Revision25R01/DoorAccessR14/Campus_R25_UpperDoorOpen_R14/Materials/SLOT_Anodized_aluminum.uasset",
+        "bytes": 65041,
+        "sha256": "2988c0b0650102ed4d623fbcbb9cfa0f7f64e7e50d1a4c3a74b46a4f282205f8",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/DoorAccessR14/Campus_R25_UpperDoorOpen_R14/Materials/SLOT_Brushed_stainless_hardware.uasset",
+        "bytes": 65140,
+        "sha256": "cb982c8a228bd630037323c919555c7fd590facd365782eb97e6dd14a9d7fd22",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/DoorAccessR14/Campus_R25_UpperDoorOpen_R14/Materials/SLOT_Clear_architectural_glazing.uasset",
+        "bytes": 65151,
+        "sha256": "b4cfc0b50a4f0a1bcb3818a5b4d8d8e8c44317d18dc39a9317126fe12fbbafa1",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/DoorAccessR14/Campus_R25_UpperDoorOpen_R14/Materials/SLOT_Natural_oak.uasset",
+        "bytes": 64975,
+        "sha256": "278333c213bc413ac7303905f83fcd3cb4e802ecafd1054f15c5e1eb638f2742",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/DoorAccessR14/Campus_R25_UpperDoorOpen_R14/StaticMeshes/R14_Retained_Doors_Upper_07_11.uasset",
+        "bytes": 156474,
+        "sha256": "62a33c4f23de551a71147c66ea5028a4c9796439e95aa88e5605e4416cf01187",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/DoorAccessR14/Campus_R25_UpperDoorOpen_R14/StaticMeshes/R14_Retained_Doors_Upper_08_11.uasset",
+        "bytes": 200965,
+        "sha256": "dadef5135509e868cbfb8f29a58e6f7bb22457e4e77ee42773180b0838367a63",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/DoorAccessR14/Campus_R25_UpperDoorOpen_R14/StaticMeshes/R14_UpperClassDoor_Open90.uasset",
+        "bytes": 156127,
+        "sha256": "caa7644319acca09056de93d4046f9b91688cff61ee85eb7666ad8ca176ab8a9",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/DoorAccessR15/Campus_R25_UpperDoorOpen_R15/Materials/SLOT_Anodized_aluminum.uasset",
+        "bytes": 65030,
+        "sha256": "51fe26e8ed104f610bb73fbe8355eef76e24e887d6d50d92515b71376b8f2812",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/DoorAccessR15/Campus_R25_UpperDoorOpen_R15/Materials/SLOT_Brushed_stainless_hardware.uasset",
+        "bytes": 65129,
+        "sha256": "37a9e037401d1e5a07d9160046c17ab6c8ca69cf24a378848f5b2b35ddb334a2",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/DoorAccessR15/Campus_R25_UpperDoorOpen_R15/Materials/SLOT_Clear_architectural_glazing.uasset",
+        "bytes": 65140,
+        "sha256": "f8961e91b00bdbdb3c8e5b85e03491190a59e5d5b5a8471a1ba3c64d504b5bd9",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/DoorAccessR15/Campus_R25_UpperDoorOpen_R15/StaticMeshes/Campus_R25_UpperDoorOpen_R15.uasset",
+        "bytes": 156323,
+        "sha256": "702260ce7a39b09443bf970539401b44ec05e1448db3d493e54a6de4335361e5",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/Materials/SLOT_Anodized_aluminum.uasset",
+        "bytes": 64894,
+        "sha256": "a968795aaa88bc40ab6ded379da6b32008d6d7ca580a9ef5b18ac7dd1c875c32",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/Materials/SLOT_Brushed_stainless_hardware.uasset",
+        "bytes": 64993,
+        "sha256": "2b4b5d6e5fd16680c1cf8b957d3a6d713b48bf9bc89002450a13fbda15148620",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/Materials/SLOT_Clear_architectural_glazing.uasset",
+        "bytes": 65004,
+        "sha256": "ef97a7cf2f0afc3741c798da009cdb2c10a7a345e68be33732f0a68b42a2c55f",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/Materials/SLOT_Dark_metal.uasset",
+        "bytes": 64817,
+        "sha256": "9d06058912f9ba23fb54a424106e4de907bfdd58940f59a49bec8ab910abcbbe",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/Materials/SLOT_Gray_thin_brick.uasset",
+        "bytes": 64872,
+        "sha256": "20051a92438db7a97163c7469f466e7a1e7b748871c005780f6d3b15351d9236",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/Materials/SLOT_Light_stone_paving.uasset",
+        "bytes": 64905,
+        "sha256": "28d16834dade88019536fec49256aac21f99b646f4f93f43964e1b7fa1594e89",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/Materials/SLOT_Natural_oak.uasset",
+        "bytes": 64828,
+        "sha256": "2a0b7f10cc68df5fdb818909f8f23fe74d07f63cca65cfa3e4cc6bd4c24f9d6a",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/Materials/SLOT_V02_Light_blue_matte_interior_paint.uasset",
+        "bytes": 65092,
+        "sha256": "e469ed2a28db9799b5788688a69b4a55c149d7bbdfb6b400e89a96899827565c",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/Materials/SLOT_Warm_ivory_facade_brick.uasset",
+        "bytes": 64960,
+        "sha256": "c42b81017d039f9f29b1aee8e7ba6ab01cdf96fb9e35ad07eabf7417c5a76a81",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/Materials/SLOT_Warm_white_plaster.uasset",
+        "bytes": 64905,
+        "sha256": "ffaa7003a6e577561c51eeac38596b686692bdcfc8b00dfd14f28f96d40871b6",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Ground_04_11.uasset",
+        "bytes": 85832,
+        "sha256": "add388616f0adb0f557291f1968fc16bb1502abfd5d68ebbe9fa661b3cb32c90",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Ground_04_12.uasset",
+        "bytes": 97023,
+        "sha256": "6c88fbc3aa460ad0c76072c63461568bb6222a8f013e939d99009a0c2e819bc6",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Ground_04_13.uasset",
+        "bytes": 97579,
+        "sha256": "5c928ea9416b501802f7ab08700284dea78b68cbc791a053aee27fd6885e92ea",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Ground_05_13.uasset",
+        "bytes": 94229,
+        "sha256": "b757f936a70e1d1b5989cca1e1b70a4568a25816ef1b116064b2219ff709a400",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Ground_07_10.uasset",
+        "bytes": 115209,
+        "sha256": "88bce8f7cd7649788435120c620951d5ebbef380e744590bac4be217e12a4c00",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Ground_07_11.uasset",
+        "bytes": 92058,
+        "sha256": "062a7cadbf97c184eecdb54149828a5734bc6879c5f7bde408dc061755add9f0",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Ground_08_11.uasset",
+        "bytes": 100553,
+        "sha256": "bb6e43b30fbe42c8146b6a058bb1df0e5ebf04a700c9278bd2dbcc7e88bcc77b",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Ground_09_11.uasset",
+        "bytes": 98001,
+        "sha256": "33edd035f55120ec08f0992b286a36daefd623343083d81061fc81087e9d8a86",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Ground_10_13.uasset",
+        "bytes": 91482,
+        "sha256": "26ad674cb1aeb7979fe6684ee67158f10a1fc4483956a7f1db7408d194380c14",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Upper_04_11.uasset",
+        "bytes": 107345,
+        "sha256": "d012065aa7a3494c8051983ebeef8266fcdbf593f8b5023a795547aad2b4f890",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Upper_04_12.uasset",
+        "bytes": 93177,
+        "sha256": "a4bb8375f05c4c5eb3e2c66d611b909ef7293d74f338d68a885959daa1c34759",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Upper_05_11.uasset",
+        "bytes": 94015,
+        "sha256": "182fc14bef406f235e6b36c6a8c3aa6c2503ca79ee83e897cac202d5c0d8ee68",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Upper_07_12.uasset",
+        "bytes": 77298,
+        "sha256": "ec26231c8506531e048fe210a579c952b70777619810ef2da1453fb9d26b3b8a",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Upper_08_12.uasset",
+        "bytes": 82093,
+        "sha256": "df1240c12cd93aade9f7aeb02a3a53879a30464a4917f249979a08c929c6cdd6",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/StaticMeshes/R25_Architecture_Upper_12_11.uasset",
+        "bytes": 105187,
+        "sha256": "cb326ced7c26c455c9ee1bd74c489ac42f6bb265205d0689d81f785b29507b62",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/StaticMeshes/R25_Doors_Ground_04_13.uasset",
+        "bytes": 223348,
+        "sha256": "bc526011e1e03a67c9791465ec9edbeeffbb1dc5c862fec0872b1a8e8da7c73c",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/StaticMeshes/R25_Doors_Ground_04_14.uasset",
+        "bytes": 96694,
+        "sha256": "9a1f3f8767ee0e6e6a6623ad9adaf1570e215e6bbcab6ca484d863aa130e4511",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_00/StaticMeshes/R25_Doors_Ground_08_11.uasset",
+        "bytes": 211981,
+        "sha256": "89449e534a01230ff3180ed6b716cc225a37c29760c0ad47be5b9e7e964f68bb",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/Materials/SLOT_Anodized_aluminum.uasset",
+        "bytes": 64894,
+        "sha256": "59f7c411794671c64eb08489d9b817910bc4b86adf4b38d6c7e36c4b6a09441f",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/Materials/SLOT_Blockout_equipment_-_untextured.uasset",
+        "bytes": 65051,
+        "sha256": "1f9bf4caba50c90460992c8f76e533762bc4da5a46e9ab83fd4f8136e6570555",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/Materials/SLOT_Blockout_furniture_-_untextured.uasset",
+        "bytes": 65048,
+        "sha256": "42087cf08c45376bc252433c74207ecc89de286681dd9f4fb0913f79e7cfa358",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/Materials/SLOT_Brushed_stainless_hardware.uasset",
+        "bytes": 64993,
+        "sha256": "a9f5f8f5c9d5e0f42548954d2424ea2c7f1ede962a6c6cc2624cf886456566bf",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/Materials/SLOT_Clear_architectural_glazing.uasset",
+        "bytes": 65004,
+        "sha256": "25d8c2929123efe61bfe3172564309da115a07087109800b2e78b9a5ecb9d311",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/Materials/SLOT_Dark_metal.uasset",
+        "bytes": 64817,
+        "sha256": "e4b2c1099b09e142929e2d2d1b87db5bb63c21a48ba22f4578ac926a524c595e",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/Materials/SLOT_Gray_thin_brick.uasset",
+        "bytes": 64872,
+        "sha256": "c65bb0b00c2f1cad324925a176e020e785adb5c1c90fb099f3eeb217c8c1d8a6",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/Materials/SLOT_Natural_oak.uasset",
+        "bytes": 64828,
+        "sha256": "ddd1ca7e2cb39e72f874a42a55f81649b6b7ab6ca87c537ec709a5cfcaf1e88f",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/Materials/SLOT_Texture-free_equipment_gray.uasset",
+        "bytes": 65007,
+        "sha256": "18da06938aa5e15d14a9b1e9bf5cb8836bd755c76863a8abe67558c9bf128302",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/Materials/SLOT_V02_Light_blue_matte_interior_paint.uasset",
+        "bytes": 65092,
+        "sha256": "bdd57a889eec6b30ccd696fa141f52cd97dd19597faf4fdf33e4b017809d27ec",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/Materials/SLOT_V03_Amber_resin_hood.uasset",
+        "bytes": 64930,
+        "sha256": "eb9745a7056c68a23d603a3a54e4023d9bed260d2fe304fe40eea1990bb6bdae",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/Materials/SLOT_V03_Graphite_powdercoat.uasset",
+        "bytes": 64963,
+        "sha256": "05458c32ded202f294a3b184d55e5e0e86462c238100033eec07724cff88a130",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/Materials/SLOT_V8_plain_chair_shell.uasset",
+        "bytes": 64930,
+        "sha256": "ffeab2d9cc8d37e3fa7283f53d4dda33e0a8f89af5e0d2d01e3053e2264cca11",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/Materials/SLOT_V8_plain_dark_screen.uasset",
+        "bytes": 64927,
+        "sha256": "431afa3a4020c9b069024d83799553a0925ed12253be64889bacbaa6aec94ea9",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/Materials/SLOT_V8_plain_light_table_surface.uasset",
+        "bytes": 65018,
+        "sha256": "9155989ef9cfcec18d713a57460358530670e94ed03c5829707edf9c614c39a5",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/Materials/SLOT_V8_plain_porcelain.uasset",
+        "bytes": 64908,
+        "sha256": "153e8146f7b4269f6b3b81a1301469570786bcce7af398c3c6552dba8e51f0ec",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/Materials/SLOT_Warm_white_plaster.uasset",
+        "bytes": 64905,
+        "sha256": "3b9f43e7b8ea9b3a5c9dcb162b5e99e2525d0baef34e4ebe1b8e1ae0edfb817f",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/StaticMeshes/R25_Architecture_Upper_10_12.uasset",
+        "bytes": 97330,
+        "sha256": "1f0b724e9f8798230ebf870ba4f662ddfa52665308777600cd3c5d3f9ca13103",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/StaticMeshes/R25_Architecture_Upper_10_13.uasset",
+        "bytes": 102752,
+        "sha256": "b42b16c108fda813008d1b92ed867bbec75a454e60b0b5569f2f2a46732b0a1c",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/StaticMeshes/R25_Architecture_Upper_11_12.uasset",
+        "bytes": 92205,
+        "sha256": "e0283b0107b9d99c4fea25828c61d1fc79ca5e54efd96dc21511b54d32245a14",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/StaticMeshes/R25_Doors_Upper_04_11.uasset",
+        "bytes": 124489,
+        "sha256": "fe5a4b0c313c64fc6a5c73b8fbb44f5478ed6fce4e9b7e1135b6b39df8297efb",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/StaticMeshes/R25_Doors_Upper_04_12.uasset",
+        "bytes": 153486,
+        "sha256": "e811e72bc16a3f52285b207ff6d3010d93699e752f879070e1648e99f27d783a",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/StaticMeshes/R25_Doors_Upper_05_11.uasset",
+        "bytes": 145032,
+        "sha256": "534e3addb9fb62a912dc1b8df5021df8c7f29c549b5fb5d10a33e0c177a0be7b",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/StaticMeshes/R25_Equipment_Ground_04_11.uasset",
+        "bytes": 101614,
+        "sha256": "7c562d124ce34ac1f38f92544b820726423bf05afd0a483f6f2e267d6b8f0c5d",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/StaticMeshes/R25_Equipment_Ground_04_12.uasset",
+        "bytes": 117695,
+        "sha256": "be741db40e4c32baf7848a8f43334aef76ccd452bf9767d24a7861ea2a1dc074",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/StaticMeshes/R25_Equipment_Ground_04_13.uasset",
+        "bytes": 102169,
+        "sha256": "cc6e8d9f3114a7deb63f6c6d698ead16e3e76c0b9db76ae3a131157f98604a60",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/StaticMeshes/R25_Equipment_Ground_09_10.uasset",
+        "bytes": 3448708,
+        "sha256": "10baf75e340cc6ba22150249ff933b51cd0702089bc73da99a84cc1c759205cb",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/StaticMeshes/R25_Equipment_Upper_04_12.uasset",
+        "bytes": 88422,
+        "sha256": "2be351c890e54665a98c33e04f0589ac170b64dd6542fc8e50e4ea22d554c4a6",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/StaticMeshes/R25_Equipment_Upper_05_12.uasset",
+        "bytes": 76929,
+        "sha256": "e2c3baef436e93ce227eae64779f9a0ddfea68a50e2578a844d69cb7ceaa6360",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/StaticMeshes/R25_Furniture_Ground_08_11.uasset",
+        "bytes": 84013,
+        "sha256": "b8cffe4399bad8051712c6d4e91b1d73acff326889a5f4829d076a6e52559b41",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/StaticMeshes/R25_Furniture_Ground_11_10.uasset",
+        "bytes": 77050,
+        "sha256": "f4d5227fd88d43af8e97375a4c181fa0e111d6ff09cd458838ee7da6b4c1d2ec",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/StaticMeshes/R25_Furniture_Ground_11_12.uasset",
+        "bytes": 86287,
+        "sha256": "70f5d314df371459e7daaac90ebbf719c9f27e83e0d638545f1b0c39e10b6dac",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/StaticMeshes/R25_Furniture_Upper_05_12.uasset",
+        "bytes": 79227,
+        "sha256": "3882fa9eb34e43f7a937c13b6bf51b2135235fe180394db1a8084289b19e00e9",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/StaticMeshes/R25_Furniture_Upper_07_11.uasset",
+        "bytes": 76923,
+        "sha256": "ea2c3e70a1bbd21fa52dc888f738f8c819be840edb9a68294bcb27f7365552e0",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_01/StaticMeshes/R25_Furniture_Upper_08_11.uasset",
+        "bytes": 76934,
+        "sha256": "c5d243d0d6b8f605d8c1d343b3519ef3abf5438799d0f8bfdcb52d87da1afa3a",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/Materials/SLOT_Blockout_equipment_-_untextured.uasset",
+        "bytes": 65051,
+        "sha256": "50e8e6dab4102c7fae4a5e605d20f305017b4481c4086b39a0d2e87276d2522c",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/Materials/SLOT_Blockout_furniture_-_untextured.uasset",
+        "bytes": 65051,
+        "sha256": "e5bcc5b6f8b63c2b50aa3444e7f7ab1e12b1b519dd4deef0c5aa478bfd1d4be5",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/Materials/SLOT_Brushed_stainless_hardware.uasset",
+        "bytes": 64993,
+        "sha256": "6355c9542618f198d3ef20e74f9b022dba922d2c939c9a30de63e95b99b612de",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/Materials/SLOT_Clear_architectural_glazing.uasset",
+        "bytes": 65004,
+        "sha256": "57e5d794cb68e0b80f5a804ff3c8c5046743b23c71d6ea587f4627f94818d0a3",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/Materials/SLOT_Dark_metal.uasset",
+        "bytes": 64817,
+        "sha256": "eba6d228717e46c923fdff87bf6097f29588bd7cf47cd77c6d6608182820b9af",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/Materials/SLOT_Natural_oak.uasset",
+        "bytes": 64828,
+        "sha256": "34f35f9e0fa6afe81ffd9c130b54fd28fe058f339a5386215d47b25134a60b30",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/Materials/SLOT_Texture-free_equipment_gray.uasset",
+        "bytes": 65004,
+        "sha256": "fe46a78d25fffa01bb01c38cf92e75dc0eae7c94e6b241dbe6fe039c89660122",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/Materials/SLOT_V8_plain_chair_shell.uasset",
+        "bytes": 64927,
+        "sha256": "64fcc4adcfc98147af801c4b619994c9325b7f5dd24631870aed9ac1c0ad0ea5",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/Materials/SLOT_V8_plain_dark_screen.uasset",
+        "bytes": 64927,
+        "sha256": "12cef047cd860f8a6a5d667cd59b6ac4711af8045247a06ef8e56c683d034fc3",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/Materials/SLOT_V8_plain_light_table_surface.uasset",
+        "bytes": 65015,
+        "sha256": "04c15fbb84b3aef6198fedfa59624948ca239dfc60b3ee4685671526e35fd824",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/Materials/SLOT_V8_plain_porcelain.uasset",
+        "bytes": 64905,
+        "sha256": "b6b81632b044f2d549140aa810534327ac8524a040184ad181898a3c4cfc5656",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/Materials/SLOT_V8_plain_rubber.uasset",
+        "bytes": 64875,
+        "sha256": "eab35f8dee53c685b3b1abd6d48a34102117a21d9248fe0d3402bba51e3a3572",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/Materials/SLOT_V8_plain_sage_upholstery.uasset",
+        "bytes": 64974,
+        "sha256": "2c715decf33bc7a26b540b7611cfecd135e620e7a45e39608b3e05b45c54d426",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/Materials/SLOT_V8_recess_shade.uasset",
+        "bytes": 64875,
+        "sha256": "9036efd4844fbaa63a34d70c15179e696012f0afbba2d34d1a5b0eeb89d0ff85",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/Materials/SLOT_Warm_ivory_facade_brick.uasset",
+        "bytes": 64963,
+        "sha256": "5710ef2459f26eef73d5f98f3ee512305ef1251820f44f6bb4b3e36e29402a70",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/Materials/SLOT_Warm_white_plaster.uasset",
+        "bytes": 64905,
+        "sha256": "29b96cf3db65ea7f2f8b785e5d49944849a45a029517e3c2b888a83295b96ac8",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/StaticMeshes/R25_Equipment_Ground_08_10.uasset",
+        "bytes": 994678,
+        "sha256": "563cf82ce4e9694fdfd0456aa0e1708d1048bc86ecec9e31a69e251d926655e9",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/StaticMeshes/R25_Equipment_Ground_11_12.uasset",
+        "bytes": 164226,
+        "sha256": "beb644e1fd117917755f9812874577cd67e2aa4f4045bcdc490e5ece34ec429f",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/StaticMeshes/R25_Furniture_Ground_05_12.uasset",
+        "bytes": 486227,
+        "sha256": "c49d1e6c94a5f7f06be1927d61be66e4517223c5cb3d793ed73f4d1af62fab27",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/StaticMeshes/R25_Furniture_Ground_05_13.uasset",
+        "bytes": 282551,
+        "sha256": "28574400c3c511bac742c96bc30f85d17ee4574810cc8f6870554f33410d2c81",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/StaticMeshes/R25_G101_Architecture.uasset",
+        "bytes": 76866,
+        "sha256": "ee182234935918bcb88e8a017d36e4c634c11f4d238287ada118cb764b6c7e5e",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/StaticMeshes/R25_G102_Furniture.uasset",
+        "bytes": 451108,
+        "sha256": "14850d6f281a17d02af77af5e7eb55d84d3c179c4906b60a624762e7f3f9bb04",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/StaticMeshes/R25_G103_Furniture.uasset",
+        "bytes": 76706,
+        "sha256": "dbd021f5b22f938c987231e0a61de1a85cc520d94ecd12e2df74dbc03661a5f7",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/StaticMeshes/R25_G104_Furniture.uasset",
+        "bytes": 123066,
+        "sha256": "1ae315bdf2d9d58138c8c26c35eccdef6165a64352c71aefff0204cd0a6bc131",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/StaticMeshes/R25_G107_Furniture.uasset",
+        "bytes": 126541,
+        "sha256": "2dd174edc37f2b75937f8ea202f41ce190af6cdcd5a181ddb37bf6f30312a9f3",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/StaticMeshes/R25_G111_private_Architecture.uasset",
+        "bytes": 82435,
+        "sha256": "a854896832ec7f87eb33ca8d6ee525e95a60fe09b638c470718fe388d20acfe4",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/StaticMeshes/R25_G112_Furniture.uasset",
+        "bytes": 82495,
+        "sha256": "6b9172207ca6ca2952f46457336c79350840b43e18bf03594e54d37c98eb254a",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/StaticMeshes/R25_G113_Furniture.uasset",
+        "bytes": 84019,
+        "sha256": "5fc9883373bd0b4620b4b93ad8d98c768a6a4bcb303bf377edfb727af8a85e43",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/StaticMeshes/R25_G_TRAINER_SERVICE_Furniture.uasset",
+        "bytes": 94654,
+        "sha256": "530c23f6c4ecafd7e8288ac0496f3be52f5baf5007ef27dbe17685f0e7e59506",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/StaticMeshes/R25_U200_Furniture.uasset",
+        "bytes": 336459,
+        "sha256": "ddf46d831043362b07c87512408fc65c6116758dfe43aea0af4735bdb24a05c7",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/StaticMeshes/R25_U202_Furniture.uasset",
+        "bytes": 190016,
+        "sha256": "d7038304c5b48bbb6c0aad173f6870f3973a99f995a3d27ac3854b00dfb0fd47",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/StaticMeshes/R25_U204_Furniture.uasset",
+        "bytes": 169623,
+        "sha256": "6f0c40617c1aad4d687577fac001c46ba8b6eecdf8292b327ac415c5172d8a16",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/StaticMeshes/R25_U218_Furniture.uasset",
+        "bytes": 203660,
+        "sha256": "2f9680f236bcfce4ada05769700849792c327c8003672c4c81bb61fce96513e0",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_02/StaticMeshes/R25_Unassigned_Architecture.uasset",
+        "bytes": 77362,
+        "sha256": "c3021c2ccd5cbc6708a3712cfa3160193bf99a2f4bf2c3a74beb92bbfb9a98a1",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/Materials/SLOT_Blockout_equipment_-_untextured.uasset",
+        "bytes": 65057,
+        "sha256": "511579a10db521c7b988b95c2b5dda5fd37e60ecfeedf93e24d6744073dfae52",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/Materials/SLOT_Blockout_furniture_-_untextured.uasset",
+        "bytes": 65060,
+        "sha256": "a05781a106f7b2b03be9294ad8bf3a68582b127cb10b73acc4a2a17853ada2b3",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/Materials/SLOT_Brushed_stainless_hardware.uasset",
+        "bytes": 65002,
+        "sha256": "4ea10381e0c652218a22395f3f5527ecbcaf7e2a786f5dc883ac96ea76943c21",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/Materials/SLOT_Dark_metal.uasset",
+        "bytes": 64826,
+        "sha256": "0666c0e24a20359d34928a2e60d443c5c97a1a7cf22cb89faf33e34f8d14e19a",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/Materials/SLOT_Natural_oak.uasset",
+        "bytes": 64837,
+        "sha256": "2218a28665b329fc064a7305633de7c172866843d76a63479c7567bd509d237a",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/Materials/SLOT_V02_Commons_carpet_and_original_stone.uasset",
+        "bytes": 65126,
+        "sha256": "9d07922fae30c8d7c352a54b855e99829a5570572c940445372a86f9432f271b",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/Materials/SLOT_V8_plain_chair_shell.uasset",
+        "bytes": 64936,
+        "sha256": "03429b2244ff67dd01427271869750cb12eb5d7ca5e6698ccd7553885124cc1e",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/Materials/SLOT_V8_plain_light_table_surface.uasset",
+        "bytes": 65024,
+        "sha256": "08ae3eab6d386d5eba98e5f94f09e6e294283f3c0bfab8dc6ee1aff03e3423be",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/Materials/SLOT_V8_plain_porcelain.uasset",
+        "bytes": 64917,
+        "sha256": "d1916d1eb932c51d47577c2b7163f1d05272c1199952d3c92fdfd19abb816fad",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/Materials/SLOT_V8_plain_rubber.uasset",
+        "bytes": 64881,
+        "sha256": "8147dc0eb7608bd12addd38e202f8795983efc70a63a13a594e7d31bdcf38373",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/Materials/SLOT_V8_plain_sage_upholstery.uasset",
+        "bytes": 64980,
+        "sha256": "5598d7e3e6efe4f982c248f81f7eb94400719f7867dae7c744a829b53f266e37",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/Materials/SLOT_V8_recess_shade.uasset",
+        "bytes": 64881,
+        "sha256": "ccc2e9afbd626b12b6fafba12810df81d82b8111c20144f047c4cf40c6bdf4dd",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/Materials/SLOT_Warm_white_plaster.uasset",
+        "bytes": 64914,
+        "sha256": "6688f36e86092982927038e0b116f6fdb88ce3bad9053f8ec076c7999f935203",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/StaticMeshes/R25_G105_Furniture.uasset",
+        "bytes": 106013,
+        "sha256": "17839950f42d12cd3cdd514af3538b840ef62d6e0b5cfc641802a861e6d2bb2a",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/StaticMeshes/R25_G121_Architecture.uasset",
+        "bytes": 83517,
+        "sha256": "a777e0a15bf616943211e0fbf06755ed520beafb5bc5277acd596ce0a33aba1d",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/StaticMeshes/R25_G121_Furniture.uasset",
+        "bytes": 334110,
+        "sha256": "54fbcb7bd0ec803463d264af9db2f95ca405c86c0679b71a4ef74e31f68730a0",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/StaticMeshes/R25_G122_Architecture.uasset",
+        "bytes": 78837,
+        "sha256": "bc74a40ade500b42b97c9b116bbbccd114c117b9aab7d8ebb752e9cd5d6b0b30",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/StaticMeshes/R25_G122_Furniture.uasset",
+        "bytes": 333967,
+        "sha256": "aaf90b0f7805c91ad4f1693e218fd24a1cd249986ed69ee97f4eba59acaf0f90",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/StaticMeshes/R25_G126_Architecture.uasset",
+        "bytes": 77014,
+        "sha256": "330c1e263bc22bf7d88609e35d607a454275fe59daa57974bfbdee4af4f76555",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/StaticMeshes/R25_G127_Furniture.uasset",
+        "bytes": 102156,
+        "sha256": "36e805e301c0f7b0d740f81639b80a8be0d50aa320543d12d8cecd8bd288b572",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/StaticMeshes/R25_G_ATHLETICS_NE_Furniture.uasset",
+        "bytes": 136821,
+        "sha256": "33b517e4a7a8ab92e3a3122066a1d5b3467de5496449d7d168bae14b2a698f4b",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/StaticMeshes/R25_G_ATHLETICS_SW_Furniture.uasset",
+        "bytes": 102489,
+        "sha256": "04df505badc7410bfe4b77248d86313000714fae5dd461b724f1bcf00e2b0d4e",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/StaticMeshes/R25_G_SW_SERVICE_M_Architecture.uasset",
+        "bytes": 78828,
+        "sha256": "39a2ebbd693ef741ba9564d99e158c3014809ac8e3dd6cd46fd1b91c735e9375",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/StaticMeshes/R25_G_SW_SERVICE_N_Architecture.uasset",
+        "bytes": 78504,
+        "sha256": "b6bd30fad858029ce82f4960ffe41ad6a8413dd9854b5479478f7f9c40900737",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/StaticMeshes/R25_REV18_NorthToilet_DoorLeaf.uasset",
+        "bytes": 76834,
+        "sha256": "b38df1dafdc1e2df6446220e29f2ba80ca8e6184a2252127e4a61a0dcb4632bc",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/StaticMeshes/R25_U201_Furniture.uasset",
+        "bytes": 125360,
+        "sha256": "a6d9fae285213d21f82152cf02674c558af918895b0320933c73955d61f24656",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/StaticMeshes/R25_U_TOILET_MS_Architecture.uasset",
+        "bytes": 77760,
+        "sha256": "1b3499b12e0ce68903e00a873abfa1b4f7466c7fc981133b930b67e401b67e30",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/StaticMeshes/R25_U_TOILET_N_Architecture.uasset",
+        "bytes": 79040,
+        "sha256": "0f8f7f29ab4039e0cda9c8999cfa288beeb62f60853eeef8e8f93b39c059918d",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/StaticMeshes/R25_U_TOILET_N_Furniture.uasset",
+        "bytes": 102287,
+        "sha256": "96a6e5be96c6689f481df14bb80d34a337a96ed062d2805008b1e9bf0a11c1fc",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/StaticMeshes/R25_U_TOILET_S_Architecture.uasset",
+        "bytes": 78502,
+        "sha256": "74ec7c2d831cd7f6ad457f5e4dbde4499f6a0bb65249d39bccb46bdb441795a5",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_03/StaticMeshes/R25_U_TOILET_S_Furniture.uasset",
+        "bytes": 102311,
+        "sha256": "6574bf8bffe0c63b5bf64954c863bbd4c97ffe2c975a9a0d0e7878e4313b1d1a",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_04/Materials/SLOT_Natural_oak.uasset",
+        "bytes": 64837,
+        "sha256": "4773028e30ce25910a429d118219ce6941da8510753109eb98e9e97fe6b408c2",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_04/Materials/SLOT_Warm_white_plaster.uasset",
+        "bytes": 64914,
+        "sha256": "04ebaf8979472ebf1a32c3597b336c75b6af33ceaaf4cba255c450055a9284e7",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_04/StaticMeshes/R25_G_SW_SERVICE_S_Architecture.uasset",
+        "bytes": 77913,
+        "sha256": "5f6405baaec400536ce203698b2a62d6a4216c541df0abcf567cf76873d5d06a",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_04/StaticMeshes/R25_G_TRAINER_Architecture.uasset",
+        "bytes": 77261,
+        "sha256": "e1836746c83ae066a78c3627d5a68127d5ca24abe9fb98575d03956de64d7f97",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_04/StaticMeshes/R25_REV24_CompactEntry_DoorLeaf.uasset",
+        "bytes": 76843,
+        "sha256": "c1f67d9783c7179de820f96daaa621c50f521f26f0e32b3e65da79969863174e",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_04/StaticMeshes/R25_REV24_Service_MiddleAccess_DoorLeaf.uasset",
+        "bytes": 76927,
+        "sha256": "9a6bf3fa388db68d1e11ae21a6deeee66d821a9ffc4d1f1569b7c5fec62c1465",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_04/StaticMeshes/R25_REV24_Service_NorthEast_DoorLeaf.uasset",
+        "bytes": 76898,
+        "sha256": "47f01de61d744a92fc4ebbfe1f4bc165f061b5661df5be3bf90dad8e05b76b16",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_04/StaticMeshes/R25_REV24_Service_NorthWest_DoorLeaf.uasset",
+        "bytes": 76896,
+        "sha256": "d0eb096c256ec8fbf73cc1b51a3eb9378366d423f5fe5156465a3ea798645556",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_04/StaticMeshes/R25_REV24_Service_SouthWest_DoorLeaf.uasset",
+        "bytes": 76892,
+        "sha256": "2c6c2cb6b8df31b57fd67a2ab56af8ebe72545eb90cbe09beb99559635822e52",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_04/StaticMeshes/R25_REV24_Service_UtilityNorth_DoorLeaf.uasset",
+        "bytes": 76931,
+        "sha256": "eba9dadc1eadd186e3c59df556d8b0eda9e6015fb65fdebd298ac8581608e9ad",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_04/StaticMeshes/R25_REV24_SouthEntry_DoorLeaf.uasset",
+        "bytes": 76821,
+        "sha256": "c263f48dc011f211a6c9d20308b19b190a1180f3577805d8db729e28a4293ae8",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Geometry/Campus_R25_Delta_04/StaticMeshes/R25_REV24_TrainerSouth_DoorLeaf.uasset",
+        "bytes": 76840,
+        "sha256": "163a8d0095e797bec88e202fb4984cb98314cae5cb6d7595fa63807007aeb544",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Closed/Materials/SLOT_Natural_oak.uasset",
+        "bytes": 64939,
+        "sha256": "2e8348372834571c2496e3855bfddc54bc62cdccd9fe8b93305200ba4c6ab569",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Closed/Materials/SLOT_Natural_oak_001.uasset",
+        "bytes": 64983,
+        "sha256": "96cb6064b224db0ae37e73e3f7987c21cc4b6b00687d932d45875cf9e74ee93e",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Closed/Materials/SLOT_Natural_oak_002.uasset",
+        "bytes": 64983,
+        "sha256": "ca50e8cfd89c593e7c798718f86cee9a93df72b33a15b9b847ef839584bcb3bd",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Closed/Materials/SLOT_Natural_oak_003.uasset",
+        "bytes": 64983,
+        "sha256": "1a69d0a7a4da0db09d6a4d3fa74b442285e7f3cba736a51d2d4c3ab0a01370e3",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Closed/Materials/SLOT_Natural_oak_004.uasset",
+        "bytes": 64983,
+        "sha256": "f917bf4c18fd8bee6ebe22fa434d643bbb5d8a633fc1d0316b854e6c546e7008",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Closed/Materials/SLOT_Natural_oak_005.uasset",
+        "bytes": 64983,
+        "sha256": "b1c22bcf1d73eac835dff8554e935e3dc3aed1b3fe4dab9fc72220b8443bc20b",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Closed/Materials/SLOT_Natural_oak_006.uasset",
+        "bytes": 64983,
+        "sha256": "52cce74337f4329f0f68238c01524694f0ce6b020eb517f40f05dfe9ee4d344b",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Closed/Materials/SLOT_Natural_oak_007.uasset",
+        "bytes": 64983,
+        "sha256": "77b7f601c97678e519c5f28d06cfa07b1c157fc2da2fa23e52aec69816436d16",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Closed/StaticMeshes/R25_Partition_Closed_00.uasset",
+        "bytes": 77069,
+        "sha256": "0e5ea64d3a137e20f9706b9ccd41fe3df079c61e93f175b56cc9ae7eae1e0e22",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Closed/StaticMeshes/R25_Partition_Closed_01.uasset",
+        "bytes": 77131,
+        "sha256": "feaf6ae4afda3168aa6226bbfb8570d685e690f3f81cdde2de2cf32e939bc83d",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Closed/StaticMeshes/R25_Partition_Closed_02.uasset",
+        "bytes": 77137,
+        "sha256": "3409c1487dc137375066f5469434ab4a70afc65727a713a01078268ca9252b8c",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Closed/StaticMeshes/R25_Partition_Closed_03.uasset",
+        "bytes": 77137,
+        "sha256": "5b0f2fbe0d12a44eae8b9dfb3b2f0ea5215907ec78a8cb47132b2ac39dfcba39",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Closed/StaticMeshes/R25_Partition_Closed_04.uasset",
+        "bytes": 77137,
+        "sha256": "ecdc7d2c6ce47ba9dca3b02f66cd69093672af08170a045883e62dca4e8759d7",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Closed/StaticMeshes/R25_Partition_Closed_05.uasset",
+        "bytes": 77137,
+        "sha256": "f7e71453c715a43ae3c933c9b5b7d5a870d0231c6829ea62d166717a6630a999",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Closed/StaticMeshes/R25_Partition_Closed_06.uasset",
+        "bytes": 77137,
+        "sha256": "e4f6ebd8f05f8fe33d30b89e4dac2d472500b78945bafe1be04fd03d53bb3dc6",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Closed/StaticMeshes/R25_Partition_Closed_07.uasset",
+        "bytes": 77137,
+        "sha256": "3f0dde58c5b270554fbd071f38c5a5834a28d3d00f0dad55b4c85651e7a2c8bc",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Folded/Materials/SLOT_Warm_white_plaster.uasset",
+        "bytes": 65016,
+        "sha256": "1d5bfe87ccfb30f8b37ab55889555b0ae339ec0b74e3280f5e184aa69be68215",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Folded/Materials/SLOT_Warm_white_plaster_001.uasset",
+        "bytes": 65060,
+        "sha256": "8797a6d41ca1e5380977de4745a2abd84bff74e0ab92b0d5dba6055ebd5bf7de",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Folded/Materials/SLOT_Warm_white_plaster_002.uasset",
+        "bytes": 65060,
+        "sha256": "3c1bf1b922999b559291beaf44a37de578611116a7995f7d02e6db0342fc428f",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Folded/Materials/SLOT_Warm_white_plaster_003.uasset",
+        "bytes": 65060,
+        "sha256": "4135947ce2ecb562889f4ceb392eaff20c213531ab6d6382cca8117ae404a226",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Folded/Materials/SLOT_Warm_white_plaster_004.uasset",
+        "bytes": 65060,
+        "sha256": "ead645c70abe828aa935ca06060b87d7fee0edea31fd51746c40e0a12bfbae52",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Folded/Materials/SLOT_Warm_white_plaster_005.uasset",
+        "bytes": 65060,
+        "sha256": "8e0cce4d98de9f33368424d787de813af4de0bced4cefb41afa76007c3733696",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Folded/Materials/SLOT_Warm_white_plaster_006.uasset",
+        "bytes": 65060,
+        "sha256": "f1b111c7c7336c5572b38fe4c351c29a07b4ae45fb9b1e67a825d34631f9053c",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Folded/Materials/SLOT_Warm_white_plaster_007.uasset",
+        "bytes": 65060,
+        "sha256": "6047f35593ac9a7843ff5f7295572ebf9c4baad3f4f28de73b92fa27a09839c8",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Folded/StaticMeshes/R25_Partition_Folded_0.uasset",
+        "bytes": 78823,
+        "sha256": "701aaf7625f7545fae18fadb309666be08fae75e70eb14d93ec91601a59d031e",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Folded/StaticMeshes/R25_Partition_Folded_1.uasset",
+        "bytes": 78884,
+        "sha256": "3fb6083d4cde87a14bfa82569ec4d979b50ec7925f622d9ec1bd10eabcee9268",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Folded/StaticMeshes/R25_Partition_Folded_2.uasset",
+        "bytes": 78884,
+        "sha256": "a5836b28864e44dd1a1a6ff9237bbb1b0db791db899cd6c54a975adac46ed29b",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Folded/StaticMeshes/R25_Partition_Folded_3.uasset",
+        "bytes": 78884,
+        "sha256": "da1bd8f5272fe2b015fb3f6fa324e72f7135f44cd4de1f4c50d0ec0303829e1e",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Folded/StaticMeshes/R25_Partition_Folded_4.uasset",
+        "bytes": 78889,
+        "sha256": "5594edac174c6593056045a75c3e725345b231fdd7888bf98fc9ddbd486c44b0",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Folded/StaticMeshes/R25_Partition_Folded_5.uasset",
+        "bytes": 78884,
+        "sha256": "ab63265246ef9d8d2c6a09b69e21013c326b9d0accaec9808e0156ca58b2568f",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Folded/StaticMeshes/R25_Partition_Folded_6.uasset",
+        "bytes": 78891,
+        "sha256": "8be2b35e86d493193e4c7a1a043c800e8a41b9788b4bc179e3d408e731c96e8c",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/Revision25R01/Partition/Campus_R25_Partition_Folded/StaticMeshes/R25_Partition_Folded_7.uasset",
+        "bytes": 78884,
+        "sha256": "0456645f0cf82efe6c45261152750548cc917d2a229dc183ebc946dc7d0e7999",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/RuntimeCompatR01/Base_M_Default_54bd2060.uasset",
+        "bytes": 86806,
+        "sha256": "860eba1b671d986b644b6005cc0c7aa147c230644a6fb828c1a6b85c0d69b2af",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/RuntimeCompatR01/Parent_MI_Default_Opaque_7dfe6a62.uasset",
+        "bytes": 5079,
+        "sha256": "58e31b95216e4f7e9a078f5db0deeeb9e84eead6a8f608942eee0de2a51e7956",
+        "baseline_sha256": null
+      },
+      {
+        "path": "Campus/RuntimeCompatR01/Parent_MI_Default_Opaque_DS_a53f40f3.uasset",
+        "bytes": 5254,
+        "sha256": "f463e20fd48cad9e5440cdc1bf55d424bbeab8a6319b31e92b08b4e4c1b6ffba",
+        "baseline_sha256": null
+      }
+    ]
+  }
+]
