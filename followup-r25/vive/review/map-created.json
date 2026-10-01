@@ -1,0 +1,11 @@
+{
+  "map": "/Game/Campus/Maps/CampusCenter_Vive_EQ27_R07_OpenXR",
+  "baseline": "/Game/Campus/Maps/CampusCenter_Vive_EQ27_R06_TriggerWalk",
+  "actors_before": 2232,
+  "actors_after": 2233,
+  "default_xr_context": "/Game/Campus/ViveTriggerWalkR01/IMC_ViveTriggerWalk.IMC_ViveTriggerWalk",
+  "context_auto_add": false,
+  "context_registered_before_session": true,
+  "camera_contract": "Existing first-person camera locks to HMD; new map sets Local tracking origin to avoid adding floor height to elevated camera; no recenter/world-scale/speed/turning change",
+  "plugin_class_available": true
+}

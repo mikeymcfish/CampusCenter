@@ -1,0 +1,110 @@
+{
+  "frozen_utc": "2026-10-01T22:57:24.968239+00:00",
+  "baseline_git_branch": "codex/vr",
+  "baseline_git_commit": "db5b1cec11adbdf25b2df4e1615d00d5f009fc82",
+  "baseline_map": "/Game/Campus/Maps/CampusCenter_Vive_EQ27_R06_TriggerWalk",
+  "map": "/Game/Campus/Maps/CampusCenter_Vive_EQ27_R07_OpenXR",
+  "source_archive": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task-3\\vr-openxr-r07-r01\\CampusCenter_Vive_OpenXR_R07_Source.zip",
+  "archive_sha256": "7140087f98be2fcf8cf1daa1b9f8e2fee6b51d62ba06c38973a7d6a28b01666a",
+  "files": [
+    {
+      "project_relative_path": "CampusCenter.uproject",
+      "bytes": 813,
+      "sha256": "226c7da1f7110c83d7e3f00707bbbbd55230bb7e77827b08453134456529b7f0"
+    },
+    {
+      "project_relative_path": "Config/DefaultInput.ini",
+      "bytes": 14187,
+      "sha256": "6f9e1db1504ec3f365bbd808f2976a0342cde1ad6bfe44589bf33c3db14291cc"
+    },
+    {
+      "project_relative_path": "Plugins/CampusCrowdFix/CampusCrowdFix.uplugin",
+      "bytes": 592,
+      "sha256": "48dfe13c97580f88a0194c3a50a84c4a4301593f9234333dc0f717dcebfda5db"
+    },
+    {
+      "project_relative_path": "Plugins/CampusCrowdFix/Source/CampusCrowdFix/CampusCrowdFix.Build.cs",
+      "bytes": 529,
+      "sha256": "6685775991cfa67f359997c5fc827f44e590b48895f8c727e102556be463091e"
+    },
+    {
+      "project_relative_path": "Content/Campus/Maps/CampusCenter_Vive_EQ27_R07_OpenXR.umap",
+      "bytes": 27391895,
+      "sha256": "ac424605799debdddc8599fdc0741f0cba6d7bafd7fea314d57ead6f4778eac5"
+    },
+    {
+      "project_relative_path": "Plugins/CampusCrowdFix/Source/CampusCrowdFix/Public/CampusViveTriggerWalk.h",
+      "bytes": 2555,
+      "sha256": "c571eee9c2b114c1e07acefcc0d019105b63cd532f1e9ddb19784b233684feac"
+    },
+    {
+      "project_relative_path": "Plugins/CampusCrowdFix/Source/CampusCrowdFix/Public/CampusViveXROrigin.h",
+      "bytes": 690,
+      "sha256": "8d5a1dd4f15bf27b376698f43aa4ce4465cd521838334da4afcd5614c1952ffd"
+    },
+    {
+      "project_relative_path": "Plugins/CampusCrowdFix/Source/CampusCrowdFix/Private/CampusViveTriggerWalk.cpp",
+      "bytes": 7135,
+      "sha256": "165493dd3f904cb3b5ba4d68057c139881015f9a68ac11008453e986faaaa332"
+    },
+    {
+      "project_relative_path": "Plugins/CampusCrowdFix/Source/CampusCrowdFix/Private/CampusViveXROrigin.cpp",
+      "bytes": 2944,
+      "sha256": "a192f13c2f2675d29d2b819e8a70ad830b2f69023bac2c25914ebac2cccac53d"
+    },
+    {
+      "project_relative_path": "Content/Campus/ViveTriggerWalkR01/IA_TriggerWalk_Left.uasset",
+      "bytes": 1442,
+      "sha256": "64585fcbb0237bf9cc4a310ff616fa0a79dcb5afae3bc98f2e1016efabc1ed31"
+    },
+    {
+      "project_relative_path": "Content/Campus/ViveTriggerWalkR01/IA_TriggerWalk_Right.uasset",
+      "bytes": 1446,
+      "sha256": "5fda7a785edea53c4c50cba1b220c1773e01bc4240c1180afdeba726886273e1"
+    },
+    {
+      "project_relative_path": "Content/Campus/ViveTriggerWalkR01/IMC_ViveTriggerWalk.uasset",
+      "bytes": 3554,
+      "sha256": "c1502215b0453d4f5d8962788150454e7816c750f2a768f87e7addde382748e3"
+    }
+  ],
+  "OpenXR_activation": "Installed Epic OpenXR enabled; XRBase and EnhancedInput dependencies automatic. No legacy SteamVR plugin in installed UE runtime folder.",
+  "binding_registration": "DefaultMappingContexts includes existing trigger context with bAddImmediately=False; registered for OpenXR actions before session, activated only by trigger helper in the review map.",
+  "controller_bindings": {
+    "profile": "/interaction_profiles/htc/vive_controller",
+    "left_axis": "/user/hand/left/input/trigger/value",
+    "left_click": "/user/hand/left/input/trigger/click",
+    "right_axis": "/user/hand/right/input/trigger/value",
+    "right_click": "/user/hand/right/input/trigger/click",
+    "action_semantics": "Separate per-hand Axis1D highest-absolute-value actions; one horizontal camera-yaw movement request per frame; existing speed/collision/turning retained; release/focus/tracking safety latch."
+  },
+  "pawn_contract": "Retained BP_FirstPersonCharacter, HMD-locked elevated camera; R07-only origin helper selects application Local tracking origin when OpenXR provider exists. No floor-height guess, recenter, world-scale, rendering or movement change.",
+  "launch_contract": "Use new R07 launcher selecting map and adding -vr. Original default map retained for rollback; raw exe default is not the R07 review entry.",
+  "nonhardware_tests": "26 raw-key/OpenXR-style EnhancedInput injection cases plus 5 keyboard coexistence cases passed. No actual XR session/controller/headset certification.",
+  "runtime_blocker": "SteamVR absent from four registered Steam libraries; no active OpenXR registry runtime or environment override. OS/software changes are outside this authorization.",
+  "required_followup": "Authorized SteamVR installation/active OpenXR runtime selection and real Vive tracking/controller, height, collision, performance and comfort acceptance on hardware.",
+  "installed_source_provenance": [
+    {
+      "installed_engine_file": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Plugins\\Runtime\\OpenXR\\OpenXR.uplugin",
+      "sha256": "e60abfca16f1c284074602c81e02aaa9c5e0717ba6f7fdddf342efd902e5cd29"
+    },
+    {
+      "installed_engine_file": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Plugins\\Runtime\\XRBase\\XRBase.uplugin",
+      "sha256": "c1636e37d5e37a3832bba1d0c044705bc642d495dafbed0fc65af4dc1855e482"
+    },
+    {
+      "installed_engine_file": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Plugins\\Runtime\\OpenXR\\Source\\OpenXRInput\\Private\\OpenXRInput.cpp",
+      "sha256": "5bfc38c751ffc6427d4da74682c34c65197f151d96efd6323b70fe92e46c0fa2"
+    },
+    {
+      "installed_engine_file": "C:\\Program Files\\Epic Games\\UE_5.8\\Engine\\Plugins\\EnhancedInput\\Source\\EnhancedInput\\Public\\EnhancedInputDeveloperSettings.h",
+      "sha256": "fec6abddae5b4a246375696dae52e7478007f8345e637b81e482dea1344fd5f5"
+    }
+  ],
+  "official_sources": [
+    "https://dev.epicgames.com/documentation/unreal-engine/developing-for-steamvr-in-unreal-engine?lang=en-US",
+    "https://dev.epicgames.com/documentation/unreal-engine/openxr-input-in-unreal-engine",
+    "https://dev.epicgames.com/documentation/unreal-engine/developing-for-headmounted-experiences-with-openxr-in-unreal-engine?lang=en-US"
+  ],
+  "publication": "Parent publisher holds final publication pending the scoped XR/runtime readiness decision. No independent push."
+}

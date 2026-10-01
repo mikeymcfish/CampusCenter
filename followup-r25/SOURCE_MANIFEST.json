@@ -691,8 +691,8 @@
   },
   {
     "path": "README.md",
-    "bytes": 3447,
-    "sha256": "98fb6bf4ee7e38750cc312f21a6c64a5328122afd2b46a09d60a2481f72237d0"
+    "bytes": 7909,
+    "sha256": "89aa92ed986e87c8105efe4b0d3c9e64007592fd7e837a9ff6883e12cc2710c7"
   },
   {
     "path": "reception-bsod/ReceptionTV65_BSOD_R01.png",
@@ -790,6 +790,11 @@
     "sha256": "456f63e1e86002cacc633d3a158001b332cb2047384e24a7c721521dc5912feb"
   },
   {
+    "path": "scripts/publication/Reassemble-Downloads.ps1",
+    "bytes": 2071,
+    "sha256": "f7b85e61d70e5638f339ebc86460d167aab4535a12b4599bda3d89dfd1569025"
+  },
+  {
     "path": "scripts/trophies/build_plaque.py",
     "bytes": 5850,
     "sha256": "e2750a9105b7ac03ad80512921dc9dc73870d239fed182763de1cd4a0776bd38"
@@ -823,6 +828,61 @@
     "path": "scripts/trophies/validate_plaque.py",
     "bytes": 2384,
     "sha256": "fcae30ee390ead78dfbbd8eaa1fdf4a6c0583dd0a7e6cf31cbff2accf127ac42"
+  },
+  {
+    "path": "scripts/vive-r07/compare_preservation.py",
+    "bytes": 3423,
+    "sha256": "aa00a7370ee0fa9c8b9c5eb4c601508069dbd9c9042f416bc68fcff4d3eea951"
+  },
+  {
+    "path": "scripts/vive-r07/create_map.py",
+    "bytes": 2191,
+    "sha256": "61ae87e2d26a57192d4b88577c5e8668ffeb5eea55ded18977dabbbd766b7700"
+  },
+  {
+    "path": "scripts/vive-r07/finalize.py",
+    "bytes": 6320,
+    "sha256": "422f04e489d577c12cbd580777a7e54740041c1f700e5d59fffa573f89e6fc20"
+  },
+  {
+    "path": "scripts/vive-r07/freeze_source.py",
+    "bytes": 4366,
+    "sha256": "3f391b362ba3a9ba784a6e4d63f6138c95b85236561b5a15ce3ca88e46a3cf8c"
+  },
+  {
+    "path": "scripts/vive-r07/package_review.ps1",
+    "bytes": 3983,
+    "sha256": "e5b4664f292de21c9c0ad31b578f610d652860b95f290e83aafb0e7111ce71c7"
+  },
+  {
+    "path": "scripts/vive-r07/prepare_checks.py",
+    "bytes": 2184,
+    "sha256": "7740a08ad8b0174d624f4fc9c24fffbba593d1be59cc8d0babe6831a323f9e8d"
+  },
+  {
+    "path": "scripts/vive-r07/prepare_project.py",
+    "bytes": 2458,
+    "sha256": "4e08b3dce5b370284afa3a27ba7eff896fadf38f41e8c076f653e4538626d764"
+  },
+  {
+    "path": "scripts/vive-r07/smoke_normal.py",
+    "bytes": 2192,
+    "sha256": "74bfa5e67b20345edb4043ecfdf91f7c0b7916ba4830e1a02d2fd8359fde6130"
+  },
+  {
+    "path": "scripts/vive-r07/snapshot_after.py",
+    "bytes": 4676,
+    "sha256": "8cf221d0435ba98534c71a13def89c04877fde6bdf6dc8337e9a03c937a66cba"
+  },
+  {
+    "path": "scripts/vive-r07/test_input.py",
+    "bytes": 4323,
+    "sha256": "88aecbf176af1c02cc356023bcde31185a5c7866fbd3892b9a400a842520b99d"
+  },
+  {
+    "path": "scripts/vive-r07/test_keyboard.py",
+    "bytes": 3832,
+    "sha256": "562d53a62f42a6344679f1f047903082fa616e247b7fc90b31e06e6dd8ce068d"
   },
   {
     "path": "trophies/regional-plaque/export_validation.json",
@@ -1013,5 +1073,385 @@
     "path": "trophies/silver-cup/Trophy_Cup_Before_After.png",
     "bytes": 799374,
     "sha256": "ce019945f30729119d5ffcd7d79e3b908ac0a9f9aa3899f909c91c5a840a7479"
+  },
+  {
+    "path": "vive/project/CampusCenter.uproject",
+    "bytes": 813,
+    "sha256": "226c7da1f7110c83d7e3f00707bbbbd55230bb7e77827b08453134456529b7f0"
+  },
+  {
+    "path": "vive/project/Config/DefaultEngine.ini",
+    "bytes": 2244,
+    "sha256": "952434373b7cf7569584a383468b9e08a138400db01a79af0042a89c6bcd2a42"
+  },
+  {
+    "path": "vive/project/Config/DefaultGame.ini",
+    "bytes": 1114,
+    "sha256": "73eecad2fe296af95b2c60b1adfaaf691ea5f94bfaa58a7f64a25f613515e8e2"
+  },
+  {
+    "path": "vive/project/Config/DefaultInput.ini",
+    "bytes": 14187,
+    "sha256": "6f9e1db1504ec3f365bbd808f2976a0342cde1ad6bfe44589bf33c3db14291cc"
+  },
+  {
+    "path": "vive/project/Content/Campus/EquipmentEQ27R01/Runtime/FA26_PH02_Fitness218_027_EQ27_R01.uasset",
+    "bytes": 96438,
+    "sha256": "84eefad9a6104f33d9c68cf265929079d5d60ccd2c385f7165f8d114c66b7862"
+  },
+  {
+    "path": "vive/project/Content/Campus/EquipmentEQ27R01/Runtime/FA26_PH02_Fitness218_029_EQ27_R01.uasset",
+    "bytes": 95439,
+    "sha256": "6d285c383319140a1335bb1204aba6ee5cf2aa305dfe4518a69ee02cb1d4ed15"
+  },
+  {
+    "path": "vive/project/Content/Campus/EquipmentEQ27R01/Runtime/FA26_PH02_Fitness218_030_EQ27_R01.uasset",
+    "bytes": 94489,
+    "sha256": "bebf5024d48f3fb1a99266eb87a0a2bb47b39899f41d49da5d1454a0e27eac8d"
+  },
+  {
+    "path": "vive/project/Content/Campus/EquipmentEQ27R01/Runtime/R25_U218_Furniture_EQ27_R01.uasset",
+    "bytes": 509331,
+    "sha256": "453f8a53121abd05a4c449101a2c5a34a9843407b6132faa0f72ab4a182b640c"
+  },
+  {
+    "path": "vive/project/Content/Campus/Maps/CampusCenter_Vive_EQ27_R07_OpenXR.umap",
+    "bytes": 27391895,
+    "sha256": "ac424605799debdddc8599fdc0741f0cba6d7bafd7fea314d57ead6f4778eac5"
+  },
+  {
+    "path": "vive/project/Content/Campus/ReceptionBSODR01/M_ReceptionBSOD.uasset",
+    "bytes": 8740,
+    "sha256": "20744a3001bb0e5091cd1b465b5da784a317ab7f436bb5365029356649518f2b"
+  },
+  {
+    "path": "vive/project/Content/Campus/ReceptionBSODR01/ReceptionTV65_BSOD_R01.uasset",
+    "bytes": 68976,
+    "sha256": "4a8df872f902b8116c547872cd8111bb018a53588c93ccee1d8eb21a4275bca4"
+  },
+  {
+    "path": "vive/project/Content/Campus/TrophiesTR27R01/Import/RegionalPlaque/LOD0/RegionalPlaque_Assembly/Materials/Clean_Walnut_Plinth_001.uasset",
+    "bytes": 7901,
+    "sha256": "0444fa42efed383286822a3f37cb04a0b5da02874945cde16a9927d4add47082"
+  },
+  {
+    "path": "vive/project/Content/Campus/TrophiesTR27R01/Import/RegionalPlaque/LOD0/RegionalPlaque_Assembly/Materials/Clean_Walnut_Plinth_002.uasset",
+    "bytes": 7877,
+    "sha256": "25fff2d6745a8e2b3a2012fea6d0632703713391a155f27860bab90d7b0cea84"
+  },
+  {
+    "path": "vive/project/Content/Campus/TrophiesTR27R01/Import/RegionalPlaque/LOD0/RegionalPlaque_Assembly/Materials/Clean_Walnut_Plinth_003.uasset",
+    "bytes": 7877,
+    "sha256": "62530b2679cdddfbf5ff50a7f68a4cc971e1e9193c29cb3d988b3017b5ce23c9"
+  },
+  {
+    "path": "vive/project/Content/Campus/TrophiesTR27R01/Import/RegionalPlaque/LOD0/RegionalPlaque_Assembly/Materials/Plaque_Satin_Silver.uasset",
+    "bytes": 7981,
+    "sha256": "f10fb5d8908cdd0a558af72b5587804f649f6a203afbeaddca9194f7939aed2f"
+  },
+  {
+    "path": "vive/project/Content/Campus/TrophiesTR27R01/Import/RegionalPlaque/LOD0/RegionalPlaque_Assembly/Textures/Plaque_Plinth_Lower_Walnut.uasset",
+    "bytes": 151009,
+    "sha256": "09562bf9fa70296dc3792b6bb709266d7e4369227f83caeff81d0c63f7d9294d"
+  },
+  {
+    "path": "vive/project/Content/Campus/TrophiesTR27R01/Import/RegionalPlaque/LOD0/RegionalPlaque_Assembly/Textures/Plaque_Plinth_Upper_Walnut.uasset",
+    "bytes": 166164,
+    "sha256": "81eae811dcc018f7bf41838614cb9d04dcd5360ecb75f8c37608a2af262ee676"
+  },
+  {
+    "path": "vive/project/Content/Campus/TrophiesTR27R01/Import/RegionalPlaque/LOD0/RegionalPlaque_Assembly/Textures/Trellis_Derived_Wood_Silhouette_Walnut.uasset",
+    "bytes": 157494,
+    "sha256": "4d069de3b10ae39c34b99d0d12efe68a9dd4cea1858c2f14c7c72bd4a284f032"
+  },
+  {
+    "path": "vive/project/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Materials/Blank_Silver_Plate.uasset",
+    "bytes": 7966,
+    "sha256": "eb89aaf8079d3d757f6a563a37918db0f61cfddc5e6802deee5ac7d0b90000c2"
+  },
+  {
+    "path": "vive/project/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Materials/Clean_Polished_Silver_001.uasset",
+    "bytes": 8001,
+    "sha256": "efb879e656f354244b67cb781ff6c2ce90c6f3871d5d2bbf31e6524638a901f4"
+  },
+  {
+    "path": "vive/project/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Materials/Clean_Walnut_Plinth_004.uasset",
+    "bytes": 7850,
+    "sha256": "9f3e633fe37d15c3ddd6bb248d2f4afa5217f38f31b01968cfd608aef363f51e"
+  },
+  {
+    "path": "vive/project/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Materials/Clean_Walnut_Plinth_005.uasset",
+    "bytes": 7852,
+    "sha256": "bff9e03324eb0002bbe0e75479e3c6115742602a0ed17aecbddc90ae0b0f4cb0"
+  },
+  {
+    "path": "vive/project/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Materials/Clean_Walnut_Plinth_006.uasset",
+    "bytes": 7848,
+    "sha256": "168a974233411f18816db008072a7cff72706f923ef6e336b78739ed5448c093"
+  },
+  {
+    "path": "vive/project/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Textures/Cup_Plinth_Block_Wood.uasset",
+    "bytes": 216663,
+    "sha256": "99d1b0886047e43a5b79f42054e89e14ebc01489f67b1097d75d93ceba80c086"
+  },
+  {
+    "path": "vive/project/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Textures/Cup_Plinth_Step_Wood.uasset",
+    "bytes": 212533,
+    "sha256": "c803ab7fc19c692ffcf16db4700770af1374120cbc936cdfdb404290d2afd0a3"
+  },
+  {
+    "path": "vive/project/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Textures/Cup_Plinth_Top_Wood.uasset",
+    "bytes": 206583,
+    "sha256": "f9217657c37f2ff7ca005ff0e8a7c962f1861eab1a6d2b06d0e27605dd018ca6"
+  },
+  {
+    "path": "vive/project/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Materials/Blank_Silver_Plate.uasset",
+    "bytes": 7966,
+    "sha256": "edd8d5463187b95fcbaea7803127fddda9061cc1f0c98757dd3a23f8e2b6661e"
+  },
+  {
+    "path": "vive/project/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Materials/Clean_Polished_Silver_001.uasset",
+    "bytes": 8001,
+    "sha256": "991e18697880947e98143e873be7b441043a8fc4a5e1370c0a635787a1d22a42"
+  },
+  {
+    "path": "vive/project/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Materials/Clean_Walnut_Plinth_004.uasset",
+    "bytes": 7850,
+    "sha256": "88b75fe0b2ed34ed9204e423a295f50f8326ce755e665d160715700a29cdf68b"
+  },
+  {
+    "path": "vive/project/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Materials/Clean_Walnut_Plinth_005.uasset",
+    "bytes": 7852,
+    "sha256": "6c25cb23f4974ece84b21d3eb5bb21b626b2025ae3e2c87a651b4af96f03ea25"
+  },
+  {
+    "path": "vive/project/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Materials/Clean_Walnut_Plinth_006.uasset",
+    "bytes": 7848,
+    "sha256": "7f2c53931b5404e430e76b00b67238d92202c77da12da3c9462f2adfa4d209f2"
+  },
+  {
+    "path": "vive/project/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Textures/Cup_Plinth_Block_Wood.uasset",
+    "bytes": 216663,
+    "sha256": "89c51cc5748d2adec6adb28ae49138ba615dcab96bcad0774befb4572527b3f1"
+  },
+  {
+    "path": "vive/project/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Textures/Cup_Plinth_Step_Wood.uasset",
+    "bytes": 212533,
+    "sha256": "c2668b8bb5264049568a0e77ae041fd266da1f3cc30b84efddf742459741c1d4"
+  },
+  {
+    "path": "vive/project/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Textures/Cup_Plinth_Top_Wood.uasset",
+    "bytes": 206583,
+    "sha256": "8756c6e2b4062c31f33a69ea19b8c928f90e0dbed4e7b643fcca6e5d6905c10d"
+  },
+  {
+    "path": "vive/project/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Materials/Blank_Silver_Plate.uasset",
+    "bytes": 7966,
+    "sha256": "ee652e50659601a798e7c3486a419fe551ecd0cd3337fc4886bb412d6cfa8b8c"
+  },
+  {
+    "path": "vive/project/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Materials/Clean_Polished_Silver_001.uasset",
+    "bytes": 8001,
+    "sha256": "66e1aeab7ac9bfdca6adf982057a84a73c7c6efd4c2db5cf58437f66503cf53f"
+  },
+  {
+    "path": "vive/project/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Materials/Clean_Walnut_Plinth_004.uasset",
+    "bytes": 7850,
+    "sha256": "00c285771a967923fbeccc531820bdbd8b7bc3cf8362c8f65cddb5b86cc840ee"
+  },
+  {
+    "path": "vive/project/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Materials/Clean_Walnut_Plinth_005.uasset",
+    "bytes": 7852,
+    "sha256": "f4f2acac4b612cacb5ab8310d89e1c6ee03d7453ccb605bf8b83b118e43610f1"
+  },
+  {
+    "path": "vive/project/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Materials/Clean_Walnut_Plinth_006.uasset",
+    "bytes": 7848,
+    "sha256": "9e855010e94a3ea48c1b6a231b8d6ddf432630838ba49e815efa43049cd148d2"
+  },
+  {
+    "path": "vive/project/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Textures/Cup_Plinth_Block_Wood.uasset",
+    "bytes": 216663,
+    "sha256": "aaf2ffbf5b6639099be545be47d940c0628a53f19dd46e075968ab7273d45bc1"
+  },
+  {
+    "path": "vive/project/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Textures/Cup_Plinth_Step_Wood.uasset",
+    "bytes": 212533,
+    "sha256": "813377b041cf01cf6557031b3f9285165b4789dccc525d90f8d075824b7d3d88"
+  },
+  {
+    "path": "vive/project/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Textures/Cup_Plinth_Top_Wood.uasset",
+    "bytes": 206583,
+    "sha256": "ae20143d131685a96bde2614bc0f8046872ebd55b71e1dbad05d42a9a3d842dc"
+  },
+  {
+    "path": "vive/project/Content/Campus/TrophiesTR27R01/Runtime/RegionalPlaque_TR27R01.uasset",
+    "bytes": 135870,
+    "sha256": "9f4d577c082027eea61151f31455f307540b93853a380f78b3139b867921a025"
+  },
+  {
+    "path": "vive/project/Content/Campus/TrophiesTR27R01/Runtime/SilverCup_TR27R01.uasset",
+    "bytes": 1403069,
+    "sha256": "01cf2f8e8d7b0a91137b97e5ffcbadcca26f10db062a49e69cbd8321ad2dd55b"
+  },
+  {
+    "path": "vive/project/Content/Campus/ViveTriggerWalkR01/IA_TriggerWalk_Left.uasset",
+    "bytes": 1442,
+    "sha256": "64585fcbb0237bf9cc4a310ff616fa0a79dcb5afae3bc98f2e1016efabc1ed31"
+  },
+  {
+    "path": "vive/project/Content/Campus/ViveTriggerWalkR01/IA_TriggerWalk_Right.uasset",
+    "bytes": 1446,
+    "sha256": "5fda7a785edea53c4c50cba1b220c1773e01bc4240c1180afdeba726886273e1"
+  },
+  {
+    "path": "vive/project/Content/Campus/ViveTriggerWalkR01/IMC_ViveTriggerWalk.uasset",
+    "bytes": 3554,
+    "sha256": "c1502215b0453d4f5d8962788150454e7816c750f2a768f87e7addde382748e3"
+  },
+  {
+    "path": "vive/project/Plugins/CampusCrowdFix/CampusCrowdFix.uplugin",
+    "bytes": 592,
+    "sha256": "48dfe13c97580f88a0194c3a50a84c4a4301593f9234333dc0f717dcebfda5db"
+  },
+  {
+    "path": "vive/project/Plugins/CampusCrowdFix/Source/CampusCrowdFix/CampusCrowdFix.Build.cs",
+    "bytes": 529,
+    "sha256": "6685775991cfa67f359997c5fc827f44e590b48895f8c727e102556be463091e"
+  },
+  {
+    "path": "vive/project/Plugins/CampusCrowdFix/Source/CampusCrowdFix/Private/CampusCrowdActorManagement.cpp",
+    "bytes": 3326,
+    "sha256": "cc407021efd420f76029913742febbf0eb14aa4309a71c45aa92efc621553fc2"
+  },
+  {
+    "path": "vive/project/Plugins/CampusCrowdFix/Source/CampusCrowdFix/Private/CampusViveTriggerWalk.cpp",
+    "bytes": 7135,
+    "sha256": "165493dd3f904cb3b5ba4d68057c139881015f9a68ac11008453e986faaaa332"
+  },
+  {
+    "path": "vive/project/Plugins/CampusCrowdFix/Source/CampusCrowdFix/Private/CampusViveXROrigin.cpp",
+    "bytes": 2944,
+    "sha256": "a192f13c2f2675d29d2b819e8a70ad830b2f69023bac2c25914ebac2cccac53d"
+  },
+  {
+    "path": "vive/project/Plugins/CampusCrowdFix/Source/CampusCrowdFix/Private/CampusWalkSettings.cpp",
+    "bytes": 865,
+    "sha256": "4b8003d9abd73d87ecd9f567ad9fad48aba4d3f2253ed3e37f4f9798e3916804"
+  },
+  {
+    "path": "vive/project/Plugins/CampusCrowdFix/Source/CampusCrowdFix/Private/CampusWalkTests.cpp",
+    "bytes": 2480,
+    "sha256": "a15103abb978ceeed29e21b00caa4ecb6c2c445578edad7bb1ac8fa3f9ba6a01"
+  },
+  {
+    "path": "vive/project/Plugins/CampusCrowdFix/Source/CampusCrowdFix/Public/CampusCrowdActorManagement.h",
+    "bytes": 755,
+    "sha256": "8337bd5c3729aed28e46efa1694239af798da6b163950f6f50a6dd89cafc7933"
+  },
+  {
+    "path": "vive/project/Plugins/CampusCrowdFix/Source/CampusCrowdFix/Public/CampusViveTriggerWalk.h",
+    "bytes": 2555,
+    "sha256": "c571eee9c2b114c1e07acefcc0d019105b63cd532f1e9ddb19784b233684feac"
+  },
+  {
+    "path": "vive/project/Plugins/CampusCrowdFix/Source/CampusCrowdFix/Public/CampusViveXROrigin.h",
+    "bytes": 690,
+    "sha256": "8d5a1dd4f15bf27b376698f43aa4ce4465cd521838334da4afcd5614c1952ffd"
+  },
+  {
+    "path": "vive/project/Plugins/CampusCrowdFix/Source/CampusCrowdFix/Public/CampusWalkSettings.h",
+    "bytes": 580,
+    "sha256": "b6b8d6a4847fefc8e54893183f5eca5bda97ebd3ca70d3fc3b83d1c3e8811edf"
+  },
+  {
+    "path": "vive/review/CampusCenter_Vive_R07_OpenXR_Review.md",
+    "bytes": 3825,
+    "sha256": "2ed6bfcb02829f5b9de60d0865b3e4aa125d549b3cf66b7d251ffc14a0d7d65e"
+  },
+  {
+    "path": "vive/review/CampusCenter_Vive_R07_OpenXR_Review.pdf",
+    "bytes": 277769,
+    "sha256": "86a6d68607e59d56fbd5e14b3743e1cafbaf53c230cdbd119d2c6ff5d48d455c"
+  },
+  {
+    "path": "vive/review/control-source-manifest.json",
+    "bytes": 6556,
+    "sha256": "a25f58848f974c43cde14526236d939e3d57fb94d79e186a5577426e66d6fdd2"
+  },
+  {
+    "path": "vive/review/diagnostic-gate-check.json",
+    "bytes": 43,
+    "sha256": "e44ab9844b4f6d7327019c90d2ce332b898541705413fabccdd2a83d8524866c"
+  },
+  {
+    "path": "vive/review/final-control-handoff.json",
+    "bytes": 3766,
+    "sha256": "dae895a96151fce961de33256e65183a310c684697c9447f17a19687744ec51e"
+  },
+  {
+    "path": "vive/review/input-validation.json",
+    "bytes": 465728,
+    "sha256": "b706e83b5ff9e0f71b00baffbd2e689e1112aec8564f6bc28f42bc86eea582e6"
+  },
+  {
+    "path": "vive/review/keyboard-validation.json",
+    "bytes": 93579,
+    "sha256": "7bb518cdbc23c1cc34fd65dc88068c1a7562b4ff5b6b79bd85596ebb1f828d66"
+  },
+  {
+    "path": "vive/review/map-created.json",
+    "bytes": 602,
+    "sha256": "551501723fc1380bdbe46cd61d650f232c6d9f4a518a3b3df2be91729c33f0af"
+  },
+  {
+    "path": "vive/review/package-final.json",
+    "bytes": 824,
+    "sha256": "c3b66e243b0763eba1d63a0e2bbd9f452f00d05c574b6a94ad3a9a4164251afd"
+  },
+  {
+    "path": "vive/review/preservation.json",
+    "bytes": 220,
+    "sha256": "40527b0fa698f55e61e03797e710d7ed16e83f7245ae0308f268eb3184cc922b"
+  },
+  {
+    "path": "vive/review/project-activation.json",
+    "bytes": 1379,
+    "sha256": "388e59e475a5ccaedafb4a5b5c7e5e19793e22d92ca7ec26c9c54f7e4c3cb074"
+  },
+  {
+    "path": "vive/review/protected-source-validation.json",
+    "bytes": 299,
+    "sha256": "bb035eda0a30f6d1b53f597d0fac63278577efd6496510577d8a5ec7125ac248"
+  },
+  {
+    "path": "vive/review/r06-predecessor/preservation.json",
+    "bytes": 220,
+    "sha256": "5446d74be7b6a012e405411dfdb6a4b27863354617d8632450c7e53a534f567b"
+  },
+  {
+    "path": "vive/review/r06-predecessor/pso-counter-correction.json",
+    "bytes": 2147,
+    "sha256": "5a3eac93820afc7f56b97947d507d639415ba2d9c7dde6fa7e218241a4934ed1"
+  },
+  {
+    "path": "vive/review/r06-predecessor/walking/validation.json",
+    "bytes": 63963,
+    "sha256": "32e687818e54d1fa3ec6b07cf2def3ad321a790a4ca2c5f33efabb938c9cd4bd"
+  },
+  {
+    "path": "vive/review/rollback-package-check.json",
+    "bytes": 62,
+    "sha256": "cd66c661c6994281603e55ee3f52897f0f137b74c3f7618e6a00cc47ed2db788"
+  },
+  {
+    "path": "vive/review/runtime-availability.json",
+    "bytes": 1258,
+    "sha256": "c233d4bb6ebc9bdb174a98a3015a1d6df06517835e11a7f83191a6cf28a1dd5d"
+  },
+  {
+    "path": "vive/review/runtime-validation.json",
+    "bytes": 4425,
+    "sha256": "0dc27e144604c189f6ea523238b3f7c95208db281d37c1a472598350b2f5b669"
   }
 ]

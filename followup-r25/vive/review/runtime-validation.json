@@ -1,0 +1,53 @@
+{
+  "status": "software/plugin/configuration checks passed; actual XR session blocked by missing runtime",
+  "runtime_material_or_fatal_warnings": [],
+  "XR_log_evidence": [
+    "LogPluginManager: Mounting Engine plugin OpenXR",
+    "LogPluginManager: Mounting Engine plugin XRBase",
+    "[2026.10.01-22.55.17:236][  0]LogHMD: OpenXRHMDModule::InitInstance using DefaultLoader.",
+    "[2026.10.01-22.55.17:239][  0]LogHMD: xrEnumerateInstanceExtensionProperties failed, suggests no runtime is installed.",
+    "[2026.10.01-22.55.17:239][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.",
+    "[2026.10.01-22.55.20:982][  0]LogTemp: Display: CampusViveXR: trigger mapping registered before XR action creation=true",
+    "[2026.10.01-22.55.20:982][  0]LogTemp: Warning: CampusViveXR: no active OpenXR tracking provider; runtime and headset readiness unverified",
+    "LogPluginManager: Mounting Engine plugin OpenXR",
+    "LogPluginManager: Mounting Engine plugin XRBase",
+    "[2026.10.01-23.00.43:787][  0]LogHMD: OpenXRHMDModule::InitInstance using DefaultLoader.",
+    "[2026.10.01-23.00.43:790][  0]LogHMD: xrEnumerateInstanceExtensionProperties failed, suggests no runtime is installed.",
+    "[2026.10.01-23.00.43:790][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.",
+    "[2026.10.01-23.00.47:238][  0]LogTemp: Display: CampusViveXR: trigger mapping registered before XR action creation=true",
+    "[2026.10.01-23.00.47:239][  0]LogTemp: Warning: CampusViveXR: no active OpenXR tracking provider; runtime and headset readiness unverified"
+  ],
+  "OpenXR_loader": {
+    "file": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task-3\\CampusCenter-vive\\review_build_vive_openxr_r07_r01\\Windows\\Engine\\Binaries\\ThirdParty\\OpenXR\\win64\\openxr_loader.dll",
+    "sha256": "a3c11dc3078256c4eef3e3107eb1c8f7298c208e46e087b12ec79af74bfad742"
+  },
+  "performance": [
+    {
+      "file": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task-3\\vr-openxr-r07-r01\\packaged-normal\\runtime.log",
+      "pso_creation_hitch_reports": [
+        "[2026.10.01-22.55.21:558][  0]LogPSOHitching: Encountered 50 PSO creation hitches so far (6 graphics, 44 compute). 0 of them were precached.",
+        "[2026.10.01-22.55.21:748][  0]LogPSOHitching: Encountered 100 PSO creation hitches so far (10 graphics, 90 compute). 0 of them were precached.",
+        "[2026.10.01-22.55.22:110][  0]LogPSOHitching: Encountered 150 PSO creation hitches so far (14 graphics, 136 compute). 0 of them were precached.",
+        "[2026.10.01-22.55.22:479][  0]LogPSOHitching: Encountered 200 PSO creation hitches so far (23 graphics, 177 compute). 0 of them were precached.",
+        "[2026.10.01-22.55.25:579][  3]LogPSOHitching: Encountered 250 PSO creation hitches so far (26 graphics, 224 compute). 2 of them were precached.",
+        "[2026.10.01-22.55.26:312][  5]LogPSOHitching: Encountered 300 PSO creation hitches so far (32 graphics, 268 compute). 13 of them were precached."
+      ],
+      "audio_underrun_lines": 0
+    },
+    {
+      "file": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task-3\\vr-openxr-r07-r01\\packaged-images\\Cases\\runtime.log",
+      "pso_creation_hitch_reports": [
+        "[2026.10.01-23.00.47:818][  0]LogPSOHitching: Encountered 50 PSO creation hitches so far (1 graphics, 49 compute). 0 of them were precached.",
+        "[2026.10.01-23.00.48:043][  0]LogPSOHitching: Encountered 100 PSO creation hitches so far (9 graphics, 91 compute). 0 of them were precached.",
+        "[2026.10.01-23.00.48:406][  0]LogPSOHitching: Encountered 150 PSO creation hitches so far (11 graphics, 139 compute). 0 of them were precached.",
+        "[2026.10.01-23.00.48:715][  0]LogPSOHitching: Encountered 200 PSO creation hitches so far (26 graphics, 174 compute). 0 of them were precached.",
+        "[2026.10.01-23.00.50:058][  0]LogPSOHitching: Encountered 250 PSO creation hitches so far (28 graphics, 222 compute). 0 of them were precached.",
+        "[2026.10.01-23.00.52:318][  5]LogPSOHitching: Encountered 300 PSO creation hitches so far (38 graphics, 262 compute). 2 of them were precached."
+      ],
+      "audio_underrun_lines": 0
+    }
+  ],
+  "headset_operation": "unverified",
+  "runtime_session_created": false,
+  "system_changes": false
+}

@@ -1,0 +1,14 @@
+{
+  "map": "/Game/Campus/Maps/CampusCenter_Vive_EQ27_R07_OpenXR",
+  "receipt": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task-3\\CampusCenter-vive\\unreal\\unreal_project\\Binaries\\Win64\\CampusCenter.target",
+  "source_configuration_restored": true,
+  "status": "Build/cook/stage only; packaged smoke test and visual verification required.",
+  "headset_operation": "unverified",
+  "map_sha256": "ac424605799debdddc8599fdc0741f0cba6d7bafd7fea314d57ead6f4778eac5",
+  "exit_code": 0,
+  "receipt_exists": true,
+  "automatic_config_rewrites": [
+    "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task-3\\CampusCenter-vive\\unreal\\unreal_project\\Config\\DefaultEngine.ini"
+  ],
+  "archive": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task-3\\CampusCenter-vive\\review_build_vive_openxr_r07_r01"
+}

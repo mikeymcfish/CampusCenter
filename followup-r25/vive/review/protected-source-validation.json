@@ -1,0 +1,10 @@
+{
+  "untouched_originals_verified": 9,
+  "scoped_exceptions": [
+    "unreal/unreal_project/CampusCenter.uproject",
+    "unreal/unreal_project/Config/DefaultInput.ini"
+  ],
+  "descriptor_only_OpenXR_activation": true,
+  "input_only_pre_session_context_registration": true,
+  "failures": []
+}

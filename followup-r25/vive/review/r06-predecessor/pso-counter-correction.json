@@ -1,0 +1,21 @@
+{
+  "reports": {
+    "vr-enhancement-eq27-r02": [
+      "[2026.10.01-20.43.12:155][  0]LogPSOHitching: Encountered 50 PSO creation hitches so far (3 graphics, 47 compute). 0 of them were precached.",
+      "[2026.10.01-20.43.12:348][  0]LogPSOHitching: Encountered 100 PSO creation hitches so far (10 graphics, 90 compute). 0 of them were precached.",
+      "[2026.10.01-20.43.12:572][  0]LogPSOHitching: Encountered 150 PSO creation hitches so far (11 graphics, 139 compute). 0 of them were precached.",
+      "[2026.10.01-20.43.12:970][  0]LogPSOHitching: Encountered 200 PSO creation hitches so far (20 graphics, 180 compute). 0 of them were precached.",
+      "[2026.10.01-20.43.13:495][  0]LogPSOHitching: Encountered 250 PSO creation hitches so far (28 graphics, 222 compute). 0 of them were precached.",
+      "[2026.10.01-20.43.16:347][  3]LogPSOHitching: Encountered 300 PSO creation hitches so far (32 graphics, 268 compute). 5 of them were precached."
+    ],
+    "vr-trigger-walk-r01": [
+      "[2026.10.01-22.26.22:723][  0]LogPSOHitching: Encountered 50 PSO creation hitches so far (5 graphics, 45 compute). 0 of them were precached.",
+      "[2026.10.01-22.26.22:953][  0]LogPSOHitching: Encountered 100 PSO creation hitches so far (15 graphics, 85 compute). 0 of them were precached.",
+      "[2026.10.01-22.26.23:163][  0]LogPSOHitching: Encountered 150 PSO creation hitches so far (15 graphics, 135 compute). 0 of them were precached.",
+      "[2026.10.01-22.26.23:544][  0]LogPSOHitching: Encountered 200 PSO creation hitches so far (26 graphics, 174 compute). 0 of them were precached.",
+      "[2026.10.01-22.26.23:924][  0]LogPSOHitching: Encountered 250 PSO creation hitches so far (36 graphics, 214 compute). 0 of them were precached.",
+      "[2026.10.01-22.26.26:683][  3]LogPSOHitching: Encountered 300 PSO creation hitches so far (37 graphics, 264 compute). 9 of them were precached."
+    ]
+  },
+  "correction": "Earlier R05 phrase pso hitch missed PSO creation hitches; frozen original report retained, corrected interpretation here. Six cold-start reports in each normal run. No settings change."
+}

@@ -1,0 +1,42 @@
+{
+  "Steam_library_checks": [
+    {
+      "library": "C:\\Program Files (x86)\\Steam",
+      "SteamVR_directory": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\SteamVR",
+      "directory_exists": false,
+      "appmanifest_250820_exists": false
+    },
+    {
+      "library": "D:\\SteamLibrary",
+      "SteamVR_directory": "D:\\SteamLibrary\\steamapps\\common\\SteamVR",
+      "directory_exists": false,
+      "appmanifest_250820_exists": false
+    },
+    {
+      "library": "T:\\SteamLibrary",
+      "SteamVR_directory": "T:\\SteamLibrary\\steamapps\\common\\SteamVR",
+      "directory_exists": false,
+      "appmanifest_250820_exists": false
+    },
+    {
+      "library": "P:\\SteamLibrary",
+      "SteamVR_directory": "P:\\SteamLibrary\\steamapps\\common\\SteamVR",
+      "directory_exists": false,
+      "appmanifest_250820_exists": false
+    }
+  ],
+  "OpenXR_registry_read_only": [
+    {
+      "hive": "HKLM",
+      "winerror": 2,
+      "error": "[WinError 2] The system cannot find the file specified"
+    },
+    {
+      "hive": "HKCU",
+      "winerror": 2,
+      "error": "[WinError 2] The system cannot find the file specified"
+    }
+  ],
+  "XR_RUNTIME_JSON_environment": null,
+  "system_changes": false
+}

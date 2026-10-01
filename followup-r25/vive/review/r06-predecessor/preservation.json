@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "baseline_actors_accounted": 2231,
+  "final_actor_count": 2232,
+  "allowed_additions": [
+    "Vive_Trigger_Walk_R01"
+  ],
+  "changed_existing_dependencies": [],
+  "actor_failures": []
+}

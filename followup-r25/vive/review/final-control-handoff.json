@@ -1,0 +1,79 @@
+{
+  "status": "XR-configured package and nonhardware checks complete; live SteamVR session/hardware acceptance blocked",
+  "completed_utc": "2026-10-01T23:02:41.453839+00:00",
+  "map": "/Game/Campus/Maps/CampusCenter_Vive_EQ27_R07_OpenXR",
+  "map_sha256": "ac424605799debdddc8599fdc0741f0cba6d7bafd7fea314d57ead6f4778eac5",
+  "archive": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task-3\\CampusCenter-vive\\review_build_vive_openxr_r07_r01\\Windows",
+  "launcher": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task-3\\CampusCenter-vive\\review_build_vive_openxr_r07_r01\\Windows\\Review_CampusCenter_Vive_R07_OpenXR.cmd",
+  "source_manifest": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task-3\\vr-openxr-r07-r01\\control-source-manifest.json",
+  "build_cook_stage_archive_exit": 0,
+  "VR_requested_normal_run_seconds": 301.87492537498474,
+  "normal_window_close_exit": 0,
+  "runtime_session_created": false,
+  "input_cases_passed": 26,
+  "keyboard_cases_passed": 5,
+  "baseline_actors_accounted": 2232,
+  "final_actor_count": 2233,
+  "configuration_exceptions": "OpenXR project activation; pre-session EnhancedInput context registration. XRBase dependency automatic; map-only Local tracking origin and -vr launcher. Other settings preserved.",
+  "runtime_blocker": "No SteamVR in four registered Steam libraries; HKLM/HKCU OpenXR ActiveRuntime missing; XR_RUNTIME_JSON unset. Packaged OpenXR loader reports extension enumeration failure due to no runtime. No installation/global selection performed.",
+  "headset_operation": "unverified; hardware/session/controller/performance/comfort acceptance pending",
+  "publication": "No independent push; parent publication hold until scoped readiness decision.",
+  "evidence": [
+    {
+      "file": "control-source-manifest.json",
+      "sha256": "a25f58848f974c43cde14526236d939e3d57fb94d79e186a5577426e66d6fdd2"
+    },
+    {
+      "file": "frozen-review-archive.json",
+      "sha256": "76c98ecf6f9292e20f51737f9be5b4eb4a486bb7ca9c0214756dd576cf768b51"
+    },
+    {
+      "file": "package-final.json",
+      "sha256": "c3b66e243b0763eba1d63a0e2bbd9f452f00d05c574b6a94ad3a9a4164251afd"
+    },
+    {
+      "file": "map-created.json",
+      "sha256": "551501723fc1380bdbe46cd61d650f232c6d9f4a518a3b3df2be91729c33f0af"
+    },
+    {
+      "file": "preservation.json",
+      "sha256": "40527b0fa698f55e61e03797e710d7ed16e83f7245ae0308f268eb3184cc922b"
+    },
+    {
+      "file": "protected-source-validation.json",
+      "sha256": "bb035eda0a30f6d1b53f597d0fac63278577efd6496510577d8a5ec7125ac248"
+    },
+    {
+      "file": "diagnostic-gate-check.json",
+      "sha256": "e44ab9844b4f6d7327019c90d2ce332b898541705413fabccdd2a83d8524866c"
+    },
+    {
+      "file": "input-validation.json",
+      "sha256": "b706e83b5ff9e0f71b00baffbd2e689e1112aec8564f6bc28f42bc86eea582e6"
+    },
+    {
+      "file": "keyboard-validation.json",
+      "sha256": "7bb518cdbc23c1cc34fd65dc88068c1a7562b4ff5b6b79bd85596ebb1f828d66"
+    },
+    {
+      "file": "runtime-availability.json",
+      "sha256": "c233d4bb6ebc9bdb174a98a3015a1d6df06517835e11a7f83191a6cf28a1dd5d"
+    },
+    {
+      "file": "runtime-validation.json",
+      "sha256": "0dc27e144604c189f6ea523238b3f7c95208db281d37c1a472598350b2f5b669"
+    },
+    {
+      "file": "rollback-package-check.json",
+      "sha256": "cd66c661c6994281603e55ee3f52897f0f137b74c3f7618e6a00cc47ed2db788"
+    },
+    {
+      "file": "packaged-normal/process-result.json",
+      "sha256": "c27a1c18f6132645f6bca841664f3c010ec6eb8ed62d5d93704fa6b3539b3514"
+    },
+    {
+      "file": "packaged-images/Cases/result.json",
+      "sha256": "d82fc4f31e894300b50ad05de34c1a8d44be2ba5a5ae3953df7e408e51ab7f51"
+    }
+  ]
+}
