@@ -355,6 +355,11 @@
     "sha256": "70a1466c44d677f84ff751ce628ecd3aa99c3ba16f979a9519aec6bc2dcbdec9"
   },
   {
+    "path": "BASELINE_DEPENDENCIES.json",
+    "bytes": 3591978,
+    "sha256": "6140a55ee4720b5b713d6dac4a36ec4548093b955fe8c5b315e5221ede36e9ac"
+  },
+  {
     "path": "blender/Campus_Center_New_Plans_Furniture_v26_b05.blend",
     "bytes": 250511297,
     "sha256": "3013db5f7f8171b403bd5fac8561c84e24591875aa049683f950c3ee4e19e56e"
@@ -726,8 +731,8 @@
   },
   {
     "path": "CampusCenter-print-r25-r01/requirements.txt",
-    "bytes": 66,
-    "sha256": "e8bddf09d723dfc191e4145214ec0e163458a3040b901d494c918c4a95048dfb"
+    "bytes": 80,
+    "sha256": "15e762be7ad8c18e637680950e1db7e65a9284b886deead68c0427360b2e6650"
   },
   {
     "path": "CampusCenter-print-r25-r01/source_inventory.json",
@@ -1816,8 +1821,8 @@
   },
   {
     "path": "README.md",
-    "bytes": 7519,
-    "sha256": "2b3275c974f231f71e06177e2eca9cb318fb48393e2fec8ff8c37c42cec88d47"
+    "bytes": 8628,
+    "sha256": "b132500b10c609c702d029ce7bad02f1d2f7aaebab65db997c91ff30948d7271"
   },
   {
     "path": "reviews/CampusCenter_v26_Furniture_Art_Review.pdf",
