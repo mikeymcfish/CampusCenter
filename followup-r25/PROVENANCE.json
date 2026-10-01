@@ -1,0 +1,8 @@
+{
+  "model": "microsoft/TRELLIS.2-4B",
+  "model_revision": "af44b45f2e35a493886929c6d786e563ec68364d",
+  "reported_model_license": "MIT",
+  "weights_included": false,
+  "outputs": "Manually cleaned generic cup and region plaque hybrids; supplied reference-derived silhouettes; no authentic inscriptions or award identity assertion. Rejected raw prototypes excluded.",
+  "raw_third_party_dependency_policy": "Same as previous v26 release; appropriately licensed Unreal baseline required, no new raw Epic/MetaHuman/Fab assets."
+}

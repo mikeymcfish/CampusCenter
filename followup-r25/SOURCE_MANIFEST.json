@@ -1,0 +1,1017 @@
+[
+  {
+    "path": "desktop-delta/approved-footprint-preservation.json",
+    "bytes": 1968,
+    "sha256": "179707ad7c9fd2634269326ac9d4d42081c789e5cb4847d394a815bc357ef316"
+  },
+  {
+    "path": "desktop-delta/case-hall-walking-validation.json",
+    "bytes": 10992,
+    "sha256": "d38ede3cdb2ae4a25984ada12e1ba143dae6af8bc3802fb6652e807b7cf152f8"
+  },
+  {
+    "path": "desktop-delta/case-orientation-fix.json",
+    "bytes": 1049,
+    "sha256": "c7e224e055839c9e4cf002f0609fd644493c6d6dda5e43a3be044d805ad61837"
+  },
+  {
+    "path": "desktop-delta/Content/Campus/EquipmentEQ27R01/Runtime/FA26_PH02_Fitness218_027_EQ27_R01.uasset",
+    "bytes": 96438,
+    "sha256": "84eefad9a6104f33d9c68cf265929079d5d60ccd2c385f7165f8d114c66b7862"
+  },
+  {
+    "path": "desktop-delta/Content/Campus/EquipmentEQ27R01/Runtime/FA26_PH02_Fitness218_029_EQ27_R01.uasset",
+    "bytes": 95439,
+    "sha256": "6d285c383319140a1335bb1204aba6ee5cf2aa305dfe4518a69ee02cb1d4ed15"
+  },
+  {
+    "path": "desktop-delta/Content/Campus/EquipmentEQ27R01/Runtime/FA26_PH02_Fitness218_030_EQ27_R01.uasset",
+    "bytes": 94489,
+    "sha256": "bebf5024d48f3fb1a99266eb87a0a2bb47b39899f41d49da5d1454a0e27eac8d"
+  },
+  {
+    "path": "desktop-delta/Content/Campus/EquipmentEQ27R01/Runtime/R25_U218_Furniture_EQ27_R01.uasset",
+    "bytes": 509331,
+    "sha256": "453f8a53121abd05a4c449101a2c5a34a9843407b6132faa0f72ab4a182b640c"
+  },
+  {
+    "path": "desktop-delta/Content/Campus/Maps/CampusCenter_FA26_Desktop_R25_CombinedReview.umap",
+    "bytes": 27266835,
+    "sha256": "758a0953f2609d4ba1b51d91a8eaff63377bedf9229364576624963e315dbef3"
+  },
+  {
+    "path": "desktop-delta/Content/Campus/ReceptionBSODR01/M_ReceptionBSOD.uasset",
+    "bytes": 8740,
+    "sha256": "20744a3001bb0e5091cd1b465b5da784a317ab7f436bb5365029356649518f2b"
+  },
+  {
+    "path": "desktop-delta/Content/Campus/ReceptionBSODR01/ReceptionTV65_BSOD_R01.uasset",
+    "bytes": 68976,
+    "sha256": "4a8df872f902b8116c547872cd8111bb018a53588c93ccee1d8eb21a4275bca4"
+  },
+  {
+    "path": "desktop-delta/Content/Campus/TrophiesTR27R01/Import/RegionalPlaque/LOD0/RegionalPlaque_Assembly/Materials/Clean_Walnut_Plinth_001.uasset",
+    "bytes": 7901,
+    "sha256": "0444fa42efed383286822a3f37cb04a0b5da02874945cde16a9927d4add47082"
+  },
+  {
+    "path": "desktop-delta/Content/Campus/TrophiesTR27R01/Import/RegionalPlaque/LOD0/RegionalPlaque_Assembly/Materials/Clean_Walnut_Plinth_002.uasset",
+    "bytes": 7877,
+    "sha256": "25fff2d6745a8e2b3a2012fea6d0632703713391a155f27860bab90d7b0cea84"
+  },
+  {
+    "path": "desktop-delta/Content/Campus/TrophiesTR27R01/Import/RegionalPlaque/LOD0/RegionalPlaque_Assembly/Materials/Clean_Walnut_Plinth_003.uasset",
+    "bytes": 7877,
+    "sha256": "62530b2679cdddfbf5ff50a7f68a4cc971e1e9193c29cb3d988b3017b5ce23c9"
+  },
+  {
+    "path": "desktop-delta/Content/Campus/TrophiesTR27R01/Import/RegionalPlaque/LOD0/RegionalPlaque_Assembly/Materials/Plaque_Satin_Silver.uasset",
+    "bytes": 7981,
+    "sha256": "f10fb5d8908cdd0a558af72b5587804f649f6a203afbeaddca9194f7939aed2f"
+  },
+  {
+    "path": "desktop-delta/Content/Campus/TrophiesTR27R01/Import/RegionalPlaque/LOD0/RegionalPlaque_Assembly/Textures/Plaque_Plinth_Lower_Walnut.uasset",
+    "bytes": 151009,
+    "sha256": "09562bf9fa70296dc3792b6bb709266d7e4369227f83caeff81d0c63f7d9294d"
+  },
+  {
+    "path": "desktop-delta/Content/Campus/TrophiesTR27R01/Import/RegionalPlaque/LOD0/RegionalPlaque_Assembly/Textures/Plaque_Plinth_Upper_Walnut.uasset",
+    "bytes": 166164,
+    "sha256": "81eae811dcc018f7bf41838614cb9d04dcd5360ecb75f8c37608a2af262ee676"
+  },
+  {
+    "path": "desktop-delta/Content/Campus/TrophiesTR27R01/Import/RegionalPlaque/LOD0/RegionalPlaque_Assembly/Textures/Trellis_Derived_Wood_Silhouette_Walnut.uasset",
+    "bytes": 157494,
+    "sha256": "4d069de3b10ae39c34b99d0d12efe68a9dd4cea1858c2f14c7c72bd4a284f032"
+  },
+  {
+    "path": "desktop-delta/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Materials/Blank_Silver_Plate.uasset",
+    "bytes": 7966,
+    "sha256": "eb89aaf8079d3d757f6a563a37918db0f61cfddc5e6802deee5ac7d0b90000c2"
+  },
+  {
+    "path": "desktop-delta/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Materials/Clean_Polished_Silver_001.uasset",
+    "bytes": 8001,
+    "sha256": "efb879e656f354244b67cb781ff6c2ce90c6f3871d5d2bbf31e6524638a901f4"
+  },
+  {
+    "path": "desktop-delta/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Materials/Clean_Walnut_Plinth_004.uasset",
+    "bytes": 7850,
+    "sha256": "9f3e633fe37d15c3ddd6bb248d2f4afa5217f38f31b01968cfd608aef363f51e"
+  },
+  {
+    "path": "desktop-delta/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Materials/Clean_Walnut_Plinth_005.uasset",
+    "bytes": 7852,
+    "sha256": "bff9e03324eb0002bbe0e75479e3c6115742602a0ed17aecbddc90ae0b0f4cb0"
+  },
+  {
+    "path": "desktop-delta/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Materials/Clean_Walnut_Plinth_006.uasset",
+    "bytes": 7848,
+    "sha256": "168a974233411f18816db008072a7cff72706f923ef6e336b78739ed5448c093"
+  },
+  {
+    "path": "desktop-delta/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Textures/Cup_Plinth_Block_Wood.uasset",
+    "bytes": 216663,
+    "sha256": "99d1b0886047e43a5b79f42054e89e14ebc01489f67b1097d75d93ceba80c086"
+  },
+  {
+    "path": "desktop-delta/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Textures/Cup_Plinth_Step_Wood.uasset",
+    "bytes": 212533,
+    "sha256": "c803ab7fc19c692ffcf16db4700770af1374120cbc936cdfdb404290d2afd0a3"
+  },
+  {
+    "path": "desktop-delta/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Textures/Cup_Plinth_Top_Wood.uasset",
+    "bytes": 206583,
+    "sha256": "f9217657c37f2ff7ca005ff0e8a7c962f1861eab1a6d2b06d0e27605dd018ca6"
+  },
+  {
+    "path": "desktop-delta/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Materials/Blank_Silver_Plate.uasset",
+    "bytes": 7966,
+    "sha256": "edd8d5463187b95fcbaea7803127fddda9061cc1f0c98757dd3a23f8e2b6661e"
+  },
+  {
+    "path": "desktop-delta/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Materials/Clean_Polished_Silver_001.uasset",
+    "bytes": 8001,
+    "sha256": "991e18697880947e98143e873be7b441043a8fc4a5e1370c0a635787a1d22a42"
+  },
+  {
+    "path": "desktop-delta/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Materials/Clean_Walnut_Plinth_004.uasset",
+    "bytes": 7850,
+    "sha256": "88b75fe0b2ed34ed9204e423a295f50f8326ce755e665d160715700a29cdf68b"
+  },
+  {
+    "path": "desktop-delta/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Materials/Clean_Walnut_Plinth_005.uasset",
+    "bytes": 7852,
+    "sha256": "6c25cb23f4974ece84b21d3eb5bb21b626b2025ae3e2c87a651b4af96f03ea25"
+  },
+  {
+    "path": "desktop-delta/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Materials/Clean_Walnut_Plinth_006.uasset",
+    "bytes": 7848,
+    "sha256": "7f2c53931b5404e430e76b00b67238d92202c77da12da3c9462f2adfa4d209f2"
+  },
+  {
+    "path": "desktop-delta/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Textures/Cup_Plinth_Block_Wood.uasset",
+    "bytes": 216663,
+    "sha256": "89c51cc5748d2adec6adb28ae49138ba615dcab96bcad0774befb4572527b3f1"
+  },
+  {
+    "path": "desktop-delta/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Textures/Cup_Plinth_Step_Wood.uasset",
+    "bytes": 212533,
+    "sha256": "c2668b8bb5264049568a0e77ae041fd266da1f3cc30b84efddf742459741c1d4"
+  },
+  {
+    "path": "desktop-delta/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Textures/Cup_Plinth_Top_Wood.uasset",
+    "bytes": 206583,
+    "sha256": "8756c6e2b4062c31f33a69ea19b8c928f90e0dbed4e7b643fcca6e5d6905c10d"
+  },
+  {
+    "path": "desktop-delta/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Materials/Blank_Silver_Plate.uasset",
+    "bytes": 7966,
+    "sha256": "ee652e50659601a798e7c3486a419fe551ecd0cd3337fc4886bb412d6cfa8b8c"
+  },
+  {
+    "path": "desktop-delta/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Materials/Clean_Polished_Silver_001.uasset",
+    "bytes": 8001,
+    "sha256": "66e1aeab7ac9bfdca6adf982057a84a73c7c6efd4c2db5cf58437f66503cf53f"
+  },
+  {
+    "path": "desktop-delta/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Materials/Clean_Walnut_Plinth_004.uasset",
+    "bytes": 7850,
+    "sha256": "00c285771a967923fbeccc531820bdbd8b7bc3cf8362c8f65cddb5b86cc840ee"
+  },
+  {
+    "path": "desktop-delta/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Materials/Clean_Walnut_Plinth_005.uasset",
+    "bytes": 7852,
+    "sha256": "f4f2acac4b612cacb5ab8310d89e1c6ee03d7453ccb605bf8b83b118e43610f1"
+  },
+  {
+    "path": "desktop-delta/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Materials/Clean_Walnut_Plinth_006.uasset",
+    "bytes": 7848,
+    "sha256": "9e855010e94a3ea48c1b6a231b8d6ddf432630838ba49e815efa43049cd148d2"
+  },
+  {
+    "path": "desktop-delta/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Textures/Cup_Plinth_Block_Wood.uasset",
+    "bytes": 216663,
+    "sha256": "aaf2ffbf5b6639099be545be47d940c0628a53f19dd46e075968ab7273d45bc1"
+  },
+  {
+    "path": "desktop-delta/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Textures/Cup_Plinth_Step_Wood.uasset",
+    "bytes": 212533,
+    "sha256": "813377b041cf01cf6557031b3f9285165b4789dccc525d90f8d075824b7d3d88"
+  },
+  {
+    "path": "desktop-delta/Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Textures/Cup_Plinth_Top_Wood.uasset",
+    "bytes": 206583,
+    "sha256": "ae20143d131685a96bde2614bc0f8046872ebd55b71e1dbad05d42a9a3d842dc"
+  },
+  {
+    "path": "desktop-delta/Content/Campus/TrophiesTR27R01/Runtime/RegionalPlaque_TR27R01.uasset",
+    "bytes": 135870,
+    "sha256": "9f4d577c082027eea61151f31455f307540b93853a380f78b3139b867921a025"
+  },
+  {
+    "path": "desktop-delta/Content/Campus/TrophiesTR27R01/Runtime/SilverCup_TR27R01.uasset",
+    "bytes": 1403069,
+    "sha256": "01cf2f8e8d7b0a91137b97e5ffcbadcca26f10db062a49e69cbd8321ad2dd55b"
+  },
+  {
+    "path": "desktop-delta/final-combined-implementation-manifest.json",
+    "bytes": 13925,
+    "sha256": "51d36cc69513c48d2a3aa070d782d8e7a3b659ded40e976fcd9435b9133f3857"
+  },
+  {
+    "path": "desktop-delta/final-native-preservation.json",
+    "bytes": 19953,
+    "sha256": "41d4d25ca78557018fc8b9637744b04af7b18c5d0cfa1821dc9d8d7d9ef85231"
+  },
+  {
+    "path": "desktop-delta/native-assets.json",
+    "bytes": 861,
+    "sha256": "bc8dc8735b46cc598e9c10e554050db9598b98d76c6125d7cee417f3c33122ad"
+  },
+  {
+    "path": "desktop-delta/native-bench-preservation.json",
+    "bytes": 2990,
+    "sha256": "d36fff2679188573a348ef4027386019d58987b4502176e3b79aa57bca38d364"
+  },
+  {
+    "path": "desktop-delta/native-material-binding-repair.json",
+    "bytes": 2629,
+    "sha256": "e2837343a31e9c9e0fae142b79a23703b50ec074936fa37388e9176367e22610"
+  },
+  {
+    "path": "desktop-delta/placement-manifest.json",
+    "bytes": 2974,
+    "sha256": "38067a6759d5b765646d9bda645a973578182375edc8ea718f596af8e7aa7008"
+  },
+  {
+    "path": "desktop-delta/portable-dependency-closure.json",
+    "bytes": 7090,
+    "sha256": "dec0ef97f5a85c5ad0cda4edc3ff498363f934af0690d8c183b0dca5c8353d99"
+  },
+  {
+    "path": "desktop-delta/portable-implementation-manifest.json",
+    "bytes": 14520,
+    "sha256": "09ddc88b546350088f7a2bef57c60fc55c8ca62ec7906c44040c518dfe14bc7f"
+  },
+  {
+    "path": "desktop-delta/README.md",
+    "bytes": 794,
+    "sha256": "ee8a606f394d6391c2c0b07d7d08a7cdf8d634d935d9e6e160603f1b595bfc80"
+  },
+  {
+    "path": "desktop-delta/trophy-collision-proof.json",
+    "bytes": 938,
+    "sha256": "93cbf55ed39dafd0af6cf1d0ca2f5207ce90759aa2710e2c78ad43872580321f"
+  },
+  {
+    "path": "desktop-delta/walking-validation.json",
+    "bytes": 53188,
+    "sha256": "cfd5dfe3ae9d1ebb5d6b378ee0dad485124ae4fd9a0edb4fd6d39d2cf8181eac"
+  },
+  {
+    "path": "desktop-review/build-status-r25.json",
+    "bytes": 4966,
+    "sha256": "04599927ac3a0ceda8bf01514ad64262e94518987d0d9777d155ef807ee5031b"
+  },
+  {
+    "path": "desktop-review/final-probe-and-visual-coverage.json",
+    "bytes": 2489,
+    "sha256": "0a21bf9f060e5aee9188d334aecd9734141ecf513d500dab8f4d28bc081cf003"
+  },
+  {
+    "path": "desktop-review/native-material-binding-repair.json",
+    "bytes": 2629,
+    "sha256": "e2837343a31e9c9e0fae142b79a23703b50ec074936fa37388e9176367e22610"
+  },
+  {
+    "path": "desktop-review/native-preview/before_AllTreadmills.png",
+    "bytes": 1055163,
+    "sha256": "43535e0351f82e1660265531ef75c6358a529a8dde4e159aca84fc64067d8548"
+  },
+  {
+    "path": "desktop-review/native-preview/before_CentralMachines.png",
+    "bytes": 1160632,
+    "sha256": "7aedf9d71b25f3280c25f7dcc7f56724aed75e85b5559dbac930e6ce2ea9312c"
+  },
+  {
+    "path": "desktop-review/native-preview/before_FitnessOverall.png",
+    "bytes": 957802,
+    "sha256": "d5fe2ecdf106fbc45741181dd160b6b105223e0510392ca1a6c58408215b251f"
+  },
+  {
+    "path": "desktop-review/native-preview/before_FiveRackStations.png",
+    "bytes": 1056448,
+    "sha256": "4cd51ff931381fe39816048b9819ca0db68f41601f1a3d56d145c7cd96459fa6"
+  },
+  {
+    "path": "desktop-review/native-preview/before_StandaloneBench35.png",
+    "bytes": 1001203,
+    "sha256": "c0cb541528add1a97dc41a60066728934f04b3a187a2a6b37859ca2875e733cd"
+  },
+  {
+    "path": "desktop-review/native-preview/before_StandaloneBench36.png",
+    "bytes": 998092,
+    "sha256": "337327b8f32e9a3c65b3303278a11ae154d6f1ee071f05ff471fe500dd557f3d"
+  },
+  {
+    "path": "desktop-review/native-preview/R24_Cup_Final.png",
+    "bytes": 1109615,
+    "sha256": "329a8c3baba5edaa0d6c4bc6f3c85e0651a63c21948a35eb40dbbcdc1403f4c8"
+  },
+  {
+    "path": "desktop-review/native-preview/R24_Equipment_Before_After.png",
+    "bytes": 2615720,
+    "sha256": "b52fdfa056dfa7ec288c410bb21f9847a52cfd13eab2cb709fdf626a8ca91d13"
+  },
+  {
+    "path": "desktop-review/native-preview/R24_NativeMaterials_AllTreadmills.png",
+    "bytes": 1064849,
+    "sha256": "d2d235c64b908752eccc391e543e8d2cca2611531c19ee32b080d942d0f67fa6"
+  },
+  {
+    "path": "desktop-review/native-preview/R24_NativeMaterials_CentralMachines.png",
+    "bytes": 1158705,
+    "sha256": "159d947db0813ed13c2e779395020d821fcfb25c1f0c282e29eb5b3fc3c2eee8"
+  },
+  {
+    "path": "desktop-review/native-preview/R24_NativeMaterials_FitnessOverall.png",
+    "bytes": 991189,
+    "sha256": "01d6f26fbd55e8c29d26ad0b7a3e801d76ec85199ad7d0e96f113f602eca7cac"
+  },
+  {
+    "path": "desktop-review/native-preview/R24_NativeMaterials_FiveRackStations.png",
+    "bytes": 1091207,
+    "sha256": "c897201c87677587fc23623d52646b12f5110db220a9789e49fac55c00516692"
+  },
+  {
+    "path": "desktop-review/native-preview/R24_NativeMaterials_SixTreadmills.png",
+    "bytes": 1070570,
+    "sha256": "08ba8766d307cf913c383c8d1eb19d0092c9249aa19ddae05ea2f9ee941dce19"
+  },
+  {
+    "path": "desktop-review/native-preview/R24_NativeMaterials_StandaloneBench35.png",
+    "bytes": 1039644,
+    "sha256": "92d7aa0099f3900578b88ffa583456d2ec3803652a8dbd303d77cbd261de1c8f"
+  },
+  {
+    "path": "desktop-review/native-preview/R24_NativeMaterials_StandaloneBench36.png",
+    "bytes": 1031995,
+    "sha256": "f974991429a59dc640836442f8ac393df70c6080dd489894c1181b4c610f7bff"
+  },
+  {
+    "path": "desktop-review/native-preview/R24_Plaque_Final.png",
+    "bytes": 910962,
+    "sha256": "4d9ff464f26ecf966ffcf7801068ab6e30386de1524c3530fc106ccdfc6d61eb"
+  },
+  {
+    "path": "desktop-review/native-preview/R25_CaseHall_Clearance.png",
+    "bytes": 999501,
+    "sha256": "4f5afe75f1a78dce3fade33cde8dac4b87e31629fda17a9a012c76b27455b535"
+  },
+  {
+    "path": "desktop-review/native-preview/R25_Reception_BSOD.png",
+    "bytes": 1162567,
+    "sha256": "ce4f8a126f6acf18b1c6a5f1fb59300d944fdf713f8af64af15d045ebbfbce6e"
+  },
+  {
+    "path": "desktop-review/native-preview/review-r25.html",
+    "bytes": 5545,
+    "sha256": "ef1693600fa92a1842123d7b7c8ea5095ccf5fd61422bff2f535c53fab46dd92"
+  },
+  {
+    "path": "desktop-review/portable-default-launch-proof.json",
+    "bytes": 484,
+    "sha256": "b224f3328e087dd1a0b9a543b604db5a4739ad39a59494e2c375b1a66a455f2d"
+  },
+  {
+    "path": "desktop-review/r25-cooked-portability-proof.json",
+    "bytes": 27248,
+    "sha256": "96103368945d929beb77ecc9e7471b7fb812fb4c12529f1a391c6ba97651a8c0"
+  },
+  {
+    "path": "desktop-review/r25-final-native-preservation.json",
+    "bytes": 19953,
+    "sha256": "41d4d25ca78557018fc8b9637744b04af7b18c5d0cfa1821dc9d8d7d9ef85231"
+  },
+  {
+    "path": "desktop-review/r25-trophy-collision-proof.json",
+    "bytes": 938,
+    "sha256": "93cbf55ed39dafd0af6cf1d0ca2f5207ce90759aa2710e2c78ad43872580321f"
+  },
+  {
+    "path": "desktop-review/README_R25.md",
+    "bytes": 2070,
+    "sha256": "b37d683d673baceb4d0e35345e7381315e77fb63a72910fdfa8af4a512a85c6d"
+  },
+  {
+    "path": "desktop-review/shared-consumer-handoff-r25-r02-identity.json",
+    "bytes": 746,
+    "sha256": "4e8353b731c32a0d562eae975a96e8f3eda74f161ba5b95fbcc82471d87cffad"
+  },
+  {
+    "path": "desktop-review/warm-smoke-measured-outcome.json",
+    "bytes": 2433,
+    "sha256": "8d6b4391dcd1aa32f0f36a90554607fc326e121636185c09c1e3b172fb33afa6"
+  },
+  {
+    "path": "equipment/audit.py",
+    "bytes": 1090,
+    "sha256": "c146a3f5f25e5ce2ac1f9b8012ee6aaa515e6164320e9a724c32e57e33459215"
+  },
+  {
+    "path": "equipment/AUDIT_AND_INTEGRATION.txt",
+    "bytes": 6261,
+    "sha256": "f93a98dbf1e9374cf277b09e0941ac542781e9ca9b5adae82eb239296306dc82"
+  },
+  {
+    "path": "equipment/b05_inventory.json",
+    "bytes": 1375602,
+    "sha256": "640382404616e164193a566f25cab668f6f0e441a7498fef4c7eb79e27499834"
+  },
+  {
+    "path": "equipment/build_equipment.py",
+    "bytes": 16330,
+    "sha256": "596ca72b38bd6b33d377481e13f26f770f053c2364765c1d540c90833df4d79a"
+  },
+  {
+    "path": "equipment/CampusCenter_Equipment_Editable_EQ27_R01.blend",
+    "bytes": 24962904,
+    "sha256": "77862ed5f103f62934efec7dd6d9d0c32eef82a606ad04cb53cb69e5208a95b8"
+  },
+  {
+    "path": "equipment/check_source_dependencies.py",
+    "bytes": 951,
+    "sha256": "27d30fe666c9b002b86ac7eecac111d813e539ebd8fd0ef6b2a8eb578856a3ad"
+  },
+  {
+    "path": "equipment/clean_staging.py",
+    "bytes": 281,
+    "sha256": "ad11d64c764b603d186e2eb160005431852f244e0177900742de8ee5e2a23f2f"
+  },
+  {
+    "path": "equipment/DELIVERY_CHECKS.json",
+    "bytes": 913,
+    "sha256": "889b4989b0252496653f9e3a3caaca4e83c5d408e6af450798194ce9fbf375a6"
+  },
+  {
+    "path": "equipment/equipment_inventory.csv",
+    "bytes": 3718,
+    "sha256": "0ed0c9118dbdeddd73dc4c1aefb48cffd831a453e257fddb6c720ea3ec9a97d4"
+  },
+  {
+    "path": "equipment/Equipment_Review.html",
+    "bytes": 5691,
+    "sha256": "b37acdf10fc03855efaa8773ccababd4c335d632d2dee759749545c0bb48da9a"
+  },
+  {
+    "path": "equipment/export_runtime_joined.py",
+    "bytes": 1931,
+    "sha256": "d32b97ab4962d010f29430691d688ddde5747013f162eef5f3af32a5452ace72"
+  },
+  {
+    "path": "equipment/exports/EQ27_PH02_Fitness218_003_World.glb",
+    "bytes": 222108,
+    "sha256": "624b44ed9b08369f0755d8695ec8e67e0d2345735030835f99e488497d2c60b6"
+  },
+  {
+    "path": "equipment/exports/EQ27_PH02_Fitness218_004_World.glb",
+    "bytes": 222112,
+    "sha256": "92ff9d89787c73a58632d167ff7d4e1461fcbd9d74d8fd7d93faa545ccf00064"
+  },
+  {
+    "path": "equipment/exports/EQ27_PH02_Fitness218_005_World.glb",
+    "bytes": 222116,
+    "sha256": "f19f0d1f9c8456860d3069ef374b05555b247aec962ec88c9e676e1c621401a4"
+  },
+  {
+    "path": "equipment/exports/EQ27_PH02_Fitness218_006_World.glb",
+    "bytes": 222096,
+    "sha256": "df6ef37131942a2453027934346d027d128abde53cffb708eb8ddaa94fd12230"
+  },
+  {
+    "path": "equipment/exports/EQ27_PH02_Fitness218_007_World.glb",
+    "bytes": 222112,
+    "sha256": "68c08a4613ba60234d2dac22c181b2e58fd06d44761d634365e9f4ae8e5513b4"
+  },
+  {
+    "path": "equipment/exports/EQ27_PH02_Fitness218_008_World.glb",
+    "bytes": 222100,
+    "sha256": "8c28b8bcb1413bc757d1b2fea1a3e38f38018032b2b04b31de7f83d6e1dc5fcd"
+  },
+  {
+    "path": "equipment/exports/EQ27_PH02_Fitness218_009_World.glb",
+    "bytes": 314784,
+    "sha256": "2583e7e2ea47a7f72ca52fab089987285412016daba0f9d1be8ad0a9812bfae6"
+  },
+  {
+    "path": "equipment/exports/EQ27_PH02_Fitness218_011_World.glb",
+    "bytes": 314840,
+    "sha256": "fdbb0be34a396d5366f7a6f7f2225c1d62b985738fd685ca8fa9db7e96309c1c"
+  },
+  {
+    "path": "equipment/exports/EQ27_PH02_Fitness218_013_World.glb",
+    "bytes": 315732,
+    "sha256": "736d4c72b393befa9dd02fe313e756551df4266c168a29aeb99f7c87f7e57788"
+  },
+  {
+    "path": "equipment/exports/EQ27_PH02_Fitness218_015_World.glb",
+    "bytes": 316676,
+    "sha256": "879fc4548526951fe6a27ef1ab5d3a49056025566bc9205985d5b5e689101462"
+  },
+  {
+    "path": "equipment/exports/EQ27_PH02_Fitness218_017_World.glb",
+    "bytes": 316676,
+    "sha256": "8c477082464606ef61f370f7e16eda499ce816ddb3336fcb9762e26eec1722f4"
+  },
+  {
+    "path": "equipment/exports/EQ27_PH02_Fitness218_027_RuntimeJoined.glb",
+    "bytes": 300748,
+    "sha256": "af27ee53e39326f5c65a02f0b2b1e577fb0a0caea4e9bc8a49a366d576c396c3"
+  },
+  {
+    "path": "equipment/exports/EQ27_PH02_Fitness218_027_World.glb",
+    "bytes": 316868,
+    "sha256": "f5cb15fc4c09e885eae0e9b47b87d3cce26b1f270c0beb09f5ddc17a571a0889"
+  },
+  {
+    "path": "equipment/exports/EQ27_PH02_Fitness218_029_RuntimeJoined.glb",
+    "bytes": 306360,
+    "sha256": "b90662b64c6311a41f7a4f4cb468f1c85621a005b051ff8fda88c5d403bca745"
+  },
+  {
+    "path": "equipment/exports/EQ27_PH02_Fitness218_029_World.glb",
+    "bytes": 327628,
+    "sha256": "ddfd68f8c31e91fabdfa81665e66ad146d82e3cc5392bae1f9e4455efdc4b51a"
+  },
+  {
+    "path": "equipment/exports/EQ27_PH02_Fitness218_030_RuntimeJoined.glb",
+    "bytes": 298744,
+    "sha256": "2eec8ef3c93c19ec96d0b8eff06da478f120cd05adae6e5bb07d755ea104a7a8"
+  },
+  {
+    "path": "equipment/exports/EQ27_PH02_Fitness218_030_World.glb",
+    "bytes": 316180,
+    "sha256": "3f64ccdf46fbefd69964e3d986fe1c61288ce9ef895488d81767e3b813e14821"
+  },
+  {
+    "path": "equipment/exports/Equipment_EQ27_R01_World.glb",
+    "bytes": 3767844,
+    "sha256": "e93c8aabb84f93747220806ea1791451cd25cba264272ebe207355eb45443e67"
+  },
+  {
+    "path": "equipment/exports/R25_U218_Furniture_EQ27_R01_Complete.glb",
+    "bytes": 3184540,
+    "sha256": "8c78b35d300a1dee751d76a704b2ffb62707674b28ef5744bc3c3f7bad75ac43"
+  },
+  {
+    "path": "equipment/exports/R25_U218_Furniture_EQ27_R01_RuntimeJoined.glb",
+    "bytes": 3728704,
+    "sha256": "251672656a0ca37616a054f4c8433ea2792a51a2c115a993c13468517af611a7"
+  },
+  {
+    "path": "equipment/finalize_staging.py",
+    "bytes": 2839,
+    "sha256": "99fcfb2d287ff50ca48e2af8e32f7f2c712d7eccd888b7db80a72d04c1ffd8d3"
+  },
+  {
+    "path": "equipment/make_handoff.py",
+    "bytes": 5648,
+    "sha256": "2c934a7e31bbe75a10340962aa63cada25e2dc2379060256be39370e6759b313"
+  },
+  {
+    "path": "equipment/material_compatibility.json",
+    "bytes": 25477,
+    "sha256": "e2231b48ad98865562d89f99ecfa680d9038a355ee4aee49e9e87af644357cd2"
+  },
+  {
+    "path": "equipment/native_contract.py",
+    "bytes": 869,
+    "sha256": "faec2cb5f51fcf191dffc2e681b8268e6414546cfc2ab5b5d703afa2d3666c3b"
+  },
+  {
+    "path": "equipment/native_integration_evidence.json",
+    "bytes": 4875,
+    "sha256": "4b819b3596e329fade718e2fbbc39b52cdff57fd9cd8ded03a922cd8efc01b26"
+  },
+  {
+    "path": "equipment/package_evidence.py",
+    "bytes": 4350,
+    "sha256": "6f88bcb3a155a46e16839d537b38ae1dd6784f874776cf0559b8ca7a8249187c"
+  },
+  {
+    "path": "equipment/preview_contract.json",
+    "bytes": 837,
+    "sha256": "fa242d43fb7179b9c93a2395e4bddbaa6508d679b733b15edff7fe76f0edda79"
+  },
+  {
+    "path": "equipment/preview_validation.json",
+    "bytes": 1424,
+    "sha256": "b0b76249901319ca9483b583fc8c675fc7ace36b1c055b5e838b4015d63385d2"
+  },
+  {
+    "path": "equipment/previews/baseline_representatives.png",
+    "bytes": 893916,
+    "sha256": "f97dece9c5a4b8203f96fd9856031ea3a20a063e8cee4776861a2f60a0941569"
+  },
+  {
+    "path": "equipment/previews/improved_representatives.png",
+    "bytes": 943295,
+    "sha256": "71ce9fe18ebf7b459afc71b2c1187e209e992fcafaa8286c4d9cd1b1a31ea1e5"
+  },
+  {
+    "path": "equipment/previews/press_core_detail.png",
+    "bytes": 971429,
+    "sha256": "a9e909fc68b7c3ad5ce3cc74ea550e235e6555bda8379086d39f47fe0a4fc8a5"
+  },
+  {
+    "path": "equipment/previews/pulldown_detail.png",
+    "bytes": 868259,
+    "sha256": "4dbc36343a894bfa49905a0fbe734e25da432da82b15cdcd77fbd8b2060628e4"
+  },
+  {
+    "path": "equipment/previews/rack_detail.png",
+    "bytes": 918037,
+    "sha256": "4e505fdd33ec04de3eeee21dd9135ddeb90039f32b905851b0786ec51fb413bf"
+  },
+  {
+    "path": "equipment/previews/render_results.json",
+    "bytes": 2761,
+    "sha256": "0f303998044923ac3b21a863209f0fcd1fe73e150584da76785dac958d43385b"
+  },
+  {
+    "path": "equipment/previews/treadmill_detail.png",
+    "bytes": 876224,
+    "sha256": "807531bf70a670f0ef52cb13c3ccdf01cdd02ce624e0e84b311d0ce92def8619"
+  },
+  {
+    "path": "equipment/render_previews.py",
+    "bytes": 4875,
+    "sha256": "2d54925da8c0fc2c99025770ded4fb324b6bcefedc2005694584c988e4799e28"
+  },
+  {
+    "path": "equipment/replacement_manifest.json",
+    "bytes": 295596,
+    "sha256": "66327fc3afa9a163bd406f22dbb02fe07147bfc975858ef5064771ca1daef4b2"
+  },
+  {
+    "path": "equipment/SHA256SUMS.json",
+    "bytes": 8621,
+    "sha256": "df89788ac1990f2f85fd81acce5d7e24d351bfe38675f0596b24b01227e22016"
+  },
+  {
+    "path": "equipment/source_dependency_check.json",
+    "bytes": 537,
+    "sha256": "6f4cc3702e88655d840d4a346acdef94273cc7a65e541bd147b8a11471509f75"
+  },
+  {
+    "path": "equipment/source_integrity_after.json",
+    "bytes": 765,
+    "sha256": "f885d208050f57ae80c1796cacd50c4d5632ce969ebbf2adfbec356824cc975a"
+  },
+  {
+    "path": "equipment/source_integrity_before.json",
+    "bytes": 607,
+    "sha256": "925b85cbef3baf0d88c3c8ceea4da71ccec80fc1070eefd6fa697f4a99e43d6b"
+  },
+  {
+    "path": "equipment/validate_exports.py",
+    "bytes": 5722,
+    "sha256": "14e5803234f849538988c99dc96eb109a024cd9d4d454c96607f9b0bbe7de8f1"
+  },
+  {
+    "path": "equipment/validation.json",
+    "bytes": 16274,
+    "sha256": "ee8dc77f2e790518310d18e1e8e6541277f05be272690c39dde000d03eaeb8d3"
+  },
+  {
+    "path": "PROVENANCE.json",
+    "bytes": 534,
+    "sha256": "401d04f6a960cf3ca419d9e03ed9c7b33f7f2f6d17811ef291a46991bc28d957"
+  },
+  {
+    "path": "README.md",
+    "bytes": 3447,
+    "sha256": "98fb6bf4ee7e38750cc312f21a6c64a5328122afd2b46a09d60a2481f72237d0"
+  },
+  {
+    "path": "reception-bsod/ReceptionTV65_BSOD_R01.png",
+    "bytes": 68907,
+    "sha256": "ca687e2e14af7534affc9bdfc55f9549c73eb7f6a30147f950105950d6b0ecdb"
+  },
+  {
+    "path": "scripts/desktop/audit_r25_cooked.py",
+    "bytes": 921,
+    "sha256": "d6b78a7c90f0df8f6e360cfb4d893afb00b0eb5ea5af1476eb38de7a7054f786"
+  },
+  {
+    "path": "scripts/desktop/disable_new_equipment_nanite.py",
+    "bytes": 735,
+    "sha256": "1bd1f8ebae098407a845b675a1434dcded23ac022105d06f3dbd0680bb748b21"
+  },
+  {
+    "path": "scripts/desktop/finalize_trophy_lods.py",
+    "bytes": 1044,
+    "sha256": "b8c388afb3562421544ed28169ed296b8bba62caf8946a2d497ee6ab66673f2b"
+  },
+  {
+    "path": "scripts/desktop/finish_r25_delivery.py",
+    "bytes": 4899,
+    "sha256": "399fad3a0f85e784b9b0789ed5a4beec8d5a6d721374aa3f7f3d6a51c0d2f2b6"
+  },
+  {
+    "path": "scripts/desktop/freeze_r25_handoff.py",
+    "bytes": 6659,
+    "sha256": "5a7f3bb5e00b16f44347cd32739c2679550c402fb11b1aa2c09cd1ceb2cb5559"
+  },
+  {
+    "path": "scripts/desktop/import_trophies.py",
+    "bytes": 1797,
+    "sha256": "746434a085ac9317f1a1cd28ef958177ada50c7ba7e205b00c32f98a1f4e3e56"
+  },
+  {
+    "path": "scripts/desktop/install_bsod.py",
+    "bytes": 3431,
+    "sha256": "1fd38ffeff6830361e802f384db121c403d8989762c8f7afeb684d878d52c6d8"
+  },
+  {
+    "path": "scripts/desktop/integrate_equipment.py",
+    "bytes": 7680,
+    "sha256": "a5f9c3ea352bedc6987e79fce1ccf0b30efb8ea8a52b205d074e7231b67d9c32"
+  },
+  {
+    "path": "scripts/desktop/make_bsod_texture.py",
+    "bytes": 798,
+    "sha256": "9513589148cb6ca69b4f134bca291b1e7a7aedd0611eb060a43fa8cd0ca085f6"
+  },
+  {
+    "path": "scripts/desktop/merge_cup_lods.py",
+    "bytes": 3064,
+    "sha256": "51a2a2ce294b0b8a15110bcaa160844966b015f31270a59f2490d48caa7ed3b9"
+  },
+  {
+    "path": "scripts/desktop/merge_plaque.py",
+    "bytes": 976,
+    "sha256": "d2e1d19b35c1bb7732a31bcb6133314328fa0f4ea3b66c1fe410a00b768860b3"
+  },
+  {
+    "path": "scripts/desktop/pin_r25_collision.py",
+    "bytes": 2024,
+    "sha256": "e329ab7431d8db1136fe91da3d2ae728b7d3fbc2e270733b9fd2e7642376fe55"
+  },
+  {
+    "path": "scripts/desktop/place_trophies.py",
+    "bytes": 2152,
+    "sha256": "8ad8c4e8277cef38d26496ce8e48cbf12325d1768d1055239e46a949b4729fea"
+  },
+  {
+    "path": "scripts/desktop/repair_equipment_materials.py",
+    "bytes": 2103,
+    "sha256": "ec58ffd355155cbcd88f9cab7f6c530c7840a066980af1b8655353cc700cd421"
+  },
+  {
+    "path": "scripts/desktop/set_portable_default_map.py",
+    "bytes": 2152,
+    "sha256": "c30f6ec2b72eeb77189dadc2aeed3617155c7f6ec260884402ac47cac8810edb"
+  },
+  {
+    "path": "scripts/desktop/update_bsod_texture.py",
+    "bytes": 1165,
+    "sha256": "e60e10d3f06e13e87bc3c8ad46f5ced5fdfeea066c98c72285ede0cba34d7a41"
+  },
+  {
+    "path": "scripts/desktop/verify_r25_native.py",
+    "bytes": 2782,
+    "sha256": "0c09c2bc6054e0d7df9fd23d2bd661910026842166fbb28fe426d1fea0dee29c"
+  },
+  {
+    "path": "scripts/desktop/walk_r25_case_hall.py",
+    "bytes": 5852,
+    "sha256": "456f63e1e86002cacc633d3a158001b332cb2047384e24a7c721521dc5912feb"
+  },
+  {
+    "path": "scripts/trophies/build_plaque.py",
+    "bytes": 5850,
+    "sha256": "e2750a9105b7ac03ad80512921dc9dc73870d239fed182763de1cd4a0776bd38"
+  },
+  {
+    "path": "scripts/trophies/cleanup_cup.py",
+    "bytes": 10255,
+    "sha256": "4a2c9335101da07559a6528e6033db49297955c14f1eacb23069a10258c3211c"
+  },
+  {
+    "path": "scripts/trophies/finalize_cup.py",
+    "bytes": 5636,
+    "sha256": "88cf2ce01670c959b03b55e66ff93e3789c5adfe65f0b3296f58ed081794666b"
+  },
+  {
+    "path": "scripts/trophies/fix_lod1.py",
+    "bytes": 2733,
+    "sha256": "2a544519e67104c65d3a01060c8e070b132e154bf1730cb552e988a3280b1f4e"
+  },
+  {
+    "path": "scripts/trophies/rebuild_bowl.py",
+    "bytes": 5107,
+    "sha256": "ea6a32c78cd4d6716c60d37313517721d5a02c5dc2c7a9af28faea82f4ef2479"
+  },
+  {
+    "path": "scripts/trophies/validate_cleaned.py",
+    "bytes": 2387,
+    "sha256": "f3e4f91856fd400a29220a299edbd3666952e4abfef9231de946a77148d0aa44"
+  },
+  {
+    "path": "scripts/trophies/validate_plaque.py",
+    "bytes": 2384,
+    "sha256": "fcae30ee390ead78dfbbd8eaa1fdf4a6c0583dd0a7e6cf31cbff2accf127ac42"
+  },
+  {
+    "path": "trophies/regional-plaque/export_validation.json",
+    "bytes": 7182,
+    "sha256": "ae1a32638fb7294a107271a466f442d631d334342eebf17622707fc039e72466"
+  },
+  {
+    "path": "trophies/regional-plaque/manifest.json",
+    "bytes": 1737,
+    "sha256": "7ca745dc2f204606f3318b0f4c5483631ec00c511b9e2a01139827cb2b2b78cc"
+  },
+  {
+    "path": "trophies/regional-plaque/Plaque_Plinth_Lower_Walnut.png",
+    "bytes": 160044,
+    "sha256": "ccd24a445c70ad273a4eedddd3ea975f0cdb5622d3acaf3d197cca1cdade2f03"
+  },
+  {
+    "path": "trophies/regional-plaque/Plaque_Plinth_Upper_Walnut.png",
+    "bytes": 177918,
+    "sha256": "adc3d82a91da46e2593863dadcf25eac1cbdb4b8da3fbb1cd62d9f6da2410923"
+  },
+  {
+    "path": "trophies/regional-plaque/README.txt",
+    "bytes": 1230,
+    "sha256": "34f3a4889b408bb7aed5963f4bc07e27ce504cf65f14f291f13874d77e58b143"
+  },
+  {
+    "path": "trophies/regional-plaque/RegionalPlaque.blend",
+    "bytes": 1341786,
+    "sha256": "f1c988f862984e5a457ce4492f3d3260713c176a7c5649e20f5e8683d20d3e1d"
+  },
+  {
+    "path": "trophies/regional-plaque/RegionalPlaque.fbx",
+    "bytes": 629756,
+    "sha256": "8795b89ec9d0ed378e36795feaa9ac5d7c07081c0021ae6868ddb367dc21f440"
+  },
+  {
+    "path": "trophies/regional-plaque/RegionalPlaque.glb",
+    "bytes": 777064,
+    "sha256": "98952372d7d3fcd5485ee67397544faf847c80db241b56c085c4a032772568ef"
+  },
+  {
+    "path": "trophies/regional-plaque/RegionalPlaque_front.png",
+    "bytes": 342942,
+    "sha256": "549ec99e8c900f6d1823e9cd7fc105fea5a92ce390abcb19dc8d0e36c9bd51f5"
+  },
+  {
+    "path": "trophies/regional-plaque/RegionalPlaque_GLBreimport.png",
+    "bytes": 348159,
+    "sha256": "05e6e3ab67212436197018724c0d556c75fcec1765e53a610e8dda8f5201ec54"
+  },
+  {
+    "path": "trophies/regional-plaque/RegionalPlaque_oblique.png",
+    "bytes": 348028,
+    "sha256": "0e417b02a3d5ea7614ffbfe52bfca3601b0ce3d56ebe428ddbcc0cd9f0be7a3b"
+  },
+  {
+    "path": "trophies/regional-plaque/RegionalPlaque_rear.png",
+    "bytes": 352759,
+    "sha256": "e1ae3db7befe382bde87d517f45ac6a6eac4df289fa668ca6b98fc119ab13b11"
+  },
+  {
+    "path": "trophies/regional-plaque/RegionalPlaque_side.png",
+    "bytes": 308372,
+    "sha256": "f0f25af6842a02ed42774212157d5a60af886b920a4a8bef0ce8a38f1bb38b2a"
+  },
+  {
+    "path": "trophies/regional-plaque/Trellis_Derived_Wood_Silhouette_Walnut.png",
+    "bytes": 169624,
+    "sha256": "6f929c43b9267e705cbb1f81b2bca92e90a287c950f48435446ea9cad632901e"
+  },
+  {
+    "path": "trophies/silver-cup/Cup_BaseColor.png",
+    "bytes": 935643,
+    "sha256": "83a579d788fa83d13b6faa6236615876c82859b5e21437cd7c3cfcabdd63e175"
+  },
+  {
+    "path": "trophies/silver-cup/Cup_Metallic.png",
+    "bytes": 14564,
+    "sha256": "4e0a139b80d2a50a6a916c07576c1c70faaf9f1e4b91ea7f82817852840aafdc"
+  },
+  {
+    "path": "trophies/silver-cup/Cup_Plinth_Block_Wood.png",
+    "bytes": 221487,
+    "sha256": "ee8a9eb78b8ee9f28d72a9c649ea1f100a33027645a3b14540c789fc514ea20a"
+  },
+  {
+    "path": "trophies/silver-cup/Cup_Plinth_Step_Wood.png",
+    "bytes": 222066,
+    "sha256": "fc7c2e27d8df57f002322668e5c317533c1aa6df4f7955684e3c9c52c7147a48"
+  },
+  {
+    "path": "trophies/silver-cup/Cup_Plinth_Top_Wood.png",
+    "bytes": 216631,
+    "sha256": "d3b733ee44c67b1a2a8edddebb6cf0da9d1770c8882ab9db597f6ffc56e57dfe"
+  },
+  {
+    "path": "trophies/silver-cup/Cup_Roughness.png",
+    "bytes": 319607,
+    "sha256": "2eb6955855a2fb065d540b456f5a16bfe7bc7dacfc544d1f5faa9a1725aba949"
+  },
+  {
+    "path": "trophies/silver-cup/export_validation.json",
+    "bytes": 11738,
+    "sha256": "6e14ccc760b87d1dcc5df90353f591c446c1518a25463fc6520cffeaa5b7353b"
+  },
+  {
+    "path": "trophies/silver-cup/hybrid_cleanup.json",
+    "bytes": 1106,
+    "sha256": "7cd4f4b4bdf1c8907be9dfeccc6c95dd7a0ddb66d65b30395ac440a7f69ea576"
+  },
+  {
+    "path": "trophies/silver-cup/README.md",
+    "bytes": 3124,
+    "sha256": "adcbffc60260fa473b1c4c3e5a2edaada5bdac5f109e13cbfb37cd0d116bd236"
+  },
+  {
+    "path": "trophies/silver-cup/ready_manifest.json",
+    "bytes": 4667,
+    "sha256": "aea7efff36b5797476edbefbc0e7eb5d0b1a4d390b35f1d8bc4e3c43da0a3bc3"
+  },
+  {
+    "path": "trophies/silver-cup/SilverCup.blend",
+    "bytes": 2004241,
+    "sha256": "87a54d4fbc680f93a044c88c6d4fec83d7477400ebb23316fb67be5af050457b"
+  },
+  {
+    "path": "trophies/silver-cup/SilverCup.fbx",
+    "bytes": 1390348,
+    "sha256": "b548b08a1bc116c8945c5020ab316c99f4741360059148629e67a6bfc25b64d5"
+  },
+  {
+    "path": "trophies/silver-cup/SilverCup.glb",
+    "bytes": 1427976,
+    "sha256": "00cf6e236841ff500a83f988bdeeed56915fb6c51e60c892f7ae8b9e967a0a65"
+  },
+  {
+    "path": "trophies/silver-cup/SilverCup_bowl.png",
+    "bytes": 381432,
+    "sha256": "840cdc671b350a6eafa9589fda308c68f5c98f452ab248317ba08aeabf719140"
+  },
+  {
+    "path": "trophies/silver-cup/SilverCup_front.png",
+    "bytes": 356034,
+    "sha256": "ade39fead06b5f3c4560053ae5a15b1ae68acec3d3d5eeacf592491762c1f594"
+  },
+  {
+    "path": "trophies/silver-cup/SilverCup_GLBreimport.png",
+    "bytes": 358465,
+    "sha256": "98455af4b345176a88fc07a5ff80402e47b2d4bf6797e7afc9779e0e14113456"
+  },
+  {
+    "path": "trophies/silver-cup/SilverCup_LOD1.glb",
+    "bytes": 1134524,
+    "sha256": "c07ad6e86ff6e9be09a7df23827c41b463db069a771029cbf09e310702302371"
+  },
+  {
+    "path": "trophies/silver-cup/SilverCup_LOD1_oblique.png",
+    "bytes": 357190,
+    "sha256": "1bd12fb1ee1e334a217526ddb56e0a94f43095a3b5b8728d03a9b891a25c987a"
+  },
+  {
+    "path": "trophies/silver-cup/SilverCup_LOD2.glb",
+    "bytes": 895420,
+    "sha256": "b28d1c816bcc6706b6d09880d1f01113eec4faa81af025a648fe4a6bcd22579b"
+  },
+  {
+    "path": "trophies/silver-cup/SilverCup_LOD2_oblique.png",
+    "bytes": 359934,
+    "sha256": "3565fdd212d1a0a33d122b6b933af30bb87352dd6dd64178c1580525eb2aa768"
+  },
+  {
+    "path": "trophies/silver-cup/SilverCup_oblique.png",
+    "bytes": 358558,
+    "sha256": "258637fd768d94c886f7ae73482449e8a70bf6b563149c271e4041101eef4382"
+  },
+  {
+    "path": "trophies/silver-cup/SilverCup_rear.png",
+    "bytes": 359532,
+    "sha256": "c10f47f25aaa8f5f0f6e75bce685190d947f336a6a046bdd393fbe7331806904"
+  },
+  {
+    "path": "trophies/silver-cup/SilverCup_side.png",
+    "bytes": 341598,
+    "sha256": "8ad8ecf589e6222d8e0f90414fef93b6af7889426fd8b172317fe0a4b5366cda"
+  },
+  {
+    "path": "trophies/silver-cup/Trophy_Cup_Before_After.png",
+    "bytes": 799374,
+    "sha256": "ce019945f30729119d5ffcd7d79e3b908ac0a9f9aa3899f909c91c5a840a7479"
+  }
+]

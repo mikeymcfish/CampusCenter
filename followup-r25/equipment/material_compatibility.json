@@ -1,0 +1,607 @@
+[
+  {
+    "export": "EQ27_PH02_Fitness218_003_World.glb",
+    "material_bindings": [
+      {
+        "gltf_material_index": 0,
+        "gltf_name": "V8 plain rubber",
+        "native_material": "/Game/Campus/FurnitureR26/CompatR03/V8_plain_rubber_33d74d26.V8_plain_rubber_33d74d26"
+      },
+      {
+        "gltf_material_index": 1,
+        "gltf_name": "Dark metal",
+        "native_material": "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal"
+      },
+      {
+        "gltf_material_index": 2,
+        "gltf_name": "Brushed stainless hardware",
+        "native_material": "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      },
+      {
+        "gltf_material_index": 3,
+        "gltf_name": "V8 plain dark screen",
+        "native_material": "/Game/Campus/FitnessSupportR26R01/Compat/V8_plain_dark_screen_4dd4b3d1.V8_plain_dark_screen_4dd4b3d1"
+      },
+      {
+        "gltf_material_index": 4,
+        "gltf_name": "V8 plain sage upholstery",
+        "native_material": "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric"
+      }
+    ],
+    "all_materials_resolved": true,
+    "texture_dependencies": 0,
+    "use_named_material_mapping": "Import/assign by material name; existing actor slot indices may differ from new mesh indices; preserve visual mapping, not raw index order"
+  },
+  {
+    "export": "EQ27_PH02_Fitness218_004_World.glb",
+    "material_bindings": [
+      {
+        "gltf_material_index": 0,
+        "gltf_name": "V8 plain rubber",
+        "native_material": "/Game/Campus/FurnitureR26/CompatR03/V8_plain_rubber_33d74d26.V8_plain_rubber_33d74d26"
+      },
+      {
+        "gltf_material_index": 1,
+        "gltf_name": "Dark metal",
+        "native_material": "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal"
+      },
+      {
+        "gltf_material_index": 2,
+        "gltf_name": "Brushed stainless hardware",
+        "native_material": "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      },
+      {
+        "gltf_material_index": 3,
+        "gltf_name": "V8 plain dark screen",
+        "native_material": "/Game/Campus/FitnessSupportR26R01/Compat/V8_plain_dark_screen_4dd4b3d1.V8_plain_dark_screen_4dd4b3d1"
+      },
+      {
+        "gltf_material_index": 4,
+        "gltf_name": "V8 plain sage upholstery",
+        "native_material": "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric"
+      }
+    ],
+    "all_materials_resolved": true,
+    "texture_dependencies": 0,
+    "use_named_material_mapping": "Import/assign by material name; existing actor slot indices may differ from new mesh indices; preserve visual mapping, not raw index order"
+  },
+  {
+    "export": "EQ27_PH02_Fitness218_005_World.glb",
+    "material_bindings": [
+      {
+        "gltf_material_index": 0,
+        "gltf_name": "V8 plain rubber",
+        "native_material": "/Game/Campus/FurnitureR26/CompatR03/V8_plain_rubber_33d74d26.V8_plain_rubber_33d74d26"
+      },
+      {
+        "gltf_material_index": 1,
+        "gltf_name": "Dark metal",
+        "native_material": "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal"
+      },
+      {
+        "gltf_material_index": 2,
+        "gltf_name": "Brushed stainless hardware",
+        "native_material": "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      },
+      {
+        "gltf_material_index": 3,
+        "gltf_name": "V8 plain dark screen",
+        "native_material": "/Game/Campus/FitnessSupportR26R01/Compat/V8_plain_dark_screen_4dd4b3d1.V8_plain_dark_screen_4dd4b3d1"
+      },
+      {
+        "gltf_material_index": 4,
+        "gltf_name": "V8 plain sage upholstery",
+        "native_material": "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric"
+      }
+    ],
+    "all_materials_resolved": true,
+    "texture_dependencies": 0,
+    "use_named_material_mapping": "Import/assign by material name; existing actor slot indices may differ from new mesh indices; preserve visual mapping, not raw index order"
+  },
+  {
+    "export": "EQ27_PH02_Fitness218_006_World.glb",
+    "material_bindings": [
+      {
+        "gltf_material_index": 0,
+        "gltf_name": "V8 plain rubber",
+        "native_material": "/Game/Campus/FurnitureR26/CompatR03/V8_plain_rubber_33d74d26.V8_plain_rubber_33d74d26"
+      },
+      {
+        "gltf_material_index": 1,
+        "gltf_name": "Dark metal",
+        "native_material": "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal"
+      },
+      {
+        "gltf_material_index": 2,
+        "gltf_name": "Brushed stainless hardware",
+        "native_material": "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      },
+      {
+        "gltf_material_index": 3,
+        "gltf_name": "V8 plain dark screen",
+        "native_material": "/Game/Campus/FitnessSupportR26R01/Compat/V8_plain_dark_screen_4dd4b3d1.V8_plain_dark_screen_4dd4b3d1"
+      },
+      {
+        "gltf_material_index": 4,
+        "gltf_name": "V8 plain sage upholstery",
+        "native_material": "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric"
+      }
+    ],
+    "all_materials_resolved": true,
+    "texture_dependencies": 0,
+    "use_named_material_mapping": "Import/assign by material name; existing actor slot indices may differ from new mesh indices; preserve visual mapping, not raw index order"
+  },
+  {
+    "export": "EQ27_PH02_Fitness218_007_World.glb",
+    "material_bindings": [
+      {
+        "gltf_material_index": 0,
+        "gltf_name": "V8 plain rubber",
+        "native_material": "/Game/Campus/FurnitureR26/CompatR03/V8_plain_rubber_33d74d26.V8_plain_rubber_33d74d26"
+      },
+      {
+        "gltf_material_index": 1,
+        "gltf_name": "Dark metal",
+        "native_material": "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal"
+      },
+      {
+        "gltf_material_index": 2,
+        "gltf_name": "Brushed stainless hardware",
+        "native_material": "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      },
+      {
+        "gltf_material_index": 3,
+        "gltf_name": "V8 plain dark screen",
+        "native_material": "/Game/Campus/FitnessSupportR26R01/Compat/V8_plain_dark_screen_4dd4b3d1.V8_plain_dark_screen_4dd4b3d1"
+      },
+      {
+        "gltf_material_index": 4,
+        "gltf_name": "V8 plain sage upholstery",
+        "native_material": "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric"
+      }
+    ],
+    "all_materials_resolved": true,
+    "texture_dependencies": 0,
+    "use_named_material_mapping": "Import/assign by material name; existing actor slot indices may differ from new mesh indices; preserve visual mapping, not raw index order"
+  },
+  {
+    "export": "EQ27_PH02_Fitness218_008_World.glb",
+    "material_bindings": [
+      {
+        "gltf_material_index": 0,
+        "gltf_name": "V8 plain rubber",
+        "native_material": "/Game/Campus/FurnitureR26/CompatR03/V8_plain_rubber_33d74d26.V8_plain_rubber_33d74d26"
+      },
+      {
+        "gltf_material_index": 1,
+        "gltf_name": "Dark metal",
+        "native_material": "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal"
+      },
+      {
+        "gltf_material_index": 2,
+        "gltf_name": "Brushed stainless hardware",
+        "native_material": "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      },
+      {
+        "gltf_material_index": 3,
+        "gltf_name": "V8 plain dark screen",
+        "native_material": "/Game/Campus/FitnessSupportR26R01/Compat/V8_plain_dark_screen_4dd4b3d1.V8_plain_dark_screen_4dd4b3d1"
+      },
+      {
+        "gltf_material_index": 4,
+        "gltf_name": "V8 plain sage upholstery",
+        "native_material": "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric"
+      }
+    ],
+    "all_materials_resolved": true,
+    "texture_dependencies": 0,
+    "use_named_material_mapping": "Import/assign by material name; existing actor slot indices may differ from new mesh indices; preserve visual mapping, not raw index order"
+  },
+  {
+    "export": "EQ27_PH02_Fitness218_009_World.glb",
+    "material_bindings": [
+      {
+        "gltf_material_index": 0,
+        "gltf_name": "V8 plain sage upholstery",
+        "native_material": "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric"
+      },
+      {
+        "gltf_material_index": 1,
+        "gltf_name": "Dark metal",
+        "native_material": "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal"
+      },
+      {
+        "gltf_material_index": 2,
+        "gltf_name": "Brushed stainless hardware",
+        "native_material": "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      },
+      {
+        "gltf_material_index": 3,
+        "gltf_name": "V8 plain rubber",
+        "native_material": "/Game/Campus/FurnitureR26/CompatR03/V8_plain_rubber_33d74d26.V8_plain_rubber_33d74d26"
+      }
+    ],
+    "all_materials_resolved": true,
+    "texture_dependencies": 0,
+    "use_named_material_mapping": "Import/assign by material name; existing actor slot indices may differ from new mesh indices; preserve visual mapping, not raw index order"
+  },
+  {
+    "export": "EQ27_PH02_Fitness218_011_World.glb",
+    "material_bindings": [
+      {
+        "gltf_material_index": 0,
+        "gltf_name": "V8 plain sage upholstery",
+        "native_material": "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric"
+      },
+      {
+        "gltf_material_index": 1,
+        "gltf_name": "Dark metal",
+        "native_material": "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal"
+      },
+      {
+        "gltf_material_index": 2,
+        "gltf_name": "Brushed stainless hardware",
+        "native_material": "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      },
+      {
+        "gltf_material_index": 3,
+        "gltf_name": "V8 plain rubber",
+        "native_material": "/Game/Campus/FurnitureR26/CompatR03/V8_plain_rubber_33d74d26.V8_plain_rubber_33d74d26"
+      }
+    ],
+    "all_materials_resolved": true,
+    "texture_dependencies": 0,
+    "use_named_material_mapping": "Import/assign by material name; existing actor slot indices may differ from new mesh indices; preserve visual mapping, not raw index order"
+  },
+  {
+    "export": "EQ27_PH02_Fitness218_013_World.glb",
+    "material_bindings": [
+      {
+        "gltf_material_index": 0,
+        "gltf_name": "V8 plain sage upholstery",
+        "native_material": "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric"
+      },
+      {
+        "gltf_material_index": 1,
+        "gltf_name": "Dark metal",
+        "native_material": "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal"
+      },
+      {
+        "gltf_material_index": 2,
+        "gltf_name": "Brushed stainless hardware",
+        "native_material": "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      },
+      {
+        "gltf_material_index": 3,
+        "gltf_name": "V8 plain rubber",
+        "native_material": "/Game/Campus/FurnitureR26/CompatR03/V8_plain_rubber_33d74d26.V8_plain_rubber_33d74d26"
+      }
+    ],
+    "all_materials_resolved": true,
+    "texture_dependencies": 0,
+    "use_named_material_mapping": "Import/assign by material name; existing actor slot indices may differ from new mesh indices; preserve visual mapping, not raw index order"
+  },
+  {
+    "export": "EQ27_PH02_Fitness218_015_World.glb",
+    "material_bindings": [
+      {
+        "gltf_material_index": 0,
+        "gltf_name": "V8 plain sage upholstery",
+        "native_material": "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric"
+      },
+      {
+        "gltf_material_index": 1,
+        "gltf_name": "Dark metal",
+        "native_material": "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal"
+      },
+      {
+        "gltf_material_index": 2,
+        "gltf_name": "Brushed stainless hardware",
+        "native_material": "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      },
+      {
+        "gltf_material_index": 3,
+        "gltf_name": "V8 plain rubber",
+        "native_material": "/Game/Campus/FurnitureR26/CompatR03/V8_plain_rubber_33d74d26.V8_plain_rubber_33d74d26"
+      }
+    ],
+    "all_materials_resolved": true,
+    "texture_dependencies": 0,
+    "use_named_material_mapping": "Import/assign by material name; existing actor slot indices may differ from new mesh indices; preserve visual mapping, not raw index order"
+  },
+  {
+    "export": "EQ27_PH02_Fitness218_017_World.glb",
+    "material_bindings": [
+      {
+        "gltf_material_index": 0,
+        "gltf_name": "V8 plain sage upholstery",
+        "native_material": "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric"
+      },
+      {
+        "gltf_material_index": 1,
+        "gltf_name": "Dark metal",
+        "native_material": "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal"
+      },
+      {
+        "gltf_material_index": 2,
+        "gltf_name": "Brushed stainless hardware",
+        "native_material": "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      },
+      {
+        "gltf_material_index": 3,
+        "gltf_name": "V8 plain rubber",
+        "native_material": "/Game/Campus/FurnitureR26/CompatR03/V8_plain_rubber_33d74d26.V8_plain_rubber_33d74d26"
+      }
+    ],
+    "all_materials_resolved": true,
+    "texture_dependencies": 0,
+    "use_named_material_mapping": "Import/assign by material name; existing actor slot indices may differ from new mesh indices; preserve visual mapping, not raw index order"
+  },
+  {
+    "export": "EQ27_PH02_Fitness218_027_RuntimeJoined.glb",
+    "material_bindings": [
+      {
+        "gltf_material_index": 0,
+        "gltf_name": "Dark metal",
+        "native_material": "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal"
+      },
+      {
+        "gltf_material_index": 1,
+        "gltf_name": "V8 plain rubber",
+        "native_material": "/Game/Campus/FurnitureR26/CompatR03/V8_plain_rubber_33d74d26.V8_plain_rubber_33d74d26"
+      },
+      {
+        "gltf_material_index": 2,
+        "gltf_name": "V8 plain sage upholstery",
+        "native_material": "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric"
+      },
+      {
+        "gltf_material_index": 3,
+        "gltf_name": "Brushed stainless hardware",
+        "native_material": "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      }
+    ],
+    "all_materials_resolved": true,
+    "texture_dependencies": 0,
+    "use_named_material_mapping": "Import/assign by material name; existing actor slot indices may differ from new mesh indices; preserve visual mapping, not raw index order"
+  },
+  {
+    "export": "EQ27_PH02_Fitness218_027_World.glb",
+    "material_bindings": [
+      {
+        "gltf_material_index": 0,
+        "gltf_name": "Dark metal",
+        "native_material": "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal"
+      },
+      {
+        "gltf_material_index": 1,
+        "gltf_name": "V8 plain rubber",
+        "native_material": "/Game/Campus/FurnitureR26/CompatR03/V8_plain_rubber_33d74d26.V8_plain_rubber_33d74d26"
+      },
+      {
+        "gltf_material_index": 2,
+        "gltf_name": "V8 plain sage upholstery",
+        "native_material": "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric"
+      },
+      {
+        "gltf_material_index": 3,
+        "gltf_name": "Brushed stainless hardware",
+        "native_material": "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      }
+    ],
+    "all_materials_resolved": true,
+    "texture_dependencies": 0,
+    "use_named_material_mapping": "Import/assign by material name; existing actor slot indices may differ from new mesh indices; preserve visual mapping, not raw index order"
+  },
+  {
+    "export": "EQ27_PH02_Fitness218_029_RuntimeJoined.glb",
+    "material_bindings": [
+      {
+        "gltf_material_index": 0,
+        "gltf_name": "Dark metal",
+        "native_material": "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal"
+      },
+      {
+        "gltf_material_index": 1,
+        "gltf_name": "V8 plain rubber",
+        "native_material": "/Game/Campus/FurnitureR26/CompatR03/V8_plain_rubber_33d74d26.V8_plain_rubber_33d74d26"
+      },
+      {
+        "gltf_material_index": 2,
+        "gltf_name": "V8 plain sage upholstery",
+        "native_material": "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric"
+      },
+      {
+        "gltf_material_index": 3,
+        "gltf_name": "Brushed stainless hardware",
+        "native_material": "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      }
+    ],
+    "all_materials_resolved": true,
+    "texture_dependencies": 0,
+    "use_named_material_mapping": "Import/assign by material name; existing actor slot indices may differ from new mesh indices; preserve visual mapping, not raw index order"
+  },
+  {
+    "export": "EQ27_PH02_Fitness218_029_World.glb",
+    "material_bindings": [
+      {
+        "gltf_material_index": 0,
+        "gltf_name": "Dark metal",
+        "native_material": "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal"
+      },
+      {
+        "gltf_material_index": 1,
+        "gltf_name": "V8 plain rubber",
+        "native_material": "/Game/Campus/FurnitureR26/CompatR03/V8_plain_rubber_33d74d26.V8_plain_rubber_33d74d26"
+      },
+      {
+        "gltf_material_index": 2,
+        "gltf_name": "V8 plain sage upholstery",
+        "native_material": "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric"
+      },
+      {
+        "gltf_material_index": 3,
+        "gltf_name": "Brushed stainless hardware",
+        "native_material": "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      }
+    ],
+    "all_materials_resolved": true,
+    "texture_dependencies": 0,
+    "use_named_material_mapping": "Import/assign by material name; existing actor slot indices may differ from new mesh indices; preserve visual mapping, not raw index order"
+  },
+  {
+    "export": "EQ27_PH02_Fitness218_030_RuntimeJoined.glb",
+    "material_bindings": [
+      {
+        "gltf_material_index": 0,
+        "gltf_name": "Dark metal",
+        "native_material": "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal"
+      },
+      {
+        "gltf_material_index": 1,
+        "gltf_name": "V8 plain rubber",
+        "native_material": "/Game/Campus/FurnitureR26/CompatR03/V8_plain_rubber_33d74d26.V8_plain_rubber_33d74d26"
+      },
+      {
+        "gltf_material_index": 2,
+        "gltf_name": "V8 plain sage upholstery",
+        "native_material": "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric"
+      },
+      {
+        "gltf_material_index": 3,
+        "gltf_name": "Brushed stainless hardware",
+        "native_material": "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      }
+    ],
+    "all_materials_resolved": true,
+    "texture_dependencies": 0,
+    "use_named_material_mapping": "Import/assign by material name; existing actor slot indices may differ from new mesh indices; preserve visual mapping, not raw index order"
+  },
+  {
+    "export": "EQ27_PH02_Fitness218_030_World.glb",
+    "material_bindings": [
+      {
+        "gltf_material_index": 0,
+        "gltf_name": "Dark metal",
+        "native_material": "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal"
+      },
+      {
+        "gltf_material_index": 1,
+        "gltf_name": "V8 plain rubber",
+        "native_material": "/Game/Campus/FurnitureR26/CompatR03/V8_plain_rubber_33d74d26.V8_plain_rubber_33d74d26"
+      },
+      {
+        "gltf_material_index": 2,
+        "gltf_name": "V8 plain sage upholstery",
+        "native_material": "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric"
+      },
+      {
+        "gltf_material_index": 3,
+        "gltf_name": "Brushed stainless hardware",
+        "native_material": "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      }
+    ],
+    "all_materials_resolved": true,
+    "texture_dependencies": 0,
+    "use_named_material_mapping": "Import/assign by material name; existing actor slot indices may differ from new mesh indices; preserve visual mapping, not raw index order"
+  },
+  {
+    "export": "Equipment_EQ27_R01_World.glb",
+    "material_bindings": [
+      {
+        "gltf_material_index": 0,
+        "gltf_name": "V8 plain rubber",
+        "native_material": "/Game/Campus/FurnitureR26/CompatR03/V8_plain_rubber_33d74d26.V8_plain_rubber_33d74d26"
+      },
+      {
+        "gltf_material_index": 1,
+        "gltf_name": "Dark metal",
+        "native_material": "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal"
+      },
+      {
+        "gltf_material_index": 2,
+        "gltf_name": "Brushed stainless hardware",
+        "native_material": "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      },
+      {
+        "gltf_material_index": 3,
+        "gltf_name": "V8 plain dark screen",
+        "native_material": "/Game/Campus/FitnessSupportR26R01/Compat/V8_plain_dark_screen_4dd4b3d1.V8_plain_dark_screen_4dd4b3d1"
+      },
+      {
+        "gltf_material_index": 4,
+        "gltf_name": "V8 plain sage upholstery",
+        "native_material": "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric"
+      }
+    ],
+    "all_materials_resolved": true,
+    "texture_dependencies": 0,
+    "use_named_material_mapping": "Import/assign by material name; existing actor slot indices may differ from new mesh indices; preserve visual mapping, not raw index order"
+  },
+  {
+    "export": "R25_U218_Furniture_EQ27_R01_Complete.glb",
+    "material_bindings": [
+      {
+        "gltf_material_index": 0,
+        "gltf_name": "V8 plain rubber",
+        "native_material": "/Game/Campus/FurnitureR26/CompatR03/V8_plain_rubber_33d74d26.V8_plain_rubber_33d74d26"
+      },
+      {
+        "gltf_material_index": 1,
+        "gltf_name": "Dark metal",
+        "native_material": "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal"
+      },
+      {
+        "gltf_material_index": 2,
+        "gltf_name": "Brushed stainless hardware",
+        "native_material": "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      },
+      {
+        "gltf_material_index": 3,
+        "gltf_name": "V8 plain dark screen",
+        "native_material": "/Game/Campus/FitnessSupportR26R01/Compat/V8_plain_dark_screen_4dd4b3d1.V8_plain_dark_screen_4dd4b3d1"
+      },
+      {
+        "gltf_material_index": 4,
+        "gltf_name": "V8 plain sage upholstery",
+        "native_material": "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric"
+      }
+    ],
+    "all_materials_resolved": true,
+    "texture_dependencies": 0,
+    "use_named_material_mapping": "Import/assign by material name; existing actor slot indices may differ from new mesh indices; preserve visual mapping, not raw index order"
+  },
+  {
+    "export": "R25_U218_Furniture_EQ27_R01_RuntimeJoined.glb",
+    "material_bindings": [
+      {
+        "gltf_material_index": 0,
+        "gltf_name": "V8 plain sage upholstery",
+        "native_material": "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric"
+      },
+      {
+        "gltf_material_index": 1,
+        "gltf_name": "Dark metal",
+        "native_material": "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal"
+      },
+      {
+        "gltf_material_index": 2,
+        "gltf_name": "Brushed stainless hardware",
+        "native_material": "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+      },
+      {
+        "gltf_material_index": 3,
+        "gltf_name": "V8 plain rubber",
+        "native_material": "/Game/Campus/FurnitureR26/CompatR03/V8_plain_rubber_33d74d26.V8_plain_rubber_33d74d26"
+      },
+      {
+        "gltf_material_index": 4,
+        "gltf_name": "V8 plain dark screen",
+        "native_material": "/Game/Campus/FitnessSupportR26R01/Compat/V8_plain_dark_screen_4dd4b3d1.V8_plain_dark_screen_4dd4b3d1"
+      }
+    ],
+    "all_materials_resolved": true,
+    "texture_dependencies": 0,
+    "use_named_material_mapping": "Import/assign by material name; existing actor slot indices may differ from new mesh indices; preserve visual mapping, not raw index order"
+  }
+]

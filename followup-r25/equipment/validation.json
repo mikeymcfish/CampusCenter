@@ -1,0 +1,656 @@
+{
+  "editable_source_reopened": true,
+  "donor_checks": [
+    {
+      "object": "RE07_PH02_Fitness218_010_0",
+      "world_geometry_equal_B05": true,
+      "vertices": 344,
+      "faces": 204
+    },
+    {
+      "object": "RE07_PH02_Fitness218_012_0",
+      "world_geometry_equal_B05": true,
+      "vertices": 344,
+      "faces": 204
+    },
+    {
+      "object": "RE07_PH02_Fitness218_014_0",
+      "world_geometry_equal_B05": true,
+      "vertices": 344,
+      "faces": 204
+    },
+    {
+      "object": "RE07_PH02_Fitness218_016_0",
+      "world_geometry_equal_B05": true,
+      "vertices": 344,
+      "faces": 204
+    },
+    {
+      "object": "RE07_PH02_Fitness218_018_0",
+      "world_geometry_equal_B05": true,
+      "vertices": 344,
+      "faces": 204
+    },
+    {
+      "object": "RE07_PH02_Fitness218_035_0",
+      "world_geometry_equal_B05": true,
+      "vertices": 128,
+      "faces": 86
+    },
+    {
+      "object": "RE07_PH02_Fitness218_036_0",
+      "world_geometry_equal_B05": true,
+      "vertices": 128,
+      "faces": 86
+    }
+  ],
+  "rack_support_checks": [
+    {
+      "rack": "EQ27_PH02_Fitness218_009",
+      "both_ledges_contact_shaft": true,
+      "ledge_count": 2
+    },
+    {
+      "rack": "EQ27_PH02_Fitness218_011",
+      "both_ledges_contact_shaft": true,
+      "ledge_count": 2
+    },
+    {
+      "rack": "EQ27_PH02_Fitness218_013",
+      "both_ledges_contact_shaft": true,
+      "ledge_count": 2
+    },
+    {
+      "rack": "EQ27_PH02_Fitness218_015",
+      "both_ledges_contact_shaft": true,
+      "ledge_count": 2
+    },
+    {
+      "rack": "EQ27_PH02_Fitness218_017",
+      "both_ledges_contact_shaft": true,
+      "ledge_count": 2
+    }
+  ],
+  "mechanical_support_checks": [
+    {
+      "assembly": "EQ27_PH02_Fitness218_003",
+      "treadmill_feet_and_deck_supported": true
+    },
+    {
+      "assembly": "EQ27_PH02_Fitness218_004",
+      "treadmill_feet_and_deck_supported": true
+    },
+    {
+      "assembly": "EQ27_PH02_Fitness218_005",
+      "treadmill_feet_and_deck_supported": true
+    },
+    {
+      "assembly": "EQ27_PH02_Fitness218_006",
+      "treadmill_feet_and_deck_supported": true
+    },
+    {
+      "assembly": "EQ27_PH02_Fitness218_007",
+      "treadmill_feet_and_deck_supported": true
+    },
+    {
+      "assembly": "EQ27_PH02_Fitness218_008",
+      "treadmill_feet_and_deck_supported": true
+    },
+    {
+      "assembly": "EQ27_PH02_Fitness218_027",
+      "seat_post_connected_to_base_and_pad": true
+    },
+    {
+      "assembly": "EQ27_PH02_Fitness218_029",
+      "seat_post_connected_to_base_and_pad": true
+    },
+    {
+      "assembly": "EQ27_PH02_Fitness218_030",
+      "seat_post_connected_to_base_and_pad": true
+    }
+  ],
+  "standalone_checks": [
+    {
+      "id": "RE07_PH02_Fitness218_035_0",
+      "max_world_z": 4.756400108337402,
+      "no_loaded_bar_geometry": true
+    },
+    {
+      "id": "RE07_PH02_Fitness218_036_0",
+      "max_world_z": 4.756400108337402,
+      "no_loaded_bar_geometry": true
+    }
+  ],
+  "exports": [
+    {
+      "file": "EQ27_PH02_Fitness218_003_World.glb",
+      "mesh_count": 29,
+      "expected_mesh_count": 29,
+      "bounds_m": [
+        [
+          -43.22470474243164,
+          27.286497116088867,
+          4.267199993133545
+        ],
+        [
+          -42.45825958251953,
+          29.07785987854004,
+          5.514739036560059
+        ]
+      ],
+      "max_bound_error_m": 0.0,
+      "roundtrip_pass": true,
+      "materials": [
+        "Brushed stainless hardware",
+        "Dark metal",
+        "V8 plain dark screen",
+        "V8 plain rubber",
+        "V8 plain sage upholstery"
+      ],
+      "bytes": 222108
+    },
+    {
+      "file": "EQ27_PH02_Fitness218_004_World.glb",
+      "mesh_count": 29,
+      "expected_mesh_count": 29,
+      "bounds_m": [
+        [
+          -42.154502868652344,
+          27.286497116088867,
+          4.267199993133545
+        ],
+        [
+          -41.388057708740234,
+          29.07785987854004,
+          5.514739036560059
+        ]
+      ],
+      "max_bound_error_m": 0.0,
+      "roundtrip_pass": true,
+      "materials": [
+        "Brushed stainless hardware",
+        "Dark metal",
+        "V8 plain dark screen",
+        "V8 plain rubber",
+        "V8 plain sage upholstery"
+      ],
+      "bytes": 222112
+    },
+    {
+      "file": "EQ27_PH02_Fitness218_005_World.glb",
+      "mesh_count": 29,
+      "expected_mesh_count": 29,
+      "bounds_m": [
+        [
+          -41.072914123535156,
+          27.286497116088867,
+          4.267199993133545
+        ],
+        [
+          -40.30646896362305,
+          29.07785987854004,
+          5.514739036560059
+        ]
+      ],
+      "max_bound_error_m": 0.0,
+      "roundtrip_pass": true,
+      "materials": [
+        "Brushed stainless hardware",
+        "Dark metal",
+        "V8 plain dark screen",
+        "V8 plain rubber",
+        "V8 plain sage upholstery"
+      ],
+      "bytes": 222116
+    },
+    {
+      "file": "EQ27_PH02_Fitness218_006_World.glb",
+      "mesh_count": 29,
+      "expected_mesh_count": 29,
+      "bounds_m": [
+        [
+          -39.99132537841797,
+          27.286497116088867,
+          4.267199993133545
+        ],
+        [
+          -39.224884033203125,
+          29.07785987854004,
+          5.514739036560059
+        ]
+      ],
+      "max_bound_error_m": 0.0,
+      "roundtrip_pass": true,
+      "materials": [
+        "Brushed stainless hardware",
+        "Dark metal",
+        "V8 plain dark screen",
+        "V8 plain rubber",
+        "V8 plain sage upholstery"
+      ],
+      "bytes": 222096
+    },
+    {
+      "file": "EQ27_PH02_Fitness218_007_World.glb",
+      "mesh_count": 29,
+      "expected_mesh_count": 29,
+      "bounds_m": [
+        [
+          -38.90974044799805,
+          27.286497116088867,
+          4.267199993133545
+        ],
+        [
+          -38.14329528808594,
+          29.07785987854004,
+          5.514739036560059
+        ]
+      ],
+      "max_bound_error_m": 0.0,
+      "roundtrip_pass": true,
+      "materials": [
+        "Brushed stainless hardware",
+        "Dark metal",
+        "V8 plain dark screen",
+        "V8 plain rubber",
+        "V8 plain sage upholstery"
+      ],
+      "bytes": 222112
+    },
+    {
+      "file": "EQ27_PH02_Fitness218_008_World.glb",
+      "mesh_count": 29,
+      "expected_mesh_count": 29,
+      "bounds_m": [
+        [
+          -37.82815170288086,
+          27.286497116088867,
+          4.267199993133545
+        ],
+        [
+          -37.06170654296875,
+          29.07785987854004,
+          5.514739036560059
+        ]
+      ],
+      "max_bound_error_m": 0.0,
+      "roundtrip_pass": true,
+      "materials": [
+        "Brushed stainless hardware",
+        "Dark metal",
+        "V8 plain dark screen",
+        "V8 plain rubber",
+        "V8 plain sage upholstery"
+      ],
+      "bytes": 222100
+    },
+    {
+      "file": "EQ27_PH02_Fitness218_009_World.glb",
+      "mesh_count": 59,
+      "expected_mesh_count": 59,
+      "bounds_m": [
+        [
+          -36.80211639404297,
+          27.072946548461914,
+          4.267199993133545
+        ],
+        [
+          -34.94544982910156,
+          29.10588836669922,
+          6.1722002029418945
+        ]
+      ],
+      "max_bound_error_m": 4.76837158203125e-07,
+      "roundtrip_pass": true,
+      "materials": [
+        "Brushed stainless hardware",
+        "Dark metal",
+        "V8 plain rubber",
+        "V8 plain sage upholstery"
+      ],
+      "bytes": 314784
+    },
+    {
+      "file": "EQ27_PH02_Fitness218_011_World.glb",
+      "mesh_count": 59,
+      "expected_mesh_count": 59,
+      "bounds_m": [
+        [
+          -34.55924606323242,
+          27.072946548461914,
+          4.267199993133545
+        ],
+        [
+          -32.702579498291016,
+          29.10588836669922,
+          6.1722002029418945
+        ]
+      ],
+      "max_bound_error_m": 4.76837158203125e-07,
+      "roundtrip_pass": true,
+      "materials": [
+        "Brushed stainless hardware",
+        "Dark metal",
+        "V8 plain rubber",
+        "V8 plain sage upholstery"
+      ],
+      "bytes": 314840
+    },
+    {
+      "file": "EQ27_PH02_Fitness218_013_World.glb",
+      "mesh_count": 59,
+      "expected_mesh_count": 59,
+      "bounds_m": [
+        [
+          -32.3277587890625,
+          27.072946548461914,
+          4.267199993133545
+        ],
+        [
+          -30.471092224121094,
+          29.10588836669922,
+          6.1722002029418945
+        ]
+      ],
+      "max_bound_error_m": 4.76837158203125e-07,
+      "roundtrip_pass": true,
+      "materials": [
+        "Brushed stainless hardware",
+        "Dark metal",
+        "V8 plain rubber",
+        "V8 plain sage upholstery"
+      ],
+      "bytes": 315732
+    },
+    {
+      "file": "EQ27_PH02_Fitness218_015_World.glb",
+      "mesh_count": 59,
+      "expected_mesh_count": 59,
+      "bounds_m": [
+        [
+          -30.096275329589844,
+          27.072946548461914,
+          4.267199993133545
+        ],
+        [
+          -28.239608764648438,
+          29.10588836669922,
+          6.1722002029418945
+        ]
+      ],
+      "max_bound_error_m": 4.76837158203125e-07,
+      "roundtrip_pass": true,
+      "materials": [
+        "Brushed stainless hardware",
+        "Dark metal",
+        "V8 plain rubber",
+        "V8 plain sage upholstery"
+      ],
+      "bytes": 316676
+    },
+    {
+      "file": "EQ27_PH02_Fitness218_017_World.glb",
+      "mesh_count": 59,
+      "expected_mesh_count": 59,
+      "bounds_m": [
+        [
+          -27.864789962768555,
+          27.072946548461914,
+          4.267199993133545
+        ],
+        [
+          -26.00812339782715,
+          29.10588836669922,
+          6.1722002029418945
+        ]
+      ],
+      "max_bound_error_m": 4.76837158203125e-07,
+      "roundtrip_pass": true,
+      "materials": [
+        "Brushed stainless hardware",
+        "Dark metal",
+        "V8 plain rubber",
+        "V8 plain sage upholstery"
+      ],
+      "bytes": 316676
+    },
+    {
+      "file": "EQ27_PH02_Fitness218_027_RuntimeJoined.glb",
+      "mesh_count": 1,
+      "expected_mesh_count": 1,
+      "bounds_m": [
+        [
+          -37.26950454711914,
+          24.142311096191406,
+          4.267199993133545
+        ],
+        [
+          -35.77596664428711,
+          25.02828598022461,
+          5.9247002601623535
+        ]
+      ],
+      "max_bound_error_m": 0.0,
+      "roundtrip_pass": true,
+      "materials": [
+        "Brushed stainless hardware",
+        "Dark metal",
+        "V8 plain rubber",
+        "V8 plain sage upholstery"
+      ],
+      "bytes": 300748
+    },
+    {
+      "file": "EQ27_PH02_Fitness218_027_World.glb",
+      "mesh_count": 43,
+      "expected_mesh_count": 43,
+      "bounds_m": [
+        [
+          -37.26950454711914,
+          24.142311096191406,
+          4.267199993133545
+        ],
+        [
+          -35.77596664428711,
+          25.02828598022461,
+          5.9247002601623535
+        ]
+      ],
+      "max_bound_error_m": 0.0,
+      "roundtrip_pass": true,
+      "materials": [
+        "Brushed stainless hardware",
+        "Dark metal",
+        "V8 plain rubber",
+        "V8 plain sage upholstery"
+      ],
+      "bytes": 316868
+    },
+    {
+      "file": "EQ27_PH02_Fitness218_029_RuntimeJoined.glb",
+      "mesh_count": 1,
+      "expected_mesh_count": 1,
+      "bounds_m": [
+        [
+          -37.37470245361328,
+          22.453489303588867,
+          4.267199993133545
+        ],
+        [
+          -36.37493133544922,
+          23.89359474182129,
+          5.9916558265686035
+        ]
+      ],
+      "max_bound_error_m": 0.0,
+      "roundtrip_pass": true,
+      "materials": [
+        "Brushed stainless hardware",
+        "Dark metal",
+        "V8 plain rubber",
+        "V8 plain sage upholstery"
+      ],
+      "bytes": 306360
+    },
+    {
+      "file": "EQ27_PH02_Fitness218_029_World.glb",
+      "mesh_count": 48,
+      "expected_mesh_count": 48,
+      "bounds_m": [
+        [
+          -37.37470245361328,
+          22.453489303588867,
+          4.267199993133545
+        ],
+        [
+          -36.37493133544922,
+          23.89359474182129,
+          5.9916558265686035
+        ]
+      ],
+      "max_bound_error_m": 0.0,
+      "roundtrip_pass": true,
+      "materials": [
+        "Brushed stainless hardware",
+        "Dark metal",
+        "V8 plain rubber",
+        "V8 plain sage upholstery"
+      ],
+      "bytes": 327628
+    },
+    {
+      "file": "EQ27_PH02_Fitness218_030_RuntimeJoined.glb",
+      "mesh_count": 1,
+      "expected_mesh_count": 1,
+      "bounds_m": [
+        [
+          -37.37151336669922,
+          21.16396141052246,
+          4.267199993133545
+        ],
+        [
+          -36.357852935791016,
+          22.177448272705078,
+          5.9247002601623535
+        ]
+      ],
+      "max_bound_error_m": 0.0,
+      "roundtrip_pass": true,
+      "materials": [
+        "Brushed stainless hardware",
+        "Dark metal",
+        "V8 plain rubber",
+        "V8 plain sage upholstery"
+      ],
+      "bytes": 298744
+    },
+    {
+      "file": "EQ27_PH02_Fitness218_030_World.glb",
+      "mesh_count": 44,
+      "expected_mesh_count": 44,
+      "bounds_m": [
+        [
+          -37.37151336669922,
+          21.16396141052246,
+          4.267199993133545
+        ],
+        [
+          -36.357852935791016,
+          22.177448272705078,
+          5.9247002601623535
+        ]
+      ],
+      "max_bound_error_m": 0.0,
+      "roundtrip_pass": true,
+      "materials": [
+        "Brushed stainless hardware",
+        "Dark metal",
+        "V8 plain rubber",
+        "V8 plain sage upholstery"
+      ],
+      "bytes": 316180
+    },
+    {
+      "file": "Equipment_EQ27_R01_World.glb",
+      "mesh_count": 604,
+      "expected_mesh_count": 604,
+      "bounds_m": [
+        [
+          -43.22470474243164,
+          21.16396141052246,
+          4.267199993133545
+        ],
+        [
+          -26.00812339782715,
+          29.10588836669922,
+          6.1722002029418945
+        ]
+      ],
+      "max_bound_error_m": 4.76837158203125e-07,
+      "roundtrip_pass": true,
+      "materials": [
+        "Brushed stainless hardware",
+        "Dark metal",
+        "V8 plain dark screen",
+        "V8 plain rubber",
+        "V8 plain sage upholstery"
+      ],
+      "bytes": 3767844
+    },
+    {
+      "file": "R25_U218_Furniture_EQ27_R01_Complete.glb",
+      "mesh_count": 474,
+      "expected_mesh_count": 474,
+      "bounds_m": [
+        [
+          -43.22470474243164,
+          19.729537963867188,
+          4.267199993133545
+        ],
+        [
+          -26.00812339782715,
+          29.10588836669922,
+          6.1722002029418945
+        ]
+      ],
+      "max_bound_error_m": null,
+      "roundtrip_pass": true,
+      "materials": [
+        "Brushed stainless hardware",
+        "Dark metal",
+        "V8 plain dark screen",
+        "V8 plain rubber",
+        "V8 plain sage upholstery"
+      ],
+      "bytes": 3184540
+    },
+    {
+      "file": "R25_U218_Furniture_EQ27_R01_RuntimeJoined.glb",
+      "mesh_count": 1,
+      "expected_mesh_count": 1,
+      "bounds_m": [
+        [
+          -43.224708557128906,
+          19.729534149169922,
+          4.267199993133545
+        ],
+        [
+          -26.00812339782715,
+          29.10588836669922,
+          6.172199726104736
+        ]
+      ],
+      "max_bound_error_m": 3.814697265625e-06,
+      "roundtrip_pass": true,
+      "materials": [
+        "Brushed stainless hardware",
+        "Dark metal",
+        "V8 plain dark screen",
+        "V8 plain rubber",
+        "V8 plain sage upholstery"
+      ],
+      "bytes": 3728704
+    }
+  ],
+  "native_unreal_collision": "Pending isolated integration; policy documented, no runtime verification"
+}

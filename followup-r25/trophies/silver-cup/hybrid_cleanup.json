@@ -1,0 +1,85 @@
+{
+  "manual_bowl_profile_radius_z_m": [
+    [
+      0,
+      0.157
+    ],
+    [
+      0.011,
+      0.157
+    ],
+    [
+      0.018,
+      0.17
+    ],
+    [
+      0.028,
+      0.19
+    ],
+    [
+      0.035,
+      0.21
+    ],
+    [
+      0.043,
+      0.24
+    ],
+    [
+      0.0475,
+      0.27
+    ],
+    [
+      0.049,
+      0.296
+    ],
+    [
+      0.049,
+      0.302
+    ],
+    [
+      0.0475,
+      0.302
+    ],
+    [
+      0.0475,
+      0.296
+    ],
+    [
+      0.046,
+      0.27
+    ],
+    [
+      0.0415,
+      0.24
+    ],
+    [
+      0.0335,
+      0.21
+    ],
+    [
+      0.0265,
+      0.19
+    ],
+    [
+      0.0165,
+      0.173
+    ],
+    [
+      0.01,
+      0.164
+    ],
+    [
+      0,
+      0.164
+    ]
+  ],
+  "retained_trellis_parts": [
+    "handles",
+    "rim",
+    "stem",
+    "foot"
+  ],
+  "discarded_defective_bowl_faces": 11999,
+  "source_archived": "prototypes/cup.blend; cup_raw.npz; cup_trellis_raw.glb",
+  "new_uvs": "Smart project; original UVs/materials retained in raw assets and baked map archive"
+}

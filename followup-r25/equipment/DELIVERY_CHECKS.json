@@ -1,0 +1,18 @@
+{
+  "replacement_assemblies": 14,
+  "export_files": 20,
+  "all_export_roundtrips_pass": true,
+  "max_export_bound_error_m": 3.814697265625e-06,
+  "all_approved_footprints_pass": true,
+  "all_floor_support_pass": true,
+  "all_component_meshes_closed": true,
+  "all_corrected_bench_world_geometry_preserved": true,
+  "five_supported_shafts": true,
+  "two_standalone_benches_no_loadedbars": true,
+  "frozen_sources_unchanged": true,
+  "unreal_runtime_checks": "Pending isolated integration; no maps were modified",
+  "geometry_dimensions": "Representative estimates except traced footprint/position; no manufacturer certification",
+  "treadmill_and_machine_support_checks_pass": true,
+  "six_cpu_previews_complete": true,
+  "visual_review": "All six final preview types inspected; supports, recognizable mechanics, normals/materials and framing checked. Representative geometry remains estimated."
+}

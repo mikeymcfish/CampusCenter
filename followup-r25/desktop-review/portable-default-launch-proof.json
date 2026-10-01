@@ -1,0 +1,8 @@
+{
+  "resource_id": 202,
+  "before": "CampusCenter",
+  "after": "CampusCenter /Game/Campus/Maps/CampusCenter_FA26_Desktop_R25_CombinedReview",
+  "scope": "Generated desktop bootstrap only: select new map by default; no project/runtime renderer config changes; portable package paths",
+  "bootstrap_sha256_before": "6806c335d6f2884b75cda84cfb7da70a24b78d790ab73af784e35ca6b5dd9eab",
+  "bootstrap_sha256_after": "42a53a0b0c82fcc70ad08abc5ad7487c3559991fb9342c6ba6abbf210b4be644"
+}

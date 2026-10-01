@@ -1,0 +1,502 @@
+[
+  {
+    "filename": "SilverCup.blend",
+    "mesh_count": 5,
+    "total_triangles": 23312,
+    "dimensions_m": [
+      0.1761566400527954,
+      0.11900000274181366,
+      0.3200056850910187
+    ],
+    "minimum_z": 0.0,
+    "objects": [
+      {
+        "name": "Trophy_SilverCup_LOD0",
+        "triangles": 22560,
+        "uv_layers": 1,
+        "images": [],
+        "raw_topology": {
+          "boundary": 0,
+          "nonmanifold": 0
+        },
+        "welded_boundary_edges": 4,
+        "welded_nonmanifold_edges": 238
+      },
+      {
+        "name": "Cup_Plinth_Step",
+        "triangles": 188,
+        "uv_layers": 1,
+        "images": [
+          {
+            "name": "Cup_Plinth_Step_Wood.001",
+            "size": [
+              512,
+              512
+            ],
+            "packed": true
+          }
+        ],
+        "raw_topology": {
+          "boundary": 0,
+          "nonmanifold": 0
+        },
+        "welded_boundary_edges": 0,
+        "welded_nonmanifold_edges": 0
+      },
+      {
+        "name": "Cup_Plinth_Block",
+        "triangles": 188,
+        "uv_layers": 1,
+        "images": [
+          {
+            "name": "Cup_Plinth_Block_Wood.001",
+            "size": [
+              512,
+              512
+            ],
+            "packed": true
+          }
+        ],
+        "raw_topology": {
+          "boundary": 0,
+          "nonmanifold": 0
+        },
+        "welded_boundary_edges": 0,
+        "welded_nonmanifold_edges": 0
+      },
+      {
+        "name": "Cup_Plinth_Top",
+        "triangles": 188,
+        "uv_layers": 1,
+        "images": [
+          {
+            "name": "Cup_Plinth_Top_Wood.001",
+            "size": [
+              512,
+              512
+            ],
+            "packed": true
+          }
+        ],
+        "raw_topology": {
+          "boundary": 0,
+          "nonmanifold": 0
+        },
+        "welded_boundary_edges": 0,
+        "welded_nonmanifold_edges": 0
+      },
+      {
+        "name": "Cup_Blank_Plate",
+        "triangles": 188,
+        "uv_layers": 1,
+        "images": [],
+        "raw_topology": {
+          "boundary": 0,
+          "nonmanifold": 0
+        },
+        "welded_boundary_edges": 0,
+        "welded_nonmanifold_edges": 0
+      }
+    ]
+  },
+  {
+    "filename": "SilverCup.glb",
+    "mesh_count": 5,
+    "total_triangles": 23312,
+    "dimensions_m": [
+      0.1761566400527954,
+      0.11900000274181366,
+      0.3200056850910187
+    ],
+    "minimum_z": 0.0,
+    "objects": [
+      {
+        "name": "Trophy_SilverCup_LOD0",
+        "triangles": 22560,
+        "uv_layers": 1,
+        "images": [],
+        "raw_topology": {
+          "boundary": 11738,
+          "nonmanifold": 11738
+        },
+        "welded_boundary_edges": 4,
+        "welded_nonmanifold_edges": 238
+      },
+      {
+        "name": "Cup_Plinth_Step",
+        "triangles": 188,
+        "uv_layers": 1,
+        "images": [
+          {
+            "name": "Cup_Plinth_Step_Wood",
+            "size": [
+              512,
+              512
+            ],
+            "packed": true
+          }
+        ],
+        "raw_topology": {
+          "boundary": 384,
+          "nonmanifold": 384
+        },
+        "welded_boundary_edges": 0,
+        "welded_nonmanifold_edges": 0
+      },
+      {
+        "name": "Cup_Plinth_Block",
+        "triangles": 188,
+        "uv_layers": 1,
+        "images": [
+          {
+            "name": "Cup_Plinth_Block_Wood",
+            "size": [
+              512,
+              512
+            ],
+            "packed": true
+          }
+        ],
+        "raw_topology": {
+          "boundary": 384,
+          "nonmanifold": 384
+        },
+        "welded_boundary_edges": 0,
+        "welded_nonmanifold_edges": 0
+      },
+      {
+        "name": "Cup_Plinth_Top",
+        "triangles": 188,
+        "uv_layers": 1,
+        "images": [
+          {
+            "name": "Cup_Plinth_Top_Wood",
+            "size": [
+              512,
+              512
+            ],
+            "packed": true
+          }
+        ],
+        "raw_topology": {
+          "boundary": 384,
+          "nonmanifold": 384
+        },
+        "welded_boundary_edges": 0,
+        "welded_nonmanifold_edges": 0
+      },
+      {
+        "name": "Cup_Blank_Plate",
+        "triangles": 188,
+        "uv_layers": 1,
+        "images": [],
+        "raw_topology": {
+          "boundary": 384,
+          "nonmanifold": 384
+        },
+        "welded_boundary_edges": 0,
+        "welded_nonmanifold_edges": 0
+      }
+    ]
+  },
+  {
+    "filename": "SilverCup.fbx",
+    "mesh_count": 5,
+    "total_triangles": 23312,
+    "dimensions_m": [
+      0.1761566400527954,
+      0.11900000274181366,
+      0.3200056947847987
+    ],
+    "minimum_z": -9.693780000930019e-09,
+    "objects": [
+      {
+        "name": "Cup_Blank_Plate",
+        "triangles": 188,
+        "uv_layers": 1,
+        "images": [],
+        "raw_topology": {
+          "boundary": 0,
+          "nonmanifold": 0
+        },
+        "welded_boundary_edges": 0,
+        "welded_nonmanifold_edges": 0
+      },
+      {
+        "name": "Cup_Plinth_Block",
+        "triangles": 188,
+        "uv_layers": 1,
+        "images": [
+          {
+            "name": "Cup_Plinth_Block_Wood.001",
+            "size": [
+              512,
+              512
+            ],
+            "packed": true
+          }
+        ],
+        "raw_topology": {
+          "boundary": 0,
+          "nonmanifold": 0
+        },
+        "welded_boundary_edges": 0,
+        "welded_nonmanifold_edges": 0
+      },
+      {
+        "name": "Cup_Plinth_Step",
+        "triangles": 188,
+        "uv_layers": 1,
+        "images": [
+          {
+            "name": "Cup_Plinth_Step_Wood.001",
+            "size": [
+              512,
+              512
+            ],
+            "packed": true
+          }
+        ],
+        "raw_topology": {
+          "boundary": 0,
+          "nonmanifold": 0
+        },
+        "welded_boundary_edges": 0,
+        "welded_nonmanifold_edges": 0
+      },
+      {
+        "name": "Cup_Plinth_Top",
+        "triangles": 188,
+        "uv_layers": 1,
+        "images": [
+          {
+            "name": "Cup_Plinth_Top_Wood.001",
+            "size": [
+              512,
+              512
+            ],
+            "packed": true
+          }
+        ],
+        "raw_topology": {
+          "boundary": 0,
+          "nonmanifold": 0
+        },
+        "welded_boundary_edges": 0,
+        "welded_nonmanifold_edges": 0
+      },
+      {
+        "name": "Trophy_SilverCup_LOD0",
+        "triangles": 22560,
+        "uv_layers": 1,
+        "images": [],
+        "raw_topology": {
+          "boundary": 0,
+          "nonmanifold": 0
+        },
+        "welded_boundary_edges": 4,
+        "welded_nonmanifold_edges": 238
+      }
+    ]
+  },
+  {
+    "filename": "SilverCup_LOD1.glb",
+    "mesh_count": 5,
+    "total_triangles": 12750,
+    "dimensions_m": [
+      0.17611701041460037,
+      0.11900000274181366,
+      0.3200027346611023
+    ],
+    "minimum_z": 0.0,
+    "objects": [
+      {
+        "name": "Cup_Plinth_Step",
+        "triangles": 188,
+        "uv_layers": 1,
+        "images": [
+          {
+            "name": "Cup_Plinth_Step_Wood",
+            "size": [
+              512,
+              512
+            ],
+            "packed": true
+          }
+        ],
+        "raw_topology": {
+          "boundary": 384,
+          "nonmanifold": 384
+        },
+        "welded_boundary_edges": 0,
+        "welded_nonmanifold_edges": 0
+      },
+      {
+        "name": "Cup_Plinth_Block",
+        "triangles": 188,
+        "uv_layers": 1,
+        "images": [
+          {
+            "name": "Cup_Plinth_Block_Wood",
+            "size": [
+              512,
+              512
+            ],
+            "packed": true
+          }
+        ],
+        "raw_topology": {
+          "boundary": 384,
+          "nonmanifold": 384
+        },
+        "welded_boundary_edges": 0,
+        "welded_nonmanifold_edges": 0
+      },
+      {
+        "name": "Cup_Plinth_Top",
+        "triangles": 188,
+        "uv_layers": 1,
+        "images": [
+          {
+            "name": "Cup_Plinth_Top_Wood",
+            "size": [
+              512,
+              512
+            ],
+            "packed": true
+          }
+        ],
+        "raw_topology": {
+          "boundary": 384,
+          "nonmanifold": 384
+        },
+        "welded_boundary_edges": 0,
+        "welded_nonmanifold_edges": 0
+      },
+      {
+        "name": "Cup_Blank_Plate",
+        "triangles": 188,
+        "uv_layers": 1,
+        "images": [],
+        "raw_topology": {
+          "boundary": 384,
+          "nonmanifold": 384
+        },
+        "welded_boundary_edges": 0,
+        "welded_nonmanifold_edges": 0
+      },
+      {
+        "name": "Trophy_SilverCup_LOD1",
+        "triangles": 11998,
+        "uv_layers": 1,
+        "images": [],
+        "raw_topology": {
+          "boundary": 8280,
+          "nonmanifold": 8280
+        },
+        "welded_boundary_edges": 1,
+        "welded_nonmanifold_edges": 66
+      }
+    ]
+  },
+  {
+    "filename": "SilverCup_LOD2.glb",
+    "mesh_count": 5,
+    "total_triangles": 5252,
+    "dimensions_m": [
+      0.1758062019944191,
+      0.11900000274181366,
+      0.31997373700141907
+    ],
+    "minimum_z": 0.0,
+    "objects": [
+      {
+        "name": "Cup_Plinth_Step",
+        "triangles": 188,
+        "uv_layers": 1,
+        "images": [
+          {
+            "name": "Cup_Plinth_Step_Wood",
+            "size": [
+              512,
+              512
+            ],
+            "packed": true
+          }
+        ],
+        "raw_topology": {
+          "boundary": 384,
+          "nonmanifold": 384
+        },
+        "welded_boundary_edges": 0,
+        "welded_nonmanifold_edges": 0
+      },
+      {
+        "name": "Cup_Plinth_Block",
+        "triangles": 188,
+        "uv_layers": 1,
+        "images": [
+          {
+            "name": "Cup_Plinth_Block_Wood",
+            "size": [
+              512,
+              512
+            ],
+            "packed": true
+          }
+        ],
+        "raw_topology": {
+          "boundary": 384,
+          "nonmanifold": 384
+        },
+        "welded_boundary_edges": 0,
+        "welded_nonmanifold_edges": 0
+      },
+      {
+        "name": "Cup_Plinth_Top",
+        "triangles": 188,
+        "uv_layers": 1,
+        "images": [
+          {
+            "name": "Cup_Plinth_Top_Wood",
+            "size": [
+              512,
+              512
+            ],
+            "packed": true
+          }
+        ],
+        "raw_topology": {
+          "boundary": 384,
+          "nonmanifold": 384
+        },
+        "welded_boundary_edges": 0,
+        "welded_nonmanifold_edges": 0
+      },
+      {
+        "name": "Cup_Blank_Plate",
+        "triangles": 188,
+        "uv_layers": 1,
+        "images": [],
+        "raw_topology": {
+          "boundary": 384,
+          "nonmanifold": 384
+        },
+        "welded_boundary_edges": 0,
+        "welded_nonmanifold_edges": 0
+      },
+      {
+        "name": "Trophy_SilverCup_LOD2",
+        "triangles": 4500,
+        "uv_layers": 1,
+        "images": [],
+        "raw_topology": {
+          "boundary": 4208,
+          "nonmanifold": 4208
+        },
+        "welded_boundary_edges": 0,
+        "welded_nonmanifold_edges": 2
+      }
+    ]
+  }
+]

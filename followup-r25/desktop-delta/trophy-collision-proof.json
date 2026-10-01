@@ -1,0 +1,32 @@
+{
+  "map": "/Game/Campus/Maps/CampusCenter_FA26_Desktop_R25_CombinedReview",
+  "actor_count": 2231,
+  "trophy_components": [
+    {
+      "actor": "StaticMeshActor_2060",
+      "label": "SilverCup_AthleticsCase_TR27R01",
+      "before": {
+        "profile": "BlockAll",
+        "enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+      },
+      "saved_reopened": {
+        "profile": "NoCollision",
+        "enabled": "<CollisionEnabled.NO_COLLISION: 0>"
+      }
+    },
+    {
+      "actor": "StaticMeshActor_2061",
+      "label": "RegionalPlaque_AthleticsCase_TR27R01",
+      "before": {
+        "profile": "BlockAll",
+        "enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+      },
+      "saved_reopened": {
+        "profile": "NoCollision",
+        "enabled": "<CollisionEnabled.NO_COLLISION: 0>"
+      }
+    }
+  ],
+  "original_cases_remain_BlockAll": true,
+  "R24_map_and_R01_zip_unchanged": true
+}

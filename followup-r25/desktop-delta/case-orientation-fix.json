@@ -1,0 +1,42 @@
+[
+  {
+    "actor": "StaticMeshActor_1813",
+    "label": "FA26_PH19_G126_TrophyCase_0",
+    "world_pivot_cm": [
+      -2612.586669921875,
+      -2359.83642578125,
+      0
+    ],
+    "new_location": [
+      -5225.17333984375,
+      -4719.6728515625,
+      0.0
+    ],
+    "new_rotation": [
+      -0.0,
+      0.0,
+      180.0
+    ],
+    "purpose": "Face inherited glass toward accessible athletics hall rather than adjacent wall; rotate original geometry around own center; no resizing/material changes"
+  },
+  {
+    "actor": "StaticMeshActor_1814",
+    "label": "FA26_PH19_G126_TrophyCase_1",
+    "world_pivot_cm": [
+      -2612.595947265625,
+      -2117.57177734375,
+      0
+    ],
+    "new_location": [
+      -5225.19189453125,
+      -4235.1435546875,
+      0.0
+    ],
+    "new_rotation": [
+      -0.0,
+      0.0,
+      180.0
+    ],
+    "purpose": "Face inherited glass toward accessible athletics hall rather than adjacent wall; rotate original geometry around own center; no resizing/material changes"
+  }
+]

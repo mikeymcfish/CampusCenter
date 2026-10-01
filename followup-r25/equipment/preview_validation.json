@@ -1,0 +1,56 @@
+[
+  {
+    "file": "baseline_representatives.png",
+    "width": 1200,
+    "height": 900,
+    "bit_depth": 8,
+    "color_type": 6,
+    "bytes": 893916,
+    "sha256": "f97dece9c5a4b8203f96fd9856031ea3a20a063e8cee4776861a2f60a0941569"
+  },
+  {
+    "file": "improved_representatives.png",
+    "width": 1200,
+    "height": 900,
+    "bit_depth": 8,
+    "color_type": 6,
+    "bytes": 943295,
+    "sha256": "71ce9fe18ebf7b459afc71b2c1187e209e992fcafaa8286c4d9cd1b1a31ea1e5"
+  },
+  {
+    "file": "rack_detail.png",
+    "width": 1200,
+    "height": 900,
+    "bit_depth": 8,
+    "color_type": 6,
+    "bytes": 918037,
+    "sha256": "4e505fdd33ec04de3eeee21dd9135ddeb90039f32b905851b0786ec51fb413bf"
+  },
+  {
+    "file": "treadmill_detail.png",
+    "width": 1200,
+    "height": 900,
+    "bit_depth": 8,
+    "color_type": 6,
+    "bytes": 876224,
+    "sha256": "807531bf70a670f0ef52cb13c3ccdf01cdd02ce624e0e84b311d0ce92def8619"
+  },
+  {
+    "file": "pulldown_detail.png",
+    "width": 1200,
+    "height": 900,
+    "bit_depth": 8,
+    "color_type": 6,
+    "bytes": 868259,
+    "sha256": "4dbc36343a894bfa49905a0fbe734e25da432da82b15cdcd77fbd8b2060628e4"
+  },
+  {
+    "file": "press_core_detail.png",
+    "width": 1200,
+    "height": 900,
+    "bit_depth": 8,
+    "color_type": 6,
+    "bytes": 971429,
+    "sha256": "a9e909fc68b7c3ad5ce3cc74ea550e235e6555bda8379086d39f47fe0a4fc8a5"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "archive": "CampusCenter_R25_Combined_Delta_R02.zip",
+  "sha256": "ef9d025d645474a29d26f48ecc0032f83ea05bb051581d66195c3c1f8241b7b2",
+  "bytes": 15878439,
+  "map": "/Game/Campus/Maps/CampusCenter_FA26_Desktop_R25_CombinedReview",
+  "map_sha256": "758a0953f2609d4ba1b51d91a8eaff63377bedf9229364576624963e315dbef3",
+  "actor_count": 2231,
+  "new_assets": 39,
+  "new_map": 1,
+  "trophy_saved_profiles": "NoCollision",
+  "case_footprints_preserved": true,
+  "case_hall_before_after_pass": [
+    true,
+    true
+  ],
+  "R01_sha256_still": "37f95bd6b341a733d0d8472bc0e0f8d9a264267d62e451116ee34117f3c87cc8",
+  "consumer_status": "CLEAR FOR READ-ONLY VIVE PREFLIGHT; no competing heavy cook; desktop staging/smoke remains separate"
+}

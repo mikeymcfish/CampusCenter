@@ -1,0 +1,108 @@
+{
+  "map": "/Game/Campus/Maps/CampusCenter_FA26_Desktop_R25_CombinedReview",
+  "placements": [
+    {
+      "actor": "StaticMeshActor_2060",
+      "label": "SilverCup_AthleticsCase_TR27R01",
+      "asset": "/Game/Campus/TrophiesTR27R01/Runtime/SilverCup_TR27R01.SilverCup_TR27R01",
+      "location": [
+        -2612.5,
+        -2355.0,
+        109.0999984741211
+      ],
+      "rotation": [
+        -0.0,
+        0.0,
+        90.0
+      ],
+      "bounds_cm": [
+        [
+          -2618.4500000476837,
+          -2363.807698726654,
+          109.0999984741211
+        ],
+        [
+          -2606.5500004291534,
+          -2346.192033290863,
+          141.1005630493164
+        ]
+      ],
+      "shelf_top_cm": 109.0999984741211,
+      "shelf_contact_error_cm": 0.0,
+      "collision": "NoCollision; original case collision retained"
+    },
+    {
+      "actor": "StaticMeshActor_2061",
+      "label": "RegionalPlaque_AthleticsCase_TR27R01",
+      "asset": "/Game/Campus/TrophiesTR27R01/Runtime/RegionalPlaque_TR27R01.RegionalPlaque_TR27R01",
+      "location": [
+        -2612.5,
+        -2082.0,
+        65.10000610351562
+      ],
+      "rotation": [
+        -0.0,
+        0.0,
+        90.0
+      ],
+      "bounds_cm": [
+        [
+          -2617.9500002861023,
+          -2093.4299993515015,
+          65.10000610351562
+        ],
+        [
+          -2607.119999408722,
+          -2070.5700006484985,
+          95.0989933013916
+        ]
+      ],
+      "shelf_top_cm": 65.10000610351562,
+      "shelf_contact_error_cm": 0.0,
+      "collision": "NoCollision; original case collision retained"
+    }
+  ],
+  "baseline_case_transform_exception": [
+    {
+      "actor": "StaticMeshActor_1813",
+      "label": "FA26_PH19_G126_TrophyCase_0",
+      "world_pivot_cm": [
+        -2612.586669921875,
+        -2359.83642578125,
+        0
+      ],
+      "new_location": [
+        -5225.17333984375,
+        -4719.6728515625,
+        0.0
+      ],
+      "new_rotation": [
+        -0.0,
+        0.0,
+        180.0
+      ],
+      "purpose": "Face inherited glass toward accessible athletics hall rather than adjacent wall; rotate original geometry around own center; no resizing/material changes"
+    },
+    {
+      "actor": "StaticMeshActor_1814",
+      "label": "FA26_PH19_G126_TrophyCase_1",
+      "world_pivot_cm": [
+        -2612.595947265625,
+        -2117.57177734375,
+        0
+      ],
+      "new_location": [
+        -5225.19189453125,
+        -4235.1435546875,
+        0.0
+      ],
+      "new_rotation": [
+        -0.0,
+        0.0,
+        180.0
+      ],
+      "purpose": "Face inherited glass toward accessible athletics hall rather than adjacent wall; rotate original geometry around own center; no resizing/material changes"
+    }
+  ],
+  "reason": "Inherited front faces wall; initial plaque overlapped built-in schematic award; all other baseline actors unaffected"
+}

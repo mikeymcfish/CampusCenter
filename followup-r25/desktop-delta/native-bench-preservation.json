@@ -1,0 +1,114 @@
+[
+  {
+    "version": "before",
+    "bench": "RE07_PH02_Fitness218_010_0",
+    "source_points_checked": 1032,
+    "all_preserved": true,
+    "max_error_cm": 0.0008339335745404242,
+    "missing_points": 0
+  },
+  {
+    "version": "before",
+    "bench": "RE07_PH02_Fitness218_012_0",
+    "source_points_checked": 1032,
+    "all_preserved": true,
+    "max_error_cm": 0.0005195293238102749,
+    "missing_points": 0
+  },
+  {
+    "version": "before",
+    "bench": "RE07_PH02_Fitness218_014_0",
+    "source_points_checked": 1032,
+    "all_preserved": true,
+    "max_error_cm": 0.000585313477586169,
+    "missing_points": 0
+  },
+  {
+    "version": "before",
+    "bench": "RE07_PH02_Fitness218_016_0",
+    "source_points_checked": 1032,
+    "all_preserved": true,
+    "max_error_cm": 0.0006371736126311589,
+    "missing_points": 0
+  },
+  {
+    "version": "before",
+    "bench": "RE07_PH02_Fitness218_018_0",
+    "source_points_checked": 1032,
+    "all_preserved": true,
+    "max_error_cm": 0.0005195293238102749,
+    "missing_points": 0
+  },
+  {
+    "version": "before",
+    "bench": "RE07_PH02_Fitness218_035_0",
+    "source_points_checked": 384,
+    "all_preserved": true,
+    "max_error_cm": 0.000427071429839998,
+    "missing_points": 0
+  },
+  {
+    "version": "before",
+    "bench": "RE07_PH02_Fitness218_036_0",
+    "source_points_checked": 384,
+    "all_preserved": true,
+    "max_error_cm": 0.000427071429839998,
+    "missing_points": 0
+  },
+  {
+    "version": "after",
+    "bench": "RE07_PH02_Fitness218_010_0",
+    "source_points_checked": 1032,
+    "all_preserved": true,
+    "max_error_cm": 0.0003570248118194286,
+    "missing_points": 0
+  },
+  {
+    "version": "after",
+    "bench": "RE07_PH02_Fitness218_012_0",
+    "source_points_checked": 1032,
+    "all_preserved": true,
+    "max_error_cm": 0.0004834296432818519,
+    "missing_points": 0
+  },
+  {
+    "version": "after",
+    "bench": "RE07_PH02_Fitness218_014_0",
+    "source_points_checked": 1032,
+    "all_preserved": true,
+    "max_error_cm": 0.00032648233172949404,
+    "missing_points": 0
+  },
+  {
+    "version": "after",
+    "bench": "RE07_PH02_Fitness218_016_0",
+    "source_points_checked": 1032,
+    "all_preserved": true,
+    "max_error_cm": 0.00032648233172949404,
+    "missing_points": 0
+  },
+  {
+    "version": "after",
+    "bench": "RE07_PH02_Fitness218_018_0",
+    "source_points_checked": 1032,
+    "all_preserved": true,
+    "max_error_cm": 0.00032648233172949404,
+    "missing_points": 0
+  },
+  {
+    "version": "after",
+    "bench": "RE07_PH02_Fitness218_035_0",
+    "source_points_checked": 384,
+    "all_preserved": true,
+    "max_error_cm": 0.00021499905597011093,
+    "missing_points": 0
+  },
+  {
+    "version": "after",
+    "bench": "RE07_PH02_Fitness218_036_0",
+    "source_points_checked": 384,
+    "all_preserved": true,
+    "max_error_cm": 0.00018941351481771562,
+    "missing_points": 0
+  }
+]

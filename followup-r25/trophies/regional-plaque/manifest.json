@@ -1,0 +1,55 @@
+{
+  "provenance": "Trellis-derived silhouette manually extruded and rebuilt; blank generic prototype, no authentic award inscription",
+  "dimensions_m": [
+    0.2286,
+    0.1083,
+    0.29999
+  ],
+  "parts": [
+    {
+      "name": "Trellis_Derived_Wood_Silhouette",
+      "triangles": 2080,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "uv_layers": 1
+    },
+    {
+      "name": "Blank_Satin_Inset",
+      "triangles": 1560,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "uv_layers": 1
+    },
+    {
+      "name": "Plaque_Plinth_Lower",
+      "triangles": 108,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "uv_layers": 1
+    },
+    {
+      "name": "Plaque_Plinth_Upper",
+      "triangles": 108,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "uv_layers": 1
+    },
+    {
+      "name": "Blank_Base_Plate",
+      "triangles": 108,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "uv_layers": 1
+    }
+  ],
+  "total_triangles": 3964,
+  "lod_note": "Already compact; same mesh suitable for lower LOD until screen-size integration testing",
+  "raw_archive": "../prototypes/plaque_raw_trellis.glb",
+  "source_sha256": "a9430736a64104ff90c43b4473de6a6ce1dd8c677dc591770a6e2e04bf344c4e",
+  "model_revision": "af44b45f2e35a493886929c6d786e563ec68364d",
+  "outline": "XZ silhouette projected from genuine Trellis plaque mesh; external contour fills generated holes; 1 mm closure; 0.4 mm simplification; 3.4 mm inset",
+  "limits": [
+    "Separate closed render components overlap at support contact; not a fabrication union",
+    "Region contour inferred from one supplied reference; generic blank prototype"
+  ]
+}

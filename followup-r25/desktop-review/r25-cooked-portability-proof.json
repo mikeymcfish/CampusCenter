@@ -1,0 +1,600 @@
+{
+  "root_packages": 40,
+  "cooked_files": [
+    {
+      "file": "Content/Campus/EquipmentEQ27R01/Runtime/FA26_PH02_Fitness218_027_EQ27_R01.uasset",
+      "bytes": 2524,
+      "sha256": "8cc539f2bf4c42896899127479a7e4b986b483c161cefb45bf600fd2387f2bfb",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/EquipmentEQ27R01/Runtime/FA26_PH02_Fitness218_027_EQ27_R01.uexp",
+      "bytes": 847803,
+      "sha256": "ab8199c936ba03c9fc0f58e73285f4dce1145c2307c143271dbcf1ccc5364893",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/EquipmentEQ27R01/Runtime/FA26_PH02_Fitness218_027_EQ27_R01.ubulk",
+      "bytes": 37156,
+      "sha256": "c826635c958a29a0c9a0714881ef8e255bd94ef69644c8ff3ec44df81fbbd542",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/EquipmentEQ27R01/Runtime/FA26_PH02_Fitness218_029_EQ27_R01.uasset",
+      "bytes": 2524,
+      "sha256": "ea9dd93a07692752445c96d6612c704f1f6460b80b2db5591e95e2069429584f",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/EquipmentEQ27R01/Runtime/FA26_PH02_Fitness218_029_EQ27_R01.uexp",
+      "bytes": 902446,
+      "sha256": "cbfb5f52a5858beca2cf9d3a8e3d8ad3622976dda03a1c4d77f91917fe5f1762",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/EquipmentEQ27R01/Runtime/FA26_PH02_Fitness218_029_EQ27_R01.ubulk",
+      "bytes": 37156,
+      "sha256": "502ae202cbdfb60f1afa27a011f995826d4e00067c1563da38f2f974fa039c18",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/EquipmentEQ27R01/Runtime/FA26_PH02_Fitness218_030_EQ27_R01.uasset",
+      "bytes": 2524,
+      "sha256": "8f321af380d312e00fc9f5393d90e3face8f3e0b2dbfd6a80f65ac0cfb213ac3",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/EquipmentEQ27R01/Runtime/FA26_PH02_Fitness218_030_EQ27_R01.uexp",
+      "bytes": 849555,
+      "sha256": "d43cc8e76f6ebb9aeeea80e102410f004de2d579af83f1ffeafb55a8eb144301",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/EquipmentEQ27R01/Runtime/FA26_PH02_Fitness218_030_EQ27_R01.ubulk",
+      "bytes": 29416,
+      "sha256": "5c24e733762f0b4a65e2a5036140746c6a05a771156987f823aaab19a9cdb32d",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/EquipmentEQ27R01/Runtime/R25_U218_Furniture_EQ27_R01.uasset",
+      "bytes": 2736,
+      "sha256": "f864507c14f95b7701c21485d932ec99d64e0fd6bd7c21b2a99e3205e55d9f61",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/EquipmentEQ27R01/Runtime/R25_U218_Furniture_EQ27_R01.uexp",
+      "bytes": 9847398,
+      "sha256": "5c79f71144064419f16867fdbc277c1549ded8de613fbe363a27c644f250519b",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/EquipmentEQ27R01/Runtime/R25_U218_Furniture_EQ27_R01.ubulk",
+      "bytes": 477744,
+      "sha256": "5d499b7cddb46cc6c0648da10541bf2bd4f14c1cc51e062ea6472df2c538cf1a",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/ReceptionBSODR01/M_ReceptionBSOD.uasset",
+      "bytes": 1054,
+      "sha256": "159d982bcb7d183201f46d7bd102b661a723169c5797b23adf1a6ffd8a9af85f",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/ReceptionBSODR01/M_ReceptionBSOD.uexp",
+      "bytes": 10736,
+      "sha256": "11f947441c92a9a52b298cfd95744b25890dfafdfd5e4cb8ae53956dbc6ac9e8",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/ReceptionBSODR01/ReceptionTV65_BSOD_R01.uasset",
+      "bytes": 837,
+      "sha256": "18d654d3344878f6ff25417f25ac9f1542e5ff79054cce95fc16b7af00f3ffb4",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/ReceptionBSODR01/ReceptionTV65_BSOD_R01.uexp",
+      "bytes": 8294545,
+      "sha256": "52d1cbaf0cac2e59fa9f6b0b5b4bc12130fa3cb1677c3ba3e1fe92253f47e2fe",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/RegionalPlaque/LOD0/RegionalPlaque_Assembly/Materials/Clean_Walnut_Plinth_001.uasset",
+      "bytes": 1660,
+      "sha256": "e996d4de82940955a92b7e95d83a66cda23e444b5f913d31acad572d83ef1458",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/RegionalPlaque/LOD0/RegionalPlaque_Assembly/Materials/Clean_Walnut_Plinth_001.uexp",
+      "bytes": 19606,
+      "sha256": "94c3cc4ad3d8e660b8825f2f4d06b6b9297a90dfb9f463ea6fafe16205adb238",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/RegionalPlaque/LOD0/RegionalPlaque_Assembly/Materials/Clean_Walnut_Plinth_002.uasset",
+      "bytes": 1636,
+      "sha256": "32e012223903fa3a8e3e57b4d4c73971ae22c7fecfc497d3da9d957d38ee0786",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/RegionalPlaque/LOD0/RegionalPlaque_Assembly/Materials/Clean_Walnut_Plinth_002.uexp",
+      "bytes": 19606,
+      "sha256": "94c3cc4ad3d8e660b8825f2f4d06b6b9297a90dfb9f463ea6fafe16205adb238",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/RegionalPlaque/LOD0/RegionalPlaque_Assembly/Materials/Clean_Walnut_Plinth_003.uasset",
+      "bytes": 1636,
+      "sha256": "058d469cf44158febf08c9b358ff822381df6571c4bcc88d99e5dc9df06047eb",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/RegionalPlaque/LOD0/RegionalPlaque_Assembly/Materials/Clean_Walnut_Plinth_003.uexp",
+      "bytes": 19606,
+      "sha256": "94c3cc4ad3d8e660b8825f2f4d06b6b9297a90dfb9f463ea6fafe16205adb238",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/RegionalPlaque/LOD0/RegionalPlaque_Assembly/Materials/Plaque_Satin_Silver.uasset",
+      "bytes": 1391,
+      "sha256": "0b9296071e170238bc57714f332caa9f7de0e3bc1b359c100cc48150726ef10a",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/RegionalPlaque/LOD0/RegionalPlaque_Assembly/Materials/Plaque_Satin_Silver.uexp",
+      "bytes": 18476,
+      "sha256": "1ea82904de3d7fc0eda0b0a948db3bd628c982be45152a611ea424a0d8531e87",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/RegionalPlaque/LOD0/RegionalPlaque_Assembly/Textures/Plaque_Plinth_Lower_Walnut.uasset",
+      "bytes": 1368,
+      "sha256": "1f18b4505100c4374551e71200febb73d602c577e68b351c610e9587526fe62a",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/RegionalPlaque/LOD0/RegionalPlaque_Assembly/Textures/Plaque_Plinth_Lower_Walnut.uexp",
+      "bytes": 3029,
+      "sha256": "993a0eaf9eea6115dd81ccb5978dc5e08b9a2b6ea611206d3e49154dae4f3571",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/RegionalPlaque/LOD0/RegionalPlaque_Assembly/Textures/Plaque_Plinth_Lower_Walnut.ubulk",
+      "bytes": 172032,
+      "sha256": "d5c35ed34336bf2b60c1f9b032026563b56674f0b7cb9f3cd693638d8ead5d59",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/RegionalPlaque/LOD0/RegionalPlaque_Assembly/Textures/Plaque_Plinth_Upper_Walnut.uasset",
+      "bytes": 1368,
+      "sha256": "35ddccf7c6f2c5f13eb460bf534dac3dacfaef10fe8fd53443f968388f2bae40",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/RegionalPlaque/LOD0/RegionalPlaque_Assembly/Textures/Plaque_Plinth_Upper_Walnut.uexp",
+      "bytes": 3029,
+      "sha256": "c3c71646fbf2ef58479d41ad22d3a507ee732c44c009fc93dd0ee38e0e310b05",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/RegionalPlaque/LOD0/RegionalPlaque_Assembly/Textures/Plaque_Plinth_Upper_Walnut.ubulk",
+      "bytes": 172032,
+      "sha256": "7899ae21b1dabdfe1cde30f5943030c63247d66b5d7bb3a54e7613b8f6a96f93",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/RegionalPlaque/LOD0/RegionalPlaque_Assembly/Textures/Trellis_Derived_Wood_Silhouette_Walnut.uasset",
+      "bytes": 1404,
+      "sha256": "beb56ba396ca397aa6a929277962665856f829ab024765aed221ebc71979db50",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/RegionalPlaque/LOD0/RegionalPlaque_Assembly/Textures/Trellis_Derived_Wood_Silhouette_Walnut.uexp",
+      "bytes": 3029,
+      "sha256": "3cf96a08dd6d844844df05de2e4e34515660814ceb3a4f9ab6fde5c23006f2c6",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/RegionalPlaque/LOD0/RegionalPlaque_Assembly/Textures/Trellis_Derived_Wood_Silhouette_Walnut.ubulk",
+      "bytes": 172032,
+      "sha256": "15a1c851be9c65c003b82a6a4e7e3d0279ba5711e86c393499f5d1c04eb19b98",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Materials/Blank_Silver_Plate.uasset",
+      "bytes": 1378,
+      "sha256": "88c85b71b19519cc77b173923ac218075a960e77ca1ca056c1ac8328b07d664a",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Materials/Blank_Silver_Plate.uexp",
+      "bytes": 18476,
+      "sha256": "c4f0566c6c4fc98ca538351ff2a95a44c9bf9e91e0162f717b0e87599ab3fc93",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Materials/Clean_Polished_Silver_001.uasset",
+      "bytes": 1399,
+      "sha256": "d4720868378632d615cb8d04b5251a768215fc5e500b9becb4210c591082ea9a",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Materials/Clean_Polished_Silver_001.uexp",
+      "bytes": 18476,
+      "sha256": "998c04a611531665778788b412f762a95dd5edad1be7396aaa05b67c90ffbdf6",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Materials/Clean_Walnut_Plinth_004.uasset",
+      "bytes": 1609,
+      "sha256": "dfdf66e8d1f91cd54c17584087072f75a613a4b4876c9b579a8428b5595191d0",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Materials/Clean_Walnut_Plinth_004.uexp",
+      "bytes": 19606,
+      "sha256": "94c3cc4ad3d8e660b8825f2f4d06b6b9297a90dfb9f463ea6fafe16205adb238",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Materials/Clean_Walnut_Plinth_005.uasset",
+      "bytes": 1611,
+      "sha256": "9c0c7910aba31dd01bff8b9313f6001a5199f335eef297140ca6cf3e560cff16",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Materials/Clean_Walnut_Plinth_005.uexp",
+      "bytes": 19606,
+      "sha256": "94c3cc4ad3d8e660b8825f2f4d06b6b9297a90dfb9f463ea6fafe16205adb238",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Materials/Clean_Walnut_Plinth_006.uasset",
+      "bytes": 1607,
+      "sha256": "dfc98d715bf687b4668e44bbce3687cad332ebcc77cd15c528d1b0088e9b1969",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Materials/Clean_Walnut_Plinth_006.uexp",
+      "bytes": 19606,
+      "sha256": "94c3cc4ad3d8e660b8825f2f4d06b6b9297a90dfb9f463ea6fafe16205adb238",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Textures/Cup_Plinth_Block_Wood.uasset",
+      "bytes": 1343,
+      "sha256": "de24461a4e8d10b978ca24110422fcfd123e9d33a731797403df9f559688e963",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Textures/Cup_Plinth_Block_Wood.uexp",
+      "bytes": 3029,
+      "sha256": "d15cdcd353ecfcfe82fe9f51b79546a228c03b9ddc8081df4c0badcb289b6584",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Textures/Cup_Plinth_Block_Wood.ubulk",
+      "bytes": 172032,
+      "sha256": "03f7c35d69b45f44bdf6cf1ffe4b406a3e03c0af1c55837978420bb32ca05d0c",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Textures/Cup_Plinth_Step_Wood.uasset",
+      "bytes": 1340,
+      "sha256": "dc5986f4588b44303e27fb47de3ce77759170766cfc975785715a987aebe1ef8",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Textures/Cup_Plinth_Step_Wood.uexp",
+      "bytes": 3029,
+      "sha256": "5ee4d888591c7f5e16150f1eb2fd483986263386726c079cab4f31d628ad6b2c",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Textures/Cup_Plinth_Step_Wood.ubulk",
+      "bytes": 172032,
+      "sha256": "db39a655b87d166bf2414531ff05a2d17600121bdf3745c55d9c292a68c0b828",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Textures/Cup_Plinth_Top_Wood.uasset",
+      "bytes": 1337,
+      "sha256": "e84353baad99b16dbbbec08631e07402171a85c62b1cb0a9424c2e66997afe4e",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Textures/Cup_Plinth_Top_Wood.uexp",
+      "bytes": 3029,
+      "sha256": "271225501e90175bc36492e765c76d45459707be114e2cf59d0368d260dccf16",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Textures/Cup_Plinth_Top_Wood.ubulk",
+      "bytes": 172032,
+      "sha256": "f0cf03dca4daa2d80c97e0e7c8d2f5b98805e7286d510091c1c9a39aa02df8e6",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Materials/Blank_Silver_Plate.uasset",
+      "bytes": 1378,
+      "sha256": "57afcb47b61c9dd00d3666b018bbea52f6a310210df1ad64c3fca83d1b263842",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Materials/Blank_Silver_Plate.uexp",
+      "bytes": 18476,
+      "sha256": "c4f0566c6c4fc98ca538351ff2a95a44c9bf9e91e0162f717b0e87599ab3fc93",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Materials/Clean_Polished_Silver_001.uasset",
+      "bytes": 1399,
+      "sha256": "2e10c8862f2063941b875274e8ca1e1b4b6c16009a456cbec075ee94a96d7f15",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Materials/Clean_Polished_Silver_001.uexp",
+      "bytes": 18476,
+      "sha256": "998c04a611531665778788b412f762a95dd5edad1be7396aaa05b67c90ffbdf6",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Materials/Clean_Walnut_Plinth_004.uasset",
+      "bytes": 1609,
+      "sha256": "a8a837bbb37f6acaa2f404737ad12a819abad2fe5b6cd374d8cf6275534ddcd8",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Materials/Clean_Walnut_Plinth_004.uexp",
+      "bytes": 19606,
+      "sha256": "94c3cc4ad3d8e660b8825f2f4d06b6b9297a90dfb9f463ea6fafe16205adb238",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Materials/Clean_Walnut_Plinth_005.uasset",
+      "bytes": 1611,
+      "sha256": "fd9c8e455b6e046fe4b7689b545fa532aead6c0ed963a8b6bc1f1d2e2d8c39aa",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Materials/Clean_Walnut_Plinth_005.uexp",
+      "bytes": 19606,
+      "sha256": "94c3cc4ad3d8e660b8825f2f4d06b6b9297a90dfb9f463ea6fafe16205adb238",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Materials/Clean_Walnut_Plinth_006.uasset",
+      "bytes": 1607,
+      "sha256": "8950525989c5f80ad2a6360d459b0fdba1fed520f3893ef53e3a4a740a283aa6",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Materials/Clean_Walnut_Plinth_006.uexp",
+      "bytes": 19606,
+      "sha256": "94c3cc4ad3d8e660b8825f2f4d06b6b9297a90dfb9f463ea6fafe16205adb238",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Textures/Cup_Plinth_Block_Wood.uasset",
+      "bytes": 1343,
+      "sha256": "adb0b8c20e9209f40b4634cc058ebafcc034472d229dc9507288f013cf5efe12",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Textures/Cup_Plinth_Block_Wood.uexp",
+      "bytes": 3029,
+      "sha256": "0f50c16a1f4a071ea91f49ccf55a2e06dce6302b40ac9913b1615e4d4560e366",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Textures/Cup_Plinth_Block_Wood.ubulk",
+      "bytes": 172032,
+      "sha256": "03f7c35d69b45f44bdf6cf1ffe4b406a3e03c0af1c55837978420bb32ca05d0c",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Textures/Cup_Plinth_Step_Wood.uasset",
+      "bytes": 1340,
+      "sha256": "7251b52e07da8154e21c283277b1db66f382417987a8e36c4eb612f387491a69",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Textures/Cup_Plinth_Step_Wood.uexp",
+      "bytes": 3029,
+      "sha256": "d72b4b8ccf5e66673e9cbef2fbc94eb7bc5485cc4891371ec402e9444735a47d",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Textures/Cup_Plinth_Step_Wood.ubulk",
+      "bytes": 172032,
+      "sha256": "db39a655b87d166bf2414531ff05a2d17600121bdf3745c55d9c292a68c0b828",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Textures/Cup_Plinth_Top_Wood.uasset",
+      "bytes": 1337,
+      "sha256": "58b96a995f58655898802cb6bead811c5505414cfd1a25e296ed55c38d5b5473",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Textures/Cup_Plinth_Top_Wood.uexp",
+      "bytes": 3029,
+      "sha256": "a15788b6d17facea929bf85d56d6a34606fce1efe41e930d54f07a39c95e8db0",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Textures/Cup_Plinth_Top_Wood.ubulk",
+      "bytes": 172032,
+      "sha256": "f0cf03dca4daa2d80c97e0e7c8d2f5b98805e7286d510091c1c9a39aa02df8e6",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Materials/Blank_Silver_Plate.uasset",
+      "bytes": 1378,
+      "sha256": "6e8543b8c37d9395d19293dd9dd18394abf251546d9c014ea569a26ea92d5bc8",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Materials/Blank_Silver_Plate.uexp",
+      "bytes": 18476,
+      "sha256": "c4f0566c6c4fc98ca538351ff2a95a44c9bf9e91e0162f717b0e87599ab3fc93",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Materials/Clean_Polished_Silver_001.uasset",
+      "bytes": 1399,
+      "sha256": "bcdf4303f5a0bdc171bf10c8c314559ac4910d43347e25cba5d7125b8817bdfd",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Materials/Clean_Polished_Silver_001.uexp",
+      "bytes": 18476,
+      "sha256": "998c04a611531665778788b412f762a95dd5edad1be7396aaa05b67c90ffbdf6",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Materials/Clean_Walnut_Plinth_004.uasset",
+      "bytes": 1609,
+      "sha256": "a90f230e5d31c263ba50c07d52ba851eabf42e59f16886cc770db27133ee5777",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Materials/Clean_Walnut_Plinth_004.uexp",
+      "bytes": 19606,
+      "sha256": "94c3cc4ad3d8e660b8825f2f4d06b6b9297a90dfb9f463ea6fafe16205adb238",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Materials/Clean_Walnut_Plinth_005.uasset",
+      "bytes": 1611,
+      "sha256": "8e475869bb57bc670aee4751d8ed6064c4bf860cc97cc470941004c62afc80a7",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Materials/Clean_Walnut_Plinth_005.uexp",
+      "bytes": 19606,
+      "sha256": "94c3cc4ad3d8e660b8825f2f4d06b6b9297a90dfb9f463ea6fafe16205adb238",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Materials/Clean_Walnut_Plinth_006.uasset",
+      "bytes": 1607,
+      "sha256": "b5758866e408377c75c363d8c99d187fbd859382b11606b16be0f55c5b0dcd4b",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Materials/Clean_Walnut_Plinth_006.uexp",
+      "bytes": 19606,
+      "sha256": "94c3cc4ad3d8e660b8825f2f4d06b6b9297a90dfb9f463ea6fafe16205adb238",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Textures/Cup_Plinth_Block_Wood.uasset",
+      "bytes": 1343,
+      "sha256": "c7cfd99b59f98d6fb8ba9b8cee437758178e9efdad89d3c01a1d07d84c32a0e0",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Textures/Cup_Plinth_Block_Wood.uexp",
+      "bytes": 3029,
+      "sha256": "8987a0c502d378299ff99c35490192cd94e293527c9560b3a17341773b68e1d5",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Textures/Cup_Plinth_Block_Wood.ubulk",
+      "bytes": 172032,
+      "sha256": "03f7c35d69b45f44bdf6cf1ffe4b406a3e03c0af1c55837978420bb32ca05d0c",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Textures/Cup_Plinth_Step_Wood.uasset",
+      "bytes": 1340,
+      "sha256": "f14dbba06b5a69daa5e94b8a35df5c482c814ec7006c098dc4fe09db980fefec",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Textures/Cup_Plinth_Step_Wood.uexp",
+      "bytes": 3029,
+      "sha256": "7ffd9d63ef7ef6fa9d897332c48b4d5a40ccca9d6cd473bd07e9c39e90baa125",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Textures/Cup_Plinth_Step_Wood.ubulk",
+      "bytes": 172032,
+      "sha256": "db39a655b87d166bf2414531ff05a2d17600121bdf3745c55d9c292a68c0b828",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Textures/Cup_Plinth_Top_Wood.uasset",
+      "bytes": 1337,
+      "sha256": "f385743fedd7d4129158ade6f69ba5420fe8e55d3df22fa7c1edd354e705d8f8",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Textures/Cup_Plinth_Top_Wood.uexp",
+      "bytes": 3029,
+      "sha256": "8fb05abf14bf7fd421b947a8fc267788d5f11671bedafc0517ddc7f49c720324",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Textures/Cup_Plinth_Top_Wood.ubulk",
+      "bytes": 172032,
+      "sha256": "f0cf03dca4daa2d80c97e0e7c8d2f5b98805e7286d510091c1c9a39aa02df8e6",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Runtime/RegionalPlaque_TR27R01.uasset",
+      "bytes": 2596,
+      "sha256": "afd224e51d1fe264a96cb5aa38b280461baa8cbebbf38135958fc2b59e8966e3",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Runtime/RegionalPlaque_TR27R01.uexp",
+      "bytes": 427101,
+      "sha256": "89830f6ac4034e529b77b401e53d229f698ef0c8336a18b1fb5a4fea1d6b8893",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Runtime/RegionalPlaque_TR27R01.ubulk",
+      "bytes": 1036,
+      "sha256": "a67e80adf4f5260d5e97ad5c058b6bb21e06157d56ce15c04b4d139e13cbdcd1",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Runtime/SilverCup_TR27R01.uasset",
+      "bytes": 4890,
+      "sha256": "6ac906306c8611327c34a179f28db1c10bcded83bee06f842823d2aa3c16909b",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Runtime/SilverCup_TR27R01.uexp",
+      "bytes": 2343647,
+      "sha256": "3590c86c3cc95bdb65d8bb12180fb3425583a82301af567312f5bda0e9e96264",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/TrophiesTR27R01/Runtime/SilverCup_TR27R01.ubulk",
+      "bytes": 1044,
+      "sha256": "959291c3f1635a89fc022379a217f9de28e7f5de268239c6750056bde5da2d30",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/Maps/CampusCenter_FA26_Desktop_R25_CombinedReview.umap",
+      "bytes": 768183,
+      "sha256": "5eedf8027ba5013fb058c839aae1f7e04a42d292ad4de05e1a53c7337bb81bd6",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/Maps/CampusCenter_FA26_Desktop_R25_CombinedReview.uexp",
+      "bytes": 13987661,
+      "sha256": "b61e009b7a2216d6459b5f7ecbd397855ccb0983344e3171315a94720c98d0a6",
+      "machine_tokens": []
+    },
+    {
+      "file": "Content/Campus/Maps/CampusCenter_FA26_Desktop_R25_CombinedReview.ubulk",
+      "bytes": 670478,
+      "sha256": "5e48db0a8e3afdec2d48cc5459fbf7d9e81e311c795aa939f162c99380d05d64",
+      "machine_tokens": []
+    }
+  ],
+  "no_machine_paths_in_new_cooked_content": true
+}

@@ -1,0 +1,80 @@
+{
+  "cases": [
+    {
+      "actor": "StaticMeshActor_1813",
+      "label": "FA26_PH19_G126_TrophyCase_0",
+      "before_bounds_cm": [
+        [
+          -2642.890625,
+          -2481.0274658203125,
+          -0.05560302734375
+        ],
+        [
+          -2582.28271484375,
+          -2238.6453857421875,
+          168.5402374267578
+        ]
+      ],
+      "after_bounds_cm": [
+        [
+          -2642.890625000001,
+          -2481.027465820314,
+          -0.05560302734375
+        ],
+        [
+          -2582.282714843751,
+          -2238.645385742189,
+          168.5402374267578
+        ]
+      ],
+      "max_bound_change_cm": 1.3642420526593924e-12,
+      "footprint_shift_cm": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "glass_faces_hall": true
+    },
+    {
+      "actor": "StaticMeshActor_1814",
+      "label": "FA26_PH19_G126_TrophyCase_1",
+      "before_bounds_cm": [
+        [
+          -2642.893310546875,
+          -2238.7627563476562,
+          -0.0555572509765625
+        ],
+        [
+          -2582.298583984375,
+          -1996.3807983398438,
+          168.54022216796875
+        ]
+      ],
+      "after_bounds_cm": [
+        [
+          -2642.893310546876,
+          -2238.7627563476576,
+          -0.0555572509765625
+        ],
+        [
+          -2582.298583984376,
+          -1996.3807983398451,
+          168.54022216796875
+        ]
+      ],
+      "max_bound_change_cm": 1.3642420526593924e-12,
+      "footprint_shift_cm": 0,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "glass_faces_hall": true
+    }
+  ],
+  "rotation_degrees": 180,
+  "world_pivot": "Each existing case own bounding-box center; compensating actor translation implements in-place rotation of world-baked geometry",
+  "case_geometry_and_materials_unchanged": true,
+  "door_actors_unchanged": "Verified in final-native-preservation.json"
+}

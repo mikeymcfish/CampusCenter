@@ -1,0 +1,267 @@
+[
+  {
+    "file": "CampusCenter_Equipment_Editable_EQ27_R01.blend",
+    "bytes": 24962904,
+    "sha256": "77862ed5f103f62934efec7dd6d9d0c32eef82a606ad04cb53cb69e5208a95b8"
+  },
+  {
+    "file": "AUDIT_AND_INTEGRATION.txt",
+    "bytes": 6261,
+    "sha256": "f93a98dbf1e9374cf277b09e0941ac542781e9ca9b5adae82eb239296306dc82"
+  },
+  {
+    "file": "Equipment_Review.html",
+    "bytes": 5691,
+    "sha256": "b37acdf10fc03855efaa8773ccababd4c335d632d2dee759749545c0bb48da9a"
+  },
+  {
+    "file": "equipment_inventory.csv",
+    "bytes": 3718,
+    "sha256": "0ed0c9118dbdeddd73dc4c1aefb48cffd831a453e257fddb6c720ea3ec9a97d4"
+  },
+  {
+    "file": "b05_inventory.json",
+    "bytes": 1375602,
+    "sha256": "640382404616e164193a566f25cab668f6f0e441a7498fef4c7eb79e27499834"
+  },
+  {
+    "file": "replacement_manifest.json",
+    "bytes": 295596,
+    "sha256": "66327fc3afa9a163bd406f22dbb02fe07147bfc975858ef5064771ca1daef4b2"
+  },
+  {
+    "file": "validation.json",
+    "bytes": 16274,
+    "sha256": "ee8dc77f2e790518310d18e1e8e6541277f05be272690c39dde000d03eaeb8d3"
+  },
+  {
+    "file": "DELIVERY_CHECKS.json",
+    "bytes": 913,
+    "sha256": "889b4989b0252496653f9e3a3caaca4e83c5d408e6af450798194ce9fbf375a6"
+  },
+  {
+    "file": "material_compatibility.json",
+    "bytes": 25477,
+    "sha256": "e2231b48ad98865562d89f99ecfa680d9038a355ee4aee49e9e87af644357cd2"
+  },
+  {
+    "file": "native_integration_evidence.json",
+    "bytes": 4875,
+    "sha256": "4b819b3596e329fade718e2fbbc39b52cdff57fd9cd8ded03a922cd8efc01b26"
+  },
+  {
+    "file": "source_integrity_before.json",
+    "bytes": 607,
+    "sha256": "925b85cbef3baf0d88c3c8ceea4da71ccec80fc1070eefd6fa697f4a99e43d6b"
+  },
+  {
+    "file": "source_integrity_after.json",
+    "bytes": 765,
+    "sha256": "f885d208050f57ae80c1796cacd50c4d5632ce969ebbf2adfbec356824cc975a"
+  },
+  {
+    "file": "preview_contract.json",
+    "bytes": 837,
+    "sha256": "fa242d43fb7179b9c93a2395e4bddbaa6508d679b733b15edff7fe76f0edda79"
+  },
+  {
+    "file": "preview_validation.json",
+    "bytes": 1424,
+    "sha256": "b0b76249901319ca9483b583fc8c675fc7ace36b1c055b5e838b4015d63385d2"
+  },
+  {
+    "file": "audit.py",
+    "bytes": 1090,
+    "sha256": "c146a3f5f25e5ce2ac1f9b8012ee6aaa515e6164320e9a724c32e57e33459215"
+  },
+  {
+    "file": "build_equipment.py",
+    "bytes": 16330,
+    "sha256": "596ca72b38bd6b33d377481e13f26f770f053c2364765c1d540c90833df4d79a"
+  },
+  {
+    "file": "finalize_staging.py",
+    "bytes": 2839,
+    "sha256": "99fcfb2d287ff50ca48e2af8e32f7f2c712d7eccd888b7db80a72d04c1ffd8d3"
+  },
+  {
+    "file": "clean_staging.py",
+    "bytes": 281,
+    "sha256": "ad11d64c764b603d186e2eb160005431852f244e0177900742de8ee5e2a23f2f"
+  },
+  {
+    "file": "render_previews.py",
+    "bytes": 4875,
+    "sha256": "2d54925da8c0fc2c99025770ded4fb324b6bcefedc2005694584c988e4799e28"
+  },
+  {
+    "file": "validate_exports.py",
+    "bytes": 5722,
+    "sha256": "14e5803234f849538988c99dc96eb109a024cd9d4d454c96607f9b0bbe7de8f1"
+  },
+  {
+    "file": "export_runtime_joined.py",
+    "bytes": 1931,
+    "sha256": "d32b97ab4962d010f29430691d688ddde5747013f162eef5f3af32a5452ace72"
+  },
+  {
+    "file": "native_contract.py",
+    "bytes": 869,
+    "sha256": "faec2cb5f51fcf191dffc2e681b8268e6414546cfc2ab5b5d703afa2d3666c3b"
+  },
+  {
+    "file": "package_evidence.py",
+    "bytes": 4350,
+    "sha256": "6f88bcb3a155a46e16839d537b38ae1dd6784f874776cf0559b8ca7a8249187c"
+  },
+  {
+    "file": "make_handoff.py",
+    "bytes": 5648,
+    "sha256": "2c934a7e31bbe75a10340962aa63cada25e2dc2379060256be39370e6759b313"
+  },
+  {
+    "file": "exports/EQ27_PH02_Fitness218_003_World.glb",
+    "bytes": 222108,
+    "sha256": "624b44ed9b08369f0755d8695ec8e67e0d2345735030835f99e488497d2c60b6"
+  },
+  {
+    "file": "exports/EQ27_PH02_Fitness218_004_World.glb",
+    "bytes": 222112,
+    "sha256": "92ff9d89787c73a58632d167ff7d4e1461fcbd9d74d8fd7d93faa545ccf00064"
+  },
+  {
+    "file": "exports/EQ27_PH02_Fitness218_005_World.glb",
+    "bytes": 222116,
+    "sha256": "f19f0d1f9c8456860d3069ef374b05555b247aec962ec88c9e676e1c621401a4"
+  },
+  {
+    "file": "exports/EQ27_PH02_Fitness218_006_World.glb",
+    "bytes": 222096,
+    "sha256": "df6ef37131942a2453027934346d027d128abde53cffb708eb8ddaa94fd12230"
+  },
+  {
+    "file": "exports/EQ27_PH02_Fitness218_007_World.glb",
+    "bytes": 222112,
+    "sha256": "68c08a4613ba60234d2dac22c181b2e58fd06d44761d634365e9f4ae8e5513b4"
+  },
+  {
+    "file": "exports/EQ27_PH02_Fitness218_008_World.glb",
+    "bytes": 222100,
+    "sha256": "8c28b8bcb1413bc757d1b2fea1a3e38f38018032b2b04b31de7f83d6e1dc5fcd"
+  },
+  {
+    "file": "exports/EQ27_PH02_Fitness218_009_World.glb",
+    "bytes": 314784,
+    "sha256": "2583e7e2ea47a7f72ca52fab089987285412016daba0f9d1be8ad0a9812bfae6"
+  },
+  {
+    "file": "exports/EQ27_PH02_Fitness218_011_World.glb",
+    "bytes": 314840,
+    "sha256": "fdbb0be34a396d5366f7a6f7f2225c1d62b985738fd685ca8fa9db7e96309c1c"
+  },
+  {
+    "file": "exports/EQ27_PH02_Fitness218_013_World.glb",
+    "bytes": 315732,
+    "sha256": "736d4c72b393befa9dd02fe313e756551df4266c168a29aeb99f7c87f7e57788"
+  },
+  {
+    "file": "exports/EQ27_PH02_Fitness218_015_World.glb",
+    "bytes": 316676,
+    "sha256": "879fc4548526951fe6a27ef1ab5d3a49056025566bc9205985d5b5e689101462"
+  },
+  {
+    "file": "exports/EQ27_PH02_Fitness218_017_World.glb",
+    "bytes": 316676,
+    "sha256": "8c477082464606ef61f370f7e16eda499ce816ddb3336fcb9762e26eec1722f4"
+  },
+  {
+    "file": "exports/EQ27_PH02_Fitness218_027_RuntimeJoined.glb",
+    "bytes": 300748,
+    "sha256": "af27ee53e39326f5c65a02f0b2b1e577fb0a0caea4e9bc8a49a366d576c396c3"
+  },
+  {
+    "file": "exports/EQ27_PH02_Fitness218_027_World.glb",
+    "bytes": 316868,
+    "sha256": "f5cb15fc4c09e885eae0e9b47b87d3cce26b1f270c0beb09f5ddc17a571a0889"
+  },
+  {
+    "file": "exports/EQ27_PH02_Fitness218_029_RuntimeJoined.glb",
+    "bytes": 306360,
+    "sha256": "b90662b64c6311a41f7a4f4cb468f1c85621a005b051ff8fda88c5d403bca745"
+  },
+  {
+    "file": "exports/EQ27_PH02_Fitness218_029_World.glb",
+    "bytes": 327628,
+    "sha256": "ddfd68f8c31e91fabdfa81665e66ad146d82e3cc5392bae1f9e4455efdc4b51a"
+  },
+  {
+    "file": "exports/EQ27_PH02_Fitness218_030_RuntimeJoined.glb",
+    "bytes": 298744,
+    "sha256": "2eec8ef3c93c19ec96d0b8eff06da478f120cd05adae6e5bb07d755ea104a7a8"
+  },
+  {
+    "file": "exports/EQ27_PH02_Fitness218_030_World.glb",
+    "bytes": 316180,
+    "sha256": "3f64ccdf46fbefd69964e3d986fe1c61288ce9ef895488d81767e3b813e14821"
+  },
+  {
+    "file": "exports/Equipment_EQ27_R01_World.glb",
+    "bytes": 3767844,
+    "sha256": "e93c8aabb84f93747220806ea1791451cd25cba264272ebe207355eb45443e67"
+  },
+  {
+    "file": "exports/R25_U218_Furniture_EQ27_R01_Complete.glb",
+    "bytes": 3184540,
+    "sha256": "8c78b35d300a1dee751d76a704b2ffb62707674b28ef5744bc3c3f7bad75ac43"
+  },
+  {
+    "file": "exports/R25_U218_Furniture_EQ27_R01_RuntimeJoined.glb",
+    "bytes": 3728704,
+    "sha256": "251672656a0ca37616a054f4c8433ea2792a51a2c115a993c13468517af611a7"
+  },
+  {
+    "file": "previews/baseline_representatives.png",
+    "bytes": 893916,
+    "sha256": "f97dece9c5a4b8203f96fd9856031ea3a20a063e8cee4776861a2f60a0941569"
+  },
+  {
+    "file": "previews/improved_representatives.png",
+    "bytes": 943295,
+    "sha256": "71ce9fe18ebf7b459afc71b2c1187e209e992fcafaa8286c4d9cd1b1a31ea1e5"
+  },
+  {
+    "file": "previews/press_core_detail.png",
+    "bytes": 971429,
+    "sha256": "a9e909fc68b7c3ad5ce3cc74ea550e235e6555bda8379086d39f47fe0a4fc8a5"
+  },
+  {
+    "file": "previews/pulldown_detail.png",
+    "bytes": 868259,
+    "sha256": "4dbc36343a894bfa49905a0fbe734e25da432da82b15cdcd77fbd8b2060628e4"
+  },
+  {
+    "file": "previews/rack_detail.png",
+    "bytes": 918037,
+    "sha256": "4e505fdd33ec04de3eeee21dd9135ddeb90039f32b905851b0786ec51fb413bf"
+  },
+  {
+    "file": "previews/treadmill_detail.png",
+    "bytes": 876224,
+    "sha256": "807531bf70a670f0ef52cb13c3ccdf01cdd02ce624e0e84b311d0ce92def8619"
+  },
+  {
+    "file": "previews/render_results.json",
+    "bytes": 2761,
+    "sha256": "0f303998044923ac3b21a863209f0fcd1fe73e150584da76785dac958d43385b"
+  },
+  {
+    "file": "source_dependency_check.json",
+    "bytes": 537,
+    "sha256": "6f4cc3702e88655d840d4a346acdef94273cc7a65e541bd147b8a11471509f75"
+  },
+  {
+    "file": "check_source_dependencies.py",
+    "bytes": 951,
+    "sha256": "27d30fe666c9b002b86ac7eecac111d813e539ebd8fd0ef6b2a8eb578856a3ad"
+  }
+]

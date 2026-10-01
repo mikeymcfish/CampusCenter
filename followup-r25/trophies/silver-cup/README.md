@@ -1,0 +1,15 @@
+# Silver cup integration candidate
+
+This is a cleaned **Trellis/manual hybrid**, not an exact replica of a real award. Retained Trellis-generated handles, rim, stem and foot; rebuilt the defective bowl from its measured profile, rebuilt the stepped plinth, and replaced all garbled inscriptions with a blank silver plate. The genuine raw outputs and original UV/material data remain archived under `../prototypes/`. No diffusion rerun or new software was needed for cleanup.
+
+Primary files: `SilverCup.blend`, `SilverCup.glb`, `SilverCup.fbx`. Distance alternatives: `SilverCup_LOD1.glb`, `SilverCup_LOD2.glb`. The Blender file contains hidden LOD alternatives; exports contain one chosen LOD plus three plinth parts and the blank plate. Intended placement: floor/base at Z=0, metres, height 0.320 m, width 0.176 m, depth 0.119 m. Centre the horizontal footprint on the shelf; no transform from the original campus map is baked into this asset.
+
+Triangle totals including plinth and plate: **23,312** at LOD0, **12,750** at LOD1, **5,252** at LOD2. All Blender mesh parts pass zero boundary/nonmanifold-edge checks in their authored topology. Coincident contact points in the retained trim are intentionally kept split; destructive global welding changes this topology. These are closed render components, not a single Boolean-unioned fabrication solid.
+
+Materials: exported uniform polished silver PBR plus three baked 512-pixel wood textures and blank silver plate. New UVs cover the rebuilt and repaired geometry. Original source UVs/materials are preserved in the raw archive; initial 1024-pixel PBR bakes are retained as companion PNGs but do not drive the final silver finish. This deliberately removes the source's baked-in reflection/text defects rather than claiming unchanged material mapping.
+
+Validation: Blender/GLB/FBX reopens agree on five visible meshes, scale, triangle totals, UV presence and materials. Actual imported GLB render is `SilverCup_GLBreimport.png`; front, side, rear, oblique, bowl and LOD previews are present. Front-to-back rays through both handle gaps miss geometry; downward bowl-centre ray reaches the interior floor at about Z=0.164 m. The plinth's minimum Z is 0, with a flat contact face. `ready_manifest.json` records hashes and authored topology; `export_validation.json` records actual reimports; `hybrid_cleanup.json` documents the manual bowl profile and discarded source faces.
+
+The decorative rim and athlete-scale details are inferred from a single supplied image and have minor shape irregularity. Do not assert exact real award identity or engrave invented text. Figure and plaque prototypes remain **rejected** for this integration batch due to fragmented surfaces and text relief. Only the silver cup is ready for architectural display-case integration; no Unreal map was edited.
+
+`Trophy_Cup_Before_After.png` is saved in the user's Library. The Library write succeeded; its local identity receipt is in `../library_helpers/image_identity.json`. Native extended attributes are unsupported by this Windows Python runtime; the receipt retains that identity independently.

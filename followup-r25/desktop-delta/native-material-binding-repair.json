@@ -1,0 +1,68 @@
+[
+  {
+    "actor": "StaticMeshActor_1510",
+    "slot_names": [
+      "V8_plain_sage_upholstery",
+      "Dark_metal",
+      "Brushed_stainless_hardware",
+      "V8_plain_rubber",
+      "V8_plain_dark_screen"
+    ],
+    "native_materials": [
+      "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric",
+      "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+      "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware",
+      "/Game/Campus/FurnitureR26/CompatR03/V8_plain_rubber_33d74d26.V8_plain_rubber_33d74d26",
+      "/Game/Campus/FitnessSupportR26R01/Compat/V8_plain_dark_screen_4dd4b3d1.V8_plain_dark_screen_4dd4b3d1"
+    ],
+    "verified_asset_and_component": true
+  },
+  {
+    "actor": "StaticMeshActor_2035",
+    "slot_names": [
+      "Dark_metal",
+      "V8_plain_rubber",
+      "V8_plain_sage_upholstery",
+      "Brushed_stainless_hardware"
+    ],
+    "native_materials": [
+      "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+      "/Game/Campus/FurnitureR26/CompatR03/V8_plain_rubber_33d74d26.V8_plain_rubber_33d74d26",
+      "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric",
+      "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+    ],
+    "verified_asset_and_component": true
+  },
+  {
+    "actor": "StaticMeshActor_2036",
+    "slot_names": [
+      "Dark_metal",
+      "V8_plain_rubber",
+      "V8_plain_sage_upholstery",
+      "Brushed_stainless_hardware"
+    ],
+    "native_materials": [
+      "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+      "/Game/Campus/FurnitureR26/CompatR03/V8_plain_rubber_33d74d26.V8_plain_rubber_33d74d26",
+      "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric",
+      "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+    ],
+    "verified_asset_and_component": true
+  },
+  {
+    "actor": "StaticMeshActor_2037",
+    "slot_names": [
+      "Dark_metal",
+      "V8_plain_rubber",
+      "V8_plain_sage_upholstery",
+      "Brushed_stainless_hardware"
+    ],
+    "native_materials": [
+      "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+      "/Game/Campus/FurnitureR26/CompatR03/V8_plain_rubber_33d74d26.V8_plain_rubber_33d74d26",
+      "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric",
+      "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+    ],
+    "verified_asset_and_component": true
+  }
+]

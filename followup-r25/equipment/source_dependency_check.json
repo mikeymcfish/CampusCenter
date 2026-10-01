@@ -1,0 +1,17 @@
+{
+  "saved_source": "C:\\Users\\mikef\\Documents\\Codex\\2026-10-01\\task-3\\equipment_staging\\CampusCenter_Equipment_Editable_EQ27_R01.blend",
+  "blender": "5.0.0",
+  "mesh_objects": 883,
+  "units": 1.0,
+  "images": [
+    {
+      "name": "greenwich_park_4k.hdr",
+      "packed": true,
+      "external_path": "C:\\Users\\mikef\\Documents\\ChatGPT\\Campus Center\\cycles_studio_v04\\assets\\greenwich_park_4k.hdr",
+      "exists": true,
+      "portable": true
+    }
+  ],
+  "linked_libraries": [],
+  "missing_images": []
+}

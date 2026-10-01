@@ -1,0 +1,561 @@
+{
+  "map": "CampusCenter_FA26_Desktop_R25_CombinedReview",
+  "baseline_actor_count": 2229,
+  "final_actor_count": 2231,
+  "changed_original_actors": {
+    "StaticMeshActor_1510": {
+      "before": {
+        "label": "R25_U218_Furniture",
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "hidden": false,
+        "tags": [],
+        "mesh": "/Game/Campus/FitnessSupportR26R01/Runtime/FA26_FitnessSupport_U218_R06.FA26_FitnessSupport_U218_R06",
+        "materials": [
+          "/Game/Campus/FurnitureR26/CompatR03/V8_plain_rubber_33d74d26.V8_plain_rubber_33d74d26",
+          "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+          "/Game/Campus/FitnessSupportR26R01/Compat/V8_plain_dark_screen_4dd4b3d1.V8_plain_dark_screen_4dd4b3d1",
+          "/Game/Campus/FitnessSupportR26R01/Compat/Blockout_equipment_-_untextured_898e9409.Blockout_equipment_-_untextured_898e9409",
+          "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric",
+          "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+        ],
+        "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "collision_profile": "BlockAll",
+        "cast_shadow": true
+      },
+      "after": {
+        "label": "R25_U218_Furniture",
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "hidden": false,
+        "tags": [],
+        "mesh": "/Game/Campus/EquipmentEQ27R01/Runtime/R25_U218_Furniture_EQ27_R01.R25_U218_Furniture_EQ27_R01",
+        "materials": [
+          "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric",
+          "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+          "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware",
+          "/Game/Campus/FurnitureR26/CompatR03/V8_plain_rubber_33d74d26.V8_plain_rubber_33d74d26",
+          "/Game/Campus/FitnessSupportR26R01/Compat/V8_plain_dark_screen_4dd4b3d1.V8_plain_dark_screen_4dd4b3d1"
+        ],
+        "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "collision_profile": "BlockAll",
+        "cast_shadow": true
+      }
+    },
+    "StaticMeshActor_1813": {
+      "before": {
+        "label": "FA26_PH19_G126_TrophyCase_0",
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "hidden": false,
+        "tags": [
+          "FA26_R01",
+          "PH19_G126_TrophyCase_0"
+        ],
+        "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH19_G126_TrophyCase_0.FA26_PH19_G126_TrophyCase_0",
+        "materials": [
+          "/Game/Campus/PolishV03/Materials/M_Natural_Oak_PBR.M_Natural_Oak_PBR",
+          "/Game/Campus/PlayFixes/M_ClearGlass_Stable.M_ClearGlass_Stable",
+          "/Game/Campus/FurnitureR26/CompatR03/V8_plain_light_table_surface_47688cfd.V8_plain_light_table_surface_47688cfd",
+          "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+          "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+        ],
+        "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "collision_profile": "BlockAll",
+        "cast_shadow": true
+      },
+      "after": {
+        "label": "FA26_PH19_G126_TrophyCase_0",
+        "location": [
+          -5225.17333984375,
+          -4719.6728515625,
+          0.0
+        ],
+        "rotation": [
+          -0.0,
+          0.0,
+          180.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "hidden": false,
+        "tags": [
+          "FA26_R01",
+          "PH19_G126_TrophyCase_0"
+        ],
+        "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH19_G126_TrophyCase_0.FA26_PH19_G126_TrophyCase_0",
+        "materials": [
+          "/Game/Campus/PolishV03/Materials/M_Natural_Oak_PBR.M_Natural_Oak_PBR",
+          "/Game/Campus/PlayFixes/M_ClearGlass_Stable.M_ClearGlass_Stable",
+          "/Game/Campus/FurnitureR26/CompatR03/V8_plain_light_table_surface_47688cfd.V8_plain_light_table_surface_47688cfd",
+          "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+          "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+        ],
+        "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "collision_profile": "BlockAll",
+        "cast_shadow": true
+      }
+    },
+    "StaticMeshActor_1814": {
+      "before": {
+        "label": "FA26_PH19_G126_TrophyCase_1",
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "hidden": false,
+        "tags": [
+          "FA26_R01",
+          "PH19_G126_TrophyCase_1"
+        ],
+        "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH19_G126_TrophyCase_1.FA26_PH19_G126_TrophyCase_1",
+        "materials": [
+          "/Game/Campus/PolishV03/Materials/M_Natural_Oak_PBR.M_Natural_Oak_PBR",
+          "/Game/Campus/PlayFixes/M_ClearGlass_Stable.M_ClearGlass_Stable",
+          "/Game/Campus/FurnitureR26/CompatR03/V8_plain_light_table_surface_47688cfd.V8_plain_light_table_surface_47688cfd",
+          "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+          "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+        ],
+        "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "collision_profile": "BlockAll",
+        "cast_shadow": true
+      },
+      "after": {
+        "label": "FA26_PH19_G126_TrophyCase_1",
+        "location": [
+          -5225.19189453125,
+          -4235.1435546875,
+          0.0
+        ],
+        "rotation": [
+          -0.0,
+          0.0,
+          180.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "hidden": false,
+        "tags": [
+          "FA26_R01",
+          "PH19_G126_TrophyCase_1"
+        ],
+        "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH19_G126_TrophyCase_1.FA26_PH19_G126_TrophyCase_1",
+        "materials": [
+          "/Game/Campus/PolishV03/Materials/M_Natural_Oak_PBR.M_Natural_Oak_PBR",
+          "/Game/Campus/PlayFixes/M_ClearGlass_Stable.M_ClearGlass_Stable",
+          "/Game/Campus/FurnitureR26/CompatR03/V8_plain_light_table_surface_47688cfd.V8_plain_light_table_surface_47688cfd",
+          "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+          "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+        ],
+        "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "collision_profile": "BlockAll",
+        "cast_shadow": true
+      }
+    },
+    "StaticMeshActor_2035": {
+      "before": {
+        "label": "FA26_PH02_Fitness218_027",
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "hidden": false,
+        "tags": [
+          "FA26_R01",
+          "PH02_Fitness218_027"
+        ],
+        "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_027.FA26_PH02_Fitness218_027",
+        "materials": [
+          "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+          "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware",
+          "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric"
+        ],
+        "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "collision_profile": "BlockAll",
+        "cast_shadow": true
+      },
+      "after": {
+        "label": "FA26_PH02_Fitness218_027",
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "hidden": false,
+        "tags": [
+          "FA26_R01",
+          "PH02_Fitness218_027"
+        ],
+        "mesh": "/Game/Campus/EquipmentEQ27R01/Runtime/FA26_PH02_Fitness218_027_EQ27_R01.FA26_PH02_Fitness218_027_EQ27_R01",
+        "materials": [
+          "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+          "/Game/Campus/FurnitureR26/CompatR03/V8_plain_rubber_33d74d26.V8_plain_rubber_33d74d26",
+          "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric",
+          "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+        ],
+        "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "collision_profile": "BlockAll",
+        "cast_shadow": true
+      }
+    },
+    "StaticMeshActor_2036": {
+      "before": {
+        "label": "FA26_PH02_Fitness218_029",
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "hidden": false,
+        "tags": [
+          "FA26_R01",
+          "PH02_Fitness218_029"
+        ],
+        "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_029.FA26_PH02_Fitness218_029",
+        "materials": [
+          "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+          "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware",
+          "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric"
+        ],
+        "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "collision_profile": "BlockAll",
+        "cast_shadow": true
+      },
+      "after": {
+        "label": "FA26_PH02_Fitness218_029",
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "hidden": false,
+        "tags": [
+          "FA26_R01",
+          "PH02_Fitness218_029"
+        ],
+        "mesh": "/Game/Campus/EquipmentEQ27R01/Runtime/FA26_PH02_Fitness218_029_EQ27_R01.FA26_PH02_Fitness218_029_EQ27_R01",
+        "materials": [
+          "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+          "/Game/Campus/FurnitureR26/CompatR03/V8_plain_rubber_33d74d26.V8_plain_rubber_33d74d26",
+          "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric",
+          "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+        ],
+        "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "collision_profile": "BlockAll",
+        "cast_shadow": true
+      }
+    },
+    "StaticMeshActor_2037": {
+      "before": {
+        "label": "FA26_PH02_Fitness218_030",
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "hidden": false,
+        "tags": [
+          "FA26_R01",
+          "PH02_Fitness218_030"
+        ],
+        "mesh": "/Game/Campus/FurnitureR26/RuntimeB01/FA26_PH02_Fitness218_030.FA26_PH02_Fitness218_030",
+        "materials": [
+          "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+          "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware",
+          "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric"
+        ],
+        "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "collision_profile": "BlockAll",
+        "cast_shadow": true
+      },
+      "after": {
+        "label": "FA26_PH02_Fitness218_030",
+        "location": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "hidden": false,
+        "tags": [
+          "FA26_R01",
+          "PH02_Fitness218_030"
+        ],
+        "mesh": "/Game/Campus/EquipmentEQ27R01/Runtime/FA26_PH02_Fitness218_030_EQ27_R01.FA26_PH02_Fitness218_030_EQ27_R01",
+        "materials": [
+          "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+          "/Game/Campus/FurnitureR26/CompatR03/V8_plain_rubber_33d74d26.V8_plain_rubber_33d74d26",
+          "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric",
+          "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware"
+        ],
+        "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "collision_profile": "BlockAll",
+        "cast_shadow": true
+      }
+    },
+    "StaticMeshActor_2059": {
+      "before": {
+        "label": "ReceptionTV65_Slideshow_R01_TEMP",
+        "location": [
+          1414.7565,
+          -1686.8657,
+          172.72
+        ],
+        "rotation": [
+          -90.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.4,
+          0.7875,
+          1.0
+        ],
+        "hidden": false,
+        "tags": [
+          "ReceptionTV65SlideshowR01",
+          "TemporaryCampusReviewSlides"
+        ],
+        "mesh": "/Engine/BasicShapes/Plane.Plane",
+        "materials": [
+          "/Game/Campus/ReceptionSlideshowR01/MI_ReceptionSlideshow_Config.MI_ReceptionSlideshow_Config"
+        ],
+        "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+        "collision_profile": "NoCollision",
+        "cast_shadow": false
+      },
+      "after": {
+        "label": "ReceptionTV65_BSOD_R01",
+        "location": [
+          1414.7565,
+          -1686.8657,
+          172.72
+        ],
+        "rotation": [
+          -90.0,
+          0.0,
+          0.0
+        ],
+        "scale": [
+          1.4,
+          0.7875,
+          1.0
+        ],
+        "hidden": false,
+        "tags": [
+          "ReceptionTV65BSODR01",
+          "FictionalComicDisplay"
+        ],
+        "mesh": "/Engine/BasicShapes/Plane.Plane",
+        "materials": [
+          "/Game/Campus/ReceptionBSODR01/M_ReceptionBSOD.M_ReceptionBSOD"
+        ],
+        "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+        "collision_profile": "NoCollision",
+        "cast_shadow": false
+      }
+    }
+  },
+  "new_trophies": {
+    "StaticMeshActor_2060": {
+      "label": "SilverCup_AthleticsCase_TR27R01",
+      "location": [
+        -2612.5,
+        -2355.0,
+        109.0999984741211
+      ],
+      "rotation": [
+        -0.0,
+        0.0,
+        90.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hidden": false,
+      "tags": [
+        "TrophyTR27R01",
+        "BlankGenericDisplay"
+      ],
+      "mesh": "/Game/Campus/TrophiesTR27R01/Runtime/SilverCup_TR27R01.SilverCup_TR27R01",
+      "materials": [
+        "/Game/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Materials/Blank_Silver_Plate.Blank_Silver_Plate",
+        "/Game/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Materials/Clean_Walnut_Plinth_005.Clean_Walnut_Plinth_005",
+        "/Game/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Materials/Clean_Walnut_Plinth_004.Clean_Walnut_Plinth_004",
+        "/Game/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Materials/Clean_Walnut_Plinth_006.Clean_Walnut_Plinth_006",
+        "/Game/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Materials/Clean_Polished_Silver_001.Clean_Polished_Silver_001",
+        "/Game/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Materials/Blank_Silver_Plate.Blank_Silver_Plate",
+        "/Game/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Materials/Clean_Walnut_Plinth_005.Clean_Walnut_Plinth_005",
+        "/Game/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Materials/Clean_Walnut_Plinth_004.Clean_Walnut_Plinth_004",
+        "/Game/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Materials/Clean_Walnut_Plinth_006.Clean_Walnut_Plinth_006",
+        "/Game/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Materials/Clean_Polished_Silver_001.Clean_Polished_Silver_001",
+        "/Game/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Materials/Blank_Silver_Plate.Blank_Silver_Plate",
+        "/Game/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Materials/Clean_Walnut_Plinth_005.Clean_Walnut_Plinth_005",
+        "/Game/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Materials/Clean_Walnut_Plinth_004.Clean_Walnut_Plinth_004",
+        "/Game/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Materials/Clean_Walnut_Plinth_006.Clean_Walnut_Plinth_006",
+        "/Game/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Materials/Clean_Polished_Silver_001.Clean_Polished_Silver_001"
+      ],
+      "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+      "collision_profile": "NoCollision",
+      "cast_shadow": true
+    },
+    "StaticMeshActor_2061": {
+      "label": "RegionalPlaque_AthleticsCase_TR27R01",
+      "location": [
+        -2612.5,
+        -2082.0,
+        65.10000610351562
+      ],
+      "rotation": [
+        -0.0,
+        0.0,
+        90.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hidden": false,
+      "tags": [
+        "TrophyTR27R01",
+        "BlankGenericDisplay"
+      ],
+      "mesh": "/Game/Campus/TrophiesTR27R01/Runtime/RegionalPlaque_TR27R01.RegionalPlaque_TR27R01",
+      "materials": [
+        "/Game/Campus/TrophiesTR27R01/Import/RegionalPlaque/LOD0/RegionalPlaque_Assembly/Materials/Plaque_Satin_Silver.Plaque_Satin_Silver",
+        "/Game/Campus/TrophiesTR27R01/Import/RegionalPlaque/LOD0/RegionalPlaque_Assembly/Materials/Clean_Walnut_Plinth_001.Clean_Walnut_Plinth_001",
+        "/Game/Campus/TrophiesTR27R01/Import/RegionalPlaque/LOD0/RegionalPlaque_Assembly/Materials/Clean_Walnut_Plinth_002.Clean_Walnut_Plinth_002",
+        "/Game/Campus/TrophiesTR27R01/Import/RegionalPlaque/LOD0/RegionalPlaque_Assembly/Materials/Clean_Walnut_Plinth_003.Clean_Walnut_Plinth_003"
+      ],
+      "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+      "collision_profile": "NoCollision",
+      "cast_shadow": true
+    }
+  },
+  "equipment_collision_contract_pass": [
+    "StaticMeshActor_1510",
+    "StaticMeshActor_2035",
+    "StaticMeshActor_2036",
+    "StaticMeshActor_2037"
+  ],
+  "renderer_choice": "Nanite disabled only on four replacement meshes after actual viewport artifact isolation"
+}

@@ -1,0 +1,111 @@
+{
+  "contract": {
+    "purpose": "CPU studio previews for editable equipment integration; representative estimates",
+    "source": "CampusCenter_Equipment_Editable_EQ27_R01.blend",
+    "engine": "CYCLES",
+    "device": "CPU",
+    "threads": 2,
+    "samples": 24,
+    "denoise": true,
+    "resolution": [
+      1200,
+      900
+    ],
+    "percentage": 100,
+    "format": "PNG",
+    "channels": "RGBA",
+    "bit_depth": 8,
+    "color_management": "AgX",
+    "world": "neutral studio",
+    "geometry": "target assemblies only with staging floor",
+    "output_count": 6,
+    "outputs": [
+      "baseline_representatives.png",
+      "improved_representatives.png",
+      "rack_detail.png",
+      "treadmill_detail.png",
+      "pulldown_detail.png",
+      "press_core_detail.png"
+    ],
+    "policy": "Separate preview scene; source blend and frozen B05 remain unchanged; no GPU jobs",
+    "camera": "orthographic target framing; source IDs embedded in manifest",
+    "frame": 1,
+    "crop": false,
+    "compositor": false
+  },
+  "results": [
+    {
+      "filename": "rack_detail.png",
+      "elapsed_seconds": 43.801745891571045,
+      "target_parts": 59,
+      "resolution": [
+        1200,
+        900
+      ],
+      "engine": "CYCLES",
+      "device": "CPU",
+      "samples": 24
+    },
+    {
+      "filename": "baseline_representatives.png",
+      "elapsed_seconds": 41.00399565696716,
+      "target_parts": 13,
+      "resolution": [
+        1200,
+        900
+      ],
+      "engine": "CYCLES",
+      "device": "CPU",
+      "samples": 24
+    },
+    {
+      "filename": "pulldown_detail.png",
+      "elapsed_seconds": 44.34324359893799,
+      "target_parts": 48,
+      "resolution": [
+        1200,
+        900
+      ],
+      "engine": "CYCLES",
+      "device": "CPU",
+      "samples": 24
+    },
+    {
+      "filename": "press_core_detail.png",
+      "elapsed_seconds": 45.7116174697876,
+      "target_parts": 87,
+      "resolution": [
+        1200,
+        900
+      ],
+      "engine": "CYCLES",
+      "device": "CPU",
+      "samples": 24
+    },
+    {
+      "filename": "improved_representatives.png",
+      "elapsed_seconds": 36.8019437789917,
+      "target_parts": 136,
+      "resolution": [
+        1200,
+        900
+      ],
+      "engine": "CYCLES",
+      "device": "CPU",
+      "samples": 24
+    },
+    {
+      "filename": "treadmill_detail.png",
+      "elapsed_seconds": 36.60719156265259,
+      "target_parts": 29,
+      "resolution": [
+        1200,
+        900
+      ],
+      "engine": "CYCLES",
+      "device": "CPU",
+      "samples": 24
+    }
+  ],
+  "source_blend_sha256": "77862ed5f103f62934efec7dd6d9d0c32eef82a606ad04cb53cb69e5208a95b8"
+}

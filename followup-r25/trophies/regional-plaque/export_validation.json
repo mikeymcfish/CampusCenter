@@ -1,0 +1,302 @@
+[
+  {
+    "filename": "RegionalPlaque.blend",
+    "mesh_count": 5,
+    "total_triangles": 3964,
+    "dimensions_m": [
+      0.22859999537467957,
+      0.10830000415444374,
+      0.29998987913131714
+    ],
+    "minimum_z": 0.0,
+    "objects": [
+      {
+        "name": "Trellis_Derived_Wood_Silhouette",
+        "triangles": 2080,
+        "uv_layers": 1,
+        "images": [
+          {
+            "name": "Trellis_Derived_Wood_Silhouette_Walnut",
+            "size": [
+              512,
+              512
+            ],
+            "packed": true
+          }
+        ],
+        "raw_topology": {
+          "boundary": 0,
+          "nonmanifold": 0
+        },
+        "welded_boundary_edges": 0,
+        "welded_nonmanifold_edges": 0
+      },
+      {
+        "name": "Blank_Satin_Inset",
+        "triangles": 1560,
+        "uv_layers": 1,
+        "images": [],
+        "raw_topology": {
+          "boundary": 0,
+          "nonmanifold": 0
+        },
+        "welded_boundary_edges": 0,
+        "welded_nonmanifold_edges": 0
+      },
+      {
+        "name": "Plaque_Plinth_Lower",
+        "triangles": 108,
+        "uv_layers": 1,
+        "images": [
+          {
+            "name": "Plaque_Plinth_Lower_Walnut",
+            "size": [
+              512,
+              512
+            ],
+            "packed": true
+          }
+        ],
+        "raw_topology": {
+          "boundary": 0,
+          "nonmanifold": 0
+        },
+        "welded_boundary_edges": 0,
+        "welded_nonmanifold_edges": 0
+      },
+      {
+        "name": "Plaque_Plinth_Upper",
+        "triangles": 108,
+        "uv_layers": 1,
+        "images": [
+          {
+            "name": "Plaque_Plinth_Upper_Walnut",
+            "size": [
+              512,
+              512
+            ],
+            "packed": true
+          }
+        ],
+        "raw_topology": {
+          "boundary": 0,
+          "nonmanifold": 0
+        },
+        "welded_boundary_edges": 0,
+        "welded_nonmanifold_edges": 0
+      },
+      {
+        "name": "Blank_Base_Plate",
+        "triangles": 108,
+        "uv_layers": 1,
+        "images": [],
+        "raw_topology": {
+          "boundary": 0,
+          "nonmanifold": 0
+        },
+        "welded_boundary_edges": 0,
+        "welded_nonmanifold_edges": 0
+      }
+    ]
+  },
+  {
+    "filename": "RegionalPlaque.glb",
+    "mesh_count": 5,
+    "total_triangles": 3964,
+    "dimensions_m": [
+      0.22859999537467957,
+      0.10830000415444374,
+      0.29998987913131714
+    ],
+    "minimum_z": 0.0,
+    "objects": [
+      {
+        "name": "Trellis_Derived_Wood_Silhouette",
+        "triangles": 2080,
+        "uv_layers": 1,
+        "images": [
+          {
+            "name": "Trellis_Derived_Wood_Silhouette_Walnut",
+            "size": [
+              512,
+              512
+            ],
+            "packed": true
+          }
+        ],
+        "raw_topology": {
+          "boundary": 3938,
+          "nonmanifold": 3938
+        },
+        "welded_boundary_edges": 0,
+        "welded_nonmanifold_edges": 0
+      },
+      {
+        "name": "Blank_Satin_Inset",
+        "triangles": 1560,
+        "uv_layers": 1,
+        "images": [],
+        "raw_topology": {
+          "boundary": 2934,
+          "nonmanifold": 2934
+        },
+        "welded_boundary_edges": 0,
+        "welded_nonmanifold_edges": 0
+      },
+      {
+        "name": "Plaque_Plinth_Lower",
+        "triangles": 108,
+        "uv_layers": 1,
+        "images": [
+          {
+            "name": "Plaque_Plinth_Lower_Walnut",
+            "size": [
+              512,
+              512
+            ],
+            "packed": true
+          }
+        ],
+        "raw_topology": {
+          "boundary": 216,
+          "nonmanifold": 216
+        },
+        "welded_boundary_edges": 0,
+        "welded_nonmanifold_edges": 0
+      },
+      {
+        "name": "Plaque_Plinth_Upper",
+        "triangles": 108,
+        "uv_layers": 1,
+        "images": [
+          {
+            "name": "Plaque_Plinth_Upper_Walnut",
+            "size": [
+              512,
+              512
+            ],
+            "packed": true
+          }
+        ],
+        "raw_topology": {
+          "boundary": 216,
+          "nonmanifold": 216
+        },
+        "welded_boundary_edges": 0,
+        "welded_nonmanifold_edges": 0
+      },
+      {
+        "name": "Blank_Base_Plate",
+        "triangles": 108,
+        "uv_layers": 1,
+        "images": [],
+        "raw_topology": {
+          "boundary": 216,
+          "nonmanifold": 216
+        },
+        "welded_boundary_edges": 0,
+        "welded_nonmanifold_edges": 0
+      }
+    ]
+  },
+  {
+    "filename": "RegionalPlaque.fbx",
+    "mesh_count": 5,
+    "total_triangles": 3964,
+    "dimensions_m": [
+      0.22859999537467957,
+      0.10830000787973404,
+      0.29998988789644976
+    ],
+    "minimum_z": -8.765132619714677e-09,
+    "objects": [
+      {
+        "name": "Blank_Base_Plate",
+        "triangles": 108,
+        "uv_layers": 1,
+        "images": [],
+        "raw_topology": {
+          "boundary": 0,
+          "nonmanifold": 0
+        },
+        "welded_boundary_edges": 0,
+        "welded_nonmanifold_edges": 0
+      },
+      {
+        "name": "Blank_Satin_Inset",
+        "triangles": 1560,
+        "uv_layers": 1,
+        "images": [],
+        "raw_topology": {
+          "boundary": 0,
+          "nonmanifold": 0
+        },
+        "welded_boundary_edges": 0,
+        "welded_nonmanifold_edges": 0
+      },
+      {
+        "name": "Plaque_Plinth_Lower",
+        "triangles": 108,
+        "uv_layers": 1,
+        "images": [
+          {
+            "name": "Plaque_Plinth_Lower_Walnut",
+            "size": [
+              512,
+              512
+            ],
+            "packed": true
+          }
+        ],
+        "raw_topology": {
+          "boundary": 0,
+          "nonmanifold": 0
+        },
+        "welded_boundary_edges": 0,
+        "welded_nonmanifold_edges": 0
+      },
+      {
+        "name": "Plaque_Plinth_Upper",
+        "triangles": 108,
+        "uv_layers": 1,
+        "images": [
+          {
+            "name": "Plaque_Plinth_Upper_Walnut",
+            "size": [
+              512,
+              512
+            ],
+            "packed": true
+          }
+        ],
+        "raw_topology": {
+          "boundary": 0,
+          "nonmanifold": 0
+        },
+        "welded_boundary_edges": 0,
+        "welded_nonmanifold_edges": 0
+      },
+      {
+        "name": "Trellis_Derived_Wood_Silhouette",
+        "triangles": 2080,
+        "uv_layers": 1,
+        "images": [
+          {
+            "name": "Trellis_Derived_Wood_Silhouette_Walnut",
+            "size": [
+              512,
+              512
+            ],
+            "packed": true
+          }
+        ],
+        "raw_topology": {
+          "boundary": 0,
+          "nonmanifold": 0
+        },
+        "welded_boundary_edges": 0,
+        "welded_nonmanifold_edges": 0
+      }
+    ]
+  }
+]

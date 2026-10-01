@@ -1,0 +1,168 @@
+{
+  "surface_stats_before_welding_UV_seams": [
+    {
+      "name": "Trophy_SilverCup_LOD0",
+      "triangles": 22560,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "uv_layers": 1,
+      "material_slots": [
+        "Clean_Polished_Silver",
+        "Clean_Polished_Silver.001"
+      ],
+      "dimensions_m": [
+        0.1761566400527954,
+        0.09810569882392883,
+        0.221981018781662
+      ],
+      "min_world_z": 0.09802465885877609
+    },
+    {
+      "name": "Trophy_SilverCup_LOD1",
+      "triangles": 11998,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "uv_layers": 1,
+      "material_slots": [
+        "Clean_Polished_Silver",
+        "Clean_Polished_Silver.001"
+      ],
+      "dimensions_m": [
+        0.17611700296401978,
+        0.09816376864910126,
+        0.2219780683517456
+      ],
+      "min_world_z": 0.09802465885877609
+    },
+    {
+      "name": "Trophy_SilverCup_LOD2",
+      "triangles": 4500,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "uv_layers": 1,
+      "material_slots": [
+        "Clean_Polished_Silver",
+        "Clean_Polished_Silver.001"
+      ],
+      "dimensions_m": [
+        0.1758061945438385,
+        0.09827776253223419,
+        0.2215178906917572
+      ],
+      "min_world_z": 0.09845583885908127
+    },
+    {
+      "name": "Cup_Plinth_Step",
+      "triangles": 188,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "uv_layers": 1,
+      "material_slots": [
+        "Clean_Walnut_Plinth.004"
+      ],
+      "dimensions_m": [
+        0.13199999928474426,
+        0.11900000274181366,
+        0.017999999225139618
+      ],
+      "min_world_z": 0.0
+    },
+    {
+      "name": "Cup_Plinth_Block",
+      "triangles": 188,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "uv_layers": 1,
+      "material_slots": [
+        "Clean_Walnut_Plinth.005"
+      ],
+      "dimensions_m": [
+        0.11100000143051147,
+        0.10599999874830246,
+        0.07599999755620956
+      ],
+      "min_world_z": 0.015000000596046448
+    },
+    {
+      "name": "Cup_Plinth_Top",
+      "triangles": 188,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "uv_layers": 1,
+      "material_slots": [
+        "Clean_Walnut_Plinth.006"
+      ],
+      "dimensions_m": [
+        0.11999999731779099,
+        0.11299999803304672,
+        0.012000000104308128
+      ],
+      "min_world_z": 0.08799999952316284
+    },
+    {
+      "name": "Cup_Blank_Plate",
+      "triangles": 188,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "uv_layers": 1,
+      "material_slots": [
+        "Blank_Silver_Plate"
+      ],
+      "dimensions_m": [
+        0.09099999815225601,
+        0.001500000013038516,
+        0.054999999701976776
+      ],
+      "min_world_z": 0.024500001221895218
+    }
+  ],
+  "opening_ray_checks": {
+    "bowl_center_downward_hit": [
+      0.0,
+      0.0,
+      0.1640000194311142
+    ],
+    "left_handle_gap_ray": null,
+    "right_handle_gap_ray": null
+  },
+  "files": [
+    {
+      "name": "SilverCup.blend",
+      "bytes": 2004241,
+      "sha256": "87a54d4fbc680f93a044c88c6d4fec83d7477400ebb23316fb67be5af050457b"
+    },
+    {
+      "name": "SilverCup.fbx",
+      "bytes": 1390348,
+      "sha256": "b548b08a1bc116c8945c5020ab316c99f4741360059148629e67a6bfc25b64d5"
+    },
+    {
+      "name": "SilverCup.glb",
+      "bytes": 1427976,
+      "sha256": "00cf6e236841ff500a83f988bdeeed56915fb6c51e60c892f7ae8b9e967a0a65"
+    },
+    {
+      "name": "SilverCup_LOD1.glb",
+      "bytes": 1134524,
+      "sha256": "c07ad6e86ff6e9be09a7df23827c41b463db069a771029cbf09e310702302371"
+    },
+    {
+      "name": "SilverCup_LOD2.glb",
+      "bytes": 895420,
+      "sha256": "b28d1c816bcc6706b6d09880d1f01113eec4faa81af025a648fe4a6bcd22579b"
+    }
+  ],
+  "quality_limits": [
+    "Generic blank plaque, no real award assertion",
+    "Original Trellis silver material archive retained; clean uniform PBR silver exported",
+    "Small sculptural trim is inferred from one image",
+    "Separate closed components overlap at stem/plinth contact; not a fabrication union"
+  ],
+  "rejected": [
+    "figure",
+    "plaque"
+  ],
+  "LOD1_last_repair": "Removed one isolated triangle left by decimation; authored LOD1 now has no boundary/nonmanifold edges",
+  "asset_status": "Ready for architectural integration: cleaned Trellis/manual hybrid silver cup only",
+  "provenance": "Trellis handles/rim/stem retained; bowl/plinth/blank plate manually rebuilt; raw source UVs/materials archived"
+}

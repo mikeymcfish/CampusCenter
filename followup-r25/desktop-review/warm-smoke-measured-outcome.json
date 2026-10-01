@@ -1,0 +1,66 @@
+{
+  "package": "desktop_review_r25/Windows",
+  "test": "one warm launch, same unchanged package and prior user directory; transient CSV profiling only",
+  "planned_bound_seconds": 90,
+  "actual_to_close_request_seconds": 121.605781,
+  "bound_note": "Close request completed later than the planned timer; no second warm run. Game exited cleanly.",
+  "psos": [
+    {
+      "hitches": 50,
+      "graphics": 5,
+      "compute": 45,
+      "precached": 0
+    },
+    {
+      "hitches": 100,
+      "graphics": 14,
+      "compute": 86,
+      "precached": 0
+    },
+    {
+      "hitches": 150,
+      "graphics": 14,
+      "compute": 136,
+      "precached": 0
+    },
+    {
+      "hitches": 200,
+      "graphics": 27,
+      "compute": 173,
+      "precached": 1
+    },
+    {
+      "hitches": 250,
+      "graphics": 34,
+      "compute": 216,
+      "precached": 1
+    },
+    {
+      "hitches": 300,
+      "graphics": 35,
+      "compute": 265,
+      "precached": 14
+    }
+  ],
+  "audio_buffer_underruns": 1,
+  "fatal_or_asset_loading_errors": [],
+  "clean_exit": true,
+  "csv_file_emitted": false,
+  "log_frame_sample": {
+    "from_utc": "20:24:41.636",
+    "to_utc": "20:25:23.313",
+    "elapsed_seconds": 41.677,
+    "engine_frames_advanced": 1658,
+    "approximate_frames_per_second": 39.782134030760375,
+    "method": "Audio log frame459 to CSV GC absolute frame2116 (engine frame2117); CSV/engine offset corroborated by initial events. Wall-clock advancement only, not GPU frame-time statistics."
+  },
+  "conclusion": "Warm launch still exhibits initial PSO hitches and one audio underrun; no fatal/load failure. Not resolved by simply relaunching.",
+  "limits": "Windowed 1280x720 unattended stationary scene; foreground not controlled; no CSV output flushed, no full route/GPU percentiles/headset baseline; not performance certification. No optimization or global setting changes. CSV profiling produced a nonfatal handled ensure; frame sample is diagnostic only.",
+  "pinned_delta_sha256": "ef9d025d645474a29d26f48ecc0032f83ea05bb051581d66195c3c1f8241b7b2",
+  "profiling_handled_ensure": {
+    "fatal": false,
+    "source": "CsvProfiler.cpp line573",
+    "message": "Numbered FName stats unsupported: NumRemainingTasks_RecastNavMesh_0",
+    "scope": "Triggered by optional CSV instrumentation; absent from normal default-launch smoke; no fix or settings change attempted"
+  }
+}

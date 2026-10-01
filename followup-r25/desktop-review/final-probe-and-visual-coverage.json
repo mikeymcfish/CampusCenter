@@ -1,0 +1,79 @@
+{
+  "artifact": "R25 map / portable delta R02",
+  "actor_count": 2231,
+  "reports": [
+    {
+      "file": "final-walking/validation.json",
+      "maps": {
+        "before": {
+          "map": "/Game/Campus/Maps/CampusCenter_FA26_Desktop_R22_ReceptionSlides",
+          "route_total": 14,
+          "route_pass": 12,
+          "route_fail": 2,
+          "failed_names": [
+            "Research113_25",
+            "Fitness_RackFront_Aisle"
+          ],
+          "physics_queries": 6,
+          "physics_pass": 6
+        },
+        "after": {
+          "map": "/Game/Campus/Maps/CampusCenter_FA26_Desktop_R24_CombinedReview",
+          "route_total": 14,
+          "route_pass": 12,
+          "route_fail": 2,
+          "failed_names": [
+            "Research113_25",
+            "Fitness_RackFront_Aisle"
+          ],
+          "physics_queries": 6,
+          "physics_pass": 6
+        }
+      },
+      "regressions": [],
+      "error": null
+    },
+    {
+      "file": "r25-case-hall-walking/validation.json",
+      "maps": {
+        "before": {
+          "map": "/Game/Campus/Maps/CampusCenter_FA26_Desktop_R22_ReceptionSlides",
+          "route_total": 2,
+          "route_pass": 2,
+          "route_fail": 0,
+          "failed_names": [],
+          "physics_queries": 6,
+          "physics_pass": 6
+        },
+        "after": {
+          "map": "/Game/Campus/Maps/CampusCenter_FA26_Desktop_R25_CombinedReview",
+          "route_total": 2,
+          "route_pass": 2,
+          "route_fail": 0,
+          "failed_names": [],
+          "physics_queries": 6,
+          "physics_pass": 6
+        }
+      },
+      "regressions": [],
+      "error": null
+    }
+  ],
+  "distinct_route_pairs": 16,
+  "route_executions": 32,
+  "combined_pass_executions": 28,
+  "combined_fail_executions": 4,
+  "distinct_inherited_failed_routes": [
+    "Research113_25",
+    "Fitness_RackFront_Aisle"
+  ],
+  "new_regressions": 0,
+  "physics": "Six distinct queries repeated four times across reports =24 executions,24 pass,0 fail. Final R25 report alone has6/6 physics pass.",
+  "R25_direct_route_coverage": "2 case-front routes,2/2 pass; original14 ran on R24; no claim of16 routes directly rerun on R25",
+  "visual_coverage_limits": [
+    "Rear treadmill details partly dark/occluded",
+    "Rack4 detail partly dark/occluded",
+    "Not every shaft-to-ledge contact exposed in images"
+  ],
+  "no_new_render_or_geometry_change": true
+}

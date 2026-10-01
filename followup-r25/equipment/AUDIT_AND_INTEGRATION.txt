@@ -1,0 +1,41 @@
+CampusCenter equipment staging EQ27 R01
+
+FROZEN SOURCE
+B05: Campus_Center_New_Plans_Furniture_v26_b05.blend
+SHA256: 3013db5f7f8171b403bd5fac8561c84e24591875aa049683f950c3ee4e19e56e
+Desktop map: /Game/Campus/Maps/CampusCenter_FA26_Desktop_R21_Support
+Map SHA256 recorded by support release: 5535d2c636f94e75288ff38d63644e51cda05cbdeb08a34658c1ce3b1a514578
+ViveR04 is outside this asset preparation scope. No maps, shared source files or packages were edited.
+
+AUDIT AND PRIORITY
+1. Five squat rack/shoulder press stations, PH02_Fitness218_009,011,013,015,017.
+Each old rack was only three six-face solid boxes, including two full-depth side panels and a solid overhead slab. These are fitness room weight equipment, not gym bleachers. Replace with open tube frames, feet, bracing, safety rails, height ports, and bar ledges. Keep the corrected B05 bench/bar donors PH02_Fitness218_010,012,014,016,018 unchanged in geometry and position.
+2. Six treadmills, PH02_Fitness218_003 through 008. Each had an 88-face deck/belt/uprights donor and a six-face console block. Keep accepted footprint/orientation; replace with connected frame, deck, rollers, motor housing, side steps, handrails and blank console.
+3. Core 027, pulldown 029 and shoulder press 030. Original assemblies had 178/222/178 faces and largely shared the same seat/back/stack form. Prepare distinct mechanisms with supported pads, individual plates, guides, cable routes and pivots. The source label Nautilus does not establish a specific model or certified manufacturer geometry.
+4. Keep bikes/erg/assault bike 001,002,019-024 for a future refinement pass. These already have multiple recognizable components. Keep ball, plate, dumbbell, kettlebell, mat and roller storage. Keep standalone benches 035 and 036 with no loaded bars. Keep actual gym bleacher banks, which already have separate seat rows and supports (190 B05 objects across the two banks).
+
+EVIDENCE AND DIMENSIONS
+Original detailed builder revision-sources/build_detailed_v8.py creates the schematic treadmill, bench and dumbbell donor components. B05 carries their reused_from IDs. v8 also created unsupported loaded bars on all benches; B05 support correction removes them from the two standalone benches and supports all five station shafts. This staging retains that correction.
+Floorplan cross-check: fitness-all.png in the original task, AV Bulletin01 fitness drawing; v02-footprints.json page 3 supplies accepted positions, orientation and traced rectangles. Raw W/L annotation is preserved without reinterpretation. The drawing shows six treadmills, five rack/bench stations, two standalone exercise benches, central core/pulldown/press machines and storage around the perimeter.
+Heights, tube sections, pad sizes, mechanics and controls are estimates. The source plan provides no manufacturer equipment elevations or certified use/service clearances. No clearance certification is claimed.
+
+DELIVERABLES
+CampusCenter_Equipment_Editable_EQ27_R01.blend: individual named editable components and unapplied edge radius modifiers, plus retained B05 fitness components.
+Equipment remains at its accepted west-wing world coordinates. In Blender select the EQ27 collections in the Outliner and use Frame Selected to inspect them; B05_RETAINED_FITNESS_COMPONENTS contains the preserved bikes/storage/standalone benches.
+exports/Equipment_EQ27_R01_World.glb: 14 replacement assemblies in original world positions.
+exports/EQ27_PH02_Fitness218_*_World.glb: one world-position assembly each.
+exports/R25_U218_Furniture_EQ27_R01_Complete.glb: COMPLETE replacement of the existing legacy fitness actor membership, not merely a patch subset. Includes the six treadmills, five rack+bench assemblies, two standalone benches and three retained dumbbell racks. The three FA26 central machines are separate collections/actor replacements and are not added to the legacy actor.
+replacement_manifest.json: exact replacement object IDs, accepted dimensions, part names, bounds, topology and support checks.
+previews/: CPU studio images for before/after and mechanism review.
+exports/*_RuntimeJoined.glb: four evaluated, merged meshes for direct actor mesh replacement: complete R25_U218_Furniture plus FA26_PH02_Fitness218_027,029,030. World geometry is baked into one mesh each with identity transform. Assign native materials by NAME using material_compatibility.json; old numeric slot indices may differ. Component World.glb files remain separate editable assemblies.
+
+UNREAL INTEGRATION CONTRACT
+Legacy actor label R25_U218_Furniture, native actor name StaticMeshActor_1510.
+Current mesh /Game/Campus/FitnessSupportR26R01/Runtime/FA26_FitnessSupport_U218_R06.
+Keep its zero translation/rotation and unit scale; exports retain B05 world coordinates in meters with glTF Y-up conversion. Import to a new asset namespace; do not overwrite the frozen asset. Preserve all actor/material overrides and verify imported scale in centimeters.
+Preserve CTF_USE_COMPLEX_AS_SIMPLE and QUERY_AND_PHYSICS. Existing simple collision count is 1. Do not replace complex collision with a group convex hull that closes rack openings. Validate native collision and walking clearance in an isolated integration map before delivery.
+For central machines, native-properties-r15.json identifies FA26_PH02_Fitness218_027 as StaticMeshActor_2035, 029 as StaticMeshActor_2036, and 030 as StaticMeshActor_2037. Replace their meshes in an isolated integration map, preserving transforms and actor settings. Remove only the exact FA26 component IDs listed in the manifest for Blender integration. Evidence is copied into native_integration_evidence.json; verify identity in the integration map before mutation.
+Material slots reuse existing source names: Dark metal, V8 plain rubber, V8 plain sage upholstery, Brushed stainless hardware, V8 plain dark screen. Match names to existing native compatible materials, enabling Nanite material usage where required; do not change source material assets. The complete legacy group also retains any unused existing blockout slot from donor meshes.
+
+LIMITS
+This is staged editable mesh preparation. No native Unreal import, cook, collision simulation or map traversal is performed. No public push. No GPU generation or GPU rendering.

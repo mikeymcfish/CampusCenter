@@ -1,0 +1,12 @@
+[
+  {
+    "Algorithm": "SHA256",
+    "Hash": "3013DB5F7F8171B403BD5FAC8561C84E24591875AA049683F950C3EE4E19E56E",
+    "Path": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task\\CampusCenter-new-plans\\scene\\Campus_Center_New_Plans_Furniture_v26_b05.blend"
+  },
+  {
+    "Algorithm": "SHA256",
+    "Hash": "5535D2C636F94E75288FF38D63644E51CDA05CBDEB08A34658C1CE3B1A514578",
+    "Path": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task\\CampusCenter-new-plans\\downstream\\desktop_furniture_v26_r01\\unreal_project\\Content\\Campus\\Maps\\CampusCenter_FA26_Desktop_R21_Support.umap"
+  }
+]

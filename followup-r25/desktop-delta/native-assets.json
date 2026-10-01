@@ -1,0 +1,44 @@
+[
+  {
+    "name": "SilverCup",
+    "asset": "/Game/Campus/TrophiesTR27R01/Runtime/SilverCup_TR27R01.SilverCup_TR27R01",
+    "bounds_cm": [
+      [
+        -8.807698249816895,
+        -5.949999809265137,
+        0.0
+      ],
+      [
+        8.807966232299805,
+        5.950000286102295,
+        32.00056457519531
+      ]
+    ],
+    "lod_count": 3,
+    "triangles": [
+      23312,
+      12750,
+      5252
+    ]
+  },
+  {
+    "name": "RegionalPlaque",
+    "asset": "/Game/Campus/TrophiesTR27R01/Runtime/RegionalPlaque_TR27R01.RegionalPlaque_TR27R01",
+    "bounds_cm": [
+      [
+        -11.429999351501465,
+        -5.380000591278076,
+        0.0
+      ],
+      [
+        11.429999351501465,
+        5.450000286102295,
+        29.998987197875977
+      ]
+    ],
+    "lod_count": 1,
+    "triangles": [
+      3964
+    ]
+  }
+]

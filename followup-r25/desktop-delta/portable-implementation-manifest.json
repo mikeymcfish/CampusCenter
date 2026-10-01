@@ -1,0 +1,285 @@
+{
+  "target_map": "/Game/Campus/Maps/CampusCenter_FA26_Desktop_R25_CombinedReview",
+  "required_baseline": "CampusCenter_FA26_Desktop_R21_Support, frozen desktop furniture v26 r01 native assets and existing materials",
+  "changes": {
+    "equipment_actor_mesh_swaps": 4,
+    "new_trophies": 2,
+    "trophy_case_transform_corrections": 2,
+    "case_reason": "Inherited glass fronts faced adjacent wall. Rotate each original case 180 degrees about its own center to face accessible athletics hall. Geometry/materials/shelf heights unchanged.",
+    "reception_inset_screen": "Fictional BSOD, correct reception TV65 only"
+  },
+  "runtime_machine_paths": false,
+  "global_renderer_config_changes": false,
+  "Vive_integration": "Vive R04 lacks the R22 inset actor. Create exactly one inset plane on verified reception TV65 using reception_bsod_create_if_missing spec; do not alter TV frame/wall or cafeTV43. Apply four equipment mesh references and approved native overrides, two trophy actors and two in-place case rotations. Keep approved footprints, renderer, pawn and doors. Do not overwrite an existing Vive map.",
+  "existing_asset_dependencies": [
+    "/Engine/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix",
+    "/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components",
+    "/Engine/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3",
+    "/Game/Campus/FitnessSupportR26R01/Compat/V8_plain_dark_screen_4dd4b3d1",
+    "/Game/Campus/FurnitureR26/CompatR03/MI_Default_Opaque_DS_a53f40f3",
+    "/Game/Campus/FurnitureR26/CompatR03/M_Default_54bd2060",
+    "/Game/Campus/FurnitureR26/CompatR03/V8_plain_rubber_33d74d26",
+    "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric",
+    "/Game/Campus/PolishV02/Textures/Fabric030_1K-JPG_Color",
+    "/Game/Campus/PolishV02/Textures/Fabric030_1K-JPG_NormalDX",
+    "/Game/Campus/PolishV02/Textures/Fabric030_1K-JPG_Roughness",
+    "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware",
+    "/Game/Campus/PolishV03/Materials/M_Dark_metal",
+    "/InterchangeAssets/Functions/MF_IridescenceNoLUT",
+    "/InterchangeAssets/gltf/MaterialBodies/MF_Default_Body",
+    "/InterchangeAssets/gltf/MaterialFunctions/MF_BaseColor",
+    "/InterchangeAssets/gltf/MaterialFunctions/MF_Emissive",
+    "/InterchangeAssets/gltf/MaterialFunctions/MF_IOR",
+    "/InterchangeAssets/gltf/MaterialFunctions/MF_Iridescence",
+    "/InterchangeAssets/gltf/MaterialFunctions/MF_MetallicRoughness",
+    "/InterchangeAssets/gltf/MaterialFunctions/MF_Normals",
+    "/InterchangeAssets/gltf/MaterialFunctions/MF_Occlusion",
+    "/InterchangeAssets/gltf/MaterialFunctions/MF_RotateNormals_TS",
+    "/InterchangeAssets/gltf/MaterialFunctions/MF_RotateV2",
+    "/InterchangeAssets/gltf/MaterialFunctions/MF_ScaleNormal",
+    "/InterchangeAssets/gltf/MaterialFunctions/MF_Specular",
+    "/InterchangeAssets/gltf/MaterialFunctions/MF_SpecularAnisotropy",
+    "/InterchangeAssets/gltf/MaterialFunctions/MF_TransformUVs",
+    "/InterchangeAssets/gltf/MaterialInstances/MI_Default_Opaque_DS",
+    "/InterchangeAssets/gltf/Textures/T_Anisotropy_Direction_Linear",
+    "/InterchangeAssets/gltf/Textures/T_Generic_N",
+    "/InterchangeAssets/gltf/Textures/T_White_Linear",
+    "/InterchangeAssets/gltf/Textures/T_White_srgb",
+    "/Script/InterchangeEngine",
+    "/Script/NavigationSystem"
+  ],
+  "files": [
+    {
+      "path": "Content/Campus/EquipmentEQ27R01/Runtime/FA26_PH02_Fitness218_027_EQ27_R01.uasset",
+      "sha256": "84eefad9a6104f33d9c68cf265929079d5d60ccd2c385f7165f8d114c66b7862",
+      "bytes": 96438
+    },
+    {
+      "path": "Content/Campus/EquipmentEQ27R01/Runtime/FA26_PH02_Fitness218_029_EQ27_R01.uasset",
+      "sha256": "6d285c383319140a1335bb1204aba6ee5cf2aa305dfe4518a69ee02cb1d4ed15",
+      "bytes": 95439
+    },
+    {
+      "path": "Content/Campus/EquipmentEQ27R01/Runtime/FA26_PH02_Fitness218_030_EQ27_R01.uasset",
+      "sha256": "bebf5024d48f3fb1a99266eb87a0a2bb47b39899f41d49da5d1454a0e27eac8d",
+      "bytes": 94489
+    },
+    {
+      "path": "Content/Campus/EquipmentEQ27R01/Runtime/R25_U218_Furniture_EQ27_R01.uasset",
+      "sha256": "453f8a53121abd05a4c449101a2c5a34a9843407b6132faa0f72ab4a182b640c",
+      "bytes": 509331
+    },
+    {
+      "path": "Content/Campus/ReceptionBSODR01/M_ReceptionBSOD.uasset",
+      "sha256": "20744a3001bb0e5091cd1b465b5da784a317ab7f436bb5365029356649518f2b",
+      "bytes": 8740
+    },
+    {
+      "path": "Content/Campus/ReceptionBSODR01/ReceptionTV65_BSOD_R01.uasset",
+      "sha256": "4a8df872f902b8116c547872cd8111bb018a53588c93ccee1d8eb21a4275bca4",
+      "bytes": 68976
+    },
+    {
+      "path": "Content/Campus/TrophiesTR27R01/Import/RegionalPlaque/LOD0/RegionalPlaque_Assembly/Materials/Clean_Walnut_Plinth_001.uasset",
+      "sha256": "0444fa42efed383286822a3f37cb04a0b5da02874945cde16a9927d4add47082",
+      "bytes": 7901
+    },
+    {
+      "path": "Content/Campus/TrophiesTR27R01/Import/RegionalPlaque/LOD0/RegionalPlaque_Assembly/Materials/Clean_Walnut_Plinth_002.uasset",
+      "sha256": "25fff2d6745a8e2b3a2012fea6d0632703713391a155f27860bab90d7b0cea84",
+      "bytes": 7877
+    },
+    {
+      "path": "Content/Campus/TrophiesTR27R01/Import/RegionalPlaque/LOD0/RegionalPlaque_Assembly/Materials/Clean_Walnut_Plinth_003.uasset",
+      "sha256": "62530b2679cdddfbf5ff50a7f68a4cc971e1e9193c29cb3d988b3017b5ce23c9",
+      "bytes": 7877
+    },
+    {
+      "path": "Content/Campus/TrophiesTR27R01/Import/RegionalPlaque/LOD0/RegionalPlaque_Assembly/Materials/Plaque_Satin_Silver.uasset",
+      "sha256": "f10fb5d8908cdd0a558af72b5587804f649f6a203afbeaddca9194f7939aed2f",
+      "bytes": 7981
+    },
+    {
+      "path": "Content/Campus/TrophiesTR27R01/Import/RegionalPlaque/LOD0/RegionalPlaque_Assembly/Textures/Plaque_Plinth_Lower_Walnut.uasset",
+      "sha256": "09562bf9fa70296dc3792b6bb709266d7e4369227f83caeff81d0c63f7d9294d",
+      "bytes": 151009
+    },
+    {
+      "path": "Content/Campus/TrophiesTR27R01/Import/RegionalPlaque/LOD0/RegionalPlaque_Assembly/Textures/Plaque_Plinth_Upper_Walnut.uasset",
+      "sha256": "81eae811dcc018f7bf41838614cb9d04dcd5360ecb75f8c37608a2af262ee676",
+      "bytes": 166164
+    },
+    {
+      "path": "Content/Campus/TrophiesTR27R01/Import/RegionalPlaque/LOD0/RegionalPlaque_Assembly/Textures/Trellis_Derived_Wood_Silhouette_Walnut.uasset",
+      "sha256": "4d069de3b10ae39c34b99d0d12efe68a9dd4cea1858c2f14c7c72bd4a284f032",
+      "bytes": 157494
+    },
+    {
+      "path": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Materials/Blank_Silver_Plate.uasset",
+      "sha256": "eb89aaf8079d3d757f6a563a37918db0f61cfddc5e6802deee5ac7d0b90000c2",
+      "bytes": 7966
+    },
+    {
+      "path": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Materials/Clean_Polished_Silver_001.uasset",
+      "sha256": "efb879e656f354244b67cb781ff6c2ce90c6f3871d5d2bbf31e6524638a901f4",
+      "bytes": 8001
+    },
+    {
+      "path": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Materials/Clean_Walnut_Plinth_004.uasset",
+      "sha256": "9f3e633fe37d15c3ddd6bb248d2f4afa5217f38f31b01968cfd608aef363f51e",
+      "bytes": 7850
+    },
+    {
+      "path": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Materials/Clean_Walnut_Plinth_005.uasset",
+      "sha256": "bff9e03324eb0002bbe0e75479e3c6115742602a0ed17aecbddc90ae0b0f4cb0",
+      "bytes": 7852
+    },
+    {
+      "path": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Materials/Clean_Walnut_Plinth_006.uasset",
+      "sha256": "168a974233411f18816db008072a7cff72706f923ef6e336b78739ed5448c093",
+      "bytes": 7848
+    },
+    {
+      "path": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Textures/Cup_Plinth_Block_Wood.uasset",
+      "sha256": "99d1b0886047e43a5b79f42054e89e14ebc01489f67b1097d75d93ceba80c086",
+      "bytes": 216663
+    },
+    {
+      "path": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Textures/Cup_Plinth_Step_Wood.uasset",
+      "sha256": "c803ab7fc19c692ffcf16db4700770af1374120cbc936cdfdb404290d2afd0a3",
+      "bytes": 212533
+    },
+    {
+      "path": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD0/SilverCup_Assembly_LOD0/Textures/Cup_Plinth_Top_Wood.uasset",
+      "sha256": "f9217657c37f2ff7ca005ff0e8a7c962f1861eab1a6d2b06d0e27605dd018ca6",
+      "bytes": 206583
+    },
+    {
+      "path": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Materials/Blank_Silver_Plate.uasset",
+      "sha256": "edd8d5463187b95fcbaea7803127fddda9061cc1f0c98757dd3a23f8e2b6661e",
+      "bytes": 7966
+    },
+    {
+      "path": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Materials/Clean_Polished_Silver_001.uasset",
+      "sha256": "991e18697880947e98143e873be7b441043a8fc4a5e1370c0a635787a1d22a42",
+      "bytes": 8001
+    },
+    {
+      "path": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Materials/Clean_Walnut_Plinth_004.uasset",
+      "sha256": "88b75fe0b2ed34ed9204e423a295f50f8326ce755e665d160715700a29cdf68b",
+      "bytes": 7850
+    },
+    {
+      "path": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Materials/Clean_Walnut_Plinth_005.uasset",
+      "sha256": "6c25cb23f4974ece84b21d3eb5bb21b626b2025ae3e2c87a651b4af96f03ea25",
+      "bytes": 7852
+    },
+    {
+      "path": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Materials/Clean_Walnut_Plinth_006.uasset",
+      "sha256": "7f2c53931b5404e430e76b00b67238d92202c77da12da3c9462f2adfa4d209f2",
+      "bytes": 7848
+    },
+    {
+      "path": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Textures/Cup_Plinth_Block_Wood.uasset",
+      "sha256": "89c51cc5748d2adec6adb28ae49138ba615dcab96bcad0774befb4572527b3f1",
+      "bytes": 216663
+    },
+    {
+      "path": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Textures/Cup_Plinth_Step_Wood.uasset",
+      "sha256": "c2668b8bb5264049568a0e77ae041fd266da1f3cc30b84efddf742459741c1d4",
+      "bytes": 212533
+    },
+    {
+      "path": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD1/SilverCup_Assembly_LOD1/Textures/Cup_Plinth_Top_Wood.uasset",
+      "sha256": "8756c6e2b4062c31f33a69ea19b8c928f90e0dbed4e7b643fcca6e5d6905c10d",
+      "bytes": 206583
+    },
+    {
+      "path": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Materials/Blank_Silver_Plate.uasset",
+      "sha256": "ee652e50659601a798e7c3486a419fe551ecd0cd3337fc4886bb412d6cfa8b8c",
+      "bytes": 7966
+    },
+    {
+      "path": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Materials/Clean_Polished_Silver_001.uasset",
+      "sha256": "66e1aeab7ac9bfdca6adf982057a84a73c7c6efd4c2db5cf58437f66503cf53f",
+      "bytes": 8001
+    },
+    {
+      "path": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Materials/Clean_Walnut_Plinth_004.uasset",
+      "sha256": "00c285771a967923fbeccc531820bdbd8b7bc3cf8362c8f65cddb5b86cc840ee",
+      "bytes": 7850
+    },
+    {
+      "path": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Materials/Clean_Walnut_Plinth_005.uasset",
+      "sha256": "f4f2acac4b612cacb5ab8310d89e1c6ee03d7453ccb605bf8b83b118e43610f1",
+      "bytes": 7852
+    },
+    {
+      "path": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Materials/Clean_Walnut_Plinth_006.uasset",
+      "sha256": "9e855010e94a3ea48c1b6a231b8d6ddf432630838ba49e815efa43049cd148d2",
+      "bytes": 7848
+    },
+    {
+      "path": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Textures/Cup_Plinth_Block_Wood.uasset",
+      "sha256": "aaf2ffbf5b6639099be545be47d940c0628a53f19dd46e075968ab7273d45bc1",
+      "bytes": 216663
+    },
+    {
+      "path": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Textures/Cup_Plinth_Step_Wood.uasset",
+      "sha256": "813377b041cf01cf6557031b3f9285165b4789dccc525d90f8d075824b7d3d88",
+      "bytes": 212533
+    },
+    {
+      "path": "Content/Campus/TrophiesTR27R01/Import/SilverCup/LOD2/SilverCup_Assembly_LOD2/Textures/Cup_Plinth_Top_Wood.uasset",
+      "sha256": "ae20143d131685a96bde2614bc0f8046872ebd55b71e1dbad05d42a9a3d842dc",
+      "bytes": 206583
+    },
+    {
+      "path": "Content/Campus/TrophiesTR27R01/Runtime/RegionalPlaque_TR27R01.uasset",
+      "sha256": "9f4d577c082027eea61151f31455f307540b93853a380f78b3139b867921a025",
+      "bytes": 135870
+    },
+    {
+      "path": "Content/Campus/TrophiesTR27R01/Runtime/SilverCup_TR27R01.uasset",
+      "sha256": "01cf2f8e8d7b0a91137b97e5ffcbadcca26f10db062a49e69cbd8321ad2dd55b",
+      "bytes": 1403069
+    },
+    {
+      "path": "Content/Campus/Maps/CampusCenter_FA26_Desktop_R25_CombinedReview.umap",
+      "sha256": "758a0953f2609d4ba1b51d91a8eaff63377bedf9229364576624963e315dbef3",
+      "bytes": 27266835
+    }
+  ],
+  "status": "Cook R25 passed, native profile/count checks passed, two case-front walks pass both directions before/after; desktop staging separately in progress",
+  "actor_count": 2231,
+  "revision": "R25/R02 supersedes R24/R01 contract inconsistencies; R24 map and R01 ZIP remain frozen",
+  "trophy_collision": "Explicit NoCollision profile and disabled collision, independently saved/reopened; original cases BlockAll",
+  "reception_bsod_create_if_missing": {
+    "label": "ReceptionTV65_BSOD_R01",
+    "class": "/Script/Engine.StaticMeshActor",
+    "verified_reception_TV65_actor": "StaticMeshActor_1591",
+    "mesh": "/Engine/BasicShapes/Plane.Plane",
+    "location_cm": [
+      1414.7565,
+      -1686.8657,
+      172.72
+    ],
+    "rotation_pitch_roll_yaw": [
+      -90.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.4,
+      0.7875,
+      1.0
+    ],
+    "materials": [
+      "/Game/Campus/ReceptionBSODR01/M_ReceptionBSOD.M_ReceptionBSOD"
+    ],
+    "collision_profile": "NoCollision",
+    "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+    "cast_shadow": false,
+    "do_not_modify": "Reception TV65 cube/frame/wall and cafe portrait TV43"
+  }
+}

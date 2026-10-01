@@ -1,0 +1,12 @@
+{
+ "purpose":"CPU studio previews for editable equipment integration; representative estimates",
+ "source":"CampusCenter_Equipment_Editable_EQ27_R01.blend",
+ "engine":"CYCLES", "device":"CPU", "threads":2, "samples":24, "denoise":true,
+ "resolution":[1200,900], "percentage":100, "format":"PNG", "channels":"RGBA", "bit_depth":8,
+ "color_management":"AgX", "world":"neutral studio", "geometry":"target assemblies only with staging floor",
+ "output_count":6,
+ "outputs":["baseline_representatives.png","improved_representatives.png","rack_detail.png","treadmill_detail.png","pulldown_detail.png","press_core_detail.png"],
+ "policy":"Separate preview scene; source blend and frozen B05 remain unchanged; no GPU jobs",
+ "camera":"orthographic target framing; source IDs embedded in manifest",
+ "frame":1, "crop":false, "compositor":false
+}

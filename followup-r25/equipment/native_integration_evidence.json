@@ -1,0 +1,164 @@
+{
+  "source": "C:\\Users\\mikef\\Documents\\Codex\\2026-09-30\\task\\CampusCenter-new-plans\\downstream\\furniture_art_v26_r01\\native-properties-r15.json",
+  "matches": [
+    {
+      "evidence_path": "root/material_assignments/319",
+      "record": {
+        "actor": "FA26_PH02_Fitness218_027",
+        "slot": 0,
+        "material": "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+        "nanite_usage": true
+      }
+    },
+    {
+      "evidence_path": "root/material_assignments/320",
+      "record": {
+        "actor": "FA26_PH02_Fitness218_027",
+        "slot": 1,
+        "material": "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware",
+        "nanite_usage": true
+      }
+    },
+    {
+      "evidence_path": "root/material_assignments/321",
+      "record": {
+        "actor": "FA26_PH02_Fitness218_027",
+        "slot": 2,
+        "material": "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric",
+        "nanite_usage": true
+      }
+    },
+    {
+      "evidence_path": "root/material_assignments/322",
+      "record": {
+        "actor": "FA26_PH02_Fitness218_029",
+        "slot": 0,
+        "material": "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+        "nanite_usage": true
+      }
+    },
+    {
+      "evidence_path": "root/material_assignments/323",
+      "record": {
+        "actor": "FA26_PH02_Fitness218_029",
+        "slot": 1,
+        "material": "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware",
+        "nanite_usage": true
+      }
+    },
+    {
+      "evidence_path": "root/material_assignments/324",
+      "record": {
+        "actor": "FA26_PH02_Fitness218_029",
+        "slot": 2,
+        "material": "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric",
+        "nanite_usage": true
+      }
+    },
+    {
+      "evidence_path": "root/material_assignments/325",
+      "record": {
+        "actor": "FA26_PH02_Fitness218_030",
+        "slot": 0,
+        "material": "/Game/Campus/PolishV03/Materials/M_Dark_metal.M_Dark_metal",
+        "nanite_usage": true
+      }
+    },
+    {
+      "evidence_path": "root/material_assignments/326",
+      "record": {
+        "actor": "FA26_PH02_Fitness218_030",
+        "slot": 1,
+        "material": "/Game/Campus/PolishV03/Materials/M_Brushed_stainless_hardware.M_Brushed_stainless_hardware",
+        "nanite_usage": true
+      }
+    },
+    {
+      "evidence_path": "root/material_assignments/327",
+      "record": {
+        "actor": "FA26_PH02_Fitness218_030",
+        "slot": 2,
+        "material": "/Game/Campus/PolishV02/Materials/M_Sage_Woven_Fabric.M_Sage_Woven_Fabric",
+        "nanite_usage": true
+      }
+    },
+    {
+      "evidence_path": "root/clearance_candidates/217/hit",
+      "record": {
+        "blocking": true,
+        "point_cm": [
+          -3743.6279296875,
+          -2467.06884765625,
+          440.7208251953125
+        ],
+        "label": "FA26_PH02_Fitness218_027",
+        "actor": "StaticMeshActor_2035"
+      }
+    },
+    {
+      "evidence_path": "root/clearance_candidates/222/hit",
+      "record": {
+        "blocking": true,
+        "point_cm": [
+          -3650.91455078125,
+          -2373.0625,
+          547.7265014648438
+        ],
+        "label": "FA26_PH02_Fitness218_029",
+        "actor": "StaticMeshActor_2036"
+      }
+    },
+    {
+      "evidence_path": "root/clearance_candidates/226/hit",
+      "record": {
+        "blocking": true,
+        "point_cm": [
+          -3689.844482421875,
+          -2179.69677734375,
+          537.005126953125
+        ],
+        "label": "FA26_PH02_Fitness218_030",
+        "actor": "StaticMeshActor_2037"
+      }
+    },
+    {
+      "evidence_path": "root/clearance_candidates/227/hit",
+      "record": {
+        "blocking": true,
+        "point_cm": [
+          -3693.206787109375,
+          -2432.52392578125,
+          486.2201843261719
+        ],
+        "label": "FA26_PH02_Fitness218_027",
+        "actor": "StaticMeshActor_2035"
+      }
+    },
+    {
+      "evidence_path": "root/clearance_candidates/231/hit",
+      "record": {
+        "blocking": true,
+        "point_cm": [
+          -3688.705810546875,
+          -2255.46142578125,
+          486.219970703125
+        ],
+        "label": "FA26_PH02_Fitness218_029",
+        "actor": "StaticMeshActor_2036"
+      }
+    },
+    {
+      "evidence_path": "root/clearance_candidates/232/hit",
+      "record": {
+        "blocking": true,
+        "point_cm": [
+          -3655.64111328125,
+          -2147.709228515625,
+          544.7500610351562
+        ],
+        "label": "FA26_PH02_Fitness218_030",
+        "actor": "StaticMeshActor_2037"
+      }
+    }
+  ]
+}
