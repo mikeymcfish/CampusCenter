@@ -1,0 +1,14 @@
+{
+  "file": "Upper_Enclosed.step",
+  "valid_brep": true,
+  "reopened_solid_count": 4,
+  "reopened_dimensions_mm": [
+    768.9569704148399,
+    560.7659999940059,
+    53.56800099345701
+  ],
+  "reopened_volume_mm3": 1787347.641819635,
+  "mesh_volume_mm3": 1787347.641819611,
+  "relative_volume_error": 1.3417398907318402e-14,
+  "representation": "Closed faceted B-representation, coplanar faces unified; editable generator and heightfield are supplied separately."
+}

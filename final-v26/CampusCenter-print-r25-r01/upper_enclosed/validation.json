@@ -1,0 +1,323 @@
+{
+  "watertight": true,
+  "winding_consistent": true,
+  "components": 4,
+  "elevated_down_faces": 0,
+  "dimensions_mm": [
+    768.9569702148438,
+    560.7659997940063,
+    53.56800079345703
+  ],
+  "bounds_mm": [
+    [
+      14.5,
+      7.734000205993652,
+      0.0
+    ],
+    [
+      783.4569702148438,
+      568.5,
+      53.56800079345703
+    ]
+  ],
+  "volume_mm3": 1787347.641819611,
+  "triangles": 25540,
+  "source_sha256": "c39e7b686b56603f38500f1b22d6ebbb459362e66fa255da1a4b315e4a216721",
+  "scale": "1:87.5",
+  "units": "mm",
+  "split_x_mm": [
+    14.5,
+    270.81899007161456,
+    527.1379801432291,
+    783.4569702148438
+  ],
+  "split_y_mm": [
+    7.734000205993652,
+    288.1170001029968,
+    568.5
+  ],
+  "tiles": [
+    {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        256.3190002441406,
+        188.11700439453125,
+        53.56800079345703
+      ],
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          256.3190002441406,
+          188.11700439453125,
+          53.56800079345703
+        ]
+      ],
+      "volume_mm3": 524366.1974655463,
+      "triangles": 5086,
+      "name": "Upper_Enclosed_A1",
+      "assembly_offset_mm": [
+        14.5,
+        100.0,
+        0.0
+      ]
+    },
+    {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        256.3190002441406,
+        191.0,
+        53.56800079345703
+      ],
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          256.3190002441406,
+          191.0,
+          53.56800079345703
+        ]
+      ],
+      "volume_mm3": 490488.43917004316,
+      "triangles": 6018,
+      "name": "Upper_Enclosed_A2",
+      "assembly_offset_mm": [
+        270.8190002441406,
+        24.5,
+        0.0
+      ]
+    },
+    {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        256.3189697265625,
+        280.3830041885376,
+        53.56800079345703
+      ],
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          256.3189697265625,
+          280.3830041885376,
+          53.56800079345703
+        ]
+      ],
+      "volume_mm3": 285111.7804650156,
+      "triangles": 10090,
+      "name": "Upper_Enclosed_A3_1",
+      "assembly_offset_mm": [
+        527.1380004882812,
+        7.734000205993652,
+        0.0
+      ]
+    },
+    {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        1.5,
+        27.0,
+        17.06399917602539
+      ],
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          1.5,
+          27.0,
+          17.06399917602539
+        ]
+      ],
+      "volume_mm3": 462.18447983264923,
+      "triangles": 20,
+      "name": "Upper_Enclosed_A3_2",
+      "assembly_offset_mm": [
+        556.5,
+        122.5,
+        0.0
+      ]
+    },
+    {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        256.3190002441406,
+        280.38299560546875,
+        53.56800079345703
+      ],
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          256.3190002441406,
+          280.38299560546875,
+          53.56800079345703
+        ]
+      ],
+      "volume_mm3": 258178.92666654193,
+      "triangles": 1462,
+      "name": "Upper_Enclosed_B1",
+      "assembly_offset_mm": [
+        14.5,
+        288.11700439453125,
+        0.0
+      ]
+    },
+    {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        256.3190002441406,
+        4.5,
+        53.56800079345703
+      ],
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          256.3190002441406,
+          4.5,
+          53.56800079345703
+        ]
+      ],
+      "volume_mm3": 61787.23383805307,
+      "triangles": 12,
+      "name": "Upper_Enclosed_B2",
+      "assembly_offset_mm": [
+        270.8190002441406,
+        564.0,
+        0.0
+      ]
+    },
+    {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        200.2919921875,
+        280.38299560546875,
+        53.56800079345703
+      ],
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          200.2919921875,
+          280.38299560546875,
+          53.56800079345703
+        ]
+      ],
+      "volume_mm3": 147669.7894898413,
+      "triangles": 3528,
+      "name": "Upper_Enclosed_B3_1",
+      "assembly_offset_mm": [
+        527.1380004882812,
+        288.11700439453125,
+        0.0
+      ]
+    },
+    {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        33.0,
+        11.0,
+        52.03200149536133
+      ],
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          33.0,
+          11.0,
+          52.03200149536133
+        ]
+      ],
+      "volume_mm3": 18887.616542816162,
+      "triangles": 12,
+      "name": "Upper_Enclosed_B3_2",
+      "assembly_offset_mm": [
+        590.5,
+        371.5,
+        0.0
+      ]
+    },
+    {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        23.0,
+        1.5,
+        17.152000427246094
+      ],
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          23.0,
+          1.5,
+          17.152000427246094
+        ]
+      ],
+      "volume_mm3": 395.63175415992737,
+      "triangles": 16,
+      "name": "Upper_Enclosed_B3_3",
+      "assembly_offset_mm": [
+        653.5,
+        397.5,
+        0.0
+      ]
+    }
+  ],
+  "tile_volume_relative_error": 8.842837028641774e-08,
+  "floor_thickness_mm": 4.8,
+  "physical_test": false
+}

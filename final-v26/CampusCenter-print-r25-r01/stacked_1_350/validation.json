@@ -1,0 +1,130 @@
+{
+  "scale": "1:350",
+  "units": "mm",
+  "floor_minimum_mm": 1.2,
+  "assembly_z_mm": {
+    "ground": 0,
+    "upper": 12.192,
+    "roof": 23.077714285714286
+  },
+  "source_sha256": "c39e7b686b56603f38500f1b22d6ebbb459362e66fa255da1a4b315e4a216721",
+  "interfaces": [
+    {
+      "interface": "ground to upper",
+      "penetration_mm3": 0.00021879612485413695,
+      "contact_area_mm2": 2381.0,
+      "upper_centroid_within_support_hull": true
+    },
+    {
+      "interface": "upper to roof",
+      "penetration_mm3": 8.009385310661098e-05,
+      "contact_area_mm2": 1868.125,
+      "upper_centroid_within_support_hull": true
+    }
+  ],
+  "meshes": {
+    "ground": {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        185.25,
+        140.0,
+        13.392000198364258
+      ],
+      "bounds_mm": [
+        [
+          3.75,
+          2.0,
+          0.0
+        ],
+        [
+          189.0,
+          142.0,
+          13.392000198364258
+        ]
+      ],
+      "volume_mm3": 58276.78489885107,
+      "triangles": 6086
+    },
+    "upper": {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 2,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        193.25,
+        141.25,
+        13.392000198364258
+      ],
+      "bounds_mm": [
+        [
+          3.0,
+          1.5,
+          0.0
+        ],
+        [
+          196.25,
+          142.75,
+          13.392000198364258
+        ]
+      ],
+      "volume_mm3": 39846.39028873915,
+      "triangles": 3448
+    },
+    "roof": {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        177.75,
+        135.25,
+        6.847714424133301
+      ],
+      "bounds_mm": [
+        [
+          3.75,
+          6.25,
+          0.0
+        ],
+        [
+          181.5,
+          141.5,
+          6.847714424133301
+        ]
+      ],
+      "volume_mm3": 49922.11983285099,
+      "triangles": 954
+    }
+  },
+  "roof": {
+    "retained_supported_recipe": "output_v12_roof_set/assembly_grids.npz",
+    "recipe_sha256": "48b46db65e5f9359d0ae63823af025f97dd587c917f50e38a122033ef4331486",
+    "accepted_roof_bounds_crosscheck": [
+      {
+        "name": "Gym_roof_context",
+        "source_plan_bounds_difference_m": 1.8078868890825106e-06
+      },
+      {
+        "name": "Main_concrete_roof",
+        "source_plan_bounds_difference_m": 1.1577472847079662e-06
+      },
+      {
+        "name": "Athletics_single_storey_roof",
+        "source_plan_bounds_difference_m": 6.950338473643569e-07
+      },
+      {
+        "name": "Vestibule_canopy",
+        "source_plan_bounds_difference_m": 4.92115919570324e-07
+      },
+      {
+        "name": "Terrace_partial_canopy",
+        "source_plan_bounds_difference_m": 4.358891843025958e-07
+      }
+    ],
+    "skylight": "Original solid display interpretation retained"
+  },
+  "physical_fit_tested": false
+}

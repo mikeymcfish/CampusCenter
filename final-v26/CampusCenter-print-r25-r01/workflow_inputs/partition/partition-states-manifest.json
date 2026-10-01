@@ -1,0 +1,326 @@
+{
+  "source_sha256": "c39e7b686b56603f38500f1b22d6ebbb459362e66fa255da1a4b315e4a216721",
+  "states": [
+    {
+      "closed": 0,
+      "file": "Campus_R25_Partition_Folded.glb",
+      "sha256": "2ec7193091f8e27c8970d0f2cbcdf22ac2739994ada292d05f938e5468e072c8",
+      "panels": [
+        {
+          "stable_id": "R25_Partition_Folded_0",
+          "source_object": "V6_Folding_partition_parked_panel_0",
+          "material_slots": [
+            "Warm white plaster"
+          ],
+          "bounds_m": [
+            [
+              -21.620975494384766,
+              8.034984588623047,
+              0.0
+            ],
+            [
+              -21.00979995727539,
+              8.564643859863281,
+              2.7431998252868652
+            ]
+          ]
+        },
+        {
+          "stable_id": "R25_Partition_Folded_1",
+          "source_object": "V6_Folding_partition_parked_panel_1",
+          "material_slots": [
+            "Warm white plaster"
+          ],
+          "bounds_m": [
+            [
+              -21.349498748779297,
+              7.860349655151367,
+              0.0
+            ],
+            [
+              -20.738323211669922,
+              8.390008926391602,
+              2.7431998252868652
+            ]
+          ]
+        },
+        {
+          "stable_id": "R25_Partition_Folded_2",
+          "source_object": "V6_Folding_partition_parked_panel_2",
+          "material_slots": [
+            "Warm white plaster"
+          ],
+          "bounds_m": [
+            [
+              -21.620975494384766,
+              7.6857171058654785,
+              0.0
+            ],
+            [
+              -21.00979995727539,
+              8.215376853942871,
+              2.7431998252868652
+            ]
+          ]
+        },
+        {
+          "stable_id": "R25_Partition_Folded_3",
+          "source_object": "V6_Folding_partition_parked_panel_3",
+          "material_slots": [
+            "Warm white plaster"
+          ],
+          "bounds_m": [
+            [
+              -21.349498748779297,
+              7.511083126068115,
+              0.0
+            ],
+            [
+              -20.738323211669922,
+              8.040742874145508,
+              2.7431998252868652
+            ]
+          ]
+        },
+        {
+          "stable_id": "R25_Partition_Folded_4",
+          "source_object": "V6_Folding_partition_parked_panel_4",
+          "material_slots": [
+            "Warm white plaster"
+          ],
+          "bounds_m": [
+            [
+              -21.620975494384766,
+              7.336449146270752,
+              0.0
+            ],
+            [
+              -21.00979995727539,
+              7.866108417510986,
+              2.7431998252868652
+            ]
+          ]
+        },
+        {
+          "stable_id": "R25_Partition_Folded_5",
+          "source_object": "V6_Folding_partition_parked_panel_5",
+          "material_slots": [
+            "Warm white plaster"
+          ],
+          "bounds_m": [
+            [
+              -21.349498748779297,
+              7.161815166473389,
+              0.0
+            ],
+            [
+              -20.738323211669922,
+              7.691474437713623,
+              2.7431998252868652
+            ]
+          ]
+        },
+        {
+          "stable_id": "R25_Partition_Folded_6",
+          "source_object": "V6_Folding_partition_parked_panel_6",
+          "material_slots": [
+            "Warm white plaster"
+          ],
+          "bounds_m": [
+            [
+              -21.620975494384766,
+              6.987182140350342,
+              0.0
+            ],
+            [
+              -21.00979995727539,
+              7.516841411590576,
+              2.7431998252868652
+            ]
+          ]
+        },
+        {
+          "stable_id": "R25_Partition_Folded_7",
+          "source_object": "V6_Folding_partition_parked_panel_7",
+          "material_slots": [
+            "Warm white plaster"
+          ],
+          "bounds_m": [
+            [
+              -21.349498748779297,
+              6.8125481605529785,
+              0.0
+            ],
+            [
+              -20.738323211669922,
+              7.342207431793213,
+              2.7431998252868652
+            ]
+          ]
+        }
+      ],
+      "collision": "Simple boxes only; exactly one state active"
+    },
+    {
+      "closed": 1,
+      "file": "Campus_R25_Partition_Closed.glb",
+      "sha256": "029061f80353c4b021d6f2e3668aee66b57b58b4ea834390c5d596c5a53b2f0b",
+      "panels": [
+        {
+          "stable_id": "R25_Partition_Closed_00",
+          "source_object": "REV_FoldingPartition_113_112_Closed_00",
+          "material_slots": [
+            "Natural oak"
+          ],
+          "bounds_m": [
+            [
+              -20.817506790161133,
+              6.7710185050964355,
+              1.1920928955078125e-07
+            ],
+            [
+              -20.76250648498535,
+              7.623234272003174,
+              2.7431998252868652
+            ]
+          ]
+        },
+        {
+          "stable_id": "R25_Partition_Closed_01",
+          "source_object": "REV_FoldingPartition_113_112_Closed_01",
+          "material_slots": [
+            "Natural oak"
+          ],
+          "bounds_m": [
+            [
+              -20.817506790161133,
+              7.623234272003174,
+              1.1920928955078125e-07
+            ],
+            [
+              -20.76250648498535,
+              8.47545051574707,
+              2.7431998252868652
+            ]
+          ]
+        },
+        {
+          "stable_id": "R25_Partition_Closed_02",
+          "source_object": "REV_FoldingPartition_113_112_Closed_02",
+          "material_slots": [
+            "Natural oak"
+          ],
+          "bounds_m": [
+            [
+              -20.817506790161133,
+              8.475449562072754,
+              1.1920928955078125e-07
+            ],
+            [
+              -20.76250648498535,
+              9.327666282653809,
+              2.7431998252868652
+            ]
+          ]
+        },
+        {
+          "stable_id": "R25_Partition_Closed_03",
+          "source_object": "REV_FoldingPartition_113_112_Closed_03",
+          "material_slots": [
+            "Natural oak"
+          ],
+          "bounds_m": [
+            [
+              -20.817506790161133,
+              9.327666282653809,
+              1.1920928955078125e-07
+            ],
+            [
+              -20.76250648498535,
+              10.179883003234863,
+              2.7431998252868652
+            ]
+          ]
+        },
+        {
+          "stable_id": "R25_Partition_Closed_04",
+          "source_object": "REV_FoldingPartition_113_112_Closed_04",
+          "material_slots": [
+            "Natural oak"
+          ],
+          "bounds_m": [
+            [
+              -20.817506790161133,
+              10.179882049560547,
+              1.1920928955078125e-07
+            ],
+            [
+              -20.76250648498535,
+              11.032098770141602,
+              2.7431998252868652
+            ]
+          ]
+        },
+        {
+          "stable_id": "R25_Partition_Closed_05",
+          "source_object": "REV_FoldingPartition_113_112_Closed_05",
+          "material_slots": [
+            "Natural oak"
+          ],
+          "bounds_m": [
+            [
+              -20.817506790161133,
+              11.032097816467285,
+              1.1920928955078125e-07
+            ],
+            [
+              -20.76250648498535,
+              11.88431453704834,
+              2.7431998252868652
+            ]
+          ]
+        },
+        {
+          "stable_id": "R25_Partition_Closed_06",
+          "source_object": "REV_FoldingPartition_113_112_Closed_06",
+          "material_slots": [
+            "Natural oak"
+          ],
+          "bounds_m": [
+            [
+              -20.817506790161133,
+              11.884313583374023,
+              1.1920928955078125e-07
+            ],
+            [
+              -20.76250648498535,
+              12.736530303955078,
+              2.7431998252868652
+            ]
+          ]
+        },
+        {
+          "stable_id": "R25_Partition_Closed_07",
+          "source_object": "REV_FoldingPartition_113_112_Closed_07",
+          "material_slots": [
+            "Natural oak"
+          ],
+          "bounds_m": [
+            [
+              -20.817506790161133,
+              12.736529350280762,
+              1.1920928955078125e-07
+            ],
+            [
+              -20.76250648498535,
+              13.588746070861816,
+              2.7431998252868652
+            ]
+          ]
+        }
+      ],
+      "collision": "Simple boxes only; exactly one state active"
+    }
+  ],
+  "height_m": 2.7432
+}

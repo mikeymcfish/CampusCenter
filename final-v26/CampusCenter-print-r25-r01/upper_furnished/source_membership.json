@@ -1,0 +1,3546 @@
+[
+  {
+    "name": "Gym_south_wall0",
+    "kind": "structure"
+  },
+  {
+    "name": "Gym_south_lintel0",
+    "kind": "structure"
+  },
+  {
+    "name": "Gym_south_end",
+    "kind": "structure"
+  },
+  {
+    "name": "A102_upper_slab",
+    "kind": "floor"
+  },
+  {
+    "name": "Fitness_north_wall0",
+    "kind": "structure"
+  },
+  {
+    "name": "Fitness_north_sill0",
+    "kind": "structure"
+  },
+  {
+    "name": "Fitness_north_head0",
+    "kind": "structure"
+  },
+  {
+    "name": "Fitness_north_glass0",
+    "kind": "structure"
+  },
+  {
+    "name": "Fitness_north_frame0_900",
+    "kind": "structure"
+  },
+  {
+    "name": "Fitness_north_frame0_2935",
+    "kind": "structure"
+  },
+  {
+    "name": "Fitness_north_mullion0_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Fitness_north_mullion0_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Fitness_north_mullion0_2",
+    "kind": "structure"
+  },
+  {
+    "name": "Fitness_north_mullion0_3",
+    "kind": "structure"
+  },
+  {
+    "name": "Fitness_north_wall1",
+    "kind": "structure"
+  },
+  {
+    "name": "Fitness_north_sill1",
+    "kind": "structure"
+  },
+  {
+    "name": "Fitness_north_head1",
+    "kind": "structure"
+  },
+  {
+    "name": "Fitness_north_glass1",
+    "kind": "structure"
+  },
+  {
+    "name": "Fitness_north_frame1_900",
+    "kind": "structure"
+  },
+  {
+    "name": "Fitness_north_frame1_2935",
+    "kind": "structure"
+  },
+  {
+    "name": "Fitness_north_mullion1_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Fitness_north_mullion1_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Fitness_north_mullion1_2",
+    "kind": "structure"
+  },
+  {
+    "name": "Fitness_north_end",
+    "kind": "structure"
+  },
+  {
+    "name": "Fitness_west_wall0",
+    "kind": "structure"
+  },
+  {
+    "name": "Fitness_west_sill0",
+    "kind": "structure"
+  },
+  {
+    "name": "Fitness_west_head0",
+    "kind": "structure"
+  },
+  {
+    "name": "Fitness_west_glass0",
+    "kind": "structure"
+  },
+  {
+    "name": "Fitness_west_frame0_900",
+    "kind": "structure"
+  },
+  {
+    "name": "Fitness_west_frame0_2935",
+    "kind": "structure"
+  },
+  {
+    "name": "Fitness_west_mullion0_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Fitness_west_mullion0_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Fitness_west_mullion0_2",
+    "kind": "structure"
+  },
+  {
+    "name": "Fitness_west_mullion0_3",
+    "kind": "structure"
+  },
+  {
+    "name": "Fitness_west_end",
+    "kind": "structure"
+  },
+  {
+    "name": "Fitness_gym_wall_end",
+    "kind": "structure"
+  },
+  {
+    "name": "Fitness_south_wall2",
+    "kind": "structure"
+  },
+  {
+    "name": "Fitness_south_glass2",
+    "kind": "structure"
+  },
+  {
+    "name": "Fitness_south_frame2_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Fitness_south_mullion2_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Fitness_south_mullion2_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Fitness_south_mullion2_2",
+    "kind": "structure"
+  },
+  {
+    "name": "Fitness_south_mullion2_3",
+    "kind": "structure"
+  },
+  {
+    "name": "Fitness_south_wall3",
+    "kind": "structure"
+  },
+  {
+    "name": "Fitness_south_end",
+    "kind": "structure"
+  },
+  {
+    "name": "Toilets_west_wall0",
+    "kind": "structure"
+  },
+  {
+    "name": "Toilets_west_sill0",
+    "kind": "structure"
+  },
+  {
+    "name": "Toilets_west_head0",
+    "kind": "structure"
+  },
+  {
+    "name": "Toilets_west_glass0",
+    "kind": "structure"
+  },
+  {
+    "name": "Toilets_west_frame0_900",
+    "kind": "structure"
+  },
+  {
+    "name": "Toilets_west_frame0_2935",
+    "kind": "structure"
+  },
+  {
+    "name": "Toilets_west_mullion0_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Toilets_west_mullion0_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Toilets_west_wall1",
+    "kind": "structure"
+  },
+  {
+    "name": "Toilets_west_sill1",
+    "kind": "structure"
+  },
+  {
+    "name": "Toilets_west_head1",
+    "kind": "structure"
+  },
+  {
+    "name": "Toilets_west_glass1",
+    "kind": "structure"
+  },
+  {
+    "name": "Toilets_west_frame1_900",
+    "kind": "structure"
+  },
+  {
+    "name": "Toilets_west_frame1_2935",
+    "kind": "structure"
+  },
+  {
+    "name": "Toilets_west_mullion1_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Toilets_west_mullion1_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Toilets_west_wall2",
+    "kind": "structure"
+  },
+  {
+    "name": "Toilets_west_sill2",
+    "kind": "structure"
+  },
+  {
+    "name": "Toilets_west_head2",
+    "kind": "structure"
+  },
+  {
+    "name": "Toilets_west_glass2",
+    "kind": "structure"
+  },
+  {
+    "name": "Toilets_west_frame2_900",
+    "kind": "structure"
+  },
+  {
+    "name": "Toilets_west_frame2_2935",
+    "kind": "structure"
+  },
+  {
+    "name": "Toilets_west_mullion2_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Toilets_west_mullion2_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Toilets_west_wall3",
+    "kind": "structure"
+  },
+  {
+    "name": "Toilets_west_sill3",
+    "kind": "structure"
+  },
+  {
+    "name": "Toilets_west_head3",
+    "kind": "structure"
+  },
+  {
+    "name": "Toilets_west_glass3",
+    "kind": "structure"
+  },
+  {
+    "name": "Toilets_west_frame3_900",
+    "kind": "structure"
+  },
+  {
+    "name": "Toilets_west_frame3_2935",
+    "kind": "structure"
+  },
+  {
+    "name": "Toilets_west_mullion3_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Toilets_west_mullion3_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Toilets_west_end",
+    "kind": "structure"
+  },
+  {
+    "name": "Toilet213_divider_end",
+    "kind": "structure"
+  },
+  {
+    "name": "Toilet216_divider_end",
+    "kind": "structure"
+  },
+  {
+    "name": "Toilet216_east_wall0",
+    "kind": "structure"
+  },
+  {
+    "name": "Toilet216_east_end",
+    "kind": "structure"
+  },
+  {
+    "name": "Service214_west_end",
+    "kind": "structure"
+  },
+  {
+    "name": "Service214_east_end",
+    "kind": "structure"
+  },
+  {
+    "name": "Service214_south_wall0",
+    "kind": "structure"
+  },
+  {
+    "name": "Service214_south_end",
+    "kind": "structure"
+  },
+  {
+    "name": "Storage215_south_wall0",
+    "kind": "structure"
+  },
+  {
+    "name": "Storage215_south_end",
+    "kind": "structure"
+  },
+  {
+    "name": "Storage215_east_end",
+    "kind": "structure"
+  },
+  {
+    "name": "Collab219_north_wall0",
+    "kind": "structure"
+  },
+  {
+    "name": "Collab219_north_end",
+    "kind": "structure"
+  },
+  {
+    "name": "Collab219_west_end",
+    "kind": "structure"
+  },
+  {
+    "name": "Collab219_east_end",
+    "kind": "structure"
+  },
+  {
+    "name": "West_upper_south_wall0",
+    "kind": "structure"
+  },
+  {
+    "name": "West_upper_south_sill0",
+    "kind": "structure"
+  },
+  {
+    "name": "West_upper_south_head0",
+    "kind": "structure"
+  },
+  {
+    "name": "West_upper_south_glass0",
+    "kind": "structure"
+  },
+  {
+    "name": "West_upper_south_frame0_900",
+    "kind": "structure"
+  },
+  {
+    "name": "West_upper_south_frame0_2935",
+    "kind": "structure"
+  },
+  {
+    "name": "West_upper_south_mullion0_0",
+    "kind": "structure"
+  },
+  {
+    "name": "West_upper_south_mullion0_1",
+    "kind": "structure"
+  },
+  {
+    "name": "West_upper_south_mullion0_2",
+    "kind": "structure"
+  },
+  {
+    "name": "West_upper_south_end",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_entry_storefront_wall0",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_entry_storefront_glass0",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_entry_storefront_frame0_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_entry_storefront_mullion0_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_entry_storefront_mullion0_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_entry_storefront_mullion0_2",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_entry_storefront_wall1",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_entry_storefront_glass1",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_entry_storefront_frame1_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_entry_storefront_mullion1_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_entry_storefront_mullion1_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_entry_storefront_mullion1_2",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_entry_storefront_mullion1_3",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_entry_storefront_end",
+    "kind": "structure"
+  },
+  {
+    "name": "StairB_upper_west_end",
+    "kind": "structure"
+  },
+  {
+    "name": "StairB_upper_east_end",
+    "kind": "structure"
+  },
+  {
+    "name": "StairB_upper_north_wall0",
+    "kind": "structure"
+  },
+  {
+    "name": "StairB_upper_north_end",
+    "kind": "structure"
+  },
+  {
+    "name": "LiftB_upper_n",
+    "kind": "structure"
+  },
+  {
+    "name": "LiftB_upper_w",
+    "kind": "structure"
+  },
+  {
+    "name": "LiftB_upper_e",
+    "kind": "structure"
+  },
+  {
+    "name": "LiftB_upper_s_wall0",
+    "kind": "structure"
+  },
+  {
+    "name": "LiftB_upper_s_end",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_classrooms_north_wall0",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_classrooms_north_wall1",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_classrooms_north_wall2",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_classrooms_north_end",
+    "kind": "structure"
+  },
+  {
+    "name": "Class210_west_end",
+    "kind": "structure"
+  },
+  {
+    "name": "Class210_209_end",
+    "kind": "structure"
+  },
+  {
+    "name": "Class209_208_end",
+    "kind": "structure"
+  },
+  {
+    "name": "Class208_east_wall0",
+    "kind": "structure"
+  },
+  {
+    "name": "Class208_east_end",
+    "kind": "structure"
+  },
+  {
+    "name": "Classrooms_upper_south_wall0",
+    "kind": "structure"
+  },
+  {
+    "name": "Classrooms_upper_south_sill0",
+    "kind": "structure"
+  },
+  {
+    "name": "Classrooms_upper_south_head0",
+    "kind": "structure"
+  },
+  {
+    "name": "Classrooms_upper_south_glass0",
+    "kind": "structure"
+  },
+  {
+    "name": "Classrooms_upper_south_frame0_900",
+    "kind": "structure"
+  },
+  {
+    "name": "Classrooms_upper_south_frame0_2935",
+    "kind": "structure"
+  },
+  {
+    "name": "Classrooms_upper_south_mullion0_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Classrooms_upper_south_mullion0_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Classrooms_upper_south_mullion0_2",
+    "kind": "structure"
+  },
+  {
+    "name": "Classrooms_upper_south_wall1",
+    "kind": "structure"
+  },
+  {
+    "name": "Classrooms_upper_south_sill1",
+    "kind": "structure"
+  },
+  {
+    "name": "Classrooms_upper_south_head1",
+    "kind": "structure"
+  },
+  {
+    "name": "Classrooms_upper_south_glass1",
+    "kind": "structure"
+  },
+  {
+    "name": "Classrooms_upper_south_frame1_900",
+    "kind": "structure"
+  },
+  {
+    "name": "Classrooms_upper_south_frame1_2935",
+    "kind": "structure"
+  },
+  {
+    "name": "Classrooms_upper_south_mullion1_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Classrooms_upper_south_mullion1_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Classrooms_upper_south_mullion1_2",
+    "kind": "structure"
+  },
+  {
+    "name": "Classrooms_upper_south_mullion1_3",
+    "kind": "structure"
+  },
+  {
+    "name": "Classrooms_upper_south_wall2",
+    "kind": "structure"
+  },
+  {
+    "name": "Classrooms_upper_south_sill2",
+    "kind": "structure"
+  },
+  {
+    "name": "Classrooms_upper_south_head2",
+    "kind": "structure"
+  },
+  {
+    "name": "Classrooms_upper_south_glass2",
+    "kind": "structure"
+  },
+  {
+    "name": "Classrooms_upper_south_frame2_900",
+    "kind": "structure"
+  },
+  {
+    "name": "Classrooms_upper_south_frame2_2935",
+    "kind": "structure"
+  },
+  {
+    "name": "Classrooms_upper_south_mullion2_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Classrooms_upper_south_mullion2_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Classrooms_upper_south_mullion2_2",
+    "kind": "structure"
+  },
+  {
+    "name": "Classrooms_upper_south_end",
+    "kind": "structure"
+  },
+  {
+    "name": "IT_Admin_north_wall0",
+    "kind": "structure"
+  },
+  {
+    "name": "IT_Admin_north_wall1",
+    "kind": "structure"
+  },
+  {
+    "name": "IT_Admin_north_end",
+    "kind": "structure"
+  },
+  {
+    "name": "IT205_west_wall0",
+    "kind": "structure"
+  },
+  {
+    "name": "IT205_west_end",
+    "kind": "structure"
+  },
+  {
+    "name": "IT205_south_end",
+    "kind": "structure"
+  },
+  {
+    "name": "Admin_west_end",
+    "kind": "structure"
+  },
+  {
+    "name": "Shaft_south_end",
+    "kind": "structure"
+  },
+  {
+    "name": "Admin_east_wall0",
+    "kind": "structure"
+  },
+  {
+    "name": "Admin_east_end",
+    "kind": "structure"
+  },
+  {
+    "name": "Admin_south_end",
+    "kind": "structure"
+  },
+  {
+    "name": "Head_school_east_end",
+    "kind": "structure"
+  },
+  {
+    "name": "Offices_upper_south_wall0",
+    "kind": "structure"
+  },
+  {
+    "name": "Offices_upper_south_sill0",
+    "kind": "structure"
+  },
+  {
+    "name": "Offices_upper_south_head0",
+    "kind": "structure"
+  },
+  {
+    "name": "Offices_upper_south_glass0",
+    "kind": "structure"
+  },
+  {
+    "name": "Offices_upper_south_frame0_900",
+    "kind": "structure"
+  },
+  {
+    "name": "Offices_upper_south_frame0_2935",
+    "kind": "structure"
+  },
+  {
+    "name": "Offices_upper_south_mullion0_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Offices_upper_south_mullion0_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Offices_upper_south_wall1",
+    "kind": "structure"
+  },
+  {
+    "name": "Offices_upper_south_sill1",
+    "kind": "structure"
+  },
+  {
+    "name": "Offices_upper_south_head1",
+    "kind": "structure"
+  },
+  {
+    "name": "Offices_upper_south_glass1",
+    "kind": "structure"
+  },
+  {
+    "name": "Offices_upper_south_frame1_900",
+    "kind": "structure"
+  },
+  {
+    "name": "Offices_upper_south_frame1_2935",
+    "kind": "structure"
+  },
+  {
+    "name": "Offices_upper_south_mullion1_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Offices_upper_south_mullion1_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Offices_upper_south_mullion1_2",
+    "kind": "structure"
+  },
+  {
+    "name": "Offices_upper_south_wall2",
+    "kind": "structure"
+  },
+  {
+    "name": "Offices_upper_south_sill2",
+    "kind": "structure"
+  },
+  {
+    "name": "Offices_upper_south_head2",
+    "kind": "structure"
+  },
+  {
+    "name": "Offices_upper_south_glass2",
+    "kind": "structure"
+  },
+  {
+    "name": "Offices_upper_south_frame2_900",
+    "kind": "structure"
+  },
+  {
+    "name": "Offices_upper_south_frame2_2935",
+    "kind": "structure"
+  },
+  {
+    "name": "Offices_upper_south_mullion2_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Offices_upper_south_mullion2_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Offices_upper_south_mullion2_2",
+    "kind": "structure"
+  },
+  {
+    "name": "Offices_upper_south_end",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_commons_north_wall0",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_commons_north_glass0",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_commons_north_frame0_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_commons_north_mullion0_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_commons_north_mullion0_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_commons_north_mullion0_2",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_commons_north_mullion0_3",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_commons_north_mullion0_4",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_commons_north_mullion0_5",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_commons_north_mullion0_6",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_commons_north_mullion0_7",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_commons_north_mullion0_8",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_commons_north_mullion0_9",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_commons_north_mullion0_10",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_commons_north_end",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_commons_east_wall0",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_commons_east_glass0",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_commons_east_frame0_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_commons_east_mullion0_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_commons_east_mullion0_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_commons_east_mullion0_2",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_commons_east_mullion0_3",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_commons_east_mullion0_4",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_commons_east_mullion0_5",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_commons_east_mullion0_6",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_commons_east_mullion0_7",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_commons_east_mullion0_8",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_commons_east_mullion0_9",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_commons_east_mullion0_10",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_commons_east_mullion0_11",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_commons_east_mullion0_12",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_commons_east_mullion0_13",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_commons_east_mullion0_14",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_commons_east_mullion0_15",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_commons_east_end",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_access_wall_wall0",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_access_wall_end",
+    "kind": "structure"
+  },
+  {
+    "name": "Gallery_upper_east_wall0",
+    "kind": "structure"
+  },
+  {
+    "name": "Gallery_upper_east_glass0",
+    "kind": "structure"
+  },
+  {
+    "name": "Gallery_upper_east_frame0_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Gallery_upper_east_mullion0_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Gallery_upper_east_mullion0_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Gallery_upper_east_mullion0_2",
+    "kind": "structure"
+  },
+  {
+    "name": "Gallery_upper_east_mullion0_3",
+    "kind": "structure"
+  },
+  {
+    "name": "Gallery_upper_east_mullion0_4",
+    "kind": "structure"
+  },
+  {
+    "name": "Gallery_upper_east_mullion0_5",
+    "kind": "structure"
+  },
+  {
+    "name": "Gallery_upper_east_mullion0_6",
+    "kind": "structure"
+  },
+  {
+    "name": "Gallery_upper_east_mullion0_7",
+    "kind": "structure"
+  },
+  {
+    "name": "Gallery_upper_east_mullion0_8",
+    "kind": "structure"
+  },
+  {
+    "name": "Gallery_upper_east_end",
+    "kind": "structure"
+  },
+  {
+    "name": "Gallery_upper_south_wall0",
+    "kind": "structure"
+  },
+  {
+    "name": "Gallery_upper_south_glass0",
+    "kind": "structure"
+  },
+  {
+    "name": "Gallery_upper_south_frame0_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Gallery_upper_south_mullion0_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Gallery_upper_south_mullion0_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Gallery_upper_south_mullion0_2",
+    "kind": "structure"
+  },
+  {
+    "name": "Gallery_upper_south_mullion0_3",
+    "kind": "structure"
+  },
+  {
+    "name": "Gallery_upper_south_mullion0_4",
+    "kind": "structure"
+  },
+  {
+    "name": "Gallery_upper_south_mullion0_5",
+    "kind": "structure"
+  },
+  {
+    "name": "Gallery_upper_south_mullion0_6",
+    "kind": "structure"
+  },
+  {
+    "name": "Gallery_upper_south_mullion0_7",
+    "kind": "structure"
+  },
+  {
+    "name": "Gallery_upper_south_mullion0_8",
+    "kind": "structure"
+  },
+  {
+    "name": "Gallery_upper_south_mullion0_9",
+    "kind": "structure"
+  },
+  {
+    "name": "Gallery_upper_south_mullion0_10",
+    "kind": "structure"
+  },
+  {
+    "name": "Gallery_upper_south_end",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_walking_slab",
+    "kind": "floor"
+  },
+  {
+    "name": "Terrace_guard_0_handrail",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_0_post_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_0_post_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_0_post_2",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_0_post_3",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_0_glass_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_0_glass_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_0_glass_2",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_1_handrail",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_1_post_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_1_post_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_1_post_2",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_1_post_3",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_1_glass_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_1_glass_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_1_glass_2",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_2_handrail",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_2_post_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_2_post_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_2_post_2",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_2_post_3",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_2_post_4",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_2_post_5",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_2_post_6",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_2_post_7",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_2_post_8",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_2_post_9",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_2_post_10",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_2_post_11",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_2_post_12",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_2_post_13",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_2_post_14",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_2_post_15",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_2_post_16",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_2_glass_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_2_glass_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_2_glass_2",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_2_glass_3",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_2_glass_4",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_2_glass_5",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_2_glass_6",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_2_glass_7",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_2_glass_8",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_2_glass_9",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_2_glass_10",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_2_glass_11",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_2_glass_12",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_2_glass_13",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_2_glass_14",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_2_glass_15",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_3_handrail",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_3_post_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_3_post_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_3_post_2",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_3_post_3",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_3_post_4",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_3_post_5",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_3_glass_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_3_glass_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_3_glass_2",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_3_glass_3",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_3_glass_4",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_4_handrail",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_4_post_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_4_post_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_4_post_2",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_4_post_3",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_4_post_4",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_4_post_5",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_4_glass_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_4_glass_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_4_glass_2",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_4_glass_3",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_4_glass_4",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_5_handrail",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_5_post_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_5_post_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_5_post_2",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_5_post_3",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_5_post_4",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_5_post_5",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_5_glass_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_5_glass_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_5_glass_2",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_5_glass_3",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_5_glass_4",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_6_handrail",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_6_post_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_6_post_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_6_post_2",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_6_post_3",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_6_post_4",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_6_post_5",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_6_post_6",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_6_post_7",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_6_post_8",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_6_post_9",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_6_post_10",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_6_post_11",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_6_glass_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_6_glass_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_6_glass_2",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_6_glass_3",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_6_glass_4",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_6_glass_5",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_6_glass_6",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_6_glass_7",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_6_glass_8",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_6_glass_9",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_6_glass_10",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_7_handrail",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_7_post_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_7_post_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_7_post_2",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_7_glass_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_7_glass_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_8_handrail",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_8_post_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_8_post_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_8_post_2",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_8_post_3",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_8_post_4",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_8_post_5",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_8_post_6",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_8_post_7",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_8_post_8",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_8_post_9",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_8_post_10",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_8_post_11",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_8_post_12",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_8_post_13",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_8_post_14",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_8_glass_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_8_glass_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_8_glass_2",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_8_glass_3",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_8_glass_4",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_8_glass_5",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_8_glass_6",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_8_glass_7",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_8_glass_8",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_8_glass_9",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_8_glass_10",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_8_glass_11",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_8_glass_12",
+    "kind": "structure"
+  },
+  {
+    "name": "Terrace_guard_8_glass_13",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_handrail",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_post_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_post_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_post_2",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_post_3",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_post_4",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_post_5",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_post_6",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_post_7",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_post_8",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_post_9",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_post_10",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_post_11",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_post_12",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_glass_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_glass_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_glass_2",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_glass_3",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_glass_4",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_glass_5",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_glass_6",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_glass_7",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_glass_8",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_glass_9",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_glass_10",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_glass_11",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_1_handrail",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_1_post_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_1_post_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_1_post_2",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_1_post_3",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_1_post_4",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_1_post_5",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_1_post_6",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_1_post_7",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_1_post_8",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_1_glass_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_1_glass_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_1_glass_2",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_1_glass_3",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_1_glass_4",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_1_glass_5",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_1_glass_6",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_1_glass_7",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_2_handrail",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_2_post_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_2_post_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_2_post_2",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_2_post_3",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_2_post_4",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_2_post_5",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_2_post_6",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_2_glass_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_2_glass_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_2_glass_2",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_2_glass_3",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_2_glass_4",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_2_glass_5",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_3_handrail",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_3_post_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_3_post_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_3_post_2",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_3_post_3",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_3_post_4",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_3_glass_0",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_3_glass_1",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_3_glass_2",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_3_glass_3",
+    "kind": "structure"
+  },
+  {
+    "name": "South_upper_rail_0_handrail",
+    "kind": "structure"
+  },
+  {
+    "name": "South_upper_rail_0_post_3",
+    "kind": "structure"
+  },
+  {
+    "name": "South_upper_rail_0_post_4",
+    "kind": "structure"
+  },
+  {
+    "name": "South_upper_rail_0_baluster_16",
+    "kind": "structure"
+  },
+  {
+    "name": "South_upper_rail_0_baluster_17",
+    "kind": "structure"
+  },
+  {
+    "name": "South_upper_rail_0_baluster_18",
+    "kind": "structure"
+  },
+  {
+    "name": "South_upper_rail_0_baluster_19",
+    "kind": "structure"
+  },
+  {
+    "name": "South_upper_rail_0_baluster_20",
+    "kind": "structure"
+  },
+  {
+    "name": "South_upper_rail_0_baluster_21",
+    "kind": "structure"
+  },
+  {
+    "name": "South_upper_rail_0_baluster_22",
+    "kind": "structure"
+  },
+  {
+    "name": "South_upper_rail_0_baluster_23",
+    "kind": "structure"
+  },
+  {
+    "name": "South_upper_rail_0_baluster_24",
+    "kind": "structure"
+  },
+  {
+    "name": "South_upper_rail_0_baluster_25",
+    "kind": "structure"
+  },
+  {
+    "name": "South_upper_rail_0_baluster_26",
+    "kind": "structure"
+  },
+  {
+    "name": "South_upper_rail_1_handrail",
+    "kind": "structure"
+  },
+  {
+    "name": "South_upper_rail_1_post_3",
+    "kind": "structure"
+  },
+  {
+    "name": "South_upper_rail_1_post_4",
+    "kind": "structure"
+  },
+  {
+    "name": "South_upper_rail_1_baluster_16",
+    "kind": "structure"
+  },
+  {
+    "name": "South_upper_rail_1_baluster_17",
+    "kind": "structure"
+  },
+  {
+    "name": "South_upper_rail_1_baluster_18",
+    "kind": "structure"
+  },
+  {
+    "name": "South_upper_rail_1_baluster_19",
+    "kind": "structure"
+  },
+  {
+    "name": "South_upper_rail_1_baluster_20",
+    "kind": "structure"
+  },
+  {
+    "name": "South_upper_rail_1_baluster_21",
+    "kind": "structure"
+  },
+  {
+    "name": "South_upper_rail_1_baluster_22",
+    "kind": "structure"
+  },
+  {
+    "name": "South_upper_rail_1_baluster_23",
+    "kind": "structure"
+  },
+  {
+    "name": "South_upper_rail_1_baluster_24",
+    "kind": "structure"
+  },
+  {
+    "name": "South_upper_rail_1_baluster_25",
+    "kind": "structure"
+  },
+  {
+    "name": "South_upper_rail_1_baluster_26",
+    "kind": "structure"
+  },
+  {
+    "name": "North_flight_rail_0_handrail",
+    "kind": "structure"
+  },
+  {
+    "name": "North_flight_rail_0_post_4",
+    "kind": "structure"
+  },
+  {
+    "name": "North_flight_rail_0_post_5",
+    "kind": "structure"
+  },
+  {
+    "name": "North_flight_rail_0_baluster_26",
+    "kind": "structure"
+  },
+  {
+    "name": "North_flight_rail_0_baluster_27",
+    "kind": "structure"
+  },
+  {
+    "name": "North_flight_rail_0_baluster_28",
+    "kind": "structure"
+  },
+  {
+    "name": "North_flight_rail_0_baluster_29",
+    "kind": "structure"
+  },
+  {
+    "name": "North_flight_rail_0_baluster_30",
+    "kind": "structure"
+  },
+  {
+    "name": "North_flight_rail_0_baluster_31",
+    "kind": "structure"
+  },
+  {
+    "name": "North_flight_rail_0_baluster_32",
+    "kind": "structure"
+  },
+  {
+    "name": "North_flight_rail_0_baluster_33",
+    "kind": "structure"
+  },
+  {
+    "name": "North_flight_rail_0_baluster_34",
+    "kind": "structure"
+  },
+  {
+    "name": "North_flight_rail_0_baluster_35",
+    "kind": "structure"
+  },
+  {
+    "name": "North_flight_rail_0_baluster_36",
+    "kind": "structure"
+  },
+  {
+    "name": "North_flight_rail_0_baluster_37",
+    "kind": "structure"
+  },
+  {
+    "name": "North_flight_rail_0_baluster_38",
+    "kind": "structure"
+  },
+  {
+    "name": "North_flight_rail_1_handrail",
+    "kind": "structure"
+  },
+  {
+    "name": "North_flight_rail_1_post_4",
+    "kind": "structure"
+  },
+  {
+    "name": "North_flight_rail_1_post_5",
+    "kind": "structure"
+  },
+  {
+    "name": "North_flight_rail_1_baluster_26",
+    "kind": "structure"
+  },
+  {
+    "name": "North_flight_rail_1_baluster_27",
+    "kind": "structure"
+  },
+  {
+    "name": "North_flight_rail_1_baluster_28",
+    "kind": "structure"
+  },
+  {
+    "name": "North_flight_rail_1_baluster_29",
+    "kind": "structure"
+  },
+  {
+    "name": "North_flight_rail_1_baluster_30",
+    "kind": "structure"
+  },
+  {
+    "name": "North_flight_rail_1_baluster_31",
+    "kind": "structure"
+  },
+  {
+    "name": "North_flight_rail_1_baluster_32",
+    "kind": "structure"
+  },
+  {
+    "name": "North_flight_rail_1_baluster_33",
+    "kind": "structure"
+  },
+  {
+    "name": "North_flight_rail_1_baluster_34",
+    "kind": "structure"
+  },
+  {
+    "name": "North_flight_rail_1_baluster_35",
+    "kind": "structure"
+  },
+  {
+    "name": "North_flight_rail_1_baluster_36",
+    "kind": "structure"
+  },
+  {
+    "name": "North_flight_rail_1_baluster_37",
+    "kind": "structure"
+  },
+  {
+    "name": "North_flight_rail_1_baluster_38",
+    "kind": "structure"
+  },
+  {
+    "name": "North_top_outer_handrail",
+    "kind": "structure"
+  },
+  {
+    "name": "North_top_outer_post_0",
+    "kind": "structure"
+  },
+  {
+    "name": "North_top_outer_post_1",
+    "kind": "structure"
+  },
+  {
+    "name": "North_top_outer_post_2",
+    "kind": "structure"
+  },
+  {
+    "name": "North_top_outer_baluster_1",
+    "kind": "structure"
+  },
+  {
+    "name": "North_top_outer_baluster_2",
+    "kind": "structure"
+  },
+  {
+    "name": "North_top_outer_baluster_3",
+    "kind": "structure"
+  },
+  {
+    "name": "North_top_outer_baluster_4",
+    "kind": "structure"
+  },
+  {
+    "name": "North_top_outer_baluster_5",
+    "kind": "structure"
+  },
+  {
+    "name": "North_top_outer_baluster_6",
+    "kind": "structure"
+  },
+  {
+    "name": "North_top_outer_baluster_7",
+    "kind": "structure"
+  },
+  {
+    "name": "North_top_outer_baluster_8",
+    "kind": "structure"
+  },
+  {
+    "name": "North_top_outer_baluster_9",
+    "kind": "structure"
+  },
+  {
+    "name": "North_top_outer_baluster_10",
+    "kind": "structure"
+  },
+  {
+    "name": "North_top_outer_baluster_11",
+    "kind": "structure"
+  },
+  {
+    "name": "North_top_outer_baluster_12",
+    "kind": "structure"
+  },
+  {
+    "name": "Stair_A_upper_rail_0_handrail",
+    "kind": "structure"
+  },
+  {
+    "name": "Stair_A_upper_rail_0_post_3",
+    "kind": "structure"
+  },
+  {
+    "name": "Stair_A_upper_rail_0_post_4",
+    "kind": "structure"
+  },
+  {
+    "name": "Stair_A_upper_rail_1_handrail",
+    "kind": "structure"
+  },
+  {
+    "name": "Stair_A_upper_rail_1_post_3",
+    "kind": "structure"
+  },
+  {
+    "name": "Stair_A_upper_rail_1_post_4",
+    "kind": "structure"
+  },
+  {
+    "name": "Gym_north",
+    "kind": "structure"
+  },
+  {
+    "name": "Gym_east",
+    "kind": "structure"
+  },
+  {
+    "name": "Gym_west_wall0",
+    "kind": "structure"
+  },
+  {
+    "name": "Gym_west_lintel0",
+    "kind": "structure"
+  },
+  {
+    "name": "Gym_west_wall1",
+    "kind": "structure"
+  },
+  {
+    "name": "Gym_west_lintel1",
+    "kind": "structure"
+  },
+  {
+    "name": "Gym_west_end",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_classrooms_north_wall0_V5_glazing",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_classrooms_north_wall0_V5_horizontal_4.72",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_classrooms_north_wall0_V5_horizontal_6.65",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_classrooms_north_wall0_V5_jamb_-0.5",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_classrooms_north_wall0_V5_jamb_0.5",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_classrooms_north_wall1_V5_glazing",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_classrooms_north_wall1_V5_horizontal_4.72",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_classrooms_north_wall1_V5_horizontal_6.65",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_classrooms_north_wall1_V5_jamb_-0.5",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_classrooms_north_wall1_V5_jamb_0.5",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_classrooms_north_wall2_V5_glazing",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_classrooms_north_wall2_V5_horizontal_4.72",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_classrooms_north_wall2_V5_horizontal_6.65",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_classrooms_north_wall2_V5_jamb_-0.5",
+    "kind": "structure"
+  },
+  {
+    "name": "Upper_classrooms_north_wall2_V5_jamb_0.5",
+    "kind": "structure"
+  },
+  {
+    "name": "Head_school_east_end_V5_glazing",
+    "kind": "structure"
+  },
+  {
+    "name": "Head_school_east_end_V5_horizontal_5.3",
+    "kind": "structure"
+  },
+  {
+    "name": "Head_school_east_end_V5_horizontal_6.65",
+    "kind": "structure"
+  },
+  {
+    "name": "Head_school_east_end_V5_jamb_-0.5",
+    "kind": "structure"
+  },
+  {
+    "name": "Head_school_east_end_V5_jamb_0.5",
+    "kind": "structure"
+  },
+  {
+    "name": "V5_Stair_A_upper_glass_0",
+    "kind": "structure"
+  },
+  {
+    "name": "V5_Stair_A_upper_glass_1",
+    "kind": "structure"
+  },
+  {
+    "name": "V5_Art_display_backing",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_post_0_V5_glass_clamp_-0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_post_0_V5_glass_clamp_0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_post_1_V5_glass_clamp_-0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_post_1_V5_glass_clamp_0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_post_2_V5_glass_clamp_-0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_post_2_V5_glass_clamp_0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_post_3_V5_glass_clamp_-0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_post_3_V5_glass_clamp_0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_post_4_V5_glass_clamp_-0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_post_4_V5_glass_clamp_0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_post_5_V5_glass_clamp_-0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_post_5_V5_glass_clamp_0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_post_6_V5_glass_clamp_-0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_post_6_V5_glass_clamp_0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_post_7_V5_glass_clamp_-0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_post_7_V5_glass_clamp_0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_post_8_V5_glass_clamp_-0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_post_8_V5_glass_clamp_0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_post_9_V5_glass_clamp_-0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_post_9_V5_glass_clamp_0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_post_10_V5_glass_clamp_-0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_post_10_V5_glass_clamp_0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_post_11_V5_glass_clamp_-0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_post_11_V5_glass_clamp_0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_post_12_V5_glass_clamp_-0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_0_post_12_V5_glass_clamp_0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_1_post_0_V5_glass_clamp_-0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_1_post_0_V5_glass_clamp_0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_1_post_1_V5_glass_clamp_-0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_1_post_1_V5_glass_clamp_0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_1_post_2_V5_glass_clamp_-0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_1_post_2_V5_glass_clamp_0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_1_post_3_V5_glass_clamp_-0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_1_post_3_V5_glass_clamp_0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_1_post_4_V5_glass_clamp_-0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_1_post_4_V5_glass_clamp_0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_1_post_5_V5_glass_clamp_-0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_1_post_5_V5_glass_clamp_0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_1_post_6_V5_glass_clamp_-0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_1_post_6_V5_glass_clamp_0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_1_post_7_V5_glass_clamp_-0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_1_post_7_V5_glass_clamp_0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_1_post_8_V5_glass_clamp_-0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_1_post_8_V5_glass_clamp_0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_2_post_0_V5_glass_clamp_-0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_2_post_0_V5_glass_clamp_0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_2_post_1_V5_glass_clamp_-0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_2_post_1_V5_glass_clamp_0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_2_post_2_V5_glass_clamp_-0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_2_post_2_V5_glass_clamp_0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_2_post_3_V5_glass_clamp_-0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_2_post_3_V5_glass_clamp_0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_2_post_4_V5_glass_clamp_-0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_2_post_4_V5_glass_clamp_0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_2_post_5_V5_glass_clamp_-0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_2_post_5_V5_glass_clamp_0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_2_post_6_V5_glass_clamp_-0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_2_post_6_V5_glass_clamp_0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_3_post_0_V5_glass_clamp_-0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_3_post_0_V5_glass_clamp_0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_3_post_1_V5_glass_clamp_-0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_3_post_1_V5_glass_clamp_0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_3_post_2_V5_glass_clamp_-0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_3_post_2_V5_glass_clamp_0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_3_post_3_V5_glass_clamp_-0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_3_post_3_V5_glass_clamp_0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_3_post_4_V5_glass_clamp_-0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "Bridge_guard_3_post_4_V5_glass_clamp_0.32",
+    "kind": "structure"
+  },
+  {
+    "name": "V6_Fireplace_plan_aligned_pier",
+    "kind": "structure"
+  },
+  {
+    "name": "V6_209_teaching_board",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "V6_215_service_storage_shelf0.12",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "V6_215_service_storage_shelf0.62",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "V6_215_service_storage_shelf1.12",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "V6_215_service_storage_shelf1.62",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "V6_215_service_storage_end-1",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "V6_215_service_storage_end1",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "V6_214_service_storage_shelf0.12",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "V6_214_service_storage_shelf0.62",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "V6_214_service_storage_shelf1.12",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "V6_214_service_storage_shelf1.62",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "V6_214_service_storage_end-1",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "V6_214_service_storage_end1",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "V6_205_IT_rack",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "V6_213_WC_pedestal",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "V6_216_WC_pedestal",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "V6_211_WC_pedestal",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "V6_212_WC_pedestal",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "V6_214_mop_sink",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "V8_DETAIL_Commons_plan_columns",
+    "kind": "structure"
+  },
+  {
+    "name": "V8_DETAIL_Stair_B_rails",
+    "kind": "structure"
+  },
+  {
+    "name": "V8_DETAIL_Interior_glazing_gaskets",
+    "kind": "structure"
+  },
+  {
+    "name": "V8_DETAIL_V6_213_WC_bowl",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "V8_DETAIL_V6_213_WC_cistern",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "V8_DETAIL_V6_213_basin_basin",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "V8_DETAIL_V6_216_WC_bowl",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "V8_DETAIL_V6_216_WC_cistern",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "V8_DETAIL_V6_216_basin_basin",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "V8_DETAIL_V6_211_WC_bowl",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "V8_DETAIL_V6_211_WC_cistern",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "V8_DETAIL_V6_211_basin_basin",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "V8_DETAIL_V6_212_WC_bowl",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "V8_DETAIL_V6_212_WC_cistern",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "V8_DETAIL_V6_212_basin_basin",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE07_PH02_Fitness218_003_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE07_PH02_Fitness218_003_1",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE07_PH02_Fitness218_004_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE07_PH02_Fitness218_004_1",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE07_PH02_Fitness218_005_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE07_PH02_Fitness218_005_1",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE07_PH02_Fitness218_006_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE07_PH02_Fitness218_006_1",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE07_PH02_Fitness218_007_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE07_PH02_Fitness218_007_1",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE07_PH02_Fitness218_008_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE07_PH02_Fitness218_008_1",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE07_PH02_Fitness218_009_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE07_PH02_Fitness218_009_1",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE07_PH02_Fitness218_009_2",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE07_PH02_Fitness218_010_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE07_PH02_Fitness218_011_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE07_PH02_Fitness218_011_1",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE07_PH02_Fitness218_011_2",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE07_PH02_Fitness218_012_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE07_PH02_Fitness218_013_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE07_PH02_Fitness218_013_1",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE07_PH02_Fitness218_013_2",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE07_PH02_Fitness218_014_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE07_PH02_Fitness218_015_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE07_PH02_Fitness218_015_1",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE07_PH02_Fitness218_015_2",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE07_PH02_Fitness218_016_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE07_PH02_Fitness218_017_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE07_PH02_Fitness218_017_1",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE07_PH02_Fitness218_017_2",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE07_PH02_Fitness218_018_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE07_PH02_Fitness218_035_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE07_PH02_Fitness218_036_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE07_PH02_Fitness218_037_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE07_PH02_Fitness218_038_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE07_PH02_Fitness218_039_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_W_TableRun_00",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_W_Chair_00_00",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_W_Chair_00_01",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_W_Chair_00_02",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_W_Chair_00_03",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_W_TableRun_01",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_W_Chair_01_00",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_W_Chair_01_01",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_W_Chair_01_02",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_W_Chair_01_03",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_W_TableRun_02",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_W_Chair_02_00",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_W_Chair_02_01",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_W_Chair_02_02",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_W_Chair_02_03",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_W_TableRun_03",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_W_Chair_03_00",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_W_Chair_03_01",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_W_Chair_03_02",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_W_Chair_03_03",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_W_TableRun_04",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_W_Chair_04_00",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_W_Chair_04_01",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_W_Chair_04_02",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_W_Chair_04_03",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_C_TableRun_00",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_C_Chair_00_00",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_C_Chair_00_01",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_C_Chair_00_02",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_C_Chair_00_03",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_C_Chair_00_04",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_C_Chair_00_05",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_C_TableRun_01",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_C_Chair_01_00",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_C_Chair_01_01",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_C_Chair_01_02",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_C_Chair_01_03",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_C_Chair_01_04",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_C_Chair_01_05",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_C_TableRun_02",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_C_Chair_02_00",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_C_Chair_02_01",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_C_Chair_02_02",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_C_Chair_02_03",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_C_Chair_02_04",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_C_Chair_02_05",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_C_TableRun_03",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_C_Chair_03_00",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_C_Chair_03_01",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_C_Chair_03_02",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_C_Chair_03_03",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_C_Chair_03_04",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_CLASS_C_Chair_03_05",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_COLLAB_W_Table_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_COLLAB_W_Chair_0_-1_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_COLLAB_W_Chair_0_-1_1",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_COLLAB_W_Chair_0_1_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_COLLAB_W_Chair_0_1_1",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_COLLAB_W_Table_1",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_COLLAB_W_Chair_1_-1_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_COLLAB_W_Chair_1_-1_1",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_COLLAB_W_Chair_1_1_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_COLLAB_W_Chair_1_1_1",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_COLLAB_W_Table_2",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_COLLAB_W_Chair_2_-1_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_COLLAB_W_Chair_2_-1_1",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_COLLAB_W_Chair_2_1_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_COLLAB_W_Chair_2_1_1",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_COLLAB_E_Table_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_COLLAB_E_Chair_0_-1_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_COLLAB_E_Chair_0_-1_1",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_COLLAB_E_Chair_0_1_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_COLLAB_E_Chair_0_1_1",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_COLLAB_E_Table_1",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_COLLAB_E_Chair_1_-1_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_COLLAB_E_Chair_1_-1_1",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_COLLAB_E_Chair_1_1_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_COLLAB_E_Chair_1_1_1",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_COLLAB_E_Table_2",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_COLLAB_E_Chair_2_-1_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_COLLAB_E_Chair_2_-1_1",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_COLLAB_E_Chair_2_1_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U_COLLAB_E_Chair_2_1_1",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U200_RoundTable4Chairs_00",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U200_RoundTable4Chairs_01",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U200_RoundTable4Chairs_02",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U200_RoundTable4Chairs_03",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U200_RoundTable4Chairs_04",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U200_RoundTable4Chairs_05",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U200_RoundTable4Chairs_06",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U200_RoundTable4Chairs_07",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE09_U200_RoundTable4Chairs_08",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE12_U202_Desk",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE12_U202_WorkChair",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE12_U202_Visitor_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE12_U202_Visitor_1",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE12_U202_MeetingTable",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE12_U202_MeetingChair_0_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE12_U202_MeetingChair_0_1",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE12_U202_MeetingChair_0_2",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE12_U202_MeetingChair_1_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE12_U202_MeetingChair_1_1",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE12_U202_MeetingChair_1_2",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE12_U202_MeetingEnd_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE12_U202_MeetingEnd_1",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE12_U202_Coffee",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE12_U202_Lounge0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE12_U202_Lounge1",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE12_U203_DeskMain",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE12_U203_DeskReturn",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE12_U203_WorkChair",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE12_U204_ConferenceTable",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE12_U204_Chair_0_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE12_U204_Chair_0_1",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE12_U204_Chair_0_2",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE12_U204_Chair_0_3",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE12_U204_Chair_0_4",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE12_U204_Chair_1_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE12_U204_Chair_1_1",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE12_U204_Chair_1_2",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE12_U204_Chair_1_3",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE12_U204_Chair_1_4",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE12_U204_EndChair_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE12_U204_EndChair_1",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "REV18_NorthToilet_NorthMain",
+    "kind": "structure"
+  },
+  {
+    "name": "REV18_NorthToilet_NorthNib",
+    "kind": "structure"
+  },
+  {
+    "name": "REV18_NorthToilet_NorthExtension",
+    "kind": "structure"
+  },
+  {
+    "name": "REV18_NorthToilet_EastMass",
+    "kind": "structure"
+  },
+  {
+    "name": "REV18_NorthToilet_SouthReturnEast",
+    "kind": "structure"
+  },
+  {
+    "name": "REV18_NorthToilet_SouthReturnWest",
+    "kind": "structure"
+  },
+  {
+    "name": "REV18_NorthToilet_LowerLeg",
+    "kind": "structure"
+  },
+  {
+    "name": "REV18_NorthToilet_FitnessJoint",
+    "kind": "structure"
+  },
+  {
+    "name": "RE18_UTN_Shower_1",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE18_UTS_Shower_1",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE19_U201_Lounge_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE19_U201_Lounge_1",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE19_U201_Lounge_2",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE19_U201_Lounge_3",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE19_U201_SideTable_0",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE19_U201_SideTable_1",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "REV24_SouthToilet_MN_top",
+    "kind": "structure"
+  },
+  {
+    "name": "REV24_SouthToilet_MN_lower",
+    "kind": "structure"
+  },
+  {
+    "name": "REV24_SouthToilet_SharedNorth",
+    "kind": "structure"
+  },
+  {
+    "name": "REV24_SouthToilet_NorthReturn",
+    "kind": "structure"
+  },
+  {
+    "name": "REV24_SouthToilet_NorthEastJamb",
+    "kind": "structure"
+  },
+  {
+    "name": "REV24_SouthToilet_East",
+    "kind": "structure"
+  },
+  {
+    "name": "REV24_SouthToilet_WestCrossedDivider",
+    "kind": "structure"
+  },
+  {
+    "name": "REV24_SouthToilet_ShowerSouthReturn",
+    "kind": "structure"
+  },
+  {
+    "name": "REV24_SouthToilet_SouthFacadeInfill",
+    "kind": "structure"
+  },
+  {
+    "name": "RE24_Fitness_WorkDesk",
+    "kind": "supported_furniture"
+  },
+  {
+    "name": "RE24_Fitness_WorkChair",
+    "kind": "supported_furniture"
+  }
+]

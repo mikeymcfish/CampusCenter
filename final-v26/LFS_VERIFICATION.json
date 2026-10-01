@@ -1,0 +1,7 @@
+{
+  "source_commit": "aec1ffb90fbb53ac7e7c167bb29b8a934f7755e4",
+  "vive_commit": "7f82634bb6fd3fcb4bcd0c623f774ae20a60a6a7",
+  "lfs_pointer_files_verified": 1059,
+  "lfs_file_bytes_including_duplicates": 648963410,
+  "status": "all final source LFS objects fetched from remote into empty store and SHA256 verified"
+}

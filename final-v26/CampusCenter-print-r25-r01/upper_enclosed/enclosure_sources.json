@@ -1,0 +1,587 @@
+[
+  {
+    "source": "Fitness_north_glass0",
+    "width_mm": 3.5,
+    "top_mm": 49.3
+  },
+  {
+    "source": "Fitness_north_glass1",
+    "width_mm": 3.5,
+    "top_mm": 49.3
+  },
+  {
+    "source": "Fitness_west_glass0",
+    "width_mm": 3.5,
+    "top_mm": 49.3
+  },
+  {
+    "source": "Fitness_south_glass2",
+    "width_mm": 3.5,
+    "top_mm": 49.3
+  },
+  {
+    "source": "Toilets_west_glass0",
+    "width_mm": 3.5,
+    "top_mm": 49.3
+  },
+  {
+    "source": "Toilets_west_glass1",
+    "width_mm": 3.5,
+    "top_mm": 49.3
+  },
+  {
+    "source": "Toilets_west_glass2",
+    "width_mm": 3.5,
+    "top_mm": 49.3
+  },
+  {
+    "source": "Toilets_west_glass3",
+    "width_mm": 3.5,
+    "top_mm": 49.3
+  },
+  {
+    "source": "West_upper_south_glass0",
+    "width_mm": 3.5,
+    "top_mm": 49.3
+  },
+  {
+    "source": "Upper_entry_storefront_glass0",
+    "width_mm": 3.5,
+    "top_mm": 49.3
+  },
+  {
+    "source": "Upper_entry_storefront_glass1",
+    "width_mm": 3.5,
+    "top_mm": 49.3
+  },
+  {
+    "source": "Classrooms_upper_south_glass0",
+    "width_mm": 3.5,
+    "top_mm": 49.3
+  },
+  {
+    "source": "Classrooms_upper_south_glass1",
+    "width_mm": 3.5,
+    "top_mm": 49.3
+  },
+  {
+    "source": "Classrooms_upper_south_glass2",
+    "width_mm": 3.5,
+    "top_mm": 49.3
+  },
+  {
+    "source": "Offices_upper_south_glass0",
+    "width_mm": 3.5,
+    "top_mm": 49.3
+  },
+  {
+    "source": "Offices_upper_south_glass1",
+    "width_mm": 3.5,
+    "top_mm": 49.3
+  },
+  {
+    "source": "Offices_upper_south_glass2",
+    "width_mm": 3.5,
+    "top_mm": 49.3
+  },
+  {
+    "source": "Upper_commons_north_glass0",
+    "width_mm": 3.5,
+    "top_mm": 49.3
+  },
+  {
+    "source": "Upper_commons_east_glass0",
+    "width_mm": 3.5,
+    "top_mm": 49.3
+  },
+  {
+    "source": "Terrace_access_wall_wall0",
+    "width_mm": 3.5,
+    "top_mm": 49.3
+  },
+  {
+    "source": "Terrace_access_wall_end",
+    "width_mm": 3.5,
+    "top_mm": 49.3
+  },
+  {
+    "source": "Gallery_upper_east_glass0",
+    "width_mm": 3.5,
+    "top_mm": 49.3
+  },
+  {
+    "source": "Gallery_upper_south_glass0",
+    "width_mm": 3.5,
+    "top_mm": 49.3
+  },
+  {
+    "source": "Terrace_guard_0_glass_0",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_0_glass_1",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_0_glass_2",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_1_glass_0",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_1_glass_1",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_1_glass_2",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_2_glass_0",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_2_glass_1",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_2_glass_2",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_2_glass_3",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_2_glass_4",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_2_glass_5",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_2_glass_6",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_2_glass_7",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_2_glass_8",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_2_glass_9",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_2_glass_10",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_2_glass_11",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_2_glass_12",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_2_glass_13",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_2_glass_14",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_2_glass_15",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_3_glass_0",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_3_glass_1",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_3_glass_2",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_3_glass_3",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_3_glass_4",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_4_glass_0",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_4_glass_1",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_4_glass_2",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_4_glass_3",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_4_glass_4",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_5_glass_0",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_5_glass_1",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_5_glass_2",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_5_glass_3",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_5_glass_4",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_6_glass_0",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_6_glass_1",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_6_glass_2",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_6_glass_3",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_6_glass_4",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_6_glass_5",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_6_glass_6",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_6_glass_7",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_6_glass_8",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_6_glass_9",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_6_glass_10",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_7_glass_0",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_7_glass_1",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_8_glass_0",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_8_glass_1",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_8_glass_2",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_8_glass_3",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_8_glass_4",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_8_glass_5",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_8_glass_6",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_8_glass_7",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_8_glass_8",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_8_glass_9",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_8_glass_10",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_8_glass_11",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_8_glass_12",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Terrace_guard_8_glass_13",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Bridge_guard_0_glass_0",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Bridge_guard_0_glass_1",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Bridge_guard_0_glass_2",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Bridge_guard_0_glass_3",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Bridge_guard_0_glass_4",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Bridge_guard_0_glass_5",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Bridge_guard_0_glass_6",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Bridge_guard_0_glass_7",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Bridge_guard_0_glass_8",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Bridge_guard_0_glass_9",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Bridge_guard_0_glass_10",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Bridge_guard_0_glass_11",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Bridge_guard_1_glass_0",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Bridge_guard_1_glass_1",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Bridge_guard_1_glass_2",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Bridge_guard_1_glass_3",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Bridge_guard_1_glass_4",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Bridge_guard_1_glass_5",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Bridge_guard_1_glass_6",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Bridge_guard_1_glass_7",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Bridge_guard_2_glass_0",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Bridge_guard_2_glass_1",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Bridge_guard_2_glass_2",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Bridge_guard_2_glass_3",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Bridge_guard_2_glass_4",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Bridge_guard_2_glass_5",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Bridge_guard_3_glass_0",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Bridge_guard_3_glass_1",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Bridge_guard_3_glass_2",
+    "width_mm": 3,
+    "top_mm": 16.8
+  },
+  {
+    "source": "Bridge_guard_3_glass_3",
+    "width_mm": 3,
+    "top_mm": 16.8
+  }
+]

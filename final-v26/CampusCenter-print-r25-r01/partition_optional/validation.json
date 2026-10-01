@@ -1,0 +1,56 @@
+{
+  "default": "open with folded bank installed as a loose optional accessory",
+  "source_sha256": "c39e7b686b56603f38500f1b22d6ebbb459362e66fa255da1a4b315e4a216721",
+  "states": [
+    {
+      "name": "Partition_Folded",
+      "source_glb_sha256": "2ec7193091f8e27c8970d0f2cbcdf22ac2739994ada292d05f938e5468e072c8",
+      "source_panels": 8,
+      "source_height_m": 2.7432,
+      "nominal_print_thickness_mm": 1.5,
+      "assembly_offset_mm": [
+        289.43206787109375,
+        103.52947235107422,
+        4.8
+      ],
+      "assembly_dimensions_mm": [
+        11.3153076171875,
+        21.25182342529297,
+        31.35085678100586
+      ],
+      "print_dimensions_mm": [
+        11.3153076171875,
+        21.25182342529297,
+        31.35085678100586
+      ],
+      "watertight": true,
+      "components": 1,
+      "installation": "Loose removable piece on floor; no added sockets, rails or pins. Exactly one state installed."
+    },
+    {
+      "name": "Partition_Closed",
+      "source_glb_sha256": "029061f80353c4b021d6f2e3668aee66b57b58b4ea834390c5d596c5a53b2f0b",
+      "source_panels": 8,
+      "source_height_m": 2.7432,
+      "nominal_print_thickness_mm": 1.5,
+      "assembly_offset_mm": [
+        298.79278564453125,
+        103.76878356933594,
+        4.8
+      ],
+      "assembly_dimensions_mm": [
+        1.5,
+        77.71688842773438,
+        31.35085678100586
+      ],
+      "print_dimensions_mm": [
+        31.35085678100586,
+        77.71688842773438,
+        1.500000000000002
+      ],
+      "watertight": true,
+      "components": 1,
+      "installation": "Loose removable piece on floor; no added sockets, rails or pins. Exactly one state installed."
+    }
+  ]
+}

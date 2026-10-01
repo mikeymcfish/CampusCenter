@@ -21,7 +21,7 @@ The finalized architectural prototype, artwork integration, furniture update and
 
 ## Download and run
 
-Download every numbered part of the application you want, plus `Reassemble-Downloads.ps1` and `SHA256SUMS.txt`, into one folder. Verify checksums with `Get-FileHash -Algorithm SHA256 <filename>`. Run `powershell -ExecutionPolicy Bypass -File .\Reassemble-Downloads.ps1` from that folder to reconstruct the ZIPs, then extract each ZIP completely. Keep the `Windows` directory and its contents together. Read `END_USER_NOTICE.txt` and launch the named command file. Do not run from inside a ZIP. The desktop and Vive packages are separate applications; do not combine their `Windows` folders.
+Download every numbered part of the application you want, plus `Reassemble-Downloads.ps1`, `ARCHIVE_MANIFEST.json` and `SHA256SUMS.txt`, into one folder. Verify checksums with `Get-FileHash -Algorithm SHA256 <filename>`. Run `powershell -ExecutionPolicy Bypass -File .\Reassemble-Downloads.ps1` from that folder to reconstruct the ZIPs, then extract each ZIP completely. Keep the `Windows` directory and its contents together. Read `END_USER_NOTICE.txt` and launch the named command file. Do not run from inside a ZIP. The desktop and Vive packages are separate applications; do not combine their `Windows` folders.
 
 The original final-map launchers and runtime bytes are preserved. The published packages omit debug symbols, machine-generated packaging lists, transient logs/caches, and the optional engine GPU dump inspection tool. None is required by the tested application. No recook, asset stripping from cooked containers, or model rebuild was performed.
 
@@ -38,6 +38,8 @@ To clone binary source files, install Git LFS, clone the appropriate release bra
 ## Redistribution constraints
 
 The full local editable Unreal projects include Epic/MetaHuman Crowd source assets and Fab/PN foliage and other downloaded content. Those raw assets and engine code/tools are not newly uploaded in this release. Required licensed baseline content must be acquired through the original authorized channels. See [Epic Content License Agreement, sections 3–4](https://www.unrealengine.com/eula/content), [Unreal Engine license](https://www.unrealengine.com/eula/unreal), and `THIRD_PARTY_SOURCES.md`. Public source sharing is not a grant of third-party redistribution rights. Manufacturer Formlabs CAD and raw reference collections are likewise outside this new source set; a public download is not an unrestricted redistribution license. Existing repository history is preserved.
+
+Print geometry regeneration prerequisites are retained under `final-v26/CampusCenter-print-r25-r01`, at the sibling location expected by the R02 generator. Install its pinned `requirements.txt` into a separate environment. The original R01 comparison script is historical evidence and additionally needs the prior R01 set; it is not needed to regenerate R02 geometry. STEP export additionally requires OCP/OpenCascade. Paths for Blender extraction and Unreal scripts must be configured for the local checkout. These scripts have been published without rerunning the model/build pipeline.
 
 The cooked runtime applications retain necessary licensed content as part of the application. The separate end-user notice disclaims warranties and liabilities for Epic and other licensed content and grants no right to extract and redistribute it. No blanket open-source license is introduced for student artwork, school plans or third-party assets.
 

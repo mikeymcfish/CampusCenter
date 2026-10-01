@@ -1,0 +1,41 @@
+id,source,kind,cut_width_mm,cut_height_mm,acrylic_nominal_mm,slot_width_mm
+G01,Athletics_north_glass0,fixed glazing,35.083609444754465,26.400000272478373,1.5875,1.85
+G02,Athletics_north_glass1,fixed glazing,21.10128348214286,26.400000272478373,1.5875,1.85
+G03,Athletics_north_glass2,fixed glazing,32.65188162667409,26.400000272478373,1.5875,1.85
+G04,North_corridor_entry_door0_leaf1_glass,glazed door light,17.453691755022334,22.314287022181922,1.5875,1.85
+G05,North_corridor_entry_door1_leaf1_glass,glazed door light,16.237849644252236,22.314287022181922,1.5875,1.85
+G06,West_entry_storefront_glass0,fixed glazing,16.845781598772334,43.368,1.5875,1.85
+G07,West_entry_storefront_door1_leaf1_glass,glazed door light,10.158573695591516,22.314287022181922,1.5875,1.85
+G08,West_entry_storefront_glass2,fixed glazing,4.1770751953125,43.368,1.5875,1.85
+G09,West_entry_storefront_door3_leaf1_glass,glazed door light,18.6695556640625,22.314287022181922,1.5875,1.85
+G10,West_entry_storefront_glass4,fixed glazing,7.726845877511181,43.368,1.5875,1.85
+G11,StairB_north_door0_leaf1_glass,glazed door light,18.6695556640625,22.314287022181922,1.5875,1.85
+G12,Gym_south_door0_leaf1_glass,glazed door light,16.237849644252208,22.314287022181922,1.5875,1.85
+G13,Classrooms_north_door0_leaf1_glass,glazed door light,8.942709786551292,22.314287022181922,1.5875,1.85
+G14,Classrooms_north_door1_leaf1_glass,glazed door light,8.94270978655135,22.314287022181922,1.5875,1.85
+G15,Classrooms_south_glass0,fixed glazing,16.878535679408458,26.400000272478373,1.5875,1.85
+G16,Classrooms_south_glass0,fixed glazing,6.582582310267889,26.400000272478373,1.5875,1.85
+G17,Classrooms_south_glass1,fixed glazing,33.25983537946427,26.400000272478373,1.5875,1.85
+G18,Lab_west_door0_leaf1_glass,glazed door light,10.158562796456481,22.314287022181922,1.5875,1.85
+G19,Lab_west_door1_leaf1_glass,glazed door light,19.88541548592704,22.314287022181922,1.5875,1.85
+G20,Lab_north_door0_leaf1_glass,glazed door light,8.94270978655135,22.314287022181922,1.5875,1.85
+G21,Lab_north_glass1,fixed glazing,83.6476418631417,43.368,1.5875,1.85
+G22,Lab_north_glass1,fixed glazing,4.719611031668592,43.368,1.5875,1.85
+G23,Lab_north_door2_leaf1_glass,glazed door light,8.942707402365501,22.314287022181922,1.5875,1.85
+G24,Lab_south_glass0,fixed glazing,31.436050415039062,26.400000272478373,1.5875,1.85
+G25,Lab_south_glass1,fixed glazing,22.854822431291836,26.400000272478373,1.5875,1.85
+G26,Lab_south_glass1,fixed glazing,12.052580152239104,26.400000272478373,1.5875,1.85
+G27,Commons_north_glass0,fixed glazing,180.98637798854296,43.368,1.5875,1.85
+G28,Commons_east_glass0,fixed glazing,89.10231672014507,43.368,1.5875,1.85
+G29,Commons_east_glass0,fixed glazing,89.27613612583707,43.368,1.5875,1.85
+G30,Vestibule_internal_wall0,fixed glazing,16.237838745117188,43.368,1.5875,1.85
+G31,Vestibule_internal_door0_leaf1_glass,glazed door light,19.885419573102695,22.314287022181922,1.5875,1.85
+G32,Vestibule_internal_end,fixed glazing,15.021985735212043,43.368,1.5875,1.85
+G33,Vestibule_north_glass0,fixed glazing,23.532989501953125,43.368,1.5875,1.85
+G34,Vestibule_south_glass0,fixed glazing,23.532989501953125,43.368,1.5875,1.85
+G35,Vestibule_external_wall0,fixed glazing,16.237838745117188,43.368,1.5875,1.85
+G36,Vestibule_external_door0_leaf1_glass,glazed door light,19.885419573102695,22.314287022181922,1.5875,1.85
+G37,Vestibule_external_end,fixed glazing,15.021985735212043,43.368,1.5875,1.85
+G38,Reception_admissions_east_glass0,fixed glazing,97.70022474016463,43.368,1.5875,1.85
+G39,Gallery_south_glass1,fixed glazing,109.85879026140492,43.368,1.5875,1.85
+G40,Gallery_south_glass2,fixed glazing,40.55497523716519,43.368,1.5875,1.85

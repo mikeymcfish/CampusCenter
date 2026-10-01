@@ -1,0 +1,11 @@
+{
+  "reason": "Remove one collinear zero-area triangle at coplanar glazing union",
+  "coordinate_quantization_mm": 0.001,
+  "simplification_tolerance_mm": 0.005,
+  "extent_change_mm": [
+    -0.00030517578125,
+    -3.4332275390625e-05,
+    0.0
+  ],
+  "zero_area_faces_after": 0
+}

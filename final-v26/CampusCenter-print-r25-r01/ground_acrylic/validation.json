@@ -1,0 +1,230 @@
+{
+  "watertight": true,
+  "winding_consistent": true,
+  "components": 1,
+  "elevated_down_faces": 0,
+  "dimensions_mm": [
+    739.2732543945312,
+    558.0,
+    53.56800079345703
+  ],
+  "bounds_mm": [
+    [
+      17.5,
+      8.0,
+      0.0
+    ],
+    [
+      756.7732543945312,
+      566.0,
+      53.56800079345703
+    ]
+  ],
+  "volume_mm3": 2806810.2840086683,
+  "triangles": 37198,
+  "source_sha256": "c39e7b686b56603f38500f1b22d6ebbb459362e66fa255da1a4b315e4a216721",
+  "scale": "1:87.5",
+  "units": "mm",
+  "split_x_mm": [
+    17.5,
+    263.9244181315104,
+    510.3488362630208,
+    756.7732543945312
+  ],
+  "split_y_mm": [
+    8.0,
+    287.0,
+    566.0
+  ],
+  "tiles": [
+    {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        246.42440795898438,
+        192.79461669921875,
+        53.56800079345703
+      ],
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          246.42440795898438,
+          192.79461669921875,
+          53.56800079345703
+        ]
+      ],
+      "volume_mm3": 628918.4771544468,
+      "triangles": 6692,
+      "name": "Ground_Acrylic_A1",
+      "assembly_offset_mm": [
+        17.5,
+        94.20538330078125,
+        0.0
+      ]
+    },
+    {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        246.4244384765625,
+        279.0,
+        53.56800079345703
+      ],
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          246.4244384765625,
+          279.0,
+          53.56800079345703
+        ]
+      ],
+      "volume_mm3": 506609.75886574405,
+      "triangles": 6126,
+      "name": "Ground_Acrylic_A2",
+      "assembly_offset_mm": [
+        263.9244079589844,
+        8.0,
+        0.0
+      ]
+    },
+    {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        246.42440795898438,
+        265.74599838256836,
+        53.56800079345703
+      ],
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          246.42440795898438,
+          265.74599838256836,
+          53.56800079345703
+        ]
+      ],
+      "volume_mm3": 519135.882789189,
+      "triangles": 12694,
+      "name": "Ground_Acrylic_A3",
+      "assembly_offset_mm": [
+        510.3488464355469,
+        21.25400161743164,
+        0.0
+      ]
+    },
+    {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        246.42440795898438,
+        279.0,
+        53.56800079345703
+      ],
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          246.42440795898438,
+          279.0,
+          53.56800079345703
+        ]
+      ],
+      "volume_mm3": 552911.3409483106,
+      "triangles": 4856,
+      "name": "Ground_Acrylic_B1",
+      "assembly_offset_mm": [
+        17.5,
+        287.0,
+        0.0
+      ]
+    },
+    {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        246.4244384765625,
+        279.0,
+        53.56800079345703
+      ],
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          246.4244384765625,
+          279.0,
+          53.56800079345703
+        ]
+      ],
+      "volume_mm3": 370328.1549640401,
+      "triangles": 28,
+      "name": "Ground_Acrylic_B2",
+      "assembly_offset_mm": [
+        263.9244079589844,
+        287.0,
+        0.0
+      ]
+    },
+    {
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "elevated_down_faces": 0,
+      "dimensions_mm": [
+        217.24380493164062,
+        279.0,
+        53.56800079345703
+      ],
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          217.24380493164062,
+          279.0,
+          53.56800079345703
+        ]
+      ],
+      "volume_mm3": 228906.68932654176,
+      "triangles": 7484,
+      "name": "Ground_Acrylic_B3",
+      "assembly_offset_mm": [
+        510.3488464355469,
+        287.0,
+        0.0
+      ]
+    }
+  ],
+  "tile_volume_relative_error": 7.139636105661639e-09,
+  "floor_thickness_mm": 4.8,
+  "physical_test": false
+}
