@@ -31,9 +31,9 @@ For Vive, install the appropriate SteamVR/OpenXR runtime and use the included fi
 
 Open the `.blend` files in Blender. Print exports are available directly in the print ZIP; read `ASSEMBLY_AND_LIMITS.txt` and the delivery/changed-piece manifests before slicing.
 
-Unreal project descriptors specify engine **5.8**. Install that engine and the required Epic plugins separately. The published Unreal sources are overlays containing final project-owned maps, furniture/art/support assets, configuration, and the CampusCrowdFix project plugin. They are **not self-contained editor projects**. Restore the appropriately licensed original baseline dependencies into a separate local desktop/Vive project, then overlay the matching `final-v26/unreal/<desktop|vive>` folder. Keep desktop and Vive editor projects separate. Select the named final map explicitly; the preserved configuration may still reference inherited baseline maps. Check shared patch dependency manifests and source inventories before applying scripts. Scripts retain original project paths and require local path configuration; do not blindly run them on the only copy of a project.
+Unreal project descriptors specify engine **5.8**. Install that engine and the required Epic plugins separately. The published Unreal sources are overlays containing final project-owned maps, furniture/art/support assets, configuration, and the CampusCrowdFix project plugin source. Compile that plugin locally through Unreal before opening; editor-linked plugin binaries are not included. They are **not self-contained editor projects**. Restore the appropriately licensed original baseline dependencies into a separate local desktop/Vive project, then overlay the matching `final-v26/unreal/<desktop|vive>` folder. Keep desktop and Vive editor projects separate. Select the named final map explicitly; the preserved configuration may still reference inherited baseline maps. Check shared patch dependency manifests and source inventories before applying scripts. Scripts retain original project paths and require local path configuration; do not blindly run them on the only copy of a project.
 
-To clone binary source files, install Git LFS, clone the appropriate release branch and run `git lfs pull`. Verify the resulting files against `SOURCE_MANIFEST.json`. Release source ZIPs contain actual source bytes, independent of LFS.
+To clone binary source files, install Git LFS, clone the appropriate release branch and run `git lfs pull`. Verify binary files against `SOURCE_MANIFEST.json`; Git may normalize line endings in text files. Release source ZIPs contain actual source bytes and preserve text bytes, independent of LFS.
 
 ## Redistribution constraints
 
@@ -47,4 +47,4 @@ Headset/controllers have not been tested. Physical print slicing, tolerances, as
 
 Verified final Vive map SHA-256: `66bb8a995287aec326302d992b8dada72202477584ac96a7a68f35aa874c037c`.
 
-Expected final fitness patch hash supplied with the handoff: `27f4cfb83f647a28ea322aaa26ecac1a0ea5c7327a0c36af095798af722c3678`. Its matching file is identified in the publication verification record; consult per-file manifests for the entire patch.
+Verified final fitness R02 `manifest.json` SHA-256: `27f4cfb83f647a28ea322aaa26ecac1a0ea5c7327a0c36af095798af722c3678`. Consult per-file manifests for the entire patch.

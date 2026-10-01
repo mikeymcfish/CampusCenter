@@ -1101,8 +1101,8 @@
   },
   {
     "path": "README.md",
-    "bytes": 6757,
-    "sha256": "5e09a386fc9bc08f7f07a41b97037525d25419df72a7e76b13b9c4f65605d575"
+    "bytes": 6903,
+    "sha256": "95503d2096d68441d2d73787ab784171859bb7a5bbfe9450c7db59e1f572b0df"
   },
   {
     "path": "reviews/CampusCenter_v26_Furniture_Art_Review.pdf",
@@ -5615,16 +5615,6 @@
     "sha256": "5535d2c636f94e75288ff38d63644e51cda05cbdeb08a34658c1ce3b1a514578"
   },
   {
-    "path": "unreal/desktop/Plugins/CampusCrowdFix/Binaries/Win64/UnrealEditor-CampusCrowdFix.dll",
-    "bytes": 159232,
-    "sha256": "e052c5a8b693ff5d4a16d7a5fd5cf147e02e4c2ea8e8907a6ce4f9f1e6f5eeb4"
-  },
-  {
-    "path": "unreal/desktop/Plugins/CampusCrowdFix/Binaries/Win64/UnrealEditor.modules",
-    "bytes": 106,
-    "sha256": "8460d3244d926e8ed342a47eb9a66ccd5a9ab87dff910384347cac3fc2af072f"
-  },
-  {
     "path": "unreal/desktop/Plugins/CampusCrowdFix/CampusCrowdFix.uplugin",
     "bytes": 520,
     "sha256": "e0c472e96c8d526dd91e7d37aaa44215b3ae6553b1f0f16a48612bb24da36141"
@@ -6318,16 +6308,6 @@
     "path": "unreal/vive/Content/Campus/Maps/CampusCenter_Vive_FA26_R04_Support.umap",
     "bytes": 27381479,
     "sha256": "66bb8a995287aec326302d992b8dada72202477584ac96a7a68f35aa874c037c"
-  },
-  {
-    "path": "unreal/vive/Plugins/CampusCrowdFix/Binaries/Win64/UnrealEditor-CampusCrowdFix.dll",
-    "bytes": 159232,
-    "sha256": "e052c5a8b693ff5d4a16d7a5fd5cf147e02e4c2ea8e8907a6ce4f9f1e6f5eeb4"
-  },
-  {
-    "path": "unreal/vive/Plugins/CampusCrowdFix/Binaries/Win64/UnrealEditor.modules",
-    "bytes": 106,
-    "sha256": "8460d3244d926e8ed342a47eb9a66ccd5a9ab87dff910384347cac3fc2af072f"
   },
   {
     "path": "unreal/vive/Plugins/CampusCrowdFix/CampusCrowdFix.uplugin",
