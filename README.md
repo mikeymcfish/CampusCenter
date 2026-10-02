@@ -1,5 +1,16 @@
 # King School Campus Center
 
+## Run the current R27 R13 Windows walkthrough
+
+If you use GitHub Desktop, select **main**, choose **Fetch origin**, then **Pull origin**. Choose **Repository > Show in Explorer** and double-click **Start_CampusCenter_Vive.cmd** for Vive, or **Start_CampusCenter_Desktop.cmd** for desktop. On first use the launcher downloads the matching public release parts automatically, checks their pinned SHA-256 hashes, joins/extracts the ZIP, verifies every game file, then starts the tested build. Wait for setup to finish. Subsequent starts reuse the verified runtime. A failed/interrupted transfer can be retried by running the launcher again; incomplete/corrupted content will not launch. Internet access and roughly **10 GB free for Vive** or **20 GB for desktop** are needed for parts, joined ZIP and extracted files.
+
+GitHub Desktop downloads **editable source and these setup launchers**; it does not put the packaged game EXE beside the source CMD files. The launchers obtain that EXE from the immutable [R27 R13 release](https://github.com/mikeymcfish/CampusCenter/releases/tag/campuscenter-r27-r13-review-20261002). No GitHub token or Unreal editor is needed to run the packaged build. Runtime files live under the gitignored `.campuscenter-runtime` directory inside this checkout. Paths with spaces work; keep the root CMDs with the repository's `tools` folder. To download/verify without launching, run `Start_CampusCenter_Vive.cmd -PrepareOnly`; `-VerifyOnly` checks an existing runtime without network downloads.
+
+For Vive, install/start SteamVR and select it as the active OpenXR runtime yourself, then connect your headset/controllers. The launcher uses the exact tested R13 map, VR/plugin flags, 50% screen percentage and FPS display; it does not change OS/runtime/security settings. Hold either trigger to move forward in the headset's horizontal facing direction. Physical Vive/controller/stereo/comfort/performance acceptance remains untested. Inherited Research113 doorway and Fitness aisle diagnostic limitations remain; physical print slicing/fit is untested. The six integrated event graphics are retained with disclosed, **unverified redistribution rights**; user approval is not licensing evidence. Read [R27 R13 versions, source overlays, provenance and limitations](README_R27_R13.md).
+
+The combined editable R27 overlay is under `r27-r13/desktop` and `r27-r13/vive`; baseline editing instructions and licensed dependency requirements are in that release README. The separate `release/vive-r27-r13-20261002` branch preserves the Vive project lineage. Existing source, prior release branches and release assets remain available below.
+
+
 **Current Unreal walkthrough (September 27, 2026):** [latest editable scene and screenshots](unreal/README.md). Updated landscape, imported assets, animated students, tabletop props, larger trophy decals, and gym bleachers. Unreal Engine 5.8.2; run `git lfs pull` before opening.
 
 **Latest ground-floor print and projection package:** [Acrylic slots, 31 room references, and interactive Projection Studio v06](printing/acrylic_projection_v06/README.md). Includes six print pieces, 1/16-inch acrylic templates, H3 prompts, alignment and geometry-based animation examples.

@@ -1,0 +1,163 @@
+[CmdletBinding()]
+param(
+    [ValidateSet('Vive', 'Desktop')][string]$Build = 'Vive',
+    [switch]$PrepareOnly,
+    [switch]$VerifyOnly
+)
+$ErrorActionPreference = 'Stop'
+Set-StrictMode -Version Latest
+$ProgressPreference = 'SilentlyContinue'
+[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
+Add-Type -AssemblyName System.IO.Compression.FileSystem
+$repoRoot = [IO.Path]::GetFullPath((Join-Path $PSScriptRoot '..'))
+$pins = Get-Content -LiteralPath (Join-Path $PSScriptRoot 'CampusCenter-R27-R13-downloads.json') -Raw | ConvertFrom-Json
+$spec = $pins.builds.$Build
+$buildRoot = Join-Path $repoRoot ('.campuscenter-runtime\' + $pins.tag + '\' + $Build)
+$cacheRoot = Join-Path $buildRoot 'downloads'
+$expanded = Join-Path $buildRoot 'expanded'
+$staging = Join-Path $buildRoot 'expanded.partial'
+$lock = $null
+
+function Hash-File([string]$Path) {
+    $stream = [IO.File]::OpenRead($Path)
+    $algorithm = [Security.Cryptography.SHA256]::Create()
+    try { return ([BitConverter]::ToString($algorithm.ComputeHash($stream))).Replace('-', '').ToLowerInvariant() }
+    finally { $stream.Dispose(); $algorithm.Dispose() }
+}
+function Matches-Pin([string]$Path, $Pin) {
+    return ((Test-Path -LiteralPath $Path -PathType Leaf) -and (Get-Item -LiteralPath $Path).Length -eq [long]$Pin.bytes -and (Hash-File $Path) -eq $Pin.sha256)
+}
+function Preserve-Invalid([string]$Path) {
+    # Only this script's exact cache/staging paths are passed here. Never delete user files.
+    if (Test-Path -LiteralPath $Path) {
+        $saved = $Path + '.invalid.' + [Guid]::NewGuid().ToString('N')
+        if ($Path.StartsWith(([IO.Path]::GetFullPath($staging).TrimEnd('\') + '\'), [StringComparison]::OrdinalIgnoreCase)) {
+            $quarantine = Join-Path $buildRoot 'invalid-staging-files'
+            New-Item -ItemType Directory -Path $quarantine -Force | Out-Null
+            $saved = Join-Path $quarantine ([Guid]::NewGuid().ToString('N') + '-' + [IO.Path]::GetFileName($Path))
+        }
+        Move-Item -LiteralPath $Path -Destination $saved
+        Write-Host "Preserved invalid cache at $saved"
+    }
+}
+function Get-Pinned($Pin) {
+    $destination = Join-Path $cacheRoot $Pin.name
+    if (Matches-Pin $destination $Pin) { Write-Host "Verified cached $($Pin.name)"; return $destination }
+    if ($VerifyOnly) { throw "Missing or invalid download: $($Pin.name). Run normally to repair the local runtime." }
+    Preserve-Invalid $destination
+    $partial = $destination + '.partial'
+    if (Matches-Pin $partial $Pin) { Move-Item -LiteralPath $partial -Destination $destination; return $destination }
+    if ((Test-Path -LiteralPath $partial) -and (Get-Item -LiteralPath $partial).Length -ge [long]$Pin.bytes) { Preserve-Invalid $partial }
+    for ($attempt = 1; $attempt -le 3; $attempt++) {
+        $response = $null; $inputStream = $null; $outputStream = $null
+        try {
+            if ((Test-Path -LiteralPath $partial) -and (Get-Item -LiteralPath $partial).Length -ge [long]$Pin.bytes) { Preserve-Invalid $partial }
+            $offset = 0L
+            if (Test-Path -LiteralPath $partial) { $offset = (Get-Item -LiteralPath $partial).Length }
+            Write-Host "Downloading $($Pin.name) (attempt $attempt; resume at $offset bytes)..."
+            $request = [Net.HttpWebRequest]::Create($Pin.url)
+            $request.UserAgent = 'CampusCenter-R27-R13-verified-setup'
+            $request.Timeout = 60000; $request.ReadWriteTimeout = 120000
+            if ($offset -gt 0) { $request.AddRange($offset) }
+            $response = $request.GetResponse()
+            $mode = [IO.FileMode]::Create
+            if ($offset -gt 0 -and [int]$response.StatusCode -eq 206) {
+                if ($response.Headers['Content-Range'] -notmatch ('^bytes ' + $offset + '-\d+/' + $Pin.bytes + '$')) { throw 'Unexpected download range response.' }
+                $mode = [IO.FileMode]::Append
+            } elseif ([int]$response.StatusCode -eq 200) { $offset = 0L }
+            else { throw "Unexpected HTTP status $($response.StatusCode)" }
+            $inputStream = $response.GetResponseStream()
+            $outputStream = [IO.File]::Open($partial, $mode, [IO.FileAccess]::Write, [IO.FileShare]::None)
+            $buffer = New-Object byte[] (1024 * 1024)
+            $total = $offset
+            $nextProgress = $total + 64MB
+            while (($count = $inputStream.Read($buffer, 0, $buffer.Length)) -gt 0) {
+                $total += $count
+                if ($total -gt [long]$Pin.bytes) { throw 'Download exceeded its pinned size.' }
+                $outputStream.Write($buffer, 0, $count)
+                if ($total -ge $nextProgress) { Write-Host "$($Pin.name): $total / $($Pin.bytes) bytes"; $nextProgress = $total + 64MB }
+            }
+            $outputStream.Dispose(); $outputStream = $null
+            if (-not (Matches-Pin $partial $Pin)) { throw "SHA-256 or size mismatch: $($Pin.name)" }
+            Move-Item -LiteralPath $partial -Destination $destination
+            Write-Host "Downloaded and verified $($Pin.name)"
+            return $destination
+        } catch {
+            Write-Warning $_.Exception.Message
+            if ($attempt -eq 3) { throw "Could not verify $($Pin.name). Rerun to resume; no incomplete game will launch." }
+        } finally {
+            if ($null -ne $outputStream) { $outputStream.Dispose() }
+            if ($null -ne $inputStream) { $inputStream.Dispose() }
+            if ($null -ne $response) { $response.Dispose() }
+        }
+    }
+}
+function Runtime-Matches([string]$Root, $Manifest) {
+    if (-not (Test-Path -LiteralPath $Root -PathType Container)) { return $false }
+    foreach ($file in $Manifest) {
+        if (-not (Matches-Pin (Join-Path $Root $file.path) $file)) { return $false }
+    }
+    $actual = @(Get-ChildItem -LiteralPath $Root -Recurse -File)
+    return $actual.Count -eq @($Manifest).Count
+}
+try {
+    New-Item -ItemType Directory -Path $cacheRoot -Force | Out-Null
+    $lock = [IO.File]::Open((Join-Path $buildRoot 'setup.lock'), [IO.FileMode]::OpenOrCreate, [IO.FileAccess]::ReadWrite, [IO.FileShare]::None)
+    $manifestPath = Get-Pinned $spec.manifest
+    $manifest = Get-Content -LiteralPath $manifestPath -Raw | ConvertFrom-Json
+    if (-not (Runtime-Matches $expanded $manifest)) {
+        if ($VerifyOnly) { throw 'The extracted runtime is missing or invalid. Run normally to repair it.' }
+        $parts = @($spec.parts | ForEach-Object { Get-Pinned $_ })
+        $archive = Join-Path $cacheRoot $spec.archive.name
+        if (-not (Matches-Pin $archive $spec.archive)) {
+            Preserve-Invalid $archive
+            $joining = $archive + '.partial'
+            $joinedStream = [IO.File]::Create($joining)
+            try {
+                foreach ($part in $parts) {
+                    $partStream = [IO.File]::OpenRead($part)
+                    try { $partStream.CopyTo($joinedStream) } finally { $partStream.Dispose() }
+                }
+            } finally { $joinedStream.Dispose() }
+            if (-not (Matches-Pin $joining $spec.archive)) { throw 'Joined archive hash mismatch; extraction and launch stopped.' }
+            Move-Item -LiteralPath $joining -Destination $archive
+        }
+        Write-Host 'Archive verified. Extracting and verifying all game files...'
+        New-Item -ItemType Directory -Path $staging -Force | Out-Null
+        $zip = [IO.Compression.ZipFile]::OpenRead($archive)
+        try {
+            $expected = @{}
+            foreach ($file in $manifest) { $expected.Add($file.path, $file) }
+            if ($zip.Entries.Count -ne $expected.Count) { throw 'Archive entry count differs from the runtime manifest.' }
+            $prefix = [IO.Path]::GetFullPath($staging).TrimEnd('\') + '\'
+            $seen = @{}
+            foreach ($entry in $zip.Entries) {
+                if (-not $expected.ContainsKey($entry.FullName) -or $seen.ContainsKey($entry.FullName)) { throw "Unexpected or duplicate archive entry: $($entry.FullName)" }
+                $seen.Add($entry.FullName, $true)
+                $target = [IO.Path]::GetFullPath((Join-Path $staging $entry.FullName))
+                if (-not $target.StartsWith($prefix, [StringComparison]::OrdinalIgnoreCase)) { throw 'Unsafe archive path.' }
+                if (Matches-Pin $target $expected[$entry.FullName]) { continue }
+                Preserve-Invalid $target
+                New-Item -ItemType Directory -Path ([IO.Path]::GetDirectoryName($target)) -Force | Out-Null
+                $entryStream = $entry.Open(); $fileStream = [IO.File]::Create($target)
+                try { $entryStream.CopyTo($fileStream) } finally { $entryStream.Dispose(); $fileStream.Dispose() }
+                if (-not (Matches-Pin $target $expected[$entry.FullName])) { throw "Extracted file hash mismatch: $($entry.FullName)" }
+            }
+        } finally { $zip.Dispose() }
+        if (-not (Runtime-Matches $staging $manifest)) { throw 'Runtime verification failed; launch stopped.' }
+        Preserve-Invalid $expanded
+        Move-Item -LiteralPath $staging -Destination $expanded
+    }
+    $executable = Join-Path $expanded $spec.executable
+    if (-not (Test-Path -LiteralPath $executable -PathType Leaf)) { throw "Verified executable missing: $executable" }
+    Write-Host "Verified $Build R27 R13 runtime: $executable"
+    if ($PrepareOnly -or $VerifyOnly) { Write-Host 'Preparation/verification complete; game not launched.'; exit 0 }
+    if ($Build -eq 'Vive') { Write-Host 'Use SteamVR as your active OpenXR runtime and connect the headset/controllers. This script does not change runtime or security settings.' }
+    $start = @{ FilePath = $executable; WorkingDirectory = [IO.Path]::GetDirectoryName($executable) }
+    if ($spec.arguments.Count -gt 0) { $start.ArgumentList = @($spec.arguments) }
+    Start-Process @start | Out-Null
+    Write-Host 'CampusCenter started.'
+} catch {
+    Write-Error -ErrorAction Continue $_.Exception.Message
+    exit 1
+} finally { if ($null -ne $lock) { $lock.Dispose() } }

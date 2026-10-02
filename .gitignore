@@ -7,3 +7,6 @@ tmp/
 qa/
 .DS_Store
 Thumbs.db
+
+# Verified release downloads and extracted runtimes (never commit cooked builds)
+/.campuscenter-runtime/
