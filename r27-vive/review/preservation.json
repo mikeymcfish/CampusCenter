@@ -1,0 +1,110 @@
+{
+  "baseline_actors_accounted": 2917,
+  "actors": 2917,
+  "unscoped_actor_failures": [],
+  "scoped_changes": [
+    {
+      "label": "PS08_Bleacher_aisle_step_0",
+      "field": "hidden"
+    },
+    {
+      "label": "PS08_Bleacher_aisle_step_0",
+      "field": "actor_collision"
+    },
+    {
+      "label": "PS08_Bleacher_aisle_step_0",
+      "field": "components"
+    },
+    {
+      "label": "PS08_Bleacher_aisle_nosing_0",
+      "field": "hidden"
+    },
+    {
+      "label": "PS08_Bleacher_aisle_nosing_0",
+      "field": "actor_collision"
+    },
+    {
+      "label": "PS08_Bleacher_aisle_nosing_0",
+      "field": "components"
+    },
+    {
+      "label": "PS08_Bleacher_aisle_step_1",
+      "field": "hidden"
+    },
+    {
+      "label": "PS08_Bleacher_aisle_step_1",
+      "field": "actor_collision"
+    },
+    {
+      "label": "PS08_Bleacher_aisle_step_1",
+      "field": "components"
+    },
+    {
+      "label": "PS08_Bleacher_aisle_nosing_1",
+      "field": "hidden"
+    },
+    {
+      "label": "PS08_Bleacher_aisle_nosing_1",
+      "field": "actor_collision"
+    },
+    {
+      "label": "PS08_Bleacher_aisle_nosing_1",
+      "field": "components"
+    },
+    {
+      "label": "PS08_Bleacher_aisle_step_2",
+      "field": "hidden"
+    },
+    {
+      "label": "PS08_Bleacher_aisle_step_2",
+      "field": "actor_collision"
+    },
+    {
+      "label": "PS08_Bleacher_aisle_step_2",
+      "field": "components"
+    },
+    {
+      "label": "PS08_Bleacher_aisle_nosing_2",
+      "field": "hidden"
+    },
+    {
+      "label": "PS08_Bleacher_aisle_nosing_2",
+      "field": "actor_collision"
+    },
+    {
+      "label": "PS08_Bleacher_aisle_nosing_2",
+      "field": "components"
+    },
+    {
+      "label": "PS08_Bleacher_aisle_step_3",
+      "field": "hidden"
+    },
+    {
+      "label": "PS08_Bleacher_aisle_step_3",
+      "field": "actor_collision"
+    },
+    {
+      "label": "PS08_Bleacher_aisle_step_3",
+      "field": "components"
+    },
+    {
+      "label": "PS08_Bleacher_aisle_nosing_3",
+      "field": "hidden"
+    },
+    {
+      "label": "PS08_Bleacher_aisle_nosing_3",
+      "field": "actor_collision"
+    },
+    {
+      "label": "PS08_Bleacher_aisle_nosing_3",
+      "field": "components"
+    }
+  ],
+  "old_dependency_changes": [],
+  "control_failures": [],
+  "config_failures": [],
+  "retained225_failures": [],
+  "all_eight_props_hidden_noncolliding": true,
+  "fitness_decal_depths_verified": 8,
+  "R08_sha256": "18ee75d6def7814e14bc17dcb1498baffc6692793b9db51736f6fb3e22a25a2d"
+}

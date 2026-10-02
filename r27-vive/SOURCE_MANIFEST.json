@@ -1,0 +1,1977 @@
+[
+  {
+    "path": "AUTHENTIC_POSTER_PROVENANCE.json",
+    "bytes": 3776,
+    "sha256": "a29569996bd2833b7db69e338c85500f23453b65bcf5e977f7454e0dd5000daf"
+  },
+  {
+    "path": "Launch_CampusCenter_Vive_R27_R13.cmd",
+    "bytes": 266,
+    "sha256": "a40864ee55a08f8692bc590d2b69962d46df2d6d76e6f0302e26097594997412"
+  },
+  {
+    "path": "POSTER_ATTRIBUTION_DETAILS.json",
+    "bytes": 7249,
+    "sha256": "c74a7744b28b3aac1b75485d63f9a81ea04fda95b537d8d298040dd039acb6a2"
+  },
+  {
+    "path": "project/CampusCenter.uproject",
+    "bytes": 813,
+    "sha256": "226c7da1f7110c83d7e3f00707bbbbd55230bb7e77827b08453134456529b7f0"
+  },
+  {
+    "path": "project/Config/DefaultEditor.ini",
+    "bytes": 58483,
+    "sha256": "733f7f71b1c4264b5e61886f26a985710cf0690fd22d6d7cd611ce149bfe6c8f"
+  },
+  {
+    "path": "project/Config/DefaultEngine.ini",
+    "bytes": 2244,
+    "sha256": "952434373b7cf7569584a383468b9e08a138400db01a79af0042a89c6bcd2a42"
+  },
+  {
+    "path": "project/Config/DefaultGame.ini",
+    "bytes": 1114,
+    "sha256": "73eecad2fe296af95b2c60b1adfaaf691ea5f94bfaa58a7f64a25f613515e8e2"
+  },
+  {
+    "path": "project/Config/DefaultInput.ini",
+    "bytes": 14187,
+    "sha256": "6f9e1db1504ec3f365bbd808f2976a0342cde1ad6bfe44589bf33c3db14291cc"
+  },
+  {
+    "path": "project/Content/Campus/CommonsCF27R01/RuntimeFinal/CF27_RE11_Commons_LowerCurvedBank.uasset",
+    "bytes": 106163,
+    "sha256": "0959b9461681386946537933a9cb539fa7a7bf7d34756499ed96eb5cd9f6a3df"
+  },
+  {
+    "path": "project/Content/Campus/CommonsCF27R01/RuntimeFinal/CF27_UpperCurve_0_OakBase.uasset",
+    "bytes": 119688,
+    "sha256": "ef26d8316d6651beb4e092c4f7aca220eb33b06797f594d3270e9ebbea35f95c"
+  },
+  {
+    "path": "project/Content/Campus/CommonsCF27R01/RuntimeFinal/CF27_UpperCurve_0_Seat.uasset",
+    "bytes": 119603,
+    "sha256": "1a50b9efd8a468dc508ce7d2fb72290fa4280c74bd11593ddf9245ea6614c5c3"
+  },
+  {
+    "path": "project/Content/Campus/CommonsCF27R01/RuntimeFinal/CF27_UpperCurve_1_OakBase.uasset",
+    "bytes": 119289,
+    "sha256": "75b50602856c3151d055541bbddab002f134d6e3f3b9048499f38a4499033bdb"
+  },
+  {
+    "path": "project/Content/Campus/CommonsCF27R01/RuntimeFinal/CF27_UpperCurve_1_Seat.uasset",
+    "bytes": 119354,
+    "sha256": "209446a9586b907eacaae143f66f9c210c53dc84e330a514a6ec15b8c1c185d8"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Fitness/Materials/M_Belt_Rubber.uasset",
+    "bytes": 10836,
+    "sha256": "3a466421e90e96f517f83e3c63fc1038e1e486b305cea7413ea61372188e8813"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Fitness/Materials/M_Console_ABS.uasset",
+    "bytes": 10836,
+    "sha256": "532de5680c8c6956636c4a51150895480ed87a1082dcee9a2d169c7169780673"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Fitness/Materials/M_Grip_Rubber.uasset",
+    "bytes": 10836,
+    "sha256": "fc0f4a785b2f53f12c8f95ab9698862b5314b0213e0938c449f969336cf1888a"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Fitness/Materials/M_Metal_BrushedSteel.uasset",
+    "bytes": 10952,
+    "sha256": "b6457edfdee082acd37bf56db28f585f2432a210a2e6095512b93f28c1de3355"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Fitness/Materials/M_Metal_Powdercoat.uasset",
+    "bytes": 10919,
+    "sha256": "9a5d343dd447a14c9e1962bf20079074743494693f70b446d7baef3ebd880cb9"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Fitness/Materials/M_Seat_Upholstery.uasset",
+    "bytes": 10880,
+    "sha256": "c14030e532c8132ec0f42f56a1e0e66a23d5b55c8e19dbdc0c77aefe171ca909"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Fitness/Sections/FA26_PH02_Fitness218_001_PBR.uasset",
+    "bytes": 87718,
+    "sha256": "b4e87c4f78c46622b9eeedfce7a6b5231c0ab0002aa24ecda89fd1b821865e16"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Fitness/Sections/FA26_PH02_Fitness218_002_PBR.uasset",
+    "bytes": 88072,
+    "sha256": "c80a46aefb6b51f67582f706816599429df9cb64a6ad3b3ab151a8cab63d955f"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Fitness/Sections/FA26_PH02_Fitness218_019_PBR.uasset",
+    "bytes": 87402,
+    "sha256": "b180501b9548afb231471ec63b8ab270037293fbc6986729d85bd0b040c96a78"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Fitness/Sections/FA26_PH02_Fitness218_020_PBR.uasset",
+    "bytes": 87411,
+    "sha256": "5124dda96b1c3e8c2f7e62d80d2512ae1fee86b04080c24306efb97b35b2f4a3"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Fitness/Sections/FA26_PH02_Fitness218_021_PBR.uasset",
+    "bytes": 87525,
+    "sha256": "663cd4aaf91660e7b62e3e3cce6e4be91c9e243ee956e667d2536546885f49bb"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Fitness/Sections/FA26_PH02_Fitness218_022_PBR.uasset",
+    "bytes": 87475,
+    "sha256": "f125b10564f5c88061089e77e8033bff1133596eaae5015ede626b88a8e93671"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Fitness/Sections/FA26_PH02_Fitness218_023_PBR.uasset",
+    "bytes": 87495,
+    "sha256": "a2f48f57c08b50b386b05be97469dd3f009460f3ff862a5d34c843037a2be430"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Fitness/Sections/FA26_PH02_Fitness218_024_PBR.uasset",
+    "bytes": 83220,
+    "sha256": "9ff2cf9f3b3490abbc07989bec6aecc63f1f4d1f7bdd651d5a1a55b2faa9ba17"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Fitness/Sections/FA26_PH02_Fitness218_025_PBR.uasset",
+    "bytes": 84537,
+    "sha256": "54b9baa27b8f006e61ebcaf4a74b089c3a0b72dbd3904b9cbcf25b04c97748e0"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Fitness/Sections/FA26_PH02_Fitness218_026_PBR.uasset",
+    "bytes": 84440,
+    "sha256": "0d6fbda114e0fc3be8ab65863f0183ef43d9e4c7728a763a8c115c02bf686594"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Fitness/Sections/FA26_PH02_Fitness218_031_PBR.uasset",
+    "bytes": 83867,
+    "sha256": "f5b287e8e09fe0b5594da5364c6f1952072fbd29896b78dbd0b7cf1f6ae602e6"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Fitness/Sections/FA26_PH02_Fitness218_032_PBR.uasset",
+    "bytes": 82111,
+    "sha256": "af306e81cf9a2cf83b10246f35d6f558c7a675c9c50d8f0870a53403daec4094"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Fitness/Sections/FA26_PH02_Fitness218_033_PBR.uasset",
+    "bytes": 75024,
+    "sha256": "19717454a2af47b08d83ff11d8b94b61632203e6bb9f54f244dcb4bce91256f4"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Fitness/Sections/FA26_PH02_Fitness218_034_PBR.uasset",
+    "bytes": 50437,
+    "sha256": "f06c910e6df05eb164c6090bece91eeeeb10d87105e717cb1e2c088cbdaaef5d"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Fitness/Sections/FA26_PH02_Fitness218_040_PBR.uasset",
+    "bytes": 74917,
+    "sha256": "d4272d83ba7f6d9bac2aae1639a3a7f8eb80233ea7e34229c60131e002b9d86b"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Fitness/Sections/FA26_PH02_Fitness218_043_PBR.uasset",
+    "bytes": 269994,
+    "sha256": "168506011b8c267c329cd913a2d72b001f8bdf0b0b9873c4ef3a7beabea8f08c"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Fitness/Sections/FA26_PH02_Fitness218_044_PBR.uasset",
+    "bytes": 37986,
+    "sha256": "44cca44a1eea4e53157cb03c4245fd46af75bb98af5e49c5b70458f5925a0653"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Fitness/Sections/FA26_PH02_Fitness218_045_PBR.uasset",
+    "bytes": 38306,
+    "sha256": "1aed37de6e9a7de0aece1f35558afa7b15aef10a52e3e441d7a2263e17f5abb2"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Fitness/Sections/R25_U218_Furniture_EQ27_R01_PBR.uasset",
+    "bytes": 710060,
+    "sha256": "1e475b330994304f0215815aa6459a1cb3185227bd9f392efdc663f57d5ce02d"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Fitness/Textures/Belt_Rubber_BaseColor.uasset",
+    "bytes": 156485,
+    "sha256": "643eaa12908e6f81acaae71fd265bf7ab7da9cd3abfa892853a9e683cd4677d3"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Fitness/Textures/Belt_Rubber_NormalDX.uasset",
+    "bytes": 2427300,
+    "sha256": "1de993b93015a6230c9e939eb293c7854383046942e8cc762122137e21295827"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Fitness/Textures/Belt_Rubber_Roughness.uasset",
+    "bytes": 562405,
+    "sha256": "b4b3ffcdae036ef8ac94e277a2565ff60d899cda7d68cf7db937ec595bb5af84"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Fitness/Textures/Console_ABS_BaseColor.uasset",
+    "bytes": 349137,
+    "sha256": "84451331d38382eea9e61e4c90b93ca2f4d7d4324aa41598922383155fdc4347"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Fitness/Textures/Console_ABS_NormalDX.uasset",
+    "bytes": 1934614,
+    "sha256": "26e555f21d903827c28e9c256031f4861077875cc6f1d1d9b5a0bb975cc8e1ea"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Fitness/Textures/Console_ABS_Roughness.uasset",
+    "bytes": 843561,
+    "sha256": "2d959cf8d580cd1f3ef5f304989b93b76d01856475f9b6b5897eae0c429e9efa"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Fitness/Textures/Grip_Rubber_BaseColor.uasset",
+    "bytes": 340326,
+    "sha256": "e27b155dd5fe96c10f1422817291998d1a5001a4a542342e4f316a27ef7d9746"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Fitness/Textures/Grip_Rubber_NormalDX.uasset",
+    "bytes": 3419996,
+    "sha256": "ed51b7f8ae8d81c87699f5a4381445fdae223124f81617153d5f0b280ac93bde"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Fitness/Textures/Grip_Rubber_Roughness.uasset",
+    "bytes": 843910,
+    "sha256": "57af8c021740bfcde8fde9c66abcd954fbbd3ef3591b2eddcedfdbe771c5a11e"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Fitness/Textures/Metal_BrushedSteel_BaseColor.uasset",
+    "bytes": 806410,
+    "sha256": "56b3f90852a131a72a2beb133fd1bec9fc66f2c9462a660528dcedcebad0fd72"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Fitness/Textures/Metal_BrushedSteel_NormalDX.uasset",
+    "bytes": 650135,
+    "sha256": "9f558301561554d48b2b89cb9ce5e829cf18c237b6ed135eddafdbc41c12d44c"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Fitness/Textures/Metal_BrushedSteel_Roughness.uasset",
+    "bytes": 468216,
+    "sha256": "f7f96535070b50063f118edf22fb98381f8b280899ab0bda506783401864976b"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Fitness/Textures/Metal_Powdercoat_BaseColor.uasset",
+    "bytes": 885896,
+    "sha256": "5823b0d0bffdc469b37e054ce4f302f928ba3535d8ac317c64acc7289993497a"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Fitness/Textures/Metal_Powdercoat_NormalDX.uasset",
+    "bytes": 2110835,
+    "sha256": "07753e3a889241f1e9e9eb1a922c911b39af8c855ce07327376aa5b251ee0cdc"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Fitness/Textures/Metal_Powdercoat_Roughness.uasset",
+    "bytes": 844051,
+    "sha256": "0f5a5fa6655a592b26aa01dd75f22ec9e3271860f70f135f7f41848b80520a92"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Fitness/Textures/Seat_Upholstery_BaseColor.uasset",
+    "bytes": 360423,
+    "sha256": "271c137e379cef814873562718343e8ed2b7eb4d9ca4e63d96d8d4c1fb5bf229"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Fitness/Textures/Seat_Upholstery_NormalDX.uasset",
+    "bytes": 1941550,
+    "sha256": "d863b864945ec9c9415d2fc60575207258e432101cf529fa287c633d77a233f4"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Fitness/Textures/Seat_Upholstery_Roughness.uasset",
+    "bytes": 619624,
+    "sha256": "a439ec34f8644fa038d92be0a035b93f6dbd4cf2dfba4928754628c881f522f1"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Shades/Import/RollerShade_Master.uasset",
+    "bytes": 75303,
+    "sha256": "23e46f918d653f43b32861554d5f838e6808da6b207eeb6e06f35cf06638f3d5"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Shades/Materials/M_RS_Anodized_Endcaps.uasset",
+    "bytes": 5554,
+    "sha256": "3220905b04b690f7896efd1ff5518fa7e44ba0b6a7840ac48b6e36e113c6c8b7"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Shades/Materials/M_RS_Neutral_Linen_Rolled.uasset",
+    "bytes": 5574,
+    "sha256": "217bfeb28b22246ca084c5d92dd1569d097831b4976459104cf4fdf60670d453"
+  },
+  {
+    "path": "project/Content/Campus/EnhancementsR27R01/Shades/Materials/M_RS_OffWhite_PowderCoat.uasset",
+    "bytes": 5569,
+    "sha256": "86aff8aebbae5a46ba3ca822d8a95f45058c722983615f6912123ed69601cc5d"
+  },
+  {
+    "path": "project/Content/Campus/FloorFinishR27R02/Materials/M_Vinyl_Charcoal.uasset",
+    "bytes": 10887,
+    "sha256": "e4c751280de359b57d3bb8a7dc309f0123232959827652bd00ac524f3338fe18"
+  },
+  {
+    "path": "project/Content/Campus/FloorFinishR27R02/Textures/Blue_BaseColor.uasset",
+    "bytes": 660080,
+    "sha256": "24eb113727633f4543ce7e259159533fa11b9cc2c6e155d0138700b878de6283"
+  },
+  {
+    "path": "project/Content/Campus/FloorFinishR27R02/Textures/Blue_NormalDX.uasset",
+    "bytes": 162011,
+    "sha256": "b71ebe1cc0fdb56de46dee98c46fc151ea27ca74364577c9a76006547f848e78"
+  },
+  {
+    "path": "project/Content/Campus/FloorFinishR27R02/Textures/Blue_Roughness.uasset",
+    "bytes": 433357,
+    "sha256": "f1be348067c01451c8b264b633e887c11091fc0a5ec331abf360c4978de90128"
+  },
+  {
+    "path": "project/Content/Campus/FloorFinishR27R02/Textures/Yellow_BaseColor.uasset",
+    "bytes": 662032,
+    "sha256": "ea3f852361b8c05706667f9d94b535767cc4c34bcefcafe6c11e3b4e40e2cba3"
+  },
+  {
+    "path": "project/Content/Campus/FloorFinishR27R02/Textures/Yellow_NormalDX.uasset",
+    "bytes": 165111,
+    "sha256": "0dfdedbbaafe8dda4ccd6639b2c16dc0df2514d0fa8fa3d2a502878a8b44e24f"
+  },
+  {
+    "path": "project/Content/Campus/FloorFinishR27R02/Textures/Yellow_Roughness.uasset",
+    "bytes": 433688,
+    "sha256": "1d0566f8ae2ddf9afaf79cd68be189f5df707fba7f3a2a7ed7a7289e0980d512"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Materials/M_D27_Artwork.uasset",
+    "bytes": 8082,
+    "sha256": "309b73c58c9116e52c29f68c9cebf4b0ce596a4040324310378e0d348d3fe59c"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Materials/MI_D27_F01.uasset",
+    "bytes": 3530,
+    "sha256": "82f2627d8cbecfe13d637917e6a0afa6fd061dc2ee433fa084e9f73affd01a3b"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Materials/MI_D27_F02.uasset",
+    "bytes": 3530,
+    "sha256": "732d2c8159550f5280331e540c8ab600d6afe6d6b060ff9b8f0fed81147bc35f"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Materials/MI_D27_F03.uasset",
+    "bytes": 3530,
+    "sha256": "937c6d9a0c850af09aeee3428d089ec4be4ebb1e14b07a3f68751d1cb1bc273f"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Materials/MI_D27_F04.uasset",
+    "bytes": 3530,
+    "sha256": "171b6264e8c5fd72b70e4aaae5e4a8621cce6ea1acb997ae0f1c0241deed31d8"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Materials/MI_D27_F05.uasset",
+    "bytes": 3530,
+    "sha256": "13d88bc1059f9ba36e1806d836aee89c5443796faf4abfb7f6f3dc4769db4476"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Materials/MI_D27_F06.uasset",
+    "bytes": 3530,
+    "sha256": "6cecd51c7cb635ac9078ba0630e7f7e3a6bc2a61519d62daa397d073d7647e37"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Materials/MI_D27_F07.uasset",
+    "bytes": 3530,
+    "sha256": "c64ff1041e72266db2e38f3507cc54149725dd16f060e97860263ab424a24a48"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Materials/MI_D27_F08.uasset",
+    "bytes": 3530,
+    "sha256": "44e8b7527c22bbc09830763eb40701c9ddd81f7def4ec80d6f069adc16e8890d"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Materials/MI_D27_F09.uasset",
+    "bytes": 3530,
+    "sha256": "a5d72a2838480e4a093dd1ce6ab4138c36c988c743cfacfbe885f7e2c78bbd5c"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Materials/MI_D27_F10.uasset",
+    "bytes": 3530,
+    "sha256": "9aa281647b24d2991fcf1f3620119d74f8421e271151566592443ffc21e9ea35"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Materials/MI_D27_F11.uasset",
+    "bytes": 3530,
+    "sha256": "12908e854bc7bfaa0be9ff0737038f864ebba7861bf73f2c98df93f5fa48cc6b"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Materials/MI_D27_F12.uasset",
+    "bytes": 3530,
+    "sha256": "2671c7f97c071616c0a8031f4d9db514951e30b3cac9eab53a6b5a701be35b05"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Materials/MI_D27_H01.uasset",
+    "bytes": 3530,
+    "sha256": "88cca5d5f7021479bfefb446c438d7b39fb01cde2842036df02c5b07faa9b3f7"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Materials/MI_D27_H02.uasset",
+    "bytes": 3530,
+    "sha256": "a49f636af433263851cb288ea434baa47b58d94be2d9ef21e5b502ee2e6a0ad6"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Materials/MI_D27_H03.uasset",
+    "bytes": 3530,
+    "sha256": "b58d06e9b7ae9e55907b923dfd4f83adbd3aa6c84714aabde5aceb835f4c4502"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Materials/MI_D27_H04.uasset",
+    "bytes": 3530,
+    "sha256": "c3dac6c04cf0b9eccf15cfc529f216de87d842e761fb63fa41fa16eea18a0e62"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Materials/MI_D27_H05.uasset",
+    "bytes": 3530,
+    "sha256": "219796dd9c8aa127d23508a18a1c719c05b7a45460d3aeeab9cb30c2b5e4cb87"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Materials/MI_D27_H06.uasset",
+    "bytes": 3530,
+    "sha256": "103abf9d65b303a60f37460fb1085ca3c096789bcddf7edd49b12b2d60cf421c"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Materials/MI_D27_H07.uasset",
+    "bytes": 3530,
+    "sha256": "a7683f7ebf4a8df754222e072991131031326746e639cc9f1f7224ab29dad966"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Materials/MI_D27_H08.uasset",
+    "bytes": 3530,
+    "sha256": "e365d55f07c9760f6abda01bbc07418164e88d8939e50148e2aff688e98f3ff3"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Materials/MI_D27_H09.uasset",
+    "bytes": 3530,
+    "sha256": "0890bf80d914bdb13c60fd63d9122576292f9e9dba2868d3e777045ceb6716fa"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Materials/MI_D27_H10.uasset",
+    "bytes": 3530,
+    "sha256": "f5b7bb92ef5e59a774fb7af462f88b8359c54c2409dc36eed92348eb3e1753a9"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Materials/MI_D27_H11.uasset",
+    "bytes": 3530,
+    "sha256": "446ba9b2c4f3617340a792b70a818d4898ad979220559708549abff1f74a5d87"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Materials/MI_D27_H12.uasset",
+    "bytes": 3530,
+    "sha256": "8c6099278aa093ec9a87e3bbc8f574b9cfc1f6cd8ffd99bdd86a1a9375732085"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Materials/MI_D27_O01.uasset",
+    "bytes": 3530,
+    "sha256": "2fa415cc6778376f2e5650e10bb5b9b09de33b839798ecc1f205ca7b32e71bed"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Materials/MI_D27_O02.uasset",
+    "bytes": 3530,
+    "sha256": "edf765a3780c03049eed4b5f40488fadd5e4086c113bafdf1748283d6467f15d"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Materials/MI_D27_O03.uasset",
+    "bytes": 3530,
+    "sha256": "26ea3cc8a5d49a883635c5768cfdb0e5c44a9a6c0c662fda38ebcf3ee9b4cece"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Materials/MI_D27_O04.uasset",
+    "bytes": 3530,
+    "sha256": "25f3bbbcef01fe6af1943d2df3f0cab2824c37578286d02e05793eeb1fb2caf5"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Materials/MI_D27_O05.uasset",
+    "bytes": 3530,
+    "sha256": "23588ddcca5c582879d1d0dfa7fcf0cf48379ad588818b843bae59a4bebb409d"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Materials/MI_D27_O06.uasset",
+    "bytes": 3530,
+    "sha256": "c4783f9621c8a19a22447ce498364e35be77c54bf9ad0c3fbbd3d8505c6485b6"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Materials/MI_D27_O07.uasset",
+    "bytes": 3530,
+    "sha256": "70dbd833e3fc9a2b63638d46c5f56a7964a9c8a9620bca04c5d8a00ae0f11859"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Materials/MI_D27_O08.uasset",
+    "bytes": 3530,
+    "sha256": "c06ba999bcb4ae1edd2f7b32400d9edd80c4cb463509a1cd1bb14cb9fad87a86"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Materials/MI_D27_O09.uasset",
+    "bytes": 3530,
+    "sha256": "1a734fe32d6b60c628c99c9f05f1d4cc317b3fc259f3354ac4a33092eb83f190"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Materials/MI_D27_O10.uasset",
+    "bytes": 3530,
+    "sha256": "a0eba5667868dfc13da384cd245bba8ce07caf1de722285b42d4c5b836d44252"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Materials/MI_D27_O11.uasset",
+    "bytes": 3530,
+    "sha256": "ddc5b81e6a0a6a763c5d47cc6c2f06b6f7b4b786e141dc49b5686f266617412b"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Materials/MI_D27_O12.uasset",
+    "bytes": 3530,
+    "sha256": "e88b9fd2bbc155e6fc15c54bdd2646d42a896962c49abea326cc1c01cd7abbd9"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Textures/T_D27_F01.uasset",
+    "bytes": 1302936,
+    "sha256": "42f5c9bbf00c8b7640fa200fc02860e724739ac58b62e8822b10a442e16b4f98"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Textures/T_D27_F02.uasset",
+    "bytes": 1466868,
+    "sha256": "12482a5c8d90bc31ffd37d4b6faf7893fb456af13c98677d82f9d803f8e0494d"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Textures/T_D27_F03.uasset",
+    "bytes": 1788224,
+    "sha256": "772b32db1386ca630cf43650eb0fd472f416dd77aa60bd81e21f5347365fc547"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Textures/T_D27_F04.uasset",
+    "bytes": 1611630,
+    "sha256": "a656ccd68598deeb4c0aac4043fc8d39501ea75095a406a620fccef6b4f64124"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Textures/T_D27_F05.uasset",
+    "bytes": 1420410,
+    "sha256": "e8a54baac03345b7a97effb1a80ad782eb4015a0df476b03f5369208964d2333"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Textures/T_D27_F06.uasset",
+    "bytes": 1472584,
+    "sha256": "c49133d9f6f398aa2df767186ff205c5526715a7df1f2ec6aad428006153009e"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Textures/T_D27_F07.uasset",
+    "bytes": 1580756,
+    "sha256": "8162a2c14edfe89301f8aa082c79189d5e6349e64f3b6d08d854bfea06fb032c"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Textures/T_D27_F08.uasset",
+    "bytes": 1714690,
+    "sha256": "d1537f8ffade9d74bf089f7a557d2f9b53c3b2222eed655356a0fdf7029bac28"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Textures/T_D27_F09.uasset",
+    "bytes": 1585084,
+    "sha256": "3a7fef1a41c37218f7636dbe0411f880b78b56c7c1e27ae8573810fb253b96ff"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Textures/T_D27_F10.uasset",
+    "bytes": 1605070,
+    "sha256": "fb08f88ba22d4ed45cc9bc705a11d5e38ca5b0b6d9faf8aa39eb4d8da70acc24"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Textures/T_D27_F11.uasset",
+    "bytes": 1862472,
+    "sha256": "4a849e3e03638eefac0f630a46ebf0476b7a2fdf32d1ec1fc3bdac885c98be1c"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Textures/T_D27_F12.uasset",
+    "bytes": 1473161,
+    "sha256": "61804f1bbcbddfdc3e6391a0ffc947b0b3336df178334ca0e836b2735633944e"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Textures/T_D27_H01.uasset",
+    "bytes": 3542776,
+    "sha256": "b2cd1869e2588c24ed415a2857e407bf442b4735404097c38884443e441536a4"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Textures/T_D27_H02.uasset",
+    "bytes": 3182918,
+    "sha256": "0d5ef0b7e98ce4b567bcd5eed9c3235c17f56750373305a438c2dad8a5beb706"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Textures/T_D27_H03.uasset",
+    "bytes": 2486316,
+    "sha256": "b7fb6f96747a34ca3cb78b6e6cedaf1f1f26060846de2c16c723eb62a81d641d"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Textures/T_D27_H04.uasset",
+    "bytes": 2628656,
+    "sha256": "dc758c0baaa9d1897180da8eab7ab08ae3f69bc83cb0a579d54c2254e12b0a0b"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Textures/T_D27_H05.uasset",
+    "bytes": 2922200,
+    "sha256": "d07c8e5cd9158d5599c107edcfe7d0e53bcadc8ac6e9e77923013b59ec2d7461"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Textures/T_D27_H06.uasset",
+    "bytes": 2631970,
+    "sha256": "ee7754305fa9af09d45887ad55b5b85fa8e265dd5a22a0aec718de8ad26a22e0"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Textures/T_D27_H07.uasset",
+    "bytes": 2487118,
+    "sha256": "e471d981c5283fc4ef45d473eaba548a2b133fae9472d5e21b2d48b93f33d812"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Textures/T_D27_H08.uasset",
+    "bytes": 2539114,
+    "sha256": "39aafa8e8cbdcec2ff7730f7563715f0bb3930451b56c3f2a7e8856025f1c227"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Textures/T_D27_H09.uasset",
+    "bytes": 1955080,
+    "sha256": "5541f5ea42616412c04f7afbdd1192912987a3d54db71404615d2a46ba1f949b"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Textures/T_D27_H10.uasset",
+    "bytes": 2556519,
+    "sha256": "502fe24f8e03d685acc161f19802db97b30fea150e621c37847564be338b8620"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Textures/T_D27_H11.uasset",
+    "bytes": 3081857,
+    "sha256": "748aa0cbe39aafdb9f1e2414c2b0055dce4853a732c7759b71439430cbc0bbdb"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Textures/T_D27_H12.uasset",
+    "bytes": 2883935,
+    "sha256": "f86b8db68fa8a81e9b01ce24ba3b2cbca68f54a2c0fa3fcbd194697e687e0bc5"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Textures/T_D27_O01.uasset",
+    "bytes": 1745816,
+    "sha256": "c0b3e9b8479eedd8448327634881686dada5a46e1e5ba2f1c37110ed6653da1c"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Textures/T_D27_O02.uasset",
+    "bytes": 1452301,
+    "sha256": "bc4404912f1dc0f26e566712f6345f3b2fa6fa49a847ba024a5a40d2d899f737"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Textures/T_D27_O03.uasset",
+    "bytes": 1377737,
+    "sha256": "1b6518b7ff05044eb0eec6ffd9876f038907ebbf62b2c7a07b6c47b1e4d349cc"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Textures/T_D27_O04.uasset",
+    "bytes": 1476657,
+    "sha256": "bb4c3e66e9f3493ff5484be6225b9273555bbb744b149f49896c58dc89c9204f"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Textures/T_D27_O05.uasset",
+    "bytes": 1372420,
+    "sha256": "c3d3bdcb20ab3493f62cab55edb89b0745129677052bc41d8b4163ec968c4847"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Textures/T_D27_O06.uasset",
+    "bytes": 1699054,
+    "sha256": "138ab75f67f6e91d7eeb82ef5b19339aa7bee9785e33e8a6042795a90584db08"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Textures/T_D27_O07.uasset",
+    "bytes": 2693330,
+    "sha256": "b223bca50692d03b04591f753f161e937c992dbd4e26cd6d060b5d69d363b344"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Textures/T_D27_O08.uasset",
+    "bytes": 1272721,
+    "sha256": "2d0a2d8df92cd0d2ff78a4401a5045566e310d943242c8844a8fb564188c039a"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Textures/T_D27_O09.uasset",
+    "bytes": 1487292,
+    "sha256": "7d41aff16ffd88a0d62c2eae625c4b4e2b3662031a2cb2c2e4ea9f506fab243f"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Textures/T_D27_O10.uasset",
+    "bytes": 1844867,
+    "sha256": "2a49c619ac92f4855af362b4360f7da83c35a76d463d0189aebf289acc816eae"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Textures/T_D27_O11.uasset",
+    "bytes": 2414820,
+    "sha256": "7287c6adec3b89ba3c16ad288abc5a75615766757d7b8f3e572693984bf30ce9"
+  },
+  {
+    "path": "project/Content/Campus/GeneratedDecalsR27R02/Textures/T_D27_O12.uasset",
+    "bytes": 2562101,
+    "sha256": "be51e3f0ab2df55c4f6aaadbdee75233a57662a7164594bbe45f5c61972b3aec"
+  },
+  {
+    "path": "project/Content/Campus/Gym27/Materials/M_PowderCoat.uasset",
+    "bytes": 9197,
+    "sha256": "246b7e31c3a93f3c50107cb6bff6059f871f658782738c8fbf1cba0bd90caf9e"
+  },
+  {
+    "path": "project/Content/Campus/Gym27/Materials/M_ScoreboardCase.uasset",
+    "bytes": 8441,
+    "sha256": "8fde7cb23566c8e2f99abc7dae903c2fdecf40f15cc850105d160667b3420741"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_A_RECENT_END_R1_C01.uasset",
+    "bytes": 6242,
+    "sha256": "7b8c205c8dc134e56025b2970ef6331c58044972625b8dcbc4f521db430f1f90"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_A_RECENT_END_R1_C02.uasset",
+    "bytes": 6242,
+    "sha256": "55aa2118d314f64515ad228ac26cb94ac6ab5f227ab596d6812a98af13cad69c"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_A_RECENT_END_R1_C03.uasset",
+    "bytes": 6242,
+    "sha256": "a74bd3b3b8773e884ddbf28ea67a72cd7b707b4bb3d037706a3d15874628cc98"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_A_RECENT_END_R1_C04.uasset",
+    "bytes": 6242,
+    "sha256": "538fd3ed51e335d738df2de0821a9dda7b69c0b46b389456a742438a311ac5ea"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_A_RECENT_END_R1_C05.uasset",
+    "bytes": 6242,
+    "sha256": "a16a2ca0200ee832eeea790d64690b3df0baaedc90a139f8eb50bdf51f65dffe"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_A_RECENT_END_R1_C06.uasset",
+    "bytes": 6242,
+    "sha256": "063ac985ca0b785456f9c79481e6cf234464e4191b077659bcfb8747bf75b89f"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_A_RECENT_END_R2_C01.uasset",
+    "bytes": 6242,
+    "sha256": "8b19d3385dc814fe13b7b0dbe190e3e3b9dacccf8e64474514626a68fb6e3cc9"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_A_RECENT_END_R2_C02.uasset",
+    "bytes": 6242,
+    "sha256": "b3efd22412f137dc96f89aea01b2bd3754c1f934875d51a92d6ed6b889561312"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_A_RECENT_END_R2_C03.uasset",
+    "bytes": 6242,
+    "sha256": "1851c96b3bf9e4ddf7dae52927a5edad1db7bdba4184644b377957d3c5f6aeec"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_A_RECENT_END_R2_C04.uasset",
+    "bytes": 6242,
+    "sha256": "f2c0d6afb59882707e2caa01504cd5453492021f3e886ceb6cf730b046837e11"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_A_RECENT_END_R2_C05.uasset",
+    "bytes": 6242,
+    "sha256": "5bb721dad9b35b21873aa8259628aa3be494e569655f39f4c8d3709fe8dfc5c8"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_A_RECENT_END_R2_C06.uasset",
+    "bytes": 6242,
+    "sha256": "4b8b4da24402a3cc7da1b72344617b5bdc04a51ec9f3f56c26e5b7ff8eae660e"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_A_RECENT_END_R3_C01.uasset",
+    "bytes": 6242,
+    "sha256": "96993871c79fbc2f43c7e3c2d5fc78512e99ddc66df9eec400d932b4b181b980"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_A_RECENT_END_R3_C03.uasset",
+    "bytes": 6242,
+    "sha256": "440e4b5236fcc947775cea2147f67a6a259ab9735904520b81302c99563e02db"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_A_RECENT_END_R3_C04.uasset",
+    "bytes": 6242,
+    "sha256": "10ea21580d7e6129f78883f7969a29c3d007d41bc4c5c5bafab444d8858e2f1f"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_A_RECENT_END_R3_C05.uasset",
+    "bytes": 6242,
+    "sha256": "fc59610f78404f640ac5854b7d1f4aaf2848717bde577a7adc1bc2b5e0dc4864"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_B_BENCH_SIDELINE_R1_C01.uasset",
+    "bytes": 6270,
+    "sha256": "a01339a7bcd867b7e0f0eeec89a3d375f1b2542f52db3a5e19faf320322bdc02"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_B_BENCH_SIDELINE_R1_C02.uasset",
+    "bytes": 6270,
+    "sha256": "c26fde561fba6d5353083ec70c2708569587b357d070105e10e931662e3008be"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_B_BENCH_SIDELINE_R1_C03.uasset",
+    "bytes": 6270,
+    "sha256": "b6feece31125d6393c9ef7451b2757eeaa3099f72bbd0f2d7ca08c0e71a6d27b"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_B_BENCH_SIDELINE_R1_C04.uasset",
+    "bytes": 6270,
+    "sha256": "794bd2729b05f47d085209d78b3ddb7e2e990e1c1e7102014cf2d857df3f4a8f"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_B_BENCH_SIDELINE_R1_C05.uasset",
+    "bytes": 6270,
+    "sha256": "66eb5ad762a824b9c859f31c07b2c7c1f5b2d8ab266a2a3838df9879a9beebf6"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_B_BENCH_SIDELINE_R1_C06.uasset",
+    "bytes": 6270,
+    "sha256": "84bca75007819d4bb57696e6e1dd09f968706c81098cd366f2d76cb0fdd539e0"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_B_BENCH_SIDELINE_R1_C07.uasset",
+    "bytes": 6270,
+    "sha256": "40c2f399ca6c02130e26f7f6729f11ca5102ebb94ac4ae93554343211f5a5f88"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_B_BENCH_SIDELINE_R1_C08.uasset",
+    "bytes": 6270,
+    "sha256": "e322537ad6fbafa73234bf22a4cee7d03ff2e2179e8396fde4f7f2e1bb32bc5d"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_B_BENCH_SIDELINE_R1_C09.uasset",
+    "bytes": 6270,
+    "sha256": "5c4e08ab54cbd42c331456a24c4fc5aae2b00f2182b4e562885167a05a81d37f"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_B_BENCH_SIDELINE_R1_C10.uasset",
+    "bytes": 6270,
+    "sha256": "aa02bbe2d534811c9766c7820e457ebbe8c617c4944d3bdd92df0d81edbd8992"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_B_BENCH_SIDELINE_R1_C11.uasset",
+    "bytes": 6270,
+    "sha256": "a5daa847c0a29774b2c86832c723d413f9287adca5abf44b8e18217b523c8d56"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_B_BENCH_SIDELINE_R1_C12.uasset",
+    "bytes": 6270,
+    "sha256": "26cbbd8d1ac3f72aac22fbb2eb1d3b13956c951fd670e989eb12424b4938925e"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_B_BENCH_SIDELINE_R1_C13.uasset",
+    "bytes": 6270,
+    "sha256": "e93510471a97e0c63183649518c2214fa873ea18d41bdaad28bcf4609f1edbf7"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_B_BENCH_SIDELINE_R1_C14.uasset",
+    "bytes": 6270,
+    "sha256": "22f80fe34b8d1aca3451e50c4062ab53359c1407dd9ae6004654af7558919486"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_B_BENCH_SIDELINE_R1_C15.uasset",
+    "bytes": 6270,
+    "sha256": "bb3d9e7b5ccc1089219da9a5041b6bb32a5ea2db812799c832782857af45a191"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_B_BENCH_SIDELINE_R1_C16.uasset",
+    "bytes": 6270,
+    "sha256": "8c165bcd42c7162d592f250f7226f99905cd7dea0a66edc73a2c168ce8dc0fdb"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_B_BENCH_SIDELINE_R1_C17.uasset",
+    "bytes": 6270,
+    "sha256": "f3a474250e6005c6621d2564c903fb18146cd19e89ab6029fae72e69d28c96f6"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_B_BENCH_SIDELINE_R2_C01.uasset",
+    "bytes": 6270,
+    "sha256": "ba851259bb9370a3c65de0e1f1a1fd482b923dac5daac0de1b534e90eb1de7cf"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_B_BENCH_SIDELINE_R2_C02.uasset",
+    "bytes": 6270,
+    "sha256": "369129f8084476e2ebe36980076edb4333d23bd65cb21af72f0fba7092d517a9"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_C_SCOREBOARD_END_R1_C01.uasset",
+    "bytes": 6270,
+    "sha256": "90215807918060369ed76924b72fde98d9193024a00d17fa5dbaf2a679cd52f5"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_C_SCOREBOARD_END_R1_C02.uasset",
+    "bytes": 6270,
+    "sha256": "43cba4bd71bc0061e015bb10f9c397bc57cc7f14f1321c1b7a125fa9dc642d1a"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_C_SCOREBOARD_END_R1_C03.uasset",
+    "bytes": 6270,
+    "sha256": "3b67f3de15d56bc6b14376c9ba64d2b411f6b26da212cb37730804537376db8b"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_C_SCOREBOARD_END_R1_C04.uasset",
+    "bytes": 6270,
+    "sha256": "580852d79182f12da6c18377ab9b3ec5812c9a2cc7aa8231328f3b918e438855"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_C_SCOREBOARD_END_R1_C05.uasset",
+    "bytes": 6270,
+    "sha256": "d21d080f3facfe2da358376f06c220ac743f8e53eb9a902f4c840bb53c00689a"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_C_SCOREBOARD_END_R1_C06.uasset",
+    "bytes": 6270,
+    "sha256": "c546b97dcf5984fede4327f32c69e5f1888b6b504d5315f3ad8a251a3d7aa358"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_C_SCOREBOARD_END_R1_C07.uasset",
+    "bytes": 6270,
+    "sha256": "48bbc5d1f44d53e4890723babc919c4dbc97e0832f3db1635093e5f52834a35d"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_C_SCOREBOARD_END_R1_C08.uasset",
+    "bytes": 6270,
+    "sha256": "1915aed1e010d2782906f1da7b25260177a8ad87b6a8397ff4e77d74a4d0556a"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_C_SCOREBOARD_END_R1_C09.uasset",
+    "bytes": 6270,
+    "sha256": "2a827161d0a97b52edbb7f4d400b5197adca2a19ba0a80c23b4db2a39b390103"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_C_SCOREBOARD_END_R1_C10.uasset",
+    "bytes": 6270,
+    "sha256": "21490759b529ec09137d45d5233afcd8734e2f8b7795923b0db1a9512b462411"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_C_SCOREBOARD_END_R2_C01.uasset",
+    "bytes": 6270,
+    "sha256": "64a5e68157b81c5baee1d26ab29f3aa14ed7b736605046158d741a4f2ebed7d3"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_C_SCOREBOARD_END_R2_C02.uasset",
+    "bytes": 6270,
+    "sha256": "8ce05001ba24b83e4d1284451de5fe3e51081e3e69157b0cb0a89468540acb5b"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_C_SCOREBOARD_END_R2_C03.uasset",
+    "bytes": 6270,
+    "sha256": "2d7510378121c6e2e8a7b3304a7c83a3ff06f7682c2d7744984eee499e269d9f"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_C_SCOREBOARD_END_R2_C04.uasset",
+    "bytes": 6270,
+    "sha256": "d2b82fb9426613e8b380ca8c1286a2f51459861e988928c43e4508b08df7ab9e"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_C_SCOREBOARD_END_R2_C05.uasset",
+    "bytes": 6270,
+    "sha256": "15e452f9b9838358c27a4b1e0ce193cd25e3a452184b52ed602b104827e856e8"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_C_SCOREBOARD_END_R2_C06.uasset",
+    "bytes": 6270,
+    "sha256": "7687e32860e7ce6aab554d27b6712001b69143c691adb44e1b6e0d1f7e612a2f"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_C_SCOREBOARD_END_R2_C07.uasset",
+    "bytes": 6270,
+    "sha256": "b9694130a02473aed5f18a66ca7763bde87deec78eadcd7ef4a08333e5f4ce51"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_C_SCOREBOARD_END_R2_C08.uasset",
+    "bytes": 6270,
+    "sha256": "86c60700316ab28a8b4465781d5309d9c015882558dbfee4cbe1a78362c26c6e"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_C_SCOREBOARD_END_R2_C09.uasset",
+    "bytes": 6270,
+    "sha256": "dc393df3c4884f9e0ea702c33bae66aacd57fc8790913567581abfaf0ca66f4b"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_D_BLEACHER_SIDELINE_R1_C01.uasset",
+    "bytes": 6291,
+    "sha256": "add921285f9adb0f7e30ee7ddaf3f404a857706867f71fcaa53b411382554eba"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_D_BLEACHER_SIDELINE_R1_C02.uasset",
+    "bytes": 6291,
+    "sha256": "a3b510a50b752cfada69a42318fb1858b90461230c752003488a36dc34545ec8"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_D_BLEACHER_SIDELINE_R1_C03.uasset",
+    "bytes": 6291,
+    "sha256": "ad1d6b051e634b6bf1b34fdaa7a4de8cdd3c0e2c0dd45b27144fe71b009778ee"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_D_BLEACHER_SIDELINE_R1_C04.uasset",
+    "bytes": 6291,
+    "sha256": "46fec36cd245f9545614c125eb7a6d8533f5de52ef699f57ca8f5d3deb008763"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_D_BLEACHER_SIDELINE_R1_C05.uasset",
+    "bytes": 6291,
+    "sha256": "1eac37b1b614f8917fbb092686edd236d7ef80ecdc685d29c512e576d3d7230f"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_D_BLEACHER_SIDELINE_R1_C06.uasset",
+    "bytes": 6291,
+    "sha256": "9b2b00c81fdd5ab9e8905944e712ffac16a2085535d425c847653629969bc43b"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_D_BLEACHER_SIDELINE_R2_C01.uasset",
+    "bytes": 6291,
+    "sha256": "6ef0e4459151b451e22d40e6dba72cbb01ba9dd4f6772f3e339676f57a087761"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_D_BLEACHER_SIDELINE_R2_C02.uasset",
+    "bytes": 6291,
+    "sha256": "febb15b0c055fb54383e43a74a9fa4242e1143b3b67618158ed91208298edf09"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_D_BLEACHER_SIDELINE_R2_C03.uasset",
+    "bytes": 6291,
+    "sha256": "751837ab4f564ddd380fea50aefd6ff658ee45537a9a0922e65fc034c2e759c4"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_D_BLEACHER_SIDELINE_R2_C04.uasset",
+    "bytes": 6291,
+    "sha256": "61be626c337902cd234cfba904891ccf9bef0cb8fa005b39b1a2ebc3888c8aeb"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_D_BLEACHER_SIDELINE_R2_C05.uasset",
+    "bytes": 6291,
+    "sha256": "67d8f48562448b21f800976594596bd639beb3123f616ed731babd6cf18b8cb9"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_D_BLEACHER_SIDELINE_R2_C06.uasset",
+    "bytes": 6291,
+    "sha256": "34f7bc7d5d1dccb335b6c18a0982720f7ccf2e572a5ccc3228df65c647b13d9f"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Materials/M_Scoreboard_EndWall_RegisteredFace.uasset",
+    "bytes": 11134,
+    "sha256": "bd5c44dc1dd0bac2794a1ee1bb5ab338201a9219a04f34f278d8c84c9b7ec288"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_A_RECENT_END_R1_C01.uasset",
+    "bytes": 3258599,
+    "sha256": "ec9458dbbd8ae2af232d3119a63ee26d6d71ca788935b12f28206d35f332b395"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_A_RECENT_END_R1_C02.uasset",
+    "bytes": 3096487,
+    "sha256": "7ea6e6e82f315b56e3591375c2e89181eb50f93c9e85737381ff2b7e4e5ae5ff"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_A_RECENT_END_R1_C03.uasset",
+    "bytes": 2982657,
+    "sha256": "712674410afba71552f89013b7958fc42545cb010a34f380213fb0b21bf0038d"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_A_RECENT_END_R1_C04.uasset",
+    "bytes": 3321309,
+    "sha256": "f38dac98bc2a8c46870f02162a9c209eb3739a98bfeeac15644d52775d93cb45"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_A_RECENT_END_R1_C05.uasset",
+    "bytes": 3460276,
+    "sha256": "deced1e4ce44514ba789a0f86a4cc76800f6060dedd2ad16e8be91191feb81b2"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_A_RECENT_END_R1_C06.uasset",
+    "bytes": 3520523,
+    "sha256": "5471caf54b7ebbf67655cdd2ac5ab76c509db2220191ce5b8e1894a0ec15d7fe"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_A_RECENT_END_R2_C01.uasset",
+    "bytes": 3168737,
+    "sha256": "983335bf511218a0c6dbdff94f109c6767fb13a877c4e43b6fe5aa778f374fc6"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_A_RECENT_END_R2_C02.uasset",
+    "bytes": 3127351,
+    "sha256": "7c2030daab1648e6e1b745c0c3e6c1888876aded94209aa413ccf6f991d5e347"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_A_RECENT_END_R2_C03.uasset",
+    "bytes": 3380079,
+    "sha256": "58c82975e893e494cca62ba2a58abe746f6e50614862937a68798c10cc706413"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_A_RECENT_END_R2_C04.uasset",
+    "bytes": 3294260,
+    "sha256": "a59fd77e439240c501d414820ed8d8df534ce335c5306899653d3a0160c65d8e"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_A_RECENT_END_R2_C05.uasset",
+    "bytes": 3352637,
+    "sha256": "c213db38e0a29fb9a0d6da96f3a0a7283f22b9e3f7698dbb612a3ead4b34eb3f"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_A_RECENT_END_R2_C06.uasset",
+    "bytes": 3366389,
+    "sha256": "51d3c5518102f98eded4be5ac23c762b12a5767a0f5e65cc0b0b742e76aaced8"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_A_RECENT_END_R3_C01.uasset",
+    "bytes": 3497175,
+    "sha256": "51edfc21516c6a071a4d54203ba169a0afb6b2e3228b3742e4e9a0ddd51827b3"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_A_RECENT_END_R3_C03.uasset",
+    "bytes": 3124241,
+    "sha256": "0e4ee27fa885c1502fd8e28e1457fc51d0182e875180a8f5bd4249a576f89687"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_A_RECENT_END_R3_C04.uasset",
+    "bytes": 2991432,
+    "sha256": "417163319576e1699f3a1263d947a526f42e34313243d59602071d835c15346b"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_A_RECENT_END_R3_C05.uasset",
+    "bytes": 3452143,
+    "sha256": "e6c7051d4c02a9aff04b2d470c260861be33e9599e28a30170ef90bcc265e90e"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_B_BENCH_SIDELINE_R1_C01.uasset",
+    "bytes": 3349683,
+    "sha256": "f20a4b56ff89d819d04cacd9b02befe66319368d2adb68079524c1485df5effa"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_B_BENCH_SIDELINE_R1_C02.uasset",
+    "bytes": 3046526,
+    "sha256": "cc087a163a670c74a687ea60d31d30bc58602c7ae14e7f47da0425f6459538e8"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_B_BENCH_SIDELINE_R1_C03.uasset",
+    "bytes": 3010837,
+    "sha256": "1600967443a8e83f395f991edc7887a6fed727ba0a975e4ba52fa5f1d41b2aa8"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_B_BENCH_SIDELINE_R1_C04.uasset",
+    "bytes": 2959284,
+    "sha256": "67676956571a5ba8cb218fbd50f7d39c97057269d0559c67a14cb5143069e278"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_B_BENCH_SIDELINE_R1_C05.uasset",
+    "bytes": 2962826,
+    "sha256": "f72d469ffb2a0dab8e86c42b0dd231d989632dc37a7f62444366a44a2b743c2a"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_B_BENCH_SIDELINE_R1_C06.uasset",
+    "bytes": 3111794,
+    "sha256": "d92dee34c2f79bca8906eadcc21415ac934050f519fecd7ee1de5441730e0301"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_B_BENCH_SIDELINE_R1_C07.uasset",
+    "bytes": 3044367,
+    "sha256": "412f3a4790babf4f6af36524aa48077d58d96941401ecd6783b04ae24c78fbd0"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_B_BENCH_SIDELINE_R1_C08.uasset",
+    "bytes": 3070601,
+    "sha256": "d1843b309dfb0f7fcec4c6f9315324ad7e00c25ac1bd5dd672b0a63d8c0731ad"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_B_BENCH_SIDELINE_R1_C09.uasset",
+    "bytes": 3044300,
+    "sha256": "17f65e24fdee51f2468bc90c6987fecbaf5793f2b1945c5d76b10167cc1bff4e"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_B_BENCH_SIDELINE_R1_C10.uasset",
+    "bytes": 3039025,
+    "sha256": "6a05a8d3fc49e2985bcfeb4f587247d14b724cadd2b89203c7a5850785c2cc26"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_B_BENCH_SIDELINE_R1_C11.uasset",
+    "bytes": 3052004,
+    "sha256": "046f0b5443c26d9df9d25c9d9fbab2fc421d2cc1ce759485db9b22af7803cd0a"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_B_BENCH_SIDELINE_R1_C12.uasset",
+    "bytes": 3093440,
+    "sha256": "5e484abc5bf6c7764871fca38a0863d8c561f06bf95ba41875b240a73d5b243e"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_B_BENCH_SIDELINE_R1_C13.uasset",
+    "bytes": 2996826,
+    "sha256": "367cdc2e43f342bb0be87daf3a6f58ac9bdb4d2b4f6c2f91f7b3e93bdcdbef86"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_B_BENCH_SIDELINE_R1_C14.uasset",
+    "bytes": 2994880,
+    "sha256": "68d96f940d22c3f7625b26feb78af89b3231cc56b503b7148e4f6cbffaee144c"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_B_BENCH_SIDELINE_R1_C15.uasset",
+    "bytes": 2988006,
+    "sha256": "665055579fd1f84b2a464b4e03c539bafd20d1dab5ad7286d011b6119a55e4a1"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_B_BENCH_SIDELINE_R1_C16.uasset",
+    "bytes": 3071085,
+    "sha256": "2c55d0a1ccd7db0acb17a1390b98a913b9853d625e126fc77a2447935a47b9b9"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_B_BENCH_SIDELINE_R1_C17.uasset",
+    "bytes": 3092062,
+    "sha256": "76c186f8472a89b7992cc2838a5ca5181392bbb1f987983b3c049478d1322056"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_B_BENCH_SIDELINE_R2_C01.uasset",
+    "bytes": 3013344,
+    "sha256": "e09a0fd4b826595a49ea65f27cbaa4e6a9c4189b7716e431f62069917a6ac2e8"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_B_BENCH_SIDELINE_R2_C02.uasset",
+    "bytes": 2979016,
+    "sha256": "7389ee295b29b2fea359baf4aecc51346180dcfa57a4f79f6b21079642264c94"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_C_SCOREBOARD_END_R1_C01.uasset",
+    "bytes": 3003582,
+    "sha256": "38f0f7c6d50f1ee97c0b6186eaf396349480347c5047d156ad7ba04f0c8c61df"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_C_SCOREBOARD_END_R1_C02.uasset",
+    "bytes": 3020347,
+    "sha256": "0e510917c6134362c837196f7b20d05e5590dbe868bf8d10c354e4e60356888b"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_C_SCOREBOARD_END_R1_C03.uasset",
+    "bytes": 2702806,
+    "sha256": "1fe4df2c7743fb17390ca64c53a5a8c9d4a07dd38577b4673a6bc67b42e8741d"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_C_SCOREBOARD_END_R1_C04.uasset",
+    "bytes": 2814127,
+    "sha256": "f5c78c88534ff814072a650cafbd3d2fbc1af2876a6a37952fc066741cd0f229"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_C_SCOREBOARD_END_R1_C05.uasset",
+    "bytes": 3076939,
+    "sha256": "e66d308cd675d5a59b523e4a2870282ab7a289ff3a657c45eb5df4e9f17bbfa4"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_C_SCOREBOARD_END_R1_C06.uasset",
+    "bytes": 2991409,
+    "sha256": "e641f8592b6ff09841bbcf14a56c89afaeefa76e0643985e6c82a6988d1b6c55"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_C_SCOREBOARD_END_R1_C07.uasset",
+    "bytes": 2896073,
+    "sha256": "ac233bc88987de7d7628a91d5c9aac8bee70a88390b9df240d4190346d537840"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_C_SCOREBOARD_END_R1_C08.uasset",
+    "bytes": 2887914,
+    "sha256": "71209694bad7399300d08b2aa08ce5b57fce76dabd7eb7d4a13e28b2f3464648"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_C_SCOREBOARD_END_R1_C09.uasset",
+    "bytes": 2763438,
+    "sha256": "58247653d4691bf0436219378e3a14c3d77d83cfa0a48cc3567d2bed5199b1f7"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_C_SCOREBOARD_END_R1_C10.uasset",
+    "bytes": 2665336,
+    "sha256": "7c3a8fd4ab9863bfddb04f46c6470326458d288bc5a2b8fcfa8ecc20819de303"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_C_SCOREBOARD_END_R2_C01.uasset",
+    "bytes": 2756242,
+    "sha256": "f0b9b05fa1338526aaf7921fcdf8afae187d00c75721829bf61b7cc5c6887dc8"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_C_SCOREBOARD_END_R2_C02.uasset",
+    "bytes": 3124559,
+    "sha256": "e62caa8f1fe9b9c1566c72904d6ce9a47bbbd1f1df6625a9f2f9c21dd43df822"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_C_SCOREBOARD_END_R2_C03.uasset",
+    "bytes": 3032699,
+    "sha256": "91d13a836577be0f77809c191479ce8893092b0ed3f38616f32454987615ba4f"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_C_SCOREBOARD_END_R2_C04.uasset",
+    "bytes": 2827473,
+    "sha256": "2fff13a1201844c9f4b00e34dea75f29c062eb0347c7821041022b79110f62ff"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_C_SCOREBOARD_END_R2_C05.uasset",
+    "bytes": 3196884,
+    "sha256": "80f8447a215bfcbf91c0e879184dfe21ac86799e4aba4992909b281348f4bce2"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_C_SCOREBOARD_END_R2_C06.uasset",
+    "bytes": 3235042,
+    "sha256": "7de8ef3db868f4452681eea69c8be03c9477caaaceab1e2393f9e63417aeb239"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_C_SCOREBOARD_END_R2_C07.uasset",
+    "bytes": 2937136,
+    "sha256": "ef1e8a9bb58c2be6159c2cf36ea8c42639e20f52796b87074b26fef9b6f9a65f"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_C_SCOREBOARD_END_R2_C08.uasset",
+    "bytes": 3302760,
+    "sha256": "c126d9f723d9e3a7c28930c30b94c12e8924be5d010f22d10ef53bf8c1b13d11"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_C_SCOREBOARD_END_R2_C09.uasset",
+    "bytes": 2917533,
+    "sha256": "ff32cd99a5b49403adf0f701013d413a1453a3d8775aeca64b74496832a333f9"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_D_BLEACHER_SIDELINE_R1_C01.uasset",
+    "bytes": 3056069,
+    "sha256": "438191b6f845e6cad598e7d313cc3dd95138768979121abea3f6ce0df46c1ea3"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_D_BLEACHER_SIDELINE_R1_C02.uasset",
+    "bytes": 3008158,
+    "sha256": "5302418c4e444bfe5e58a522b4cd0b490fa19dfd61b3ab0fcde6601e87f00497"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_D_BLEACHER_SIDELINE_R1_C03.uasset",
+    "bytes": 3045090,
+    "sha256": "13b7da2ba89938f79cf6272eaedd1d4fd8fe2d5426e65446caab199bc3eed222"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_D_BLEACHER_SIDELINE_R1_C04.uasset",
+    "bytes": 2958279,
+    "sha256": "cb9f0cc01b5b6fbe0c3f6261d73f58bc6ba0a94a0c6425636977fd2531164d53"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_D_BLEACHER_SIDELINE_R1_C05.uasset",
+    "bytes": 3099073,
+    "sha256": "6c297750047ce2e1d295734068304ce19c333719932af69549dce64f48ab1e49"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_D_BLEACHER_SIDELINE_R1_C06.uasset",
+    "bytes": 3085723,
+    "sha256": "b26825fd698cf470616ae9d896b2ea31312be16157a488a34a2a79e80e91421c"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_D_BLEACHER_SIDELINE_R2_C01.uasset",
+    "bytes": 3043579,
+    "sha256": "674e6146f5a7640948c0b4d538309270923252c4d516b4a75ba068666bfbe321"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_D_BLEACHER_SIDELINE_R2_C02.uasset",
+    "bytes": 2911077,
+    "sha256": "ea8f5f9e35d784eea36fb872d3ae918b860b3ea4cb5671ad5163b4cf23a6e98b"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_D_BLEACHER_SIDELINE_R2_C03.uasset",
+    "bytes": 3107077,
+    "sha256": "045b76d5dc7e0cf1ffbd591e4aacfcc368315b8f52b49c051c50aa884dc5b146"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_D_BLEACHER_SIDELINE_R2_C04.uasset",
+    "bytes": 2986036,
+    "sha256": "bbf9ca59a7bf685938713ef9df4cec2b3b9aedd5b8fff74f43ee8a281736f27e"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_D_BLEACHER_SIDELINE_R2_C05.uasset",
+    "bytes": 2848381,
+    "sha256": "e20071c966a36e9307fc9d2a685366d574a103799abb45656eaece759f70722f"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R09/Textures/T_D_BLEACHER_SIDELINE_R2_C06.uasset",
+    "bytes": 3126105,
+    "sha256": "5a6c9d89093f57fd589c20a68009f7ee0f44583ced0469dac697938f7659e26e"
+  },
+  {
+    "path": "project/Content/Campus/GymBannersR27R10/Meshes/BannerCloth_Master_R10.uasset",
+    "bytes": 75200,
+    "sha256": "7f1639f9dbc9e20f8ba577b980ff64003a2d3f9ad48f5b01bd99ff0e9a362b96"
+  },
+  {
+    "path": "project/Content/Campus/GymFinishR27R11/Materials/M_PhotoCMU_M_Gray_thin_brick1_AA_Valid.uasset",
+    "bytes": 16838,
+    "sha256": "507e9cb64ab5e568ebe91d35cbb6ef4b0b712e0f5ad43c4720e564c9ebd6d466"
+  },
+  {
+    "path": "project/Content/Campus/GymFinishR27R11/Materials/M_PhotoCMU_M_Gray_thin_brick_AA_Valid.uasset",
+    "bytes": 16751,
+    "sha256": "9c9e78d44efb1ca2f079bdad4cb112bb11d7d56227b4ec89f91004f7128fa59e"
+  },
+  {
+    "path": "project/Content/Campus/GymPhotoR27R08/Materials/M_Black_Painted_Pipe.uasset",
+    "bytes": 6433,
+    "sha256": "e7e69bed69428e64f939e34fd2317b413dc10976b586875adc09cbf6ed7e8bee"
+  },
+  {
+    "path": "project/Content/Campus/GymPhotoR27R08/Materials/M_Diffuser_Annular_Shadow.uasset",
+    "bytes": 5601,
+    "sha256": "e0efc5d662613aaf5efb26627fab155b94e6e7f01d40af48cae163b8ef85f6e7"
+  },
+  {
+    "path": "project/Content/Campus/GymPhotoR27R08/Materials/M_GymMaple_PhotoFinish.uasset",
+    "bytes": 13393,
+    "sha256": "c8c1b0b3bf00eb9ba61448ff18653b4630bc853c2ea9138877037178d6e2a2ba"
+  },
+  {
+    "path": "project/Content/Campus/GymPhotoR27R08/Materials/M_Navy_Divider_Cloth.uasset",
+    "bytes": 5576,
+    "sha256": "4d43220f63b07de3716c0ac95c244b4c336b80dd42875c4ac3d68a504578f39c"
+  },
+  {
+    "path": "project/Content/Campus/GymPhotoR27R08/Materials/M_Paired_Strip_Lens.uasset",
+    "bytes": 5998,
+    "sha256": "34be3f7e4e0294a233a8e2a717c276e95262af4f13417dd604327211018406d4"
+  },
+  {
+    "path": "project/Content/Campus/GymPhotoR27R08/Materials/M_Skylight_Pale_Blue.uasset",
+    "bytes": 6375,
+    "sha256": "bf8a820763daf34768055a3a1a424863ea9b0765f4811a810df7603b4e73aefc"
+  },
+  {
+    "path": "project/Content/Campus/GymPhotoR27R08/Materials/M_Warm_Offwhite_Deck.uasset",
+    "bytes": 6433,
+    "sha256": "cb5a6e4eca67f66b16c3153869b645c678562fbb56c13ebb0ca72f166bd6a3ae"
+  },
+  {
+    "path": "project/Content/Campus/GymPhotoR27R08/Materials/M_Warm_Offwhite_Steel.uasset",
+    "bytes": 6438,
+    "sha256": "e18cc964ea88d5b5039bb17e03b4fc8a75908ec69d9468e2f67a09049fbedb50"
+  },
+  {
+    "path": "project/Content/Campus/GymPhotoR27R08/Meshes/Black_Services/Black_Services.uasset",
+    "bytes": 101271,
+    "sha256": "8d1e62c795b80b7182da9beb7ef049b142c716bdafddf10dfd1cf93ccc6a8ac5"
+  },
+  {
+    "path": "project/Content/Campus/GymPhotoR27R08/Meshes/Ceiling_Deck/Ceiling_Deck_Skylight_Pale_Blue.uasset",
+    "bytes": 71317,
+    "sha256": "71cd29f48a983a71b8378c20644596527d4e647414c101ba4770f74241a4655d"
+  },
+  {
+    "path": "project/Content/Campus/GymPhotoR27R08/Meshes/Ceiling_Deck/Ceiling_Deck_Warm_Offwhite_Deck.uasset",
+    "bytes": 498910,
+    "sha256": "ec6ccf5c0070f467f5307b14fe1797fee65e70b1fae05203b8bd384c84415a50"
+  },
+  {
+    "path": "project/Content/Campus/GymPhotoR27R08/Meshes/Ceiling_Deck/Ceiling_Deck_Warm_Offwhite_Steel.uasset",
+    "bytes": 76232,
+    "sha256": "de7a43b37bb7f66666ef3d325f0850d98d61ca1bce661ecda408c72f674ee666"
+  },
+  {
+    "path": "project/Content/Campus/GymPhotoR27R08/Meshes/Ceiling_Trusses/Ceiling_Trusses.uasset",
+    "bytes": 120386,
+    "sha256": "353e5e9ba88278c11f80da0ce32cda98f52ff5706365f45549a14749dbeead6a"
+  },
+  {
+    "path": "project/Content/Campus/GymPhotoR27R08/Meshes/Divider_Curtain/Divider_Curtain_Black_Painted_Pipe.uasset",
+    "bytes": 75707,
+    "sha256": "33854d8683a8b3b1ce2f10cae7597de9ebe50c529ad72d750eba8e9002eded86"
+  },
+  {
+    "path": "project/Content/Campus/GymPhotoR27R08/Meshes/Divider_Curtain/Divider_Curtain_Navy_Divider_Cloth.uasset",
+    "bytes": 72051,
+    "sha256": "a64a131bd3247787fa14a15ea5974979a3abcba0194696e911331b0f1ef9eec1"
+  },
+  {
+    "path": "project/Content/Campus/GymPhotoR27R08/Meshes/Fixture_Visual_Replacements/Fixture_Visual_Replacements_Black_Painted_Pipe.uasset",
+    "bytes": 80770,
+    "sha256": "c88d3f2a2b20bbec1a0dc623d533014d61407e6aa58dc4e3c2163d6a6c3d184a"
+  },
+  {
+    "path": "project/Content/Campus/GymPhotoR27R08/Meshes/Fixture_Visual_Replacements/Fixture_Visual_Replacements_Paired_Strip_Lens.uasset",
+    "bytes": 75868,
+    "sha256": "2ae403da86805ab9b4a7c2043927ed474c900ed644752e3e2ddefb140798d74f"
+  },
+  {
+    "path": "project/Content/Campus/GymPhotoR27R08/Meshes/Fixture_Visual_Replacements/Fixture_Visual_Replacements_Warm_Offwhite_Steel.uasset",
+    "bytes": 73068,
+    "sha256": "6cbcf2c448f188b8cd96a8d8fc6f351b83f5dca91c6e78282748f448d37cd3be"
+  },
+  {
+    "path": "project/Content/Campus/GymPhotoR27R08/Meshes/HVAC_Diffusers/HVAC_Diffusers_Diffuser_Annular_Shadow.uasset",
+    "bytes": 91576,
+    "sha256": "12bfd0de2da10d2aea11fa7a40253368b11ff09d67acc68661dcf05241a8bc9b"
+  },
+  {
+    "path": "project/Content/Campus/GymPhotoR27R08/Meshes/HVAC_Diffusers/HVAC_Diffusers_Warm_Offwhite_Steel.uasset",
+    "bytes": 138157,
+    "sha256": "9d1c1675a3b308644c115b91429b2439235559ae11bb5b04dbcc56d18ec384d0"
+  },
+  {
+    "path": "project/Content/Campus/GymPolishR27R03/M_LED_Amber_Readable_R03.uasset",
+    "bytes": 5611,
+    "sha256": "3bfbc7d0be90f97efa6208bd2f52da3c2463c75df88c5328f1e295e4a4855e1c"
+  },
+  {
+    "path": "project/Content/Campus/GymQA_R27R12/Materials/lowGrass_01_02_Mat_GymClip.uasset",
+    "bytes": 8303,
+    "sha256": "f078a9b4dc3b04235ab2ba537d2215b1525295fa936496e847ebb9b14222f61c"
+  },
+  {
+    "path": "project/Content/Campus/GymQA_R27R12/Materials/lowGrass_02_01_Mat_GymClip.uasset",
+    "bytes": 7358,
+    "sha256": "cd1a4668a1864d2275ad28a6200bb55e9c2b3cce33dfd807feb34791882cb6ed"
+  },
+  {
+    "path": "project/Content/Campus/GymQA_R27R12/Materials/lowGrass_02_02_Mat_GymClip.uasset",
+    "bytes": 8303,
+    "sha256": "3db0b16434e2b3245868852f60589cdcb4c43e28c1ed500cc0172a538ac3c9bb"
+  },
+  {
+    "path": "project/Content/Campus/GymQA_R27R12/Materials/M_Diffuser_Annular_Shadow_WhiteTwoSided.uasset",
+    "bytes": 6309,
+    "sha256": "75eabb93487855a76af95443c0f94b69fb86e588ae4c6ee7c8cf1c1ffad862a2"
+  },
+  {
+    "path": "project/Content/Campus/GymQA_R27R12/Materials/M_Warm_Offwhite_Steel_WhiteTwoSided.uasset",
+    "bytes": 7146,
+    "sha256": "6d26fbb0c2208d1070cea993f5a127a45084fa19d98054d97607e69e88e55181"
+  },
+  {
+    "path": "project/Content/Campus/GymQA_R27R12/Materials/MA_Grass_GymClip.uasset",
+    "bytes": 39070,
+    "sha256": "4f2992c694e9146b6431c85152a41a385f279cdea5fec783603e97d3de8bd41a"
+  },
+  {
+    "path": "project/Content/Campus/Maps/CampusCenter_Vive_R27_R13_Private_Review.umap",
+    "bytes": 28940169,
+    "sha256": "ffbb1033c6eda7a788ecedfaa188d4760b9d02859da4fb3215fecdc20371c6db"
+  },
+  {
+    "path": "project/Content/Campus/MaterialAuditR01/M_GymOak_GrainScaleCandidate.uasset",
+    "bytes": 17670,
+    "sha256": "ba31b5a1a5d2a625525189b7313086a601d22da492e98401decc689f6506b9d1"
+  },
+  {
+    "path": "project/Content/Campus/PRIVATE_KingHistoricalPostersR27R05/Materials/M_PrivateHistoricalArtwork.uasset",
+    "bytes": 8247,
+    "sha256": "960f233da328ccdcc7ef8f8ef0872992258d2698089e1de1d353e78fa2c4d9d9"
+  },
+  {
+    "path": "project/Content/Campus/PRIVATE_KingHistoricalPostersR27R05/Materials/MI_Private_H01.uasset",
+    "bytes": 3730,
+    "sha256": "c46689dc9ab2501254808f70a67c2c7777593aafc7f6fea3fa2640e5a2f4fb18"
+  },
+  {
+    "path": "project/Content/Campus/PRIVATE_KingHistoricalPostersR27R05/Materials/MI_Private_H02.uasset",
+    "bytes": 3700,
+    "sha256": "ced43a0cdc2a0e17dd23f364b99d2bc0bbe2e1c2ad2a3d8f3eb6fc4bef635cba"
+  },
+  {
+    "path": "project/Content/Campus/PRIVATE_KingHistoricalPostersR27R05/Materials/MI_Private_H03.uasset",
+    "bytes": 3724,
+    "sha256": "db2091598a56a4e92b9f1063b9a5bc3b7dd52dccc24b8e73684ff17e1738e6c5"
+  },
+  {
+    "path": "project/Content/Campus/PRIVATE_KingHistoricalPostersR27R05/Materials/MI_Private_H04.uasset",
+    "bytes": 3744,
+    "sha256": "1ef14a644981a3f9a26728be7dd0839d5e9ca9dac39879666d75d8111f7c0e0e"
+  },
+  {
+    "path": "project/Content/Campus/PRIVATE_KingHistoricalPostersR27R05/Materials/MI_Private_H05.uasset",
+    "bytes": 3764,
+    "sha256": "71836431e56414a1fbc07f26735e136d675fc20bf7bafdfb35a79696ce16980f"
+  },
+  {
+    "path": "project/Content/Campus/PRIVATE_KingHistoricalPostersR27R05/Materials/MI_Private_H06.uasset",
+    "bytes": 3724,
+    "sha256": "f740ea3f7869f06caea2a22359197e83556b9b3c1b42adf87e7bf0370ad7f22b"
+  },
+  {
+    "path": "project/Content/Campus/PRIVATE_KingHistoricalPostersR27R05/Materials/MI_Private_H07.uasset",
+    "bytes": 3724,
+    "sha256": "fe57017ebb9176e8989d41c50796c1ae88f401460751a150d6f512ed4c258705"
+  },
+  {
+    "path": "project/Content/Campus/PRIVATE_KingHistoricalPostersR27R05/Materials/MI_Private_H08.uasset",
+    "bytes": 3724,
+    "sha256": "9407e8b2a51bbffeb9e669ec7cda3ae54a2222d563a848333fdc8d25ef625cb2"
+  },
+  {
+    "path": "project/Content/Campus/PRIVATE_KingHistoricalPostersR27R05/Materials/MI_Private_H09.uasset",
+    "bytes": 3700,
+    "sha256": "f889008d9e5294eec9511f4ff4dc5433e248455a91c42c3897280512f58fb79c"
+  },
+  {
+    "path": "project/Content/Campus/PRIVATE_KingHistoricalPostersR27R05/Materials/MI_Private_H10.uasset",
+    "bytes": 3730,
+    "sha256": "35e4a5f18985f0cdbfb089b153f75f63fd338b378890adc6d385182800ff3027"
+  },
+  {
+    "path": "project/Content/Campus/PRIVATE_KingHistoricalPostersR27R05/Materials/MI_Private_H11.uasset",
+    "bytes": 3744,
+    "sha256": "716aa1cd81f00dde10a08c1a7539a902fed56d9f3cff06169d157308b3c044fd"
+  },
+  {
+    "path": "project/Content/Campus/PRIVATE_KingHistoricalPostersR27R05/Materials/MI_Private_H12.uasset",
+    "bytes": 3764,
+    "sha256": "b577a9d4db4216d55e9cf1947ad49cd57a00494b68e4a4747149d2f8a5001a1b"
+  },
+  {
+    "path": "project/Content/Campus/PRIVATE_KingHistoricalPostersR27R05/Textures/T_Historical_01_pirates_of_penzance_2022.uasset",
+    "bytes": 147830,
+    "sha256": "468c16a09dad0b5cb5985dcd72ebbecae6c63ca6274977665c4e3ba972f6ac95"
+  },
+  {
+    "path": "project/Content/Campus/PRIVATE_KingHistoricalPostersR27R05/Textures/T_Historical_02_macbeth_2021.uasset",
+    "bytes": 1358235,
+    "sha256": "7b55bccd27f8623d89a56d47203c3f08c72f8494621ee0853d12b6a5269244d5"
+  },
+  {
+    "path": "project/Content/Campus/PRIVATE_KingHistoricalPostersR27R05/Textures/T_Historical_03_cinderella_2023_program_cover.uasset",
+    "bytes": 952660,
+    "sha256": "d11f4c549b85219f44f17ae3d72d8571af4397181a01f5cf981a875ee3025e0a"
+  },
+  {
+    "path": "project/Content/Campus/PRIVATE_KingHistoricalPostersR27R05/Textures/T_Historical_04_midsummer_nights_dream_2025.uasset",
+    "bytes": 188095,
+    "sha256": "12e81885516789848b9a3ab0e49456cfe427e5838d728905dbdaf039a586027f"
+  },
+  {
+    "path": "project/Content/Campus/PRIVATE_KingHistoricalPostersR27R05/Textures/T_Historical_05_first_notes_of_fall_2025.uasset",
+    "bytes": 161634,
+    "sha256": "7c11f0932ae188c15c8e0a5bd23632684bea021840c8c46bc57b9f64ff4466e8"
+  },
+  {
+    "path": "project/Content/Campus/PRIVATE_KingHistoricalPostersR27R05/Textures/T_Historical_07_beauty_and_the_beast_jr_2023_program_ad.uasset",
+    "bytes": 348152,
+    "sha256": "bda77c42f5ed58f7bb8d6beaf8ba8bcb65b29a726ce327829cb7df760c4991a8"
+  },
+  {
+    "path": "project/Content/Campus/ResearchAR26R01/Import/ASPIRE_Linear_1200/StaticMeshes/ASPIRE_Linear_1200.uasset",
+    "bytes": 81801,
+    "sha256": "4554f74126abd4786b88c4d21d696acabf320d6454264d79144f747b53706523"
+  },
+  {
+    "path": "project/Content/Campus/ResearchAR26R01/Import/ASPIRE_Linear_2400/StaticMeshes/ASPIRE_Linear_2400.uasset",
+    "bytes": 81801,
+    "sha256": "048e3a44b773c70003aa07b64514da13bf3dc8dab61e1c9f02ae28d621c92402"
+  },
+  {
+    "path": "project/Content/Campus/ResearchAR26R01/Import/ASPIRE_LowCabinet_1200/Materials/GrayCounter.uasset",
+    "bytes": 64812,
+    "sha256": "e96ef0306e8baa519ea73cffab1504ee8355026fcfa17af043bb324cfbf71a1b"
+  },
+  {
+    "path": "project/Content/Campus/ResearchAR26R01/Import/ASPIRE_LowCabinet_1200/StaticMeshes/ASPIRE_LowCabinet_1200.uasset",
+    "bytes": 87386,
+    "sha256": "1ab41f636093f337cb6850e0cf2f49ff3483c960b4404ab9db24cac3c752bc00"
+  },
+  {
+    "path": "project/Content/Campus/ResearchAR26R01/Import/ASPIRE_LVT_1200_Swatch/Textures/ASPIRE_LVT_Hatch_BaseColor.uasset",
+    "bytes": 381201,
+    "sha256": "21d16eaebc7b4469daf8f2c939358a21bd5347fd54154217eb264846b9ed1d43"
+  },
+  {
+    "path": "project/Content/Campus/ResearchAR26R01/Import/ASPIRE_SlatPanel_600/Materials/DarkBacking.uasset",
+    "bytes": 64788,
+    "sha256": "974796e614bd5458be405b2e1a1fefb1b873af75306a054008ffc440e600a286"
+  },
+  {
+    "path": "project/Content/Campus/ResearchAR26R01/Import/ASPIRE_SlatPanel_600/StaticMeshes/ASPIRE_SlatPanel_600.uasset",
+    "bytes": 83745,
+    "sha256": "c8b3236e85417b95871a0c76bcccc10ce691d3f3bbfe71a1a5cd805d90bc0d23"
+  },
+  {
+    "path": "project/Content/Campus/ResearchAR26R01/Import/ASPIRE_VerticalLED_9ft/StaticMeshes/ASPIRE_VerticalLED_9ft.uasset",
+    "bytes": 77468,
+    "sha256": "eba2493376f4d549af0bfc261355003e5aa55e83af9d84f3b20194253f1107bb"
+  },
+  {
+    "path": "project/Content/Campus/ResearchAR26R01/Materials/M_AR26_Baseboard.uasset",
+    "bytes": 5164,
+    "sha256": "cc9af2481a7ecf6f68221cb5a4914edd853c78259b283858713a7cc02d09c48e"
+  },
+  {
+    "path": "project/Content/Campus/ResearchAR26R01/Materials/M_AR26_Diffuser.uasset",
+    "bytes": 5586,
+    "sha256": "9b54e0cd5adc240778d70546631b8e3aeb7e0f270c81777cd7a01c423f5d1676"
+  },
+  {
+    "path": "project/Content/Campus/ResearchAR26R01/Materials/M_AR26_LED.uasset",
+    "bytes": 5561,
+    "sha256": "ddea18ea846cd88937830cb9c23590614719b9aedb4540c41e2ba017d7cda24b"
+  },
+  {
+    "path": "project/Content/Campus/ResearchAR26R01/Materials/M_AR26_M_GroundWarmPlaster_Scoped.uasset",
+    "bytes": 9311,
+    "sha256": "f1dcbef541117c714a73d1513a1d564b87ce8f7db05bcc431f895d66e7afc8fb"
+  },
+  {
+    "path": "project/Content/Campus/ResearchAR26R01/Materials/M_AR26_M_Warm_ivory_facade_brick_Scoped.uasset",
+    "bytes": 15275,
+    "sha256": "3d04114cc579228c060865e8f4337d59be4bc69f5fdd8e785a531d5a509e241d"
+  },
+  {
+    "path": "project/Content/Campus/ResearchAR26R01/Materials/M_AR26_ResearchLVT_Scoped.uasset",
+    "bytes": 14267,
+    "sha256": "b27a8edfd8cbeb3f4a6af4812dad2af1434a05dd43a37edfb87bb64a0bb77f15"
+  },
+  {
+    "path": "project/Content/Campus/ResearchAR26R01/Materials/M_AR26_Screen.uasset",
+    "bytes": 5576,
+    "sha256": "5620f24278bc75b49b98388b1065ff1102db4b3f71e7da8771a42e15ecd5d673"
+  },
+  {
+    "path": "project/Content/Campus/ResearchAR26R01/Materials/M_AR26_White.uasset",
+    "bytes": 5144,
+    "sha256": "79ef8b905add59274a3f8b9542893b504743bf78184a5a414c83cdc688f7300a"
+  },
+  {
+    "path": "project/Content/Campus/RuntimeCompatibilityR27R07/Materials/M_Console_ABS_NaniteRuntime.uasset",
+    "bytes": 10955,
+    "sha256": "45ccf71502a889780859898c5b179945c707437bc7e893ce01df42ccc993c857"
+  },
+  {
+    "path": "project/Content/Campus/RuntimeCompatibilityR27R07/Materials/M_Grip_Rubber_NaniteRuntime.uasset",
+    "bytes": 10955,
+    "sha256": "c8c62473e1245bae90f7429e4638b025fe688cacfaaac832a82dcec4ba8bedb1"
+  },
+  {
+    "path": "project/Content/Campus/RuntimeCompatibilityR27R07/Materials/M_Metal_BrushedSteel_NaniteRuntime.uasset",
+    "bytes": 11071,
+    "sha256": "bbd5c0f99d37e55353c8093bd0d11699ff56f5bd5238a0b2294f2b4bdaa07808"
+  },
+  {
+    "path": "project/Content/Campus/RuntimeCompatibilityR27R07/Materials/M_Metal_Powdercoat_NaniteRuntime.uasset",
+    "bytes": 11038,
+    "sha256": "6b8336ea30247d283ad3bad9f43308e18598bc4cf27fbcd0f9fa32275f471284"
+  },
+  {
+    "path": "project/Content/Campus/RuntimeCompatibilityR27R07/Materials/M_Vinyl_Charcoal_NaniteRuntime.uasset",
+    "bytes": 11024,
+    "sha256": "f7d17a8d15c155ac85a0004ed406eec434d23950ee5819c7fc755af43405b8e2"
+  },
+  {
+    "path": "project/Content/Campus/RuntimeCompatibilityR27R07/Meshes/FA26_PH02_Fitness218_001_PBR_Runtime.uasset",
+    "bytes": 87748,
+    "sha256": "81947b43089866d90fd384332939def08d9da82b6debfe3375e3deee38522f4e"
+  },
+  {
+    "path": "project/Content/Campus/RuntimeCompatibilityR27R07/Meshes/FA26_PH02_Fitness218_002_PBR_Runtime.uasset",
+    "bytes": 88102,
+    "sha256": "611b81f0e2e1119f854afe3f9d9f784448b12f6d2ae86f9e301a13896b538273"
+  },
+  {
+    "path": "project/Content/Campus/RuntimeCompatibilityR27R07/Meshes/FA26_PH02_Fitness218_019_PBR_Runtime.uasset",
+    "bytes": 87432,
+    "sha256": "d1a560bef5573589f7de8649852978564b367eeff66f82a0c37edafbba6f9225"
+  },
+  {
+    "path": "project/Content/Campus/RuntimeCompatibilityR27R07/Meshes/FA26_PH02_Fitness218_020_PBR_Runtime.uasset",
+    "bytes": 87441,
+    "sha256": "f0825d72ce6effa39b7dae133345d603ea7b37d82f8eba7738a4b65fb1a4a245"
+  },
+  {
+    "path": "project/Content/Campus/RuntimeCompatibilityR27R07/Meshes/FA26_PH02_Fitness218_021_PBR_Runtime.uasset",
+    "bytes": 87555,
+    "sha256": "ab0f93817d3835db64b0f5713029f6861d5daa612ce22fe6618cb44bb533a284"
+  },
+  {
+    "path": "project/Content/Campus/RuntimeCompatibilityR27R07/Meshes/FA26_PH02_Fitness218_022_PBR_Runtime.uasset",
+    "bytes": 87505,
+    "sha256": "095c3711274f321f1a88f1a32f656154f90086b412bc4cb6df5cc0887c14b555"
+  },
+  {
+    "path": "project/Content/Campus/RuntimeCompatibilityR27R07/Meshes/FA26_PH02_Fitness218_023_PBR_Runtime.uasset",
+    "bytes": 87525,
+    "sha256": "ddc1a16e20e71bdc41653720d478170fe1e79d98c3165788191857bd62f8f4c8"
+  },
+  {
+    "path": "project/Content/Campus/RuntimeCompatibilityR27R07/Meshes/FA26_PH02_Fitness218_024_PBR_Runtime.uasset",
+    "bytes": 83250,
+    "sha256": "6a385a72b3da77147b93c88132315bb8e2607c7ba4d9668092758f93ecbceca4"
+  },
+  {
+    "path": "project/Content/Campus/RuntimeCompatibilityR27R07/Meshes/FA26_PH02_Fitness218_025_PBR_Runtime.uasset",
+    "bytes": 84567,
+    "sha256": "22408612d559f336c833542b0fd282bf071eb13236527124c51512dae5a0bb90"
+  },
+  {
+    "path": "project/Content/Campus/RuntimeCompatibilityR27R07/Meshes/FA26_PH02_Fitness218_026_PBR_Runtime.uasset",
+    "bytes": 84470,
+    "sha256": "acf8635904d2325a1de20d5ef986fdec6e91b8d66bf8897109aa9b58769833e7"
+  },
+  {
+    "path": "project/Content/Campus/RuntimeCompatibilityR27R07/Meshes/FA26_PH02_Fitness218_031_PBR_Runtime.uasset",
+    "bytes": 83897,
+    "sha256": "05e3bd4519c7f5c15e5eab0f516e733c004f196575e7d74970d87db65e10079c"
+  },
+  {
+    "path": "project/Content/Campus/RuntimeCompatibilityR27R07/Meshes/FA26_PH02_Fitness218_032_PBR_Runtime.uasset",
+    "bytes": 82141,
+    "sha256": "cbaaf5a6ce97ea4807c2f530ecdcd9017034a4200128dcc2933b3e7c88a5bac2"
+  },
+  {
+    "path": "project/Content/Campus/RuntimeCompatibilityR27R07/Meshes/FA26_PH02_Fitness218_033_PBR_Runtime.uasset",
+    "bytes": 75053,
+    "sha256": "3f766433fd7b0a792aebd3af01d3ab3a4e87ca05146c2468722a03bad357e1ba"
+  },
+  {
+    "path": "project/Content/Campus/RuntimeCompatibilityR27R07/Meshes/FA26_PH02_Fitness218_034_PBR_Runtime.uasset",
+    "bytes": 50466,
+    "sha256": "93b71cfde9995bf8534e171c7a36f37757f9ee49d03e61dd453ee07c0568e969"
+  },
+  {
+    "path": "project/Content/Campus/RuntimeCompatibilityR27R07/Meshes/FA26_PH02_Fitness218_040_PBR_Runtime.uasset",
+    "bytes": 74946,
+    "sha256": "38c841cf4171a9acb1fc95a4b2a904d17fd2a98a57abf0805d85da7982cc5c8c"
+  },
+  {
+    "path": "project/Content/Campus/RuntimeCompatibilityR27R07/Meshes/FA26_PH02_Fitness218_043_PBR_Runtime.uasset",
+    "bytes": 270023,
+    "sha256": "72192984a2985fbdb51679ed274f3a3d9afae000507b023b04785864fe2e95fd"
+  },
+  {
+    "path": "project/Content/Campus/RuntimeCompatibilityR27R07/Meshes/FA26_PH02_Fitness218_044_PBR_Runtime.uasset",
+    "bytes": 38015,
+    "sha256": "4d499847d8311be4d8356fa917b144c76fd0f7a96197b2a0f77232abbac5e7b3"
+  },
+  {
+    "path": "project/Content/Campus/RuntimeCompatibilityR27R07/Meshes/FA26_PH02_Fitness218_045_PBR_Runtime.uasset",
+    "bytes": 38335,
+    "sha256": "d9ffc37227fcacc3b982f04cbfd17e4bdba02337e93f93f8b778f9476ddcd55d"
+  },
+  {
+    "path": "project/Content/Campus/RuntimeCompatibilityR27R07/Meshes/R25_U218_Furniture_EQ27_R01_PBR_Runtime.uasset",
+    "bytes": 710091,
+    "sha256": "3cb2a200f1ab2a074fb8188cd53c4de0eda95c340ada18c102289877d8dbdccb"
+  },
+  {
+    "path": "project/Content/Campus/ScoreboardR27R04/Materials/M_Scoreboard_RegisteredFace.uasset",
+    "bytes": 11043,
+    "sha256": "f7b828ee2d69bbbdeaeabfbb12b55ee31a697d2a8b450cfea95ef77eace31f6c"
+  },
+  {
+    "path": "project/Content/Campus/ScoreboardR27R04/Textures/T_Scoreboard_basecolor.uasset",
+    "bytes": 2527721,
+    "sha256": "f835e6e3fdf350717ab108a40353b187e98b9e8236ef4b9f3d5270b9c3aeb7f7"
+  },
+  {
+    "path": "project/Content/Campus/ScoreboardR27R04/Textures/T_Scoreboard_emissive.uasset",
+    "bytes": 472954,
+    "sha256": "1173ac8e9f26b9939974e7a2b030b397e42eed1dfcd8250cfa688a57f5b5cac9"
+  },
+  {
+    "path": "project/Content/Campus/ScoreboardR27R04/Textures/T_Scoreboard_height_16bit.uasset",
+    "bytes": 1374620,
+    "sha256": "cf1c977aef800f38ca5f6eb348e620c7abc7d6a78f2528c5be680768e3ce850d"
+  },
+  {
+    "path": "project/Content/Campus/ScoreboardR27R04/Textures/T_Scoreboard_normal_opengl.uasset",
+    "bytes": 807436,
+    "sha256": "86c8e596c0f651b5b84a35fda7a8d74b4b55a95258b971763a853c3b9762b01f"
+  },
+  {
+    "path": "project/Content/Campus/ScoreboardR27R04/Textures/T_Scoreboard_roughness.uasset",
+    "bytes": 19010,
+    "sha256": "693fa5d1a4df1e635dc5e8513cb0e95c85f9e90c8ab6879720b657277f0b488e"
+  },
+  {
+    "path": "project/Content/Campus/VarsityKR27R03/Materials/M_RubberScoped_M_Dark_metal_VarsityK.uasset",
+    "bytes": 20936,
+    "sha256": "622240e72ff3b21b80479a215bd50e35df5ccfdf85bc6e46d3656bf67dc9c2f4"
+  },
+  {
+    "path": "project/Content/Campus/VarsityKR27R03/Materials/M_RubberScoped_M_GroundWarmPlaster_VarsityK.uasset",
+    "bytes": 21611,
+    "sha256": "0be1ef9b7a852c7b151b282de23711c7a0b530a87b65276d42bc48705242e5f7"
+  },
+  {
+    "path": "project/Content/Campus/VarsityKR27R03/Materials/M_RubberScoped_M_Light_stone_paving_VarsityK.uasset",
+    "bytes": 27287,
+    "sha256": "e5d8b8e1be3e0b988dece479796a0d4c4f1e081b2ed0d547168020c9ec1e5bb4"
+  },
+  {
+    "path": "project/Content/Campus/VarsityKR27R03/Materials/M_RubberScoped_M_Warm_ivory_facade_brick_VarsityK.uasset",
+    "bytes": 27324,
+    "sha256": "91b4d17855b586ab235f2fcb449cbf8cf6879655690749f7ac5dc2ffb5c7df82"
+  },
+  {
+    "path": "project/Content/Campus/VarsityKR27R03/Materials/M_RubberScoped_M_Warm_Painted_Plaster_VarsityK.uasset",
+    "bytes": 27142,
+    "sha256": "17a979885364fc89f71220fcbdfe91246848f63eb3629ece5da5a66abadef7a7"
+  },
+  {
+    "path": "project/Content/Campus/VarsityKR27R03/Textures/T_VarsityK_SourceTraced_Alpha.uasset",
+    "bytes": 1133890,
+    "sha256": "acf574705d85d99c53e001ef1b855caee8eb85bd2e8b888e3601654a233c0060"
+  },
+  {
+    "path": "project/Plugins/CampusCrowdFix/CampusCrowdFix.uplugin",
+    "bytes": 592,
+    "sha256": "48dfe13c97580f88a0194c3a50a84c4a4301593f9234333dc0f717dcebfda5db"
+  },
+  {
+    "path": "project/Plugins/CampusCrowdFix/Source/CampusCrowdFix/CampusCrowdFix.Build.cs",
+    "bytes": 529,
+    "sha256": "6685775991cfa67f359997c5fc827f44e590b48895f8c727e102556be463091e"
+  },
+  {
+    "path": "project/Plugins/CampusCrowdFix/Source/CampusCrowdFix/Private/CampusCrowdActorManagement.cpp",
+    "bytes": 3326,
+    "sha256": "cc407021efd420f76029913742febbf0eb14aa4309a71c45aa92efc621553fc2"
+  },
+  {
+    "path": "project/Plugins/CampusCrowdFix/Source/CampusCrowdFix/Private/CampusViveTriggerWalk.cpp",
+    "bytes": 7135,
+    "sha256": "165493dd3f904cb3b5ba4d68057c139881015f9a68ac11008453e986faaaa332"
+  },
+  {
+    "path": "project/Plugins/CampusCrowdFix/Source/CampusCrowdFix/Private/CampusViveXROrigin.cpp",
+    "bytes": 2944,
+    "sha256": "a192f13c2f2675d29d2b819e8a70ad830b2f69023bac2c25914ebac2cccac53d"
+  },
+  {
+    "path": "project/Plugins/CampusCrowdFix/Source/CampusCrowdFix/Private/CampusWalkSettings.cpp",
+    "bytes": 865,
+    "sha256": "4b8003d9abd73d87ecd9f567ad9fad48aba4d3f2253ed3e37f4f9798e3916804"
+  },
+  {
+    "path": "project/Plugins/CampusCrowdFix/Source/CampusCrowdFix/Private/CampusWalkTests.cpp",
+    "bytes": 2480,
+    "sha256": "a15103abb978ceeed29e21b00caa4ecb6c2c445578edad7bb1ac8fa3f9ba6a01"
+  },
+  {
+    "path": "project/Plugins/CampusCrowdFix/Source/CampusCrowdFix/Public/CampusCrowdActorManagement.h",
+    "bytes": 755,
+    "sha256": "8337bd5c3729aed28e46efa1694239af798da6b163950f6f50a6dd89cafc7933"
+  },
+  {
+    "path": "project/Plugins/CampusCrowdFix/Source/CampusCrowdFix/Public/CampusViveTriggerWalk.h",
+    "bytes": 2555,
+    "sha256": "c571eee9c2b114c1e07acefcc0d019105b63cd532f1e9ddb19784b233684feac"
+  },
+  {
+    "path": "project/Plugins/CampusCrowdFix/Source/CampusCrowdFix/Public/CampusViveXROrigin.h",
+    "bytes": 690,
+    "sha256": "8d5a1dd4f15bf27b376698f43aa4ce4465cd521838334da4afcd5614c1952ffd"
+  },
+  {
+    "path": "project/Plugins/CampusCrowdFix/Source/CampusCrowdFix/Public/CampusWalkSettings.h",
+    "bytes": 580,
+    "sha256": "b6b8d6a4847fefc8e54893183f5eca5bda97ebd3ca70d3fc3b83d1c3e8811edf"
+  },
+  {
+    "path": "README.md",
+    "bytes": 5865,
+    "sha256": "450f44a6718c6aab6afd2b42fe3c037033dd2b3b1e38e1a12ee964d427dfd2a0"
+  },
+  {
+    "path": "review/clearance-validation.json",
+    "bytes": 1486,
+    "sha256": "c29caa1890c2598c8140f611db09a6326298faf73467e2be3ae18b22f63d6e67"
+  },
+  {
+    "path": "review/diagnostic-gate-check.json",
+    "bytes": 43,
+    "sha256": "e44ab9844b4f6d7327019c90d2ce332b898541705413fabccdd2a83d8524866c"
+  },
+  {
+    "path": "review/preservation.json",
+    "bytes": 2603,
+    "sha256": "30ea2c9e64b6ce209829b3bb39a1cac780dc3fafe4bed7dde52721c5d93215d0"
+  },
+  {
+    "path": "review/stray-traversal-verification-r13.json",
+    "bytes": 5386,
+    "sha256": "0e1b984117a81db59ea9a68ad17aaabdb5c483ff1079935ea38318e9669c37d1"
+  },
+  {
+    "path": "REVIEW_STATUS.json",
+    "bytes": 1524,
+    "sha256": "dbe16f2467617ea7992d6071d7e36ea1303974063ee9de921e3da308eae098f8"
+  }
+]

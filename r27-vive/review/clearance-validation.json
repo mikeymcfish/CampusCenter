@@ -1,0 +1,57 @@
+{
+  "maps": {
+    "before": {
+      "map": "/Game/Campus/Maps/CampusCenter_Vive_R27_R11_Private_MaterialCorrection",
+      "radius_cm": 17.594999313354492,
+      "half_height_cm": 64.0199966430664,
+      "lanes": [
+        {
+          "x": -280,
+          "hits": [
+            "PS08_Bleacher_aisle_step_0"
+          ],
+          "ignoring_only_eight_props_hits": []
+        },
+        {
+          "x": -240,
+          "hits": [
+            "PS08_Bleacher_aisle_step_1"
+          ],
+          "ignoring_only_eight_props_hits": []
+        },
+        {
+          "x": -180,
+          "hits": [
+            "PS08_Bleacher_aisle_step_3"
+          ],
+          "ignoring_only_eight_props_hits": []
+        }
+      ]
+    },
+    "after": {
+      "map": "/Game/Campus/Maps/CampusCenter_Vive_R27_R13_Private_Review",
+      "radius_cm": 17.594999313354492,
+      "half_height_cm": 64.0199966430664,
+      "lanes": [
+        {
+          "x": -280,
+          "hits": [],
+          "ignoring_only_eight_props_hits": []
+        },
+        {
+          "x": -240,
+          "hits": [],
+          "ignoring_only_eight_props_hits": []
+        },
+        {
+          "x": -180,
+          "hits": [],
+          "ignoring_only_eight_props_hits": []
+        }
+      ]
+    }
+  },
+  "headset_tested": false,
+  "method": "PIE capsule sweeps using actual inherited Vive pawn dimensions; before also ignores only eight identified props.",
+  "passed": true
+}
