@@ -1,0 +1,442 @@
+{
+  "base": "Validated R27R11 plus R27R12 material-only correction; R12 candidate map also supported",
+  "new_assets": 0,
+  "new_actors": 0,
+  "expected_desktop_actor_count": 2915,
+  "expected_Vive_actor_count": 2917,
+  "patches": [
+    {
+      "actor": "StaticMeshActor_1332",
+      "component": "StaticMeshComponent0",
+      "label": "PS08_Bleacher_aisle_step_0",
+      "bounds": [
+        [
+          -302.5,
+          -3175.0,
+          0.0
+        ],
+        [
+          -265.0,
+          -3005.0,
+          15.0
+        ]
+      ],
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "before": {
+        "hidden": true,
+        "actor_collision": true,
+        "component_collision": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "collision_profile": "BlockAll"
+      },
+      "after": {
+        "hidden": true,
+        "actor_collision": false,
+        "component_collision": "<CollisionEnabled.NO_COLLISION: 0>",
+        "collision_profile": "BlockAll"
+      }
+    },
+    {
+      "actor": "StaticMeshActor_1333",
+      "component": "StaticMeshComponent0",
+      "label": "PS08_Bleacher_aisle_nosing_0",
+      "bounds": [
+        [
+          -302.5,
+          -3175.0,
+          15.0
+        ],
+        [
+          -298.5,
+          -3005.0,
+          15.239999999999998
+        ]
+      ],
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "before": {
+        "hidden": true,
+        "actor_collision": true,
+        "component_collision": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "collision_profile": "BlockAll"
+      },
+      "after": {
+        "hidden": true,
+        "actor_collision": false,
+        "component_collision": "<CollisionEnabled.NO_COLLISION: 0>",
+        "collision_profile": "BlockAll"
+      }
+    },
+    {
+      "actor": "StaticMeshActor_1334",
+      "component": "StaticMeshComponent0",
+      "label": "PS08_Bleacher_aisle_step_1",
+      "bounds": [
+        [
+          -265.0,
+          -3175.0,
+          0.0
+        ],
+        [
+          -227.5,
+          -3005.0,
+          30.0
+        ]
+      ],
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "before": {
+        "hidden": true,
+        "actor_collision": true,
+        "component_collision": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "collision_profile": "BlockAll"
+      },
+      "after": {
+        "hidden": true,
+        "actor_collision": false,
+        "component_collision": "<CollisionEnabled.NO_COLLISION: 0>",
+        "collision_profile": "BlockAll"
+      }
+    },
+    {
+      "actor": "StaticMeshActor_1335",
+      "component": "StaticMeshComponent0",
+      "label": "PS08_Bleacher_aisle_nosing_1",
+      "bounds": [
+        [
+          -265.0,
+          -3175.0,
+          30.0
+        ],
+        [
+          -261.0,
+          -3005.0,
+          30.240000000000002
+        ]
+      ],
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "before": {
+        "hidden": true,
+        "actor_collision": true,
+        "component_collision": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "collision_profile": "BlockAll"
+      },
+      "after": {
+        "hidden": true,
+        "actor_collision": false,
+        "component_collision": "<CollisionEnabled.NO_COLLISION: 0>",
+        "collision_profile": "BlockAll"
+      }
+    },
+    {
+      "actor": "StaticMeshActor_1336",
+      "component": "StaticMeshComponent0",
+      "label": "PS08_Bleacher_aisle_step_2",
+      "bounds": [
+        [
+          -227.5,
+          -3175.0,
+          0.0
+        ],
+        [
+          -190.0,
+          -3005.0,
+          45.0
+        ]
+      ],
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "before": {
+        "hidden": true,
+        "actor_collision": true,
+        "component_collision": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "collision_profile": "BlockAll"
+      },
+      "after": {
+        "hidden": true,
+        "actor_collision": false,
+        "component_collision": "<CollisionEnabled.NO_COLLISION: 0>",
+        "collision_profile": "BlockAll"
+      }
+    },
+    {
+      "actor": "StaticMeshActor_1337",
+      "component": "StaticMeshComponent0",
+      "label": "PS08_Bleacher_aisle_nosing_2",
+      "bounds": [
+        [
+          -227.5,
+          -3175.0,
+          45.0
+        ],
+        [
+          -223.5,
+          -3005.0,
+          45.239999999999995
+        ]
+      ],
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "before": {
+        "hidden": true,
+        "actor_collision": true,
+        "component_collision": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "collision_profile": "BlockAll"
+      },
+      "after": {
+        "hidden": true,
+        "actor_collision": false,
+        "component_collision": "<CollisionEnabled.NO_COLLISION: 0>",
+        "collision_profile": "BlockAll"
+      }
+    },
+    {
+      "actor": "StaticMeshActor_1338",
+      "component": "StaticMeshComponent0",
+      "label": "PS08_Bleacher_aisle_step_3",
+      "bounds": [
+        [
+          -190.0,
+          -3175.0,
+          0.0
+        ],
+        [
+          -152.5,
+          -3005.0,
+          60.0
+        ]
+      ],
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "before": {
+        "hidden": true,
+        "actor_collision": true,
+        "component_collision": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "collision_profile": "BlockAll"
+      },
+      "after": {
+        "hidden": true,
+        "actor_collision": false,
+        "component_collision": "<CollisionEnabled.NO_COLLISION: 0>",
+        "collision_profile": "BlockAll"
+      }
+    },
+    {
+      "actor": "StaticMeshActor_1339",
+      "component": "StaticMeshComponent0",
+      "label": "PS08_Bleacher_aisle_nosing_3",
+      "bounds": [
+        [
+          -190.0,
+          -3175.0,
+          60.0
+        ],
+        [
+          -186.0,
+          -3005.0,
+          60.239999999999995
+        ]
+      ],
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "before": {
+        "hidden": true,
+        "actor_collision": true,
+        "component_collision": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "collision_profile": "BlockAll"
+      },
+      "after": {
+        "hidden": true,
+        "actor_collision": false,
+        "component_collision": "<CollisionEnabled.NO_COLLISION: 0>",
+        "collision_profile": "BlockAll"
+      }
+    }
+  ],
+  "target_instruction": "Resolve exact actor label/name and StaticMesh component ID; verify source BasicShapes/Cube and original transform. Only these eight actors: set hidden=true, actor collision=false and component collision=NoCollision. Preserve target collision profile and all other properties, all other target collision exceptions, stairs, doors, footprint and helpers. Already disabled/hidden target props are idempotent. Do not replace the target map.",
+  "source_before_visibility": "R12 hides these props; R11+material-only target may still show them. Desired visibility hidden=true in both cases.",
+  "source_asset_retention": true,
+  "reason": "Confirmed isolated inherited PS08 bleacher aisle block/nosing props shown without connecting bleachers in matched WallB view; scoped removal explicitly authorized by parent.",
+  "traversal": {
+    "actor_count": 2915,
+    "only_eight_actor_collision_changes_verified": true,
+    "patches": {
+      "StaticMeshActor_1332": {
+        "actor_collision": {
+          "before": true,
+          "after": false
+        },
+        "collision_enabled": {
+          "before": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "after": "<CollisionEnabled.NO_COLLISION: 0>"
+        }
+      },
+      "StaticMeshActor_1333": {
+        "actor_collision": {
+          "before": true,
+          "after": false
+        },
+        "collision_enabled": {
+          "before": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "after": "<CollisionEnabled.NO_COLLISION: 0>"
+        }
+      },
+      "StaticMeshActor_1334": {
+        "actor_collision": {
+          "before": true,
+          "after": false
+        },
+        "collision_enabled": {
+          "before": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "after": "<CollisionEnabled.NO_COLLISION: 0>"
+        }
+      },
+      "StaticMeshActor_1335": {
+        "actor_collision": {
+          "before": true,
+          "after": false
+        },
+        "collision_enabled": {
+          "before": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "after": "<CollisionEnabled.NO_COLLISION: 0>"
+        }
+      },
+      "StaticMeshActor_1336": {
+        "actor_collision": {
+          "before": true,
+          "after": false
+        },
+        "collision_enabled": {
+          "before": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "after": "<CollisionEnabled.NO_COLLISION: 0>"
+        }
+      },
+      "StaticMeshActor_1337": {
+        "actor_collision": {
+          "before": true,
+          "after": false
+        },
+        "collision_enabled": {
+          "before": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "after": "<CollisionEnabled.NO_COLLISION: 0>"
+        }
+      },
+      "StaticMeshActor_1338": {
+        "actor_collision": {
+          "before": true,
+          "after": false
+        },
+        "collision_enabled": {
+          "before": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "after": "<CollisionEnabled.NO_COLLISION: 0>"
+        }
+      },
+      "StaticMeshActor_1339": {
+        "actor_collision": {
+          "before": true,
+          "after": false
+        },
+        "collision_enabled": {
+          "before": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "after": "<CollisionEnabled.NO_COLLISION: 0>"
+        }
+      }
+    },
+    "capsule_sweep_radius_cm": 30,
+    "capsule_halfheight_cm": 88,
+    "start_y": -3300,
+    "end_y": -2900,
+    "z": 90,
+    "trace_channel": "Visibility",
+    "traces": {
+      "before": [
+        {
+          "x": -280,
+          "hit_count": 1,
+          "ignore_only_eight_props_hit_count": 0,
+          "ignored_actor_ids": [
+            "StaticMeshActor_1332",
+            "StaticMeshActor_1333",
+            "StaticMeshActor_1334",
+            "StaticMeshActor_1335",
+            "StaticMeshActor_1336",
+            "StaticMeshActor_1337",
+            "StaticMeshActor_1338",
+            "StaticMeshActor_1339"
+          ]
+        },
+        {
+          "x": -240,
+          "hit_count": 1,
+          "ignore_only_eight_props_hit_count": 0,
+          "ignored_actor_ids": [
+            "StaticMeshActor_1332",
+            "StaticMeshActor_1333",
+            "StaticMeshActor_1334",
+            "StaticMeshActor_1335",
+            "StaticMeshActor_1336",
+            "StaticMeshActor_1337",
+            "StaticMeshActor_1338",
+            "StaticMeshActor_1339"
+          ]
+        },
+        {
+          "x": -180,
+          "hit_count": 1,
+          "ignore_only_eight_props_hit_count": 0,
+          "ignored_actor_ids": [
+            "StaticMeshActor_1332",
+            "StaticMeshActor_1333",
+            "StaticMeshActor_1334",
+            "StaticMeshActor_1335",
+            "StaticMeshActor_1336",
+            "StaticMeshActor_1337",
+            "StaticMeshActor_1338",
+            "StaticMeshActor_1339"
+          ]
+        }
+      ],
+      "after": [
+        {
+          "x": -280,
+          "hit_count": 0,
+          "ignore_only_eight_props_hit_count": 0,
+          "ignored_actor_ids": [
+            "StaticMeshActor_1332",
+            "StaticMeshActor_1333",
+            "StaticMeshActor_1334",
+            "StaticMeshActor_1335",
+            "StaticMeshActor_1336",
+            "StaticMeshActor_1337",
+            "StaticMeshActor_1338",
+            "StaticMeshActor_1339"
+          ]
+        },
+        {
+          "x": -240,
+          "hit_count": 0,
+          "ignore_only_eight_props_hit_count": 0,
+          "ignored_actor_ids": [
+            "StaticMeshActor_1332",
+            "StaticMeshActor_1333",
+            "StaticMeshActor_1334",
+            "StaticMeshActor_1335",
+            "StaticMeshActor_1336",
+            "StaticMeshActor_1337",
+            "StaticMeshActor_1338",
+            "StaticMeshActor_1339"
+          ]
+        },
+        {
+          "x": -180,
+          "hit_count": 0,
+          "ignore_only_eight_props_hit_count": 0,
+          "ignored_actor_ids": [
+            "StaticMeshActor_1332",
+            "StaticMeshActor_1333",
+            "StaticMeshActor_1334",
+            "StaticMeshActor_1335",
+            "StaticMeshActor_1336",
+            "StaticMeshActor_1337",
+            "StaticMeshActor_1338",
+            "StaticMeshActor_1339"
+          ]
+        }
+      ]
+    },
+    "method": "Read-only native editor collision sweeps at three X lanes across formerly isolated bleacher aisle blocks; packaged normal launch checked separately; not physical headset traversal."
+  }
+}

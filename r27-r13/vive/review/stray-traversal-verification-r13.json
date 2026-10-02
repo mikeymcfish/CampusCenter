@@ -1,0 +1,189 @@
+{
+  "actor_count": 2915,
+  "only_eight_actor_collision_changes_verified": true,
+  "patches": {
+    "StaticMeshActor_1332": {
+      "actor_collision": {
+        "before": true,
+        "after": false
+      },
+      "collision_enabled": {
+        "before": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "after": "<CollisionEnabled.NO_COLLISION: 0>"
+      }
+    },
+    "StaticMeshActor_1333": {
+      "actor_collision": {
+        "before": true,
+        "after": false
+      },
+      "collision_enabled": {
+        "before": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "after": "<CollisionEnabled.NO_COLLISION: 0>"
+      }
+    },
+    "StaticMeshActor_1334": {
+      "actor_collision": {
+        "before": true,
+        "after": false
+      },
+      "collision_enabled": {
+        "before": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "after": "<CollisionEnabled.NO_COLLISION: 0>"
+      }
+    },
+    "StaticMeshActor_1335": {
+      "actor_collision": {
+        "before": true,
+        "after": false
+      },
+      "collision_enabled": {
+        "before": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "after": "<CollisionEnabled.NO_COLLISION: 0>"
+      }
+    },
+    "StaticMeshActor_1336": {
+      "actor_collision": {
+        "before": true,
+        "after": false
+      },
+      "collision_enabled": {
+        "before": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "after": "<CollisionEnabled.NO_COLLISION: 0>"
+      }
+    },
+    "StaticMeshActor_1337": {
+      "actor_collision": {
+        "before": true,
+        "after": false
+      },
+      "collision_enabled": {
+        "before": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "after": "<CollisionEnabled.NO_COLLISION: 0>"
+      }
+    },
+    "StaticMeshActor_1338": {
+      "actor_collision": {
+        "before": true,
+        "after": false
+      },
+      "collision_enabled": {
+        "before": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "after": "<CollisionEnabled.NO_COLLISION: 0>"
+      }
+    },
+    "StaticMeshActor_1339": {
+      "actor_collision": {
+        "before": true,
+        "after": false
+      },
+      "collision_enabled": {
+        "before": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "after": "<CollisionEnabled.NO_COLLISION: 0>"
+      }
+    }
+  },
+  "capsule_sweep_radius_cm": 30,
+  "capsule_halfheight_cm": 88,
+  "start_y": -3300,
+  "end_y": -2900,
+  "z": 90,
+  "trace_channel": "Visibility",
+  "traces": {
+    "before": [
+      {
+        "x": -280,
+        "hit_count": 1,
+        "ignore_only_eight_props_hit_count": 0,
+        "ignored_actor_ids": [
+          "StaticMeshActor_1332",
+          "StaticMeshActor_1333",
+          "StaticMeshActor_1334",
+          "StaticMeshActor_1335",
+          "StaticMeshActor_1336",
+          "StaticMeshActor_1337",
+          "StaticMeshActor_1338",
+          "StaticMeshActor_1339"
+        ]
+      },
+      {
+        "x": -240,
+        "hit_count": 1,
+        "ignore_only_eight_props_hit_count": 0,
+        "ignored_actor_ids": [
+          "StaticMeshActor_1332",
+          "StaticMeshActor_1333",
+          "StaticMeshActor_1334",
+          "StaticMeshActor_1335",
+          "StaticMeshActor_1336",
+          "StaticMeshActor_1337",
+          "StaticMeshActor_1338",
+          "StaticMeshActor_1339"
+        ]
+      },
+      {
+        "x": -180,
+        "hit_count": 1,
+        "ignore_only_eight_props_hit_count": 0,
+        "ignored_actor_ids": [
+          "StaticMeshActor_1332",
+          "StaticMeshActor_1333",
+          "StaticMeshActor_1334",
+          "StaticMeshActor_1335",
+          "StaticMeshActor_1336",
+          "StaticMeshActor_1337",
+          "StaticMeshActor_1338",
+          "StaticMeshActor_1339"
+        ]
+      }
+    ],
+    "after": [
+      {
+        "x": -280,
+        "hit_count": 0,
+        "ignore_only_eight_props_hit_count": 0,
+        "ignored_actor_ids": [
+          "StaticMeshActor_1332",
+          "StaticMeshActor_1333",
+          "StaticMeshActor_1334",
+          "StaticMeshActor_1335",
+          "StaticMeshActor_1336",
+          "StaticMeshActor_1337",
+          "StaticMeshActor_1338",
+          "StaticMeshActor_1339"
+        ]
+      },
+      {
+        "x": -240,
+        "hit_count": 0,
+        "ignore_only_eight_props_hit_count": 0,
+        "ignored_actor_ids": [
+          "StaticMeshActor_1332",
+          "StaticMeshActor_1333",
+          "StaticMeshActor_1334",
+          "StaticMeshActor_1335",
+          "StaticMeshActor_1336",
+          "StaticMeshActor_1337",
+          "StaticMeshActor_1338",
+          "StaticMeshActor_1339"
+        ]
+      },
+      {
+        "x": -180,
+        "hit_count": 0,
+        "ignore_only_eight_props_hit_count": 0,
+        "ignored_actor_ids": [
+          "StaticMeshActor_1332",
+          "StaticMeshActor_1333",
+          "StaticMeshActor_1334",
+          "StaticMeshActor_1335",
+          "StaticMeshActor_1336",
+          "StaticMeshActor_1337",
+          "StaticMeshActor_1338",
+          "StaticMeshActor_1339"
+        ]
+      }
+    ]
+  },
+  "method": "Read-only native editor collision sweeps at three X lanes across formerly isolated bleacher aisle blocks; packaged normal launch checked separately; not physical headset traversal."
+}

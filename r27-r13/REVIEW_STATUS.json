@@ -1,0 +1,32 @@
+{
+  "desktop": {
+    "map": "/Game/Campus/Maps/CampusCenter_FA26_Desktop_R27_Enhancements_R13_StrayPropClearance",
+    "actor_count": 2915,
+    "cook_launch_close": "PASS (exit 0)",
+    "white_concentric_HVAC_diffusers": true,
+    "grass_cleared": true,
+    "eight_stray_step_props_hidden_noncolliding": true,
+    "three_capsule_lanes_clear": true
+  },
+  "vive": {
+    "map": "/Game/Campus/Maps/CampusCenter_Vive_R27_R13_Private_Review",
+    "map_sha256": "ffbb1033c6eda7a788ecedfaa188d4760b9d02859da4fb3215fecdc20371c6db",
+    "actor_count": 2917,
+    "pinned_assets": 369,
+    "cook_stage_exit": 0,
+    "normal_launch_seconds": 302.86418557167053,
+    "normal_close_exit": 0,
+    "matched_material_shader_fatal_errors": 0,
+    "protected_control_files_unchanged": 12,
+    "input_evidence": "R11: 26 injected trigger/OpenXR-style cases plus 5 keyboard cases pass; final R13 control hashes unchanged.",
+    "scripted_CSV_capture_exit": 777003,
+    "CSV_scope": "Separate instrumentation capture; not the successful normal-launch close result."
+  },
+  "limits": [
+    "Physical Vive/SteamVR session/controller/headset/comfort/performance acceptance untested.",
+    "Two inherited diagnostic route failures: offset Research113 doorway and Fitness rack-front aisle; alternate probes pass.",
+    "D-wall platform/bay photo interpretation deferred.",
+    "66 banners included; photo-fit estimates are not architectural measurements.",
+    "Raw licensed baseline dependencies remain excluded."
+  ]
+}
