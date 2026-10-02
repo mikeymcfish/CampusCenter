@@ -12,10 +12,13 @@ Add-Type -AssemblyName System.IO.Compression.FileSystem
 $repoRoot = [IO.Path]::GetFullPath((Join-Path $PSScriptRoot '..'))
 $pins = Get-Content -LiteralPath (Join-Path $PSScriptRoot 'CampusCenter-R27-R13-downloads.json') -Raw | ConvertFrom-Json
 $spec = $pins.builds.$Build
-$buildRoot = Join-Path $repoRoot ('.campuscenter-runtime\' + $pins.tag + '\' + $Build)
-$cacheRoot = Join-Path $buildRoot 'downloads'
-$expanded = Join-Path $buildRoot 'expanded'
-$staging = Join-Path $buildRoot 'expanded.partial'
+$buildCode = if ($Build -eq 'Vive') { 'v' } else { 'd' }
+# Unreal's DLL loader still uses relative paths subject to Windows MAX_PATH.
+$buildRoot = Join-Path $repoRoot ('.cc\r27r13\' + $buildCode)
+$cacheRoot = Join-Path $buildRoot 'dl'
+$expanded = Join-Path $buildRoot 'w'
+$staging = Join-Path $buildRoot 'w.partial'
+$legacyRoot = Join-Path $repoRoot ('.campuscenter-runtime\' + $pins.tag + '\' + $Build)
 $lock = $null
 
 function Hash-File([string]$Path) {
@@ -110,8 +113,24 @@ function Runtime-Matches([string]$Root, $Manifest) {
 try {
     New-Item -ItemType Directory -Path $cacheRoot -Force | Out-Null
     $lock = [IO.File]::Open((Join-Path $buildRoot 'setup.lock'), [IO.FileMode]::OpenOrCreate, [IO.FileAccess]::ReadWrite, [IO.FileShare]::None)
+    # Preserve/reuse downloads from the initial bootstrap rather than fetching again.
+    if ((Test-Path -LiteralPath (Join-Path $legacyRoot 'downloads')) -and @(Get-ChildItem -LiteralPath $cacheRoot -Force).Count -eq 0) {
+        foreach ($old in @(Get-ChildItem -LiteralPath (Join-Path $legacyRoot 'downloads') -File)) {
+            Move-Item -LiteralPath $old.FullName -Destination (Join-Path $cacheRoot $old.Name)
+        }
+    }
+    if ((Test-Path -LiteralPath (Join-Path $legacyRoot 'expanded')) -and -not (Test-Path -LiteralPath $expanded)) {
+        Move-Item -LiteralPath (Join-Path $legacyRoot 'expanded') -Destination $expanded
+    }
     $manifestPath = Get-Pinned $spec.manifest
     $manifest = Get-Content -LiteralPath $manifestPath -Raw | ConvertFrom-Json
+    $binaryRoot = Join-Path $expanded 'Windows\CampusCenter\Binaries\Win64'
+    foreach ($file in $manifest) {
+        if ($file.path -like 'Windows/*.dll') {
+            $rawDllPath = $binaryRoot + '\..\..\..\' + $file.path.Substring(8).Replace('/', '\')
+            if ($rawDllPath.Length -ge 260) { throw 'This checkout path is too long for the Unreal DLL loader. Move the whole CampusCenter checkout to a shorter folder (for example C:\GitHub\CampusCenter), then rerun this launcher. No Windows security or long-path settings need to change.' }
+        }
+    }
     if (-not (Runtime-Matches $expanded $manifest)) {
         if ($VerifyOnly) { throw 'The extracted runtime is missing or invalid. Run normally to repair it.' }
         $parts = @($spec.parts | ForEach-Object { Get-Pinned $_ })
@@ -162,7 +181,8 @@ try {
     if ($Build -eq 'Vive') { Write-Host 'Use SteamVR as your active OpenXR runtime and connect the headset/controllers. This script does not change runtime or security settings.' }
     $start = @{ FilePath = $executable; WorkingDirectory = (Join-Path $expanded 'Windows') }
     if ($spec.arguments.Count -gt 0) { $start.ArgumentList = @($spec.arguments) }
-    Start-Process @start | Out-Null
+    $launched = Start-Process @start -PassThru
+    if ($launched.WaitForExit(3000) -and $launched.ExitCode -ne 0) { throw "CampusCenter exited during startup (code $($launched.ExitCode)). Check the game window or its Saved/Logs folder; no runtime/security settings were changed." }
     Write-Host 'CampusCenter started.'
 } catch {
     Write-Error -ErrorAction Continue $_.Exception.Message
