@@ -97,8 +97,15 @@ function Runtime-Matches([string]$Root, $Manifest) {
     foreach ($file in $Manifest) {
         if (-not (Matches-Pin (Join-Path $Root $file.path) $file)) { return $false }
     }
-    $actual = @(Get-ChildItem -LiteralPath $Root -Recurse -File)
-    return $actual.Count -eq @($Manifest).Count
+    $expected = @{}
+    foreach ($file in $Manifest) { $expected[$file.path] = $true }
+    $prefixLength = [IO.Path]::GetFullPath($Root).TrimEnd('\').Length + 1
+    foreach ($file in @(Get-ChildItem -LiteralPath $Root -Recurse -File)) {
+        $relative = $file.FullName.Substring($prefixLength).Replace('\', '/')
+        # Unreal may create local saves/config/logs during a normal launch.
+        if (-not $expected.ContainsKey($relative) -and $relative -notmatch '^Windows/(CampusCenter|Engine)/Saved/') { return $false }
+    }
+    return $true
 }
 try {
     New-Item -ItemType Directory -Path $cacheRoot -Force | Out-Null
@@ -153,7 +160,7 @@ try {
     Write-Host "Verified $Build R27 R13 runtime: $executable"
     if ($PrepareOnly -or $VerifyOnly) { Write-Host 'Preparation/verification complete; game not launched.'; exit 0 }
     if ($Build -eq 'Vive') { Write-Host 'Use SteamVR as your active OpenXR runtime and connect the headset/controllers. This script does not change runtime or security settings.' }
-    $start = @{ FilePath = $executable; WorkingDirectory = [IO.Path]::GetDirectoryName($executable) }
+    $start = @{ FilePath = $executable; WorkingDirectory = (Join-Path $expanded 'Windows') }
     if ($spec.arguments.Count -gt 0) { $start.ArgumentList = @($spec.arguments) }
     Start-Process @start | Out-Null
     Write-Host 'CampusCenter started.'

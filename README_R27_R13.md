@@ -4,6 +4,8 @@ Desktop and OpenXR-enabled Vive review builds include all 66 championship banner
 
 ## Download and launch
 
+For a GitHub Desktop checkout, switch to `main`, Fetch origin and Pull origin, then run the root `Start_CampusCenter_Vive.cmd` or `Start_CampusCenter_Desktop.cmd`. These setup launchers automatically download the corresponding pinned release parts, verify checksums, extract the complete build and launch it. GitHub Desktop itself downloads editable source, not the packaged executable. Setup uses a local gitignored `.campuscenter-runtime` folder and needs no token or Unreal editor. The manual release-download method below remains available.
+
 Download all numbered parts for the desired Windows build, plus `ARCHIVE_MANIFEST.json` and `Reassemble-Downloads.ps1`, into one folder. Run `powershell -NoProfile -ExecutionPolicy Bypass -File .\Reassemble-Downloads.ps1`. The helper checks the part count, total size and SHA-256. Extract the resulting ZIP completely before launching; keep the Engine and CampusCenter folders together.
 
 - Desktop: run `Windows/CampusCenter.exe`. Its tested default bootstrap selects `/Game/Campus/Maps/CampusCenter_FA26_Desktop_R27_Enhancements_R13_StrayPropClearance`.
