@@ -1,0 +1,1949 @@
+{
+  "title": "Gym championship banner texture manifest",
+  "date": "2026-10-02",
+  "asset_count": 66,
+  "wall_counts": {
+    "A_RECENT_END": 16,
+    "B_BENCH_SIDELINE": 19,
+    "C_SCOREBOARD_END": 19,
+    "D_BLEACHER_SIDELINE": 12
+  },
+  "total_png_bytes": 208046441,
+  "source_reference_commit": "fd9d2963d132cc7932b2e155374727cfc6a16d5b",
+  "source_reference_directory": "../20261002_name_free/",
+  "provenance": {
+    "kind": "AI-generated visual reconstructions",
+    "method": "Separate built-in image generation call per banner, using the photo-grounded championship transcription. Native PNG bytes preserved without resizing, resampling, recompression, or C2PA removal.",
+    "excluded": "Original photos, student names, individual awards and personal rosters.",
+    "png_metadata": "Each file contains IHDR, IDAT, IEND and caBX chunks. caBX preserves C2PA AI-generation provenance. No EXIF, GPS, XMP, text, ICC or personal-location chunks were found.",
+    "physical_dimensions": "Not surveyed; use established scene geometry and preserve the listed native aspect ratios."
+  },
+  "wall_layout": {
+    "A_RECENT_END": "Opposite scoreboard end: 6 columns in rows 1–2. Row 3: girls tennis at column 1; blank column 2; older red-outline 2007/2008 group at columns 3–5. Tall navy KING padding and gold 1865 floor baseline below.",
+    "B_BENCH_SIDELINE": "Long team-bench wall perpendicular to A and C. Continuous chronological upper strip: 17 banners, but a large Vikings shield gap between columns 9 and 10. Lower 2024 banners hang under approximately upper columns 1–2 and 3–4. American flag at C-end corner after column 17.",
+    "C_SCOREBOARD_END": "Opposite A: 9×2 main grid. Column 10 row 1 is isolated to the RIGHT of the scoreboard, above FAA fair-play panel, not contiguous with grid. Navy KING pads below; U.S. flag at left corner.",
+    "D_BLEACHER_SIDELINE": "Opposite B: compact 6×2 2015–2018 grid above folded wooden bleachers, immediately left of large projecting white wall and elevated white-railed platform with KING cloth. Upper-right banner is partly hidden by that projection."
+  },
+  "user_approved_class_c_assumptions": [
+    "D_BLEACHER_SIDELINE-R1-C02",
+    "D_BLEACHER_SIDELINE-R1-C06",
+    "D_BLEACHER_SIDELINE-R2-C01",
+    "D_BLEACHER_SIDELINE-R2-C03"
+  ],
+  "assets": [
+    {
+      "id": "A_RECENT_END-R1-C01",
+      "file": "wall_a/A_RECENT_END-R1-C01.png",
+      "wall": "A_RECENT_END",
+      "row": 1,
+      "column": 1,
+      "lines": [
+        "FAA",
+        "BOYS BASKETBALL",
+        "CHAMPIONS",
+        "2024-25"
+      ],
+      "source_transcription": [
+        "FAA",
+        "BOYS BASKETBALL",
+        "CHAMPIONS",
+        "2024-25"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3689759,
+      "sha256": "5d971c75f164c2340e138883e102d910446429ef9e794ef352faff48b870b9e1",
+      "git_blob_sha": "2e71501e62fca2fee5b415eebcf2c1815bad41b2",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "A_RECENT_END-R1-C02",
+      "file": "wall_a/A_RECENT_END-R1-C02.png",
+      "wall": "A_RECENT_END",
+      "row": 1,
+      "column": 2,
+      "lines": [
+        "HVAL",
+        "GIRLS BASKETBALL",
+        "CHAMPIONS",
+        "2024-25"
+      ],
+      "source_transcription": [
+        "HVAL",
+        "GIRLS BASKETBALL",
+        "CHAMPIONS",
+        "2024-25"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3514142,
+      "sha256": "988bf2839102b7eb25cc715e47b5755e436cc8b6ceb8d4f670c40259a6b08af7",
+      "git_blob_sha": "a95b084deb4dd6027aed0a4ebd3ab9ad116c4067",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "A_RECENT_END-R1-C03",
+      "file": "wall_a/A_RECENT_END-R1-C03.png",
+      "wall": "A_RECENT_END",
+      "row": 1,
+      "column": 3,
+      "lines": [
+        "FAA",
+        "ICE HOCKEY",
+        "LEAGUE CHAMPIONS",
+        "2024-25"
+      ],
+      "source_transcription": [
+        "FAA",
+        "ICE HOCKEY",
+        "LEAGUE CHAMPIONS",
+        "2024-25"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3318589,
+      "sha256": "1f8c17d0cb718f5e300d35aaffaa9ddedcdb40ebf2793aef087faeadac48f5db",
+      "git_blob_sha": "24571a1f3e039d26426f63fca69b896c6df889d7",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "A_RECENT_END-R1-C04",
+      "file": "wall_a/A_RECENT_END-R1-C04.png",
+      "wall": "A_RECENT_END",
+      "row": 1,
+      "column": 4,
+      "lines": [
+        "HVAL",
+        "GIRLS LACROSSE",
+        "CHAMPIONS",
+        "2025"
+      ],
+      "source_transcription": [
+        "HVAL",
+        "GIRLS LACROSSE",
+        "CHAMPIONS",
+        "2025"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3680509,
+      "sha256": "7fc049b70c51bfbe949ec08e88827f8f6092c0daa1621e44e0976c741bb79597",
+      "git_blob_sha": "95fce0819db127bc10e59a0cf5b1990f376f46f2",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "A_RECENT_END-R1-C05",
+      "file": "wall_a/A_RECENT_END-R1-C05.png",
+      "wall": "A_RECENT_END",
+      "row": 1,
+      "column": 5,
+      "lines": [
+        "NEW ENGLAND McCOY CUP",
+        "BOYS LACROSSE",
+        "CHAMPIONS",
+        "2025"
+      ],
+      "source_transcription": [
+        "NEW ENGLAND McCOY CUP",
+        "BOYS LACROSSE",
+        "CHAMPIONS",
+        "2025"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3869884,
+      "sha256": "014084c01834e5be23ae96d14f3996fd568a8ec7c5c153dcadda2b99973cf026",
+      "git_blob_sha": "8cb0865a5cdc4e3fe7d7a86ffed90013d929450e",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "A_RECENT_END-R1-C06",
+      "file": "wall_a/A_RECENT_END-R1-C06.png",
+      "wall": "A_RECENT_END",
+      "row": 1,
+      "column": 6,
+      "lines": [
+        "NEPSAC CLASS C",
+        "GIRLS TENNIS",
+        "CHAMPIONS",
+        "2025"
+      ],
+      "source_transcription": [
+        "NEPSAC CLASS C",
+        "GIRLS TENNIS",
+        "CHAMPIONS",
+        "2025"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 4003350,
+      "sha256": "74144954afb5ce274136574cf9f50eb06a9014d779444e0a8d7ff44a36972bde",
+      "git_blob_sha": "fedce55ad7b5d70490da70ed82aa57233b85239c",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "A_RECENT_END-R2-C01",
+      "file": "wall_a/A_RECENT_END-R2-C01.png",
+      "wall": "A_RECENT_END",
+      "row": 2,
+      "column": 1,
+      "lines": [
+        "WNEPSFHA CLASS C",
+        "FIELD HOCKEY",
+        "CHAMPIONS",
+        "2025"
+      ],
+      "source_transcription": [
+        "WNEPSFHA CLASS C",
+        "FIELD HOCKEY",
+        "CHAMPIONS",
+        "2025"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3463675,
+      "sha256": "0df40cb01544e0a352086d6e8715b2ab12944f1ce11444bae06428c958b734cc",
+      "git_blob_sha": "aa131f13c6c8237005de743301abdf854bc1ef65",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "A_RECENT_END-R2-C02",
+      "file": "wall_a/A_RECENT_END-R2-C02.png",
+      "wall": "A_RECENT_END",
+      "row": 2,
+      "column": 2,
+      "lines": [
+        "FAA",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2025"
+      ],
+      "source_transcription": [
+        "FAA",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2025"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3311496,
+      "sha256": "3f3497467fa321df244e12765502284f2bed777c875ed8b336136e6550bc4cf5",
+      "git_blob_sha": "bb8c65570bf474328f869c65852cadae76d943df",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "A_RECENT_END-R2-C03",
+      "file": "wall_a/A_RECENT_END-R2-C03.png",
+      "wall": "A_RECENT_END",
+      "row": 2,
+      "column": 3,
+      "lines": [
+        "NEPSAC CLASS A",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2025"
+      ],
+      "source_transcription": [
+        "NEPSAC CLASS A",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2025"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3747132,
+      "sha256": "8e2623c6772bdce1ae649070e4181003f6894ff53c1e637530f14bcac028c9e4",
+      "git_blob_sha": "6192c0761202bcb115fc512cd2a307398d35e35c",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "A_RECENT_END-R2-C04",
+      "file": "wall_a/A_RECENT_END-R2-C04.png",
+      "wall": "A_RECENT_END",
+      "row": 2,
+      "column": 4,
+      "lines": [
+        "HVAL",
+        "GIRLS BASKETBALL",
+        "CHAMPIONS",
+        "2026"
+      ],
+      "source_transcription": [
+        "HVAL",
+        "GIRLS BASKETBALL",
+        "CHAMPIONS",
+        "2026"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3756744,
+      "sha256": "1da7e68455289929374ec5d33938e0830c6df17b7e278ec1098c2f9e1baff70d",
+      "git_blob_sha": "d03f10f1b7b57de202b604c5b603b5677538b24d",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "A_RECENT_END-R2-C05",
+      "file": "wall_a/A_RECENT_END-R2-C05.png",
+      "wall": "A_RECENT_END",
+      "row": 2,
+      "column": 5,
+      "lines": [
+        "FAA",
+        "GIRLS GOLF",
+        "CHAMPIONS",
+        "2026"
+      ],
+      "source_transcription": [
+        "FAA",
+        "GIRLS GOLF",
+        "CHAMPIONS",
+        "2026"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3932107,
+      "sha256": "466cacc048047fd62872637e3df2845238cfc4481cd2960a434e697a56f16d22",
+      "git_blob_sha": "f2427944c0f61c5bd00fb632c78b2058cef304c2",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "A_RECENT_END-R2-C06",
+      "file": "wall_a/A_RECENT_END-R2-C06.png",
+      "wall": "A_RECENT_END",
+      "row": 2,
+      "column": 6,
+      "lines": [
+        "NEPSAC CLASS C",
+        "BOYS TENNIS",
+        "CHAMPIONS",
+        "2026"
+      ],
+      "source_transcription": [
+        "NEPSAC CLASS C",
+        "BOYS TENNIS",
+        "CHAMPIONS",
+        "2026"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3622664,
+      "sha256": "b58c4028d1991042940be28a1690b77e0b6b384de3d42097574d2df25163e4a4",
+      "git_blob_sha": "641fc2af6acd08b01ec04e143852448d20fdff2f",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "A_RECENT_END-R3-C01",
+      "file": "wall_a/A_RECENT_END-R3-C01.png",
+      "wall": "A_RECENT_END",
+      "row": 3,
+      "column": 1,
+      "lines": [
+        "NEPSAC CLASS C",
+        "GIRLS TENNIS",
+        "CHAMPIONS",
+        "2026"
+      ],
+      "source_transcription": [
+        "NEPSAC CLASS C",
+        "GIRLS TENNIS",
+        "CHAMPIONS",
+        "2026"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3751825,
+      "sha256": "5b861bed70df97b388febe77f20ca1ed4e3bd4f682d5fc1feea7a819629176eb",
+      "git_blob_sha": "fa33f104eccef971fe3eb26946c567de293dae4e",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "A_RECENT_END-R3-C03",
+      "file": "wall_a/A_RECENT_END-R3-C03.png",
+      "wall": "A_RECENT_END",
+      "row": 3,
+      "column": 3,
+      "lines": [
+        "NEPSAC",
+        "GIRLS CROSS COUNTRY",
+        "CHAMPIONS",
+        "2007"
+      ],
+      "source_transcription": [
+        "NEPSAC",
+        "GIRLS CROSS COUNTRY",
+        "CHAMPIONS",
+        "2007"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "red_letters_white_outline_on_navy",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3302195,
+      "sha256": "dc4857ebce73466fb9cce7a4300ba79f1601c8626513113787e939c77dc48af9",
+      "git_blob_sha": "4fc92c7d8a722fe6ebee4de52c8b15a113481407",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "A_RECENT_END-R3-C04",
+      "file": "wall_a/A_RECENT_END-R3-C04.png",
+      "wall": "A_RECENT_END",
+      "row": 3,
+      "column": 4,
+      "lines": [
+        "FAA",
+        "SOFTBALL",
+        "CHAMPIONS",
+        "2008"
+      ],
+      "source_transcription": [
+        "FAA",
+        "SOFTBALL",
+        "CHAMPIONS",
+        "2008"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "red_letters_white_outline_on_navy",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3281034,
+      "sha256": "4183f4109ec22e563e3147c224148ba1053e1ea70c3b1fdc4479e2355789adcc",
+      "git_blob_sha": "e8f0f7eb882b447e3d4d249efbbdb694033ac688",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "A_RECENT_END-R3-C05",
+      "file": "wall_a/A_RECENT_END-R3-C05.png",
+      "wall": "A_RECENT_END",
+      "row": 3,
+      "column": 5,
+      "lines": [
+        "WNEPSAA CLASS C",
+        "SOFTBALL",
+        "CHAMPIONS",
+        "2008"
+      ],
+      "source_transcription": [
+        "WNEPSAA CLASS C",
+        "SOFTBALL",
+        "CHAMPIONS",
+        "2008"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "red_letters_white_outline_on_navy",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3729283,
+      "sha256": "8ebe3a82d3eafc9ff3bd058077e7a69764eb550e5e071d3dbf4ba6b5bf48a80d",
+      "git_blob_sha": "7ca0d94fb367f718324b503f2a44fc27349cfab8",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "B_BENCH_SIDELINE-R1-C01",
+      "file": "wall_b/B_BENCH_SIDELINE-R1-C01.png",
+      "wall": "B_BENCH_SIDELINE",
+      "row": 1,
+      "column": 1,
+      "lines": [
+        "FAA",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2018"
+      ],
+      "source_transcription": [
+        "FAA",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2018"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1586,
+      "height": 992,
+      "mode": "RGB",
+      "bytes": 3148317,
+      "sha256": "1a8b2164f9cbe197c163cd09af07195f825048cd55c0901102601e5329259201",
+      "git_blob_sha": "e5c898356c251765495072f34a6461abfe61083f",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "B_BENCH_SIDELINE-R1-C02",
+      "file": "wall_b/B_BENCH_SIDELINE-R1-C02.png",
+      "wall": "B_BENCH_SIDELINE",
+      "row": 1,
+      "column": 2,
+      "lines": [
+        "NEPSAC CLASS C",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2018"
+      ],
+      "source_transcription": [
+        "NEPSAC CLASS C",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2018"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1586,
+      "height": 992,
+      "mode": "RGB",
+      "bytes": 2725949,
+      "sha256": "75bcf66313abe49fa10571bdf47fb3ca99b6d477f8a38c97893a37884b045817",
+      "git_blob_sha": "424c40274b7a3e83f79a763d0265fa3c04450f2e",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "B_BENCH_SIDELINE-R1-C03",
+      "file": "wall_b/B_BENCH_SIDELINE-R1-C03.png",
+      "wall": "B_BENCH_SIDELINE",
+      "row": 1,
+      "column": 3,
+      "lines": [
+        "NEPSAC CLASS B",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2019"
+      ],
+      "source_transcription": [
+        "NEPSAC CLASS B",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2019"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1586,
+      "height": 992,
+      "mode": "RGB",
+      "bytes": 2718074,
+      "sha256": "0d86991101f2de5aff03cbd6650e288d96e0ef41ebeb3cddf4e1a8255f6d0d87",
+      "git_blob_sha": "ac62dc8ca36065cedb43fec0ba792e7240fd7c3d",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "B_BENCH_SIDELINE-R1-C04",
+      "file": "wall_b/B_BENCH_SIDELINE-R1-C04.png",
+      "wall": "B_BENCH_SIDELINE",
+      "row": 1,
+      "column": 4,
+      "lines": [
+        "FAA",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2021"
+      ],
+      "source_transcription": [
+        "FAA",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2021"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1586,
+      "height": 992,
+      "mode": "RGB",
+      "bytes": 2706345,
+      "sha256": "2b0665f3fb26db16e65687434386947143025ad88b43f0844db16fb28e9be9f5",
+      "git_blob_sha": "a0a21992335d08961c6bbee8cc8020323aebbdef",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "B_BENCH_SIDELINE-R1-C05",
+      "file": "wall_b/B_BENCH_SIDELINE-R1-C05.png",
+      "wall": "B_BENCH_SIDELINE",
+      "row": 1,
+      "column": 5,
+      "lines": [
+        "NEPSAC CLASS B",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2021"
+      ],
+      "source_transcription": [
+        "NEPSAC CLASS B",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2021"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1586,
+      "height": 992,
+      "mode": "RGB",
+      "bytes": 2683411,
+      "sha256": "3149713aad42b16c6e32ce80a98511ae221e576dfd2640a24bc888883f2e09a0",
+      "git_blob_sha": "289ffa98770f9343c689d45233a968626f90382a",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "B_BENCH_SIDELINE-R1-C06",
+      "file": "wall_b/B_BENCH_SIDELINE-R1-C06.png",
+      "wall": "B_BENCH_SIDELINE",
+      "row": 1,
+      "column": 6,
+      "lines": [
+        "FAA",
+        "ICE HOCKEY",
+        "CHAMPIONS",
+        "2021-22"
+      ],
+      "source_transcription": [
+        "FAA",
+        "ICE HOCKEY",
+        "CHAMPIONS",
+        "2021-22"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1586,
+      "height": 992,
+      "mode": "RGB",
+      "bytes": 2850790,
+      "sha256": "74e1ebb6521c50535e1392cf3c816d93bb1838d5a159e6e7c29d384a3b7cf6cc",
+      "git_blob_sha": "515c022011888b1374b85f6f687d930faba14157",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "B_BENCH_SIDELINE-R1-C07",
+      "file": "wall_b/B_BENCH_SIDELINE-R1-C07.png",
+      "wall": "B_BENCH_SIDELINE",
+      "row": 1,
+      "column": 7,
+      "lines": [
+        "FAA",
+        "BOYS LACROSSE",
+        "CHAMPIONS",
+        "2022"
+      ],
+      "source_transcription": [
+        "FAA",
+        "BOYS LACROSSE",
+        "CHAMPIONS",
+        "2022"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1585,
+      "height": 992,
+      "mode": "RGB",
+      "bytes": 2789871,
+      "sha256": "3229748116228760a02a569cdc9f75ed57001a8a46bb645a5d580ac1cbbf47f8",
+      "git_blob_sha": "3dc1d0f7617158225901acc5a9f787ce2998217b",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "B_BENCH_SIDELINE-R1-C08",
+      "file": "wall_b/B_BENCH_SIDELINE-R1-C08.png",
+      "wall": "B_BENCH_SIDELINE",
+      "row": 1,
+      "column": 8,
+      "lines": [
+        "FAA",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2022"
+      ],
+      "source_transcription": [
+        "FAA",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2022"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1586,
+      "height": 992,
+      "mode": "RGB",
+      "bytes": 2820483,
+      "sha256": "2a9816df236aa4e085fdb4d5bd4879bdc445737d617ebd2cdb2bbdb04ede0e80",
+      "git_blob_sha": "2a8b796a6331e0be1ce6e0498e5614a771ece650",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "B_BENCH_SIDELINE-R1-C09",
+      "file": "wall_b/B_BENCH_SIDELINE-R1-C09.png",
+      "wall": "B_BENCH_SIDELINE",
+      "row": 1,
+      "column": 9,
+      "lines": [
+        "NEPSAC CLASS B",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2022"
+      ],
+      "source_transcription": [
+        "NEPSAC CLASS B",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2022"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1586,
+      "height": 992,
+      "mode": "RGB",
+      "bytes": 2785351,
+      "sha256": "6795a8cb84cca7b19b39359a5f9546e58cdfa776c6a602a9c1e96409c9d15821",
+      "git_blob_sha": "7bfee3f534c7818a9ed9053702929bc6463036c2",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "B_BENCH_SIDELINE-R1-C10",
+      "file": "wall_b/B_BENCH_SIDELINE-R1-C10.png",
+      "wall": "B_BENCH_SIDELINE",
+      "row": 1,
+      "column": 10,
+      "lines": [
+        "FAA",
+        "ICE HOCKEY",
+        "CHAMPIONS",
+        "2022-23"
+      ],
+      "source_transcription": [
+        "FAA",
+        "ICE HOCKEY",
+        "CHAMPIONS",
+        "2022-23"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1585,
+      "height": 992,
+      "mode": "RGB",
+      "bytes": 2713398,
+      "sha256": "655d47205fb8593d0aedfb50ba7dfca4a3dcaabbc11ec7f87677860eb62870e1",
+      "git_blob_sha": "954335e955520b0aa6af31895ca61f87b60188f0",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "B_BENCH_SIDELINE-R1-C11",
+      "file": "wall_b/B_BENCH_SIDELINE-R1-C11.png",
+      "wall": "B_BENCH_SIDELINE",
+      "row": 1,
+      "column": 11,
+      "lines": [
+        "WNEPSGSBA CLASS C",
+        "SOFTBALL",
+        "CHAMPIONS",
+        "2023"
+      ],
+      "source_transcription": [
+        "WNEPSGSBA CLASS C",
+        "SOFTBALL",
+        "CHAMPIONS",
+        "2023"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1586,
+      "height": 992,
+      "mode": "RGB",
+      "bytes": 2754112,
+      "sha256": "04fe6e32064c72c5c4979ad79ee9f8cf9c2a96efbf2398933500adf74134e8ad",
+      "git_blob_sha": "b80c98bd158ff20df317e3dbea1d6e684df1745b",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "B_BENCH_SIDELINE-R1-C12",
+      "file": "wall_b/B_BENCH_SIDELINE-R1-C12.png",
+      "wall": "B_BENCH_SIDELINE",
+      "row": 1,
+      "column": 12,
+      "lines": [
+        "FAA",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2023"
+      ],
+      "source_transcription": [
+        "FAA",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2023"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1586,
+      "height": 992,
+      "mode": "RGB",
+      "bytes": 2827262,
+      "sha256": "571d7c5ec62ce8f59133160a1716397a08a7b49b8c4c0a454b032083416201e1",
+      "git_blob_sha": "c457990990fa9dffffbead06b0cedd63e90fb723",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "B_BENCH_SIDELINE-R1-C13",
+      "file": "wall_b/B_BENCH_SIDELINE-R1-C13.png",
+      "wall": "B_BENCH_SIDELINE",
+      "row": 1,
+      "column": 13,
+      "lines": [
+        "NEPSAC CLASS B",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2023"
+      ],
+      "source_transcription": [
+        "NEPSAC CLASS B",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2023"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1586,
+      "height": 992,
+      "mode": "RGB",
+      "bytes": 2748128,
+      "sha256": "82420e368aba3605cf59a46255e28f692ebbc9175ec926245dd45d647deb640d",
+      "git_blob_sha": "130de11ef11f4a6c0790932be3ec4ffec49fc776",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "B_BENCH_SIDELINE-R1-C14",
+      "file": "wall_b/B_BENCH_SIDELINE-R1-C14.png",
+      "wall": "B_BENCH_SIDELINE",
+      "row": 1,
+      "column": 14,
+      "lines": [
+        "FAA",
+        "ICE HOCKEY",
+        "LEAGUE CHAMPIONS",
+        "2024"
+      ],
+      "source_transcription": [
+        "FAA",
+        "ICE HOCKEY",
+        "LEAGUE CHAMPIONS",
+        "2024"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1586,
+      "height": 992,
+      "mode": "RGB",
+      "bytes": 2721699,
+      "sha256": "a417ff5495d840dd55f824357c4ef84c5ec36d4b8deee00e47ebce326dfc52aa",
+      "git_blob_sha": "01ca061445cce60dc21f65fe8ed2e5a2db05636b",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "B_BENCH_SIDELINE-R1-C15",
+      "file": "wall_b/B_BENCH_SIDELINE-R1-C15.png",
+      "wall": "B_BENCH_SIDELINE",
+      "row": 1,
+      "column": 15,
+      "lines": [
+        "NEPSAC CLASS C",
+        "GIRLS TENNIS",
+        "CHAMPIONS",
+        "2024"
+      ],
+      "source_transcription": [
+        "NEPSAC CLASS C",
+        "GIRLS TENNIS",
+        "CHAMPIONS",
+        "2024"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1586,
+      "height": 992,
+      "mode": "RGB",
+      "bytes": 2724236,
+      "sha256": "7a168850dd251c11656c4e7897721a0442efbddde9cce4659cc05b6b1811c67c",
+      "git_blob_sha": "645ad683f738f550d01ef73cf44ca4f6699ed9a7",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "B_BENCH_SIDELINE-R1-C16",
+      "file": "wall_b/B_BENCH_SIDELINE-R1-C16.png",
+      "wall": "B_BENCH_SIDELINE",
+      "row": 1,
+      "column": 16,
+      "lines": [
+        "FAA",
+        "BOYS LACROSSE",
+        "CHAMPIONS",
+        "2024"
+      ],
+      "source_transcription": [
+        "FAA",
+        "BOYS LACROSSE",
+        "CHAMPIONS",
+        "2024"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1586,
+      "height": 992,
+      "mode": "RGB",
+      "bytes": 2821737,
+      "sha256": "f0fddf7cf9f55e66aba4eed57b7280212fa4b9153bc1bcd30dad0d3e917d114a",
+      "git_blob_sha": "58e5998bdd54e6bbd9d2e6d2479c268d60a66804",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "B_BENCH_SIDELINE-R1-C17",
+      "file": "wall_b/B_BENCH_SIDELINE-R1-C17.png",
+      "wall": "B_BENCH_SIDELINE",
+      "row": 1,
+      "column": 17,
+      "lines": [
+        "NEW ENGLAND",
+        "BOYS LACROSSE",
+        "McCOY CUP CHAMPIONS",
+        "2024"
+      ],
+      "source_transcription": [
+        "NEW ENGLAND",
+        "BOYS LACROSSE",
+        "McCOY CUP CHAMPIONS",
+        "2024"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1585,
+      "height": 992,
+      "mode": "RGB",
+      "bytes": 2780175,
+      "sha256": "03d788b35fc5ad12f55de5806c51c775071cf1802228bd61b66b87f15dbcc266",
+      "git_blob_sha": "b1fc254c5323d5fcaa4062818cbd86cab526bf0a",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "B_BENCH_SIDELINE-R2-C01",
+      "file": "wall_b/B_BENCH_SIDELINE-R2-C01.png",
+      "wall": "B_BENCH_SIDELINE",
+      "row": 2,
+      "column": 1,
+      "lines": [
+        "FAA",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2024"
+      ],
+      "source_transcription": [
+        "FAA",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2024"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1586,
+      "height": 992,
+      "mode": "RGB",
+      "bytes": 2756484,
+      "sha256": "57fa610662c206d737655214ac9f4071c3c7f40ed04d1eb7136df3d1e0688af5",
+      "git_blob_sha": "71c1a61600741fd79d0f51b2fc98097cc6276dda",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "B_BENCH_SIDELINE-R2-C02",
+      "file": "wall_b/B_BENCH_SIDELINE-R2-C02.png",
+      "wall": "B_BENCH_SIDELINE",
+      "row": 2,
+      "column": 2,
+      "lines": [
+        "NEPSAC CLASS A",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2024"
+      ],
+      "source_transcription": [
+        "NEPSAC CLASS A",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2024"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1586,
+      "height": 992,
+      "mode": "RGB",
+      "bytes": 2712580,
+      "sha256": "9a3345f9cc224f5810ea7184f974e7844047fa39ab1cc7fa7fadac26f0110c42",
+      "git_blob_sha": "a8fb2daed94d37c91bff24e46c5bf2edfa3a03ce",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "C_SCOREBOARD_END-R1-C01",
+      "file": "wall_c/C_SCOREBOARD_END-R1-C01.png",
+      "wall": "C_SCOREBOARD_END",
+      "row": 1,
+      "column": 1,
+      "lines": [
+        "FAA",
+        "FOOTBALL",
+        "CHAMPIONS",
+        "2008"
+      ],
+      "source_transcription": [
+        "FAA",
+        "FOOTBALL",
+        "CHAMPIONS",
+        "2008"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3367919,
+      "sha256": "3b4260e7ed61df88a00ce221fddd18fe27bd339c000433be7e790ef5be964c66",
+      "git_blob_sha": "98699763fce67040beb145bd78cb27ba6ee633b4",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "C_SCOREBOARD_END-R1-C02",
+      "file": "wall_c/C_SCOREBOARD_END-R1-C02.png",
+      "wall": "C_SCOREBOARD_END",
+      "row": 1,
+      "column": 2,
+      "lines": [
+        "FAA",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2008"
+      ],
+      "source_transcription": [
+        "FAA",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2008"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3292030,
+      "sha256": "586083433dc24e7cb2184d63268546823d88b2f8169671b0b38470aba2f3dd24",
+      "git_blob_sha": "8d6ffab953b0ed0bc83b06ad7aa0dd85369a777c",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "C_SCOREBOARD_END-R1-C03",
+      "file": "wall_c/C_SCOREBOARD_END-R1-C03.png",
+      "wall": "C_SCOREBOARD_END",
+      "row": 1,
+      "column": 3,
+      "lines": [
+        "NEPSAC CLASS B",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2008"
+      ],
+      "source_transcription": [
+        "NEPSAC CLASS B",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2008"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 2922762,
+      "sha256": "2fba133035d726638751e5a98b03c72568dc936118cdf7634b036b4e06c12690",
+      "git_blob_sha": "77dd25e712c21b3c14ab71e92ce0a712647182a8",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "C_SCOREBOARD_END-R1-C04",
+      "file": "wall_c/C_SCOREBOARD_END-R1-C04.png",
+      "wall": "C_SCOREBOARD_END",
+      "row": 1,
+      "column": 4,
+      "lines": [
+        "NEPSAC",
+        "GIRLS CROSS COUNTRY",
+        "CHAMPIONS",
+        "2008"
+      ],
+      "source_transcription": [
+        "NEPSAC",
+        "GIRLS CROSS COUNTRY",
+        "CHAMPIONS",
+        "2008"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3066186,
+      "sha256": "ca1dff8aa6aea83abf95457c4c4fcf47c4391ca10d1556d10716b1115171bc3c",
+      "git_blob_sha": "0c37b00498e604bd200f9005e4a09e8d9dc66fb1",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "C_SCOREBOARD_END-R1-C05",
+      "file": "wall_c/C_SCOREBOARD_END-R1-C05.png",
+      "wall": "C_SCOREBOARD_END",
+      "row": 1,
+      "column": 5,
+      "lines": [
+        "FAA",
+        "SOFTBALL",
+        "CHAMPIONS",
+        "2009"
+      ],
+      "source_transcription": [
+        "FAA",
+        "SOFTBALL",
+        "CHAMPIONS",
+        "2009"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3351131,
+      "sha256": "1e56056d39ebcb2e73c60349cbbf037a11d113dd8e566ba23af7df069bdb04c7",
+      "git_blob_sha": "503da8c22d94bed6569dd509ef7f979aad8b059d",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "C_SCOREBOARD_END-R1-C06",
+      "file": "wall_c/C_SCOREBOARD_END-R1-C06.png",
+      "wall": "C_SCOREBOARD_END",
+      "row": 1,
+      "column": 6,
+      "lines": [
+        "FAA",
+        "FOOTBALL",
+        "CHAMPIONS",
+        "2009"
+      ],
+      "source_transcription": [
+        "FAA",
+        "FOOTBALL",
+        "CHAMPIONS",
+        "2009"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3219581,
+      "sha256": "79b217d6ce58c20f238f0e4a2dfb5920be558f4631ed83a6ec2e22235b449dd5",
+      "git_blob_sha": "af062eabf1e70eb9089f08c1adf6cac9535b1a97",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "C_SCOREBOARD_END-R1-C07",
+      "file": "wall_c/C_SCOREBOARD_END-R1-C07.png",
+      "wall": "C_SCOREBOARD_END",
+      "row": 1,
+      "column": 7,
+      "lines": [
+        "FAA",
+        "GIRLS BASKETBALL",
+        "CHAMPIONS",
+        "2010"
+      ],
+      "source_transcription": [
+        "FAA",
+        "GIRLS BASKETBALL",
+        "CHAMPIONS",
+        "2010"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3197567,
+      "sha256": "65c626af3abf847cdf9233abb4354e4978282130e189d8e13395540b0d65f95a",
+      "git_blob_sha": "b3359b3e288d4335ebef15cd55b090b310386b7b",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "C_SCOREBOARD_END-R1-C08",
+      "file": "wall_c/C_SCOREBOARD_END-R1-C08.png",
+      "wall": "C_SCOREBOARD_END",
+      "row": 1,
+      "column": 8,
+      "lines": [
+        "FAA",
+        "SOFTBALL",
+        "CHAMPIONS",
+        "2010"
+      ],
+      "source_transcription": [
+        "FAA",
+        "SOFTBALL",
+        "CHAMPIONS",
+        "2010"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3186208,
+      "sha256": "ce1571b987888f5a425f6dba6d4e02e8d5227aabf8f6cd28bf2c7448dd673a35",
+      "git_blob_sha": "00a2ff8fb4e682de78d85a984e6aa112b46ccb34",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "C_SCOREBOARD_END-R1-C09",
+      "file": "wall_c/C_SCOREBOARD_END-R1-C09.png",
+      "wall": "C_SCOREBOARD_END",
+      "row": 1,
+      "column": 9,
+      "lines": [
+        "WNEPSAA CLASS C",
+        "SOFTBALL",
+        "CHAMPIONS",
+        "2010"
+      ],
+      "source_transcription": [
+        "WNEPSAA CLASS C",
+        "SOFTBALL",
+        "CHAMPIONS",
+        "2010"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 2890857,
+      "sha256": "af5019ed501e39d314c9c78affa2cb8991b861decb0a9b623a347976e6511ec3",
+      "git_blob_sha": "c2ed99627863efd4568ebdf4fed683677f2687ac",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "C_SCOREBOARD_END-R1-C10",
+      "file": "wall_c/C_SCOREBOARD_END-R1-C10.png",
+      "wall": "C_SCOREBOARD_END",
+      "row": 1,
+      "column": 10,
+      "lines": [
+        "FAA",
+        "BASEBALL",
+        "CHAMPIONS",
+        "2011"
+      ],
+      "source_transcription": [
+        "FAA",
+        "BASEBALL",
+        "CHAMPIONS",
+        "2011"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 2788397,
+      "sha256": "4adc34a306bc81a4e52b9012dfff7416a294d61a479ee03f3e5df5293a91a2de",
+      "git_blob_sha": "af8ac30fd05399b11a4d4e343d9127f2b58dc409",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "C_SCOREBOARD_END-R2-C01",
+      "file": "wall_c/C_SCOREBOARD_END-R2-C01.png",
+      "wall": "C_SCOREBOARD_END",
+      "row": 2,
+      "column": 1,
+      "lines": [
+        "NEPSAC CLASS C",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2011"
+      ],
+      "source_transcription": [
+        "NEPSAC CLASS C",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2011"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 2860713,
+      "sha256": "ae1c445573a06e61ce4ee41ec1b1bb63cec787342d5b80d9609097c2f0f867a2",
+      "git_blob_sha": "787ddc8f7465895561e92075d3864d6ef926dab2",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "C_SCOREBOARD_END-R2-C02",
+      "file": "wall_c/C_SCOREBOARD_END-R2-C02.png",
+      "wall": "C_SCOREBOARD_END",
+      "row": 2,
+      "column": 2,
+      "lines": [
+        "FAA",
+        "BOYS SOCCER",
+        "CHAMPIONS",
+        "2011"
+      ],
+      "source_transcription": [
+        "FAA",
+        "BOYS SOCCER",
+        "CHAMPIONS",
+        "2011"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3470192,
+      "sha256": "27b8fe50bde878f66f09605af8faf1825387953edff74dfa0b0bb7caeb310674",
+      "git_blob_sha": "93a08a4b7b94e30058e93868aa6b92ca7814639e",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "C_SCOREBOARD_END-R2-C03",
+      "file": "wall_c/C_SCOREBOARD_END-R2-C03.png",
+      "wall": "C_SCOREBOARD_END",
+      "row": 2,
+      "column": 3,
+      "lines": [
+        "FAA",
+        "FOOTBALL",
+        "CHAMPIONS",
+        "2012"
+      ],
+      "source_transcription": [
+        "FAA",
+        "FOOTBALL",
+        "CHAMPIONS",
+        "2012"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3273805,
+      "sha256": "798dd1a82f78111e9d98d9b3312c70a6797b23e5c7fd2b4d0158adbb81faff35",
+      "git_blob_sha": "b3816370191ccdd04faa36729fd582f665bd60ce",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "C_SCOREBOARD_END-R2-C04",
+      "file": "wall_c/C_SCOREBOARD_END-R2-C04.png",
+      "wall": "C_SCOREBOARD_END",
+      "row": 2,
+      "column": 4,
+      "lines": [
+        "FAA",
+        "ICE HOCKEY",
+        "CHAMPIONS",
+        "2013"
+      ],
+      "source_transcription": [
+        "FAA",
+        "ICE HOCKEY",
+        "CHAMPIONS",
+        "2013"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 2987779,
+      "sha256": "394efb34ce51267de0317088bef4adbde8396324bf9535f7cafa2862d09e8d62",
+      "git_blob_sha": "d09707a43f4ab1b729a9272aaafb1ef881678a13",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "C_SCOREBOARD_END-R2-C05",
+      "file": "wall_c/C_SCOREBOARD_END-R2-C05.png",
+      "wall": "C_SCOREBOARD_END",
+      "row": 2,
+      "column": 5,
+      "lines": [
+        "NEPSAC CLASS C",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2013"
+      ],
+      "source_transcription": [
+        "NEPSAC CLASS C",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2013"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3459699,
+      "sha256": "bb592cf8afdce7c15b5f626941b342e14a788259479fa20e5653556fa488a020",
+      "git_blob_sha": "9e7bd73bdd7afd8d9a94e98f1d0056a0b497a563",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "C_SCOREBOARD_END-R2-C06",
+      "file": "wall_c/C_SCOREBOARD_END-R2-C06.png",
+      "wall": "C_SCOREBOARD_END",
+      "row": 2,
+      "column": 6,
+      "lines": [
+        "FAA",
+        "SOFTBALL",
+        "CHAMPIONS",
+        "2014"
+      ],
+      "source_transcription": [
+        "FAA",
+        "SOFTBALL",
+        "CHAMPIONS",
+        "2014"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3667321,
+      "sha256": "623cfe2e852b8de85c703a743a131e4a0177c83f85c65a3c7b612f3df6849889",
+      "git_blob_sha": "f296393e412ba82562ef8da9cd07c5ea08ed37aa",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "C_SCOREBOARD_END-R2-C07",
+      "file": "wall_c/C_SCOREBOARD_END-R2-C07.png",
+      "wall": "C_SCOREBOARD_END",
+      "row": 2,
+      "column": 7,
+      "lines": [
+        "FAA",
+        "BASEBALL",
+        "CHAMPIONS",
+        "2014"
+      ],
+      "source_transcription": [
+        "FAA",
+        "BASEBALL",
+        "CHAMPIONS",
+        "2014"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3218960,
+      "sha256": "0fd8a10cd27c6aec6aaaec2aba8fcf0217909772c8a75f13bfb74cd2aac0c976",
+      "git_blob_sha": "1a6822eadae7d2df24c9dfda93bbe4f7abb16da4",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "C_SCOREBOARD_END-R2-C08",
+      "file": "wall_c/C_SCOREBOARD_END-R2-C08.png",
+      "wall": "C_SCOREBOARD_END",
+      "row": 2,
+      "column": 8,
+      "lines": [
+        "FAA",
+        "FOOTBALL",
+        "CHAMPIONS",
+        "2014"
+      ],
+      "source_transcription": [
+        "FAA",
+        "FOOTBALL",
+        "CHAMPIONS",
+        "2014"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3648778,
+      "sha256": "e88db707968b6e2d6b96766ab48ed4bb17b298a8c7e71e0c586db85f691a8a4f",
+      "git_blob_sha": "b3249c82b2ae4c86487bfc16b14600d64a123e70",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "C_SCOREBOARD_END-R2-C09",
+      "file": "wall_c/C_SCOREBOARD_END-R2-C09.png",
+      "wall": "C_SCOREBOARD_END",
+      "row": 2,
+      "column": 9,
+      "lines": [
+        "FAA",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2014"
+      ],
+      "source_transcription": [
+        "FAA",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2014"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3265581,
+      "sha256": "bcd7b1085d12f3d22134cc88d0d9b121a964632899053d5925a7d138612db097",
+      "git_blob_sha": "f8309688423872fbf7c0ec4a11fb6bd323512065",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "D_BLEACHER_SIDELINE-R1-C01",
+      "file": "wall_d/D_BLEACHER_SIDELINE-R1-C01.png",
+      "wall": "D_BLEACHER_SIDELINE",
+      "row": 1,
+      "column": 1,
+      "lines": [
+        "FAA",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2015"
+      ],
+      "source_transcription": [
+        "FAA",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2015"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3172786,
+      "sha256": "f8dc6b3b742db8eec8574b7a4e13ae3ad2458a8078de92d4473d8b4eda76c919",
+      "git_blob_sha": "615a0f9490308d33a10ed9a94f0f54f727fc7756",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "D_BLEACHER_SIDELINE-R1-C02",
+      "file": "wall_d/D_BLEACHER_SIDELINE-R1-C02.png",
+      "wall": "D_BLEACHER_SIDELINE",
+      "row": 1,
+      "column": 2,
+      "lines": [
+        "NEPSAC CLASS C",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2015"
+      ],
+      "source_transcription": [
+        "NEPSAC CLASS [C?]",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2015"
+      ],
+      "source_text_status": "user_approved_class_c_assumption_not_photo_verified",
+      "assumption": "Class C approved for reconstruction; the source photograph does not independently verify this letter.",
+      "style": "gold_collegiate_on_navy",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3084678,
+      "sha256": "33cf9331e37d88bd4c587450fef166482b6a4590cc6028bace79f09af5fd9ec5",
+      "git_blob_sha": "b0c7371f319d9876f86c0880846dae1eb9a360a4",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "D_BLEACHER_SIDELINE-R1-C03",
+      "file": "wall_d/D_BLEACHER_SIDELINE-R1-C03.png",
+      "wall": "D_BLEACHER_SIDELINE",
+      "row": 1,
+      "column": 3,
+      "lines": [
+        "FAA",
+        "ICE HOCKEY",
+        "CHAMPIONS",
+        "2016"
+      ],
+      "source_transcription": [
+        "FAA",
+        "ICE HOCKEY",
+        "CHAMPIONS",
+        "2016"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3146253,
+      "sha256": "9bca2fe0e7989a69f3556aa7b38a08ed967e5e7ef04784ccd621275b77e92598",
+      "git_blob_sha": "960753bb2fde3c3e380d660c81ff01bcef56c6e6",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "D_BLEACHER_SIDELINE-R1-C04",
+      "file": "wall_d/D_BLEACHER_SIDELINE-R1-C04.png",
+      "wall": "D_BLEACHER_SIDELINE",
+      "row": 1,
+      "column": 4,
+      "lines": [
+        "FAA",
+        "SOFTBALL",
+        "CHAMPIONS",
+        "2016"
+      ],
+      "source_transcription": [
+        "FAA",
+        "SOFTBALL",
+        "CHAMPIONS",
+        "2016"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1584,
+      "height": 993,
+      "mode": "RGB",
+      "bytes": 2728275,
+      "sha256": "02e6933fece6d93803f0ca160ff8ca4b12eb9792581f4c76b6cb50456840acf7",
+      "git_blob_sha": "9bdf6a893532eafaf527042733cabb92b6763f80",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "D_BLEACHER_SIDELINE-R1-C05",
+      "file": "wall_d/D_BLEACHER_SIDELINE-R1-C05.png",
+      "wall": "D_BLEACHER_SIDELINE",
+      "row": 1,
+      "column": 5,
+      "lines": [
+        "FAA",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2016"
+      ],
+      "source_transcription": [
+        "FAA",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2016"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3211388,
+      "sha256": "d05d24e90e1a9894ec38ba7ac892218c0fd93209e0522fe964a89f2194632f7f",
+      "git_blob_sha": "411bb1923b949e226624083e78223af3bf2ec060",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "D_BLEACHER_SIDELINE-R1-C06",
+      "file": "wall_d/D_BLEACHER_SIDELINE-R1-C06.png",
+      "wall": "D_BLEACHER_SIDELINE",
+      "row": 1,
+      "column": 6,
+      "lines": [
+        "NEPSAC CLASS C",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2016"
+      ],
+      "source_transcription": [
+        "NEPSAC CLASS [obscured]",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2016"
+      ],
+      "source_text_status": "user_approved_class_c_assumption_not_photo_verified",
+      "assumption": "Class C approved for reconstruction; the source photograph does not independently verify this letter.",
+      "style": "gold_collegiate_on_navy",
+      "width": 1584,
+      "height": 993,
+      "mode": "RGB",
+      "bytes": 2869832,
+      "sha256": "2f7d01692517507be957ab377173f8e2dbd88512628123b1a922b844f49379cf",
+      "git_blob_sha": "a801240b1d649eadaf22fe0f27214c7c85c63acd",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "D_BLEACHER_SIDELINE-R2-C01",
+      "file": "wall_d/D_BLEACHER_SIDELINE-R2-C01.png",
+      "wall": "D_BLEACHER_SIDELINE",
+      "row": 2,
+      "column": 1,
+      "lines": [
+        "NEPSAC CLASS C",
+        "FOOTBALL",
+        "CHAMPIONS",
+        "2016"
+      ],
+      "source_transcription": [
+        "NEPSAC CLASS [C?]",
+        "FOOTBALL",
+        "CHAMPIONS",
+        "2016"
+      ],
+      "source_text_status": "user_approved_class_c_assumption_not_photo_verified",
+      "assumption": "Class C approved for reconstruction; the source photograph does not independently verify this letter.",
+      "style": "gold_collegiate_on_navy",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3141188,
+      "sha256": "25fcd620900726c8570f9c261cdb8d2a94045326adaf68c75319be9669dc4852",
+      "git_blob_sha": "53c16918076c00c5d09b437ae824f3f8983c84e4",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "D_BLEACHER_SIDELINE-R2-C02",
+      "file": "wall_d/D_BLEACHER_SIDELINE-R2-C02.png",
+      "wall": "D_BLEACHER_SIDELINE",
+      "row": 2,
+      "column": 2,
+      "lines": [
+        "FAA",
+        "LACROSSE",
+        "CHAMPIONS",
+        "2017"
+      ],
+      "source_transcription": [
+        "FAA",
+        "LACROSSE",
+        "CHAMPIONS",
+        "2017"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1584,
+      "height": 993,
+      "mode": "RGB",
+      "bytes": 2674385,
+      "sha256": "8c97ad33695663bc4c7d13c7e36528cc2b86ffa315a7166b25c84d8d7eeb8d66",
+      "git_blob_sha": "478e4673528c25c4b9f09595b6ff5c541212a7a2",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "D_BLEACHER_SIDELINE-R2-C03",
+      "file": "wall_d/D_BLEACHER_SIDELINE-R2-C03.png",
+      "wall": "D_BLEACHER_SIDELINE",
+      "row": 2,
+      "column": 3,
+      "lines": [
+        "NEPSAC CLASS C",
+        "FOOTBALL",
+        "CHAMPIONS",
+        "2017"
+      ],
+      "source_transcription": [
+        "NEPSAC CLASS [C?]",
+        "FOOTBALL",
+        "CHAMPIONS",
+        "2017"
+      ],
+      "source_text_status": "user_approved_class_c_assumption_not_photo_verified",
+      "assumption": "Class C approved for reconstruction; the source photograph does not independently verify this letter.",
+      "style": "gold_collegiate_on_navy",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3222203,
+      "sha256": "a84b5f6c2d5ac2d122c75d0bd886e288e1bfb0c5bb92c03ea7a99ac43da5660b",
+      "git_blob_sha": "059163c7ab9dd79ded15939f8fd93e27d052987b",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "D_BLEACHER_SIDELINE-R2-C04",
+      "file": "wall_d/D_BLEACHER_SIDELINE-R2-C04.png",
+      "wall": "D_BLEACHER_SIDELINE",
+      "row": 2,
+      "column": 4,
+      "lines": [
+        "FAA",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2017"
+      ],
+      "source_transcription": [
+        "FAA",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2017"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3062688,
+      "sha256": "c587303bfd5667174f9caf00fdb2e7c73aa6f948ac5e23117cbeee3cb5bfa0ec",
+      "git_blob_sha": "771fd3bd6a74604b7467bd54b95fb988c595caf3",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "D_BLEACHER_SIDELINE-R2-C05",
+      "file": "wall_d/D_BLEACHER_SIDELINE-R2-C05.png",
+      "wall": "D_BLEACHER_SIDELINE",
+      "row": 2,
+      "column": 5,
+      "lines": [
+        "NEPSAC CLASS C",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2017"
+      ],
+      "source_transcription": [
+        "NEPSAC CLASS C",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2017"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1584,
+      "height": 993,
+      "mode": "RGB",
+      "bytes": 2604187,
+      "sha256": "23781733fba323159f61fd201739f0193aa82698ccdb7ee522a11a46de0a7568",
+      "git_blob_sha": "1fc684b15d2f65bc59acbedfd5b137f47c7a63f7",
+      "qa_status": "cleared"
+    },
+    {
+      "id": "D_BLEACHER_SIDELINE-R2-C06",
+      "file": "wall_d/D_BLEACHER_SIDELINE-R2-C06.png",
+      "wall": "D_BLEACHER_SIDELINE",
+      "row": 2,
+      "column": 6,
+      "lines": [
+        "FAA",
+        "BASEBALL",
+        "CHAMPIONS",
+        "2018"
+      ],
+      "source_transcription": [
+        "FAA",
+        "BASEBALL",
+        "CHAMPIONS",
+        "2018"
+      ],
+      "source_text_status": "source_verified",
+      "assumption": null,
+      "style": "gold_collegiate_on_navy",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "bytes": 3230322,
+      "sha256": "c7dadd5e0f399c71311213390618d0d83cb9afa62bdc399fd0e7a68e3874b3c2",
+      "git_blob_sha": "a8af5e003ad4f72bdf6c932d9e2856e59a198c80",
+      "qa_status": "cleared"
+    }
+  ]
+}
