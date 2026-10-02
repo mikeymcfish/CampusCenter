@@ -1,0 +1,1278 @@
+{
+  "title": "Gym championship banner transcription and placement",
+  "basis": "Seven user-supplied photos, inspected in original pixels and close crops; photos are authoritative, website only corroborates McCoy Cup naming. No student names transcribed.",
+  "unique_team_championship_banners": 66,
+  "generation_ready_count": 62,
+  "wall_layout": {
+    "A_RECENT_END": "Opposite scoreboard end: 6 columns in rows 1\u20132. Row 3: girls tennis at column 1; blank column 2; older red-outline 2007/2008 group at columns 3\u20135. Tall navy KING padding and gold 1865 floor baseline below.",
+    "B_BENCH_SIDELINE": "Long team-bench wall perpendicular to A and C. Continuous chronological upper strip: 17 banners, but a large Vikings shield gap between columns 9 and 10. Lower 2024 banners hang under approximately upper columns 1\u20132 and 3\u20134. American flag at C-end corner after column 17.",
+    "C_SCOREBOARD_END": "Opposite A: 9\u00d72 main grid. Column 10 row 1 is isolated to the RIGHT of the scoreboard, above FAA fair-play panel, not contiguous with grid. Navy KING pads below; U.S. flag at left corner.",
+    "D_BLEACHER_SIDELINE": "Opposite B: compact 6\u00d72 2015\u20132018 grid above folded wooden bleachers, immediately left of large projecting white wall and elevated white-railed platform with KING cloth. Upper-right banner is partly hidden by that projection."
+  },
+  "uncertainties": [
+    {
+      "id": "D_BLEACHER_SIDELINE-R1-C02",
+      "wall": "D_BLEACHER_SIDELINE",
+      "row": 1,
+      "column": 2,
+      "lines": [
+        "NEPSAC CLASS [C?]",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2015"
+      ],
+      "verbatim": "NEPSAC CLASS [C?] / VOLLEYBALL / CHAMPIONS / 2015",
+      "confidence": "medium",
+      "generation_ready": false,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132833692.jpg",
+      "note": "Oblique/folded class letter resembles C but not independently certified from supplied pixels."
+    },
+    {
+      "id": "D_BLEACHER_SIDELINE-R1-C06",
+      "wall": "D_BLEACHER_SIDELINE",
+      "row": 1,
+      "column": 6,
+      "lines": [
+        "NEPSAC CLASS [obscured]",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2016"
+      ],
+      "verbatim": "NEPSAC CLASS [obscured] / VOLLEYBALL / CHAMPIONS / 2016",
+      "confidence": "unreadable_class_only",
+      "generation_ready": false,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132833692.jpg",
+      "note": "Class letter is physically hidden by projecting wall/pillar; do not invent it."
+    },
+    {
+      "id": "D_BLEACHER_SIDELINE-R2-C01",
+      "wall": "D_BLEACHER_SIDELINE",
+      "row": 2,
+      "column": 1,
+      "lines": [
+        "NEPSAC CLASS [C?]",
+        "FOOTBALL",
+        "CHAMPIONS",
+        "2016"
+      ],
+      "verbatim": "NEPSAC CLASS [C?] / FOOTBALL / CHAMPIONS / 2016",
+      "confidence": "medium",
+      "generation_ready": false,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132833692.jpg",
+      "note": "Oblique/folded class letter resembles C but not independently certified from supplied pixels."
+    },
+    {
+      "id": "D_BLEACHER_SIDELINE-R2-C03",
+      "wall": "D_BLEACHER_SIDELINE",
+      "row": 2,
+      "column": 3,
+      "lines": [
+        "NEPSAC CLASS [C?]",
+        "FOOTBALL",
+        "CHAMPIONS",
+        "2017"
+      ],
+      "verbatim": "NEPSAC CLASS [C?] / FOOTBALL / CHAMPIONS / 2017",
+      "confidence": "medium",
+      "generation_ready": false,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132833692.jpg",
+      "note": "Oblique/folded class letter resembles C but not independently certified from supplied pixels."
+    }
+  ],
+  "excluded": "All names, individual award banners, athlete rosters, personal achievement lettering, and original GPS metadata. Do not reconstruct them from these notes.",
+  "corroboration_url": "https://www.kingschoolct.org/athletics/championships",
+  "banners": [
+    {
+      "id": "A_RECENT_END-R1-C01",
+      "wall": "A_RECENT_END",
+      "row": 1,
+      "column": 1,
+      "lines": [
+        "FAA",
+        "BOYS BASKETBALL",
+        "CHAMPIONS",
+        "2024-25"
+      ],
+      "verbatim": "FAA / BOYS BASKETBALL / CHAMPIONS / 2024-25",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132823591.jpg",
+      "note": null
+    },
+    {
+      "id": "A_RECENT_END-R1-C02",
+      "wall": "A_RECENT_END",
+      "row": 1,
+      "column": 2,
+      "lines": [
+        "HVAL",
+        "GIRLS BASKETBALL",
+        "CHAMPIONS",
+        "2024-25"
+      ],
+      "verbatim": "HVAL / GIRLS BASKETBALL / CHAMPIONS / 2024-25",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132823591.jpg",
+      "note": null
+    },
+    {
+      "id": "A_RECENT_END-R1-C03",
+      "wall": "A_RECENT_END",
+      "row": 1,
+      "column": 3,
+      "lines": [
+        "FAA",
+        "ICE HOCKEY",
+        "LEAGUE CHAMPIONS",
+        "2024-25"
+      ],
+      "verbatim": "FAA / ICE HOCKEY / LEAGUE CHAMPIONS / 2024-25",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132823591.jpg",
+      "note": null
+    },
+    {
+      "id": "A_RECENT_END-R1-C04",
+      "wall": "A_RECENT_END",
+      "row": 1,
+      "column": 4,
+      "lines": [
+        "HVAL",
+        "GIRLS LACROSSE",
+        "CHAMPIONS",
+        "2025"
+      ],
+      "verbatim": "HVAL / GIRLS LACROSSE / CHAMPIONS / 2025",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132823591.jpg",
+      "note": null
+    },
+    {
+      "id": "A_RECENT_END-R1-C05",
+      "wall": "A_RECENT_END",
+      "row": 1,
+      "column": 5,
+      "lines": [
+        "NEW ENGLAND McCOY CUP",
+        "BOYS LACROSSE",
+        "CHAMPIONS",
+        "2025"
+      ],
+      "verbatim": "NEW ENGLAND McCOY CUP / BOYS LACROSSE / CHAMPIONS / 2025",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132823591.jpg",
+      "note": null
+    },
+    {
+      "id": "A_RECENT_END-R1-C06",
+      "wall": "A_RECENT_END",
+      "row": 1,
+      "column": 6,
+      "lines": [
+        "NEPSAC CLASS C",
+        "GIRLS TENNIS",
+        "CHAMPIONS",
+        "2025"
+      ],
+      "verbatim": "NEPSAC CLASS C / GIRLS TENNIS / CHAMPIONS / 2025",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132823591.jpg",
+      "note": null
+    },
+    {
+      "id": "A_RECENT_END-R2-C01",
+      "wall": "A_RECENT_END",
+      "row": 2,
+      "column": 1,
+      "lines": [
+        "WNEPSFHA CLASS C",
+        "FIELD HOCKEY",
+        "CHAMPIONS",
+        "2025"
+      ],
+      "verbatim": "WNEPSFHA CLASS C / FIELD HOCKEY / CHAMPIONS / 2025",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132823591.jpg",
+      "note": null
+    },
+    {
+      "id": "A_RECENT_END-R2-C02",
+      "wall": "A_RECENT_END",
+      "row": 2,
+      "column": 2,
+      "lines": [
+        "FAA",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2025"
+      ],
+      "verbatim": "FAA / VOLLEYBALL / CHAMPIONS / 2025",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132823591.jpg",
+      "note": null
+    },
+    {
+      "id": "A_RECENT_END-R2-C03",
+      "wall": "A_RECENT_END",
+      "row": 2,
+      "column": 3,
+      "lines": [
+        "NEPSAC CLASS A",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2025"
+      ],
+      "verbatim": "NEPSAC CLASS A / VOLLEYBALL / CHAMPIONS / 2025",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132823591.jpg",
+      "note": null
+    },
+    {
+      "id": "A_RECENT_END-R2-C04",
+      "wall": "A_RECENT_END",
+      "row": 2,
+      "column": 4,
+      "lines": [
+        "HVAL",
+        "GIRLS BASKETBALL",
+        "CHAMPIONS",
+        "2026"
+      ],
+      "verbatim": "HVAL / GIRLS BASKETBALL / CHAMPIONS / 2026",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132823591.jpg",
+      "note": null
+    },
+    {
+      "id": "A_RECENT_END-R2-C05",
+      "wall": "A_RECENT_END",
+      "row": 2,
+      "column": 5,
+      "lines": [
+        "FAA",
+        "GIRLS GOLF",
+        "CHAMPIONS",
+        "2026"
+      ],
+      "verbatim": "FAA / GIRLS GOLF / CHAMPIONS / 2026",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132823591.jpg",
+      "note": null
+    },
+    {
+      "id": "A_RECENT_END-R2-C06",
+      "wall": "A_RECENT_END",
+      "row": 2,
+      "column": 6,
+      "lines": [
+        "NEPSAC CLASS C",
+        "BOYS TENNIS",
+        "CHAMPIONS",
+        "2026"
+      ],
+      "verbatim": "NEPSAC CLASS C / BOYS TENNIS / CHAMPIONS / 2026",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132823591.jpg",
+      "note": null
+    },
+    {
+      "id": "A_RECENT_END-R3-C01",
+      "wall": "A_RECENT_END",
+      "row": 3,
+      "column": 1,
+      "lines": [
+        "NEPSAC CLASS C",
+        "GIRLS TENNIS",
+        "CHAMPIONS",
+        "2026"
+      ],
+      "verbatim": "NEPSAC CLASS C / GIRLS TENNIS / CHAMPIONS / 2026",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132823591.jpg",
+      "note": null
+    },
+    {
+      "id": "A_RECENT_END-R3-C03",
+      "wall": "A_RECENT_END",
+      "row": 3,
+      "column": 3,
+      "lines": [
+        "NEPSAC",
+        "GIRLS CROSS COUNTRY",
+        "CHAMPIONS",
+        "2007"
+      ],
+      "verbatim": "NEPSAC / GIRLS CROSS COUNTRY / CHAMPIONS / 2007",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "red_letters_white_outline_on_navy",
+      "source_file": "PXL_20261002_132823591.jpg",
+      "note": null
+    },
+    {
+      "id": "A_RECENT_END-R3-C04",
+      "wall": "A_RECENT_END",
+      "row": 3,
+      "column": 4,
+      "lines": [
+        "FAA",
+        "SOFTBALL",
+        "CHAMPIONS",
+        "2008"
+      ],
+      "verbatim": "FAA / SOFTBALL / CHAMPIONS / 2008",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "red_letters_white_outline_on_navy",
+      "source_file": "PXL_20261002_132823591.jpg",
+      "note": null
+    },
+    {
+      "id": "A_RECENT_END-R3-C05",
+      "wall": "A_RECENT_END",
+      "row": 3,
+      "column": 5,
+      "lines": [
+        "WNEPSAA CLASS C",
+        "SOFTBALL",
+        "CHAMPIONS",
+        "2008"
+      ],
+      "verbatim": "WNEPSAA CLASS C / SOFTBALL / CHAMPIONS / 2008",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "red_letters_white_outline_on_navy",
+      "source_file": "PXL_20261002_132823591.jpg",
+      "note": null
+    },
+    {
+      "id": "B_BENCH_SIDELINE-R1-C01",
+      "wall": "B_BENCH_SIDELINE",
+      "row": 1,
+      "column": 1,
+      "lines": [
+        "FAA",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2018"
+      ],
+      "verbatim": "FAA / VOLLEYBALL / CHAMPIONS / 2018",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132826340.jpg",
+      "note": null
+    },
+    {
+      "id": "B_BENCH_SIDELINE-R1-C02",
+      "wall": "B_BENCH_SIDELINE",
+      "row": 1,
+      "column": 2,
+      "lines": [
+        "NEPSAC CLASS C",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2018"
+      ],
+      "verbatim": "NEPSAC CLASS C / VOLLEYBALL / CHAMPIONS / 2018",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132826340.jpg",
+      "note": null
+    },
+    {
+      "id": "B_BENCH_SIDELINE-R1-C03",
+      "wall": "B_BENCH_SIDELINE",
+      "row": 1,
+      "column": 3,
+      "lines": [
+        "NEPSAC CLASS B",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2019"
+      ],
+      "verbatim": "NEPSAC CLASS B / VOLLEYBALL / CHAMPIONS / 2019",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132826340.jpg",
+      "note": null
+    },
+    {
+      "id": "B_BENCH_SIDELINE-R1-C04",
+      "wall": "B_BENCH_SIDELINE",
+      "row": 1,
+      "column": 4,
+      "lines": [
+        "FAA",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2021"
+      ],
+      "verbatim": "FAA / VOLLEYBALL / CHAMPIONS / 2021",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132826340.jpg",
+      "note": null
+    },
+    {
+      "id": "B_BENCH_SIDELINE-R1-C05",
+      "wall": "B_BENCH_SIDELINE",
+      "row": 1,
+      "column": 5,
+      "lines": [
+        "NEPSAC CLASS B",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2021"
+      ],
+      "verbatim": "NEPSAC CLASS B / VOLLEYBALL / CHAMPIONS / 2021",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132826340.jpg",
+      "note": null
+    },
+    {
+      "id": "B_BENCH_SIDELINE-R1-C06",
+      "wall": "B_BENCH_SIDELINE",
+      "row": 1,
+      "column": 6,
+      "lines": [
+        "FAA",
+        "ICE HOCKEY",
+        "CHAMPIONS",
+        "2021-22"
+      ],
+      "verbatim": "FAA / ICE HOCKEY / CHAMPIONS / 2021-22",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132826340.jpg",
+      "note": null
+    },
+    {
+      "id": "B_BENCH_SIDELINE-R1-C07",
+      "wall": "B_BENCH_SIDELINE",
+      "row": 1,
+      "column": 7,
+      "lines": [
+        "FAA",
+        "BOYS LACROSSE",
+        "CHAMPIONS",
+        "2022"
+      ],
+      "verbatim": "FAA / BOYS LACROSSE / CHAMPIONS / 2022",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132826340.jpg",
+      "note": null
+    },
+    {
+      "id": "B_BENCH_SIDELINE-R1-C08",
+      "wall": "B_BENCH_SIDELINE",
+      "row": 1,
+      "column": 8,
+      "lines": [
+        "FAA",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2022"
+      ],
+      "verbatim": "FAA / VOLLEYBALL / CHAMPIONS / 2022",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132826340.jpg",
+      "note": null
+    },
+    {
+      "id": "B_BENCH_SIDELINE-R1-C09",
+      "wall": "B_BENCH_SIDELINE",
+      "row": 1,
+      "column": 9,
+      "lines": [
+        "NEPSAC CLASS B",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2022"
+      ],
+      "verbatim": "NEPSAC CLASS B / VOLLEYBALL / CHAMPIONS / 2022",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132826340.jpg",
+      "note": null
+    },
+    {
+      "id": "B_BENCH_SIDELINE-R1-C10",
+      "wall": "B_BENCH_SIDELINE",
+      "row": 1,
+      "column": 10,
+      "lines": [
+        "FAA",
+        "ICE HOCKEY",
+        "CHAMPIONS",
+        "2022-23"
+      ],
+      "verbatim": "FAA / ICE HOCKEY / CHAMPIONS / 2022-23",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132826340.jpg",
+      "note": null
+    },
+    {
+      "id": "B_BENCH_SIDELINE-R1-C11",
+      "wall": "B_BENCH_SIDELINE",
+      "row": 1,
+      "column": 11,
+      "lines": [
+        "WNEPSGSBA CLASS C",
+        "SOFTBALL",
+        "CHAMPIONS",
+        "2023"
+      ],
+      "verbatim": "WNEPSGSBA CLASS C / SOFTBALL / CHAMPIONS / 2023",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132826340.jpg",
+      "note": null
+    },
+    {
+      "id": "B_BENCH_SIDELINE-R1-C12",
+      "wall": "B_BENCH_SIDELINE",
+      "row": 1,
+      "column": 12,
+      "lines": [
+        "FAA",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2023"
+      ],
+      "verbatim": "FAA / VOLLEYBALL / CHAMPIONS / 2023",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132814935.jpg",
+      "note": null
+    },
+    {
+      "id": "B_BENCH_SIDELINE-R1-C13",
+      "wall": "B_BENCH_SIDELINE",
+      "row": 1,
+      "column": 13,
+      "lines": [
+        "NEPSAC CLASS B",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2023"
+      ],
+      "verbatim": "NEPSAC CLASS B / VOLLEYBALL / CHAMPIONS / 2023",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132814935.jpg",
+      "note": null
+    },
+    {
+      "id": "B_BENCH_SIDELINE-R1-C14",
+      "wall": "B_BENCH_SIDELINE",
+      "row": 1,
+      "column": 14,
+      "lines": [
+        "FAA",
+        "ICE HOCKEY",
+        "LEAGUE CHAMPIONS",
+        "2024"
+      ],
+      "verbatim": "FAA / ICE HOCKEY / LEAGUE CHAMPIONS / 2024",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132814935.jpg",
+      "note": null
+    },
+    {
+      "id": "B_BENCH_SIDELINE-R1-C15",
+      "wall": "B_BENCH_SIDELINE",
+      "row": 1,
+      "column": 15,
+      "lines": [
+        "NEPSAC CLASS C",
+        "GIRLS TENNIS",
+        "CHAMPIONS",
+        "2024"
+      ],
+      "verbatim": "NEPSAC CLASS C / GIRLS TENNIS / CHAMPIONS / 2024",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132814935.jpg",
+      "note": null
+    },
+    {
+      "id": "B_BENCH_SIDELINE-R1-C16",
+      "wall": "B_BENCH_SIDELINE",
+      "row": 1,
+      "column": 16,
+      "lines": [
+        "FAA",
+        "BOYS LACROSSE",
+        "CHAMPIONS",
+        "2024"
+      ],
+      "verbatim": "FAA / BOYS LACROSSE / CHAMPIONS / 2024",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132814935.jpg",
+      "note": null
+    },
+    {
+      "id": "B_BENCH_SIDELINE-R1-C17",
+      "wall": "B_BENCH_SIDELINE",
+      "row": 1,
+      "column": 17,
+      "lines": [
+        "NEW ENGLAND",
+        "BOYS LACROSSE",
+        "McCOY CUP CHAMPIONS",
+        "2024"
+      ],
+      "verbatim": "NEW ENGLAND / BOYS LACROSSE / McCOY CUP CHAMPIONS / 2024",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132814935.jpg",
+      "note": null
+    },
+    {
+      "id": "B_BENCH_SIDELINE-R2-C01",
+      "wall": "B_BENCH_SIDELINE",
+      "row": 2,
+      "column": 1,
+      "lines": [
+        "FAA",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2024"
+      ],
+      "verbatim": "FAA / VOLLEYBALL / CHAMPIONS / 2024",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132826340.jpg",
+      "note": null
+    },
+    {
+      "id": "B_BENCH_SIDELINE-R2-C02",
+      "wall": "B_BENCH_SIDELINE",
+      "row": 2,
+      "column": 2,
+      "lines": [
+        "NEPSAC CLASS A",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2024"
+      ],
+      "verbatim": "NEPSAC CLASS A / VOLLEYBALL / CHAMPIONS / 2024",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132826340.jpg",
+      "note": null
+    },
+    {
+      "id": "C_SCOREBOARD_END-R1-C01",
+      "wall": "C_SCOREBOARD_END",
+      "row": 1,
+      "column": 1,
+      "lines": [
+        "FAA",
+        "FOOTBALL",
+        "CHAMPIONS",
+        "2008"
+      ],
+      "verbatim": "FAA / FOOTBALL / CHAMPIONS / 2008",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132837198.jpg",
+      "note": null
+    },
+    {
+      "id": "C_SCOREBOARD_END-R1-C02",
+      "wall": "C_SCOREBOARD_END",
+      "row": 1,
+      "column": 2,
+      "lines": [
+        "FAA",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2008"
+      ],
+      "verbatim": "FAA / VOLLEYBALL / CHAMPIONS / 2008",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132837198.jpg",
+      "note": null
+    },
+    {
+      "id": "C_SCOREBOARD_END-R1-C03",
+      "wall": "C_SCOREBOARD_END",
+      "row": 1,
+      "column": 3,
+      "lines": [
+        "NEPSAC CLASS B",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2008"
+      ],
+      "verbatim": "NEPSAC CLASS B / VOLLEYBALL / CHAMPIONS / 2008",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132837198.jpg",
+      "note": null
+    },
+    {
+      "id": "C_SCOREBOARD_END-R1-C04",
+      "wall": "C_SCOREBOARD_END",
+      "row": 1,
+      "column": 4,
+      "lines": [
+        "NEPSAC",
+        "GIRLS CROSS COUNTRY",
+        "CHAMPIONS",
+        "2008"
+      ],
+      "verbatim": "NEPSAC / GIRLS CROSS COUNTRY / CHAMPIONS / 2008",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132837198.jpg",
+      "note": null
+    },
+    {
+      "id": "C_SCOREBOARD_END-R1-C05",
+      "wall": "C_SCOREBOARD_END",
+      "row": 1,
+      "column": 5,
+      "lines": [
+        "FAA",
+        "SOFTBALL",
+        "CHAMPIONS",
+        "2009"
+      ],
+      "verbatim": "FAA / SOFTBALL / CHAMPIONS / 2009",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132837198.jpg",
+      "note": null
+    },
+    {
+      "id": "C_SCOREBOARD_END-R1-C06",
+      "wall": "C_SCOREBOARD_END",
+      "row": 1,
+      "column": 6,
+      "lines": [
+        "FAA",
+        "FOOTBALL",
+        "CHAMPIONS",
+        "2009"
+      ],
+      "verbatim": "FAA / FOOTBALL / CHAMPIONS / 2009",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132837198.jpg",
+      "note": null
+    },
+    {
+      "id": "C_SCOREBOARD_END-R1-C07",
+      "wall": "C_SCOREBOARD_END",
+      "row": 1,
+      "column": 7,
+      "lines": [
+        "FAA",
+        "GIRLS BASKETBALL",
+        "CHAMPIONS",
+        "2010"
+      ],
+      "verbatim": "FAA / GIRLS BASKETBALL / CHAMPIONS / 2010",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132837198.jpg",
+      "note": null
+    },
+    {
+      "id": "C_SCOREBOARD_END-R1-C08",
+      "wall": "C_SCOREBOARD_END",
+      "row": 1,
+      "column": 8,
+      "lines": [
+        "FAA",
+        "SOFTBALL",
+        "CHAMPIONS",
+        "2010"
+      ],
+      "verbatim": "FAA / SOFTBALL / CHAMPIONS / 2010",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132837198.jpg",
+      "note": null
+    },
+    {
+      "id": "C_SCOREBOARD_END-R1-C09",
+      "wall": "C_SCOREBOARD_END",
+      "row": 1,
+      "column": 9,
+      "lines": [
+        "WNEPSAA CLASS C",
+        "SOFTBALL",
+        "CHAMPIONS",
+        "2010"
+      ],
+      "verbatim": "WNEPSAA CLASS C / SOFTBALL / CHAMPIONS / 2010",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132837198.jpg",
+      "note": null
+    },
+    {
+      "id": "C_SCOREBOARD_END-R2-C01",
+      "wall": "C_SCOREBOARD_END",
+      "row": 2,
+      "column": 1,
+      "lines": [
+        "NEPSAC CLASS C",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2011"
+      ],
+      "verbatim": "NEPSAC CLASS C / VOLLEYBALL / CHAMPIONS / 2011",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132837198.jpg",
+      "note": null
+    },
+    {
+      "id": "C_SCOREBOARD_END-R2-C02",
+      "wall": "C_SCOREBOARD_END",
+      "row": 2,
+      "column": 2,
+      "lines": [
+        "FAA",
+        "BOYS SOCCER",
+        "CHAMPIONS",
+        "2011"
+      ],
+      "verbatim": "FAA / BOYS SOCCER / CHAMPIONS / 2011",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132837198.jpg",
+      "note": null
+    },
+    {
+      "id": "C_SCOREBOARD_END-R2-C03",
+      "wall": "C_SCOREBOARD_END",
+      "row": 2,
+      "column": 3,
+      "lines": [
+        "FAA",
+        "FOOTBALL",
+        "CHAMPIONS",
+        "2012"
+      ],
+      "verbatim": "FAA / FOOTBALL / CHAMPIONS / 2012",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132837198.jpg",
+      "note": null
+    },
+    {
+      "id": "C_SCOREBOARD_END-R2-C04",
+      "wall": "C_SCOREBOARD_END",
+      "row": 2,
+      "column": 4,
+      "lines": [
+        "FAA",
+        "ICE HOCKEY",
+        "CHAMPIONS",
+        "2013"
+      ],
+      "verbatim": "FAA / ICE HOCKEY / CHAMPIONS / 2013",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132837198.jpg",
+      "note": null
+    },
+    {
+      "id": "C_SCOREBOARD_END-R2-C05",
+      "wall": "C_SCOREBOARD_END",
+      "row": 2,
+      "column": 5,
+      "lines": [
+        "NEPSAC CLASS C",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2013"
+      ],
+      "verbatim": "NEPSAC CLASS C / VOLLEYBALL / CHAMPIONS / 2013",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132837198.jpg",
+      "note": null
+    },
+    {
+      "id": "C_SCOREBOARD_END-R2-C06",
+      "wall": "C_SCOREBOARD_END",
+      "row": 2,
+      "column": 6,
+      "lines": [
+        "FAA",
+        "SOFTBALL",
+        "CHAMPIONS",
+        "2014"
+      ],
+      "verbatim": "FAA / SOFTBALL / CHAMPIONS / 2014",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132837198.jpg",
+      "note": null
+    },
+    {
+      "id": "C_SCOREBOARD_END-R2-C07",
+      "wall": "C_SCOREBOARD_END",
+      "row": 2,
+      "column": 7,
+      "lines": [
+        "FAA",
+        "BASEBALL",
+        "CHAMPIONS",
+        "2014"
+      ],
+      "verbatim": "FAA / BASEBALL / CHAMPIONS / 2014",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132837198.jpg",
+      "note": null
+    },
+    {
+      "id": "C_SCOREBOARD_END-R2-C08",
+      "wall": "C_SCOREBOARD_END",
+      "row": 2,
+      "column": 8,
+      "lines": [
+        "FAA",
+        "FOOTBALL",
+        "CHAMPIONS",
+        "2014"
+      ],
+      "verbatim": "FAA / FOOTBALL / CHAMPIONS / 2014",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132837198.jpg",
+      "note": null
+    },
+    {
+      "id": "C_SCOREBOARD_END-R2-C09",
+      "wall": "C_SCOREBOARD_END",
+      "row": 2,
+      "column": 9,
+      "lines": [
+        "FAA",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2014"
+      ],
+      "verbatim": "FAA / VOLLEYBALL / CHAMPIONS / 2014",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132837198.jpg",
+      "note": null
+    },
+    {
+      "id": "C_SCOREBOARD_END-R1-C10",
+      "wall": "C_SCOREBOARD_END",
+      "row": 1,
+      "column": 10,
+      "lines": [
+        "FAA",
+        "BASEBALL",
+        "CHAMPIONS",
+        "2011"
+      ],
+      "verbatim": "FAA / BASEBALL / CHAMPIONS / 2011",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132837198.jpg",
+      "note": null
+    },
+    {
+      "id": "D_BLEACHER_SIDELINE-R1-C01",
+      "wall": "D_BLEACHER_SIDELINE",
+      "row": 1,
+      "column": 1,
+      "lines": [
+        "FAA",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2015"
+      ],
+      "verbatim": "FAA / VOLLEYBALL / CHAMPIONS / 2015",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132833692.jpg",
+      "note": null
+    },
+    {
+      "id": "D_BLEACHER_SIDELINE-R1-C02",
+      "wall": "D_BLEACHER_SIDELINE",
+      "row": 1,
+      "column": 2,
+      "lines": [
+        "NEPSAC CLASS [C?]",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2015"
+      ],
+      "verbatim": "NEPSAC CLASS [C?] / VOLLEYBALL / CHAMPIONS / 2015",
+      "confidence": "medium",
+      "generation_ready": false,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132833692.jpg",
+      "note": "Oblique/folded class letter resembles C but not independently certified from supplied pixels."
+    },
+    {
+      "id": "D_BLEACHER_SIDELINE-R1-C03",
+      "wall": "D_BLEACHER_SIDELINE",
+      "row": 1,
+      "column": 3,
+      "lines": [
+        "FAA",
+        "ICE HOCKEY",
+        "CHAMPIONS",
+        "2016"
+      ],
+      "verbatim": "FAA / ICE HOCKEY / CHAMPIONS / 2016",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132833692.jpg",
+      "note": null
+    },
+    {
+      "id": "D_BLEACHER_SIDELINE-R1-C04",
+      "wall": "D_BLEACHER_SIDELINE",
+      "row": 1,
+      "column": 4,
+      "lines": [
+        "FAA",
+        "SOFTBALL",
+        "CHAMPIONS",
+        "2016"
+      ],
+      "verbatim": "FAA / SOFTBALL / CHAMPIONS / 2016",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132833692.jpg",
+      "note": null
+    },
+    {
+      "id": "D_BLEACHER_SIDELINE-R1-C05",
+      "wall": "D_BLEACHER_SIDELINE",
+      "row": 1,
+      "column": 5,
+      "lines": [
+        "FAA",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2016"
+      ],
+      "verbatim": "FAA / VOLLEYBALL / CHAMPIONS / 2016",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132833692.jpg",
+      "note": null
+    },
+    {
+      "id": "D_BLEACHER_SIDELINE-R1-C06",
+      "wall": "D_BLEACHER_SIDELINE",
+      "row": 1,
+      "column": 6,
+      "lines": [
+        "NEPSAC CLASS [obscured]",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2016"
+      ],
+      "verbatim": "NEPSAC CLASS [obscured] / VOLLEYBALL / CHAMPIONS / 2016",
+      "confidence": "unreadable_class_only",
+      "generation_ready": false,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132833692.jpg",
+      "note": "Class letter is physically hidden by projecting wall/pillar; do not invent it."
+    },
+    {
+      "id": "D_BLEACHER_SIDELINE-R2-C01",
+      "wall": "D_BLEACHER_SIDELINE",
+      "row": 2,
+      "column": 1,
+      "lines": [
+        "NEPSAC CLASS [C?]",
+        "FOOTBALL",
+        "CHAMPIONS",
+        "2016"
+      ],
+      "verbatim": "NEPSAC CLASS [C?] / FOOTBALL / CHAMPIONS / 2016",
+      "confidence": "medium",
+      "generation_ready": false,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132833692.jpg",
+      "note": "Oblique/folded class letter resembles C but not independently certified from supplied pixels."
+    },
+    {
+      "id": "D_BLEACHER_SIDELINE-R2-C02",
+      "wall": "D_BLEACHER_SIDELINE",
+      "row": 2,
+      "column": 2,
+      "lines": [
+        "FAA",
+        "LACROSSE",
+        "CHAMPIONS",
+        "2017"
+      ],
+      "verbatim": "FAA / LACROSSE / CHAMPIONS / 2017",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132833692.jpg",
+      "note": null
+    },
+    {
+      "id": "D_BLEACHER_SIDELINE-R2-C03",
+      "wall": "D_BLEACHER_SIDELINE",
+      "row": 2,
+      "column": 3,
+      "lines": [
+        "NEPSAC CLASS [C?]",
+        "FOOTBALL",
+        "CHAMPIONS",
+        "2017"
+      ],
+      "verbatim": "NEPSAC CLASS [C?] / FOOTBALL / CHAMPIONS / 2017",
+      "confidence": "medium",
+      "generation_ready": false,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132833692.jpg",
+      "note": "Oblique/folded class letter resembles C but not independently certified from supplied pixels."
+    },
+    {
+      "id": "D_BLEACHER_SIDELINE-R2-C04",
+      "wall": "D_BLEACHER_SIDELINE",
+      "row": 2,
+      "column": 4,
+      "lines": [
+        "FAA",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2017"
+      ],
+      "verbatim": "FAA / VOLLEYBALL / CHAMPIONS / 2017",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132833692.jpg",
+      "note": null
+    },
+    {
+      "id": "D_BLEACHER_SIDELINE-R2-C05",
+      "wall": "D_BLEACHER_SIDELINE",
+      "row": 2,
+      "column": 5,
+      "lines": [
+        "NEPSAC CLASS C",
+        "VOLLEYBALL",
+        "CHAMPIONS",
+        "2017"
+      ],
+      "verbatim": "NEPSAC CLASS C / VOLLEYBALL / CHAMPIONS / 2017",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132833692.jpg",
+      "note": null
+    },
+    {
+      "id": "D_BLEACHER_SIDELINE-R2-C06",
+      "wall": "D_BLEACHER_SIDELINE",
+      "row": 2,
+      "column": 6,
+      "lines": [
+        "FAA",
+        "BASEBALL",
+        "CHAMPIONS",
+        "2018"
+      ],
+      "verbatim": "FAA / BASEBALL / CHAMPIONS / 2018",
+      "confidence": "high",
+      "generation_ready": true,
+      "style": "gold_collegiate_on_navy",
+      "source_file": "PXL_20261002_132833692.jpg",
+      "note": null
+    }
+  ]
+}
