@@ -1,0 +1,16 @@
+{
+  "grip_cases": 20,
+  "trigger_cases": 26,
+  "keyboard_cases": 5,
+  "public_runtime_required_dependencies": 40,
+  "packaged_normal_exit": {
+    "R28": 0,
+    "R29": 0
+  },
+  "rollback_and_refusal_checks": "Passed by producer",
+  "physical_headset_tested": false,
+  "startup_yaw_changed": false,
+  "rendering_settings_changed": false,
+  "base_exe_sha256": "1b503e2e77c5c6063c89d571b8347cdaf7e5ece66545cd83116a3a83145a9624",
+  "patched_exe_sha256": "20adab2cd975e19d325adbe607b907cfffa2bd3e775b01c51a68f695bfdf915a"
+}

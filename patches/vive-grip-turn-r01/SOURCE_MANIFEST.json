@@ -1,0 +1,62 @@
+[
+  {
+    "path": "grip-patch-manifest.json",
+    "bytes": 24486,
+    "sha256": "2d37998d68937f435698c1e0c0194701a92b497413c359f44c381ac2262d3847"
+  },
+  {
+    "path": "Install_GripTurn_Patch.cmd",
+    "bytes": 176,
+    "sha256": "6895b9be82a257161ec9998b68467997ce54c4efdc5baad948b00921e5c153a1"
+  },
+  {
+    "path": "project/Content/Campus/ViveGripTurnR01/IA_GripTurn_Left.uasset",
+    "bytes": 1481,
+    "sha256": "afa868b3fec5df10f8753167ae82b31ca2ecec6f0c7ced68fb9c53744a4b8888"
+  },
+  {
+    "path": "project/Content/Campus/ViveGripTurnR01/IA_GripTurn_Right.uasset",
+    "bytes": 1486,
+    "sha256": "d33f1ea876568c5646025e9ff454aa9d8adb57d2f839b940e6da9a821cbc2b77"
+  },
+  {
+    "path": "project/Content/Campus/ViveTriggerWalkR01/IMC_ViveTriggerWalk.uasset",
+    "bytes": 4615,
+    "sha256": "a23c510c0bff63eddda74ce2df441ba6d077146d26541cd3db4cf2be434a4577"
+  },
+  {
+    "path": "project/Plugins/CampusCrowdFix/Source/CampusCrowdFix/Private/CampusViveTriggerWalk.cpp",
+    "bytes": 12708,
+    "sha256": "753016f5afeab2b407697f7d4090895e564e41d1f4ab7e026539c6374def372e"
+  },
+  {
+    "path": "project/Plugins/CampusCrowdFix/Source/CampusCrowdFix/Public/CampusViveTriggerWalk.h",
+    "bytes": 3727,
+    "sha256": "e01a9198f891871e85de0280d66193879793727e6993f5706874c26e0d598d8e"
+  },
+  {
+    "path": "README.md",
+    "bytes": 4554,
+    "sha256": "60a05387a688fecb17a3c8c281672133e8f1dd32231cb733059f7e29f80f3348"
+  },
+  {
+    "path": "Rollback_GripTurn_Patch.cmd",
+    "bytes": 177,
+    "sha256": "1af4f2a64f4ab756059924bb3ba4f156750bcdb8341e28d612f4ca6dd63f6f78"
+  },
+  {
+    "path": "Start_Patched_CampusCenter_Vive.cmd",
+    "bytes": 196,
+    "sha256": "7a027d49119ea33c809a759bc01a73955b894b72284108454a1356db4f9db38f"
+  },
+  {
+    "path": "tools/InstallGripTurnPatch.cs",
+    "bytes": 9011,
+    "sha256": "a428b190baf4164fe52ba2e13c5a2fc48e07d3c4e19a334bfafa82cb189879fd"
+  },
+  {
+    "path": "VALIDATION_SUMMARY.json",
+    "bytes": 532,
+    "sha256": "c5fd237cd5021dad1a452586835315690686e71d2ca0095c197fa3ce13e2ca94"
+  }
+]
