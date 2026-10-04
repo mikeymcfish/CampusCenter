@@ -1,0 +1,30 @@
+{
+  "target": "R28",
+  "actual_cmd_launcher_executed": true,
+  "map_verified": true,
+  "normal_launcher_exit": 0,
+  "normal_game_exit": [
+    0
+  ],
+  "settings_accepted": {
+    "r.Streaming.PoolSize": true,
+    "r.Streaming.LimitPoolSizeToVRAM": true,
+    "r.RayTracing": true,
+    "r.Lumen.HardwareRayTracing": true,
+    "r.Shadow.Virtual.MaxPhysicalPages": true,
+    "r.Shadow.Virtual.SMRT.RayCountLocal": true,
+    "r.Shadow.Virtual.SMRT.SamplesPerRayLocal": true,
+    "r.Shadow.Virtual.SMRT.RayCountDirectional": true,
+    "r.Shadow.Virtual.SMRT.SamplesPerRayDirectional": true,
+    "r.Lumen.ScreenProbeGather.DownsampleFactor": true,
+    "r.Lumen.Reflections.DownsampleFactor": true,
+    "vr.PixelDensity": true,
+    "t.MaxFPS": true
+  },
+  "material_shader_memory_fatal_errors": [],
+  "headset_or_3050_tested": false,
+  "renderer_scope": "Existing packaged shaders, process-only compatibility overrides; no recook/source/system/runtime changes",
+  "elapsed_seconds": 47.82800000000134,
+  "pixel_density_registration_deferred_without_XR_runtime": true,
+  "settings_accepted_interpretation": "Command-line configuration recorded; PixelDensity is deferred on this machine without an active XR runtime, so actual eye-buffer scaling is unverified."
+}
