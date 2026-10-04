@@ -1,0 +1,148 @@
+{
+  "tag": "campuscenter-r29-review-20261004",
+  "release_url": "https://github.com/mikeymcfish/CampusCenter/releases/tag/campuscenter-r29-review-20261004",
+  "builds": {
+    "Vive": {
+      "manifest": {
+        "name": "CampusCenter_Vive_R29_Runtime_Manifest.json",
+        "bytes": 8571,
+        "sha256": "1eced00e25837dfd4c0e14a913d407471bd1012384676f258c832e6e1e881adf",
+        "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-r29-review-20261004/CampusCenter_Vive_R29_Runtime_Manifest.json"
+      },
+      "parts": [
+        {
+          "name": "CampusCenter_Vive_R29_Windows.zip.part01",
+          "bytes": 450000000,
+          "sha256": "f1da9301fd7b0fd632c0c1891a2f33b95b0f60f0c91ef5fdf8e65cebb61a8960",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-r29-review-20261004/CampusCenter_Vive_R29_Windows.zip.part01"
+        },
+        {
+          "name": "CampusCenter_Vive_R29_Windows.zip.part02",
+          "bytes": 450000000,
+          "sha256": "9e165a6aa590308a8f35ed14f32c639b624056b0b2e4d9b5354ddec306b6dc32",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-r29-review-20261004/CampusCenter_Vive_R29_Windows.zip.part02"
+        },
+        {
+          "name": "CampusCenter_Vive_R29_Windows.zip.part03",
+          "bytes": 450000000,
+          "sha256": "b04b88b6d42b86ce864ebcf932447defde069e461611abe6aa255f6ccfe97e37",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-r29-review-20261004/CampusCenter_Vive_R29_Windows.zip.part03"
+        },
+        {
+          "name": "CampusCenter_Vive_R29_Windows.zip.part04",
+          "bytes": 450000000,
+          "sha256": "4dae5acf2054b411bc553df3f4c58d3c90bab7f72d19c30744478152faf6d4ac",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-r29-review-20261004/CampusCenter_Vive_R29_Windows.zip.part04"
+        },
+        {
+          "name": "CampusCenter_Vive_R29_Windows.zip.part05",
+          "bytes": 450000000,
+          "sha256": "4434f2937abc58337b9d09a7c741f68dcb7b1ac63402e6a41ec87cb1f9f691c2",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-r29-review-20261004/CampusCenter_Vive_R29_Windows.zip.part05"
+        },
+        {
+          "name": "CampusCenter_Vive_R29_Windows.zip.part06",
+          "bytes": 213585253,
+          "sha256": "6590540b0ab7f748d772805c3e6941affd4f9805c8a22c0371ad191a515859d2",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-r29-review-20261004/CampusCenter_Vive_R29_Windows.zip.part06"
+        }
+      ],
+      "archive": {
+        "name": "CampusCenter_Vive_R29_Windows.zip",
+        "bytes": 2463585253,
+        "sha256": "2597431f5d230d7a7561adecc88152cf347ca6f609290e4e8f0cbeabd9d94b6b"
+      },
+      "executable": "Windows/CampusCenter.exe",
+      "arguments": []
+    },
+    "Desktop": {
+      "manifest": {
+        "name": "CampusCenter_Desktop_R29_Runtime_Manifest.json",
+        "bytes": 8960,
+        "sha256": "db82c727caa179f2b7dbb13e9d3162c02efce12afcdae85692858ec6700dc2ac",
+        "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-r29-review-20261004/CampusCenter_Desktop_R29_Runtime_Manifest.json"
+      },
+      "parts": [
+        {
+          "name": "CampusCenter_Desktop_R29_Windows.zip.part01",
+          "bytes": 450000000,
+          "sha256": "939d2cfc352d63c52d37276e97c2e12297f872a7ed11de6651edfa2cea675b94",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-r29-review-20261004/CampusCenter_Desktop_R29_Windows.zip.part01"
+        },
+        {
+          "name": "CampusCenter_Desktop_R29_Windows.zip.part02",
+          "bytes": 450000000,
+          "sha256": "695b28e6343f4396d98653efe3ebc7e0b2cb76330c6e502a6afef78f6a4f23dd",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-r29-review-20261004/CampusCenter_Desktop_R29_Windows.zip.part02"
+        },
+        {
+          "name": "CampusCenter_Desktop_R29_Windows.zip.part03",
+          "bytes": 450000000,
+          "sha256": "1f24649044da03a5ea0e32c668c032dfa2e41d79ab4e5efa2ac160f5ce0a98ed",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-r29-review-20261004/CampusCenter_Desktop_R29_Windows.zip.part03"
+        },
+        {
+          "name": "CampusCenter_Desktop_R29_Windows.zip.part04",
+          "bytes": 450000000,
+          "sha256": "9792378acc94f82dca3853ccea30a4bc173006b76c1438d53ffe64997ad28f69",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-r29-review-20261004/CampusCenter_Desktop_R29_Windows.zip.part04"
+        },
+        {
+          "name": "CampusCenter_Desktop_R29_Windows.zip.part05",
+          "bytes": 450000000,
+          "sha256": "a0f664a31578b02dce73c062e36aadc6767e98962aec88866ca67bde2d8974ea",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-r29-review-20261004/CampusCenter_Desktop_R29_Windows.zip.part05"
+        },
+        {
+          "name": "CampusCenter_Desktop_R29_Windows.zip.part06",
+          "bytes": 450000000,
+          "sha256": "fb8561d29b7b167458cef971065ea9b0acd5c2a6d7f6871ae821d616a3d95b57",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-r29-review-20261004/CampusCenter_Desktop_R29_Windows.zip.part06"
+        },
+        {
+          "name": "CampusCenter_Desktop_R29_Windows.zip.part07",
+          "bytes": 450000000,
+          "sha256": "842c7839157190d29884ba9af4dcfc75f6034711785729c2bd852085ddd30dfa",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-r29-review-20261004/CampusCenter_Desktop_R29_Windows.zip.part07"
+        },
+        {
+          "name": "CampusCenter_Desktop_R29_Windows.zip.part08",
+          "bytes": 450000000,
+          "sha256": "a4a64e494b786c5e9a78d75f21fec06a83f4bbbb32048c26c531f58b74e2bf27",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-r29-review-20261004/CampusCenter_Desktop_R29_Windows.zip.part08"
+        },
+        {
+          "name": "CampusCenter_Desktop_R29_Windows.zip.part09",
+          "bytes": 450000000,
+          "sha256": "5f0bb3054c28c3d489b37c7c53cc7d6eb63361c6bfb3f89ed19eb712ec0edb6b",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-r29-review-20261004/CampusCenter_Desktop_R29_Windows.zip.part09"
+        },
+        {
+          "name": "CampusCenter_Desktop_R29_Windows.zip.part10",
+          "bytes": 450000000,
+          "sha256": "4222db0f417d46aff6763f831fded07aaa8b3a1751e3db5e0c8fc1758ad3b81b",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-r29-review-20261004/CampusCenter_Desktop_R29_Windows.zip.part10"
+        },
+        {
+          "name": "CampusCenter_Desktop_R29_Windows.zip.part11",
+          "bytes": 450000000,
+          "sha256": "30d6c9cf228149a9e0aa1511d826c50abedd95b157334195ceafdeee82c418cd",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-r29-review-20261004/CampusCenter_Desktop_R29_Windows.zip.part11"
+        },
+        {
+          "name": "CampusCenter_Desktop_R29_Windows.zip.part12",
+          "bytes": 192576461,
+          "sha256": "7ad6dda906b6e4bdfb8094d48618c536c8721b80632de1eff06cdcd1252ce323",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-r29-review-20261004/CampusCenter_Desktop_R29_Windows.zip.part12"
+        }
+      ],
+      "archive": {
+        "name": "CampusCenter_Desktop_R29_Windows.zip",
+        "bytes": 5142576461,
+        "sha256": "a0328b7320329fde606835f3678d1f8418ee4aab7d5aaf384cc986fec9adad7e"
+      },
+      "executable": "Windows/CampusCenter.exe",
+      "arguments": []
+    }
+  }
+}

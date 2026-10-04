@@ -1,3 +1,9 @@
+## Latest finalized R29 update
+
+Fetch and pull main, then run Start_CampusCenter_Vive.cmd or Start_CampusCenter_Desktop.cmd. The launchers download and verify the finalized R29 build into .cc/r29 and preserve existing R28 caches. Default rendering quality and controls remain unchanged. See [R29 opening and download instructions](README_R29.md).
+
+Actual RTX 3050 headset freeze, low frame rate and controller issues remain unresolved; R29 has not been tested on that headset computer. Optional compatibility launchers are on [a separate branch](https://github.com/mikeymcfish/CampusCenter/tree/patch/vive-rtx3050-optional-20261004/optional-launchers/rtx3050).
+
 # King School Campus Center
 
 ## Current October 3 R28 Windows builds
