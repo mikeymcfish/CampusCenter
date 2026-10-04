@@ -10,11 +10,11 @@ $ProgressPreference = 'SilentlyContinue'
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 Add-Type -AssemblyName System.IO.Compression.FileSystem
 $repoRoot = [IO.Path]::GetFullPath((Join-Path $PSScriptRoot '..'))
-$pins = Get-Content -LiteralPath (Join-Path $PSScriptRoot 'CampusCenter-R27-R13-downloads.json') -Raw | ConvertFrom-Json
+$pins = Get-Content -LiteralPath (Join-Path $PSScriptRoot 'CampusCenter-R28-downloads.json') -Raw | ConvertFrom-Json
 $spec = $pins.builds.$Build
 $buildCode = if ($Build -eq 'Vive') { 'v' } else { 'd' }
 # Unreal's DLL loader still uses relative paths subject to Windows MAX_PATH.
-$buildRoot = Join-Path $repoRoot ('.cc\r27r13\' + $buildCode)
+$buildRoot = Join-Path $repoRoot ('.cc\r28\' + $buildCode)
 $cacheRoot = Join-Path $buildRoot 'dl'
 $expanded = Join-Path $buildRoot 'w'
 $staging = Join-Path $buildRoot 'w.partial'
@@ -59,7 +59,7 @@ function Get-Pinned($Pin) {
             if (Test-Path -LiteralPath $partial) { $offset = (Get-Item -LiteralPath $partial).Length }
             Write-Host "Downloading $($Pin.name) (attempt $attempt; resume at $offset bytes)..."
             $request = [Net.HttpWebRequest]::Create($Pin.url)
-            $request.UserAgent = 'CampusCenter-R27-R13-verified-setup'
+            $request.UserAgent = 'CampusCenter-R28-verified-setup'
             $request.Timeout = 60000; $request.ReadWriteTimeout = 120000
             if ($offset -gt 0) { $request.AddRange($offset) }
             $response = $request.GetResponse()
@@ -176,7 +176,7 @@ try {
     }
     $executable = Join-Path $expanded $spec.executable
     if (-not (Test-Path -LiteralPath $executable -PathType Leaf)) { throw "Verified executable missing: $executable" }
-    Write-Host "Verified $Build R27 R13 runtime: $executable"
+    Write-Host "Verified $Build R28 runtime: $executable"
     if ($PrepareOnly -or $VerifyOnly) { Write-Host 'Preparation/verification complete; game not launched.'; exit 0 }
     if ($Build -eq 'Vive') { Write-Host 'Use SteamVR as your active OpenXR runtime and connect the headset/controllers. This script does not change runtime or security settings.' }
     $start = @{ FilePath = $executable; WorkingDirectory = (Join-Path $expanded 'Windows') }
