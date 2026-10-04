@@ -1,0 +1,10 @@
+{
+  "desktop_map": "/Game/Campus/Maps/CampusCenter_FA26_Desktop_R29_TrophyTrainerGymCorrections",
+  "vive_map": "/Game/Campus/Maps/CampusCenter_Vive_R29_TrophyTrainerGymCorrections_r02",
+  "vive_map_sha256": "fba4b4b9262277979b321ac68bd3b2a52810cb92bc91deba9a11f148d4529277",
+  "software_validation": "2992 actors; 2143 Game dependencies, zero missing; 402 walking probes, zero compared regressions; 8/8 connected routes; 26/26 input and 5/5 keyboard software cases; zero packaged material/shader/fatal failures",
+  "producer_normal_launch_close_exit": 0,
+  "hardware_limits": "Unverified locally; user reports RTX3050 4FPS/headset freeze/controller issue on public R28; optional config-only compatibility patch is separate",
+  "source_settings_preserved": true,
+  "physical_print_fit_tested": false
+}
