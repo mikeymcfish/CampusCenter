@@ -1,0 +1,87 @@
+{
+  "version": "October 3 R28",
+  "desktop": {
+    "map": "/Game/Campus/Maps/CampusCenter_FA26_Desktop_R27_Enhancements_R28_LockerEastClearance",
+    "actor_count": 2924,
+    "cook_package_normal_launch_close_exit": 0,
+    "walking": {
+      "openings": 66,
+      "all_six_pass": 62,
+      "center_both_pass": 63,
+      "same_offset_two_way": 64,
+      "completed_cases": 402,
+      "changed_openings_vs_R27": [
+        "Locker121_east_door0"
+      ],
+      "exceptions": [
+        {
+          "door": "Classrooms_north_door1",
+          "passes": 5,
+          "center_both_pass": true,
+          "some_same_offset_both_pass": true
+        },
+        {
+          "door": "Lab_east_door0",
+          "passes": 5,
+          "center_both_pass": false,
+          "some_same_offset_both_pass": true
+        },
+        {
+          "door": "Lift_B_s_door0",
+          "passes": 0,
+          "center_both_pass": false,
+          "some_same_offset_both_pass": false
+        },
+        {
+          "door": "LiftB_upper_s_door0",
+          "passes": 0,
+          "center_both_pass": false,
+          "some_same_offset_both_pass": false
+        }
+      ],
+      "capsule": {
+        "radius_cm": 17.594999313354492,
+        "half_height_cm": 64.0199966430664,
+        "speed_cm_s": 720.0,
+        "step_height_cm": 32.0
+      },
+      "long_and_connected_routes_all_8_reached": true,
+      "headset_tested": false,
+      "body_probes": 40,
+      "body_probes_clear": true
+    }
+  },
+  "vive": {
+    "map": "/Game/Campus/Maps/CampusCenter_Vive_R27_R28_FinalReview_r01",
+    "map_sha256": "844ea22e4713966235eaac450589c7492d0fe9f7a44b59bead6b70f1031e6399",
+    "gates": {
+      "actors": 2926,
+      "registered_decals": 48,
+      "unscoped_actor_material_effect_failures": 0,
+      "protected_hashes": 2401,
+      "protected_hash_failures": 0,
+      "game_dependency_closure": 2177,
+      "missing_dependencies": 0,
+      "source_corner_proof": true,
+      "software_Vive_input": 26,
+      "keyboard_input": 5,
+      "capsule_cases": 402,
+      "connected_Lab_and_locker_segments": 8,
+      "build_cook_stage_archive_exit": 0,
+      "normal_default_package_launch_exit": 0,
+      "normal_launch_seconds": 304.39399814605713,
+      "default_material_shader_fatal_failures": 0
+    },
+    "limits": [
+      "No headset/runtime/stereo/performance test: xrEnumerateInstanceExtensionProperties failed on this machine. No runtime/system changes performed.",
+      "Both lifts intentionally remain closed. Lab direct center path needs the tested continuous turn; one classroom extreme-edge approach remains constrained.",
+      "Input and collision route proofs are PIE software tests, not packaged controller or physical headset tests.",
+      "Cold startup logged 34 graphics PSO misses and one audio buffer underrun; no frame-rate certification.",
+      "Instrumented CSV image captures may exit777003; the independent normal five-minute launch exited0."
+    ]
+  },
+  "source_scope": "Cumulative project-owned R13 overlay plus 56 manifest-pinned native packages per platform. Licensed baseline exclusions unchanged. Historical R21 namespace files are selected only by accepted final R28 pins, not rejected iterations.",
+  "rights": "Six approved graphic-only school-event textures retained with attribution and UNVERIFIED redistribution rights; user approval is not licensing evidence. No raw private gym photos, student-name boards, Library receipts or new licensed baseline source assets.",
+  "headset_tested": false,
+  "physical_print_fit_tested": false
+}

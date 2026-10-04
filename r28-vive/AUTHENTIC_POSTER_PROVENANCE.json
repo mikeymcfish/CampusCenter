@@ -1,0 +1,81 @@
+{
+  "included_unique_graphics": 6,
+  "integrated_placements": 12,
+  "redistribution_rights": "Unverified. Public availability and user approval are not proof of a license or rightsholder permission. Copyright remains with the respective school, artists and partners. Preserve embedded credits and dates.",
+  "user_scope": "User explicitly instructed retaining the six already integrated graphic-only authentic posters in the public versions, after disclosure that rights are unverified.",
+  "excluded": "Additional photo-poster candidates, private original gym photographs, original mixed poster-pack ZIP, private photo-comparison HTML/PDF reports and Library receipts.",
+  "items": [
+    {
+      "title": "Pirates of Penzance",
+      "event_date": "2022-03-04 to 2022-03-06",
+      "source_filename": "01-pirates-of-penzance-2022.jpg",
+      "source_sha256": "ba0e3e4c611855d01f7d04751b1c024fcd1f28683669211a75fb28ab0eab31c3",
+      "source_publisher": "The Pelican, King student newspaper",
+      "source_page": "https://kingpelican.org/pirates-of-penzance/",
+      "native_dimensions": [
+        792,
+        1224
+      ]
+    },
+    {
+      "title": "Macbeth",
+      "event_date": "2021-11-19 to 2021-11-20",
+      "source_filename": "02-macbeth-2021.png",
+      "source_sha256": "8d840b7850b903f1f1faa8f21adb25d2fb84d1206c93a7595bdab7f47150c8d2",
+      "source_publisher": "The Pelican, King student newspaper",
+      "source_page": "https://kingpelican.org/the-scottish-play-return-to-the-stage/",
+      "native_dimensions": [
+        2000,
+        2755
+      ]
+    },
+    {
+      "title": "Rodgers and Hammerstein's Cinderella",
+      "event_date": "2023-03-03 to 2023-03-05",
+      "source_filename": "03-cinderella-2023-program-cover.png",
+      "source_sha256": "2e8a639be8d0704ef32eba2578467ddf135544df25a6d3fae41f5960573ad5ed",
+      "source_publisher": "King School official website",
+      "source_page": "https://www.kingschoolct.org/community/news/post/~board/all-school-news/post/rodgers-hammersteins-cinderella",
+      "native_dimensions": [
+        825,
+        1275
+      ]
+    },
+    {
+      "title": "A Midsummer Night's Dream",
+      "event_date": "2025-11-19 to 2025-11-20",
+      "source_filename": "04-midsummer-nights-dream-2025.jpg",
+      "source_sha256": "e5f46ba5bfa660458891ea1fc6401275a3b414c98df5552c80a732a61665d50f",
+      "source_publisher": "King School account on Patch",
+      "source_page": "https://patch.com/connecticut/greenwich/calendar/event/20251119/129a69a2-52ba-4a0f-a093-6a5f132f7413/a-midsummer-nights-dream",
+      "native_dimensions": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "title": "First Notes of Fall",
+      "event_date": "2025-11-25",
+      "source_filename": "05-first-notes-of-fall-2025.jpg",
+      "source_sha256": "a19b923223744e0a8ce820a51f94bcdd65b6c67d55b42f0a20b44cd668e4e6aa",
+      "source_publisher": "Project Music event announcement on Patch",
+      "source_page": "https://patch.com/connecticut/stamford/calendar/event/20251125/184e27ba-858e-4171-afef-66d2fd3150b2/project-music-presents-first-notes-of-fall",
+      "native_dimensions": [
+        1078,
+        1347
+      ]
+    },
+    {
+      "title": "Beauty and the Beast Jr.",
+      "event_date": "2023-05-04 to 2023-05-05",
+      "source_filename": "07-beauty-and-the-beast-jr-2023-program-ad.png",
+      "source_sha256": "5116073a5c1f3ef7ba5a0429ab5aee5be49149860db2222a1d708b5038a6df4e",
+      "source_publisher": "King School official website",
+      "source_page": "https://www.kingschoolct.org/community/news/post/~board/all-school-news/post/rodgers-hammersteins-cinderella",
+      "native_dimensions": [
+        750,
+        700
+      ]
+    }
+  ]
+}
