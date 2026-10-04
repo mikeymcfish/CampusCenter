@@ -1,0 +1,306 @@
+{
+  "desktop": [
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_Doors_Ground_04_12.uasset",
+      "bytes": 149540,
+      "sha256": "84bfcd5938d6831adfeba79b32ba4739ce9e4d7d8556c4b22ae76b621a1d3168"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_Doors_Ground_05_11.uasset",
+      "bytes": 224401,
+      "sha256": "c04a37c3a8c95c7e6559969edb290a459fcb89c551f8b912b7d9a613c79e795a"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_Doors_Ground_05_13.uasset",
+      "bytes": 118034,
+      "sha256": "52e0329753d30f490c70590a0599ee1beb46dc1ff683f961fcaf5b95848e2ce1"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_Doors_Ground_05_14.uasset",
+      "bytes": 238051,
+      "sha256": "4ddafc90f0ae19490168c24b3fb16109b5b3c5cf69253936b6c497563f9049bc"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_Doors_Ground_06_10.uasset",
+      "bytes": 310843,
+      "sha256": "d869db3eb4b9809e98ec20a2cf5057452b63865bec608b92098ebbf440f63989"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_Doors_Ground_06_11.uasset",
+      "bytes": 380456,
+      "sha256": "1d5afc18fce6e04ad1900f5cb3c79410baec596ade27435b7b82d55c5bd53f85"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_Doors_Ground_06_12.uasset",
+      "bytes": 150505,
+      "sha256": "76713d49357f2a9304e68ee1c248e490db184ff2d16e9fc919c30bde3267ecc0"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_Doors_Ground_06_13.uasset",
+      "bytes": 295585,
+      "sha256": "7f0b945b183a1a44db27c3d188e94adcfd30cfa35740ea0587fc76cd0a8bf9e4"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_Doors_Ground_06_14.uasset",
+      "bytes": 460551,
+      "sha256": "c16518b088a20a26162a5ec0bbfe96fbf64e3fa4432d3e87c42849961b3bc7fe"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_Doors_Ground_06_15.uasset",
+      "bytes": 164344,
+      "sha256": "cc1c4fe74946c8051ff3644b4dcc325737f63e22f788e5f307f038e55ef210a4"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_Doors_Ground_07_10.uasset",
+      "bytes": 110648,
+      "sha256": "d026c098b9b84f4dc089146c6e7a3440c5892b54b8c1fda3569d5ca464371fc8"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R23/Geometry/D23_Doors_Ground_07_11.uasset",
+      "bytes": 188846,
+      "sha256": "efa043f584ee9e7c2d4b38906eb1811b821bc2edd6eec26809f2f3519d1cf77b"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_Doors_Ground_07_12.uasset",
+      "bytes": 238876,
+      "sha256": "2f2e4b6781fb10c196655f21d956b5f2cc6cc99e1c8dad0f2bc5dcb92f8b9639"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_Doors_Ground_08_10.uasset",
+      "bytes": 270524,
+      "sha256": "5b50b67f2c06224a58bfb974b200a08412c268cefa33229332d92f7ed9c4eb67"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_Doors_Upper_05_12.uasset",
+      "bytes": 225945,
+      "sha256": "f961713ddc01551c299365fc530f7e58dbb0002a21493595a1ec60099c01387f"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_Doors_Upper_06_12.uasset",
+      "bytes": 303414,
+      "sha256": "4d81b50037b7c6da52667693d1da589aa07410ea082cff007d2e3e119a5472f0"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_Doors_Upper_08_10.uasset",
+      "bytes": 147607,
+      "sha256": "2f7bab716c2fc032ac138bb966b7bc69ea54cc75307eb3c6c6b60a3911b55448"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_Doors_Upper_09_10.uasset",
+      "bytes": 149608,
+      "sha256": "6e977f0fab6b7bd19905267e01b8277b8ecfd507d7a9b486150d3f03c33bfb70"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_Doors_Upper_09_11.uasset",
+      "bytes": 199628,
+      "sha256": "abcda5b4163538218c6a73e3e8aeb25cfe421f3933fe207ae8ebd28f229fb8b3"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_R25_Doors_Ground_04_14.uasset",
+      "bytes": 110719,
+      "sha256": "3991ad8618f94715ff8a0613f0cb9fac2ff516e724425154530283f72d7c7c22"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R23/Geometry/D23_R25_Doors_Ground_08_11.uasset",
+      "bytes": 266518,
+      "sha256": "16e7e34cb479e02cdd9c6282153fd4c3dac69e545c90485bd763d155ecd452a2"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_R25_Doors_Upper_04_11.uasset",
+      "bytes": 148613,
+      "sha256": "43cfcf7cbff6c20cd52747aca09bfd1e4581c0a7a10e41cd3d2b68aa4cda5ba6"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_R25_Doors_Upper_05_11.uasset",
+      "bytes": 163421,
+      "sha256": "3b5ac9bb64637cfd4e93b884291346ad98105df9ddebef67b56cdb93df829663"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_R25_G121_Architecture.uasset",
+      "bytes": 87728,
+      "sha256": "e0cddbd0c91d2b2ed6c7eb52a4cab411d4e16bfe02c8d6d8753830672ae1f80a"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_R14_Retained_Doors_Upper_07_11.uasset",
+      "bytes": 181136,
+      "sha256": "8c2e6cc3bc0715040b10e6044293311a5e88acb2bb6ac8528fbe411c29831814"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_R14_Retained_Doors_Upper_08_11.uasset",
+      "bytes": 228568,
+      "sha256": "1e8e9e30f93e446aac6dfc5de1b1611c9b7bc32c3f42a28226d0e1b72a41f7b4"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_R25_Doors_Ground_04_13.uasset",
+      "bytes": 263140,
+      "sha256": "8efbcd4158d4508d7a08ff7cf49a610eaebc570ec989abba29d7f2a297029906"
+    },
+    {
+      "path": "Content/Campus/WalkthroughCorrectionsR27R24/Geometry/W24_Architecture_Ground_06_11.uasset",
+      "bytes": 171485,
+      "sha256": "4d52b2838308c827f372aed6f73c98cb832547104c080fddc640d0b5759b13cd"
+    },
+    {
+      "path": "Content/Campus/WalkthroughCorrectionsR27R24/Geometry/W24_Furniture_Ground_04_12.uasset",
+      "bytes": 153198,
+      "sha256": "aebdf8a0c3ae24f78c7d8af1bf2f42589e6abb65f037a15b8de8727187b24306"
+    },
+    {
+      "path": "Content/Campus/WalkthroughCorrectionsR27R24/Geometry/W24_Furniture_Ground_04_13.uasset",
+      "bytes": 154568,
+      "sha256": "5682c76110b0a9a9c0a80e0d3d1e49f6c8fd0517498eb9f5f432a30977a9987c"
+    },
+    {
+      "path": "Content/Campus/WalkthroughCorrectionsR27R24/Geometry/W24_R25_Architecture_Upper_04_11.uasset",
+      "bytes": 122000,
+      "sha256": "e3970adf7c117ea07c9f68c64aca60455d007a58a2e7729bdccf83ba65071ece"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R27/Geometry/D27_Doors_Ground_11_10.uasset",
+      "bytes": 150208,
+      "sha256": "54f157b1dfb1ab164c899cc7c5e72c7e2cbf15cfcbc863cce3556c75460f7cf0"
+    },
+    {
+      "path": "Content/Campus/LockerEastCorrectionsR27R28/Geometry/E28_Furniture_Ground_06_12.uasset",
+      "bytes": 132603,
+      "sha256": "582121b83f92b9debbe172e670d9be96dfacafb290dfb869eb4993c79ca9189f"
+    },
+    {
+      "path": "Content/Campus/LockerEastCorrectionsR27R28/Geometry/E28_R25_Furniture_Ground_05_12.uasset",
+      "bytes": 537855,
+      "sha256": "e39ac42b45aa41e2d8e28b9cbcc0f0986db576fd9196e106dd2563c57810b755"
+    },
+    {
+      "path": "Content/Campus/CorrectionsR29/Gym/Materials/M_C29_KingGymMaple.uasset",
+      "bytes": 17583,
+      "sha256": "6fc38d99416a645f1d50a0cd41617087ccad54df2ad0c3ebcd612a51e808b2aa"
+    },
+    {
+      "path": "Content/Campus/CorrectionsR29/Gym/Textures/T_C29_Crest.uasset",
+      "bytes": 1231388,
+      "sha256": "5a7e1b0a27b63bb3c595848ebb68303a96894ebe6e4e6b5531f2a31e512c0b54"
+    },
+    {
+      "path": "Content/Campus/CorrectionsR29/Gym/Textures/T_C29_Home.uasset",
+      "bytes": 35174,
+      "sha256": "c189ba154396efc016d212b31ce9168fcc9f18d04db275effce6a6a88c8c58d3"
+    },
+    {
+      "path": "Content/Campus/CorrectionsR29/Gym/Textures/T_C29_Year.uasset",
+      "bytes": 18962,
+      "sha256": "b4a36b98dcafb5e7e094ffb14803ba9ee8d58433f5771792fc10f8035ebc217a"
+    },
+    {
+      "path": "Content/Campus/CorrectionsR29/Materials/M_C29_DisplayLED.uasset",
+      "bytes": 4678,
+      "sha256": "268f1ce95bd394ea0b84d7c94c60e4335840b30ee303b1090f1f454236bef546"
+    },
+    {
+      "path": "Content/Campus/CorrectionsR29/Materials/M_C29_MatteCaseMetal.uasset",
+      "bytes": 5605,
+      "sha256": "73d2e22522910267502dfce8dddbf09d1562134c76ca20b49013b900520b614b"
+    },
+    {
+      "path": "Content/Campus/CorrectionsR29/StagedSource/C29_FA26_PH10_Trainer_059.uasset",
+      "bytes": 30989,
+      "sha256": "c393ddb1d5d76d727cc5a95f3bf87c97f29fe7a8603baab51ba33260de88e17f"
+    },
+    {
+      "path": "Content/Campus/CorrectionsR29/StagedSource/C29_FA26_PH10_Trainer_060.uasset",
+      "bytes": 40426,
+      "sha256": "500bb1e9af10022126f8247219df0710587526f8a245dd592ee6b4150bb23a91"
+    },
+    {
+      "path": "Content/Campus/CorrectionsR29/StagedSource/C29_FA26_PH19_G126_TrophyCase_0.uasset",
+      "bytes": 57388,
+      "sha256": "a543c39c3ceb9e8221067bd6a8e0fc1f3eac50c4704a0ffb97ffe3a4c3a2d654"
+    },
+    {
+      "path": "Content/Campus/CorrectionsR29/StagedSource/C29_FA26_PH19_G126_TrophyCase_1.uasset",
+      "bytes": 57537,
+      "sha256": "3325de12a5d2cc68d5581d44e9e1822e3801da264f3df8ace59bdbb3f97d6c3b"
+    },
+    {
+      "path": "Content/Campus/CorrectionsR29/StagedSource/C29_Furniture_Ground_06_13_WithoutLegacyCase.uasset",
+      "bytes": 166773,
+      "sha256": "006360f302dfd91032c6931995a5803fd4ef5e2bf308dea68e5e6fa3a51faf7a"
+    },
+    {
+      "path": "Content/Campus/CorrectionsR29/StagedSource/C29_LegacyTrophyCase_FullSourceFrame.uasset",
+      "bytes": 126765,
+      "sha256": "9222cb0b860b5c4ee33fb4d06558a21467bd226b3e506da9c62d86b5e3d65247"
+    },
+    {
+      "path": "Content/Campus/Maps/CampusCenter_FA26_Desktop_R29_TrophyTrainerGymCorrections.umap",
+      "bytes": 29016120,
+      "sha256": "6ab660a33c60ae15b1e4647f7d47356cae8ef197b107dd3545b46e62fa185472"
+    }
+  ],
+  "vive": [
+    {
+      "path": "Content/Campus/CorrectionsR29/Gym/Materials/M_C29_KingGymMaple.uasset",
+      "bytes": 17583,
+      "sha256": "6fc38d99416a645f1d50a0cd41617087ccad54df2ad0c3ebcd612a51e808b2aa"
+    },
+    {
+      "path": "Content/Campus/CorrectionsR29/Gym/Textures/T_C29_Crest.uasset",
+      "bytes": 1231388,
+      "sha256": "5a7e1b0a27b63bb3c595848ebb68303a96894ebe6e4e6b5531f2a31e512c0b54"
+    },
+    {
+      "path": "Content/Campus/CorrectionsR29/Gym/Textures/T_C29_Home.uasset",
+      "bytes": 35174,
+      "sha256": "c189ba154396efc016d212b31ce9168fcc9f18d04db275effce6a6a88c8c58d3"
+    },
+    {
+      "path": "Content/Campus/CorrectionsR29/Gym/Textures/T_C29_Year.uasset",
+      "bytes": 18962,
+      "sha256": "b4a36b98dcafb5e7e094ffb14803ba9ee8d58433f5771792fc10f8035ebc217a"
+    },
+    {
+      "path": "Content/Campus/CorrectionsR29/Materials/M_C29_DisplayLED.uasset",
+      "bytes": 4678,
+      "sha256": "268f1ce95bd394ea0b84d7c94c60e4335840b30ee303b1090f1f454236bef546"
+    },
+    {
+      "path": "Content/Campus/CorrectionsR29/Materials/M_C29_MatteCaseMetal.uasset",
+      "bytes": 5605,
+      "sha256": "73d2e22522910267502dfce8dddbf09d1562134c76ca20b49013b900520b614b"
+    },
+    {
+      "path": "Content/Campus/CorrectionsR29/StagedSource/C29_FA26_PH10_Trainer_059.uasset",
+      "bytes": 34339,
+      "sha256": "ff9830f7fbcffa2b4ea96671dcc777039c7dce6afc1c21adad204e1706e1d876"
+    },
+    {
+      "path": "Content/Campus/CorrectionsR29/StagedSource/C29_FA26_PH10_Trainer_060.uasset",
+      "bytes": 43454,
+      "sha256": "137390ba853ed2d5b9e58cbc969d50bd59b5113e77616d1dde9f947f2b96fc1a"
+    },
+    {
+      "path": "Content/Campus/CorrectionsR29/StagedSource/C29_FA26_PH19_G126_TrophyCase_0.uasset",
+      "bytes": 62459,
+      "sha256": "570f2d855b59bd94bd7b6343bf58b9567fdc4dcac94e1782c64f51779e3c3f90"
+    },
+    {
+      "path": "Content/Campus/CorrectionsR29/StagedSource/C29_FA26_PH19_G126_TrophyCase_1.uasset",
+      "bytes": 63231,
+      "sha256": "68275b6020ac5643a891eec772ff7e694f04dc9ddd9cf38f5b2529fb684eee04"
+    },
+    {
+      "path": "Content/Campus/CorrectionsR29/StagedSource/C29_Furniture_Ground_06_13_WithoutLegacyCase.uasset",
+      "bytes": 170278,
+      "sha256": "0838fc4e4694a3e6268f32d2e59e339d92365a7ac1bdb0725f1135cd5fa8905e"
+    },
+    {
+      "path": "Content/Campus/CorrectionsR29/StagedSource/C29_LegacyTrophyCase_FullSourceFrame.uasset",
+      "bytes": 130176,
+      "sha256": "d52c6ae353f3836a9c7fb0a05e527a2f2d5437d0c04e08f4dcfffc871b6569d2"
+    },
+    {
+      "path": "Content/Campus/Maps/CampusCenter_Vive_R29_TrophyTrainerGymCorrections_r02.umap",
+      "bytes": 29171241,
+      "sha256": "fba4b4b9262277979b321ac68bd3b2a52810cb92bc91deba9a11f148d4529277"
+    }
+  ]
+}
