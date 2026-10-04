@@ -6,14 +6,11 @@ Actual RTX 3050 headset freeze, low frame rate and controller issues remain unre
 
 # King School Campus Center
 
-## Current October 3 R28 Windows builds
+## Historical R28 instructions
 
-In GitHub Desktop select **main**, **Fetch origin**, then **Pull origin**. Choose **Repository > Show in Explorer** and run **Start_CampusCenter_Vive.cmd** (Vive) or **Start_CampusCenter_Desktop.cmd** (desktop). First launch automatically downloads and verifies the complete pinned R28 runtime, reconstructs/extracts it and checks every game file before starting. No token or Unreal editor is required. Allow 12 GB free for Vive or 20 GB for desktop. The new `.cc/r28` cache keeps R13's `.cc/r27r13` cache intact. Rerun after interrupted downloads; corrupt content will not launch. Paths with spaces work; a very deep checkout gets an explicit path-length error, with no OS setting changes. `-PrepareOnly` downloads/verifies without launching; `-VerifyOnly` checks an existing runtime.
+[Preserved R28 release and opening instructions](README_R28.md). Current root automatic launchers select R29; existing R28 caches and assets remain available.
 
-[Full R28 version/source mapping, manual downloads, provenance and limits](README_R28.md). All 64 non-lift openings have tested two-way routes (63 central; 62 all-six approaches); both lifts stay closed, Lab requires a continuous turn and one classroom extreme-edge approach is constrained. Physical headset/controller/SteamVR, stereo, comfort and performance acceptance remain untested. Six approved school-event graphics retain attribution and unverified redistribution rights. Earlier version instructions below are retained as historical documentation; the root automatic launchers now select R28.
-
-
-## Run the current R27 R13 Windows walkthrough
+## Historical R27 R13 Windows walkthrough
 
 If you use GitHub Desktop, select **main**, choose **Fetch origin**, then **Pull origin**. Choose **Repository > Show in Explorer** and double-click **Start_CampusCenter_Vive.cmd** for Vive, or **Start_CampusCenter_Desktop.cmd** for desktop. On first use the launcher downloads the matching public release parts automatically, checks their pinned SHA-256 hashes, joins/extracts the ZIP, verifies every game file, then starts the tested build. Wait for setup to finish. Subsequent starts reuse the verified runtime. A failed/interrupted transfer can be retried by running the launcher again; incomplete/corrupted content will not launch. Internet access and roughly **10 GB free for Vive** or **20 GB for desktop** are needed for parts, joined ZIP and extracted files.
 
