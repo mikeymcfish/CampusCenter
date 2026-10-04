@@ -1,0 +1,566 @@
+{
+  "desktop": [
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_Doors_Ground_04_12.uasset",
+      "bytes": 149540,
+      "sha256": "84bfcd5938d6831adfeba79b32ba4739ce9e4d7d8556c4b22ae76b621a1d3168"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_Doors_Ground_05_11.uasset",
+      "bytes": 224401,
+      "sha256": "c04a37c3a8c95c7e6559969edb290a459fcb89c551f8b912b7d9a613c79e795a"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_Doors_Ground_05_13.uasset",
+      "bytes": 118034,
+      "sha256": "52e0329753d30f490c70590a0599ee1beb46dc1ff683f961fcaf5b95848e2ce1"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_Doors_Ground_05_14.uasset",
+      "bytes": 238051,
+      "sha256": "4ddafc90f0ae19490168c24b3fb16109b5b3c5cf69253936b6c497563f9049bc"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_Doors_Ground_06_10.uasset",
+      "bytes": 310843,
+      "sha256": "d869db3eb4b9809e98ec20a2cf5057452b63865bec608b92098ebbf440f63989"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_Doors_Ground_06_11.uasset",
+      "bytes": 380456,
+      "sha256": "1d5afc18fce6e04ad1900f5cb3c79410baec596ade27435b7b82d55c5bd53f85"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_Doors_Ground_06_12.uasset",
+      "bytes": 150505,
+      "sha256": "76713d49357f2a9304e68ee1c248e490db184ff2d16e9fc919c30bde3267ecc0"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_Doors_Ground_06_13.uasset",
+      "bytes": 295585,
+      "sha256": "7f0b945b183a1a44db27c3d188e94adcfd30cfa35740ea0587fc76cd0a8bf9e4"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_Doors_Ground_06_14.uasset",
+      "bytes": 460551,
+      "sha256": "c16518b088a20a26162a5ec0bbfe96fbf64e3fa4432d3e87c42849961b3bc7fe"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_Doors_Ground_06_15.uasset",
+      "bytes": 164344,
+      "sha256": "cc1c4fe74946c8051ff3644b4dcc325737f63e22f788e5f307f038e55ef210a4"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_Doors_Ground_07_10.uasset",
+      "bytes": 110648,
+      "sha256": "d026c098b9b84f4dc089146c6e7a3440c5892b54b8c1fda3569d5ca464371fc8"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R23/Geometry/D23_Doors_Ground_07_11.uasset",
+      "bytes": 188846,
+      "sha256": "efa043f584ee9e7c2d4b38906eb1811b821bc2edd6eec26809f2f3519d1cf77b"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_Doors_Ground_07_12.uasset",
+      "bytes": 238876,
+      "sha256": "2f2e4b6781fb10c196655f21d956b5f2cc6cc99e1c8dad0f2bc5dcb92f8b9639"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_Doors_Ground_08_10.uasset",
+      "bytes": 270524,
+      "sha256": "5b50b67f2c06224a58bfb974b200a08412c268cefa33229332d92f7ed9c4eb67"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_Doors_Upper_05_12.uasset",
+      "bytes": 225945,
+      "sha256": "f961713ddc01551c299365fc530f7e58dbb0002a21493595a1ec60099c01387f"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_Doors_Upper_06_12.uasset",
+      "bytes": 303414,
+      "sha256": "4d81b50037b7c6da52667693d1da589aa07410ea082cff007d2e3e119a5472f0"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_Doors_Upper_08_10.uasset",
+      "bytes": 147607,
+      "sha256": "2f7bab716c2fc032ac138bb966b7bc69ea54cc75307eb3c6c6b60a3911b55448"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_Doors_Upper_09_10.uasset",
+      "bytes": 149608,
+      "sha256": "6e977f0fab6b7bd19905267e01b8277b8ecfd507d7a9b486150d3f03c33bfb70"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_Doors_Upper_09_11.uasset",
+      "bytes": 199628,
+      "sha256": "abcda5b4163538218c6a73e3e8aeb25cfe421f3933fe207ae8ebd28f229fb8b3"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_R25_Doors_Ground_04_14.uasset",
+      "bytes": 110719,
+      "sha256": "3991ad8618f94715ff8a0613f0cb9fac2ff516e724425154530283f72d7c7c22"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R23/Geometry/D23_R25_Doors_Ground_08_11.uasset",
+      "bytes": 266518,
+      "sha256": "16e7e34cb479e02cdd9c6282153fd4c3dac69e545c90485bd763d155ecd452a2"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_R25_Doors_Upper_04_11.uasset",
+      "bytes": 148613,
+      "sha256": "43cfcf7cbff6c20cd52747aca09bfd1e4581c0a7a10e41cd3d2b68aa4cda5ba6"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_R25_Doors_Upper_05_11.uasset",
+      "bytes": 163421,
+      "sha256": "3b5ac9bb64637cfd4e93b884291346ad98105df9ddebef67b56cdb93df829663"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_R25_G121_Architecture.uasset",
+      "bytes": 87728,
+      "sha256": "e0cddbd0c91d2b2ed6c7eb52a4cab411d4e16bfe02c8d6d8753830672ae1f80a"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_R14_Retained_Doors_Upper_07_11.uasset",
+      "bytes": 181136,
+      "sha256": "8c2e6cc3bc0715040b10e6044293311a5e88acb2bb6ac8528fbe411c29831814"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_R14_Retained_Doors_Upper_08_11.uasset",
+      "bytes": 228568,
+      "sha256": "1e8e9e30f93e446aac6dfc5de1b1611c9b7bc32c3f42a28226d0e1b72a41f7b4"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R21/Geometry/D21_R25_Doors_Ground_04_13.uasset",
+      "bytes": 263140,
+      "sha256": "8efbcd4158d4508d7a08ff7cf49a610eaebc570ec989abba29d7f2a297029906"
+    },
+    {
+      "path": "Content/Campus/WalkthroughCorrectionsR27R24/Geometry/W24_Architecture_Ground_06_11.uasset",
+      "bytes": 171485,
+      "sha256": "4d52b2838308c827f372aed6f73c98cb832547104c080fddc640d0b5759b13cd"
+    },
+    {
+      "path": "Content/Campus/WalkthroughCorrectionsR27R24/Geometry/W24_Furniture_Ground_04_12.uasset",
+      "bytes": 153198,
+      "sha256": "aebdf8a0c3ae24f78c7d8af1bf2f42589e6abb65f037a15b8de8727187b24306"
+    },
+    {
+      "path": "Content/Campus/WalkthroughCorrectionsR27R24/Geometry/W24_Furniture_Ground_04_13.uasset",
+      "bytes": 154568,
+      "sha256": "5682c76110b0a9a9c0a80e0d3d1e49f6c8fd0517498eb9f5f432a30977a9987c"
+    },
+    {
+      "path": "Content/Campus/WalkthroughCorrectionsR27R24/Geometry/W24_R25_Architecture_Upper_04_11.uasset",
+      "bytes": 122000,
+      "sha256": "e3970adf7c117ea07c9f68c64aca60455d007a58a2e7729bdccf83ba65071ece"
+    },
+    {
+      "path": "Content/Campus/DoorClearanceR27R27/Geometry/D27_Doors_Ground_11_10.uasset",
+      "bytes": 150208,
+      "sha256": "54f157b1dfb1ab164c899cc7c5e72c7e2cbf15cfcbc863cce3556c75460f7cf0"
+    },
+    {
+      "path": "Content/Campus/LockerEastCorrectionsR27R28/Geometry/E28_Furniture_Ground_06_12.uasset",
+      "bytes": 132603,
+      "sha256": "582121b83f92b9debbe172e670d9be96dfacafb290dfb869eb4993c79ca9189f"
+    },
+    {
+      "path": "Content/Campus/LockerEastCorrectionsR27R28/Geometry/E28_R25_Furniture_Ground_05_12.uasset",
+      "bytes": 537855,
+      "sha256": "e39ac42b45aa41e2d8e28b9cbcc0f0986db576fd9196e106dd2563c57810b755"
+    },
+    {
+      "path": "Content/Campus/Maps/CampusCenter_FA26_Desktop_R27_Enhancements_R28_LockerEastClearance.umap",
+      "bytes": 28949156,
+      "sha256": "917331e463bd3c5c58956d9e4284a8572eb40623b905c4451959d0371f684fe6"
+    },
+    {
+      "path": "Content/Campus/FitnessR27R14/Materials/M_Fitness14_BorderWhite.uasset",
+      "bytes": 5589,
+      "sha256": "ed02c644ff66df04c67709bffb3bfe0b9f4c4264fe74cdcc79eac2dd6a67f607"
+    },
+    {
+      "path": "Content/Campus/FitnessR27R14/Materials/M_Fitness14_CeilingCharcoal.uasset",
+      "bytes": 5609,
+      "sha256": "77d8f24aaec3a65f66b32c65cb41566b07a5c6052dd421218ff1f990e0138a5c"
+    },
+    {
+      "path": "Content/Campus/FitnessR27R14/Materials/M_Fitness14_FrameMetal.uasset",
+      "bytes": 5613,
+      "sha256": "a2d91d2df1211ea7b65cc9c3e01a68ffb355e54a536d221d8abac63d50313cf0"
+    },
+    {
+      "path": "Content/Campus/FitnessR27R14/Materials/M_Fitness14_Gold.uasset",
+      "bytes": 5583,
+      "sha256": "58251473559510929d58a675666107dd52781e0b130289df6e62d56c1c94cb2a"
+    },
+    {
+      "path": "Content/Campus/FitnessR27R14/Materials/M_Fitness14_LensWarmWhite.uasset",
+      "bytes": 6026,
+      "sha256": "ee6cf36e84401dd252761e8ae5b8f11effa91c74a8f391d99f2f6996b32257ff"
+    },
+    {
+      "path": "Content/Campus/FitnessR27R14/Materials/M_Fitness14_Mirror.uasset",
+      "bytes": 5593,
+      "sha256": "3fb904e7d4785d7270b785d3afea4b8fd3fee68403b890de079d16c9756e7044"
+    },
+    {
+      "path": "Content/Campus/FitnessR27R14/Materials/M_Fitness14_Navy.uasset",
+      "bytes": 5583,
+      "sha256": "a11ab99cfcc42b8933dc0dbe32cbb7522ca5b6099d57af6f1fb32b297a4aff88"
+    },
+    {
+      "path": "Content/Campus/FitnessR27R14/Materials/M_Fitness14_ServiceBlack.uasset",
+      "bytes": 5623,
+      "sha256": "2fbdcc49bf2d24de67afff04dcf69e4f7cb3bfa92c41e09a4908dbefbf85a016"
+    },
+    {
+      "path": "Content/Campus/FitnessR27R14/Materials/M_Metal_BrushedSteel_NaniteRuntime_FitnessFinish.uasset",
+      "bytes": 11643,
+      "sha256": "3374535727b20e68dd7b65d546d02f0c3007d9627ca69fa7f1c2e82dc6f29b02"
+    },
+    {
+      "path": "Content/Campus/FitnessR27R14/Materials/M_Metal_Powdercoat_NaniteRuntime_FitnessFinish.uasset",
+      "bytes": 11620,
+      "sha256": "a79ff4026589a72f3472c38962536c19e7b15e5cd173c8afc9a217b9d279a4f1"
+    },
+    {
+      "path": "Content/Campus/FitnessR27R14/Materials/M_Vinyl_Charcoal_NaniteRuntime_FitnessFinish.uasset",
+      "bytes": 11577,
+      "sha256": "30e19a26691e61ef571a6065e2bbed1b69adfd56d639177dfe45f4999f638b6d"
+    },
+    {
+      "path": "Content/Campus/FitnessR27R14/Meshes/Fitness14_BorderWhite.uasset",
+      "bytes": 69600,
+      "sha256": "f43c395e1eb915086595296568291abf113dedeea3d09c57658b0e74c1c98d47"
+    },
+    {
+      "path": "Content/Campus/FitnessR27R14/Meshes/Fitness14_CeilingCharcoal.uasset",
+      "bytes": 69262,
+      "sha256": "f6b6902c647be5e315d065696e6c1ec91d1f594174d5269268c8f21c7ca3b42a"
+    },
+    {
+      "path": "Content/Campus/FitnessR27R14/Meshes/Fitness14_FrameMetal.uasset",
+      "bytes": 76999,
+      "sha256": "aad003b0ffb0a509a3d1afbfec40471113736c4a11ee7bc3fc9e409df598b1ad"
+    },
+    {
+      "path": "Content/Campus/FitnessR27R14/Meshes/Fitness14_Gold.uasset",
+      "bytes": 69645,
+      "sha256": "763a29a60a57a6e5dd14bb88041078f6ab7598b66c5ebdd68fc00d22190028c2"
+    },
+    {
+      "path": "Content/Campus/FitnessR27R14/Meshes/Fitness14_LensWarmWhite.uasset",
+      "bytes": 76407,
+      "sha256": "06f76e57f7f9b80a995bbfb986a10f737b36a3d7348e39940943ad2423554b59"
+    },
+    {
+      "path": "Content/Campus/FitnessR27R14/Meshes/Fitness14_Mirror.uasset",
+      "bytes": 69329,
+      "sha256": "05a8b5a14c0e258e6433f14de20fba2d99e3c572ac1402b7e40e6da6864daa58"
+    },
+    {
+      "path": "Content/Campus/FitnessR27R14/Meshes/Fitness14_Navy.uasset",
+      "bytes": 69386,
+      "sha256": "00abe9f66d0b2559f14e9d7c866fcaa6fdabe8c7df8c8ee7b33231e73e60e7f9"
+    },
+    {
+      "path": "Content/Campus/FitnessR27R14/Meshes/Fitness14_ServiceBlack.uasset",
+      "bytes": 109207,
+      "sha256": "fef6ea6b9dd4fa8885680b8e1d866d9aff09fd1b49455f14a25def1d91416bfc"
+    },
+    {
+      "path": "Content/Campus/FitnessR27R15/Materials/M_Fitness15_CeilingCharcoal.uasset",
+      "bytes": 6209,
+      "sha256": "0d74a5064d1d64c6bb9164b43d4adc52a4f9e6a5b7103614a5467fdc998b45f0"
+    },
+    {
+      "path": "Content/Campus/FitnessR27R16/Materials/M_Fitness16_PaintedServices.uasset",
+      "bytes": 6737,
+      "sha256": "94663eb260ff26cc1592fdad16e3da03846d17ed9202bd7b07aed47d81d46cc0"
+    }
+  ],
+  "vive": [
+    {
+      "path": "Content/Campus/DoorSourceR27R23ViveR01/Geometry/Doors_Ground_04_12.uasset",
+      "bytes": 149115,
+      "sha256": "aed79c1ee79c596230187bce5198b152e8ca0014019f03f1cdda4e4d8aeb45ae"
+    },
+    {
+      "path": "Content/Campus/DoorSourceR27R23ViveR01/Geometry/Doors_Ground_05_11.uasset",
+      "bytes": 224395,
+      "sha256": "95e1996ab1b4771f81a05d9045584dd8248ba27f6d4f19f104b6492ef37f7ccf"
+    },
+    {
+      "path": "Content/Campus/DoorSourceR27R23ViveR01/Geometry/Doors_Ground_05_13.uasset",
+      "bytes": 118022,
+      "sha256": "2935730f4f003c6a29ba90d04b5c7b22f7413ef84173417fecb9636a3d3d9e92"
+    },
+    {
+      "path": "Content/Campus/DoorSourceR27R23ViveR01/Geometry/Doors_Ground_05_14.uasset",
+      "bytes": 238052,
+      "sha256": "21ed647cf10fa7829eda5eadb3588aa19d31d38c159f5d6114d38212233c3504"
+    },
+    {
+      "path": "Content/Campus/DoorSourceR27R23ViveR01/Geometry/Doors_Ground_06_10.uasset",
+      "bytes": 311013,
+      "sha256": "68d936907ce3fb5f19a007d7b164cefca2164bd1381fd6585a319095709ab3d8"
+    },
+    {
+      "path": "Content/Campus/DoorSourceR27R23ViveR01/Geometry/Doors_Ground_06_11.uasset",
+      "bytes": 380444,
+      "sha256": "d37db350ac1b307fc46411e9e9e3666bd117c425e1945401c2d58a418209e44d"
+    },
+    {
+      "path": "Content/Campus/DoorSourceR27R23ViveR01/Geometry/Doors_Ground_06_12.uasset",
+      "bytes": 150494,
+      "sha256": "2e779a278330c4c93bb563b17948044fa4a64733f92a1a7de8f2175c6a2281c8"
+    },
+    {
+      "path": "Content/Campus/DoorSourceR27R23ViveR01/Geometry/Doors_Ground_06_13.uasset",
+      "bytes": 295573,
+      "sha256": "c598d70330f50e58aa015f4f270daacd6e56c559d0e60d084682391d1e5d93ec"
+    },
+    {
+      "path": "Content/Campus/DoorSourceR27R23ViveR01/Geometry/Doors_Ground_06_14.uasset",
+      "bytes": 460555,
+      "sha256": "881c278829d34bf952de9c290ada76e2f6f5ed1a719b8cc65153cf3c362b0d6d"
+    },
+    {
+      "path": "Content/Campus/DoorSourceR27R23ViveR01/Geometry/Doors_Ground_06_15.uasset",
+      "bytes": 164335,
+      "sha256": "e10c23a5d3e9fa3c2e712d06455074a9ea028b45420b12598534160d30b30a48"
+    },
+    {
+      "path": "Content/Campus/DoorSourceR27R23ViveR01/Geometry/Doors_Ground_07_10.uasset",
+      "bytes": 110632,
+      "sha256": "9e51c34373793e1bc08fff956b0cdfd54720186669ad4505fd4a20e692b4fef8"
+    },
+    {
+      "path": "Content/Campus/DoorSourceR27R23ViveR01/Geometry/Doors_Ground_07_11.uasset",
+      "bytes": 187888,
+      "sha256": "c0de71a2e0c8cfa58c6b9474e1db76ac93ceb003bcc9913b0e1611a07a9c1be9"
+    },
+    {
+      "path": "Content/Campus/DoorSourceR27R23ViveR01/Geometry/Doors_Ground_07_12.uasset",
+      "bytes": 238857,
+      "sha256": "e402185c8c552bb15ae052a6b80fcd6614e6e97886127f7b4b56cd36f9886b15"
+    },
+    {
+      "path": "Content/Campus/DoorSourceR27R23ViveR01/Geometry/Doors_Ground_08_10.uasset",
+      "bytes": 270513,
+      "sha256": "a11212299825b79618317b1c456954f5488e052e286207a99c3ec5e590b7e992"
+    },
+    {
+      "path": "Content/Campus/DoorSourceR27R23ViveR01/Geometry/Doors_Upper_05_12.uasset",
+      "bytes": 225932,
+      "sha256": "d89526e88f4868f7cb454ef9eb433e881f587ac451faee3dd8976efd4e21154c"
+    },
+    {
+      "path": "Content/Campus/DoorSourceR27R23ViveR01/Geometry/Doors_Upper_06_12.uasset",
+      "bytes": 303402,
+      "sha256": "55676cbb89d4150b20c5a5f59340fe8c90b286861ff1f08306ef152d87f6372f"
+    },
+    {
+      "path": "Content/Campus/DoorSourceR27R23ViveR01/Geometry/Doors_Upper_08_10.uasset",
+      "bytes": 147606,
+      "sha256": "b004496104cd07cdc057bf0e93f3921b582d3a6303c4f06d14915d6a5625992d"
+    },
+    {
+      "path": "Content/Campus/DoorSourceR27R23ViveR01/Geometry/Doors_Upper_09_10.uasset",
+      "bytes": 149594,
+      "sha256": "593529301a10fdb6bc60fd0584b383fa27294c69e12fca9e8834756908306fba"
+    },
+    {
+      "path": "Content/Campus/DoorSourceR27R23ViveR01/Geometry/Doors_Upper_09_11.uasset",
+      "bytes": 199617,
+      "sha256": "d1c842031086b90422bbf6cd2da4a994acddc965d908aaf1215d43b359344da1"
+    },
+    {
+      "path": "Content/Campus/DoorSourceR27R23ViveR01/Geometry/R14_Retained_Doors_Upper_07_11.uasset",
+      "bytes": 181121,
+      "sha256": "1d0ee0e098b8a68db97ba2f3cbf3618300840e2d8f9e04ea04e6fda860311627"
+    },
+    {
+      "path": "Content/Campus/DoorSourceR27R23ViveR01/Geometry/R14_Retained_Doors_Upper_08_11.uasset",
+      "bytes": 228562,
+      "sha256": "83f49a56e5a7e4b544aaeb76772aaff384a4198b9e4f4b83d304282b62097c38"
+    },
+    {
+      "path": "Content/Campus/DoorSourceR27R23ViveR01/Geometry/R25_Doors_Ground_04_13.uasset",
+      "bytes": 263122,
+      "sha256": "c8ac1e6a157833a6285987431e21928bed32c4626a9e7b7195c7cfdbd9119238"
+    },
+    {
+      "path": "Content/Campus/DoorSourceR27R23ViveR01/Geometry/R25_Doors_Ground_04_14.uasset",
+      "bytes": 110710,
+      "sha256": "3bca0bfd80fedf2d35b2913891149e25813634e4b24708538d2541c1896d51b2"
+    },
+    {
+      "path": "Content/Campus/DoorSourceR27R23ViveR01/Geometry/R25_Doors_Ground_08_11.uasset",
+      "bytes": 266524,
+      "sha256": "5860f12d580cade6e9d706b7e38ef194443e2886e7d13f769a053d5912eb5ee0"
+    },
+    {
+      "path": "Content/Campus/DoorSourceR27R23ViveR01/Geometry/R25_Doors_Upper_04_11.uasset",
+      "bytes": 148597,
+      "sha256": "149d7514f5729bb431b3ddc6da19914631eff9e8e798023201479b81a67ab5ab"
+    },
+    {
+      "path": "Content/Campus/DoorSourceR27R23ViveR01/Geometry/R25_Doors_Upper_05_11.uasset",
+      "bytes": 163406,
+      "sha256": "5866cb51f6d938cf66c63b34c3b1b7efa5b836495e4bf4f7ac96e506ba561cfe"
+    },
+    {
+      "path": "Content/Campus/DoorSourceR27R23ViveR01/Geometry/R25_G121_Architecture.uasset",
+      "bytes": 87710,
+      "sha256": "e3fdc6e8eb14afc8d0f303c32bb3a5744a6f25c53a2aeb5ed7b6b17331d313f4"
+    },
+    {
+      "path": "Content/Campus/LocalizedR24ViveR01/W24_Architecture_Ground_06_11.uasset",
+      "bytes": 170223,
+      "sha256": "2b2766926edc22e56a27525cab1300810e00f55b6df86a7e0340365ae54da4ba"
+    },
+    {
+      "path": "Content/Campus/LocalizedR24ViveR01/W24_Furniture_Ground_04_12.uasset",
+      "bytes": 153162,
+      "sha256": "36dfa216ef95ddfbb483e817e53234e79f3225c82066e9a1dd09adcfeb54d7b7"
+    },
+    {
+      "path": "Content/Campus/LocalizedR24ViveR01/W24_Furniture_Ground_04_13.uasset",
+      "bytes": 154532,
+      "sha256": "178b34008a8f5df4ccd8ae8a6a69bed191397221d382fe6a0c5f51dc9bd74334"
+    },
+    {
+      "path": "Content/Campus/LocalizedR24ViveR01/W24_R25_Architecture_Upper_04_11.uasset",
+      "bytes": 121958,
+      "sha256": "dd491e97dbbc0f06e22a2cdabf4912d9e798a89579672a37a4c1931e58879dad"
+    },
+    {
+      "path": "Content/Campus/AdmissionsApproachR27ViveR01/D27_Doors_Ground_11_10.uasset",
+      "bytes": 149782,
+      "sha256": "8ae7e4a58abec33e1034bff95868ec2ecdece9d5eb1bd5dcb7f24aa9c780278a"
+    },
+    {
+      "path": "Content/Campus/LockerEastR28ViveR01/W24_Furniture_Ground_06_12.uasset",
+      "bytes": 131980,
+      "sha256": "1f61e5c51afae3e2cbed3a75b941a1fd41942abc287d67d23572ff9f7b1f4286"
+    },
+    {
+      "path": "Content/Campus/LockerEastR28ViveR01/W24_R25_Furniture_Ground_05_12.uasset",
+      "bytes": 537817,
+      "sha256": "47dedf47a5aec30c34dfadab855ac3754b4b5933e522c1b0318563eb3190e313"
+    },
+    {
+      "path": "Content/Campus/Maps/CampusCenter_Vive_R27_R28_FinalReview_r01.umap",
+      "bytes": 28979976,
+      "sha256": "844ea22e4713966235eaac450589c7492d0fe9f7a44b59bead6b70f1031e6399"
+    },
+    {
+      "path": "Content/Campus/FitnessR27R14/Materials/M_Fitness14_BorderWhite.uasset",
+      "bytes": 5589,
+      "sha256": "ed02c644ff66df04c67709bffb3bfe0b9f4c4264fe74cdcc79eac2dd6a67f607"
+    },
+    {
+      "path": "Content/Campus/FitnessR27R14/Materials/M_Fitness14_CeilingCharcoal.uasset",
+      "bytes": 5609,
+      "sha256": "77d8f24aaec3a65f66b32c65cb41566b07a5c6052dd421218ff1f990e0138a5c"
+    },
+    {
+      "path": "Content/Campus/FitnessR27R14/Materials/M_Fitness14_FrameMetal.uasset",
+      "bytes": 5613,
+      "sha256": "a2d91d2df1211ea7b65cc9c3e01a68ffb355e54a536d221d8abac63d50313cf0"
+    },
+    {
+      "path": "Content/Campus/FitnessR27R14/Materials/M_Fitness14_Gold.uasset",
+      "bytes": 5583,
+      "sha256": "58251473559510929d58a675666107dd52781e0b130289df6e62d56c1c94cb2a"
+    },
+    {
+      "path": "Content/Campus/FitnessR27R14/Materials/M_Fitness14_LensWarmWhite.uasset",
+      "bytes": 6026,
+      "sha256": "ee6cf36e84401dd252761e8ae5b8f11effa91c74a8f391d99f2f6996b32257ff"
+    },
+    {
+      "path": "Content/Campus/FitnessR27R14/Materials/M_Fitness14_Mirror.uasset",
+      "bytes": 5593,
+      "sha256": "3fb904e7d4785d7270b785d3afea4b8fd3fee68403b890de079d16c9756e7044"
+    },
+    {
+      "path": "Content/Campus/FitnessR27R14/Materials/M_Fitness14_Navy.uasset",
+      "bytes": 5583,
+      "sha256": "a11ab99cfcc42b8933dc0dbe32cbb7522ca5b6099d57af6f1fb32b297a4aff88"
+    },
+    {
+      "path": "Content/Campus/FitnessR27R14/Materials/M_Fitness14_ServiceBlack.uasset",
+      "bytes": 5623,
+      "sha256": "2fbdcc49bf2d24de67afff04dcf69e4f7cb3bfa92c41e09a4908dbefbf85a016"
+    },
+    {
+      "path": "Content/Campus/FitnessR27R14/Materials/M_Metal_BrushedSteel_NaniteRuntime_FitnessFinish.uasset",
+      "bytes": 11643,
+      "sha256": "3374535727b20e68dd7b65d546d02f0c3007d9627ca69fa7f1c2e82dc6f29b02"
+    },
+    {
+      "path": "Content/Campus/FitnessR27R14/Materials/M_Metal_Powdercoat_NaniteRuntime_FitnessFinish.uasset",
+      "bytes": 11620,
+      "sha256": "a79ff4026589a72f3472c38962536c19e7b15e5cd173c8afc9a217b9d279a4f1"
+    },
+    {
+      "path": "Content/Campus/FitnessR27R14/Materials/M_Vinyl_Charcoal_NaniteRuntime_FitnessFinish.uasset",
+      "bytes": 11577,
+      "sha256": "30e19a26691e61ef571a6065e2bbed1b69adfd56d639177dfe45f4999f638b6d"
+    },
+    {
+      "path": "Content/Campus/FitnessR27R14/Meshes/Fitness14_BorderWhite.uasset",
+      "bytes": 69600,
+      "sha256": "f43c395e1eb915086595296568291abf113dedeea3d09c57658b0e74c1c98d47"
+    },
+    {
+      "path": "Content/Campus/FitnessR27R14/Meshes/Fitness14_CeilingCharcoal.uasset",
+      "bytes": 69262,
+      "sha256": "f6b6902c647be5e315d065696e6c1ec91d1f594174d5269268c8f21c7ca3b42a"
+    },
+    {
+      "path": "Content/Campus/FitnessR27R14/Meshes/Fitness14_FrameMetal.uasset",
+      "bytes": 76999,
+      "sha256": "aad003b0ffb0a509a3d1afbfec40471113736c4a11ee7bc3fc9e409df598b1ad"
+    },
+    {
+      "path": "Content/Campus/FitnessR27R14/Meshes/Fitness14_Gold.uasset",
+      "bytes": 69645,
+      "sha256": "763a29a60a57a6e5dd14bb88041078f6ab7598b66c5ebdd68fc00d22190028c2"
+    },
+    {
+      "path": "Content/Campus/FitnessR27R14/Meshes/Fitness14_LensWarmWhite.uasset",
+      "bytes": 76407,
+      "sha256": "06f76e57f7f9b80a995bbfb986a10f737b36a3d7348e39940943ad2423554b59"
+    },
+    {
+      "path": "Content/Campus/FitnessR27R14/Meshes/Fitness14_Mirror.uasset",
+      "bytes": 69329,
+      "sha256": "05a8b5a14c0e258e6433f14de20fba2d99e3c572ac1402b7e40e6da6864daa58"
+    },
+    {
+      "path": "Content/Campus/FitnessR27R14/Meshes/Fitness14_Navy.uasset",
+      "bytes": 69386,
+      "sha256": "00abe9f66d0b2559f14e9d7c866fcaa6fdabe8c7df8c8ee7b33231e73e60e7f9"
+    },
+    {
+      "path": "Content/Campus/FitnessR27R14/Meshes/Fitness14_ServiceBlack.uasset",
+      "bytes": 109207,
+      "sha256": "fef6ea6b9dd4fa8885680b8e1d866d9aff09fd1b49455f14a25def1d91416bfc"
+    },
+    {
+      "path": "Content/Campus/FitnessR27R15/Materials/M_Fitness15_CeilingCharcoal.uasset",
+      "bytes": 6209,
+      "sha256": "0d74a5064d1d64c6bb9164b43d4adc52a4f9e6a5b7103614a5467fdc998b45f0"
+    },
+    {
+      "path": "Content/Campus/FitnessR27R16/Materials/M_Fitness16_PaintedServices.uasset",
+      "bytes": 6737,
+      "sha256": "94663eb260ff26cc1592fdad16e3da03846d17ed9202bd7b07aed47d81d46cc0"
+    }
+  ]
+}
