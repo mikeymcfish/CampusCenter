@@ -1,0 +1,12 @@
+newmtl Opaque
+Kd 0.965 0.961 0.937
+d 1
+Ns 10
+newmtl Glazing
+Kd 0.502 0.808 0.863
+d 0.55
+Ns 50
+newmtl HangingLoops
+Kd 0.502 0.808 0.863
+d 0.55
+Ns 50

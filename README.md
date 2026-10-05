@@ -1,6 +1,6 @@
 # Current deliverables
 
-[Canonical versions, downloads, opening instructions and pending inputs](PROJECT_DELIVERABLES.md). **Quest PC-VR R01 and ground-floor Print P02** join the preserved R29 desktop/Vive releases. Final admissions image and MadMapper packages are still pending as detailed in the index.
+[Canonical versions, downloads, opening instructions and pending inputs](PROJECT_DELIVERABLES.md). **Quest PC-VR R01 and ground-floor Print P02** join the preserved R29 desktop/Vive releases. Final MadMapper P02 UV01 model/atlas packages are published; room ownership review remains. Final admissions images are pending the supported Library transfer, as detailed in the index.
 
 ## Current R29 Vive with integrated grip patch
 

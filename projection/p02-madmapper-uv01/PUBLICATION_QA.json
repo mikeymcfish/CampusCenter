@@ -1,0 +1,86 @@
+{
+  "revision": "P02 MadMapper UV01",
+  "model_geometry_UV_texture_mask_bytes_unchanged": true,
+  "text_references_changed": [
+    "Initial_Source_UV_Audit.json",
+    "assembly_1_100/README.txt",
+    "assembly_1_100/Surface_Lookup_Manifest.json",
+    "sample_1_250/README.txt",
+    "sample_1_250/Surface_Lookup_Manifest.json"
+  ],
+  "regenerated_file_manifest": true,
+  "linked_libraries": 0,
+  "packed_images_match_delivered_diagnostic_png": true,
+  "producer_packages_preserved": true,
+  "fresh_import_and_atlas_checks": {
+    "frozen_deliverable_hashes_verified": 129,
+    "all_package_CRCs_and_content_hashes_match": true,
+    "package_results": [
+      {
+        "file": "CampusCenter_P02_MadMapper_UV01_Assembly_1_100_Model.zip",
+        "bytes": 17353904,
+        "sha256": "4334ed849a16c5282294735d29c80d73c311f9b868c0726dfbd843fe9febfee9",
+        "CRC_and_contents_match_local_files": true,
+        "duplicate_zip_entries": 0
+      },
+      {
+        "file": "CampusCenter_P02_MadMapper_UV01_Assembly_1_100_Atlas_Masks_Reference.zip",
+        "bytes": 6649326,
+        "sha256": "20d79889bb58bda20fee0106b6b60fe5272d9fef6d870a7ee60970e7e8f3b9ca",
+        "CRC_and_contents_match_local_files": true,
+        "duplicate_zip_entries": 0
+      },
+      {
+        "file": "CampusCenter_P02_MadMapper_UV01_Sample_1_250_Model.zip",
+        "bytes": 16303497,
+        "sha256": "9debeb279b8cc96bc5f1c2611296a8a8f71d39e0d42e94c36f613520cf7a72d0",
+        "CRC_and_contents_match_local_files": true,
+        "duplicate_zip_entries": 0
+      },
+      {
+        "file": "CampusCenter_P02_MadMapper_UV01_Sample_1_250_Atlas_Masks_Reference.zip",
+        "bytes": 6374213,
+        "sha256": "6b14883dfa5baceed7f9160a8e2983f54aec70a83151fc3b6e5fe8a013328f18",
+        "CRC_and_contents_match_local_files": true,
+        "duplicate_zip_entries": 0
+      }
+    ],
+    "all_deliverable_PNGs_decoded_and_verified": 97,
+    "files_excluded_from_publication": [
+      "*.blend1",
+      "Surface_Lookup_Data.npz",
+      "private_library_uv01",
+      "intermediate scripts/logs/caches",
+      "copied native Unreal assets"
+    ],
+    "physical_projection_verified": false,
+    "numeric_surface_ID_PNG_coverage": [
+      {
+        "scale": 100,
+        "all_surface_IDs_present": true,
+        "count": 13022
+      },
+      {
+        "scale": 250,
+        "all_surface_IDs_present": true,
+        "count": 14652
+      }
+    ]
+  },
+  "room_review_needs": {
+    "verified": "Gym inner rectangle derived from seven native R29/P02 gym wall segments. Geometry is source exact.",
+    "reference_labels": "31 inherited registered A101 labels retained as room candidates; names are references, not an assertion of all latest boundaries.",
+    "uncertainties": [
+      "corridor 131 absent from inherited metadata; no guessed footprint",
+      "stairs A/B surface ownership",
+      "R25 revised room boundaries",
+      "open Commons/cafe/display-hall boundaries",
+      "shared wall-cap room ownership"
+    ],
+    "neutral_regions": "Unassigned surfaces preserved as EXTERIOR or UNDERSIDE with unique surface IDs. No uncertain new room names invented."
+  },
+  "physical_projection_verified": false,
+  "MadMapper_run": false,
+  "MadMapper_project_supplied": false,
+  "animation_or_cues_supplied": false
+}

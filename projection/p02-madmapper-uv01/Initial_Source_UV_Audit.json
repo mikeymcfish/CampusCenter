@@ -1,0 +1,98 @@
+{
+  "primary_source": "Ground_R29_P02_Assembly_1_100.obj",
+  "source_scale": "1:100; OBJ numeric coordinates are millimetres, right-handed Z up; original origin retained",
+  "assembled_dimensions_mm": [
+    657.5999999999999,
+    512.0602094000001,
+    46.872
+  ],
+  "geometry": [
+    {
+      "part": "Opaque",
+      "vertices_referenced": 37125,
+      "triangles": 74138,
+      "bounds_mm": [
+        [
+          11.2,
+          6.8,
+          0.0
+        ],
+        [
+          668.8,
+          498.8,
+          46.872
+        ]
+      ],
+      "surface_area_mm2": 1028506.9076635538,
+      "zero_3D_area_triangles": 0,
+      "zero_UV_area_triangles": 2617,
+      "zero_UV_area_surface_fraction": 0.024653493454431234,
+      "negative_signed_UV_triangles": 1194,
+      "exact_stacked_UV_triangle_extra_instances": 37,
+      "duplicate_index_triangles": 0,
+      "nonmanifold_edges": 0,
+      "signed_volume_mm3": 1895339.7554409886,
+      "face_normal_max_error": 0.00023038901489512892
+    },
+    {
+      "part": "Glazing",
+      "vertices_referenced": 448,
+      "triangles": 708,
+      "bounds_mm": [
+        [
+          21.045,
+          20.2723,
+          4.2
+        ],
+        [
+          668.1764,
+          426.92,
+          46.872
+        ]
+      ],
+      "surface_area_mm2": 82808.56495791179,
+      "zero_3D_area_triangles": 0,
+      "zero_UV_area_triangles": 468,
+      "zero_UV_area_surface_fraction": 0.9598636196752225,
+      "negative_signed_UV_triangles": 118,
+      "exact_stacked_UV_triangle_extra_instances": 8,
+      "duplicate_index_triangles": 0,
+      "nonmanifold_edges": 0,
+      "signed_volume_mm3": 48053.19586379008,
+      "face_normal_max_error": 6.256841358700055e-09
+    },
+    {
+      "part": "HangingLoops",
+      "vertices_referenced": 564,
+      "triangles": 1128,
+      "bounds_mm": [
+        [
+          237.0,
+          472.8602094,
+          0.0
+        ],
+        [
+          437.0,
+          518.8602094,
+          6.0
+        ]
+      ],
+      "surface_area_mm2": 6293.441293026046,
+      "zero_3D_area_triangles": 0,
+      "zero_UV_area_triangles": 612,
+      "zero_UV_area_surface_fraction": 0.2588303642857904,
+      "negative_signed_UV_triangles": 260,
+      "exact_stacked_UV_triangle_extra_instances": 242,
+      "duplicate_index_triangles": 0,
+      "nonmanifold_edges": 0,
+      "signed_volume_mm3": 8332.262673556668,
+      "face_normal_max_error": 5.638362377413811e-07
+    }
+  ],
+  "existing_UV_verdict": "Planar XY UVs fail full-surface projection: vertical walls collapse to zero UV area; top/underside and several material surfaces stack. Keep geometry, replace corner UVs.",
+  "geometry_repair_proposal": "None. Existing print adaptations and internal material contact interfaces remain. No original vertices or triangles will be altered.",
+  "room_label_authority": "31 A101 ground room references; updated R29 boundaries require source-position review. Original centre_mm is architectural millimetres, converted explicitly to 1:100 assembly coordinates using native XY registration.",
+  "room_review_needed": "A101 labels are reference names; any spaces renamed or split after A101 must be user-confirmed. Unassigned surfaces get neutral IDs, never invented room names.",
+  "legacy_UV_zero_area_threshold_signed_double_area": 1e-12,
+  "legacy_UV_count_note": "zero_UV_area counts include near-degenerate faces at the stated tolerance; not every counted face is mathematically zero."
+}

@@ -1,0 +1,29 @@
+{
+  "source_vertices_exact": true,
+  "source_triangles_exact": true,
+  "source_normal_records_exact": true,
+  "geometry_changes": [],
+  "source_file_sha256": "698a4af7012f712817e2c84d0ef8d78d397187f224f9283602f09c0ffc652406",
+  "export_obj_sha256": "5fb3d64faebe846255f84b4e4f2be832070fec649ea99a1005d69f0c802db45f",
+  "total_vertices": 38137,
+  "total_triangles": 75974,
+  "UV_charts": 13022,
+  "zero_or_negative_UV_triangle_count": 0,
+  "UV_float32_collapsed_triangle_count": 0,
+  "minimum_signed_UV_double_area": 1.913291158173234e-11,
+  "projection_axis_stretch_p50_p95_max": [
+    1.001133144839459,
+    1.4142135623730918,
+    1.7320508075688688
+  ],
+  "UV_texel_density_range_px_per_mm": [
+    1.030426025390625,
+    10.341384887695312
+  ],
+  "minimum_chart_span_pixels": 2,
+  "minimum_span_note": "Very narrow source charts are expanded in UV space to at least 2 pixels per axis. This affects UV metric stretch only; geometry is exact.",
+  "microscopic_source_triangle_islands": 177,
+  "microscopic_triangle_total_area_mm2": 0.004265480081862329,
+  "inter_chart_overlap": "Rectangles are disjoint by shelf/sector construction; within-chart triangle overlap audit follows.",
+  "fresh_Blender_import_verified": true
+}

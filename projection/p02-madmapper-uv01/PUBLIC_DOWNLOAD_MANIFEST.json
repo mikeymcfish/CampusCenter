@@ -1,0 +1,43 @@
+[
+  {
+    "file": "CampusCenter_P02_MadMapper_UV01_Assembly_1_100_Model.zip",
+    "bytes": 17354110,
+    "sha256": "a50935e2480cd6886ae63ea7c2325fbbd89e5e0f75a9d4b61d70b2a904273ade",
+    "producer_bytes": 17353904,
+    "producer_sha256": "4334ed849a16c5282294735d29c80d73c311f9b868c0726dfbd843fe9febfee9",
+    "physical_scale_denominator": 100,
+    "package_role": "model_with_texture_dependency_and_QA"
+  },
+  {
+    "file": "CampusCenter_P02_MadMapper_UV01_Assembly_1_100_Atlas_Masks_Reference.zip",
+    "bytes": 6649617,
+    "sha256": "92718e43cc39abfc0c5f42da9cda078a12ec396e0b229d35fe36118a24b3cf37",
+    "producer_bytes": 6649326,
+    "producer_sha256": "20d79889bb58bda20fee0106b6b60fe5272d9fef6d870a7ee60970e7e8f3b9ca",
+    "physical_scale_denominator": 100,
+    "package_role": "atlas_masks_and_readable_references"
+  },
+  {
+    "file": "CampusCenter_P02_MadMapper_UV01_Sample_1_250_Model.zip",
+    "bytes": 16303691,
+    "sha256": "8df90a00153eae277a4cba8e39ff6e790e512be5e7c7708bb0ac2e0e2c7613a6",
+    "producer_bytes": 16303497,
+    "producer_sha256": "9debeb279b8cc96bc5f1c2611296a8a8f71d39e0d42e94c36f613520cf7a72d0",
+    "physical_scale_denominator": 250,
+    "package_role": "model_with_texture_dependency_and_QA"
+  },
+  {
+    "file": "CampusCenter_P02_MadMapper_UV01_Sample_1_250_Atlas_Masks_Reference.zip",
+    "bytes": 6374506,
+    "sha256": "93570c065763aeaf695aaf9dcc19c8501d3085ecd01c440c4cac9b8c08ba7a63",
+    "producer_bytes": 6374213,
+    "producer_sha256": "6b14883dfa5baceed7f9160a8e2983f54aec70a83151fc3b6e5fe8a013328f18",
+    "physical_scale_denominator": 250,
+    "package_role": "atlas_masks_and_readable_references"
+  },
+  {
+    "file": "Room_Review_Map.png",
+    "bytes": 139808,
+    "sha256": "28545c98a8c9a89f037a377ebc9e96c678a5fb0c13266ac4be5d0e592dff8acf"
+  }
+]

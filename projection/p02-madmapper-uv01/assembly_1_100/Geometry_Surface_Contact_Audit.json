@@ -1,0 +1,1650 @@
+{
+  "same_part_exact_coordinate_duplicate_triangles": 0,
+  "cross_material_exact_contact_triangles": 164,
+  "contacts": [
+    {
+      "part_face_0based": [
+        "Glazing",
+        2
+      ],
+      "coincident_with": [
+        "Opaque",
+        376
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        3
+      ],
+      "coincident_with": [
+        "Opaque",
+        382
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        6
+      ],
+      "coincident_with": [
+        "Opaque",
+        444
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        7
+      ],
+      "coincident_with": [
+        "Opaque",
+        447
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        16
+      ],
+      "coincident_with": [
+        "Opaque",
+        1495
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        23
+      ],
+      "coincident_with": [
+        "Opaque",
+        1500
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        31
+      ],
+      "coincident_with": [
+        "Opaque",
+        1515
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        50
+      ],
+      "coincident_with": [
+        "Opaque",
+        4699
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        51
+      ],
+      "coincident_with": [
+        "Opaque",
+        4709
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        55
+      ],
+      "coincident_with": [
+        "Opaque",
+        9370
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        56
+      ],
+      "coincident_with": [
+        "Opaque",
+        9612
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        57
+      ],
+      "coincident_with": [
+        "Opaque",
+        9628
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        58
+      ],
+      "coincident_with": [
+        "Opaque",
+        10105
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        59
+      ],
+      "coincident_with": [
+        "Opaque",
+        10154
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        63
+      ],
+      "coincident_with": [
+        "Opaque",
+        9775
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        64
+      ],
+      "coincident_with": [
+        "Opaque",
+        9806
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        66
+      ],
+      "coincident_with": [
+        "Opaque",
+        9773
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        69
+      ],
+      "coincident_with": [
+        "Opaque",
+        9789
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        71
+      ],
+      "coincident_with": [
+        "Opaque",
+        9929
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        74
+      ],
+      "coincident_with": [
+        "Opaque",
+        10514
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        75
+      ],
+      "coincident_with": [
+        "Opaque",
+        10515
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        76
+      ],
+      "coincident_with": [
+        "Opaque",
+        10516
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        77
+      ],
+      "coincident_with": [
+        "Opaque",
+        10517
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        88
+      ],
+      "coincident_with": [
+        "Opaque",
+        13662
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        112
+      ],
+      "coincident_with": [
+        "Opaque",
+        13936
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        128
+      ],
+      "coincident_with": [
+        "Opaque",
+        14719
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        132
+      ],
+      "coincident_with": [
+        "Opaque",
+        14862
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        138
+      ],
+      "coincident_with": [
+        "Opaque",
+        15085
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        141
+      ],
+      "coincident_with": [
+        "Opaque",
+        15087
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        145
+      ],
+      "coincident_with": [
+        "Opaque",
+        15091
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        150
+      ],
+      "coincident_with": [
+        "Opaque",
+        16261
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        153
+      ],
+      "coincident_with": [
+        "Opaque",
+        16438
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        158
+      ],
+      "coincident_with": [
+        "Opaque",
+        16460
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        160
+      ],
+      "coincident_with": [
+        "Opaque",
+        16708
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        161
+      ],
+      "coincident_with": [
+        "Opaque",
+        16710
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        162
+      ],
+      "coincident_with": [
+        "Opaque",
+        16714
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        163
+      ],
+      "coincident_with": [
+        "Opaque",
+        16715
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        164
+      ],
+      "coincident_with": [
+        "Opaque",
+        16831
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        165
+      ],
+      "coincident_with": [
+        "Opaque",
+        16833
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        168
+      ],
+      "coincident_with": [
+        "Opaque",
+        22994
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        169
+      ],
+      "coincident_with": [
+        "Opaque",
+        23012
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        170
+      ],
+      "coincident_with": [
+        "Opaque",
+        23272
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        171
+      ],
+      "coincident_with": [
+        "Opaque",
+        23289
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        176
+      ],
+      "coincident_with": [
+        "Opaque",
+        23625
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        177
+      ],
+      "coincident_with": [
+        "Opaque",
+        23665
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        186
+      ],
+      "coincident_with": [
+        "Opaque",
+        23325
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        189
+      ],
+      "coincident_with": [
+        "Opaque",
+        23392
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        190
+      ],
+      "coincident_with": [
+        "Opaque",
+        23394
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        193
+      ],
+      "coincident_with": [
+        "Opaque",
+        23407
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        194
+      ],
+      "coincident_with": [
+        "Opaque",
+        23852
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        197
+      ],
+      "coincident_with": [
+        "Opaque",
+        23866
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        282
+      ],
+      "coincident_with": [
+        "Opaque",
+        26029
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        285
+      ],
+      "coincident_with": [
+        "Opaque",
+        26084
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        286
+      ],
+      "coincident_with": [
+        "Opaque",
+        26087
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        289
+      ],
+      "coincident_with": [
+        "Opaque",
+        26088
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        290
+      ],
+      "coincident_with": [
+        "Opaque",
+        26256
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        297
+      ],
+      "coincident_with": [
+        "Opaque",
+        26257
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        302
+      ],
+      "coincident_with": [
+        "Opaque",
+        32874
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        305
+      ],
+      "coincident_with": [
+        "Opaque",
+        33527
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        306
+      ],
+      "coincident_with": [
+        "Opaque",
+        31093
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        309
+      ],
+      "coincident_with": [
+        "Opaque",
+        36391
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        310
+      ],
+      "coincident_with": [
+        "Opaque",
+        36408
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        315
+      ],
+      "coincident_with": [
+        "Opaque",
+        34259
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        323
+      ],
+      "coincident_with": [
+        "Opaque",
+        34381
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        324
+      ],
+      "coincident_with": [
+        "Opaque",
+        37560
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        341
+      ],
+      "coincident_with": [
+        "Opaque",
+        36153
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        351
+      ],
+      "coincident_with": [
+        "Opaque",
+        37571
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        352
+      ],
+      "coincident_with": [
+        "Opaque",
+        37656
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        353
+      ],
+      "coincident_with": [
+        "Opaque",
+        38801
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        356
+      ],
+      "coincident_with": [
+        "Opaque",
+        47206
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        361
+      ],
+      "coincident_with": [
+        "Opaque",
+        28338
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        364
+      ],
+      "coincident_with": [
+        "Opaque",
+        39458
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        369
+      ],
+      "coincident_with": [
+        "Opaque",
+        35269
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        372
+      ],
+      "coincident_with": [
+        "Opaque",
+        35272
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        374
+      ],
+      "coincident_with": [
+        "Opaque",
+        36172
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        380
+      ],
+      "coincident_with": [
+        "Opaque",
+        38823
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        381
+      ],
+      "coincident_with": [
+        "Opaque",
+        38361
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        385
+      ],
+      "coincident_with": [
+        "Opaque",
+        38840
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        391
+      ],
+      "coincident_with": [
+        "Opaque",
+        42210
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        392
+      ],
+      "coincident_with": [
+        "Opaque",
+        42362
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        393
+      ],
+      "coincident_with": [
+        "Opaque",
+        46566
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        394
+      ],
+      "coincident_with": [
+        "Opaque",
+        44045
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        395
+      ],
+      "coincident_with": [
+        "Opaque",
+        44137
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        396
+      ],
+      "coincident_with": [
+        "Opaque",
+        44373
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        397
+      ],
+      "coincident_with": [
+        "Opaque",
+        45154
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        398
+      ],
+      "coincident_with": [
+        "Opaque",
+        45249
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        399
+      ],
+      "coincident_with": [
+        "Opaque",
+        45278
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        405
+      ],
+      "coincident_with": [
+        "Opaque",
+        47798
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        409
+      ],
+      "coincident_with": [
+        "Opaque",
+        47888
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        413
+      ],
+      "coincident_with": [
+        "Opaque",
+        48224
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        414
+      ],
+      "coincident_with": [
+        "Opaque",
+        48231
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        417
+      ],
+      "coincident_with": [
+        "Opaque",
+        48238
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        420
+      ],
+      "coincident_with": [
+        "Opaque",
+        45233
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        423
+      ],
+      "coincident_with": [
+        "Opaque",
+        52139
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        425
+      ],
+      "coincident_with": [
+        "Opaque",
+        52143
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        426
+      ],
+      "coincident_with": [
+        "Opaque",
+        52676
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        433
+      ],
+      "coincident_with": [
+        "Opaque",
+        52214
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        435
+      ],
+      "coincident_with": [
+        "Opaque",
+        52219
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        436
+      ],
+      "coincident_with": [
+        "Opaque",
+        52732
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        440
+      ],
+      "coincident_with": [
+        "Opaque",
+        52185
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        441
+      ],
+      "coincident_with": [
+        "Opaque",
+        52188
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        442
+      ],
+      "coincident_with": [
+        "Opaque",
+        52189
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        443
+      ],
+      "coincident_with": [
+        "Opaque",
+        52159
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        444
+      ],
+      "coincident_with": [
+        "Opaque",
+        52704
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        449
+      ],
+      "coincident_with": [
+        "Opaque",
+        52331
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        450
+      ],
+      "coincident_with": [
+        "Opaque",
+        52281
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        451
+      ],
+      "coincident_with": [
+        "Opaque",
+        52284
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        452
+      ],
+      "coincident_with": [
+        "Opaque",
+        52285
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        454
+      ],
+      "coincident_with": [
+        "Opaque",
+        52771
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        458
+      ],
+      "coincident_with": [
+        "Opaque",
+        52351
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        462
+      ],
+      "coincident_with": [
+        "Opaque",
+        55130
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        468
+      ],
+      "coincident_with": [
+        "Opaque",
+        55172
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        503
+      ],
+      "coincident_with": [
+        "Opaque",
+        55391
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        504
+      ],
+      "coincident_with": [
+        "Opaque",
+        55389
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        505
+      ],
+      "coincident_with": [
+        "Opaque",
+        55394
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        515
+      ],
+      "coincident_with": [
+        "Opaque",
+        55409
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        547
+      ],
+      "coincident_with": [
+        "Opaque",
+        56154
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        550
+      ],
+      "coincident_with": [
+        "Opaque",
+        56235
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        551
+      ],
+      "coincident_with": [
+        "Opaque",
+        56449
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        557
+      ],
+      "coincident_with": [
+        "Opaque",
+        56450
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        564
+      ],
+      "coincident_with": [
+        "Opaque",
+        56791
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        593
+      ],
+      "coincident_with": [
+        "Opaque",
+        56427
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        601
+      ],
+      "coincident_with": [
+        "Opaque",
+        58858
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        605
+      ],
+      "coincident_with": [
+        "Opaque",
+        59010
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        609
+      ],
+      "coincident_with": [
+        "Opaque",
+        59081
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        642
+      ],
+      "coincident_with": [
+        "Opaque",
+        60445
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        643
+      ],
+      "coincident_with": [
+        "Opaque",
+        60443
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        646
+      ],
+      "coincident_with": [
+        "Opaque",
+        60451
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        674
+      ],
+      "coincident_with": [
+        "Opaque",
+        61786
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        675
+      ],
+      "coincident_with": [
+        "Opaque",
+        61788
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        679
+      ],
+      "coincident_with": [
+        "Opaque",
+        53040
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        680
+      ],
+      "coincident_with": [
+        "Opaque",
+        67513
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        683
+      ],
+      "coincident_with": [
+        "Opaque",
+        66624
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        684
+      ],
+      "coincident_with": [
+        "Opaque",
+        69081
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        689
+      ],
+      "coincident_with": [
+        "Opaque",
+        73175
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        704
+      ],
+      "coincident_with": [
+        "Opaque",
+        73642
+      ]
+    },
+    {
+      "part_face_0based": [
+        "HangingLoops",
+        1
+      ],
+      "coincident_with": [
+        "Opaque",
+        25298
+      ]
+    },
+    {
+      "part_face_0based": [
+        "HangingLoops",
+        3
+      ],
+      "coincident_with": [
+        "Opaque",
+        25291
+      ]
+    },
+    {
+      "part_face_0based": [
+        "HangingLoops",
+        4
+      ],
+      "coincident_with": [
+        "Opaque",
+        25328
+      ]
+    },
+    {
+      "part_face_0based": [
+        "HangingLoops",
+        5
+      ],
+      "coincident_with": [
+        "Opaque",
+        25292
+      ]
+    },
+    {
+      "part_face_0based": [
+        "HangingLoops",
+        6
+      ],
+      "coincident_with": [
+        "Opaque",
+        25329
+      ]
+    },
+    {
+      "part_face_0based": [
+        "HangingLoops",
+        7
+      ],
+      "coincident_with": [
+        "Opaque",
+        25299
+      ]
+    },
+    {
+      "part_face_0based": [
+        "HangingLoops",
+        8
+      ],
+      "coincident_with": [
+        "Opaque",
+        25330
+      ]
+    },
+    {
+      "part_face_0based": [
+        "HangingLoops",
+        9
+      ],
+      "coincident_with": [
+        "Opaque",
+        25331
+      ]
+    },
+    {
+      "part_face_0based": [
+        "HangingLoops",
+        11
+      ],
+      "coincident_with": [
+        "Opaque",
+        25300
+      ]
+    },
+    {
+      "part_face_0based": [
+        "HangingLoops",
+        15
+      ],
+      "coincident_with": [
+        "Opaque",
+        25332
+      ]
+    },
+    {
+      "part_face_0based": [
+        "HangingLoops",
+        16
+      ],
+      "coincident_with": [
+        "Opaque",
+        25302
+      ]
+    },
+    {
+      "part_face_0based": [
+        "HangingLoops",
+        17
+      ],
+      "coincident_with": [
+        "Opaque",
+        25301
+      ]
+    },
+    {
+      "part_face_0based": [
+        "HangingLoops",
+        18
+      ],
+      "coincident_with": [
+        "Opaque",
+        25333
+      ]
+    },
+    {
+      "part_face_0based": [
+        "HangingLoops",
+        19
+      ],
+      "coincident_with": [
+        "Opaque",
+        25334
+      ]
+    },
+    {
+      "part_face_0based": [
+        "HangingLoops",
+        564
+      ],
+      "coincident_with": [
+        "Opaque",
+        62714
+      ]
+    },
+    {
+      "part_face_0based": [
+        "HangingLoops",
+        566
+      ],
+      "coincident_with": [
+        "Opaque",
+        62716
+      ]
+    },
+    {
+      "part_face_0based": [
+        "HangingLoops",
+        567
+      ],
+      "coincident_with": [
+        "Opaque",
+        62728
+      ]
+    },
+    {
+      "part_face_0based": [
+        "HangingLoops",
+        569
+      ],
+      "coincident_with": [
+        "Opaque",
+        62715
+      ]
+    },
+    {
+      "part_face_0based": [
+        "HangingLoops",
+        570
+      ],
+      "coincident_with": [
+        "Opaque",
+        62729
+      ]
+    },
+    {
+      "part_face_0based": [
+        "HangingLoops",
+        571
+      ],
+      "coincident_with": [
+        "Opaque",
+        62717
+      ]
+    },
+    {
+      "part_face_0based": [
+        "HangingLoops",
+        572
+      ],
+      "coincident_with": [
+        "Opaque",
+        62731
+      ]
+    },
+    {
+      "part_face_0based": [
+        "HangingLoops",
+        573
+      ],
+      "coincident_with": [
+        "Opaque",
+        62730
+      ]
+    },
+    {
+      "part_face_0based": [
+        "HangingLoops",
+        574
+      ],
+      "coincident_with": [
+        "Opaque",
+        62718
+      ]
+    },
+    {
+      "part_face_0based": [
+        "HangingLoops",
+        579
+      ],
+      "coincident_with": [
+        "Opaque",
+        62732
+      ]
+    },
+    {
+      "part_face_0based": [
+        "HangingLoops",
+        580
+      ],
+      "coincident_with": [
+        "Opaque",
+        62719
+      ]
+    },
+    {
+      "part_face_0based": [
+        "HangingLoops",
+        581
+      ],
+      "coincident_with": [
+        "Opaque",
+        62734
+      ]
+    },
+    {
+      "part_face_0based": [
+        "HangingLoops",
+        582
+      ],
+      "coincident_with": [
+        "Opaque",
+        62720
+      ]
+    },
+    {
+      "part_face_0based": [
+        "HangingLoops",
+        583
+      ],
+      "coincident_with": [
+        "Opaque",
+        62733
+      ]
+    }
+  ],
+  "positive_volume_overlap_mm3": 0,
+  "volume_overlap_evidence": "P02 physical geometry_QA pairwise intersection checks; exact source triangle/vertex preservation retains these bodies.",
+  "visible_surface_completeness": "All original source faces retained, each part closed. Open roof and omitted print-scale headers are intentional original print adaptations, not missing surfaces repaired by UV01.",
+  "geometry_changes": []
+}

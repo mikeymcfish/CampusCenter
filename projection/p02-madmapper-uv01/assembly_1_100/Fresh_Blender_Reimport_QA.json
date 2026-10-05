@@ -1,0 +1,72 @@
+{
+  "fresh_scene_factory_empty": true,
+  "native_Blender_OBJ_import": true,
+  "imported_obj_sha256": "5fb3d64faebe846255f84b4e4f2be832070fec649ea99a1005d69f0c802db45f",
+  "imported_diagnostic_texture_sha256": "55aab346a35810e6327c13fdf141fa669bf0bbf68cca33b4f4a06c3aa91978df",
+  "settings": {
+    "forward_axis": "Y",
+    "up_axis": "Z",
+    "global_scale": 1.0,
+    "scene_length_unit": "mm",
+    "scene_scale_length": 0.001
+  },
+  "parts": [
+    {
+      "part": "Glazing",
+      "vertices": 448,
+      "triangles": 708,
+      "triangle_count_order_and_winding_preserved": true,
+      "maximum_triangle_corner_coordinate_error_mm": 2.8417968792382453e-05,
+      "maximum_UV_corner_error_normalized": 2.979600000063698e-08,
+      "maximum_UV_corner_error_pixels_at8192": 0.00024408883200521814,
+      "world_matrix_identity": true,
+      "maximum_bounds_error_mm": 1.3427734359083843e-05,
+      "minimum_imported_normal_dot_source": 0.999999894444229,
+      "maximum_imported_normal_vector_error": 5.26347666538804e-05,
+      "float32_geometry_zero_area_triangles": 0,
+      "normals_note": "Custom source OBJ normals retained; Blender mesh coordinates are float32. Microscopic existing source slivers may collapse below that precision. Authoritative OBJ preserves source float64-decimal coordinates exactly."
+    },
+    {
+      "part": "HangingLoops",
+      "vertices": 564,
+      "triangles": 1128,
+      "triangle_count_order_and_winding_preserved": true,
+      "maximum_triangle_corner_coordinate_error_mm": 3.035468751022563e-05,
+      "maximum_UV_corner_error_normalized": 2.9802102341491832e-08,
+      "maximum_UV_corner_error_pixels_at8192": 0.00024413882238150109,
+      "world_matrix_identity": true,
+      "maximum_bounds_error_mm": 2.0092187469344935e-05,
+      "minimum_imported_normal_dot_source": 0.9999998623918641,
+      "maximum_imported_normal_vector_error": 0.0004241968281001415,
+      "float32_geometry_zero_area_triangles": 0,
+      "normals_note": "Custom source OBJ normals retained; Blender mesh coordinates are float32. Microscopic existing source slivers may collapse below that precision. Authoritative OBJ preserves source float64-decimal coordinates exactly."
+    },
+    {
+      "part": "Opaque",
+      "vertices": 37125,
+      "triangles": 74138,
+      "triangle_count_order_and_winding_preserved": true,
+      "maximum_triangle_corner_coordinate_error_mm": 3.0114062496977567e-05,
+      "maximum_UV_corner_error_normalized": 2.980232227667301e-08,
+      "maximum_UV_corner_error_pixels_at8192": 0.0002441406240905053,
+      "world_matrix_identity": true,
+      "maximum_bounds_error_mm": 1.2207031261368684e-05,
+      "minimum_imported_normal_dot_source": 0.9998522926193679,
+      "maximum_imported_normal_vector_error": 0.01718215921461235,
+      "float32_geometry_zero_area_triangles": 0,
+      "normals_note": "Custom source OBJ normals retained; Blender mesh coordinates are float32. Microscopic existing source slivers may collapse below that precision. Authoritative OBJ preserves source float64-decimal coordinates exactly."
+    }
+  ],
+  "dimension_mm": [
+    657.5999755859375,
+    512.0602416992188,
+    46.87200164794922
+  ],
+  "all_triangle_corner_coordinates_and_UVs_match_within_reported_precision": true,
+  "exact_OBJ_decimal_geometry_preserved": true,
+  "actual_diagnostic_renders": [
+    "Diagnostic_Fresh_Import_NorthEast.png",
+    "Diagnostic_Fresh_Import_SouthEast.png"
+  ],
+  "physical_projection_verified": false
+}

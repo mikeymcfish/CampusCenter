@@ -1,0 +1,10 @@
+{
+  "geometry_changes": [],
+  "unchanged_geometry": "All source decimal vertex strings, indexed triangles/winding and decimal normal records copied exactly to final OBJ. No remeshing, welding, decimation, merging, thickness changes or scaling.",
+  "changed_UVs": "Planar XY UVs replaced with one nonoverlapping 8192x8192 atlas; independent room-candidate/role/facing-side charts, minimum 4px padding, minimum 2px chart spans. Local UV seams resolve projection folds and microscopic UV precision issues.",
+  "changed_material_shaders": "Named physical groups preserved. UV01 MTL/Blender use opaque diagnostic checkers, including Glazing/eyelets, to make every face inspectable. Original P02 transparency MTL included as reference; this is not a simulation of printed PLA.",
+  "semantic_assignment": "Gym interior rectangle derived directly from seven native R29/P02 wall segments. Other room candidates use registered A101 reference boxes; corridor131/stairA/B and revised open-space boundaries require review.",
+  "minimum_span_distortion": "Some narrow source charts expand in UV only. This keeps all UV faces addressable; exact metric stretch, including microscopic slivers, is in UV_Overlap_and_Stretch_QA.json.",
+  "source_scale_denominator": 100,
+  "not_a_rescaled_other_model": true
+}

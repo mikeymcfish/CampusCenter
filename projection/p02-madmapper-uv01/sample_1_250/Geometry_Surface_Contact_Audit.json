@@ -1,0 +1,240 @@
+{
+  "same_part_exact_coordinate_duplicate_triangles": 0,
+  "cross_material_exact_contact_triangles": 23,
+  "contacts": [
+    {
+      "part_face_0based": [
+        "Glazing",
+        128
+      ],
+      "coincident_with": [
+        "Opaque",
+        13985
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        132
+      ],
+      "coincident_with": [
+        "Opaque",
+        14000
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        361
+      ],
+      "coincident_with": [
+        "Opaque",
+        34134
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        368
+      ],
+      "coincident_with": [
+        "Opaque",
+        34867
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        369
+      ],
+      "coincident_with": [
+        "Opaque",
+        34869
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        371
+      ],
+      "coincident_with": [
+        "Opaque",
+        34868
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        374
+      ],
+      "coincident_with": [
+        "Opaque",
+        34887
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        375
+      ],
+      "coincident_with": [
+        "Opaque",
+        34886
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        381
+      ],
+      "coincident_with": [
+        "Opaque",
+        37234
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        385
+      ],
+      "coincident_with": [
+        "Opaque",
+        37241
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        396
+      ],
+      "coincident_with": [
+        "Opaque",
+        41071
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        398
+      ],
+      "coincident_with": [
+        "Opaque",
+        41705
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        425
+      ],
+      "coincident_with": [
+        "Opaque",
+        46851
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        426
+      ],
+      "coincident_with": [
+        "Opaque",
+        47297
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        428
+      ],
+      "coincident_with": [
+        "Opaque",
+        47308
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        435
+      ],
+      "coincident_with": [
+        "Opaque",
+        46933
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        436
+      ],
+      "coincident_with": [
+        "Opaque",
+        47371
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        440
+      ],
+      "coincident_with": [
+        "Opaque",
+        46884
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        443
+      ],
+      "coincident_with": [
+        "Opaque",
+        47344
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        451
+      ],
+      "coincident_with": [
+        "Opaque",
+        46977
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        454
+      ],
+      "coincident_with": [
+        "Opaque",
+        47427
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        464
+      ],
+      "coincident_with": [
+        "Opaque",
+        49452
+      ]
+    },
+    {
+      "part_face_0based": [
+        "Glazing",
+        470
+      ],
+      "coincident_with": [
+        "Opaque",
+        49509
+      ]
+    }
+  ],
+  "positive_volume_overlap_mm3": 0,
+  "volume_overlap_evidence": "P02 physical geometry_QA pairwise intersection checks; exact source triangle/vertex preservation retains these bodies.",
+  "visible_surface_completeness": "All original source faces retained, each part closed. Open roof and omitted print-scale headers are intentional original print adaptations, not missing surfaces repaired by UV01.",
+  "geometry_changes": []
+}

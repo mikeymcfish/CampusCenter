@@ -1,0 +1,21 @@
+{
+  "reviewed_final_fresh_import_images": [
+    "assembly_1_100/Diagnostic_Fresh_Import_NorthEast.png",
+    "assembly_1_100/Diagnostic_Fresh_Import_SouthEast.png",
+    "sample_1_250/Diagnostic_Fresh_Import_NorthEast.png"
+  ],
+  "reviewed_reference_images": [
+    "assembly_1_100/Room_Atlas_Index.png",
+    "Room_Review_Map.png"
+  ],
+  "actual_source_frame_preserved": true,
+  "checker_diagnostic_covers_visible_walls_floors_relief_and_glazing": true,
+  "primary_hanging_loops_present": true,
+  "readable_room_reference_index": true,
+  "room_reference_uncertainties_visible": [
+    "corridor 131 absent from inherited metadata",
+    "stair A/B surface ownership",
+    "revised open Commons/cafe/display-hall and R25 room boundaries"
+  ],
+  "interpretation": "Visual review supplements quantified UV and geometry checks; it does not verify physical projection or all uncertain room boundary semantics."
+}

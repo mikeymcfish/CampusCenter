@@ -1,0 +1,17 @@
+{
+  "inter_chart_rectangle_positive_overlaps": 0,
+  "within_chart_positive_triangle_overlaps": 0,
+  "within_chart_pairs_checked": 140391,
+  "overlap_pairs": [],
+  "all_faces_have_unique_nonoverlapping_regions": true,
+  "zero_negative_or_mirrored_UV_triangles": 0,
+  "UV_float32_zero_or_negative_triangles": 0,
+  "stretch_singular_ratio_p50_p95_max": [
+    1.0011066539161146,
+    1.624807674240188,
+    26903.301391488803
+  ],
+  "stretch_singular_ratio_area_weighted_p95": 1.0031948959715036,
+  "area_fraction_above_stretch_2": 0.0001541013707562115,
+  "stretch_note": "Axis projection contributes at most sqrt(3) distortion. Narrow subpixel chart axes, including microscopic source triangles, are expanded to 2 pixels; their larger metric stretch is measured here. No geometry is changed."
+}

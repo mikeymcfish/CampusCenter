@@ -1,0 +1,23 @@
+newmtl Opaque
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd Atlas_Diagnostic.png
+
+newmtl Glazing
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd Atlas_Diagnostic.png
+
+newmtl HangingLoops
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd Atlas_Diagnostic.png

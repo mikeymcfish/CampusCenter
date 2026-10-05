@@ -1,0 +1,57 @@
+{
+  "fresh_scene_factory_empty": true,
+  "native_Blender_OBJ_import": true,
+  "imported_obj_sha256": "ea3ece475b4a386cb3fac71a95f3e9701c8ca40211ee5580aad58e7b0cfcd5dd",
+  "imported_diagnostic_texture_sha256": "06e6e3826da97f70958475262a3a2acb26ab7121d7af9b0c34b29d5f4e2ac111",
+  "settings": {
+    "forward_axis": "Y",
+    "up_axis": "Z",
+    "global_scale": 1.0,
+    "scene_length_unit": "mm",
+    "scene_scale_length": 0.001
+  },
+  "parts": [
+    {
+      "part": "Glazing",
+      "vertices": 448,
+      "triangles": 708,
+      "triangle_count_order_and_winding_preserved": true,
+      "maximum_triangle_corner_coordinate_error_mm": 9.130859382366907e-06,
+      "maximum_UV_corner_error_normalized": 2.9802221912511584e-08,
+      "maximum_UV_corner_error_pixels_at8192": 0.0002441398019072949,
+      "world_matrix_identity": true,
+      "maximum_bounds_error_mm": 5.371093749317879e-06,
+      "minimum_imported_normal_dot_source": 0.9999998999459213,
+      "maximum_imported_normal_vector_error": 1.3624971289402997e-05,
+      "float32_geometry_zero_area_triangles": 0,
+      "normals_note": "Custom source OBJ normals retained; Blender mesh coordinates are float32. Microscopic existing source slivers may collapse below that precision. Authoritative OBJ preserves source float64-decimal coordinates exactly."
+    },
+    {
+      "part": "Opaque",
+      "vertices": 33260,
+      "triangles": 66412,
+      "triangle_count_order_and_winding_preserved": true,
+      "maximum_triangle_corner_coordinate_error_mm": 1.4989062492531957e-05,
+      "maximum_UV_corner_error_normalized": 2.9802321499516893e-08,
+      "maximum_UV_corner_error_pixels_at8192": 0.00024414061772404239,
+      "world_matrix_identity": true,
+      "maximum_bounds_error_mm": 4.272460927268185e-06,
+      "minimum_imported_normal_dot_source": 0.9998274060392869,
+      "maximum_imported_normal_vector_error": 0.018579206514222884,
+      "float32_geometry_zero_area_triangles": 0,
+      "normals_note": "Custom source OBJ normals retained; Blender mesh coordinates are float32. Microscopic existing source slivers may collapse below that precision. Authoritative OBJ preserves source float64-decimal coordinates exactly."
+    }
+  ],
+  "dimension_mm": [
+    263.3599853515625,
+    196.8000030517578,
+    19.06879997253418
+  ],
+  "all_triangle_corner_coordinates_and_UVs_match_within_reported_precision": true,
+  "exact_OBJ_decimal_geometry_preserved": true,
+  "actual_diagnostic_renders": [
+    "Diagnostic_Fresh_Import_NorthEast.png",
+    "Diagnostic_Fresh_Import_SouthEast.png"
+  ],
+  "physical_projection_verified": false
+}

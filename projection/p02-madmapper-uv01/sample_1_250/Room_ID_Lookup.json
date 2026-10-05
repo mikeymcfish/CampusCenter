@@ -1,0 +1,291 @@
+{
+  "1": {
+    "number": "100",
+    "name": "ENTRY VESTIBULE",
+    "label_source": "A101 verified reference; R29 boundary/renaming review needed",
+    "point_mm": [
+      258.8540314136126,
+      57.49989528795811
+    ]
+  },
+  "2": {
+    "number": "101",
+    "name": "CAFE",
+    "label_source": "A101 verified reference; R29 boundary/renaming review needed",
+    "point_mm": [
+      246.0875392670157,
+      79.20293193717278
+    ]
+  },
+  "3": {
+    "number": "102",
+    "name": "STUDENT COMMONS",
+    "label_source": "A101 verified reference; R29 boundary/renaming review needed",
+    "point_mm": [
+      213.10743455497382,
+      100.05486910994763
+    ]
+  },
+  "4": {
+    "number": "103",
+    "name": "RECEPTION",
+    "label_source": "A101 verified reference; R29 boundary/renaming review needed",
+    "point_mm": [
+      244.59811518324608,
+      37.49905759162303
+    ]
+  },
+  "5": {
+    "number": "104",
+    "name": "ADMISSIONS OFFICE",
+    "label_source": "A101 verified reference; R29 boundary/renaming review needed",
+    "point_mm": [
+      244.59811518324608,
+      19.83874345549738
+    ]
+  },
+  "6": {
+    "number": "105",
+    "name": "CRI GALLERY",
+    "label_source": "A101 verified reference; R29 boundary/renaming review needed",
+    "point_mm": [
+      215.02240837696334,
+      21.115392670157064
+    ]
+  },
+  "7": {
+    "number": "106",
+    "name": "CORRIDOR / DISPLAY HALL",
+    "label_source": "A101 verified reference; R29 boundary/renaming review needed",
+    "point_mm": [
+      163.31811518324608,
+      57.71267015706806
+    ]
+  },
+  "8": {
+    "number": "108",
+    "name": "INNOVATION LAB",
+    "label_source": "A101 verified reference; R29 boundary/renaming review needed",
+    "point_mm": [
+      164.16921465968588,
+      27.498638743455494
+    ]
+  },
+  "9": {
+    "number": "109",
+    "name": "STORAGE / IT / MECH",
+    "label_source": "A101 verified reference; R29 boundary/renaming review needed",
+    "point_mm": [
+      135.231832460733,
+      41.541780104712046
+    ]
+  },
+  "10": {
+    "number": "110",
+    "name": "CORRIDOR",
+    "label_source": "A101 verified reference; R29 boundary/renaming review needed",
+    "point_mm": [
+      119.91204188481676,
+      68.98973821989529
+    ]
+  },
+  "11": {
+    "number": "111",
+    "name": "OFFICE",
+    "label_source": "A101 verified reference; R29 boundary/renaming review needed",
+    "point_mm": [
+      135.01905759162304,
+      56.22324607329843
+    ]
+  },
+  "12": {
+    "number": "112",
+    "name": "ASPIRE CLASSROOM",
+    "label_source": "A101 verified reference; R29 boundary/renaming review needed",
+    "point_mm": [
+      115.44376963350786,
+      46.222827225130885
+    ]
+  },
+  "13": {
+    "number": "113",
+    "name": "COLLABORATION ROOM",
+    "label_source": "A101 verified reference; R29 boundary/renaming review needed",
+    "point_mm": [
+      93.52795811518325,
+      46.435602094240835
+    ]
+  },
+  "14": {
+    "number": "114",
+    "name": "VESTIBULE",
+    "label_source": "A101 verified reference; R29 boundary/renaming review needed",
+    "point_mm": [
+      60.335078534031425,
+      45.797277486910986
+    ]
+  },
+  "15": {
+    "number": "115",
+    "name": "CORRIDOR",
+    "label_source": "A101 verified reference; R29 boundary/renaming review needed",
+    "point_mm": [
+      43.31308900523561,
+      68.77696335078534
+    ]
+  },
+  "16": {
+    "number": "116",
+    "name": "WOMENS TOILET",
+    "label_source": "A101 verified reference; R29 boundary/renaming review needed",
+    "point_mm": [
+      47.56858638743458,
+      49.414450261780104
+    ]
+  },
+  "17": {
+    "number": "117",
+    "name": "MENS TOILET",
+    "label_source": "A101 verified reference; R29 boundary/renaming review needed",
+    "point_mm": [
+      33.73821989528798,
+      49.414450261780104
+    ]
+  },
+  "18": {
+    "number": "118",
+    "name": "JANITOR",
+    "label_source": "A101 verified reference; R29 boundary/renaming review needed",
+    "point_mm": [
+      23.950575916230378,
+      57.49989528795811
+    ]
+  },
+  "19": {
+    "number": "119",
+    "name": "ATHLETICS STORAGE",
+    "label_source": "A101 verified reference; R29 boundary/renaming review needed",
+    "point_mm": [
+      13.950157068062822,
+      65.15979057591622
+    ]
+  },
+  "20": {
+    "number": "120",
+    "name": "MECH / ELECTRICAL",
+    "label_source": "A101 verified reference; R29 boundary/renaming review needed",
+    "point_mm": [
+      15.43958115183247,
+      45.3717277486911
+    ]
+  },
+  "21": {
+    "number": "121",
+    "name": "LOCKER ROOM",
+    "label_source": "A101 verified reference; R29 boundary/renaming review needed",
+    "point_mm": [
+      43.10031413612563,
+      86.65005235602095
+    ]
+  },
+  "22": {
+    "number": "122",
+    "name": "LOCKER ROOM",
+    "label_source": "A101 verified reference; R29 boundary/renaming review needed",
+    "point_mm": [
+      43.10031413612563,
+      113.03413612565446
+    ]
+  },
+  "23": {
+    "number": "123",
+    "name": "TROPHY HALL / CORRIDOR",
+    "label_source": "A101 verified reference; R29 boundary/renaming review needed",
+    "point_mm": [
+      75.22931937172774,
+      98.9909947643979
+    ]
+  },
+  "24": {
+    "number": "124",
+    "name": "ATHLETICS OFFICE",
+    "label_source": "A101 verified reference; R29 boundary/renaming review needed",
+    "point_mm": [
+      55.65403141361256,
+      143.67371727748687
+    ]
+  },
+  "25": {
+    "number": "125",
+    "name": "ATHLETICS OFFICE",
+    "label_source": "A101 verified reference; R29 boundary/renaming review needed",
+    "point_mm": [
+      49.27078534031415,
+      160.48293193717276
+    ]
+  },
+  "26": {
+    "number": "126",
+    "name": "ATHLETICS OFFICE",
+    "label_source": "A101 verified reference; R29 boundary/renaming review needed",
+    "point_mm": [
+      44.16418848167541,
+      143.67371727748687
+    ]
+  },
+  "27": {
+    "number": "127",
+    "name": "TRAINERS OFFICE",
+    "label_source": "A101 verified reference; R29 boundary/renaming review needed",
+    "point_mm": [
+      33.099895287958105,
+      159.63183246073297
+    ]
+  },
+  "28": {
+    "number": "128",
+    "name": "TRAINERS STORAGE",
+    "label_source": "A101 verified reference; R29 boundary/renaming review needed",
+    "point_mm": [
+      33.099895287958105,
+      142.60984293193715
+    ]
+  },
+  "29": {
+    "number": "129",
+    "name": "ATHLETICS TRAINERS",
+    "label_source": "A101 verified reference; R29 boundary/renaming review needed",
+    "point_mm": [
+      16.29068062827224,
+      151.546387434555
+    ]
+  },
+  "30": {
+    "number": "130",
+    "name": "CORRIDOR",
+    "label_source": "A101 verified reference; R29 boundary/renaming review needed",
+    "point_mm": [
+      38.63204188481674,
+      131.11999999999998
+    ]
+  },
+  "31": {
+    "number": "EXTERIOR",
+    "name": "Exterior or unassigned ground surface",
+    "label_source": "Neutral surface class"
+  },
+  "32": {
+    "number": "GYM",
+    "name": "EXISTING GYM",
+    "label_source": "A101 verified reference; R29 boundary/renaming review needed",
+    "point_mm": [
+      136.93403141361256,
+      136.86492146596856
+    ]
+  },
+  "33": {
+    "number": "UNDERSIDE",
+    "name": "Underside / concealed downward faces",
+    "label_source": "Neutral surface class"
+  }
+}

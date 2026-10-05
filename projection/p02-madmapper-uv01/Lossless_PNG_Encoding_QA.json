@@ -1,0 +1,554 @@
+{
+  "diagnostic_texture_changed": false,
+  "numeric_room_surface_and_part_ID_maps_changed": false,
+  "files": [
+    {
+      "file": "assembly_1_100\\room_masks\\100_All_Parts.png",
+      "before_bytes": 68051,
+      "after_bytes": 10235,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "assembly_1_100\\room_masks\\101_All_Parts.png",
+      "before_bytes": 70370,
+      "after_bytes": 12168,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "assembly_1_100\\room_masks\\102_All_Parts.png",
+      "before_bytes": 102241,
+      "after_bytes": 39853,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "assembly_1_100\\room_masks\\103_All_Parts.png",
+      "before_bytes": 69784,
+      "after_bytes": 11914,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "assembly_1_100\\room_masks\\104_All_Parts.png",
+      "before_bytes": 69728,
+      "after_bytes": 11622,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "assembly_1_100\\room_masks\\105_All_Parts.png",
+      "before_bytes": 74387,
+      "after_bytes": 15635,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "assembly_1_100\\room_masks\\106_All_Parts.png",
+      "before_bytes": 82405,
+      "after_bytes": 22245,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "assembly_1_100\\room_masks\\108_All_Parts.png",
+      "before_bytes": 85918,
+      "after_bytes": 26480,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "assembly_1_100\\room_masks\\109_All_Parts.png",
+      "before_bytes": 67797,
+      "after_bytes": 10057,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "assembly_1_100\\room_masks\\110_All_Parts.png",
+      "before_bytes": 68903,
+      "after_bytes": 11067,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "assembly_1_100\\room_masks\\111_All_Parts.png",
+      "before_bytes": 71106,
+      "after_bytes": 12579,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "assembly_1_100\\room_masks\\112_All_Parts.png",
+      "before_bytes": 76659,
+      "after_bytes": 18448,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "assembly_1_100\\room_masks\\113_All_Parts.png",
+      "before_bytes": 76455,
+      "after_bytes": 17346,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "assembly_1_100\\room_masks\\114_All_Parts.png",
+      "before_bytes": 68862,
+      "after_bytes": 11069,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "assembly_1_100\\room_masks\\115_All_Parts.png",
+      "before_bytes": 68560,
+      "after_bytes": 10537,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "assembly_1_100\\room_masks\\116_All_Parts.png",
+      "before_bytes": 69103,
+      "after_bytes": 11145,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "assembly_1_100\\room_masks\\117_All_Parts.png",
+      "before_bytes": 68542,
+      "after_bytes": 10777,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "assembly_1_100\\room_masks\\118_All_Parts.png",
+      "before_bytes": 69004,
+      "after_bytes": 11112,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "assembly_1_100\\room_masks\\119_All_Parts.png",
+      "before_bytes": 68872,
+      "after_bytes": 10990,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "assembly_1_100\\room_masks\\120_All_Parts.png",
+      "before_bytes": 67117,
+      "after_bytes": 9458,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "assembly_1_100\\room_masks\\121_All_Parts.png",
+      "before_bytes": 69101,
+      "after_bytes": 11052,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "assembly_1_100\\room_masks\\122_All_Parts.png",
+      "before_bytes": 68942,
+      "after_bytes": 10926,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "assembly_1_100\\room_masks\\123_All_Parts.png",
+      "before_bytes": 72971,
+      "after_bytes": 14273,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "assembly_1_100\\room_masks\\124_All_Parts.png",
+      "before_bytes": 68274,
+      "after_bytes": 10474,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "assembly_1_100\\room_masks\\125_All_Parts.png",
+      "before_bytes": 69336,
+      "after_bytes": 11400,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "assembly_1_100\\room_masks\\126_All_Parts.png",
+      "before_bytes": 69725,
+      "after_bytes": 11240,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "assembly_1_100\\room_masks\\127_All_Parts.png",
+      "before_bytes": 70594,
+      "after_bytes": 11891,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "assembly_1_100\\room_masks\\128_All_Parts.png",
+      "before_bytes": 69429,
+      "after_bytes": 11022,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "assembly_1_100\\room_masks\\129_All_Parts.png",
+      "before_bytes": 68553,
+      "after_bytes": 10777,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "assembly_1_100\\room_masks\\130_All_Parts.png",
+      "before_bytes": 74310,
+      "after_bytes": 14471,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "assembly_1_100\\room_masks\\EXTERIOR_All_Parts.png",
+      "before_bytes": 127590,
+      "after_bytes": 61068,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "assembly_1_100\\room_masks\\GYM_All_Parts.png",
+      "before_bytes": 72791,
+      "after_bytes": 13363,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "assembly_1_100\\room_masks\\H01_All_Parts.png",
+      "before_bytes": 69558,
+      "after_bytes": 11527,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "assembly_1_100\\room_masks\\H02_All_Parts.png",
+      "before_bytes": 69685,
+      "after_bytes": 11566,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "assembly_1_100\\room_masks\\UNDERSIDE_All_Parts.png",
+      "before_bytes": 67838,
+      "after_bytes": 9964,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "assembly_1_100\\Default_Opaque_Receiver_Mask.png",
+      "before_bytes": 282961,
+      "after_bytes": 195508,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "assembly_1_100\\Glazing_UV_Mask.png",
+      "before_bytes": 78742,
+      "after_bytes": 16900,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "assembly_1_100\\HangingLoops_UV_Mask.png",
+      "before_bytes": 71017,
+      "after_bytes": 12527,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "assembly_1_100\\Opaque_UV_Mask.png",
+      "before_bytes": 284104,
+      "after_bytes": 196451,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "assembly_1_100\\UV_Wireframe_Transparent.png",
+      "before_bytes": 1546061,
+      "after_bytes": 731363,
+      "all_RGBA_pixels_unchanged": true,
+      "encoding": "indexed PNG with transparency",
+      "distinct_RGBA_colors": 2
+    },
+    {
+      "file": "sample_1_250\\room_masks\\100_All_Parts.png",
+      "before_bytes": 71834,
+      "after_bytes": 13431,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "sample_1_250\\room_masks\\101_All_Parts.png",
+      "before_bytes": 75822,
+      "after_bytes": 15980,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "sample_1_250\\room_masks\\102_All_Parts.png",
+      "before_bytes": 94047,
+      "after_bytes": 32801,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "sample_1_250\\room_masks\\103_All_Parts.png",
+      "before_bytes": 75102,
+      "after_bytes": 16575,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "sample_1_250\\room_masks\\104_All_Parts.png",
+      "before_bytes": 75442,
+      "after_bytes": 16617,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "sample_1_250\\room_masks\\105_All_Parts.png",
+      "before_bytes": 74505,
+      "after_bytes": 16301,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "sample_1_250\\room_masks\\106_All_Parts.png",
+      "before_bytes": 76422,
+      "after_bytes": 17897,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "sample_1_250\\room_masks\\108_All_Parts.png",
+      "before_bytes": 81847,
+      "after_bytes": 23349,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "sample_1_250\\room_masks\\109_All_Parts.png",
+      "before_bytes": 69179,
+      "after_bytes": 11241,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "sample_1_250\\room_masks\\110_All_Parts.png",
+      "before_bytes": 70378,
+      "after_bytes": 12009,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "sample_1_250\\room_masks\\111_All_Parts.png",
+      "before_bytes": 72094,
+      "after_bytes": 13661,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "sample_1_250\\room_masks\\112_All_Parts.png",
+      "before_bytes": 76663,
+      "after_bytes": 18822,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "sample_1_250\\room_masks\\113_All_Parts.png",
+      "before_bytes": 76368,
+      "after_bytes": 17886,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "sample_1_250\\room_masks\\114_All_Parts.png",
+      "before_bytes": 70828,
+      "after_bytes": 12577,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "sample_1_250\\room_masks\\115_All_Parts.png",
+      "before_bytes": 72926,
+      "after_bytes": 13302,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "sample_1_250\\room_masks\\116_All_Parts.png",
+      "before_bytes": 70478,
+      "after_bytes": 12389,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "sample_1_250\\room_masks\\117_All_Parts.png",
+      "before_bytes": 70251,
+      "after_bytes": 11891,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "sample_1_250\\room_masks\\118_All_Parts.png",
+      "before_bytes": 68203,
+      "after_bytes": 10618,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "sample_1_250\\room_masks\\119_All_Parts.png",
+      "before_bytes": 70612,
+      "after_bytes": 12204,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "sample_1_250\\room_masks\\120_All_Parts.png",
+      "before_bytes": 69280,
+      "after_bytes": 10712,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "sample_1_250\\room_masks\\121_All_Parts.png",
+      "before_bytes": 69185,
+      "after_bytes": 10976,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "sample_1_250\\room_masks\\122_All_Parts.png",
+      "before_bytes": 69382,
+      "after_bytes": 11229,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "sample_1_250\\room_masks\\123_All_Parts.png",
+      "before_bytes": 73204,
+      "after_bytes": 14542,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "sample_1_250\\room_masks\\124_All_Parts.png",
+      "before_bytes": 71243,
+      "after_bytes": 12460,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "sample_1_250\\room_masks\\125_All_Parts.png",
+      "before_bytes": 71224,
+      "after_bytes": 13188,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "sample_1_250\\room_masks\\126_All_Parts.png",
+      "before_bytes": 71458,
+      "after_bytes": 12720,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "sample_1_250\\room_masks\\127_All_Parts.png",
+      "before_bytes": 73416,
+      "after_bytes": 14052,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "sample_1_250\\room_masks\\128_All_Parts.png",
+      "before_bytes": 69580,
+      "after_bytes": 11432,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "sample_1_250\\room_masks\\129_All_Parts.png",
+      "before_bytes": 70063,
+      "after_bytes": 11722,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "sample_1_250\\room_masks\\130_All_Parts.png",
+      "before_bytes": 70767,
+      "after_bytes": 12432,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "sample_1_250\\room_masks\\EXTERIOR_All_Parts.png",
+      "before_bytes": 101621,
+      "after_bytes": 39351,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "sample_1_250\\room_masks\\GYM_All_Parts.png",
+      "before_bytes": 71560,
+      "after_bytes": 12542,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "sample_1_250\\room_masks\\UNDERSIDE_All_Parts.png",
+      "before_bytes": 69176,
+      "after_bytes": 10928,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "sample_1_250\\Default_Opaque_Receiver_Mask.png",
+      "before_bytes": 273739,
+      "after_bytes": 187710,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "sample_1_250\\Glazing_UV_Mask.png",
+      "before_bytes": 83692,
+      "after_bytes": 21698,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "sample_1_250\\HangingLoops_UV_Mask.png",
+      "before_bytes": 65204,
+      "after_bytes": 8216,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "sample_1_250\\Opaque_UV_Mask.png",
+      "before_bytes": 274774,
+      "after_bytes": 188454,
+      "all_pixels_unchanged": true,
+      "encoding": "1-bit black/white PNG"
+    },
+    {
+      "file": "sample_1_250\\UV_Wireframe_Transparent.png",
+      "before_bytes": 1542523,
+      "after_bytes": 732582,
+      "all_RGBA_pixels_unchanged": true,
+      "encoding": "indexed PNG with transparency",
+      "distinct_RGBA_colors": 2
+    }
+  ]
+}
