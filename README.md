@@ -1,8 +1,6 @@
-## Latest finalized R29 update
+## Current R29 Vive with integrated grip patch
 
-Fetch and pull main, then run Start_CampusCenter_Vive.cmd or Start_CampusCenter_Desktop.cmd. The launchers download and verify the finalized R29 build into .cc/r29 and preserve existing R28 caches. Default rendering quality and controls remain unchanged. See [R29 opening and download instructions](README_R29.md).
-
-Actual RTX 3050 headset freeze, low frame rate and controller issues remain unresolved; R29 has not been tested on that headset computer. Optional compatibility launchers are on [a separate branch](https://github.com/mikeymcfish/CampusCenter/tree/patch/vive-rtx3050-optional-20261004/optional-launchers/rtx3050).
+Fetch and pull main, then run **Start_CampusCenter_Vive.cmd**. The normal launcher now applies and retains the verified grip-turn update in a separate managed cache, with recoverable rollback. Desktop and default rendering settings remain unchanged. [Opening, optional 3050 profile, verification and rollback instructions](README_CONSOLIDATED_VIVE.md). Hardware/performance/initial-facing issues remain unverified.
 
 # King School Campus Center
 

@@ -1,0 +1,26 @@
+{
+  "scope": "Optional process-only compatibility launcher. No native input/geometry, source configuration, OS/runtime, main or branch mutation.",
+  "supported_targets": [
+    "Existing R28 review build",
+    "R29 r02 review build"
+  ],
+  "settings": {
+    "r.Streaming.PoolSize": "2000",
+    "r.Streaming.LimitPoolSizeToVRAM": "1",
+    "r.RayTracing": "0",
+    "r.Lumen.HardwareRayTracing": "0",
+    "r.Shadow.Virtual.MaxPhysicalPages": "4096",
+    "r.Shadow.Virtual.SMRT.RayCountLocal": "2",
+    "r.Shadow.Virtual.SMRT.SamplesPerRayLocal": "4",
+    "r.Shadow.Virtual.SMRT.RayCountDirectional": "2",
+    "r.Shadow.Virtual.SMRT.SamplesPerRayDirectional": "4",
+    "r.Lumen.ScreenProbeGather.DownsampleFactor": "32",
+    "r.Lumen.Reflections.DownsampleFactor": "2",
+    "vr.PixelDensity": "0.65",
+    "t.MaxFPS": "0"
+  },
+  "changes_visual_quality": true,
+  "keeps_objects_material_assets_lights_effect_assets": true,
+  "hardware_validation": "Not tested on RTX3050 or Vive hardware",
+  "rollback": "Close app and use the unchanged normal launcher."
+}

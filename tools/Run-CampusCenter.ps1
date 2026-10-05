@@ -2,7 +2,10 @@
 param(
     [ValidateSet('Vive', 'Desktop')][string]$Build = 'Vive',
     [switch]$PrepareOnly,
-    [switch]$VerifyOnly
+    [switch]$VerifyOnly,
+    [switch]$RollbackGripPatch,
+    [switch]$EnableGripPatch,
+    [ValidateSet('Default', 'RTX3050')][string]$Profile = 'Default'
 )
 $ErrorActionPreference = 'Stop'
 Set-StrictMode -Version Latest
@@ -20,6 +23,10 @@ $expanded = Join-Path $buildRoot 'w'
 $staging = Join-Path $buildRoot 'w.partial'
 $legacyRoot = Join-Path $repoRoot ('.campuscenter-runtime\' + $pins.tag + '\' + $Build)
 $lock = $null
+if ($RollbackGripPatch -and $EnableGripPatch) { throw 'Choose rollback or enable, not both.' }
+if ($VerifyOnly -and ($RollbackGripPatch -or $EnableGripPatch)) { throw 'VerifyOnly never changes grip mode.' }
+if ($Build -eq 'Desktop' -and ($RollbackGripPatch -or $EnableGripPatch -or $Profile -ne 'Default')) { throw 'Grip controls and RTX3050 profile apply only to Vive.' }
+. (Join-Path $PSScriptRoot 'Manage-CampusCenterGrip.ps1')
 
 function Hash-File([string]$Path) {
     $stream = [IO.File]::OpenRead($Path)
@@ -32,6 +39,9 @@ function Matches-Pin([string]$Path, $Pin) {
 }
 function Preserve-Invalid([string]$Path) {
     # Only this script's exact cache/staging paths are passed here. Never delete user files.
+    $resolved = [IO.Path]::GetFullPath($Path)
+    $allowedPrefix = [IO.Path]::GetFullPath($buildRoot).TrimEnd('\') + '\'
+    if (-not $resolved.StartsWith($allowedPrefix, [StringComparison]::OrdinalIgnoreCase)) { throw 'Refusing to move a path outside this build cache.' }
     if (Test-Path -LiteralPath $Path) {
         $saved = $Path + '.invalid.' + [Guid]::NewGuid().ToString('N')
         if ($Path.StartsWith(([IO.Path]::GetFullPath($staging).TrimEnd('\') + '\'), [StringComparison]::OrdinalIgnoreCase)) {
@@ -131,7 +141,12 @@ try {
             if ($rawDllPath.Length -ge 260) { throw 'This checkout path is too long for the Unreal DLL loader. Move the whole CampusCenter checkout to a shorter folder (for example C:\GitHub\CampusCenter), then rerun this launcher. No Windows security or long-path settings need to change.' }
         }
     }
-    if (-not (Runtime-Matches $expanded $manifest)) {
+    $baseMatches = Runtime-Matches $expanded $manifest
+    if ($Build -eq 'Vive') {
+        $baseMatches = (Test-GripRuntime $expanded $manifest 'original' -AllowPayload) -or (Test-GripRuntime $expanded $manifest 'patched' -AllowPayload)
+        if ((Test-Path -LiteralPath $expanded) -and -not $baseMatches) { throw 'Existing Vive base contains unknown modifications. It was preserved; no patch will be combined or files replaced.' }
+    }
+    if (-not $baseMatches) {
         if ($VerifyOnly) { throw 'The extracted runtime is missing or invalid. Run normally to repair it.' }
         $parts = @($spec.parts | ForEach-Object { Get-Pinned $_ })
         $archive = Join-Path $cacheRoot $spec.archive.name
@@ -174,13 +189,19 @@ try {
         Preserve-Invalid $expanded
         Move-Item -LiteralPath $staging -Destination $expanded
     }
+    if ($Build -eq 'Vive') { $expanded = Get-ManagedGripRuntime $expanded $manifest }
     $executable = Join-Path $expanded $spec.executable
     if (-not (Test-Path -LiteralPath $executable -PathType Leaf)) { throw "Verified executable missing: $executable" }
     Write-Host "Verified $Build R29 runtime: $executable"
-    if ($PrepareOnly -or $VerifyOnly) { Write-Host 'Preparation/verification complete; game not launched.'; exit 0 }
+    if ($PrepareOnly -or $VerifyOnly -or $RollbackGripPatch) { Write-Host 'Preparation/verification complete; game not launched.'; exit 0 }
     if ($Build -eq 'Vive') { Write-Host 'Use SteamVR as your active OpenXR runtime and connect the headset/controllers. This script does not change runtime or security settings.' }
     $start = @{ FilePath = $executable; WorkingDirectory = (Join-Path $expanded 'Windows') }
     if ($spec.arguments.Count -gt 0) { $start.ArgumentList = @($spec.arguments) }
+    if ($Build -eq 'Vive' -and $Profile -eq 'RTX3050') {
+        $start.FilePath = Join-Path $expanded 'Windows/CampusCenter/Binaries/Win64/CampusCenter.exe'
+        $start.ArgumentList = $gripPins.compatibility_arguments
+        Write-Host 'Explicit optional RTX3050 process-only profile selected; hardware performance is unverified.'
+    }
     $launched = Start-Process @start -PassThru
     if ($launched.WaitForExit(3000) -and $launched.ExitCode -ne 0) { throw "CampusCenter exited during startup (code $($launched.ExitCode)). Check the game window or its Saved/Logs folder; no runtime/security settings were changed." }
     Write-Host 'CampusCenter started.'

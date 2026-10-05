@@ -1,3 +1,7 @@
+## Current main supports the integrated patch
+
+The latest normal root launcher applies and retains this patch using a separate verified managed cache. See [consolidated instructions](../../README_CONSOLIDATED_VIVE.md). The manual steps below and warning describe the original R29 downloader; older main commits still restore unpatched caches.
+
 # Optional Vive GripTurn R01 / PublicGuard R02 patch for exact public R28/R29 builds
 
 Left side grip snaps left 30 degrees; right side grip snaps right 30 degrees, once per distinct press. Release before pressing again. Both held together suppress turning. Focus/tracking loss requires neutral release; collision-aware rotation retains the head pivot. Index-trigger forward and keyboard behavior are retained.

@@ -1,0 +1,220 @@
+{
+  "patch": {
+    "name": "CampusCenter_Vive_R28_R29_GripTurnR01_PublicGuardR02_SmallPatch.zip",
+    "bytes": 19996177,
+    "sha256": "810da4ceee7000292ef86d7f1035e7884505bad0c3b936797245ae196f64e463",
+    "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-vive-grip-turn-r01-publicguard-r02-20261004/CampusCenter_Vive_R28_R29_GripTurnR01_PublicGuardR02_SmallPatch.zip"
+  },
+  "entries": [
+    {
+      "path": "grip-patch-manifest.json",
+      "bytes": 24486,
+      "sha256": "2d37998d68937f435698c1e0c0194701a92b497413c359f44c381ac2262d3847"
+    },
+    {
+      "path": "Install_GripTurn_Patch.cmd",
+      "bytes": 176,
+      "sha256": "6895b9be82a257161ec9998b68467997ce54c4efdc5baad948b00921e5c153a1"
+    },
+    {
+      "path": "InstallGripTurnPatch.exe",
+      "bytes": 14848,
+      "sha256": "95695992d77545b292bb9d2595b111072bac9b5922cd8f86b8f9e8727b7bc2da"
+    },
+    {
+      "path": "NativeChunks/chunk-00.msdelta",
+      "bytes": 212123,
+      "sha256": "ace7fdfefdbca588d490906b71ff7a926f5d4aeda99785691c3f32bd7e3e8d19"
+    },
+    {
+      "path": "NativeChunks/chunk-01.msdelta",
+      "bytes": 987841,
+      "sha256": "4c5210d12748ec81530b117adb76b7b4b090b24fb4963642f56a783f1f37495e"
+    },
+    {
+      "path": "NativeChunks/chunk-02.msdelta",
+      "bytes": 524982,
+      "sha256": "588560c9fdec56714ba5d832e30d59a104dffa9468a31757f5e874dcd6ab179d"
+    },
+    {
+      "path": "NativeChunks/chunk-03.msdelta",
+      "bytes": 566026,
+      "sha256": "f6c9ecbab179e4b4c6e8f2866a40ef56af87ffc75f80fc8d3aa844e485768d14"
+    },
+    {
+      "path": "NativeChunks/chunk-04.msdelta",
+      "bytes": 536408,
+      "sha256": "8a5fc41f978e865eed343ad00b7efe5fed801405f2ca44e8ec0616af1c7d43a0"
+    },
+    {
+      "path": "NativeChunks/chunk-05.msdelta",
+      "bytes": 631326,
+      "sha256": "0520166f2237eb487fc3fcb83c38bdfb041a9943fd0b4cde5dc03d8f34efd20f"
+    },
+    {
+      "path": "NativeChunks/chunk-06.msdelta",
+      "bytes": 753712,
+      "sha256": "38fb89573a28e49e77393895a8bc9742a47cdc76e98ad3e62f845c131fc37e1d"
+    },
+    {
+      "path": "NativeChunks/chunk-07.msdelta",
+      "bytes": 793947,
+      "sha256": "53ff39c16aa7d8f9bfdc965c0933245991f503d079954b5f11044c8731e1ae42"
+    },
+    {
+      "path": "NativeChunks/chunk-08.msdelta",
+      "bytes": 609747,
+      "sha256": "1e7e686169c2019246941a1d7313d363503b3e5a39cd570c0903f5bba262a05e"
+    },
+    {
+      "path": "NativeChunks/chunk-09.msdelta",
+      "bytes": 505360,
+      "sha256": "387d078544165a15df5215d4943fcf1e7df403240dfa6ffb4381577eae0ba895"
+    },
+    {
+      "path": "NativeChunks/chunk-10.msdelta",
+      "bytes": 758842,
+      "sha256": "fce379f02d914557109474c44f057dc3ba15c321b158a4633ec4eb6b184313ad"
+    },
+    {
+      "path": "NativeChunks/chunk-11.msdelta",
+      "bytes": 1294839,
+      "sha256": "aa65f7f38737c5496db2491de1c28223770409b363907470709a35b355a71d7b"
+    },
+    {
+      "path": "NativeChunks/chunk-12.msdelta",
+      "bytes": 1434292,
+      "sha256": "4161d9d68aa4f177085fd7ca3585c8e09160282f9858afe0d22a9241556248a0"
+    },
+    {
+      "path": "NativeChunks/chunk-13.msdelta",
+      "bytes": 1482311,
+      "sha256": "896b64d9c984b1adde70de864f2882f06daf8ed1173d2c599cf17613ca6de9dc"
+    },
+    {
+      "path": "NativeChunks/chunk-14.msdelta",
+      "bytes": 1181297,
+      "sha256": "c006a2a48e7374706f1b956e3db316e040f3f33777435f395c97f438397fe2d5"
+    },
+    {
+      "path": "NativeChunks/chunk-15.msdelta",
+      "bytes": 851175,
+      "sha256": "a81a60de1006dcfd911ce5bb479e08caafdd9395ef2c0e26985f1693d236e91d"
+    },
+    {
+      "path": "NativeChunks/chunk-16.msdelta",
+      "bytes": 266825,
+      "sha256": "72256c23418ed6b48a98c5b0f5fda7d40a055547621f9a25d6532b07221691e6"
+    },
+    {
+      "path": "NativeChunks/chunk-17.msdelta",
+      "bytes": 638635,
+      "sha256": "36f8d50487cab85179ef12e2739de09bcc29595555d4dc916cbb90e6ae796798"
+    },
+    {
+      "path": "NativeChunks/chunk-18.msdelta",
+      "bytes": 907124,
+      "sha256": "0fc4aba8d8016092a51b4a2526dd4de4e935045349ff700b454c8658cdec64f8"
+    },
+    {
+      "path": "NativeChunks/chunk-19.msdelta",
+      "bytes": 1619183,
+      "sha256": "2fd655f372ad35fd30df1a1dd7a132750fa5d5a0712df8b3d0a5cfc20d869ed5"
+    },
+    {
+      "path": "NativeChunks/chunk-20.msdelta",
+      "bytes": 3702566,
+      "sha256": "80ab20d4b3fcbb64bad37af184e72d82eba90a0b2e23d09989db65907356b312"
+    },
+    {
+      "path": "NativeChunks/chunk-21.msdelta",
+      "bytes": 34731,
+      "sha256": "e41100574d99690990309e75cab2e117efeaf8eb9e822e732b89b24b8ebad51f"
+    },
+    {
+      "path": "Overlay/CampusCenter-GripTurnR01_1_P.pak",
+      "bytes": 673,
+      "sha256": "d492fa8174bdb72d23024a8f8056890910393be31c7d959adb9f54a4966e2263"
+    },
+    {
+      "path": "Overlay/CampusCenter-GripTurnR01_1_P.ucas",
+      "bytes": 1216,
+      "sha256": "bcc261c63a216e4db646a58238eec1a6cc1e2dffb300ede81d43fd89c1730da7"
+    },
+    {
+      "path": "Overlay/CampusCenter-GripTurnR01_1_P.utoc",
+      "bytes": 693,
+      "sha256": "2569e2ce410b478979631b9ee163a22f51d2dff6dde138deafbfe7b29e95025d"
+    },
+    {
+      "path": "patch-manifest-sha256.txt",
+      "bytes": 92,
+      "sha256": "87c1ba7784955dda607f57eb7042d5cc3a62e95409e922f6ce1debae1708f668"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3908,
+      "sha256": "476f8c23ab6dfcadd9318a9582c2bde2ea1c3b5b86510532e4fedf5be5843578"
+    },
+    {
+      "path": "Rollback_GripTurn_Patch.cmd",
+      "bytes": 177,
+      "sha256": "1af4f2a64f4ab756059924bb3ba4f156750bcdb8341e28d612f4ca6dd63f6f78"
+    },
+    {
+      "path": "Start_Patched_CampusCenter_Vive.cmd",
+      "bytes": 196,
+      "sha256": "7a027d49119ea33c809a759bc01a73955b894b72284108454a1356db4f9db38f"
+    }
+  ],
+  "native_original": {
+    "path": "Windows/CampusCenter/Binaries/Win64/CampusCenter.exe",
+    "bytes": 352812032,
+    "sha256": "1b503e2e77c5c6063c89d571b8347cdaf7e5ece66545cd83116a3a83145a9624"
+  },
+  "native_patched": {
+    "path": "Windows/CampusCenter/Binaries/Win64/CampusCenter.exe",
+    "bytes": 352820736,
+    "sha256": "20adab2cd975e19d325adbe607b907cfffa2bd3e775b01c51a68f695bfdf915a"
+  },
+  "overlays": [
+    {
+      "path": "Windows/CampusCenter/Content/Paks/CampusCenter-GripTurnR01_1_P.pak",
+      "bytes": 673,
+      "sha256": "d492fa8174bdb72d23024a8f8056890910393be31c7d959adb9f54a4966e2263"
+    },
+    {
+      "path": "Windows/CampusCenter/Content/Paks/CampusCenter-GripTurnR01_1_P.ucas",
+      "bytes": 1216,
+      "sha256": "bcc261c63a216e4db646a58238eec1a6cc1e2dffb300ede81d43fd89c1730da7"
+    },
+    {
+      "path": "Windows/CampusCenter/Content/Paks/CampusCenter-GripTurnR01_1_P.utoc",
+      "bytes": 693,
+      "sha256": "2569e2ce410b478979631b9ee163a22f51d2dff6dde138deafbfe7b29e95025d"
+    }
+  ],
+  "optional_files": [
+    {
+      "name": "Start_CampusCenter_Vive_R28_3050_Compatibility.cmd",
+      "bytes": 1164,
+      "sha256": "28b0f0d3e95f4daf40cf808a50ede23ca559331ee964c97975c0072f32f6458b"
+    },
+    {
+      "name": "Start_CampusCenter_Vive_R29_3050_Compatibility.cmd",
+      "bytes": 1176,
+      "sha256": "7adbfd246698167d3644e59fdc35b1157263dc506be4668601b44b2bfb97c200"
+    },
+    {
+      "name": "Start_CampusCenter_Vive_R28_3050_Compatibility.cmd",
+      "bytes": 1155,
+      "sha256": "74224b9af4bdb7ff56cfbf206c838aeb98625007b1dc01e4c3d7723955ce20de"
+    },
+    {
+      "name": "Start_CampusCenter_Vive_R29_3050_Compatibility.cmd",
+      "bytes": 1167,
+      "sha256": "a1df58955065012dcfae4c2434aa4df756505644f0c16bae7b363102fc75809c"
+    }
+  ],
+  "compatibility_arguments": "/Game/Campus/Maps/CampusCenter_Vive_R29_TrophyTrainerGymCorrections_r02 -DisablePlugins=MetaHumanCrowdContent -game -vr -fullscreen -ResX=1920 -ResY=1080 -nosplash \"-ini:Engine:[SystemSettings]:r.Streaming.PoolSize=2000,[SystemSettings]:r.Streaming.LimitPoolSizeToVRAM=1,[SystemSettings]:r.RayTracing=0,[SystemSettings]:r.Lumen.HardwareRayTracing=0,[SystemSettings]:r.Shadow.Virtual.MaxPhysicalPages=4096,[SystemSettings]:r.Shadow.Virtual.SMRT.RayCountLocal=2,[SystemSettings]:r.Shadow.Virtual.SMRT.SamplesPerRayLocal=4,[SystemSettings]:r.Shadow.Virtual.SMRT.RayCountDirectional=2,[SystemSettings]:r.Shadow.Virtual.SMRT.SamplesPerRayDirectional=4,[SystemSettings]:r.Lumen.ScreenProbeGather.DownsampleFactor=32,[SystemSettings]:r.Lumen.Reflections.DownsampleFactor=2,[SystemSettings]:vr.PixelDensity=0.65,[SystemSettings]:t.MaxFPS=0\" -ExecCmds=\"r.ScreenPercentage 50,stat fps\" -LogCmds=\"LogHMD Verbose\""
+}

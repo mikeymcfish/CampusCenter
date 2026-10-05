@@ -1,0 +1,32 @@
+[
+  {
+    "path": "patch-settings.json",
+    "bytes": 1075,
+    "sha256": "4646b5595807b7706204695cf391f996a39a61f9f46cfb67dc34b678becc53ec"
+  },
+  {
+    "path": "README.md",
+    "bytes": 2327,
+    "sha256": "260f44165075cf220c10ee6394cf963fc3a121a1a672045ed36462886588d9c5"
+  },
+  {
+    "path": "Start_CampusCenter_Vive_R28_3050_Compatibility.cmd",
+    "bytes": 1164,
+    "sha256": "28b0f0d3e95f4daf40cf808a50ede23ca559331ee964c97975c0072f32f6458b"
+  },
+  {
+    "path": "Start_CampusCenter_Vive_R29_3050_Compatibility.cmd",
+    "bytes": 1176,
+    "sha256": "7adbfd246698167d3644e59fdc35b1157263dc506be4668601b44b2bfb97c200"
+  },
+  {
+    "path": "tested-R28/validation.json",
+    "bytes": 1281,
+    "sha256": "e271e8fdc617213e335a5f663220aaf6d9ebb147fb57f082c2cf2898880da442"
+  },
+  {
+    "path": "tested-R29/validation.json",
+    "bytes": 1281,
+    "sha256": "4cbed4894d95c682f93d615335879075092d7eeb910084d0c993017b97b5f894"
+  }
+]
