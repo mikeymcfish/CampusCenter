@@ -1,0 +1,18 @@
+{
+  "native_sha256": "20adab2cd975e19d325adbe607b907cfffa2bd3e775b01c51a68f695bfdf915a",
+  "tests": [
+    "PrepareOnly",
+    "VerifyOnly",
+    "unknown-container-refused-and-preserved",
+    "normal-root-launch-VisualBaseline-exit0",
+    "normal-root-launch-RTX2080-exit0",
+    "rollback-disabled-reenable-preserved-pass"
+  ],
+  "map": "CampusCenter_Vive_R29_TrophyTrainerGymCorrections_r02",
+  "hardware_tested": false,
+  "fresh_separate_prerequisite_and_overlay_install_passed": true,
+  "base_file_count_matched_public_R29_and_grip": 45,
+  "physical_hardware_acceptance": false,
+  "no_native_rebuild": true,
+  "existing_Vive_download_cache_reused_read_only": true
+}

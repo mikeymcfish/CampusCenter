@@ -1,0 +1,12 @@
+{
+  "original_package_sha256": "127ef95d985a8819e26528c66f69b846189047cddbb61f790c3f587ca900ccdd",
+  "public_package_sha256": "0328d97c1c321a9aa055568b97b10d97e36a2f834667a3df31320c83246b6b12",
+  "public_bytes": 15041064,
+  "excluded_local_reports": [
+    "Ground_R29_P02_Assembly_1_100_geometry_QA.json",
+    "Ground_R29_P02_Sample_1_250_geometry_QA.json"
+  ],
+  "all_remaining_file_bytes_unchanged": true,
+  "blend_images": 0,
+  "linked_dependencies": 0
+}

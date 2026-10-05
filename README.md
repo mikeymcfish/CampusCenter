@@ -1,3 +1,7 @@
+# Current deliverables
+
+[Canonical versions, downloads, opening instructions and pending inputs](PROJECT_DELIVERABLES.md). **Quest PC-VR R01 and ground-floor Print P02** join the preserved R29 desktop/Vive releases. Final admissions image and MadMapper packages are still pending as detailed in the index.
+
 ## Current R29 Vive with integrated grip patch
 
 Fetch and pull main, then run **Start_CampusCenter_Vive.cmd**. The normal launcher now applies and retains the verified grip-turn update in a separate managed cache, with recoverable rollback. Desktop and default rendering settings remain unchanged. [Opening, optional 3050 profile, verification and rollback instructions](README_CONSOLIDATED_VIVE.md). Hardware/performance/initial-facing issues remain unverified.

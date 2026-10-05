@@ -1,0 +1,1 @@
+P02 is current; P01 is superseded and preserved historically. See ../../PROJECT_DELIVERABLES.md for complete download, dimensions, material assignment, provenance, checksums and untested physical acceptance. All geometry bytes are unchanged. Two private-path review reports are omitted from the public ZIP.

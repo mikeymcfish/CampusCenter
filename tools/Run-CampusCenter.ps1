@@ -5,7 +5,8 @@ param(
     [switch]$VerifyOnly,
     [switch]$RollbackGripPatch,
     [switch]$EnableGripPatch,
-    [ValidateSet('Default', 'RTX3050')][string]$Profile = 'Default'
+    [ValidateSet('Default', 'RTX3050')][string]$Profile = 'Default',
+    [ValidateSet('Vive', 'QuestBase')][string]$RuntimeTarget = 'Vive'
 )
 $ErrorActionPreference = 'Stop'
 Set-StrictMode -Version Latest
@@ -15,7 +16,7 @@ Add-Type -AssemblyName System.IO.Compression.FileSystem
 $repoRoot = [IO.Path]::GetFullPath((Join-Path $PSScriptRoot '..'))
 $pins = Get-Content -LiteralPath (Join-Path $PSScriptRoot 'CampusCenter-R29-downloads.json') -Raw | ConvertFrom-Json
 $spec = $pins.builds.$Build
-$buildCode = if ($Build -eq 'Vive') { 'v' } else { 'd' }
+$buildCode = if ($Build -eq 'Vive') { if ($RuntimeTarget -eq 'QuestBase') { 'qb' } else { 'v' } } else { 'd' }
 # Unreal's DLL loader still uses relative paths subject to Windows MAX_PATH.
 $buildRoot = Join-Path $repoRoot ('.cc\r29\' + $buildCode)
 $cacheRoot = Join-Path $buildRoot 'dl'
@@ -23,6 +24,8 @@ $expanded = Join-Path $buildRoot 'w'
 $staging = Join-Path $buildRoot 'w.partial'
 $legacyRoot = Join-Path $repoRoot ('.campuscenter-runtime\' + $pins.tag + '\' + $Build)
 $lock = $null
+$sharedDownloads = Join-Path $repoRoot '.cc/r29/v/dl'
+if ($RuntimeTarget -eq 'QuestBase' -and $Build -ne 'Vive') { throw 'QuestBase is a distinct Vive-derived prerequisite target.' }
 if ($RollbackGripPatch -and $EnableGripPatch) { throw 'Choose rollback or enable, not both.' }
 if ($VerifyOnly -and ($RollbackGripPatch -or $EnableGripPatch)) { throw 'VerifyOnly never changes grip mode.' }
 if ($Build -eq 'Desktop' -and ($RollbackGripPatch -or $EnableGripPatch -or $Profile -ne 'Default')) { throw 'Grip controls and RTX3050 profile apply only to Vive.' }
@@ -56,6 +59,18 @@ function Preserve-Invalid([string]$Path) {
 function Get-Pinned($Pin) {
     $destination = Join-Path $cacheRoot $Pin.name
     if (Matches-Pin $destination $Pin) { Write-Host "Verified cached $($Pin.name)"; return $destination }
+    if ($RuntimeTarget -eq 'QuestBase') {
+        $shared = Join-Path $sharedDownloads $Pin.name
+        if (Matches-Pin $shared $Pin) {
+            if ($VerifyOnly) { throw "Quest prerequisite download not locally prepared: $($Pin.name)." }
+            Preserve-Invalid $destination
+            try { New-Item -ItemType HardLink -Path $destination -Target $shared -ErrorAction Stop | Out-Null }
+            catch { Copy-Item -LiteralPath $shared -Destination $destination }
+            if (-not (Matches-Pin $destination $Pin)) { throw 'Shared immutable download hash changed; no runtime will install.' }
+            Write-Host "Reused verified immutable download for Quest: $($Pin.name)"
+            return $destination
+        }
+    }
     if ($VerifyOnly) { throw "Missing or invalid download: $($Pin.name). Run normally to repair the local runtime." }
     Preserve-Invalid $destination
     $partial = $destination + '.partial'

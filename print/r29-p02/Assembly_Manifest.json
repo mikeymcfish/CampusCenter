@@ -1,0 +1,1904 @@
+{
+  "version": "R29 ground print P02 2026-10-05",
+  "materials": {
+    "Opaque": "Matte white PLA",
+    "Glazing": "Transparent/translucent PLA",
+    "HangingLoops": "Same transparent/translucent PLA; extruder2"
+  },
+  "nozzle_diameter_mm": [
+    0.4,
+    0.4
+  ],
+  "axes": "right-handed XYZ, Z up; units millimetres",
+  "actual_slice_verified": false,
+  "physical_print_verified": false,
+  "files": [
+    {
+      "file": "Ground_R29_P02_Sample_1_250_Opaque.stl",
+      "triangles": 66412,
+      "watertight": true,
+      "sha256": "c26478a98b586ad720449fe306ff127d391ef2b82761c4806c0ed279862ccb7c"
+    },
+    {
+      "file": "Ground_R29_P02_Sample_1_250_Glazing.stl",
+      "triangles": 708,
+      "watertight": true,
+      "sha256": "7c373f0b539d6f691ae5fea7acff13da36d8380547c63e1601bf8f6981f2c861"
+    },
+    {
+      "file": "Ground_R29_P02_Sample_1_250_Combined_REFERENCE.stl",
+      "triangles": 66712,
+      "watertight": true,
+      "sha256": "dca6e6dcc615515ff860a12089c87b015f043671b718bb7f8ffd08aad48d3b8b"
+    },
+    {
+      "file": "Ground_R29_P02_Sample_1_250.3mf",
+      "parts": [
+        {
+          "label": "Opaque",
+          "watertight": true,
+          "winding_consistent": true,
+          "nonmanifold_edges": 0,
+          "components": 33,
+          "vertices": 33260,
+          "triangles": 66412,
+          "bounds_mm": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              263.36,
+              196.8,
+              19.0688
+            ]
+          ],
+          "dimensions_mm": [
+            263.36,
+            196.8,
+            19.0688
+          ],
+          "volume_mm3": 139820.72443559617
+        },
+        {
+          "label": "Glazing",
+          "watertight": true,
+          "winding_consistent": true,
+          "nonmanifold_edges": 0,
+          "components": 47,
+          "vertices": 448,
+          "triangles": 708,
+          "bounds_mm": [
+            [
+              3.938,
+              5.0289,
+              2.0
+            ],
+            [
+              262.7906,
+              168.1105,
+              19.0688
+            ]
+          ],
+          "dimensions_mm": [
+            258.8526,
+            163.0816,
+            17.0688
+          ],
+          "volume_mm3": 7354.026251683997
+        }
+      ],
+      "units": "millimeter",
+      "material_names": [
+        "Opaque",
+        "Glazing"
+      ],
+      "part_extruder_indices": [
+        1,
+        2
+      ],
+      "assembled_one_object": true,
+      "slicer_open_verified": false
+    },
+    {
+      "file": "Ground_R29_P02_Assembly_1_100_Opaque.stl",
+      "triangles": 74138,
+      "watertight": true,
+      "sha256": "ceb4608ba73942fd73a387c0d1b7f16af6c8e5009906f98a05f20906f03e47dc"
+    },
+    {
+      "file": "Ground_R29_P02_Assembly_1_100_Glazing.stl",
+      "triangles": 708,
+      "watertight": true,
+      "sha256": "7a418ffe7c1f8d705d385691033f36594410eb0969180d5f05c13f02a22570c3"
+    },
+    {
+      "file": "Ground_R29_P02_Assembly_1_100_HangingLoops.stl",
+      "triangles": 1128,
+      "watertight": true,
+      "sha256": "654d3e82ff0e3bfed507771336a8c50768b138ce6bacbdeedc93ea0d3b52e7a5"
+    },
+    {
+      "file": "Ground_R29_P02_Assembly_1_100_Combined_REFERENCE.stl",
+      "triangles": 75100,
+      "watertight": true,
+      "sha256": "1f48f8cd9039c7d289037e74e809f615caf8a93229fe8e6f59de1d6d3396433d"
+    },
+    {
+      "file": "Ground_R29_P02_Tile_A1_1_100_Opaque.stl",
+      "triangles": 9562,
+      "watertight": true,
+      "sha256": "843a44bb835d362c295dfcde2307cdd9c6c8ce4f628bfec39bd82e33653ad545"
+    },
+    {
+      "file": "Ground_R29_P02_Tile_A1_1_100_Glazing.stl",
+      "triangles": 108,
+      "watertight": true,
+      "sha256": "9c9db0660f026106189d41bf192c847efff739138a81851dbb94af6cd930a7db"
+    },
+    {
+      "file": "Ground_R29_P02_Tile_A1_1_100.3mf",
+      "parts": [
+        {
+          "label": "Opaque",
+          "watertight": true,
+          "winding_consistent": true,
+          "nonmanifold_edges": 0,
+          "components": 2,
+          "vertices": 4785,
+          "triangles": 9562,
+          "bounds_mm": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              172.475,
+              216.8833,
+              46.872
+            ]
+          ],
+          "dimensions_mm": [
+            172.475,
+            216.8833,
+            46.872
+          ],
+          "volume_mm3": 392237.33749690047
+        },
+        {
+          "label": "Glazing",
+          "watertight": true,
+          "winding_consistent": true,
+          "nonmanifold_edges": 0,
+          "components": 9,
+          "vertices": 72,
+          "triangles": 108,
+          "bounds_mm": [
+            [
+              86.4881,
+              126.3393,
+              4.2
+            ],
+            [
+              168.7703,
+              216.8833,
+              44.372
+            ]
+          ],
+          "dimensions_mm": [
+            82.28219999999999,
+            90.544,
+            40.172
+          ],
+          "volume_mm3": 2452.1279420520054
+        }
+      ],
+      "units": "millimeter",
+      "material_names": [
+        "Opaque",
+        "Glazing"
+      ],
+      "part_extruder_indices": [
+        1,
+        2
+      ],
+      "assembled_one_object": true,
+      "slicer_open_verified": false
+    },
+    {
+      "file": "Ground_R29_P02_Tile_A2_1_100_Opaque.stl",
+      "triangles": 17372,
+      "watertight": true,
+      "sha256": "db2b23823c5102266964f1392b79f13e44653dfd0a557eb4db88910c8f34afb8"
+    },
+    {
+      "file": "Ground_R29_P02_Tile_A2_1_100_Glazing.stl",
+      "triangles": 156,
+      "watertight": true,
+      "sha256": "d2501699f15a0bbad6e56bc514f86a953a09e197ec078a02006e647f73c98903"
+    },
+    {
+      "file": "Ground_R29_P02_Tile_A2_1_100.3mf",
+      "parts": [
+        {
+          "label": "Opaque",
+          "watertight": true,
+          "winding_consistent": true,
+          "nonmanifold_edges": 0,
+          "components": 10,
+          "vertices": 8706,
+          "triangles": 17372,
+          "bounds_mm": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              236.475,
+              216.7083,
+              46.872
+            ]
+          ],
+          "dimensions_mm": [
+            236.475,
+            216.7083,
+            46.872
+          ],
+          "volume_mm3": 353810.1346472996
+        },
+        {
+          "label": "Glazing",
+          "watertight": true,
+          "winding_consistent": true,
+          "nonmanifold_edges": 0,
+          "components": 13,
+          "vertices": 104,
+          "triangles": 156,
+          "bounds_mm": [
+            [
+              58.4035,
+              0.0,
+              4.2
+            ],
+            [
+              232.6027,
+              216.7083,
+              44.372
+            ]
+          ],
+          "dimensions_mm": [
+            174.1992,
+            216.7083,
+            40.172
+          ],
+          "volume_mm3": 6576.922161007322
+        }
+      ],
+      "units": "millimeter",
+      "material_names": [
+        "Opaque",
+        "Glazing"
+      ],
+      "part_extruder_indices": [
+        1,
+        2
+      ],
+      "assembled_one_object": true,
+      "slicer_open_verified": false
+    },
+    {
+      "file": "Ground_R29_P02_Tile_A3_1_100_Opaque.stl",
+      "triangles": 25216,
+      "watertight": true,
+      "sha256": "c0dc5f15691558cda813b0d6d1a23316e3fc5d1858eaae5c8c4bf2fe5266ba4c"
+    },
+    {
+      "file": "Ground_R29_P02_Tile_A3_1_100_Glazing.stl",
+      "triangles": 324,
+      "watertight": true,
+      "sha256": "a9e3a037fe43fd20f5246cf4032ac78d00526fa18634218647f3a44d4f843ed9"
+    },
+    {
+      "file": "Ground_R29_P02_Tile_A3_1_100.3mf",
+      "parts": [
+        {
+          "label": "Opaque",
+          "watertight": true,
+          "winding_consistent": true,
+          "nonmanifold_edges": 0,
+          "components": 19,
+          "vertices": 12638,
+          "triangles": 25216,
+          "bounds_mm": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              246.075,
+              224.0083,
+              46.872
+            ]
+          ],
+          "dimensions_mm": [
+            246.075,
+            224.0083,
+            46.872
+          ],
+          "volume_mm3": 339821.4725286881
+        },
+        {
+          "label": "Glazing",
+          "watertight": true,
+          "winding_consistent": true,
+          "nonmanifold_edges": 0,
+          "components": 15,
+          "vertices": 192,
+          "triangles": 324,
+          "bounds_mm": [
+            [
+              0.0,
+              0.0,
+              4.2
+            ],
+            [
+              232.6027,
+              223.3847,
+              46.872
+            ]
+          ],
+          "dimensions_mm": [
+            232.6027,
+            223.3847,
+            42.672
+          ],
+          "volume_mm3": 25951.334137754126
+        }
+      ],
+      "units": "millimeter",
+      "material_names": [
+        "Opaque",
+        "Glazing"
+      ],
+      "part_extruder_indices": [
+        1,
+        2
+      ],
+      "assembled_one_object": true,
+      "slicer_open_verified": false
+    },
+    {
+      "file": "Ground_R29_P02_Tile_B1_1_100_Opaque.stl",
+      "triangles": 9410,
+      "watertight": true,
+      "sha256": "cf269bb17567b8a8f9aa65ffd1dbd1477ad227b5993eb9924a2fb885a38d631c"
+    },
+    {
+      "file": "Ground_R29_P02_Tile_B1_1_100_Glazing.stl",
+      "triangles": 132,
+      "watertight": true,
+      "sha256": "9afdafc52fecfa248a0232665815263968c6a74c462c81354bf306e7dc72d34c"
+    },
+    {
+      "file": "Ground_R29_P02_Tile_B1_1_100.3mf",
+      "parts": [
+        {
+          "label": "Opaque",
+          "watertight": true,
+          "winding_consistent": true,
+          "nonmanifold_edges": 0,
+          "components": 6,
+          "vertices": 4713,
+          "triangles": 9410,
+          "bounds_mm": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              245.925,
+              216.8833,
+              46.872
+            ]
+          ],
+          "dimensions_mm": [
+            245.925,
+            216.8833,
+            46.872
+          ],
+          "volume_mm3": 370977.8055155221
+        },
+        {
+          "label": "Glazing",
+          "watertight": true,
+          "winding_consistent": true,
+          "nonmanifold_edges": 0,
+          "components": 11,
+          "vertices": 88,
+          "triangles": 132,
+          "bounds_mm": [
+            [
+              71.88,
+              9.845,
+              5.9
+            ],
+            [
+              177.5139,
+              210.0331,
+              34.2
+            ]
+          ],
+          "dimensions_mm": [
+            105.63390000000001,
+            200.1881,
+            28.300000000000004
+          ],
+          "volume_mm3": 2928.751651907236
+        }
+      ],
+      "units": "millimeter",
+      "material_names": [
+        "Opaque",
+        "Glazing"
+      ],
+      "part_extruder_indices": [
+        1,
+        2
+      ],
+      "assembled_one_object": true,
+      "slicer_open_verified": false
+    },
+    {
+      "file": "Ground_R29_P02_Tile_B2_1_100_Opaque.stl",
+      "triangles": 104,
+      "watertight": true,
+      "sha256": "7c29197e3b674e6423df7b8463c1b3b7c2599d8e74c627907bfe449a2e544574"
+    },
+    {
+      "file": "Ground_R29_P02_Tile_B2_1_100_HangingLoops.stl",
+      "triangles": 1128,
+      "watertight": true,
+      "sha256": "23e140e0ca4a2a144f0baeba8033364622c986dd85f52a4b4a31a1b0ddce6d42"
+    },
+    {
+      "file": "Ground_R29_P02_Tile_B2_1_100.3mf",
+      "parts": [
+        {
+          "label": "Opaque",
+          "watertight": true,
+          "winding_consistent": true,
+          "nonmanifold_edges": 0,
+          "components": 1,
+          "vertices": 54,
+          "triangles": 104,
+          "bounds_mm": [
+            [
+              20.0602,
+              0.0,
+              0.0
+            ],
+            [
+              265.9852,
+              216.7083,
+              46.872
+            ]
+          ],
+          "dimensions_mm": [
+            245.925,
+            216.7083,
+            46.872
+          ],
+          "volume_mm3": 259118.0381338081
+        },
+        {
+          "label": "HangingLoops",
+          "watertight": true,
+          "winding_consistent": true,
+          "nonmanifold_edges": 0,
+          "components": 2,
+          "vertices": 564,
+          "triangles": 1128,
+          "bounds_mm": [
+            [
+              0.0,
+              8.9167,
+              0.0
+            ],
+            [
+              46.0,
+              208.9167,
+              6.0
+            ]
+          ],
+          "dimensions_mm": [
+            46.0,
+            200.0,
+            6.0
+          ],
+          "volume_mm3": 8332.259103533013
+        }
+      ],
+      "units": "millimeter",
+      "material_names": [
+        "Opaque",
+        "HangingLoops"
+      ],
+      "part_extruder_indices": [
+        1,
+        2
+      ],
+      "assembled_one_object": true,
+      "slicer_open_verified": false
+    },
+    {
+      "file": "Ground_R29_P02_Tile_B3_1_100_Opaque.stl",
+      "triangles": 13670,
+      "watertight": true,
+      "sha256": "221f9578830a9cffe110661d08fd77c4de9964adc6b8eda6a01008dbcfcd48d8"
+    },
+    {
+      "file": "Ground_R29_P02_Tile_B3_1_100_Glazing.stl",
+      "triangles": 36,
+      "watertight": true,
+      "sha256": "941f34821e99649289f6d2f55ffeb6024ed0439a03524d1582f3bf48f0f6ab5e"
+    },
+    {
+      "file": "Ground_R29_P02_Tile_B3_1_100.3mf",
+      "parts": [
+        {
+          "label": "Opaque",
+          "watertight": true,
+          "winding_consistent": true,
+          "nonmanifold_edges": 0,
+          "components": 1,
+          "vertices": 6837,
+          "triangles": 13670,
+          "bounds_mm": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              245.925,
+              192.4083,
+              46.872
+            ]
+          ],
+          "dimensions_mm": [
+            245.925,
+            192.4083,
+            46.872
+          ],
+          "volume_mm3": 179374.737939595
+        },
+        {
+          "label": "Glazing",
+          "watertight": true,
+          "winding_consistent": true,
+          "nonmanifold_edges": 0,
+          "components": 3,
+          "vertices": 24,
+          "triangles": 36,
+          "bounds_mm": [
+            [
+              165.0806,
+              27.3361,
+              4.2
+            ],
+            [
+              245.925,
+              190.1769,
+              44.372
+            ]
+          ],
+          "dimensions_mm": [
+            80.84440000000001,
+            162.8408,
+            40.172
+          ],
+          "volume_mm3": 10144.053469439976
+        }
+      ],
+      "units": "millimeter",
+      "material_names": [
+        "Opaque",
+        "Glazing"
+      ],
+      "part_extruder_indices": [
+        1,
+        2
+      ],
+      "assembled_one_object": true,
+      "slicer_open_verified": false
+    },
+    {
+      "file": "Ground_R29_P02_Assembly_1_100_REFERENCE.3mf",
+      "parts": [
+        {
+          "label": "Opaque",
+          "watertight": true,
+          "winding_consistent": true,
+          "nonmanifold_edges": 0,
+          "components": 34,
+          "vertices": 37125,
+          "triangles": 74138,
+          "bounds_mm": [
+            [
+              11.2,
+              6.8,
+              0.0
+            ],
+            [
+              668.8,
+              498.8,
+              46.872
+            ]
+          ],
+          "dimensions_mm": [
+            657.5999999999999,
+            492.0,
+            46.872
+          ],
+          "volume_mm3": 1895339.812539176
+        },
+        {
+          "label": "Glazing",
+          "watertight": true,
+          "winding_consistent": true,
+          "nonmanifold_edges": 0,
+          "components": 47,
+          "vertices": 448,
+          "triangles": 708,
+          "bounds_mm": [
+            [
+              21.045,
+              20.2723,
+              4.2
+            ],
+            [
+              668.1764,
+              426.92,
+              46.872
+            ]
+          ],
+          "dimensions_mm": [
+            647.1314,
+            406.6477,
+            42.672
+          ],
+          "volume_mm3": 48053.19670280124
+        },
+        {
+          "label": "HangingLoops",
+          "watertight": true,
+          "winding_consistent": true,
+          "nonmanifold_edges": 0,
+          "components": 2,
+          "vertices": 564,
+          "triangles": 1128,
+          "bounds_mm": [
+            [
+              237.0,
+              472.8602,
+              0.0
+            ],
+            [
+              437.0,
+              518.8602,
+              6.0
+            ]
+          ],
+          "dimensions_mm": [
+            200.0,
+            45.99999999999994,
+            6.0
+          ],
+          "volume_mm3": 8332.26259019844
+        }
+      ],
+      "units": "millimeter",
+      "material_names": [
+        "Opaque",
+        "Glazing",
+        "HangingLoops"
+      ],
+      "part_extruder_indices": [
+        1,
+        2,
+        2
+      ],
+      "assembled_one_object": true,
+      "slicer_open_verified": false
+    }
+  ],
+  "plates": [
+    {
+      "name": "Sample",
+      "scale_denominator": 250,
+      "plate_mesh_to_assembly": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          4.48
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          2.72
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "bed_model_bounds_mm": [
+        [
+          43.32000000000002,
+          8.0,
+          0.0
+        ],
+        [
+          306.67999999999995,
+          204.8,
+          19.068800000000003
+        ]
+      ],
+      "model_plus_5mm_brim_bounds_xy_mm": [
+        [
+          38.32000000000002,
+          3.0
+        ],
+        [
+          311.67999999999995,
+          209.8
+        ]
+      ],
+      "tower_plus_provisional_brim_reservation_xy_mm": [
+        [
+          65,
+          242
+        ],
+        [
+          135,
+          312
+        ]
+      ],
+      "tower_body_mm": [
+        60,
+        60
+      ],
+      "tower_brim_provisional_mm": 5,
+      "rear_wrapping_exclusion_xy_mm": [
+        [
+          145,
+          310
+        ],
+        [
+          256,
+          320
+        ]
+      ],
+      "dual_shared_xy_mm": [
+        [
+          25,
+          0
+        ],
+        [
+          325,
+          320
+        ]
+      ],
+      "common_z_mm": 320,
+      "static_clearance_passed": true,
+      "actual_sliced_tower_size_verified": false,
+      "rotation_deg": 0,
+      "minimum_model_to_tower_rectangle_gap_mm": 32.19999999999999
+    },
+    {
+      "name": "A1",
+      "scale_denominator": 100,
+      "plate_mesh_to_assembly": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          11.2
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0,
+          252.875
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "assembly_crop_xy_mm": [
+        [
+          11.2,
+          6.8
+        ],
+        [
+          228.08333333333331,
+          252.875
+        ]
+      ],
+      "opaque_qa": {
+        "label": "A1 Opaque",
+        "watertight": true,
+        "winding_consistent": true,
+        "nonmanifold_edges": 0,
+        "components": 2,
+        "vertices": 4785,
+        "triangles": 9562,
+        "bounds_mm": [
+          [
+            11.2,
+            80.4,
+            0.0
+          ],
+          [
+            228.08333333333331,
+            252.875,
+            46.872
+          ]
+        ],
+        "dimensions_mm": [
+          216.88333333333333,
+          172.475,
+          46.872
+        ],
+        "volume_mm3": 392237.38389540307
+      },
+      "glazing_qa": {
+        "label": "A1 Glazing",
+        "watertight": true,
+        "winding_consistent": true,
+        "nonmanifold_edges": 0,
+        "components": 9,
+        "vertices": 72,
+        "triangles": 108,
+        "bounds_mm": [
+          [
+            137.5393,
+            84.1047,
+            4.2
+          ],
+          [
+            228.08333333333331,
+            166.3869,
+            44.372
+          ]
+        ],
+        "dimensions_mm": [
+          90.54403333333332,
+          82.2822,
+          40.172
+        ],
+        "volume_mm3": 2452.1287820520156
+      },
+      "hanging_loops_qa": {
+        "empty": true
+      },
+      "material_overlap_mm3": 6.893953723857704e-14,
+      "bed_model_bounds_mm": [
+        [
+          88.7625,
+          8.0,
+          0.0
+        ],
+        [
+          261.2375,
+          224.88333333333333,
+          46.872
+        ]
+      ],
+      "model_plus_5mm_brim_bounds_xy_mm": [
+        [
+          83.7625,
+          3.0
+        ],
+        [
+          266.2375,
+          229.88333333333333
+        ]
+      ],
+      "tower_plus_provisional_brim_reservation_xy_mm": [
+        [
+          65,
+          242
+        ],
+        [
+          135,
+          312
+        ]
+      ],
+      "tower_body_mm": [
+        60,
+        60
+      ],
+      "tower_brim_provisional_mm": 5,
+      "rear_wrapping_exclusion_xy_mm": [
+        [
+          145,
+          310
+        ],
+        [
+          256,
+          320
+        ]
+      ],
+      "dual_shared_xy_mm": [
+        [
+          25,
+          0
+        ],
+        [
+          325,
+          320
+        ]
+      ],
+      "common_z_mm": 320,
+      "static_clearance_passed": true,
+      "actual_sliced_tower_size_verified": false,
+      "rotation_deg": 90,
+      "minimum_model_to_tower_rectangle_gap_mm": 12.116666666666674
+    },
+    {
+      "name": "A2",
+      "scale_denominator": 100,
+      "plate_mesh_to_assembly": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          228.08333333333331
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0,
+          252.875
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "assembly_crop_xy_mm": [
+        [
+          228.08333333333331,
+          6.8
+        ],
+        [
+          444.79166666666663,
+          252.875
+        ]
+      ],
+      "opaque_qa": {
+        "label": "A2 Opaque",
+        "watertight": true,
+        "winding_consistent": true,
+        "nonmanifold_edges": 0,
+        "components": 10,
+        "vertices": 8706,
+        "triangles": 17372,
+        "bounds_mm": [
+          [
+            228.08333333333331,
+            16.4,
+            0.0
+          ],
+          [
+            444.79166666666663,
+            252.875,
+            46.872
+          ]
+        ],
+        "dimensions_mm": [
+          216.70833333333331,
+          236.475,
+          46.872
+        ],
+        "volume_mm3": 353810.16169279796
+      },
+      "glazing_qa": {
+        "label": "A2 Glazing",
+        "watertight": true,
+        "winding_consistent": true,
+        "nonmanifold_edges": 0,
+        "components": 13,
+        "vertices": 104,
+        "triangles": 156,
+        "bounds_mm": [
+          [
+            228.08333333333331,
+            20.2723,
+            4.2
+          ],
+          [
+            444.79166666666663,
+            194.4715,
+            44.372
+          ]
+        ],
+        "dimensions_mm": [
+          216.70833333333331,
+          174.1992,
+          40.172
+        ],
+        "volume_mm3": 6576.926214767507
+      },
+      "hanging_loops_qa": {
+        "empty": true
+      },
+      "material_overlap_mm3": 3.7422864286595914e-13,
+      "bed_model_bounds_mm": [
+        [
+          56.7625,
+          8.0,
+          0.0
+        ],
+        [
+          293.2375,
+          224.70833333333331,
+          46.872
+        ]
+      ],
+      "model_plus_5mm_brim_bounds_xy_mm": [
+        [
+          51.7625,
+          3.0
+        ],
+        [
+          298.2375,
+          229.70833333333331
+        ]
+      ],
+      "tower_plus_provisional_brim_reservation_xy_mm": [
+        [
+          65,
+          242
+        ],
+        [
+          135,
+          312
+        ]
+      ],
+      "tower_body_mm": [
+        60,
+        60
+      ],
+      "tower_brim_provisional_mm": 5,
+      "rear_wrapping_exclusion_xy_mm": [
+        [
+          145,
+          310
+        ],
+        [
+          256,
+          320
+        ]
+      ],
+      "dual_shared_xy_mm": [
+        [
+          25,
+          0
+        ],
+        [
+          325,
+          320
+        ]
+      ],
+      "common_z_mm": 320,
+      "static_clearance_passed": true,
+      "actual_sliced_tower_size_verified": false,
+      "rotation_deg": 90,
+      "minimum_model_to_tower_rectangle_gap_mm": 12.291666666666686
+    },
+    {
+      "name": "A3",
+      "scale_denominator": 100,
+      "plate_mesh_to_assembly": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          444.79166666666663
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0,
+          252.875
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "assembly_crop_xy_mm": [
+        [
+          444.79166666666663,
+          6.8
+        ],
+        [
+          668.8,
+          252.875
+        ]
+      ],
+      "opaque_qa": {
+        "label": "A3 Opaque",
+        "watertight": true,
+        "winding_consistent": true,
+        "nonmanifold_edges": 0,
+        "components": 19,
+        "vertices": 12638,
+        "triangles": 25216,
+        "bounds_mm": [
+          [
+            444.79166666666663,
+            6.8,
+            0.0
+          ],
+          [
+            668.8,
+            252.875,
+            46.872
+          ]
+        ],
+        "dimensions_mm": [
+          224.00833333333333,
+          246.075,
+          46.872
+        ],
+        "volume_mm3": 339821.49706710275
+      },
+      "glazing_qa": {
+        "label": "A3 Glazing",
+        "watertight": true,
+        "winding_consistent": true,
+        "nonmanifold_edges": 0,
+        "components": 15,
+        "vertices": 192,
+        "triangles": 324,
+        "bounds_mm": [
+          [
+            444.79166666666663,
+            20.2723,
+            4.2
+          ],
+          [
+            668.1764,
+            252.875,
+            46.87200000000001
+          ]
+        ],
+        "dimensions_mm": [
+          223.38473333333332,
+          232.6027,
+          42.672000000000004
+        ],
+        "volume_mm3": 25951.335745607463
+      },
+      "hanging_loops_qa": {
+        "empty": true
+      },
+      "material_overlap_mm3": 1.2121454082004183e-11,
+      "bed_model_bounds_mm": [
+        [
+          51.962500000000006,
+          8.0,
+          0.0
+        ],
+        [
+          298.0375,
+          232.00833333333333,
+          46.87200000000001
+        ]
+      ],
+      "model_plus_5mm_brim_bounds_xy_mm": [
+        [
+          46.962500000000006,
+          3.0
+        ],
+        [
+          303.0375,
+          237.00833333333333
+        ]
+      ],
+      "tower_plus_provisional_brim_reservation_xy_mm": [
+        [
+          65,
+          242
+        ],
+        [
+          135,
+          312
+        ]
+      ],
+      "tower_body_mm": [
+        60,
+        60
+      ],
+      "tower_brim_provisional_mm": 5,
+      "rear_wrapping_exclusion_xy_mm": [
+        [
+          145,
+          310
+        ],
+        [
+          256,
+          320
+        ]
+      ],
+      "dual_shared_xy_mm": [
+        [
+          25,
+          0
+        ],
+        [
+          325,
+          320
+        ]
+      ],
+      "common_z_mm": 320,
+      "static_clearance_passed": true,
+      "actual_sliced_tower_size_verified": false,
+      "rotation_deg": 90,
+      "minimum_model_to_tower_rectangle_gap_mm": 4.991666666666674
+    },
+    {
+      "name": "B1",
+      "scale_denominator": 100,
+      "plate_mesh_to_assembly": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          11.2
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0,
+          498.8
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "assembly_crop_xy_mm": [
+        [
+          11.2,
+          252.875
+        ],
+        [
+          228.08333333333331,
+          518.860209427774
+        ]
+      ],
+      "opaque_qa": {
+        "label": "B1 Opaque",
+        "watertight": true,
+        "winding_consistent": true,
+        "nonmanifold_edges": 0,
+        "components": 6,
+        "vertices": 4713,
+        "triangles": 9410,
+        "bounds_mm": [
+          [
+            11.2,
+            252.875,
+            0.0
+          ],
+          [
+            228.08333333333331,
+            498.8,
+            46.872
+          ]
+        ],
+        "dimensions_mm": [
+          216.88333333333333,
+          245.925,
+          46.872
+        ],
+        "volume_mm3": 370977.85880025104
+      },
+      "glazing_qa": {
+        "label": "B1 Glazing",
+        "watertight": true,
+        "winding_consistent": true,
+        "nonmanifold_edges": 0,
+        "components": 11,
+        "vertices": 88,
+        "triangles": 132,
+        "bounds_mm": [
+          [
+            21.045,
+            321.2861,
+            5.9
+          ],
+          [
+            221.2331,
+            426.92,
+            34.2
+          ]
+        ],
+        "dimensions_mm": [
+          200.18810000000002,
+          105.63390000000004,
+          28.300000000000004
+        ],
+        "volume_mm3": 2928.7516519073356
+      },
+      "hanging_loops_qa": {
+        "empty": true
+      },
+      "material_overlap_mm3": -2.4932432420715633e-13,
+      "bed_model_bounds_mm": [
+        [
+          52.037499999999994,
+          8.0,
+          0.0
+        ],
+        [
+          297.9625,
+          224.88333333333333,
+          46.872
+        ]
+      ],
+      "model_plus_5mm_brim_bounds_xy_mm": [
+        [
+          47.037499999999994,
+          3.0
+        ],
+        [
+          302.9625,
+          229.88333333333333
+        ]
+      ],
+      "tower_plus_provisional_brim_reservation_xy_mm": [
+        [
+          65,
+          242
+        ],
+        [
+          135,
+          312
+        ]
+      ],
+      "tower_body_mm": [
+        60,
+        60
+      ],
+      "tower_brim_provisional_mm": 5,
+      "rear_wrapping_exclusion_xy_mm": [
+        [
+          145,
+          310
+        ],
+        [
+          256,
+          320
+        ]
+      ],
+      "dual_shared_xy_mm": [
+        [
+          25,
+          0
+        ],
+        [
+          325,
+          320
+        ]
+      ],
+      "common_z_mm": 320,
+      "static_clearance_passed": true,
+      "actual_sliced_tower_size_verified": false,
+      "rotation_deg": 90,
+      "minimum_model_to_tower_rectangle_gap_mm": 12.116666666666674
+    },
+    {
+      "name": "B2",
+      "scale_denominator": 100,
+      "plate_mesh_to_assembly": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          228.08333333333331
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0,
+          518.860209427774
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "assembly_crop_xy_mm": [
+        [
+          228.08333333333331,
+          252.875
+        ],
+        [
+          444.79166666666663,
+          518.860209427774
+        ]
+      ],
+      "opaque_qa": {
+        "label": "B2 Opaque",
+        "watertight": true,
+        "winding_consistent": true,
+        "nonmanifold_edges": 0,
+        "components": 1,
+        "vertices": 54,
+        "triangles": 104,
+        "bounds_mm": [
+          [
+            228.08333333333331,
+            252.875,
+            0.0
+          ],
+          [
+            444.79166666666663,
+            498.8,
+            46.872
+          ]
+        ],
+        "dimensions_mm": [
+          216.70833333333331,
+          245.925,
+          46.872
+        ],
+        "volume_mm3": 259118.07568674043
+      },
+      "glazing_qa": {
+        "empty": true,
+        "reason": "No native architectural glazing intersects this tile"
+      },
+      "hanging_loops_qa": {
+        "label": "B2 HangingLoops",
+        "watertight": true,
+        "winding_consistent": true,
+        "nonmanifold_edges": 0,
+        "components": 2,
+        "vertices": 564,
+        "triangles": 1128,
+        "bounds_mm": [
+          [
+            237.0,
+            472.86020942777395,
+            0.0
+          ],
+          [
+            437.0,
+            518.860209427774,
+            6.0
+          ]
+        ],
+        "dimensions_mm": [
+          200.0,
+          46.0,
+          6.0
+        ],
+        "volume_mm3": 8332.262675827687
+      },
+      "material_overlap_mm3": 0.0,
+      "bed_model_bounds_mm": [
+        [
+          42.007395286113024,
+          8.0,
+          0.0
+        ],
+        [
+          307.992604713887,
+          224.70833333333331,
+          46.872
+        ]
+      ],
+      "model_plus_5mm_brim_bounds_xy_mm": [
+        [
+          37.007395286113024,
+          3.0
+        ],
+        [
+          312.992604713887,
+          229.70833333333331
+        ]
+      ],
+      "tower_plus_provisional_brim_reservation_xy_mm": [
+        [
+          65,
+          242
+        ],
+        [
+          135,
+          312
+        ]
+      ],
+      "tower_body_mm": [
+        60,
+        60
+      ],
+      "tower_brim_provisional_mm": 5,
+      "rear_wrapping_exclusion_xy_mm": [
+        [
+          145,
+          310
+        ],
+        [
+          256,
+          320
+        ]
+      ],
+      "dual_shared_xy_mm": [
+        [
+          25,
+          0
+        ],
+        [
+          325,
+          320
+        ]
+      ],
+      "common_z_mm": 320,
+      "static_clearance_passed": true,
+      "actual_sliced_tower_size_verified": false,
+      "rotation_deg": 90,
+      "minimum_model_to_tower_rectangle_gap_mm": 12.291666666666686
+    },
+    {
+      "name": "B3",
+      "scale_denominator": 100,
+      "plate_mesh_to_assembly": [
+        [
+          0.0,
+          1.0,
+          0.0,
+          444.79166666666663
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0,
+          498.8
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "assembly_crop_xy_mm": [
+        [
+          444.79166666666663,
+          252.875
+        ],
+        [
+          668.8,
+          518.860209427774
+        ]
+      ],
+      "opaque_qa": {
+        "label": "B3 Opaque",
+        "watertight": true,
+        "winding_consistent": true,
+        "nonmanifold_edges": 0,
+        "components": 1,
+        "vertices": 6837,
+        "triangles": 13670,
+        "bounds_mm": [
+          [
+            444.79166666666663,
+            252.875,
+            0.0
+          ],
+          [
+            637.2,
+            498.8,
+            46.872
+          ]
+        ],
+        "dimensions_mm": [
+          192.40833333333342,
+          245.925,
+          46.872
+        ],
+        "volume_mm3": 179374.77834020843
+      },
+      "glazing_qa": {
+        "label": "B3 Glazing",
+        "watertight": true,
+        "winding_consistent": true,
+        "nonmanifold_edges": 0,
+        "components": 3,
+        "vertices": 24,
+        "triangles": 36,
+        "bounds_mm": [
+          [
+            472.1278,
+            252.875,
+            4.2
+          ],
+          [
+            634.9686,
+            333.7194,
+            44.372
+          ]
+        ],
+        "dimensions_mm": [
+          162.84080000000006,
+          80.84440000000001,
+          40.172
+        ],
+        "volume_mm3": 10144.053469439707
+      },
+      "hanging_loops_qa": {
+        "empty": true
+      },
+      "material_overlap_mm3": 0.0,
+      "bed_model_bounds_mm": [
+        [
+          52.037499999999994,
+          8.0,
+          0.0
+        ],
+        [
+          297.9625,
+          200.40833333333342,
+          46.872
+        ]
+      ],
+      "model_plus_5mm_brim_bounds_xy_mm": [
+        [
+          47.037499999999994,
+          3.0
+        ],
+        [
+          302.9625,
+          205.40833333333342
+        ]
+      ],
+      "tower_plus_provisional_brim_reservation_xy_mm": [
+        [
+          65,
+          242
+        ],
+        [
+          135,
+          312
+        ]
+      ],
+      "tower_body_mm": [
+        60,
+        60
+      ],
+      "tower_brim_provisional_mm": 5,
+      "rear_wrapping_exclusion_xy_mm": [
+        [
+          145,
+          310
+        ],
+        [
+          256,
+          320
+        ]
+      ],
+      "dual_shared_xy_mm": [
+        [
+          25,
+          0
+        ],
+        [
+          325,
+          320
+        ]
+      ],
+      "common_z_mm": 320,
+      "static_clearance_passed": true,
+      "actual_sliced_tower_size_verified": false,
+      "rotation_deg": 90,
+      "minimum_model_to_tower_rectangle_gap_mm": 36.59166666666658
+    }
+  ],
+  "sample_assembled_dimensions_mm": [
+    263.35999999999996,
+    196.8,
+    19.068800000000003
+  ],
+  "assembly_bounds_mm": [
+    [
+      11.2,
+      6.8,
+      0.0
+    ],
+    [
+      668.8,
+      518.860209427774,
+      46.87200000000001
+    ]
+  ],
+  "assembled_dimensions_mm": [
+    657.5999999999999,
+    512.060209427774,
+    46.87200000000001
+  ],
+  "world_cm_to_print_mm": {
+    "x": "(UE_X_cm + 4700) * 10 / 100",
+    "y": "(-UE_Y_cm + 230) * 10 / 100",
+    "z": "UE_Z_cm * 10 / 100 + 4.2"
+  },
+  "split_x_mm": [
+    11.2,
+    228.08333333333331,
+    444.79166666666663,
+    668.8
+  ],
+  "split_y_mm": [
+    6.8,
+    252.875,
+    518.860209427774
+  ],
+  "tile_volume_sum_matches_assembly": true,
+  "filament_materials": {
+    "count": 2,
+    "base_material_index_0": {
+      "name": "Opaque",
+      "extruder": 1,
+      "filament": "matte white PLA"
+    },
+    "base_material_index_1": {
+      "name": "Glazing",
+      "extruder": 2,
+      "filament": "transparent PLA",
+      "parts": [
+        "Glazing",
+        "HangingLoops"
+      ]
+    }
+  },
+  "hanging_design": [
+    {
+      "id": "H01",
+      "part": "HangingLoops",
+      "extruder": 2,
+      "centre_xyz_mm": [
+        255.0,
+        508.8602094240837,
+        0.0
+      ],
+      "hole_diameter_mm": 8.0,
+      "outer_diameter_mm": 20.0,
+      "minimum_radial_ring_section_mm": 6.0,
+      "ring_and_outboard_stem_thickness_mm": 6.0,
+      "captured_root_thickness_mm": 2.8,
+      "root_exit_neck_width_mm": 26.0,
+      "foundation_capture_skin_thickness_mm": 1.4000000000000004,
+      "flared_root_mm": [
+        36.0,
+        24.0
+      ],
+      "maximum_extension_beyond_native_north_wall_mm": 22.0,
+      "reinforcement": "Flared/dovetail tail and wide flat gussets captured below existing Opaque base skin; no raised supports on projection floor. Source north wall provides side restraint.",
+      "hole_boolean_intersection_mm3": 8.122554614322695e-08,
+      "orientation": "two eyelets at west/east ends of exterior north gym edge, both roots wholly on tile B2",
+      "native_source_geometry": "none: user-authorized print hanging feature",
+      "limits": "No load rating; clear PLA/root/capture-skin strength and glued tile joints require physical verification."
+    },
+    {
+      "id": "H02",
+      "part": "HangingLoops",
+      "extruder": 2,
+      "centre_xyz_mm": [
+        419.0,
+        508.8602094240837,
+        0.0
+      ],
+      "hole_diameter_mm": 8.0,
+      "outer_diameter_mm": 20.0,
+      "minimum_radial_ring_section_mm": 6.0,
+      "ring_and_outboard_stem_thickness_mm": 6.0,
+      "captured_root_thickness_mm": 2.8,
+      "root_exit_neck_width_mm": 26.0,
+      "foundation_capture_skin_thickness_mm": 1.4000000000000004,
+      "flared_root_mm": [
+        36.0,
+        24.0
+      ],
+      "maximum_extension_beyond_native_north_wall_mm": 22.0,
+      "reinforcement": "Flared/dovetail tail and wide flat gussets captured below existing Opaque base skin; no raised supports on projection floor. Source north wall provides side restraint.",
+      "hole_boolean_intersection_mm3": 8.122582419392909e-08,
+      "orientation": "two eyelets at west/east ends of exterior north gym edge, both roots wholly on tile B2",
+      "native_source_geometry": "none: user-authorized print hanging feature",
+      "limits": "No load rating; clear PLA/root/capture-skin strength and glued tile joints require physical verification."
+    }
+  ],
+  "hanging_scope": "Only the 1:100 assembly, both complete eyelets on B2. Sample has no HangingLoops.",
+  "architectural_frame_preserved": "P01 native world-to-print origin, planar UV canvas and internal seams retained. Exterior overall Y extent increases solely for eyelets.",
+  "minimum_feature_policy": {
+    "nozzles_mm": [
+      0.4,
+      0.4
+    ],
+    "opaque_thin_principal_axes_mm": 0.8,
+    "glazing_thin_principal_axes_mm": 1.2,
+    "structural_surface_sampling_mm": {
+      "sample": 0.16,
+      "tiles": 0.4
+    },
+    "height_quantization_mm": 0.2,
+    "opaque_surface_simplification_mm": 0.01,
+    "small_details": "Native relief adapted for display-scale printing. Glazing thickness expansion retains native centres."
+  }
+}
