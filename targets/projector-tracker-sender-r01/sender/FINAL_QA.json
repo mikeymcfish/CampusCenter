@@ -1,0 +1,65 @@
+{
+  "passed": true,
+  "utc": "2026-10-06T15:28:41.127834+00:00",
+  "wire_packets": 291,
+  "wire_rate_hz": 19.82905982905983,
+  "development_actual_receiver": {
+    "accepted": 779,
+    "rejected": 0,
+    "visible": true,
+    "stale_hidden": true,
+    "normal_exit": 0,
+    "material_shader_fatal_errors": []
+  },
+  "shipping_actual_receiver": {
+    "accepted": 777,
+    "rejected": 0,
+    "visible": true,
+    "stale_hidden": true,
+    "normal_exit": 0,
+    "logging": "Disabled as inherited; no Shipping material-log claim"
+  },
+  "floor_fixture": {
+    "passed": true,
+    "accepted": 283,
+    "rejected": 0,
+    "visible_ground_samples": 39,
+    "visible_upstairs_samples": 39,
+    "same_registered_xy_across_floors": true,
+    "invalid_hidden": true,
+    "scope": "Actual native sender to sealed production WinForms/Core in transient PIE support fixture; focus explicitly simulated. R29 packaged ground reception separately passed. No actual headset/projector proof."
+  },
+  "input_cases": {
+    "vive_grip": 20,
+    "vive_trigger": 26,
+    "keyboard": 5,
+    "quest_touch": 29,
+    "total": 80
+  },
+  "sender_disabled": {
+    "packets": 0,
+    "normal_exit": 0
+  },
+  "installer": {
+    "quest_source_passed": true,
+    "vive_only_source_passed": true,
+    "rollback_all_48_original_files_exact": true,
+    "existing_and_unknown_container_refusals_passed": true
+  },
+  "preservation": {
+    "original_runtime_all_48_files_unchanged": true,
+    "installed_review_all_48_guarded": true,
+    "source_protected_files": 21,
+    "only_existing_source_changes": [
+      "CampusCenter.uproject",
+      "Plugins/CampusCrowdFix/Source/CampusCrowdFix/CampusCrowdFix.Build.cs"
+    ],
+    "original_plugin_manifest_entries": 233,
+    "new_entry": "OSC",
+    "geometry_materials_lights_effects_maps_inputs_and_config_not_changed": true
+  },
+  "development_native_sha256": "dfcd61e0ccafbf5530fe9ef4fa0f7a9af79927182090878f8d0b4b9c86cda028",
+  "shipping_native_sha256": "96a03309bc9274771baaf9f38f38f9eeb2b211f4e2d6d7fd28f64be67ecd4816",
+  "headset_projector_hardware_performance_tested": false,
+  "pushed": false
+}

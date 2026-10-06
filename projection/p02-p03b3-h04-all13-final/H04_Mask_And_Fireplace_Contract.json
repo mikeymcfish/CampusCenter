@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "reference_revision": "Exact immutable H03 masks; H04 changes colour and fireplace control only",
+  "original_H03_manifest_sha256": "f5076e14124a37ed305da28677e9a4f5f91d2fdcb09f215bbe9af1039fbfd3f8",
+  "same_all13_full_receiver_alpha_masks": true,
+  "registered_reference_boundaries": "Room_Identity_And_Boundary_Limitations.json",
+  "appended_fireplace_control": "All2756 dedicated UV02 fireplace charts are authored in each complete atlas. They use dim Commons hue for Commons only and RGB0 for every other stop. Do not add the historical neutral fireplace patch on top of H04.",
+  "geometry_UV_origin_scale_changed": false
+}

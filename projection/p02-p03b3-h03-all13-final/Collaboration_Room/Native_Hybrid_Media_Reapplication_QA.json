@@ -1,0 +1,55 @@
+{
+  "status": "PASS",
+  "Blender_version": "5.0.0",
+  "receiver_OBJ": "CampusCenter_P02plusP03B3_Assembly_1_100_UV02.obj",
+  "receiver_OBJ_sha256": "b949784cbb3f833d10d82fdd48d469ac3fac1b8ac723f7cc08588ca633a59fba",
+  "fresh_factory_import": true,
+  "import_checks": [
+    {
+      "part": "Glazing",
+      "triangles": 708,
+      "world_error_mm": 2.8417968792382453e-05,
+      "UV_error_8192px": 0.00024408883200521814,
+      "identity_world_transform": true
+    },
+    {
+      "part": "HangingLoops",
+      "triangles": 1128,
+      "world_error_mm": 3.035468751022563e-05,
+      "UV_error_8192px": 0.00024413882238150109,
+      "identity_world_transform": true
+    },
+    {
+      "part": "Opaque",
+      "triangles": 74138,
+      "world_error_mm": 3.0114062496977567e-05,
+      "UV_error_8192px": 0.0002441406240905053,
+      "identity_world_transform": true
+    },
+    {
+      "part": "Opaque_Fireplace_P03_B3",
+      "triangles": 2756,
+      "world_error_mm": 3.0517578011313162e-05,
+      "UV_error_8192px": 0.0002440312564431224,
+      "identity_world_transform": true
+    }
+  ],
+  "all_parts_one_common_unlit_atlas": true,
+  "lights": 0,
+  "view": "Unchanged orthographic +Z canvas726.25mm center348.25,252.875",
+  "shader": "Emission strength1; sRGB; Standard; nearest",
+  "renders": [
+    {
+      "atlas": "Collaboration_Room_Paginated_Page_01_Atlas_8192.png",
+      "atlas_sha256": "8fcae820f84dce731e8cb8d1592e6afe182506f2aa499cc2f55cfd3fdf195f99",
+      "native_preview": "Collaboration_Room_Paginated_Page_01_Native_Mapped_Preview.png"
+    },
+    {
+      "atlas": "Collaboration_Room_Paginated_Page_02_Atlas_8192.png",
+      "atlas_sha256": "f4d2db0dcc83e39109aff1c0f3925d9dc6b82d04a0e107102e784de63dcb0e42",
+      "native_preview": "Collaboration_Room_Paginated_Page_02_Native_Mapped_Preview.png"
+    }
+  ],
+  "physical_projection_or_MadMapper_playback_verified": false,
+  "original_Blender_Unreal_receiver_or_media_saved": false
+}

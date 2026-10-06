@@ -1,0 +1,59 @@
+{
+  "revision": "H03 world-clipped full opaque receiver alpha masks",
+  "receiver_OBJ": "CampusCenter_P02plusP03B3_Assembly_1_100_UV02.obj",
+  "receiver_OBJ_sha256": "b949784cbb3f833d10d82fdd48d469ac3fac1b8ac723f7cc08588ca633a59fba",
+  "legacy_UV01_chart_source_sha256": "5fb3d64faebe846255f84b4e4f2be832070fec649ea99a1005d69f0c802db45f",
+  "atlas_resolution": 8192,
+  "coordinates": "Original UVs, UV origin bottom-left; PNG top-left. Numeric modelmm, right-handed,+Z up,+Y north.1:100 unchanged common origin.",
+  "compatibility": "Apply these H03 alpha masks to unchanged legacy Opaque charts on UV02. Composite the existing neutral Fireplace_Only_Patch_8192.png only through Fireplace_New_Chart_Mask_8192.png on appended UV02 fireplace charts. Complete authored H03 atlases already include this patch.",
+  "mask_regions": "All original opaque non-underside receivers, including floor finishes, fixtures, wall sides/caps. Glazing and HangingLoops are excluded. Original source classifications are preserved without new semantic remapping.",
+  "glass_note": "No added glazing projection or remapping; material geometry unchanged.",
+  "original_H02_or_prior_media_changed": false,
+  "geometry_UV_scale_origin_or_print_changed": false,
+  "sample_1_250_compatibility_claimed": false,
+  "scope": "Frozen registered A101 references with approved H02 hall overrides and native gym inner bounds. Same13 stop identities and explicit exclusions; no new R29 semantic boundary audit.",
+  "composition": "4x4 alpha coverage; sum of all13 stop alpha masks at any atlas pixel <=255; no whole-triangle room ownership. Masks are alpha coverage, not RGB projection movies.",
+  "edge_review_files": [
+    {
+      "world_boundary_point_mm": [
+        591.1607666015625,
+        201.0
+      ],
+      "source_face": 52930,
+      "actual_receiver_height_mm": 4.2,
+      "UV_atlas_pixel": [
+        3199.4909616566947,
+        1877.7177429197545
+      ],
+      "native_8192_crop_box": [
+        3071,
+        1750,
+        3327,
+        2006
+      ],
+      "file": "Commons_Cafe_Boundary_1_Native_8192_Atlas_Crops.png",
+      "display_resampling": "None; native atlas pixels1:1"
+    },
+    {
+      "world_boundary_point_mm": [
+        610.0,
+        225.5697021484375
+      ],
+      "source_face": 55821,
+      "actual_receiver_height_mm": 14.800000000000002,
+      "UV_atlas_pixel": [
+        4476.2156372088275,
+        3441.4528320428744
+      ],
+      "native_8192_crop_box": [
+        4348,
+        3313,
+        4604,
+        3569
+      ],
+      "file": "Commons_Cafe_Boundary_2_Native_8192_Atlas_Crops.png",
+      "display_resampling": "None; native atlas pixels1:1"
+    }
+  ],
+  "physical_projection_verified": false
+}

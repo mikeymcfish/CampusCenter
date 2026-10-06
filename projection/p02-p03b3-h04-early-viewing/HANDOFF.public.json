@@ -1,0 +1,26 @@
+{
+  "status": "PASS: earlyH04 Commons/Cafe viewing tests ready; all13 rollout authorized and continuing",
+  "clips": [
+    {
+      "file": "The_Student_Commons_Paginated_Gym_Mapped_1024_Viewing_Preview_H04_Bright_SameHue.mp4",
+      "bytes": 287857,
+      "sha256": "97956ea5b5ecdad6d12774f436c7d882c3379dc2d1baa542a88b18a193588b32",
+      "duration_seconds": 20.0,
+      "all_preview_frames_decoded": true
+    },
+    {
+      "file": "The_Cafe_Paginated_Gym_Mapped_1024_Viewing_Preview_H04_Bright_SameHue.mp4",
+      "bytes": 253682,
+      "sha256": "49724897a3581285fcdbc655e5a74d3d99facbc0de3b946f4cd6ffd4fb75087c",
+      "duration_seconds": 20.0,
+      "all_preview_frames_decoded": true
+    }
+  ],
+  "cause_QA": "Fireplace_And_Furniture_Colour_Cause_QA.json",
+  "cause": "Unconditional neutral UV02 fireplace patch copied into everyH03 page; furniture tops override room hue with neutral white/gray/blue. Dedicated2756 fireplace charts are correctlyUV mapped. No scene lights in native reprojection.",
+  "geometry_UV_origin_scale_changed": false,
+  "caption_and_balanced_pagination_unchanged": true,
+  "displayed_room_numbers": false,
+  "physical_projection_or_MadMapper_playback_verified": false,
+  "mobile_R04_handoff": "RIPPLE_R04_MOBILE_VIEWING_HANDOFF.json"
+}

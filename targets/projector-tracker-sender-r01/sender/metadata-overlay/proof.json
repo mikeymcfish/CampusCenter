@@ -1,0 +1,8 @@
+{
+  "baseline_sha256": "4a4e07ae67cbe01481ee5f45a4b3015d3c835e155c4a3f5e05042dbfa2366d26",
+  "original_entries_preserved": 233,
+  "added_entry": "../../../Engine/Plugins/Runtime/OSC/OSC.uplugin",
+  "pak_bytes": 27003,
+  "pak_sha256": "979e2630cb53e640e0b5dd90b5dee212d4d88c1e8de1b041aa58cd3ed174e0ce",
+  "only_packaged_path": "../../../CampusCenter/Plugins/CampusCenter.upluginmanifest"
+}

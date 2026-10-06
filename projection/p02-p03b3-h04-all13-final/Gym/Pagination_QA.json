@@ -1,0 +1,228 @@
+{
+  "status": "PASS: complete H04 colour, Commons-only fireplace, verbatim gym captions, unchanged receiver/masks and native/viewing validation",
+  "official_title_exact": "Gym",
+  "official_body_exact": "The existing Gym remains a lively center for competition, teamwork, school spirit, and community traditions. From practices and games to shared celebrations, it is a place where students challenge themselves, support one another, and experience the perseverance, respect, and integrity that define the Viking community.",
+  "official_paragraphs_exact": [
+    "The existing Gym remains a lively center for competition, teamwork, school spirit, and community traditions. From practices and games to shared celebrations, it is a place where students challenge themselves, support one another, and experience the perseverance, respect, and integrity that define the Viking community."
+  ],
+  "full_official_word_sequence_reconstructs_exactly": true,
+  "paragraph_boundaries_preserved_as_page_boundaries": true,
+  "pages": [
+    {
+      "page": 1,
+      "lines": [
+        "The existing Gym remains a",
+        "lively center for competition,",
+        "teamwork, school spirit, and",
+        "community traditions."
+      ],
+      "official_text_portion": "The existing Gym remains a lively center for competition, teamwork, school spirit, and community traditions.",
+      "atlas": "Gym_Paginated_Page_01_Atlas_8192.png",
+      "atlas_sha256": "1eb2f50a9fbc28d58b0700101cd354e1690b61206cbd0852f6c4fb73b2306c68",
+      "body_glyph_bounds_px": [
+        [
+          175,
+          655,
+          1750,
+          782
+        ],
+        [
+          175,
+          829,
+          1810,
+          957
+        ],
+        [
+          175,
+          1005,
+          1780,
+          1131
+        ],
+        [
+          175,
+          1180,
+          1428,
+          1307
+        ]
+      ],
+      "caption_surface_texels": 1557104,
+      "source_page": "Gym_Paginated_Page_01_Atlas_8192.png",
+      "caption_pixels_exactly_preserved": true,
+      "fireplace_patch_exactly_preserved": false,
+      "caption_balanced_after_visual_review": true,
+      "source_copy_and_type_style_preserved": true,
+      "source_H03_page": "Gym_Paginated_Page_01_Atlas_8192.png",
+      "source_H03_page_sha256": "9ed45c920abf83446baa189571ae30e9d21d4aaf97629c07a593dc45710f2c90",
+      "fireplace_selected_only_in_Commons": true
+    },
+    {
+      "page": 2,
+      "lines": [
+        "From practices and games to",
+        "shared celebrations, it is a",
+        "place where students",
+        "challenge themselves, support"
+      ],
+      "official_text_portion": "From practices and games to shared celebrations, it is a place where students challenge themselves, support",
+      "atlas": "Gym_Paginated_Page_02_Atlas_8192.png",
+      "atlas_sha256": "2fc93e343e8af59650b34f5b211c0f516f3328b9383ecc7b24c64ee91371130a",
+      "body_glyph_bounds_px": [
+        [
+          175,
+          655,
+          1835,
+          782
+        ],
+        [
+          175,
+          830,
+          1653,
+          943
+        ],
+        [
+          175,
+          1005,
+          1388,
+          1131
+        ],
+        [
+          175,
+          1180,
+          1907,
+          1307
+        ]
+      ],
+      "caption_surface_texels": 1557104,
+      "source_page": "Gym_Paginated_Page_02_Atlas_8192.png",
+      "caption_pixels_exactly_preserved": true,
+      "fireplace_patch_exactly_preserved": false,
+      "caption_balanced_after_visual_review": true,
+      "source_copy_and_type_style_preserved": true,
+      "source_H03_page": "Gym_Paginated_Page_02_Atlas_8192.png",
+      "source_H03_page_sha256": "c7307d3a405521f3c7d4ba75328742d34bb18c13571c1546d83cd6b36fb93269",
+      "fireplace_selected_only_in_Commons": true
+    },
+    {
+      "page": 3,
+      "lines": [
+        "one another, and experience",
+        "the perseverance, respect, and",
+        "integrity that define the Viking",
+        "community."
+      ],
+      "official_text_portion": "one another, and experience the perseverance, respect, and integrity that define the Viking community.",
+      "atlas": "Gym_Paginated_Page_03_Atlas_8192.png",
+      "atlas_sha256": "c7f23b9fd876982ee4b8d4affad7793f8d6c4d1e5dcf04127cdc23f1f1035b27",
+      "body_glyph_bounds_px": [
+        [
+          175,
+          655,
+          1811,
+          781
+        ],
+        [
+          175,
+          830,
+          1913,
+          956
+        ],
+        [
+          175,
+          1004,
+          1928,
+          1132
+        ],
+        [
+          175,
+          1180,
+          849,
+          1307
+        ]
+      ],
+      "caption_surface_texels": 1557104,
+      "source_page": "Gym_Paginated_Page_03_Atlas_8192.png",
+      "caption_pixels_exactly_preserved": true,
+      "fireplace_patch_exactly_preserved": false,
+      "caption_balanced_after_visual_review": true,
+      "source_copy_and_type_style_preserved": true,
+      "source_H03_page": "Gym_Paginated_Page_03_Atlas_8192.png",
+      "source_H03_page_sha256": "55fa26c2b6c922539a8d461d04aed82540b4f3161d57622909e1776105260b61",
+      "fireplace_selected_only_in_Commons": true
+    }
+  ],
+  "page_count": 3,
+  "page_hold_seconds": 10,
+  "body_font_nominal_model_mm": 13,
+  "body_x_height_at_1024_view_px": 9.16488812392427,
+  "body_capital_height_at_1024_view_px": 12.830843373493977,
+  "caption_bounds_model_mm": [
+    [
+      235,
+      231
+    ],
+    [
+      448,
+      451
+    ]
+  ],
+  "all_caption_pixels_inside_gym_H02_and_world_rectangle": true,
+  "all_caption_pixels_exactly_preserved_from_validated_verbatim_source": false,
+  "caption_receiver_texels": 1557104,
+  "presentation_room_number_labels": false,
+  "stop_id_metadata_only": "HS13",
+  "receiver_OBJ": "CampusCenter_P02plusP03B3_Assembly_1_100_UV02.obj",
+  "receiver_OBJ_sha256": "b949784cbb3f833d10d82fdd48d469ac3fac1b8ac723f7cc08588ca633a59fba",
+  "geometry_UV_origin_or_scale_changed": false,
+  "fixture_normal_height_and_contact_shading_from_actual_unchanged_geometry": true,
+  "restored_fireplace_patch_exactly_matches_hybrid_UV02": false,
+  "highlight_mask": "HS13_World_Clipped_Receiver_Alpha_8192.png",
+  "highlight_mask_sha256": "cd6188504f1fa37386796868db09a326fbca91602cffdae47bc128269d4a9587",
+  "highlight_receiver_charts": 218,
+  "highlight_nonzero_receiver_pixels": 3961318,
+  "highlight_method": "For every opaque non-underside source triangle, evaluate actual world XY affinely through its original UVs, clip against exact rectilinear room polygons, and rasterize at4x4 alpha coverage. Applies to floor finishes, furniture, wall sides/caps and other receiver surfaces. Two-pixel triangle-chart bleed stays within existing chart rectangles. No whole-triangle room ownership or mesh edits.",
+  "highlight_scope_authority": "Same registered A101 room-footprint polygons, approved H02 hall bounds and native verified gym inner bounds. Stop identities and explicit exclusions unchanged. No new R29 semantic room-boundary audit claimed.",
+  "mask_revision": "H03 canonical full receiver; original H02/P01/R02 untouched",
+  "native_preview_pending": false,
+  "room_highlight_mapping_validation_pending": false,
+  "physical_projector_readability_verified": false,
+  "room_highlight_mapping_QA": "Room_Highlight_World_Mapping_QA.json",
+  "all_caption_words_font_size_position_title_and_page_count_preserved": true,
+  "balanced_continuation_pages": {
+    "before_line_counts": [
+      4,
+      7,
+      1
+    ],
+    "after_line_counts": [
+      4,
+      4,
+      4
+    ],
+    "official_word_sequence_unchanged": true,
+    "changes_restricted_to_actual_gym_caption_texels": true
+  },
+  "all30_final_atlas_audit": "../All13_Final_Tour_QA.json",
+  "visual_review_complete": true,
+  "revision": "H04: media only; H03 retained",
+  "source_H03_pagination_QA": "Pagination_QA.json",
+  "colour_RGB": [
+    128,
+    170,
+    255
+  ],
+  "previous_H03_colour_RGB": [
+    115,
+    153,
+    230
+  ],
+  "colour_and_fixture_shading_QA": {
+    "receiver_charts": 218,
+    "selected_receiver_texels": 3961318,
+    "raised_fixture_or_wall_texels": 1312968,
+    "same_hue_max_RGB_byte_residual": 0.7215686274509778
+  },
+  "floor_linear_colour_factor_ratio_vs_H03_median": 1.1927925615076165,
+  "fixture_colour": "All selected non-underside opaque surfaces use room hue; raised surfaces atz>=5.8mm use0.72 top multiplier,0.48 side multiplier. Normal,height and contact shading preserved; no neutral furniture replacements. Raised-wall surfaces share this treatment.",
+  "fireplace_control": "Dedicated UV02 fireplace charts use Commons hue and dim fixture shading only during Commons; RGB0 on every other stop. No neutral compatibility patch added.",
+  "all_caption_pixels_exactly_preserved_from_final_H03": true
+}

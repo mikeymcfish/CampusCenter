@@ -1,0 +1,1394 @@
+{
+  "files": [
+    {
+      "file": "Entry_Reception/Pagination_QA.json",
+      "bytes": 8516,
+      "sha256": "362bafd10e26442544e658a8dbe0d91dba768918052e64e971cc39b5f7adff8c"
+    },
+    {
+      "file": "Entry_Reception/Compact_Mapped_Preview_QA.json",
+      "bytes": 1017,
+      "sha256": "5c9a97f352dfb3a32a7ffa6523e82a5878a46b834a391a8556166bfc9e83454c"
+    },
+    {
+      "file": "Entry_Reception/Native_Hybrid_Media_Reapplication_QA.json",
+      "bytes": 2189,
+      "sha256": "bb252526174eea25867776302727ff059f815e4d6aa8e4e5324f9b656e29f86a"
+    },
+    {
+      "file": "Entry_Reception/Room_Highlight_World_Mapping_QA.json",
+      "bytes": 1371,
+      "sha256": "becec3331ad1363320f357756ea3b7f80b8f5d73fc5f40a61c51d79c15ef0a38"
+    },
+    {
+      "file": "Entry_Reception/Entry_Reception_Paginated_Gym_Mapped_1024_Viewing_Preview_H04_Bright_SameHue.mp4",
+      "bytes": 374028,
+      "sha256": "9f8f1bdbbb914b94a3d74cc550304df100515865184deabd862088f8b3edf72c"
+    },
+    {
+      "file": "Entry_Reception/Entry_Reception_Paginated_Page_01_Atlas_8192.png",
+      "bytes": 388426,
+      "sha256": "b8d7098d6c853c1c27438dc39d3e9e0f75fe2950fadbc7240344a4a18019e1c8"
+    },
+    {
+      "file": "Entry_Reception/Entry_Reception_Paginated_Page_01_Native_Mapped_Preview.png",
+      "bytes": 2288059,
+      "sha256": "830e163b67f5f513bc64fc3349ab69f3a19fcb45c0ddf5890128fea97906afe8"
+    },
+    {
+      "file": "Entry_Reception/Entry_Reception_Page_01_Mapped_1024_Viewing.png",
+      "bytes": 290572,
+      "sha256": "95c1a57fc3439cee63e5fe7dba6913027bbb73c296bc0b93f8129d121f9ac040"
+    },
+    {
+      "file": "Entry_Reception/Entry_Reception_Paginated_Page_02_Atlas_8192.png",
+      "bytes": 382328,
+      "sha256": "a4df0b40eae11e31a48220811ce0a215012253f8587791e3d216370cea546d86"
+    },
+    {
+      "file": "Entry_Reception/Entry_Reception_Paginated_Page_02_Native_Mapped_Preview.png",
+      "bytes": 2279253,
+      "sha256": "62529c97401d95566686391f6d46c3eb6545ebcaca6c72af88a5af81a6d37706"
+    },
+    {
+      "file": "Entry_Reception/Entry_Reception_Page_02_Mapped_1024_Viewing.png",
+      "bytes": 288892,
+      "sha256": "dcbe02b9d5a1e0e508804c26802ef4a84b9b54d326b1c1b640f8c0da23f2f710"
+    },
+    {
+      "file": "Entry_Reception/Entry_Reception_Paginated_Page_03_Atlas_8192.png",
+      "bytes": 388853,
+      "sha256": "f83ee276eb2c30ce1c15b0a84935d6dbd3917852f1d10fe915fc8f871e3be4fe"
+    },
+    {
+      "file": "Entry_Reception/Entry_Reception_Paginated_Page_03_Native_Mapped_Preview.png",
+      "bytes": 2285596,
+      "sha256": "ffc73cdd370b5b70f0d7eee8d2a68dd077654d8b98bdaca3615a5678de2cded0"
+    },
+    {
+      "file": "Entry_Reception/Entry_Reception_Page_03_Mapped_1024_Viewing.png",
+      "bytes": 290810,
+      "sha256": "062593422e4f9d61c4edcb3410816ed5c22756026f86894ad8b0c89fbbfa67b7"
+    },
+    {
+      "file": "The_Cafe/Pagination_QA.json",
+      "bytes": 7170,
+      "sha256": "c2b745e62767bb5b2a48336583a1fe0ed4116140580837d0fb594e6b44fecc47"
+    },
+    {
+      "file": "The_Cafe/Compact_Mapped_Preview_QA.json",
+      "bytes": 1163,
+      "sha256": "8a31e76125cef345ab77495d8b0416776a6420b3df00cb6cfaba6ef3f8428792"
+    },
+    {
+      "file": "The_Cafe/Native_Hybrid_Media_Reapplication_QA.json",
+      "bytes": 1905,
+      "sha256": "b9c036060f48f48559fa3840ac9e7bde5751e6b58b19ef51a2209688c10223f4"
+    },
+    {
+      "file": "The_Cafe/Room_Highlight_World_Mapping_QA.json",
+      "bytes": 1362,
+      "sha256": "cfd46af7da345e5885d36485cef59c0b0c31efc2c9992201bda85b3a8dddf3ba"
+    },
+    {
+      "file": "The_Cafe/The_Cafe_Paginated_Gym_Mapped_1024_Viewing_Preview_H04_Bright_SameHue.mp4",
+      "bytes": 253682,
+      "sha256": "49724897a3581285fcdbc655e5a74d3d99facbc0de3b946f4cd6ffd4fb75087c"
+    },
+    {
+      "file": "The_Cafe/The_Cafe_Paginated_Page_01_Atlas_8192.png",
+      "bytes": 353105,
+      "sha256": "b62de0491a9f8195c1a95a552e57438701807f85f0c6f358028d47fcb81d8597"
+    },
+    {
+      "file": "The_Cafe/The_Cafe_Paginated_Page_01_Native_Mapped_Preview.png",
+      "bytes": 2243209,
+      "sha256": "24b7dfd5f4170d42a79730b0c94d65701440044ca3e223c4c093d9521b0aa352"
+    },
+    {
+      "file": "The_Cafe/The_Cafe_Page_01_Mapped_1024_Viewing.png",
+      "bytes": 285396,
+      "sha256": "6c9e88348de1e80e8d30528177e5c3331d1650a3070a73d9a95208be303ac27b"
+    },
+    {
+      "file": "The_Cafe/The_Cafe_Paginated_Page_02_Atlas_8192.png",
+      "bytes": 380992,
+      "sha256": "2f147b2047f85723e17c181dbeeb51fdb56681c9eb9d723c1e14f3dad903d4ed"
+    },
+    {
+      "file": "The_Cafe/The_Cafe_Paginated_Page_02_Native_Mapped_Preview.png",
+      "bytes": 2288529,
+      "sha256": "fb26071eca4a4b97cd696d1522eb3a59e6e04967f63f256fbd55b3634dcb1451"
+    },
+    {
+      "file": "The_Cafe/The_Cafe_Page_02_Mapped_1024_Viewing.png",
+      "bytes": 300136,
+      "sha256": "c8284325f0689156796f7f79aeff544bbe36790843a0805dc8f3b2cdc88c3a41"
+    },
+    {
+      "file": "The_Student_Commons/Pagination_QA.json",
+      "bytes": 6576,
+      "sha256": "60c5abd18d871cf44a423b94f61b492100982fd85b9e8491683dbd413356847f"
+    },
+    {
+      "file": "The_Student_Commons/Compact_Mapped_Preview_QA.json",
+      "bytes": 1174,
+      "sha256": "793a826a763fa1c71847c34d3cf10de0f62e83a4c35a0e356461691bbfd31d0a"
+    },
+    {
+      "file": "The_Student_Commons/Native_Hybrid_Media_Reapplication_QA.json",
+      "bytes": 1949,
+      "sha256": "4f97bf134cf2b01ff002d22ee57fafeb7694d96f321f544066ada90a94be9c01"
+    },
+    {
+      "file": "The_Student_Commons/Room_Highlight_World_Mapping_QA.json",
+      "bytes": 1374,
+      "sha256": "ef3b95da30632c06e0f45614194fc9feaf47e81e5aabc630ed10aab308cbd476"
+    },
+    {
+      "file": "The_Student_Commons/The_Student_Commons_Paginated_Gym_Mapped_1024_Viewing_Preview_H04_Bright_SameHue.mp4",
+      "bytes": 287857,
+      "sha256": "97956ea5b5ecdad6d12774f436c7d882c3379dc2d1baa542a88b18a193588b32"
+    },
+    {
+      "file": "The_Student_Commons/The_Student_Commons_Paginated_Page_01_Atlas_8192.png",
+      "bytes": 1041363,
+      "sha256": "93add0747688cc8714a197204208d78e50bfaa3a3316eaf80cb8e3662668348d"
+    },
+    {
+      "file": "The_Student_Commons/The_Student_Commons_Paginated_Page_01_Native_Mapped_Preview.png",
+      "bytes": 2493583,
+      "sha256": "bf3459c3281311f3a8bfe7e7b6010d3cf9dc4633179b8a1c6bbc4022ea58ae32"
+    },
+    {
+      "file": "The_Student_Commons/The_Student_Commons_Page_01_Mapped_1024_Viewing.png",
+      "bytes": 355567,
+      "sha256": "e7e302eafe2cb20ec5671da55174282ca2a660c43d8eef1a50b104a075752f85"
+    },
+    {
+      "file": "The_Student_Commons/The_Student_Commons_Paginated_Page_02_Atlas_8192.png",
+      "bytes": 1013677,
+      "sha256": "49bcc28030aafa0aafff5394bb7100c0f71718a1b6cb5a3bad419f7bea36212f"
+    },
+    {
+      "file": "The_Student_Commons/The_Student_Commons_Paginated_Page_02_Native_Mapped_Preview.png",
+      "bytes": 2454804,
+      "sha256": "34a879fd3d10a68d6e2a596fc2ee496c37bee0bfe71e3d984025c8efcbda2753"
+    },
+    {
+      "file": "The_Student_Commons/The_Student_Commons_Page_02_Mapped_1024_Viewing.png",
+      "bytes": 341255,
+      "sha256": "32b84af90898a60dcd51ef66f9183f8b8e1db1f8936a67c350e5a23481818723"
+    },
+    {
+      "file": "Admissions_Office/Pagination_QA.json",
+      "bytes": 9121,
+      "sha256": "24620f1fad9b1a7b93cf0ada134e2bdf7c47f4a36a779175a05a05aace3827a1"
+    },
+    {
+      "file": "Admissions_Office/Compact_Mapped_Preview_QA.json",
+      "bytes": 1019,
+      "sha256": "d9f02aacf430ec376ee0b4e0e6feaeded00837c4c68f34da2cbbf2739672a2ad"
+    },
+    {
+      "file": "Admissions_Office/Native_Hybrid_Media_Reapplication_QA.json",
+      "bytes": 2201,
+      "sha256": "339df634437d13a4b29ba6841a21a29ce477cc53687b1b625d1fe7c7823828e9"
+    },
+    {
+      "file": "Admissions_Office/Room_Highlight_World_Mapping_QA.json",
+      "bytes": 1371,
+      "sha256": "0e13d6892a4aa9abcaa0de803b1facd6097225d5af3882c8701289dc98ffeb79"
+    },
+    {
+      "file": "Admissions_Office/Admissions_Office_Paginated_Gym_Mapped_1024_Viewing_Preview_H04_Bright_SameHue.mp4",
+      "bytes": 368419,
+      "sha256": "2cf919594d03612dc1c952db6864d02ea0c395311540d600341174e34760e1a7"
+    },
+    {
+      "file": "Admissions_Office/Admissions_Office_Paginated_Page_01_Atlas_8192.png",
+      "bytes": 371277,
+      "sha256": "dcd30938633606cb6c697739ee24e627b9e197072bb827e0d28e6799d7155e06"
+    },
+    {
+      "file": "Admissions_Office/Admissions_Office_Paginated_Page_01_Native_Mapped_Preview.png",
+      "bytes": 2259309,
+      "sha256": "e1b26404983664676703d013f9b771d8808246154dadb6d18bf2559d585ce9af"
+    },
+    {
+      "file": "Admissions_Office/Admissions_Office_Page_01_Mapped_1024_Viewing.png",
+      "bytes": 298635,
+      "sha256": "f83465681b1bb3451cd74c6ecb4d6780ea6591254d9c5e2a02223636d19d0f14"
+    },
+    {
+      "file": "Admissions_Office/Admissions_Office_Paginated_Page_02_Atlas_8192.png",
+      "bytes": 339240,
+      "sha256": "c11e09358b5f9f402becfe5ba8ef72ca2808732fdbc53aee6e3faadfd002d1f1"
+    },
+    {
+      "file": "Admissions_Office/Admissions_Office_Paginated_Page_02_Native_Mapped_Preview.png",
+      "bytes": 2212913,
+      "sha256": "245d5983d1efbce9813d5b68a38f5ee02bb80e8a2e4a9525a90a1df36af1724f"
+    },
+    {
+      "file": "Admissions_Office/Admissions_Office_Page_02_Mapped_1024_Viewing.png",
+      "bytes": 282703,
+      "sha256": "f58fce285ca90adbae06f5bbd694c9f283def3aa7f41bf635228274519c9a8c1"
+    },
+    {
+      "file": "Admissions_Office/Admissions_Office_Paginated_Page_03_Atlas_8192.png",
+      "bytes": 349133,
+      "sha256": "6fa963aa272af5fe50972ad11356e4667552577ab7b4a5029b7c00f7380f3bc3"
+    },
+    {
+      "file": "Admissions_Office/Admissions_Office_Paginated_Page_03_Native_Mapped_Preview.png",
+      "bytes": 2226209,
+      "sha256": "49d1cc5131d884986d7673d1907f7393f42f256d170ffbc32202effab2ea2c1e"
+    },
+    {
+      "file": "Admissions_Office/Admissions_Office_Page_03_Mapped_1024_Viewing.png",
+      "bytes": 286616,
+      "sha256": "920bd6ab32c3b3fb8473a302d200961d32eecf2257e83e0ac5d35e0e2fdc7f5b"
+    },
+    {
+      "file": "CRI_Gallery/Pagination_QA.json",
+      "bytes": 7420,
+      "sha256": "abb5e1d259b69c7f7bac2ba414ef2072d75781ad93663696a78ea86a75816871"
+    },
+    {
+      "file": "CRI_Gallery/Compact_Mapped_Preview_QA.json",
+      "bytes": 1013,
+      "sha256": "1ca6b6df84059bda1f8f6cbe4f80d278a2e60971a7ff6421c6b375202e5af1e5"
+    },
+    {
+      "file": "CRI_Gallery/Native_Hybrid_Media_Reapplication_QA.json",
+      "bytes": 1917,
+      "sha256": "7c980f125fd177c8870dec1e748f0fe1edbb65ad0773f229d1026c184157c4e6"
+    },
+    {
+      "file": "CRI_Gallery/Room_Highlight_World_Mapping_QA.json",
+      "bytes": 1365,
+      "sha256": "0a0cbc05d09ffd0f58f0433da537904f33aa4cf4921b5c6a6a87233f71a13585"
+    },
+    {
+      "file": "CRI_Gallery/CRI_Gallery_Paginated_Gym_Mapped_1024_Viewing_Preview_H04_Bright_SameHue.mp4",
+      "bytes": 259778,
+      "sha256": "dc2e262e27c229fbfcb9fcae11bb6dab1e3e3d42cc30fb32464febe2790b3450"
+    },
+    {
+      "file": "CRI_Gallery/CRI_Gallery_Paginated_Page_01_Atlas_8192.png",
+      "bytes": 461366,
+      "sha256": "483e001ab5b03379ecf9b76dfb604f1f0e6d56cd595c5ac1f96111cc37affd22"
+    },
+    {
+      "file": "CRI_Gallery/CRI_Gallery_Paginated_Page_01_Native_Mapped_Preview.png",
+      "bytes": 2304210,
+      "sha256": "0b61a855e946af5afa06a69e787fc5f5b317d2547c9c78742cfd6c199ead8b2a"
+    },
+    {
+      "file": "CRI_Gallery/CRI_Gallery_Page_01_Mapped_1024_Viewing.png",
+      "bytes": 302068,
+      "sha256": "e88bcc2c040e543c410fd2072bb3ea59976fc2997049b76f0dfc80ab0a5e8f34"
+    },
+    {
+      "file": "CRI_Gallery/CRI_Gallery_Paginated_Page_02_Atlas_8192.png",
+      "bytes": 483171,
+      "sha256": "3c37b8457595ec8cd0f808da50945b4d4ea891ea448cd0e31cf478a61b1bb4a3"
+    },
+    {
+      "file": "CRI_Gallery/CRI_Gallery_Paginated_Page_02_Native_Mapped_Preview.png",
+      "bytes": 2345631,
+      "sha256": "e404dc7a273496afb11cd37f1b78a6002aa9afb74688a96c066869a304eb8063"
+    },
+    {
+      "file": "CRI_Gallery/CRI_Gallery_Page_02_Mapped_1024_Viewing.png",
+      "bytes": 316565,
+      "sha256": "013306b2fa4d52b9b840925c5336af310fdaac5e2e15711706c9ddca3a5f8d65"
+    },
+    {
+      "file": "Corridor_Display_Hall/Pagination_QA.json",
+      "bytes": 7113,
+      "sha256": "26b630af4dd2ec36b5a0dcf4a2bbe06b36a017a802b3ff4055f96d11293b604c"
+    },
+    {
+      "file": "Corridor_Display_Hall/Compact_Mapped_Preview_QA.json",
+      "bytes": 1023,
+      "sha256": "0a5d7d1f5be0ea1f5d804f287d0b6cd0d909cffed73ec31b29ac436c848b99bb"
+    },
+    {
+      "file": "Corridor_Display_Hall/Native_Hybrid_Media_Reapplication_QA.json",
+      "bytes": 1957,
+      "sha256": "e64dd06dd4fe5053b29db99e63f2f54d3c1cdaf3058eb5fdf7edf1b2450f6480"
+    },
+    {
+      "file": "Corridor_Display_Hall/Room_Highlight_World_Mapping_QA.json",
+      "bytes": 1378,
+      "sha256": "df7991cdab18cf40c5ebc40127afe2a71d80ec00c88c05ff4ee7c06f631332ef"
+    },
+    {
+      "file": "Corridor_Display_Hall/Corridor_Display_Hall_Paginated_Gym_Mapped_1024_Viewing_Preview_H04_Bright_SameHue.mp4",
+      "bytes": 265153,
+      "sha256": "bed139916accdcbdad7a505a916f3587c82c28842ebde5d9ab37c19fcec6ff9f"
+    },
+    {
+      "file": "Corridor_Display_Hall/Corridor_Display_Hall_Paginated_Page_01_Atlas_8192.png",
+      "bytes": 462737,
+      "sha256": "2a5cd1c44a18063652c16d3f980a89992a51d2f54ae06ad52cf2994b3de06a4a"
+    },
+    {
+      "file": "Corridor_Display_Hall/Corridor_Display_Hall_Paginated_Page_01_Native_Mapped_Preview.png",
+      "bytes": 2337447,
+      "sha256": "284dbb063fa9e9fde65279f090340cd09a0cf41ac6c0ba4f5a87dc2e1f80ea92"
+    },
+    {
+      "file": "Corridor_Display_Hall/Corridor_Display_Hall_Page_01_Mapped_1024_Viewing.png",
+      "bytes": 300932,
+      "sha256": "c6e37b5f059aa5443289d26507a96c49f18d1edb9cc7478d91ad84f9b49b79cb"
+    },
+    {
+      "file": "Corridor_Display_Hall/Corridor_Display_Hall_Paginated_Page_02_Atlas_8192.png",
+      "bytes": 519168,
+      "sha256": "24e35998897cf090458ec713bb186e8d392b87243aabe745cb63dad6f2099a62"
+    },
+    {
+      "file": "Corridor_Display_Hall/Corridor_Display_Hall_Paginated_Page_02_Native_Mapped_Preview.png",
+      "bytes": 2428852,
+      "sha256": "2382de4007bfcf945861d0ae78f956a1eebf605377e9800017ab685de08137b6"
+    },
+    {
+      "file": "Corridor_Display_Hall/Corridor_Display_Hall_Page_02_Mapped_1024_Viewing.png",
+      "bytes": 330565,
+      "sha256": "860408e57f1418f13d309ed19b6d0df1838a2cac0f37d770d5acd2f64afca5d2"
+    },
+    {
+      "file": "Innovation_Lab/Pagination_QA.json",
+      "bytes": 7654,
+      "sha256": "c3a98e35153b5203b4c117c4274a6c17fcfa1c566cfe6ad8d1bbd727b1b68696"
+    },
+    {
+      "file": "Innovation_Lab/Compact_Mapped_Preview_QA.json",
+      "bytes": 1016,
+      "sha256": "de2d524309b21a962964b331d95226c2e082666d2d23db9fdf184cd39a0c4037"
+    },
+    {
+      "file": "Innovation_Lab/Native_Hybrid_Media_Reapplication_QA.json",
+      "bytes": 1929,
+      "sha256": "d202fab15154646dde5deb6edaba674710b1f978fbaeb86e532e74bf472ff754"
+    },
+    {
+      "file": "Innovation_Lab/Room_Highlight_World_Mapping_QA.json",
+      "bytes": 1368,
+      "sha256": "fefcb8cdbf06dccd214739147cd69cf108f72b1848c5cdcf62f5740cc5c38bda"
+    },
+    {
+      "file": "Innovation_Lab/Innovation_Lab_Paginated_Gym_Mapped_1024_Viewing_Preview_H04_Bright_SameHue.mp4",
+      "bytes": 278510,
+      "sha256": "181641f6102db8ee669f8aceef9fd3d8673790a403a8f4fa38088addb974c5dc"
+    },
+    {
+      "file": "Innovation_Lab/Innovation_Lab_Paginated_Page_01_Atlas_8192.png",
+      "bytes": 689486,
+      "sha256": "36576c3e0eb926f8f43927c81453b5477f49453ddff9e8cd1ef56b54823075d2"
+    },
+    {
+      "file": "Innovation_Lab/Innovation_Lab_Paginated_Page_01_Native_Mapped_Preview.png",
+      "bytes": 2392852,
+      "sha256": "147c5ccfdea85855f966ff4992117548a22873b1b7c0f73653cf848f42df4d1b"
+    },
+    {
+      "file": "Innovation_Lab/Innovation_Lab_Page_01_Mapped_1024_Viewing.png",
+      "bytes": 327051,
+      "sha256": "bb9fb98eedfc46215e68ee7b29ba7502086901c8dbc3abeeb441be997afaae9e"
+    },
+    {
+      "file": "Innovation_Lab/Innovation_Lab_Paginated_Page_02_Atlas_8192.png",
+      "bytes": 714412,
+      "sha256": "edca1c65e8c5f6cf1344a91a553f914a9fd6e5f135fe4dc69d7999f236706d6c"
+    },
+    {
+      "file": "Innovation_Lab/Innovation_Lab_Paginated_Page_02_Native_Mapped_Preview.png",
+      "bytes": 2418970,
+      "sha256": "76e5eaee4509d71bd6577a555acfe2f264485ecce8b18c3c90880290e2995bd8"
+    },
+    {
+      "file": "Innovation_Lab/Innovation_Lab_Page_02_Mapped_1024_Viewing.png",
+      "bytes": 335042,
+      "sha256": "64fa24ab895a30a8d9074925e1733698e6cc4c274fe9037dd759e7138c43632c"
+    },
+    {
+      "file": "ASPIRE_Seminar_Room/Pagination_QA.json",
+      "bytes": 9502,
+      "sha256": "d73a82827fc976d82f2bc5847561305fc388a7b5cdba487cfbef58953f81501d"
+    },
+    {
+      "file": "ASPIRE_Seminar_Room/Compact_Mapped_Preview_QA.json",
+      "bytes": 1021,
+      "sha256": "11e128c22e120cce204b0438d78d680bac400ca714640b010b716189cbf15f41"
+    },
+    {
+      "file": "ASPIRE_Seminar_Room/Native_Hybrid_Media_Reapplication_QA.json",
+      "bytes": 2213,
+      "sha256": "1a035c8d411087ed72944b473bf38df129bd309a33935c300ad6479df0ea3aea"
+    },
+    {
+      "file": "ASPIRE_Seminar_Room/Room_Highlight_World_Mapping_QA.json",
+      "bytes": 1373,
+      "sha256": "656a05925037e08fb92d874ebc4536d21c62a7fd439d21a32d27068a5d875a1d"
+    },
+    {
+      "file": "ASPIRE_Seminar_Room/ASPIRE_Seminar_Room_Paginated_Gym_Mapped_1024_Viewing_Preview_H04_Bright_SameHue.mp4",
+      "bytes": 384135,
+      "sha256": "4299c892558e1c0e29fc52419598385f8e4bc3b6b8dcd9f879e60f6d10965c5a"
+    },
+    {
+      "file": "ASPIRE_Seminar_Room/ASPIRE_Seminar_Room_Paginated_Page_01_Atlas_8192.png",
+      "bytes": 477236,
+      "sha256": "1de0c5f50ee7354e4966c53b8ea473f80a868b6879001cee7caa75903d9f933d"
+    },
+    {
+      "file": "ASPIRE_Seminar_Room/ASPIRE_Seminar_Room_Paginated_Page_01_Native_Mapped_Preview.png",
+      "bytes": 2311164,
+      "sha256": "eeb644fb2f8aaf096e9d9af6de6436e98e1bf594bb73164cb32698cd05505044"
+    },
+    {
+      "file": "ASPIRE_Seminar_Room/ASPIRE_Seminar_Room_Page_01_Mapped_1024_Viewing.png",
+      "bytes": 301016,
+      "sha256": "ea797b1b47d1f1deecad4a081f161aff1737645b0ec3556936ff2af5f5522d72"
+    },
+    {
+      "file": "ASPIRE_Seminar_Room/ASPIRE_Seminar_Room_Paginated_Page_02_Atlas_8192.png",
+      "bytes": 470124,
+      "sha256": "7a858ab9b215fc835bf01be91645d9b76ec23f961204ada7e0dd974125bbb9a8"
+    },
+    {
+      "file": "ASPIRE_Seminar_Room/ASPIRE_Seminar_Room_Paginated_Page_02_Native_Mapped_Preview.png",
+      "bytes": 2296168,
+      "sha256": "33b48064c06ec5919570d6c8fcbfa2e6cc2a974018ede48cb54fd26cea582cf5"
+    },
+    {
+      "file": "ASPIRE_Seminar_Room/ASPIRE_Seminar_Room_Page_02_Mapped_1024_Viewing.png",
+      "bytes": 295787,
+      "sha256": "758fa901f5cbb3ec36b9756c9d0c15653d993e66f8d5cef8eedf18085930b758"
+    },
+    {
+      "file": "ASPIRE_Seminar_Room/ASPIRE_Seminar_Room_Paginated_Page_03_Atlas_8192.png",
+      "bytes": 499102,
+      "sha256": "7de496a1247fa3ebbd003bf5631b4d5fd762b38ede8bb465e50aee3131e5ffa0"
+    },
+    {
+      "file": "ASPIRE_Seminar_Room/ASPIRE_Seminar_Room_Paginated_Page_03_Native_Mapped_Preview.png",
+      "bytes": 2344018,
+      "sha256": "85c925092c1b84e51e8b14123a77d50bd04b8c9c7a92a77a5dc638ef33828f72"
+    },
+    {
+      "file": "ASPIRE_Seminar_Room/ASPIRE_Seminar_Room_Page_03_Mapped_1024_Viewing.png",
+      "bytes": 313299,
+      "sha256": "050bd8f36a6c218adeebd63f0af903bec2ac0c9ff9011b0f3dc9d6a9e68b9dc8"
+    },
+    {
+      "file": "Collaboration_Room/Pagination_QA.json",
+      "bytes": 7509,
+      "sha256": "1ee892904912bd2b809a110a960949de2134230359dc1fecf7ff04c1ef67350d"
+    },
+    {
+      "file": "Collaboration_Room/Compact_Mapped_Preview_QA.json",
+      "bytes": 1020,
+      "sha256": "090a530d2bba2b376ad818c0c5ed60bc858aa61e25ef1a556e3e17298bf13c2f"
+    },
+    {
+      "file": "Collaboration_Room/Native_Hybrid_Media_Reapplication_QA.json",
+      "bytes": 1945,
+      "sha256": "0697bdda7574beb085c984487b2081b94595f58f666a19c6a281cf9711e71328"
+    },
+    {
+      "file": "Collaboration_Room/Room_Highlight_World_Mapping_QA.json",
+      "bytes": 1372,
+      "sha256": "cba8fe6aa8eceb99247ae95dfb0cfd1649c0ee0cfe700ddceddf7c506e6eea2b"
+    },
+    {
+      "file": "Collaboration_Room/Collaboration_Room_Paginated_Gym_Mapped_1024_Viewing_Preview_H04_Bright_SameHue.mp4",
+      "bytes": 271289,
+      "sha256": "3df58cfb0f5b5cddb5f58ab556792253a02419892ac12677687399f7d314a9a6"
+    },
+    {
+      "file": "Collaboration_Room/Collaboration_Room_Paginated_Page_01_Atlas_8192.png",
+      "bytes": 457351,
+      "sha256": "df5a6ae0dfb2c0615f66ead2831e830cec539aff189225c7b0325196b58c2848"
+    },
+    {
+      "file": "Collaboration_Room/Collaboration_Room_Paginated_Page_01_Native_Mapped_Preview.png",
+      "bytes": 2301715,
+      "sha256": "02d2e3634c281eec43263f1295b10a147690907169eade4c79d6bade7df0878a"
+    },
+    {
+      "file": "Collaboration_Room/Collaboration_Room_Page_01_Mapped_1024_Viewing.png",
+      "bytes": 297923,
+      "sha256": "d476489a74b53f95d54d3f24cf4b23da79422f9939814c4f3c5c6ba02bc56117"
+    },
+    {
+      "file": "Collaboration_Room/Collaboration_Room_Paginated_Page_02_Atlas_8192.png",
+      "bytes": 496472,
+      "sha256": "c52f3ebb48748d600c228e1dabe439b2f5863a76319071990b65182e4b644741"
+    },
+    {
+      "file": "Collaboration_Room/Collaboration_Room_Paginated_Page_02_Native_Mapped_Preview.png",
+      "bytes": 2366861,
+      "sha256": "aa4a3cf8e68c2ccb0c2d0ac908da39fabcdfda723d3ece7848b566bd8f61a4a5"
+    },
+    {
+      "file": "Collaboration_Room/Collaboration_Room_Page_02_Mapped_1024_Viewing.png",
+      "bytes": 319614,
+      "sha256": "df31d603383bf9f2138537648843f844bbd42a040c66a956ab373aae3972da0e"
+    },
+    {
+      "file": "Trophy_Hall_Corridor/Pagination_QA.json",
+      "bytes": 7255,
+      "sha256": "7c0dbf64cd043a566feb605e8ffa4cc8356be3ebfc28c02bb054e631fff56997"
+    },
+    {
+      "file": "Trophy_Hall_Corridor/Compact_Mapped_Preview_QA.json",
+      "bytes": 1022,
+      "sha256": "69273c091bc211b5c3e1f5584f92c587b1c2cd3cda398578e9ac96502c1bfa71"
+    },
+    {
+      "file": "Trophy_Hall_Corridor/Native_Hybrid_Media_Reapplication_QA.json",
+      "bytes": 1953,
+      "sha256": "9399b9b2e5d798bf3cb00b3839676f85b9c6371059643bad0debe8da898763fd"
+    },
+    {
+      "file": "Trophy_Hall_Corridor/Room_Highlight_World_Mapping_QA.json",
+      "bytes": 1376,
+      "sha256": "96b9ee26f218444568e678f75197a821531d5898945944f788fec06902e31998"
+    },
+    {
+      "file": "Trophy_Hall_Corridor/Trophy_Hall_Corridor_Paginated_Gym_Mapped_1024_Viewing_Preview_H04_Bright_SameHue.mp4",
+      "bytes": 255306,
+      "sha256": "bfe0605392f54a8972a7362048b0583cae6117a707362dfc6f14cdcb4482e5d9"
+    },
+    {
+      "file": "Trophy_Hall_Corridor/Trophy_Hall_Corridor_Paginated_Page_01_Atlas_8192.png",
+      "bytes": 337079,
+      "sha256": "6ae54d3bcb1e2fd6260c168fdaf3a60d289f762c703cd784421bf20dd8b55a16"
+    },
+    {
+      "file": "Trophy_Hall_Corridor/Trophy_Hall_Corridor_Paginated_Page_01_Native_Mapped_Preview.png",
+      "bytes": 2275938,
+      "sha256": "0fa2750750ee490263057bc87c915ff75cc4d7d482604a924e414ac65668ff63"
+    },
+    {
+      "file": "Trophy_Hall_Corridor/Trophy_Hall_Corridor_Page_01_Mapped_1024_Viewing.png",
+      "bytes": 295623,
+      "sha256": "de1d1338640bd3fb8c896951cf1af710e2aa7a226eb94937847aef47333832fb"
+    },
+    {
+      "file": "Trophy_Hall_Corridor/Trophy_Hall_Corridor_Paginated_Page_02_Atlas_8192.png",
+      "bytes": 352072,
+      "sha256": "0d26badc9968a1395d0f40c881ff20f7ee98c5a5fb3b83153fe3d3f9755d7ce4"
+    },
+    {
+      "file": "Trophy_Hall_Corridor/Trophy_Hall_Corridor_Paginated_Page_02_Native_Mapped_Preview.png",
+      "bytes": 2293768,
+      "sha256": "a7059c36a6fbdf57c4902c0322be1f7ba7d412f2aa6885be3c86c80412bacc7e"
+    },
+    {
+      "file": "Trophy_Hall_Corridor/Trophy_Hall_Corridor_Page_02_Mapped_1024_Viewing.png",
+      "bytes": 302159,
+      "sha256": "4f85621b9cb45203622a6205237b417246f590dbadfbf049abc5088ee3850917"
+    },
+    {
+      "file": "Athletics_Office/Pagination_QA.json",
+      "bytes": 7202,
+      "sha256": "ad3fa92acb712f8950b298773810f5b636a771ee3d4b4bc80f2f5a7829aa3828"
+    },
+    {
+      "file": "Athletics_Office/Compact_Mapped_Preview_QA.json",
+      "bytes": 1018,
+      "sha256": "dc78e8ddd5b0e344ada386292f0f743975b937b8bd37be404e8f69fff16e82ac"
+    },
+    {
+      "file": "Athletics_Office/Native_Hybrid_Media_Reapplication_QA.json",
+      "bytes": 1937,
+      "sha256": "4a150172de7086bc94735a8bd809f1f850de2184cbb61d4e07834c88f2815b09"
+    },
+    {
+      "file": "Athletics_Office/Room_Highlight_World_Mapping_QA.json",
+      "bytes": 1370,
+      "sha256": "3460ad2c5edfece9532b197661f88739391ff81bdb5ff24d05ace7cd1b84800c"
+    },
+    {
+      "file": "Athletics_Office/Athletics_Office_Paginated_Gym_Mapped_1024_Viewing_Preview_H04_Bright_SameHue.mp4",
+      "bytes": 254026,
+      "sha256": "b6b674520907451997906ebb45f5f4188f163f988cffb611b14fd361a441bef7"
+    },
+    {
+      "file": "Athletics_Office/Athletics_Office_Paginated_Page_01_Atlas_8192.png",
+      "bytes": 410803,
+      "sha256": "8142b1e156d28476bc826131ca190322728ec94a9d4f97e4d3b1723a3b011acd"
+    },
+    {
+      "file": "Athletics_Office/Athletics_Office_Paginated_Page_01_Native_Mapped_Preview.png",
+      "bytes": 2265368,
+      "sha256": "345d17904a62842ac5122f28902165d3aec2bc9d7723cf3128810f9563e15595"
+    },
+    {
+      "file": "Athletics_Office/Athletics_Office_Page_01_Mapped_1024_Viewing.png",
+      "bytes": 297538,
+      "sha256": "a70286224522e475c77abde0ae6af433a6e20b28133fb9ad584bdff876084143"
+    },
+    {
+      "file": "Athletics_Office/Athletics_Office_Paginated_Page_02_Atlas_8192.png",
+      "bytes": 424293,
+      "sha256": "a44f2134e06b2aadb65a47b5a7b05af25717ad19634dcdf9ecb0e12f13ad3d07"
+    },
+    {
+      "file": "Athletics_Office/Athletics_Office_Paginated_Page_02_Native_Mapped_Preview.png",
+      "bytes": 2278674,
+      "sha256": "fe44f4a7834fded2d45ea9d103f835fda777f4de1450f4f94ecb4b4bc43291f1"
+    },
+    {
+      "file": "Athletics_Office/Athletics_Office_Page_02_Mapped_1024_Viewing.png",
+      "bytes": 301786,
+      "sha256": "4b9daec8d643a3ab98a2e4aa498f6ac803e90e4f0a2b7bded04068d3de68c29d"
+    },
+    {
+      "file": "Athletics_Trainers_Room/Pagination_QA.json",
+      "bytes": 7404,
+      "sha256": "4c81edc0bbfd12f2e5c86a236e9f7c5333d9640a0f3541a8eb25c2cc521f59ff"
+    },
+    {
+      "file": "Athletics_Trainers_Room/Compact_Mapped_Preview_QA.json",
+      "bytes": 1025,
+      "sha256": "90517b93c0feb94fff40494d0fa8e91750c955e43f0b5427b7ab01af1ec57b37"
+    },
+    {
+      "file": "Athletics_Trainers_Room/Native_Hybrid_Media_Reapplication_QA.json",
+      "bytes": 1965,
+      "sha256": "09aec0d9d0a4bc5549a98aa02cca0590632eb4607f2ef5f64ed6f1c5c7fd85fe"
+    },
+    {
+      "file": "Athletics_Trainers_Room/Room_Highlight_World_Mapping_QA.json",
+      "bytes": 1383,
+      "sha256": "42940f0e1eb11f8b10d5c75d1c8a5222c2335724cfecf2742abb71663e17ba77"
+    },
+    {
+      "file": "Athletics_Trainers_Room/Athletics_Trainers_Room_Paginated_Gym_Mapped_1024_Viewing_Preview_H04_Bright_SameHue.mp4",
+      "bytes": 256526,
+      "sha256": "1b6fbc2ae7277d7b57c124557fc689cee4bdb3acbddb6eaa82813dd369541510"
+    },
+    {
+      "file": "Athletics_Trainers_Room/Athletics_Trainers_Room_Paginated_Page_01_Atlas_8192.png",
+      "bytes": 364046,
+      "sha256": "d37804ca4fb8f25f0e4c2228175f83f38145573b67db184b2a75dd5d8a8b2f91"
+    },
+    {
+      "file": "Athletics_Trainers_Room/Athletics_Trainers_Room_Paginated_Page_01_Native_Mapped_Preview.png",
+      "bytes": 2273656,
+      "sha256": "2138daa64c789c0781a95469928fb0511ae5a19778378d0d8c98c470d443e83a"
+    },
+    {
+      "file": "Athletics_Trainers_Room/Athletics_Trainers_Room_Page_01_Mapped_1024_Viewing.png",
+      "bytes": 300651,
+      "sha256": "9f086834421bb67e3eeffeae35bbed7c9513414fe1761aecd8aa5d6dc588ca36"
+    },
+    {
+      "file": "Athletics_Trainers_Room/Athletics_Trainers_Room_Paginated_Page_02_Atlas_8192.png",
+      "bytes": 380737,
+      "sha256": "602b38c4c53ea9a65b26256684e2e460b39b6289104d0d8b2139acc08fc9194b"
+    },
+    {
+      "file": "Athletics_Trainers_Room/Athletics_Trainers_Room_Paginated_Page_02_Native_Mapped_Preview.png",
+      "bytes": 2297994,
+      "sha256": "6ea228e3f232b1b23d0c414e45f1d7060437e69d8e60f4f39b8680b282e1abb9"
+    },
+    {
+      "file": "Athletics_Trainers_Room/Athletics_Trainers_Room_Page_02_Mapped_1024_Viewing.png",
+      "bytes": 308080,
+      "sha256": "fa191f01044261ac7c7c065c0956c10356cfed334e099463e3994709b2369520"
+    },
+    {
+      "file": "Gym/Pagination_QA.json",
+      "bytes": 8738,
+      "sha256": "5bb9cafbc96c8a9f56626683ccff141f82f050b81b38ac3649ca84268ed20a8b"
+    },
+    {
+      "file": "Gym/Compact_Mapped_Preview_QA.json",
+      "bytes": 1005,
+      "sha256": "da52b7cfe2ac2b376a7adea440b02724269f98e87cc044a4d8019d9f40b0c847"
+    },
+    {
+      "file": "Gym/Native_Hybrid_Media_Reapplication_QA.json",
+      "bytes": 2117,
+      "sha256": "88d30b01ccef000fd2d313be023d960268e045e092016491245f0199e4562d26"
+    },
+    {
+      "file": "Gym/Room_Highlight_World_Mapping_QA.json",
+      "bytes": 1358,
+      "sha256": "31bc870318cdc5bdfef42df205142805281bb49ec05fa8725ba6bc4e5ff9bc10"
+    },
+    {
+      "file": "Gym/Gym_Paginated_Gym_Mapped_1024_Viewing_Preview_H04_Bright_SameHue.mp4",
+      "bytes": 364443,
+      "sha256": "bb1ad6eeeee14750228f5906ebd3cd91424601f35a3a477d00e19a71043067c9"
+    },
+    {
+      "file": "Gym/Gym_Paginated_Page_01_Atlas_8192.png",
+      "bytes": 342320,
+      "sha256": "1eb2f50a9fbc28d58b0700101cd354e1690b61206cbd0852f6c4fb73b2306c68"
+    },
+    {
+      "file": "Gym/Gym_Paginated_Page_01_Native_Mapped_Preview.png",
+      "bytes": 2313700,
+      "sha256": "98545df932f6a33b77c7b142797227fa74679ee0397365197c2f96d7c114d0de"
+    },
+    {
+      "file": "Gym/Gym_Page_01_Mapped_1024_Viewing.png",
+      "bytes": 301137,
+      "sha256": "87a8d50ba1ab22e9eee9916a2415ff1ec783e13f976eebef4d76d37abe00a5c4"
+    },
+    {
+      "file": "Gym/Gym_Paginated_Page_02_Atlas_8192.png",
+      "bytes": 345934,
+      "sha256": "2fc93e343e8af59650b34f5b211c0f516f3328b9383ecc7b24c64ee91371130a"
+    },
+    {
+      "file": "Gym/Gym_Paginated_Page_02_Native_Mapped_Preview.png",
+      "bytes": 2314586,
+      "sha256": "85964475b998bc5fadb973bba927f6aa5a1de85d9044d6f842bbf23a3f9812d4"
+    },
+    {
+      "file": "Gym/Gym_Page_02_Mapped_1024_Viewing.png",
+      "bytes": 301921,
+      "sha256": "cbb5489174a82ebf1430193efa5d26b60fcdfae7befb31f23ef10164f2011e3c"
+    },
+    {
+      "file": "Gym/Gym_Paginated_Page_03_Atlas_8192.png",
+      "bytes": 342148,
+      "sha256": "c7f23b9fd876982ee4b8d4affad7793f8d6c4d1e5dcf04127cdc23f1f1035b27"
+    },
+    {
+      "file": "Gym/Gym_Paginated_Page_03_Native_Mapped_Preview.png",
+      "bytes": 2308822,
+      "sha256": "1dd8512b84c186e2985421a74d9585c63ff2dafaa3ac16ae0ebfeb1b442e0c04"
+    },
+    {
+      "file": "Gym/Gym_Page_03_Mapped_1024_Viewing.png",
+      "bytes": 300205,
+      "sha256": "28fbd1d1eb8e1d818617cd2157d80db40f0eb6a4583b7db99f91356a341639a4"
+    },
+    {
+      "file": "HS01_World_Clipped_Receiver_Alpha_8192.png",
+      "bytes": 101401,
+      "sha256": "0a703b8fa02fd62701cab7f1de32c668707c0bd0f618fd43611ff3b153c32347"
+    },
+    {
+      "file": "HS02_World_Clipped_Receiver_Alpha_8192.png",
+      "bytes": 90095,
+      "sha256": "fbea377d8fa0e13658f001f39a52e0224930e6f8a7598fb7f6ddf397e5ec3534"
+    },
+    {
+      "file": "HS03_World_Clipped_Receiver_Alpha_8192.png",
+      "bytes": 271200,
+      "sha256": "04bbb152dbf48493c5a3cfe0f94b9c7a1b26c067452ded4731fd0aca2d0946f3"
+    },
+    {
+      "file": "HS04_World_Clipped_Receiver_Alpha_8192.png",
+      "bytes": 88189,
+      "sha256": "1d849a6ce3b92a2e26f7ac7055fa637b9eaafe3b53e0b8bcea49de241eb7cb11"
+    },
+    {
+      "file": "HS05_World_Clipped_Receiver_Alpha_8192.png",
+      "bytes": 119598,
+      "sha256": "e7b61e38a93f74649c054fb599283bc2f9148d3de11511aa0a26a59278ea80d9"
+    },
+    {
+      "file": "HS06_World_Clipped_Receiver_Alpha_8192.png",
+      "bytes": 129288,
+      "sha256": "c04161d4fe7ea5fddadab2a5a03157bd94f72ad0fc1b767628f1f5a40376bc28"
+    },
+    {
+      "file": "HS07_World_Clipped_Receiver_Alpha_8192.png",
+      "bytes": 192319,
+      "sha256": "fe296c9d54d4268083357144ce3d30b88ca834ec572cb746c2350ac0d2052d7a"
+    },
+    {
+      "file": "HS08_World_Clipped_Receiver_Alpha_8192.png",
+      "bytes": 124255,
+      "sha256": "79433732257137d186ab1e05802ed9d1f4e0d893ce93e60ef4fa94dfb383052f"
+    },
+    {
+      "file": "HS09_World_Clipped_Receiver_Alpha_8192.png",
+      "bytes": 120323,
+      "sha256": "9ca031059e13072eb09f13d0b9620aed499322a482c0fe62f72949e6dac11c7b"
+    },
+    {
+      "file": "HS10_World_Clipped_Receiver_Alpha_8192.png",
+      "bytes": 77897,
+      "sha256": "ab0fd663d9455c3f4e2fdf03d4de38822c88124a6654e875f74ee31487b7926a"
+    },
+    {
+      "file": "HS11_World_Clipped_Receiver_Alpha_8192.png",
+      "bytes": 111249,
+      "sha256": "1d60a84eaff347c8bafabf4131ad38feead8d31bea2f7d7d1afd09c9eb66bd67"
+    },
+    {
+      "file": "HS12_World_Clipped_Receiver_Alpha_8192.png",
+      "bytes": 85058,
+      "sha256": "6182e83b7db795923401332e6db1cae9ceebd9e7efd9cfae6c18a9141036bb0e"
+    },
+    {
+      "file": "HS13_World_Clipped_Receiver_Alpha_8192.png",
+      "bytes": 91720,
+      "sha256": "cd6188504f1fa37386796868db09a326fbca91602cffdae47bc128269d4a9587"
+    },
+    {
+      "file": "H04_All_Stop_Media_QA.json",
+      "bytes": 27344,
+      "sha256": "9e203b47abe6bbf0e5e3f5f0e0c8f279d693fa8b27303c0006654af7121dda87"
+    },
+    {
+      "file": "Actual_Surface_Colour_And_Coverage_QA.json",
+      "bytes": 13473,
+      "sha256": "755bbcef3ae050ed9676d78339826d45251b139d45c760c69ef1e25e8fb25494"
+    },
+    {
+      "file": "Fireplace_And_Furniture_Colour_Cause_QA.json",
+      "bytes": 13839,
+      "sha256": "7c5dae295b808c94a459d6b5a2416c6b34e025fdc86f5d862f00809b6cd207db"
+    },
+    {
+      "file": "Source_And_H03_Preservation_QA.json",
+      "bytes": 1144,
+      "sha256": "f528ee614bcb395244ec6232a7ed173c95aa4d3d402544649ab3c53def3c7f4e"
+    },
+    {
+      "file": "World_Clipped_Mask_Manifest.json",
+      "bytes": 20520,
+      "sha256": "f5076e14124a37ed305da28677e9a4f5f91d2fdcb09f215bbe9af1039fbfd3f8"
+    },
+    {
+      "file": "Room_Identity_And_Boundary_Limitations.json",
+      "bytes": 2886,
+      "sha256": "98a9ae58901d4c6790fb2a13ee89afb938290ec73d8b9614f609efdae8b777a7"
+    },
+    {
+      "file": "Balanced_Continuation_Page_QA.json",
+      "bytes": 1112,
+      "sha256": "5f4c18cfa0efc8080998c08085b3d1e619593f173e83c82d4e51189852b64a9e"
+    },
+    {
+      "file": "H04_Mask_And_Fireplace_Contract.json",
+      "bytes": 659,
+      "sha256": "868d2ed519f29190dd3d4855af9644a3d56865a469461480fce5b2e67cf9b595"
+    },
+    {
+      "file": "Tour_Playback_And_Registration_Manifest.json",
+      "bytes": 11912,
+      "sha256": "0269d1b79a36f041d80ffee31addaa48a97fddafcb90b4277ea783df67ec35a4"
+    },
+    {
+      "file": "README_Final_Tour.txt",
+      "bytes": 2291,
+      "sha256": "c5e6bee20826acab7046857d09e617920c15c8333c71ab9893ed94010b9881b0"
+    },
+    {
+      "file": "Review_Sheets/Admissions_Office_Actual_Encoded_Overview_Caption_And_Room_Review.png",
+      "bytes": 160368,
+      "sha256": "25ef1525dd6f077a6591152e62379651b1d4e008a16fad41919d1532f08c3c8a"
+    },
+    {
+      "file": "Review_Sheets/Admissions_Office_Combined_Caption_And_Room_Review.png",
+      "bytes": 649325,
+      "sha256": "89348fa7c28f8cb24d3668f5b2929b4a7cf650ea477a9db5243b1538989755d5"
+    },
+    {
+      "file": "Review_Sheets/Admissions_Office_Fireplace_Actual_Native_Crop.png",
+      "bytes": 1789,
+      "sha256": "0a33885743ebec8f7d2a8b7148b6e25382e84e6ffad313a4a88279c709e0b115"
+    },
+    {
+      "file": "Review_Sheets/Admissions_Office_H03_H04_Room_Comparison.png",
+      "bytes": 42599,
+      "sha256": "0eaf5b716d0f5bfd5040da93605d08e82e5448ff69d3a1cd3ea6b8a0ac8b6f77"
+    },
+    {
+      "file": "Review_Sheets/ASPIRE_Seminar_Room_Actual_Encoded_Overview_Caption_And_Room_Review.png",
+      "bytes": 187535,
+      "sha256": "8551a3c2fcc382cba815ea5d524c37fd072b3df8c6abd6b6a3495f9cf22423b7"
+    },
+    {
+      "file": "Review_Sheets/ASPIRE_Seminar_Room_Combined_Caption_And_Room_Review.png",
+      "bytes": 733392,
+      "sha256": "2ffa64559c451e9772e93e5612edb4010a9ab726404e1ab555c2e253d41e01fb"
+    },
+    {
+      "file": "Review_Sheets/ASPIRE_Seminar_Room_Fireplace_Actual_Native_Crop.png",
+      "bytes": 1783,
+      "sha256": "f68a77dfbb4ed72f0b14f5b240cc26ffd6038a7bc24b865175109c464e1cdad0"
+    },
+    {
+      "file": "Review_Sheets/ASPIRE_Seminar_Room_H03_H04_Room_Comparison.png",
+      "bytes": 89692,
+      "sha256": "67338e76858309d2c480918560fa3cd70b3af526ef66bdf8ae60f692cbbdd04d"
+    },
+    {
+      "file": "Review_Sheets/Athletics_Office_Actual_Encoded_Overview_Caption_And_Room_Review.png",
+      "bytes": 127575,
+      "sha256": "6a21009c28c0409fdcc6d09c4f62049d1ace2a6a9affc043c47d10aaf1b108b5"
+    },
+    {
+      "file": "Review_Sheets/Athletics_Office_Combined_Caption_And_Room_Review.png",
+      "bytes": 529695,
+      "sha256": "3f9718b1754aae2b78cfebb9e4288a38fddab5c1f90f64774d1c770e52af86b2"
+    },
+    {
+      "file": "Review_Sheets/Athletics_Office_Fireplace_Actual_Native_Crop.png",
+      "bytes": 1785,
+      "sha256": "3532ce4e5d8cc13a6c965fb52a6850b64d79ce35950a77d1c2ab8812b4badf98"
+    },
+    {
+      "file": "Review_Sheets/Athletics_Office_H03_H04_Room_Comparison.png",
+      "bytes": 83477,
+      "sha256": "49a37d38934ef551e03c3d66c650be1f84a392704c53ed8d691491d7b891ae58"
+    },
+    {
+      "file": "Review_Sheets/Athletics_Trainers_Room_Actual_Encoded_Overview_Caption_And_Room_Review.png",
+      "bytes": 138217,
+      "sha256": "666d9a62da2e79ecae9cd95a817a4bca2ccc5fd052e468df72b4f31fa617c019"
+    },
+    {
+      "file": "Review_Sheets/Athletics_Trainers_Room_Combined_Caption_And_Room_Review.png",
+      "bytes": 565044,
+      "sha256": "9aa063ddf5e3567909fc84859cb1a2471c91d54d5c81c62538983c1617e5ac09"
+    },
+    {
+      "file": "Review_Sheets/Athletics_Trainers_Room_Fireplace_Actual_Native_Crop.png",
+      "bytes": 1784,
+      "sha256": "a8a34680ef2540299466a5cd399c5549cd200906d12b8b3b540f4363b675ae97"
+    },
+    {
+      "file": "Review_Sheets/Athletics_Trainers_Room_H03_H04_Room_Comparison.png",
+      "bytes": 72360,
+      "sha256": "aa4ce0d61174414b1d3e2df991610697f6182c62d32a229aaed4db13e9acc242"
+    },
+    {
+      "file": "Review_Sheets/Cafe_First_Page_Actual_Decoded_Viewing.png",
+      "bytes": 232603,
+      "sha256": "62d2afb7b3c437c631e3a18482598554afcff53025abae011aeb67adda3c223c"
+    },
+    {
+      "file": "Review_Sheets/Collaboration_Room_Actual_Encoded_Overview_Caption_And_Room_Review.png",
+      "bytes": 143669,
+      "sha256": "b58dca1871460b54907307e083b8991d9bc721f0ce863736023d5d1966191414"
+    },
+    {
+      "file": "Review_Sheets/Collaboration_Room_Combined_Caption_And_Room_Review.png",
+      "bytes": 596003,
+      "sha256": "21fb6fb8cc02cd22d9c3000a8a514b61e0368ebd592e04d7b0a2b700fda3c2e6"
+    },
+    {
+      "file": "Review_Sheets/Collaboration_Room_Fireplace_Actual_Native_Crop.png",
+      "bytes": 1789,
+      "sha256": "0a33885743ebec8f7d2a8b7148b6e25382e84e6ffad313a4a88279c709e0b115"
+    },
+    {
+      "file": "Review_Sheets/Collaboration_Room_H03_H04_Room_Comparison.png",
+      "bytes": 82938,
+      "sha256": "e9a89b1577f4ba9b0d4fea8bd7da4fa7838da521a24b52ae875a4d926916ae6d"
+    },
+    {
+      "file": "Review_Sheets/Commons_First_Page_Actual_Decoded_Viewing.png",
+      "bytes": 307097,
+      "sha256": "4c6aecd94deadffb47f7cd84dce14293a371da687c4fc6cc76a3be5dbd2c2bbe"
+    },
+    {
+      "file": "Review_Sheets/Corridor_Display_Hall_Actual_Encoded_Overview_Caption_And_Room_Review.png",
+      "bytes": 139506,
+      "sha256": "d1084fb35309015252a78754b92fca80faf90ac42a97dc36d53e9e35cb54c1bb"
+    },
+    {
+      "file": "Review_Sheets/Corridor_Display_Hall_Combined_Caption_And_Room_Review.png",
+      "bytes": 637083,
+      "sha256": "2fdeef29dc4ddcf37d75b4d079d5a48f5f125f5ebb4cc26cfba4e414acc74eba"
+    },
+    {
+      "file": "Review_Sheets/Corridor_Display_Hall_Fireplace_Actual_Native_Crop.png",
+      "bytes": 1789,
+      "sha256": "542c170b65fdeb0da2097512ca6817756003f6db44051cee6a2bedc487faeab5"
+    },
+    {
+      "file": "Review_Sheets/Corridor_Display_Hall_H03_H04_Room_Comparison.png",
+      "bytes": 237423,
+      "sha256": "7eafe7c6b7ea1a1bc7e70408b747cef0c73fecb177bb915a652f28552133e847"
+    },
+    {
+      "file": "Review_Sheets/CRI_Gallery_Actual_Encoded_Overview_Caption_And_Room_Review.png",
+      "bytes": 136163,
+      "sha256": "515d9c12bef8f7a374e4df3ec363a6dd3f22129ddec5bbbda7727528aef74066"
+    },
+    {
+      "file": "Review_Sheets/CRI_Gallery_Combined_Caption_And_Room_Review.png",
+      "bytes": 606644,
+      "sha256": "4b8268d09bdd620f91798092fd59a6f4d1ab796eddbf5c005ab69905655f010e"
+    },
+    {
+      "file": "Review_Sheets/CRI_Gallery_Fireplace_Actual_Native_Crop.png",
+      "bytes": 1774,
+      "sha256": "2dd2292c241b459fa772eb15d7ce86f6dba62eae4632864198004bd925a8f238"
+    },
+    {
+      "file": "Review_Sheets/CRI_Gallery_H03_H04_Room_Comparison.png",
+      "bytes": 141701,
+      "sha256": "fdbff9f06089606c75960d7582d7add697ff2f995a91244c01c1749e160e1afa"
+    },
+    {
+      "file": "Review_Sheets/Entry_Reception_Actual_Encoded_Overview_Caption_And_Room_Review.png",
+      "bytes": 163642,
+      "sha256": "84e55ff5c59fa07c9d3fc4cb95abb909fc08eda281597e58cbf3bbb254bd61a1"
+    },
+    {
+      "file": "Review_Sheets/Entry_Reception_Combined_Caption_And_Room_Review.png",
+      "bytes": 649968,
+      "sha256": "4c90149d494bbec1ddb23c53b6b072d3d60e3a4ca4ba9b04e208b97056487607"
+    },
+    {
+      "file": "Review_Sheets/Entry_Reception_Fireplace_Actual_Native_Crop.png",
+      "bytes": 1789,
+      "sha256": "0a33885743ebec8f7d2a8b7148b6e25382e84e6ffad313a4a88279c709e0b115"
+    },
+    {
+      "file": "Review_Sheets/Entry_Reception_H03_H04_Room_Comparison.png",
+      "bytes": 82442,
+      "sha256": "da6f5d24408dd0d3f28fab3d06c8ab4122f85bef12cd918c5f9adb0de14d65fc"
+    },
+    {
+      "file": "Review_Sheets/Gym_Actual_Encoded_Overview_Caption_And_Room_Review.png",
+      "bytes": 203430,
+      "sha256": "2586c2367db69921807b059cede4f288e64d6276d437387b3d212666913091cd"
+    },
+    {
+      "file": "Review_Sheets/Gym_Combined_Caption_And_Room_Review.png",
+      "bytes": 1042743,
+      "sha256": "0a59f4609e72f6f22c8ed66d7d9359e6c7c95b5b427930c8673c337fd19aadc5"
+    },
+    {
+      "file": "Review_Sheets/Gym_Fireplace_Actual_Native_Crop.png",
+      "bytes": 1790,
+      "sha256": "be9cc54d9303e43d2d5ce366c86a33dae5e4eb74e31f676e2279e1ed49eab226"
+    },
+    {
+      "file": "Review_Sheets/Gym_H03_H04_Room_Comparison.png",
+      "bytes": 699331,
+      "sha256": "70c36ed369265999df2903ae97bfe140e94ca1572e1b9011ee07b8c4d0a2499d"
+    },
+    {
+      "file": "Review_Sheets/Innovation_Lab_Actual_Encoded_Overview_Caption_And_Room_Review.png",
+      "bytes": 166963,
+      "sha256": "6f88eee73530539c414b3205cebdc0245e9f082ef2f78154588895cabac8fde2"
+    },
+    {
+      "file": "Review_Sheets/Innovation_Lab_Combined_Caption_And_Room_Review.png",
+      "bytes": 672356,
+      "sha256": "ec044022e27072cee8dabb14636af833cae90bf57aae59dc62d3d428e62ee7ae"
+    },
+    {
+      "file": "Review_Sheets/Innovation_Lab_Fireplace_Actual_Native_Crop.png",
+      "bytes": 1786,
+      "sha256": "28497cee02c35756ae057090cb1e70ec558ecfc83b783cbd184d7f9f7c30c4a8"
+    },
+    {
+      "file": "Review_Sheets/Innovation_Lab_H03_H04_Room_Comparison.png",
+      "bytes": 227551,
+      "sha256": "c022a80816a9f6b3548fc7cc1c426519739471cca0e2f2cff8857ec08b60ce0e"
+    },
+    {
+      "file": "Review_Sheets/The_Cafe_Actual_Encoded_Overview_Caption_And_Room_Review.png",
+      "bytes": 124134,
+      "sha256": "86dd82d9d9dbc2d7b36985b6828fdbe6a17443235ac8d4f8574efe46474fef0a"
+    },
+    {
+      "file": "Review_Sheets/The_Cafe_Combined_Caption_And_Room_Review.png",
+      "bytes": 521559,
+      "sha256": "ce0e4b1cb4111c477b5b7e1f3688e26e75fb7fb2d3dbb7e95466878168672b88"
+    },
+    {
+      "file": "Review_Sheets/The_Cafe_Fireplace_Actual_Native_Crop.png",
+      "bytes": 1794,
+      "sha256": "6594ac16b8e43722b896b398c01a555fe24dffd1a2441193be76bb17b13a9a19"
+    },
+    {
+      "file": "Review_Sheets/The_Cafe_H03_H04_Room_Comparison.png",
+      "bytes": 54512,
+      "sha256": "d4a3ee080f989c9e1467c7e1faad1cb7fb6205f3d3b4e24472fb0d4acc58965d"
+    },
+    {
+      "file": "Review_Sheets/The_Student_Commons_Actual_Encoded_Overview_Caption_And_Room_Review.png",
+      "bytes": 178325,
+      "sha256": "18eea3df56ba72eb455a6ecad27254095cc2fdacbe564f767e84c8c23d3cf445"
+    },
+    {
+      "file": "Review_Sheets/The_Student_Commons_Combined_Caption_And_Room_Review.png",
+      "bytes": 734675,
+      "sha256": "d8b10472c819db48676ad3016e5c3fd9a5030581a4708306852898219f3e24f7"
+    },
+    {
+      "file": "Review_Sheets/The_Student_Commons_Fireplace_Actual_Native_Crop.png",
+      "bytes": 7361,
+      "sha256": "5ac52a156b7a03989e3e0744ce4a657aca49295ccc1146825be8025c3c5f129d"
+    },
+    {
+      "file": "Review_Sheets/The_Student_Commons_H03_H04_Room_Comparison.png",
+      "bytes": 433906,
+      "sha256": "5b1d34ae6cc52af377125531946802a3d52c340d589895e3bdae6700b8fff612"
+    },
+    {
+      "file": "Review_Sheets/Trophy_Hall_Corridor_Actual_Encoded_Overview_Caption_And_Room_Review.png",
+      "bytes": 128329,
+      "sha256": "b84ad6797f8c4e7938ebb9f85490c3390e4de56a5cdfedd6505572e4a8478515"
+    },
+    {
+      "file": "Review_Sheets/Trophy_Hall_Corridor_Combined_Caption_And_Room_Review.png",
+      "bytes": 552141,
+      "sha256": "3ae6bb84a1d2ada9250bc8ac859ae935c72a16a7e83c3ce1bc418b5ee0c63952"
+    },
+    {
+      "file": "Review_Sheets/Trophy_Hall_Corridor_Fireplace_Actual_Native_Crop.png",
+      "bytes": 1781,
+      "sha256": "586e902a28819d948f305c4d35330f826e052a754673ee62dbed3359a0ebc112"
+    },
+    {
+      "file": "Review_Sheets/Trophy_Hall_Corridor_H03_H04_Room_Comparison.png",
+      "bytes": 92717,
+      "sha256": "68dffb80d70b7c9740d34a03dfad2c986435021a737678dcea82ccfc1629c59c"
+    },
+    {
+      "file": "Review_Sheets/Visual_Review_Completion.json",
+      "bytes": 4734,
+      "sha256": "4d316dbf9267c76c942998cbefe80b4bd7c1f51141cff93615bc61f05e105582"
+    },
+    {
+      "file": "Mapped_Overview/Tour_H04_All13_30Pages_Mapped_1024_Overview.mp4",
+      "bytes": 3864050,
+      "sha256": "b7716201000a81666b2b20149b00a0b9d0b384b7ef7e11b6b77cd2fd8dc45da5"
+    },
+    {
+      "file": "Mapped_Overview/Mapped_Overview_QA.json",
+      "bytes": 19013,
+      "sha256": "8652dc52f1d52639e5aa81cbc354ed973093a81c209f08113468f02779e45557"
+    },
+    {
+      "file": "Mapped_Overview/Overview_Page_01_Actual_Decoded.png",
+      "bytes": 238661,
+      "sha256": "12b48d2e19bc45f504984d3d34da39e2844b3e5ce9204d51e58037acb38909e1"
+    },
+    {
+      "file": "Mapped_Overview/Overview_Page_02_Actual_Decoded.png",
+      "bytes": 233761,
+      "sha256": "bb35a5ea1290d75b83ac2b1f183b91e3d9031718cf74dee02c2a3875b193360f"
+    },
+    {
+      "file": "Mapped_Overview/Overview_Page_03_Actual_Decoded.png",
+      "bytes": 236301,
+      "sha256": "4d20ca3a3f1e86aadb6d8538990d11d993da58dc260a4b584953c43c77fea945"
+    },
+    {
+      "file": "Mapped_Overview/Overview_Page_04_Actual_Decoded.png",
+      "bytes": 232603,
+      "sha256": "62d2afb7b3c437c631e3a18482598554afcff53025abae011aeb67adda3c223c"
+    },
+    {
+      "file": "Mapped_Overview/Overview_Page_05_Actual_Decoded.png",
+      "bytes": 245731,
+      "sha256": "4b219f4cfc64808bda57f8d15cdd8adb3db9decc95dcd79716dcc7e7e9279e6c"
+    },
+    {
+      "file": "Mapped_Overview/Overview_Page_06_Actual_Decoded.png",
+      "bytes": 307097,
+      "sha256": "4c6aecd94deadffb47f7cd84dce14293a371da687c4fc6cc76a3be5dbd2c2bbe"
+    },
+    {
+      "file": "Mapped_Overview/Overview_Page_07_Actual_Decoded.png",
+      "bytes": 293676,
+      "sha256": "a40e3c7ced1d0b77a617a14d6fc7bbd995c175654c6b56e0da30924169cbad7e"
+    },
+    {
+      "file": "Mapped_Overview/Overview_Page_08_Actual_Decoded.png",
+      "bytes": 242640,
+      "sha256": "b0f20bdb6ea40db5c135d8480f8d1375e9f7e2b251e0b65555d7a8485d5f7944"
+    },
+    {
+      "file": "Mapped_Overview/Overview_Page_09_Actual_Decoded.png",
+      "bytes": 223340,
+      "sha256": "14be82e696f10e2771c4e5e2aa7a4369cdb44dabe77419d9c382d5f1db59376e"
+    },
+    {
+      "file": "Mapped_Overview/Overview_Page_10_Actual_Decoded.png",
+      "bytes": 229525,
+      "sha256": "1adcf556152d166ffbec7f748a727058090def83bc740e870b113335a06873a1"
+    },
+    {
+      "file": "Mapped_Overview/Overview_Page_11_Actual_Decoded.png",
+      "bytes": 243278,
+      "sha256": "e321659ac97a297a807c01bc43cfc11c473435886e97f0914aab668ed06e9f6f"
+    },
+    {
+      "file": "Mapped_Overview/Overview_Page_12_Actual_Decoded.png",
+      "bytes": 257009,
+      "sha256": "ab4b4ff2e64e11d4ab2d98e04d6ceef7dc9cbca4574537ec0279c4e71ae5e339"
+    },
+    {
+      "file": "Mapped_Overview/Overview_Page_13_Actual_Decoded.png",
+      "bytes": 242236,
+      "sha256": "c48202bce2c57893d7bb78d3b535af685fc38cdc4f7c9c2ae0430b6becf310a2"
+    },
+    {
+      "file": "Mapped_Overview/Overview_Page_14_Actual_Decoded.png",
+      "bytes": 270978,
+      "sha256": "32addd05050702170638877d4efe8840b9c7efe031a42c52f7237d05fb7de84a"
+    },
+    {
+      "file": "Mapped_Overview/Overview_Page_15_Actual_Decoded.png",
+      "bytes": 278653,
+      "sha256": "3aed79d70051b61e14705385f91a3803d3e7a43bce652d52d294fafaf8962c33"
+    },
+    {
+      "file": "Mapped_Overview/Overview_Page_16_Actual_Decoded.png",
+      "bytes": 284516,
+      "sha256": "c9cc0436102a13b7dcaa257a2698c5549325e22a7d455fc25d8bfd7cd7ffc2ce"
+    },
+    {
+      "file": "Mapped_Overview/Overview_Page_17_Actual_Decoded.png",
+      "bytes": 247075,
+      "sha256": "1eedbab0b44d508cd2ec904d6f081741cc4ef64d13a7c77ce2e9cd0e5c0b9dea"
+    },
+    {
+      "file": "Mapped_Overview/Overview_Page_18_Actual_Decoded.png",
+      "bytes": 239263,
+      "sha256": "b54c70db3735a29886492740e3982b9b0be3c82fa374a2cc03b982fbd76948a1"
+    },
+    {
+      "file": "Mapped_Overview/Overview_Page_19_Actual_Decoded.png",
+      "bytes": 256100,
+      "sha256": "71f5707bff6d5b16d9b143b242afa8c12c24cd79f04e526ec715c817916304be"
+    },
+    {
+      "file": "Mapped_Overview/Overview_Page_20_Actual_Decoded.png",
+      "bytes": 242236,
+      "sha256": "ec7332c9da1ee2492c6aad3cef58fed5fab16e24d08a101501dfd8059a9f26ee"
+    },
+    {
+      "file": "Mapped_Overview/Overview_Page_21_Actual_Decoded.png",
+      "bytes": 261993,
+      "sha256": "bb355c4163c30dd2de2d62b6cc120d14d12630e7420c96ad13ba2255a4876f9f"
+    },
+    {
+      "file": "Mapped_Overview/Overview_Page_22_Actual_Decoded.png",
+      "bytes": 239501,
+      "sha256": "8ed73e3fa823e411b4ca74915a8305e42cfe35386dfc6c373bdd0d4ccb150334"
+    },
+    {
+      "file": "Mapped_Overview/Overview_Page_23_Actual_Decoded.png",
+      "bytes": 244361,
+      "sha256": "561de14e585ccd3e3809a7d2a6eae7796ef29347cbc44c3c778f16281ead24ce"
+    },
+    {
+      "file": "Mapped_Overview/Overview_Page_24_Actual_Decoded.png",
+      "bytes": 245016,
+      "sha256": "d8691f194e68773269eb4d80967f4de86c5361fed3dd931af125c3da161a3d9b"
+    },
+    {
+      "file": "Mapped_Overview/Overview_Page_25_Actual_Decoded.png",
+      "bytes": 246070,
+      "sha256": "ca832072741ccf6500419f28e053fbfb3ad1f0ac72118c828158792b32d4cd6b"
+    },
+    {
+      "file": "Mapped_Overview/Overview_Page_26_Actual_Decoded.png",
+      "bytes": 247286,
+      "sha256": "48bc89f922eb15860e5456ab7ff11a51218cccf8684d1dd42ff28f28ea6888a5"
+    },
+    {
+      "file": "Mapped_Overview/Overview_Page_27_Actual_Decoded.png",
+      "bytes": 253589,
+      "sha256": "5dc74862b80f5348c9b12ffcc54510b321fa93ef7c2b03ffcac66ca58b2d3d4c"
+    },
+    {
+      "file": "Mapped_Overview/Overview_Page_28_Actual_Decoded.png",
+      "bytes": 232690,
+      "sha256": "5ceb384509749675e4e90c809f022980200fd2de5c4514e50281688407077a94"
+    },
+    {
+      "file": "Mapped_Overview/Overview_Page_29_Actual_Decoded.png",
+      "bytes": 231505,
+      "sha256": "52a38e8510433f17520ebed7c69cc46df95b784456febd87b50da41c78559019"
+    },
+    {
+      "file": "Mapped_Overview/Overview_Page_30_Actual_Decoded.png",
+      "bytes": 229785,
+      "sha256": "e2c3b255d205ffa1f9d95ee7cb0eeafb8f474114c804ec906220e807282ea524"
+    },
+    {
+      "file": "Reference_Receiver/CampusCenter_P02plusP03B3_Assembly_1_100_UV02.obj",
+      "bytes": 16613878,
+      "sha256": "b949784cbb3f833d10d82fdd48d469ac3fac1b8ac723f7cc08588ca633a59fba"
+    },
+    {
+      "file": "Reference_Receiver/CampusCenter_P02_Assembly_1_100_UV01.mtl",
+      "bytes": 275,
+      "sha256": "8f71eea8b37df7d0705cdfa9f69afde3d0fbde5cd8e524e04ae4b4f88de3c715"
+    },
+    {
+      "file": "Reference_Receiver/Fireplace_New_Chart_Mask_8192.png",
+      "bytes": 79491,
+      "sha256": "6bac2d20a0ce19d68c6c9b3dc99ed2a67f579782c4a1ee3862a2743df2abf627"
+    },
+    {
+      "file": "Reference_Receiver/UV02_Compatibility_And_Surface_Manifest.json",
+      "bytes": 2295532,
+      "sha256": "c3f6b32c921bb0a7114494436339906d23f9d340242e3b1f37471fd9c14cca41"
+    },
+    {
+      "file": "Media_Build_Scripts/highlight_h04_colour_media.py",
+      "bytes": 10240,
+      "sha256": "2595354942dba58994c8ccb8fa3defc54b0eacaf827ebe293217fe6060c06e61"
+    },
+    {
+      "file": "Media_Build_Scripts/highlight_h04_audit_and_reviews.py",
+      "bytes": 7106,
+      "sha256": "7bc2ada72b88fc6fc19c9f16149ae4fd006fa50e48eee9b176e2cb46c962be58"
+    },
+    {
+      "file": "Media_Build_Scripts/highlight_h04_surface_colour_and_coverage_qa.py",
+      "bytes": 4035,
+      "sha256": "995875cd6f35cda9e9c31ddb51161ee00503d16a8915b2e4a534ffba00561665"
+    },
+    {
+      "file": "Media_Build_Scripts/highlight_h04_mapped_overview.py",
+      "bytes": 3627,
+      "sha256": "951496c1ee93bf5d7d42165c0ac6e505546d81407d7408cf0c536796c10882c8"
+    },
+    {
+      "file": "Media_Build_Scripts/hybrid_media_native_preview.py",
+      "bytes": 4059,
+      "sha256": "fb0891c75cfad4e2140b3c5d5eb6abbc101d5ce6bfdf426ed1655820365e2752"
+    },
+    {
+      "file": "Usable_13_Stop_Copy.json",
+      "bytes": 4931,
+      "sha256": "0fe578ee9627dfbe7b01fff7d9f5cfa75d6f90f3ad48d847579f0fd9524d8e4f"
+    },
+    {
+      "file": "Copy_Change_Note.json",
+      "bytes": 1316,
+      "sha256": "0e876e6197f0ea00f6cbad67978a037c7c314733af4bec1110ad2f4ab75ed152"
+    },
+    {
+      "file": "Authoritative_Original_User_Copy.json",
+      "bytes": 4552,
+      "sha256": "295e5af94a4096d02c88dd7d53c344765d051feb61f0b040e4e3a8867a16e7c5"
+    },
+    {
+      "file": "PUBLICATION_NOTICE.json",
+      "bytes": 393,
+      "sha256": "b3bfb37010164bd1a296930fd3a7400aacd7d41adf88974185f32b446e440c70"
+    }
+  ]
+}

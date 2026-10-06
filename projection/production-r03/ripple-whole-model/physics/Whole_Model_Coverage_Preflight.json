@@ -1,0 +1,330 @@
+{
+  "status": "PASS: closed native solid cut-plane interiors added before whole-model basin partition; solver/render still pending",
+  "physical_floor_cells": 956916,
+  "previous_candidate_water_free_cells": 897482,
+  "native_water_free_cells": 841630,
+  "false_closed_solid_interior_water_cells_removed": 55852,
+  "meaningful_basin_cells": 841555,
+  "unexcited_smaller_than_2mm2_cells": 75,
+  "meaningful_basins": 56,
+  "reference_selections_with_meaningful_basins": [
+    0,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    999
+  ],
+  "basins": [
+    {
+      "name": "Connected_B001",
+      "reference_owner": -1,
+      "active_cells": 338527
+    },
+    {
+      "name": "Connected_B002",
+      "reference_owner": -1,
+      "active_cells": 299730
+    },
+    {
+      "name": "Connected_B003",
+      "reference_owner": -1,
+      "active_cells": 38575
+    },
+    {
+      "name": "Connected_B004",
+      "reference_owner": -1,
+      "active_cells": 22675
+    },
+    {
+      "name": "Connected_B005",
+      "reference_owner": -1,
+      "active_cells": 19283
+    },
+    {
+      "name": "Connected_B006",
+      "reference_owner": -1,
+      "active_cells": 18286
+    },
+    {
+      "name": "Connected_B007",
+      "reference_owner": -1,
+      "active_cells": 8283
+    },
+    {
+      "name": "Connected_B008",
+      "reference_owner": -1,
+      "active_cells": 8015
+    },
+    {
+      "name": "Connected_B009",
+      "reference_owner": -1,
+      "active_cells": 7389
+    },
+    {
+      "name": "Connected_B010",
+      "reference_owner": -1,
+      "active_cells": 7268
+    },
+    {
+      "name": "Connected_B011",
+      "reference_owner": -1,
+      "active_cells": 7097
+    },
+    {
+      "name": "Connected_B012",
+      "reference_owner": -1,
+      "active_cells": 7063
+    },
+    {
+      "name": "Connected_B013",
+      "reference_owner": -1,
+      "active_cells": 6964
+    },
+    {
+      "name": "Connected_B014",
+      "reference_owner": -1,
+      "active_cells": 6437
+    },
+    {
+      "name": "Connected_B015",
+      "reference_owner": -1,
+      "active_cells": 6315
+    },
+    {
+      "name": "Connected_B016",
+      "reference_owner": -1,
+      "active_cells": 6263
+    },
+    {
+      "name": "Connected_B017",
+      "reference_owner": -1,
+      "active_cells": 5216
+    },
+    {
+      "name": "Connected_B018",
+      "reference_owner": -1,
+      "active_cells": 4411
+    },
+    {
+      "name": "Connected_B019",
+      "reference_owner": -1,
+      "active_cells": 3977
+    },
+    {
+      "name": "Connected_B020",
+      "reference_owner": -1,
+      "active_cells": 3521
+    },
+    {
+      "name": "Connected_B021",
+      "reference_owner": -1,
+      "active_cells": 3220
+    },
+    {
+      "name": "Connected_B022",
+      "reference_owner": -1,
+      "active_cells": 3188
+    },
+    {
+      "name": "Connected_B023",
+      "reference_owner": -1,
+      "active_cells": 2297
+    },
+    {
+      "name": "Connected_B024",
+      "reference_owner": -1,
+      "active_cells": 1485
+    },
+    {
+      "name": "Connected_B025",
+      "reference_owner": -1,
+      "active_cells": 1106
+    },
+    {
+      "name": "Connected_B026",
+      "reference_owner": -1,
+      "active_cells": 1000
+    },
+    {
+      "name": "Connected_B027",
+      "reference_owner": -1,
+      "active_cells": 528
+    },
+    {
+      "name": "Connected_B028",
+      "reference_owner": -1,
+      "active_cells": 528
+    },
+    {
+      "name": "Connected_B029",
+      "reference_owner": -1,
+      "active_cells": 360
+    },
+    {
+      "name": "Connected_B030",
+      "reference_owner": -1,
+      "active_cells": 322
+    },
+    {
+      "name": "Connected_B031",
+      "reference_owner": -1,
+      "active_cells": 260
+    },
+    {
+      "name": "Connected_B032",
+      "reference_owner": -1,
+      "active_cells": 250
+    },
+    {
+      "name": "Connected_B033",
+      "reference_owner": -1,
+      "active_cells": 192
+    },
+    {
+      "name": "Connected_B034",
+      "reference_owner": -1,
+      "active_cells": 187
+    },
+    {
+      "name": "Connected_B035",
+      "reference_owner": -1,
+      "active_cells": 180
+    },
+    {
+      "name": "Connected_B036",
+      "reference_owner": -1,
+      "active_cells": 180
+    },
+    {
+      "name": "Connected_B037",
+      "reference_owner": -1,
+      "active_cells": 115
+    },
+    {
+      "name": "Connected_B038",
+      "reference_owner": -1,
+      "active_cells": 114
+    },
+    {
+      "name": "Connected_B039",
+      "reference_owner": -1,
+      "active_cells": 102
+    },
+    {
+      "name": "Connected_B040",
+      "reference_owner": -1,
+      "active_cells": 88
+    },
+    {
+      "name": "Connected_B041",
+      "reference_owner": -1,
+      "active_cells": 72
+    },
+    {
+      "name": "Connected_B042",
+      "reference_owner": -1,
+      "active_cells": 70
+    },
+    {
+      "name": "Connected_B043",
+      "reference_owner": -1,
+      "active_cells": 65
+    },
+    {
+      "name": "Connected_B044",
+      "reference_owner": -1,
+      "active_cells": 62
+    },
+    {
+      "name": "Connected_B045",
+      "reference_owner": -1,
+      "active_cells": 51
+    },
+    {
+      "name": "Connected_B046",
+      "reference_owner": -1,
+      "active_cells": 40
+    },
+    {
+      "name": "Connected_B047",
+      "reference_owner": -1,
+      "active_cells": 39
+    },
+    {
+      "name": "Connected_B048",
+      "reference_owner": -1,
+      "active_cells": 34
+    },
+    {
+      "name": "Connected_B049",
+      "reference_owner": -1,
+      "active_cells": 32
+    },
+    {
+      "name": "Connected_B050",
+      "reference_owner": -1,
+      "active_cells": 22
+    },
+    {
+      "name": "Connected_B051",
+      "reference_owner": -1,
+      "active_cells": 18
+    },
+    {
+      "name": "Connected_B052",
+      "reference_owner": -1,
+      "active_cells": 14
+    },
+    {
+      "name": "Connected_B053",
+      "reference_owner": -1,
+      "active_cells": 13
+    },
+    {
+      "name": "Connected_B054",
+      "reference_owner": -1,
+      "active_cells": 10
+    },
+    {
+      "name": "Connected_B055",
+      "reference_owner": -1,
+      "active_cells": 8
+    },
+    {
+      "name": "Connected_B056",
+      "reference_owner": -1,
+      "active_cells": 8
+    }
+  ],
+  "scope_limit": "Only actual native near-floor walls, glazing, doors and fixtures plus the physical floor edge define reflecting boundaries. Geometry-connected open areas share the same solver state, including unobstructed doors and Commons/Cafe label boundaries. Frozen coarse room-reference masks identify impulse locations only; they never remove neighbour flux. No invisible room boundary walls.",
+  "prior_files_changed": false,
+  "artificial_room_boundary_cells": 0,
+  "all_open_room_label_edges_have_solver_flux_connections": true
+}

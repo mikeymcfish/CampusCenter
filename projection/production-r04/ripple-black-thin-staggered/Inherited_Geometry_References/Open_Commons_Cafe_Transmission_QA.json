@@ -1,0 +1,18 @@
+{
+  "status": "PASS: actual Commons/Cafe open boundary transmits the solved wave",
+  "actual_free_Commons_Cafe_neighbor_edges": 137,
+  "all_open_room_label_neighbor_edges_with_solver_flux_connections": 2380,
+  "artificial_label_barrier_edges": 0,
+  "test_source_point_model_mm": [
+    586.75,
+    200.75
+  ],
+  "test_edge_model_mm": [
+    590.75,
+    200.75
+  ],
+  "Cafe_max_abs_height_from_Commons_only_impulse_mm": 0.027697105999506328,
+  "test_duration_seconds": 2.0,
+  "labels_used_in_laplacian_or_flux": false,
+  "geometry_domain_crop_used": true
+}

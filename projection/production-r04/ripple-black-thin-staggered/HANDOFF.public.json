@@ -1,0 +1,175 @@
+{
+  "status": "PASS: versioned R04 compact viewing and matching exact-black lossless atlas ready",
+  "compact_preview": {
+    "path": "Ripple_R04_Black_Thin_Staggered_Connected_44s_Mapped_1024_Viewing_Preview.mp4",
+    "bytes": 29629502,
+    "sha256": "1a87419b0e1d977f60bf01fbf4697f9e11930d70b5f57245ae086024bb5117d5",
+    "duration_seconds": 44,
+    "resolution": [
+      1024,
+      786
+    ],
+    "all880_frames_decoded": true,
+    "actual_decoded_keyframes_reviewed": [
+      60,
+      240,
+      400,
+      879
+    ]
+  },
+  "lossless_mapped_viewing_reference": {
+    "path": "Ripple_R04_Black_Thin_Staggered_Connected_44s_Mapped_1024_Lossless_Reference.mov",
+    "bytes": 155515150,
+    "sha256": "3ba30a882ae941609e21e451998713df9d8c77392e975f71a743bb1e588a7116",
+    "exact_encoded_black_background": true
+  },
+  "raw_projection_atlas": {
+    "path": "Ripple_R04_Black_Thin_Staggered_Connected_UV02_1_100_4096_Lossless_PNG.mov",
+    "bytes": 375159817,
+    "sha256": "615d32c42cddba4b7d4ce71a1c0168ed2d7db340a72ee490c32826bb5a225506",
+    "resolution": [
+      4096,
+      4096
+    ],
+    "fps": 20,
+    "frames": 880,
+    "duration_seconds": 44,
+    "all_frames_decoded": true,
+    "all_movie_PNG_packets_identical_to_lossless_source": true,
+    "background_exact_RGB": [
+      0,
+      0,
+      0
+    ]
+  },
+  "complete_package": {
+    "path": "CampusCenter_UV02_Ripple_R04_Black_Thin_Staggered_Final_Test.zip",
+    "bytes": 503169699,
+    "sha256": "309253a41103e3b0b2316bc948343af76c951dba8cf7794d5c5acd2289b57bf9"
+  },
+  "physics": {
+    "sources": 77,
+    "physical_connected_components": 56,
+    "first_last_source_seconds": [
+      0.75,
+      19.387500000000003
+    ],
+    "labels_create_reflection_barriers": false,
+    "Commons_Cafe_open_edges_connected": 137,
+    "all_open_label_edges_connected": 2380,
+    "natural_decay_repeat_boundary_verified": true,
+    "fade_added": false
+  },
+  "black_levels": {
+    "lossless_atlas_and_lossless_mapped_MOV_background_exact": [
+      0,
+      0,
+      0
+    ],
+    "standard_MP4_far_background_compression_max_RGB_byte": 3,
+    "standard_MP4_far_background_nonzero_fraction": 0.00013625929533622538,
+    "standard_MP4_repeat_endpoints_exact_black": true,
+    "no_ambient_model_grey_or_wash": true
+  },
+  "native_receiver_reapplication": {
+    "keyframes": 7,
+    "status": "PASS",
+    "black_world": true,
+    "registration_unchanged": true
+  },
+  "source_preservation": {
+    "status": "PASS",
+    "protected_source_files_verified": 317,
+    "changed_protected_files": [],
+    "prior_R03_and_early_and_final_H03_packages_SHA_unchanged": [
+      {
+        "file": "CampusCenter_UV02_Ripple_R03_WholeModel_Connected_Final_Test.zip",
+        "sha256": "505a49df7a50ad58fba842c57373f84135464325b28ad098394c10d677bc05d5"
+      },
+      {
+        "file": "CampusCenter_UV02_H03_Commons_Cafe_CleanEdge_Viewing_Test.zip",
+        "sha256": "373a77c60066ff11f8ba284a07e26273524f0797f164ac9cfa72d9cedcc226ec"
+      },
+      {
+        "file": "CampusCenter_UV02_H03_All13_30Pages_Final_Paginated_Tour_Test.zip",
+        "sha256": "df3ef72c38ee67cc4af7a32686e596de4787b12e392a32d66113a48c58a6fa11"
+      }
+    ],
+    "hybrid_receiver_sha256": "b949784cbb3f833d10d82fdd48d469ac3fac1b8ac723f7cc08588ca633a59fba",
+    "original_Blender_Unreal_or_MadMapper_saved": false,
+    "geometry_UV_scale_origin_or_print_changed": false
+  },
+  "geometry_coverage_limits": {
+    "status": "PASS with documented source limitations",
+    "physically_connected_domains": 56,
+    "source_events": 77,
+    "floor_atlas_texels_in_solved_domains": 1298084,
+    "meaningful_free_floor_cells": 841555,
+    "unexcited_tiny_cells": 75,
+    "unexcited_tiny_area_model_mm2": 18.75,
+    "tiny_pocket_area_each_less_than_model_mm2": 2,
+    "unclosed_native_surface_only_barrier_warnings": 7,
+    "unclosed_native_actors": [
+      "StaticMeshActor_684",
+      "StaticMeshActor_687",
+      "StaticMeshActor_690",
+      "StaticMeshActor_693",
+      "StaticMeshActor_696",
+      "StaticMeshActor_140",
+      "StaticMeshActor_2013"
+    ],
+    "label_boundaries_have_no_solver_barriers": true,
+    "Commons_Cafe_open_neighbor_flux_edges": 137,
+    "all_open_label_neighbor_flux_edges": 2380,
+    "actual_geometry_water_slab_model_mm": [
+      4.25,
+      5.2
+    ],
+    "tabletops_not_floor_level_water_barriers": true,
+    "existing_fixtures_and_fireplace_static_depth_shaded": true,
+    "source_warning_geometry_preserved_not_invented_closed": true,
+    "full_hydraulic_liquid_or_vertical_wall_flooding_simulated": false,
+    "no_geometry_or_printing_changes": true
+  },
+  "thinner_wave_metric": {
+    "status": "PASS: actual isolated Gym crest substantially thinner than R03 transfer on same solved field",
+    "actual_R04_field_component": "Connected_B002",
+    "actual_frame": 60,
+    "time_seconds": 3,
+    "source_time_seconds": 0.75,
+    "source_point_model_mm": [
+      322.75,
+      349.75
+    ],
+    "measurement": "Horizontal outward ray on actual unobstructed Gym floor through the isolated solved wave. R04 samples the actual ridge-intensity grid bilinearly. R03 comparison evaluates its1-exp(-(positive_height*1200)^2) crest response on this same actual height field; quiet ambient wash excluded. FWHM around the principal outward crest.",
+    "R04_actual_FWHM_model_mm": 0.474999999999973,
+    "R03_response_FWHM_same_actual_field_model_mm": 6.574999999999626,
+    "width_ratio": 0.07224334600760456,
+    "R04_peak_intensity": 0.999999999996362,
+    "R03_response_peak_intensity": 1.0,
+    "R04_crest_radius_model_mm": 57.49999999999815,
+    "R03_crest_radius_model_mm": 51.72499999999848,
+    "R04_actual_FWHM_pixels_at_1024_fullmodel": 0.6697418244405815,
+    "peak_source_crest_RGB": [
+      40,
+      235,
+      248
+    ],
+    "ridge_kernel_support_width_mm": 1.7,
+    "bilinear_grid_filtering_can_broaden_kernel_support": true,
+    "background_source_RGB": [
+      0,
+      0,
+      0
+    ],
+    "glow_or_bloom_added": false,
+    "metric_not_physical_projector_validation": true,
+    "legacy_saturated_peak_location_note": "Legacy transfer has a saturated plateau, so its listed first local peak radius is nonunique. FWHM widths are measured on the same actual solved height-field ray; this is one isolated crest measurement, not a global/projector width claim."
+  },
+  "physical_projection_or_MadMapper_playback_verified": false,
+  "user_visual_approval_of_R04_claimed": false,
+  "remaining_R04_work": [],
+  "publisher_handles_external_delivery": true,
+  "new_Library_IDs": [],
+  "all13_final_tour_handoff": "H03_ALL13_FINAL_PAGINATED_TOUR_HANDOFF.json"
+}

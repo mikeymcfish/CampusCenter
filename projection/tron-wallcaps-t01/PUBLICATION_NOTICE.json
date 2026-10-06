@@ -1,0 +1,12 @@
+{
+  "original_archive_sha256": "f3cb6ada036ee0037c427eef95ae8b6a84a4a808b6c8f52782b9659774acd4ea",
+  "changed_public_text_only": [
+    "qa/Receiver_Inspection.json",
+    "READ_ME.txt",
+    "source/build_test.py",
+    "source/inspect_receiver.py"
+  ],
+  "excluded": "Machine logs and derived caches; actual atlas MOV is a separate release asset.",
+  "preserved": "All included receiver geometry/UV, atlas/movie/image and native preview project bytes. Original producer files unchanged.",
+  "source_portability": "Bundled receiver/current Python/CC_FFMPEG configuration; scripts compile checked, animation is not rebuilt."
+}

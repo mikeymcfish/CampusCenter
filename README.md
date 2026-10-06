@@ -18,7 +18,7 @@
 
 [Tour static texture test packages](projection/production-p01/tour-statics/README.md) are available now for both physical scales.
 
-[Approved H02 thirteen-stop masks and copy](projection/p02-uv01-h02-approved/README.md) supersede H01 selections: all three offices124–126, halls106/123 excluding physical corridors110/130. No animation/cue/project is supplied.
+[Approved H02 thirteen-stop masks and copy](projection/p02-uv01-h02-approved/README.md) supersede H01 selections: all three offices124â€“126, halls106/123 excluding physical corridors110/130. No animation/cue/project is supplied.
 
 [Canonical versions, downloads, opening instructions and pending inputs](PROJECT_DELIVERABLES.md). **Quest PC-VR R01 and ground-floor Print P02** join the preserved R29 desktop/Vive releases. Final MadMapper P02 UV01 model/atlas packages are published; room ownership review remains. All eight final admissions concepts are published with AI/fictional-person labels and combined manifests, as detailed in the index.
 
@@ -137,3 +137,19 @@ The matching [42-second informational tour](printing/ground_furnished_projection
 ## Standalone enclosed projection prints v05
 
 [Ground and upper print sets](printing/enclosed_furnished_v05/README.md): six furnished, solid-wall printable parts per level, STEP/STL/3MF exports and separate 42-second informational projection loops. Shared new 830 mm canvas; use the matching v05 masks and videos. Originals and the stackable models remain available.
+
+
+[Ripple R04 viewing, lossless atlas and QA](projection/production-r04/ripple-black-thin-staggered/README.md) provides black-background, thinner staggered waves. [Viewing download](https://github.com/mikeymcfish/CampusCenter/releases/tag/campuscenter-ripple-r04-black-thin-staggered-viewing-20261006); [actual lossless atlas and mapped reference](https://github.com/mikeymcfish/CampusCenter/releases/tag/campuscenter-ripple-r04-black-thin-staggered-atlas-20261006). H03 remains historical, superseded by current H04 brighter same-hue colors and Commons-only fireplace. Physical projector/MadMapper validation remains untested.
+
+
+[Optional projector tracker and live R29 sender R01](targets/projector-tracker-sender-r01/README.md) combines the separately installed companion with a guarded small native patch. [Combined downloads and install/calibrate/rollback guide](https://github.com/mikeymcfish/CampusCenter/releases/tag/campuscenter-projector-tracker-sender-r01-20261006). Actual packaged-game software reception passed; P02 sample1:250 only. Hardware HMD/projector/DPI/performance untested. Root launchers/defaults remain unchanged.
+
+[H04 early Commons/Cafe viewing tests](projection/p02-p03b3-h04-early-viewing/README.md) brighten room colors, dim furniture in the same hue and light the fireplace only with Commons. [Two small camera clips](https://github.com/mikeymcfish/CampusCenter/releases/tag/campuscenter-h04-commons-cafe-early-viewing-20261006); current all13 H04 tour published separately. [Small R04 mobile viewing copy](https://github.com/mikeymcfish/CampusCenter/releases/tag/campuscenter-ripple-r04-mobile-viewing-20261006) is viewing only with lossy black noise disclosed.
+
+
+[Current H04 all13-stop/30-page atlas tour](projection/p02-p03b3-h04-all13-final/README.md): [small full-tour viewing overview](https://github.com/mikeymcfish/CampusCenter/releases/tag/campuscenter-h04-all13-30pages-viewing-20261006), [actual30-page8192 atlas kit and source QA](https://github.com/mikeymcfish/CampusCenter/releases/tag/campuscenter-h04-all13-30pages-bright-samehue-tour-20261006). Brighter room colors, dimmer same-hue furniture and fireplace only during Commons; exact official gym captions and unchanged UV02. H03 and early H04 tests remain preserved. Physical playback/calibration untested.
+
+
+[Verified release download sizes/SHA256 and immutable tag/source references](FINAL_MEDIA_RELEASE_RECEIPTS.json).
+
+[Source formatting, exact archive hashes and tested scope](FINAL_SOURCE_PUBLICATION_NOTES.md).

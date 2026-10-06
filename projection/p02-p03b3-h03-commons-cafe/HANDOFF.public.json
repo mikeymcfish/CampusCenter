@@ -1,0 +1,170 @@
+{
+  "status": "PASS: early Commons/Cafe viewing files ready for publisher",
+  "viewing_tests": [
+    {
+      "official_title": "The Student Commons",
+      "clip": {
+        "status": "PASS: fully decoded compact preview; both pages and clean world-clipped room edge visually reviewed",
+        "file": "The_Student_Commons_Paginated_Gym_Mapped_1024_Viewing_Preview_H03_WorldClipped.mp4",
+        "bytes": 288501,
+        "sha256": "b4bdc711c2b2ff3aca6f63af1fa3d20f6e625e5a3af0d9a6f3249b71f28991c6",
+        "width": 1024,
+        "height": 846,
+        "fps": 20,
+        "frames": 400,
+        "duration_seconds": 20.0,
+        "page_count": 2,
+        "hold_seconds_each": 10,
+        "actual_native_mapped_images_used": true,
+        "raw_atlas_playback_file": false,
+        "all_preview_frames_decoded": true,
+        "visual_review_pending": false,
+        "physical_projector_readability_verified": false,
+        "codec_probe": {
+          "programs": [],
+          "stream_groups": [],
+          "streams": [
+            {
+              "codec_name": "h264",
+              "width": 1024,
+              "height": 846,
+              "r_frame_rate": "20/1",
+              "duration": "20.000000",
+              "nb_read_frames": "400"
+            }
+          ]
+        },
+        "visual_review_pages": [
+          1,
+          2
+        ],
+        "edge_review": "Full native mapped previews, actual1024 mapped images/edge crops and native8192 alpha-mask crops reviewed. Virtual floor edge follows continuous approved footprint; fixtures retain source depth shading; original triangle boundaries do not define room ownership."
+      },
+      "pages": 2,
+      "mapping_QA": {
+        "status": "PASS",
+        "stop_id_metadata_only": "HS03",
+        "official_title": "The Student Commons",
+        "receiver": "UV02 1:100 exact original triangles plus restored P03B3 fireplace",
+        "test": "Sample actual8192 alpha through unchanged top-visible receiver UV at native2048x1572 world-space sample points; compare to exact approved rectilinear world polygons.0.5mm conservative edge band excluded; newly appended fireplace charts excluded because neutral patch is separate.",
+        "tested_visible_receiver_samples": 1890984,
+        "expected_inside_samples": 171560,
+        "missing_interior_samples": 0,
+        "unexpected_outside_samples": 0,
+        "edge_band_model_mm": 0.5,
+        "native_world_canvas_model_mm": [
+          726.25,
+          557.45361328125
+        ],
+        "world_scale_and_origin_unchanged": true,
+        "full_original_opaque_nonunderside_mask": true,
+        "mask_sha256": "04bbb152dbf48493c5a3cfe0f94b9c7a1b26c067452ded4731fd0aca2d0946f3",
+        "explicit_stop_exclusions_preserved": true,
+        "scope_authority": "Same registered A101 room-footprint polygons, approved H02 hall bounds and native verified gym inner bounds. Stop identities and explicit exclusions unchanged. No new R29 semantic room-boundary audit claimed.",
+        "physical_mapping_calibration_verified": false
+      },
+      "atlas_files": [
+        {
+          "path": "The_Student_Commons_Paginated_Page_01_Atlas_8192.png",
+          "sha256": "6b111eff1fe1c7adec9e33d126663f644f3ca1e374624e94bdfab20b11b8587e"
+        },
+        {
+          "path": "The_Student_Commons_Paginated_Page_02_Atlas_8192.png",
+          "sha256": "2ec18f1710a18ee919d288c6b98b8e62fa15aee809dea261185fd38bd0529cac"
+        }
+      ]
+    },
+    {
+      "official_title": "The Cafe",
+      "clip": {
+        "status": "PASS: fully decoded compact preview; both pages and clean world-clipped room edge visually reviewed",
+        "file": "The_Cafe_Paginated_Gym_Mapped_1024_Viewing_Preview_H03_WorldClipped.mp4",
+        "bytes": 258902,
+        "sha256": "dc3dc326b4d83704dcea1995a3fb8c1ce64fc3d92341170eede725e93d501fd1",
+        "width": 1024,
+        "height": 846,
+        "fps": 20,
+        "frames": 400,
+        "duration_seconds": 20.0,
+        "page_count": 2,
+        "hold_seconds_each": 10,
+        "actual_native_mapped_images_used": true,
+        "raw_atlas_playback_file": false,
+        "all_preview_frames_decoded": true,
+        "visual_review_pending": false,
+        "physical_projector_readability_verified": false,
+        "codec_probe": {
+          "programs": [],
+          "stream_groups": [],
+          "streams": [
+            {
+              "codec_name": "h264",
+              "width": 1024,
+              "height": 846,
+              "r_frame_rate": "20/1",
+              "duration": "20.000000",
+              "nb_read_frames": "400"
+            }
+          ]
+        },
+        "visual_review_pages": [
+          1,
+          2
+        ],
+        "edge_review": "Full native mapped previews, actual1024 mapped images/edge crops and native8192 alpha-mask crops reviewed. Virtual floor edge follows continuous approved footprint; fixtures retain source depth shading; original triangle boundaries do not define room ownership."
+      },
+      "pages": 2,
+      "mapping_QA": {
+        "status": "PASS",
+        "stop_id_metadata_only": "HS02",
+        "official_title": "The Cafe",
+        "receiver": "UV02 1:100 exact original triangles plus restored P03B3 fireplace",
+        "test": "Sample actual8192 alpha through unchanged top-visible receiver UV at native2048x1572 world-space sample points; compare to exact approved rectilinear world polygons.0.5mm conservative edge band excluded; newly appended fireplace charts excluded because neutral patch is separate.",
+        "tested_visible_receiver_samples": 1893561,
+        "expected_inside_samples": 18564,
+        "missing_interior_samples": 0,
+        "unexpected_outside_samples": 0,
+        "edge_band_model_mm": 0.5,
+        "native_world_canvas_model_mm": [
+          726.25,
+          557.45361328125
+        ],
+        "world_scale_and_origin_unchanged": true,
+        "full_original_opaque_nonunderside_mask": true,
+        "mask_sha256": "fbea377d8fa0e13658f001f39a52e0224930e6f8a7598fb7f6ddf397e5ec3534",
+        "explicit_stop_exclusions_preserved": true,
+        "scope_authority": "Same registered A101 room-footprint polygons, approved H02 hall bounds and native verified gym inner bounds. Stop identities and explicit exclusions unchanged. No new R29 semantic room-boundary audit claimed.",
+        "physical_mapping_calibration_verified": false
+      },
+      "atlas_files": [
+        {
+          "path": "The_Cafe_Paginated_Page_01_Atlas_8192.png",
+          "sha256": "2e59cf4f5fc3922ba0a89df2bc5bfb214efdf7a3b21b79e407f2603433161bed"
+        },
+        {
+          "path": "The_Cafe_Paginated_Page_02_Atlas_8192.png",
+          "sha256": "ae7b39419954713d6977a78a015ce5aee7a81b9fb91ab19394f70a5560e8fd74"
+        }
+      ]
+    }
+  ],
+  "commons_cafe_kit": {
+    "path": "CampusCenter_UV02_H03_Commons_Cafe_CleanEdge_Viewing_Test.zip",
+    "bytes": 14192329,
+    "sha256": "373a77c60066ff11f8ba284a07e26273524f0797f164ac9cfa72d9cedcc226ec"
+  },
+  "all13_versioned_mask_patch": {
+    "path": "CampusCenter_UV02_H03_WorldClipped_13_Mask_Patch.zip",
+    "bytes": 824656,
+    "sha256": "4ca1a82fce899d113e566b00997d1dac03d911712a7797571fbd8c047990766f"
+  },
+  "mask_reference": "H03_Mask_Patch_Reference.json",
+  "compatibility": "Unchanged UV02 1:100 hybrid receiver; legacy original Opaque UVs retained; existing neutral UV02 fireplace patch composited only on appended fireplace charts. Complete authored atlases include this patch.",
+  "no_geometry_UV_scale_origin_or_original_H02_changes": true,
+  "caption_copy": "Official verbatim copy; two pages each; all captions in unchanged gym rectangle; no displayed room numbers",
+  "remaining": "Other11 final room viewing files/mapping QA and all13 testpackage; all13 caption sources and full-receiver masks already built.",
+  "ripple_final_handoff": "RIPPLE_R03_FINAL_RAW_AND_MAPPED_HANDOFF.json",
+  "physical_projection_or_MadMapper_playback_verified": false,
+  "new_Library_IDs": [],
+  "external_delivery": "Publisher handles GitHub delivery; no push or Library retry here."
+}

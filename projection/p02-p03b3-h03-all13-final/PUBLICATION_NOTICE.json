@@ -1,0 +1,4 @@
+{
+  "original_package_sha256": "df3ef72c38ee67cc4af7a32686e596de4787b12e392a32d66113a48c58a6fa11",
+  "changes": "Private JSON provenance reduced to basenames; package file manifest regenerated. All30 standalone atlas images, receiver geometry/UV, masks, native/camera previews and movies retain exact bytes. No render/rebuild or prior package replacement."
+}

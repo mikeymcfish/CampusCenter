@@ -1,0 +1,32 @@
+[
+  {
+    "file": "CampusCenter_ProjectorSender_R01_Optional_Patch.zip",
+    "bytes": 31224400,
+    "sha256": "211fa84351b32b10cdf28304b4505b8875ff772e05221caeabbd2081444a42cd",
+    "role": "Optional guarded R29 Vive/Quest sender patch; exact sealed bytes"
+  },
+  {
+    "file": "CampusCenterTracker_R01_Portable_Windows_x64.zip",
+    "bytes": 73173172,
+    "sha256": "5307ce66866ed433aa13c13b6f9dee73695167c52951f47832de0816ee4df12f",
+    "role": "Sealed portable companion with private runtime/licenses"
+  },
+  {
+    "file": "CampusCenterTracker_R01_Source_and_QA.zip",
+    "bytes": 224449,
+    "sha256": "03652e6400ca1c6b9abe82b0c29d1f156d2944037bb7d6175df948ee577ceabe",
+    "role": "Sealed companion sources and software QA"
+  },
+  {
+    "file": "CampusCenter_ProjectorSender_R01_Public_Source_and_QA.zip",
+    "bytes": 205876,
+    "sha256": "84a2647dff8f1244de904db57bb7cbc9fe218651b72e45c9c08d217396fd0053",
+    "role": "Native sender source delta, portable installer, reproducible scripts and sanitized software QA; machine logs excluded"
+  },
+  {
+    "file": "README_Projector_Tracker_R01.md",
+    "bytes": 7808,
+    "sha256": "09db8fcd2b5f98a7645628ce58f0bd89054a4533d6fe53638b490874854abc17",
+    "role": "Combined download/install/calibrate/live/rollback guide"
+  }
+]

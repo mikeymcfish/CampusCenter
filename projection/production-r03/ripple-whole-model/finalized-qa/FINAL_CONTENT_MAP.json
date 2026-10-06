@@ -1,0 +1,205 @@
+{
+  "original_final_package_sha256": "505a49df7a50ad58fba842c57373f84135464325b28ad098394c10d677bc05d5",
+  "original_final_package_bytes": 471527500,
+  "reuse_policy": "Existing raw MOV, camera MP4 and matching review files reused; no duplicate media upload or existing asset replacement.",
+  "files": [
+    {
+      "file": "deliverables/Compact_Mapped_Preview_QA.json",
+      "bytes": 2881,
+      "sha256": "223600361c151a57f4d18a7416713aac92c2a2faad743072f4c4f101bd494e42",
+      "location": "Existing R03 review kit: deliverables/Compact_Mapped_Preview_QA.json"
+    },
+    {
+      "file": "deliverables/Connected_Wave_Transfer_And_Video_QA.json",
+      "bytes": 2899,
+      "sha256": "9373a996c2b6faac59784e0156e7e479e68401f8235b66a85a1ec695185c5573",
+      "location": "Existing R03 review kit: deliverables/Connected_Wave_Transfer_And_Video_QA.json"
+    },
+    {
+      "file": "deliverables/Final_Coverage_And_Limitations_QA.json",
+      "bytes": 1146,
+      "sha256": "30506b06dd959764ed1459fe74a5769e69de4cdf3efba6cf76cc48f790116b69",
+      "location": "Existing R03 review kit: deliverables/Final_Coverage_And_Limitations_QA.json"
+    },
+    {
+      "file": "deliverables/Native_Hybrid_Media_Reapplication_QA.json",
+      "bytes": 3074,
+      "sha256": "88ff4d8d4f11137d43243a93633bb620e45775ee1437fcee158247b3ca5ee4c6",
+      "location": "Existing R03 review kit: deliverables/Native_Hybrid_Media_Reapplication_QA.json"
+    },
+    {
+      "file": "deliverables/README.txt",
+      "bytes": 1902,
+      "sha256": "0bde7a0355b43535c8270f03227b9a15f85cd43eabb58fe806121a8ec52f903e",
+      "location": "This final supplement: deliverables/README.txt"
+    },
+    {
+      "file": "deliverables/Ripple_R03_Frame_0000_Decoded_Atlas_4096.png",
+      "bytes": 373781,
+      "sha256": "b88a558182258cf06cbc191deee73c868d8f8d88ba58cb8498719df41b23af8a",
+      "location": "Existing R03 review kit: deliverables/Ripple_R03_Frame_0000_Decoded_Atlas_4096.png"
+    },
+    {
+      "file": "deliverables/Ripple_R03_Frame_0000_Decoded_Native_Mapped_Preview.png",
+      "bytes": 3542857,
+      "sha256": "2ff4c2fca85931d66bd31c3e203cc4563c70006bc73dc2d060fcb592235256b1",
+      "location": "Existing R03 review kit: deliverables/Ripple_R03_Frame_0000_Decoded_Native_Mapped_Preview.png"
+    },
+    {
+      "file": "deliverables/Ripple_R03_Frame_0000_Mapped_1024_Viewing.png",
+      "bytes": 196371,
+      "sha256": "f4a24c10b69d1bdae5a75421de41a4d4d9de311abe8af24bd52354b68ba36c5c",
+      "location": "Existing R03 review kit: deliverables/Ripple_R03_Frame_0000_Mapped_1024_Viewing.png"
+    },
+    {
+      "file": "deliverables/Ripple_R03_Frame_0060_Decoded_Atlas_4096.png",
+      "bytes": 887381,
+      "sha256": "9a02d4da9c8e8de62a28719e95f9705fdc33388bac3417fa3a8361df869e213e",
+      "location": "Existing R03 review kit: deliverables/Ripple_R03_Frame_0060_Decoded_Atlas_4096.png"
+    },
+    {
+      "file": "deliverables/Ripple_R03_Frame_0060_Decoded_Native_Mapped_Preview.png",
+      "bytes": 4208214,
+      "sha256": "65da187bf86bcd1ab0391f68ba1be1d8e28a90c6071f7d71d5bdd918f34cf4ce",
+      "location": "Existing R03 review kit: deliverables/Ripple_R03_Frame_0060_Decoded_Native_Mapped_Preview.png"
+    },
+    {
+      "file": "deliverables/Ripple_R03_Frame_0060_Mapped_1024_Viewing.png",
+      "bytes": 509680,
+      "sha256": "8ebce29341adf1876fcb89e2fa6b8a4e96bbbb592d0cc1788df11bda7e1787c4",
+      "location": "Existing R03 review kit: deliverables/Ripple_R03_Frame_0060_Mapped_1024_Viewing.png"
+    },
+    {
+      "file": "deliverables/Ripple_R03_Frame_0120_Decoded_Atlas_4096.png",
+      "bytes": 1336314,
+      "sha256": "72917cb1d08b9ac8741a41c596a6015cdb388045f251be27f808d5239831e69f",
+      "location": "Existing R03 review kit: deliverables/Ripple_R03_Frame_0120_Decoded_Atlas_4096.png"
+    },
+    {
+      "file": "deliverables/Ripple_R03_Frame_0120_Decoded_Native_Mapped_Preview.png",
+      "bytes": 4599849,
+      "sha256": "f0f837f04f642be3b8dcd09330bf3c5d39a93ffd0943237c165e82cfe7b4497d",
+      "location": "Existing R03 review kit: deliverables/Ripple_R03_Frame_0120_Decoded_Native_Mapped_Preview.png"
+    },
+    {
+      "file": "deliverables/Ripple_R03_Frame_0120_Mapped_1024_Viewing.png",
+      "bytes": 718079,
+      "sha256": "e0c0f7b5fab0c77276de5c2e27575dc206b1c6990fad65d59ed344394938f49a",
+      "location": "Existing R03 review kit: deliverables/Ripple_R03_Frame_0120_Mapped_1024_Viewing.png"
+    },
+    {
+      "file": "deliverables/Ripple_R03_Frame_0200_Decoded_Atlas_4096.png",
+      "bytes": 1266879,
+      "sha256": "fca8a6f1e8b46aa3b93e968a327837920a3b76d9707761f10b0b815d323e58f8",
+      "location": "Existing R03 review kit: deliverables/Ripple_R03_Frame_0200_Decoded_Atlas_4096.png"
+    },
+    {
+      "file": "deliverables/Ripple_R03_Frame_0200_Decoded_Native_Mapped_Preview.png",
+      "bytes": 4361172,
+      "sha256": "8b2e08b5ecaa412b5066590995cdf3eabb490b4c43ac69dd15aae46d62072d95",
+      "location": "Existing R03 review kit: deliverables/Ripple_R03_Frame_0200_Decoded_Native_Mapped_Preview.png"
+    },
+    {
+      "file": "deliverables/Ripple_R03_Frame_0200_Mapped_1024_Viewing.png",
+      "bytes": 643345,
+      "sha256": "9e99dab2d54117a8def6b8538551d37a7cfeb2ac9545247099aa7df02a3f9d9e",
+      "location": "Existing R03 review kit: deliverables/Ripple_R03_Frame_0200_Mapped_1024_Viewing.png"
+    },
+    {
+      "file": "deliverables/Ripple_R03_Frame_0400_Decoded_Atlas_4096.png",
+      "bytes": 374984,
+      "sha256": "6e096abdef4d63f2911a6c46c3fa3c32976ea657196805ade4b4f86f1c9d388c",
+      "location": "Existing R03 review kit: deliverables/Ripple_R03_Frame_0400_Decoded_Atlas_4096.png"
+    },
+    {
+      "file": "deliverables/Ripple_R03_Frame_0400_Decoded_Native_Mapped_Preview.png",
+      "bytes": 3542621,
+      "sha256": "fb52d1a38ab4377c2999c88e3309c0d4acd357a997725317aac97ef5dfb22740",
+      "location": "Existing R03 review kit: deliverables/Ripple_R03_Frame_0400_Decoded_Native_Mapped_Preview.png"
+    },
+    {
+      "file": "deliverables/Ripple_R03_Frame_0400_Mapped_1024_Viewing.png",
+      "bytes": 197034,
+      "sha256": "0a8f99e1743ab4865801ed007b07af6ad87e1e2534fdf6fcbab87ba29cf7b314",
+      "location": "Existing R03 review kit: deliverables/Ripple_R03_Frame_0400_Mapped_1024_Viewing.png"
+    },
+    {
+      "file": "deliverables/Ripple_R03_Frame_0799_Decoded_Atlas_4096.png",
+      "bytes": 373781,
+      "sha256": "b88a558182258cf06cbc191deee73c868d8f8d88ba58cb8498719df41b23af8a",
+      "location": "Existing R03 review kit: deliverables/Ripple_R03_Frame_0799_Decoded_Atlas_4096.png"
+    },
+    {
+      "file": "deliverables/Ripple_R03_Frame_0799_Decoded_Native_Mapped_Preview.png",
+      "bytes": 3542857,
+      "sha256": "98a10060ff11a284fc98f7975727da0a14783da255f5e2aaa1f4c58e7284edaa",
+      "location": "Existing R03 review kit: deliverables/Ripple_R03_Frame_0799_Decoded_Native_Mapped_Preview.png"
+    },
+    {
+      "file": "deliverables/Ripple_R03_Frame_0799_Mapped_1024_Viewing.png",
+      "bytes": 196371,
+      "sha256": "f4a24c10b69d1bdae5a75421de41a4d4d9de311abe8af24bd52354b68ba36c5c",
+      "location": "Existing R03 review kit: deliverables/Ripple_R03_Frame_0799_Mapped_1024_Viewing.png"
+    },
+    {
+      "file": "deliverables/Ripple_R03_WholeModel_Connected_Mapped_1024_Viewing_Preview.mp4",
+      "bytes": 12712688,
+      "sha256": "5da719133f7acca361c2ce90fa2ee7364303fa1d9f220dd0c6cb1ea443ba384a",
+      "location": "Already verified R03 viewing release MP4; never uploaded again."
+    },
+    {
+      "file": "deliverables/Ripple_R03_WholeModel_Connected_UV02_1_100_4096_HAP.mov",
+      "bytes": 752774792,
+      "sha256": "914751534334c8a15a54722c031913ad1bd28c3fe68c5e6ff721d8fec6b7c14f",
+      "location": "Existing in-flight R03 raw atlas MOV asset; never uploaded again."
+    },
+    {
+      "file": "deliverables/Source_Preservation_QA.json",
+      "bytes": 306,
+      "sha256": "60eefeaa19c51e93aafe6e649bb09d155fab1c2d3c4fa1b78492491a5f25aec0",
+      "location": "Existing R03 review kit: deliverables/Source_Preservation_QA.json"
+    },
+    {
+      "file": "Connected_Wave_Physics_QA.json",
+      "bytes": 47906,
+      "sha256": "cfee76a844893e93dcd1d0239af6c2da2e1178644c315d535e3d9e4a7943ddf9",
+      "location": "Existing R03 review kit: physics/Connected_Wave_Physics_QA.json"
+    },
+    {
+      "file": "Open_Commons_Cafe_Transmission_QA.json",
+      "bytes": 570,
+      "sha256": "8469c12651a8b0bf2bdc5a60cc2a4a97f8a09b4fefe365e728d601d914fa0e68",
+      "location": "Existing R03 review kit: physics/Open_Commons_Cafe_Transmission_QA.json"
+    },
+    {
+      "file": "Solid_Fixture_Volume_QA.json",
+      "bytes": 413786,
+      "sha256": "52f06ddee5aacf3fe1a13a251108ac65e5336412c81591f1635726d0edd280ca",
+      "location": "Existing R03 review kit: physics/Solid_Fixture_Volume_QA.json"
+    },
+    {
+      "file": "Simulation_Domain_Manifest.json",
+      "bytes": 44401,
+      "sha256": "3e763c742a57b79cabdbd336d779964bd3b20d1af0c600555b586d44a71a3693",
+      "location": "Existing R03 review kit: physics/Simulation_Domain_Manifest.json"
+    },
+    {
+      "file": "Whole_Model_Coverage_Preflight.json",
+      "bytes": 7262,
+      "sha256": "7c3fcb3898feece33ee166c7a0c3f9de81490f3cd42fefd40f0229ec390dde72",
+      "location": "Existing R03 review kit: physics/Whole_Model_Coverage_Preflight.json"
+    },
+    {
+      "file": "Whole_Model_Fixture_Volume_And_Domain_Review.png",
+      "bytes": 26100,
+      "sha256": "1aaaf5beed8d0e5d572313ab2410cc3cd213f9900f6cda80005936da85de2494",
+      "location": "This final supplement: Whole_Model_Fixture_Volume_And_Domain_Review.png"
+    },
+    {
+      "file": "Whole_Native_Obstacle_And_Ownership_Grid.npz",
+      "bytes": 48662,
+      "sha256": "0463f76370ce6aa0df2ba52902e5c31acaf272295251c7c1d3f990e2cc5004df",
+      "location": "This final supplement: Whole_Native_Obstacle_And_Ownership_Grid.npz"
+    }
+  ]
+}

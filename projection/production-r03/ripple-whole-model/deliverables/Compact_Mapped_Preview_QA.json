@@ -1,0 +1,78 @@
+{
+  "status": "PASS: actual atlas and compact videos fully decoded; mapped keyframes visually reviewed; six fresh Blender reapplications passed",
+  "file": "Ripple_R03_WholeModel_Connected_Mapped_1024_Viewing_Preview.mp4",
+  "bytes": 12712688,
+  "sha256": "5da719133f7acca361c2ce90fa2ee7364303fa1d9f220dd0c6cb1ea443ba384a",
+  "width": 1024,
+  "height": 846,
+  "fps": 20,
+  "frames": 800,
+  "duration_seconds": 40.0,
+  "raw_atlas_playback_file": false,
+  "actual_primary_movie": "Ripple_R03_WholeModel_Connected_UV02_1_100_4096_HAP.mov",
+  "actual_primary_movie_sha256": "914751534334c8a15a54722c031913ad1bd28c3fe68c5e6ff721d8fec6b7c14f",
+  "all_primary_atlas_movie_frames_decoded": 800,
+  "actual_decoded_primary_first_and_last_frames_equal_after_natural_decay": true,
+  "all_compact_preview_frames_decoded": true,
+  "projection_reference": "Exact receiver triangles and UVs, including restored fireplace visibility; unchanged +Z orthographic view",
+  "invisible_room_boundary_reflections": false,
+  "keyframe_lossy_codec_error": [
+    {
+      "frame": 0,
+      "HAP_lossy_mean_absolute_RGB_byte_error": 0.3379385670026143,
+      "HAP_lossy_max_RGB_byte_error": 35
+    },
+    {
+      "frame": 60,
+      "HAP_lossy_mean_absolute_RGB_byte_error": 0.3784676790237427,
+      "HAP_lossy_max_RGB_byte_error": 49
+    },
+    {
+      "frame": 120,
+      "HAP_lossy_mean_absolute_RGB_byte_error": 0.4239156246185303,
+      "HAP_lossy_max_RGB_byte_error": 51
+    },
+    {
+      "frame": 200,
+      "HAP_lossy_mean_absolute_RGB_byte_error": 0.39509036143620807,
+      "HAP_lossy_max_RGB_byte_error": 49
+    },
+    {
+      "frame": 400,
+      "HAP_lossy_mean_absolute_RGB_byte_error": 0.33764636516571045,
+      "HAP_lossy_max_RGB_byte_error": 35
+    },
+    {
+      "frame": 799,
+      "HAP_lossy_mean_absolute_RGB_byte_error": 0.3379385670026143,
+      "HAP_lossy_max_RGB_byte_error": 35
+    }
+  ],
+  "physical_projection_or_MadMapper_playback_verified": false,
+  "visual_review_pending": false,
+  "codec_probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1024,
+        "height": 846,
+        "r_frame_rate": "20/1",
+        "duration": "40.000000",
+        "nb_read_frames": "800"
+      }
+    ]
+  },
+  "mapped_visual_review_frames": [
+    60,
+    120,
+    200,
+    799
+  ],
+  "mapped_visual_review": "Brighter cyan rings and trough detail remain distinct; actual fixtures/fireplace visible; natural quiet ending. No room-label flux barriers.",
+  "native_reapplication_pending": false,
+  "native_visual_review_frames": [
+    120
+  ]
+}

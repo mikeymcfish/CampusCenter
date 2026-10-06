@@ -1,0 +1,92 @@
+{
+  "status": "PASS: all official words, gym-only captions, world-clipped highlight, exact UV02 registration, final fireplace and native/compact review complete",
+  "official_title_exact": "The Student Commons",
+  "official_body_exact": "The Student Commons is the vibrant heart of the Campus Center, giving students a comfortable place to gather, study, relax, and connect around its welcoming fireplace. The space reflects King’s belief that a strong sense of belonging supports both personal growth and meaningful learning.",
+  "official_paragraphs_exact": [
+    "The Student Commons is the vibrant heart of the Campus Center, giving students a comfortable place to gather, study, relax, and connect around its welcoming fireplace. The space reflects King’s belief that a strong sense of belonging supports both personal growth and meaningful learning."
+  ],
+  "full_official_word_sequence_reconstructs_exactly": true,
+  "paragraph_boundaries_preserved_as_page_boundaries": true,
+  "pages": [
+    {
+      "page": 1,
+      "lines": [
+        "The Student Commons is the",
+        "vibrant heart of the Campus",
+        "Center, giving students a",
+        "comfortable place to gather,",
+        "study, relax, and connect",
+        "around its welcoming",
+        "fireplace."
+      ],
+      "official_text_portion": "The Student Commons is the vibrant heart of the Campus Center, giving students a comfortable place to gather, study, relax, and connect around its welcoming fireplace.",
+      "atlas": "The_Student_Commons_Paginated_Page_01_Atlas_8192.png",
+      "atlas_sha256": "6b111eff1fe1c7adec9e33d126663f644f3ca1e374624e94bdfab20b11b8587e",
+      "body_nominal_font_mm": 13.0,
+      "caption_surface_texels": 1557104,
+      "presentation_room_number_labels": false,
+      "source_page": "Commons_Paginated_Page_01_Atlas_8192.png",
+      "caption_pixels_exactly_preserved": true,
+      "fireplace_patch_exactly_preserved": true
+    },
+    {
+      "page": 2,
+      "lines": [
+        "The space reflects King’s belief",
+        "that a strong sense of",
+        "belonging supports both",
+        "personal growth and",
+        "meaningful learning."
+      ],
+      "official_text_portion": "The space reflects King’s belief that a strong sense of belonging supports both personal growth and meaningful learning.",
+      "atlas": "The_Student_Commons_Paginated_Page_02_Atlas_8192.png",
+      "atlas_sha256": "2ec18f1710a18ee919d288c6b98b8e62fa15aee809dea261185fd38bd0529cac",
+      "body_nominal_font_mm": 13.0,
+      "caption_surface_texels": 1557104,
+      "presentation_room_number_labels": false,
+      "source_page": "Commons_Paginated_Page_02_Atlas_8192.png",
+      "caption_pixels_exactly_preserved": true,
+      "fireplace_patch_exactly_preserved": true
+    }
+  ],
+  "page_count": 2,
+  "page_hold_seconds": 10,
+  "body_font_nominal_model_mm": 13,
+  "body_x_height_at_1024_view_px": 9.16488812392427,
+  "body_capital_height_at_1024_view_px": 12.830843373493977,
+  "caption_bounds_model_mm": [
+    [
+      235,
+      231
+    ],
+    [
+      448,
+      451
+    ]
+  ],
+  "all_caption_pixels_inside_gym_H02_and_world_rectangle": true,
+  "all_caption_pixels_exactly_preserved_from_validated_verbatim_source": true,
+  "caption_receiver_texels": 1557104,
+  "presentation_room_number_labels": false,
+  "stop_id_metadata_only": "HS03",
+  "receiver_OBJ": "CampusCenter_P02plusP03B3_Assembly_1_100_UV02.obj",
+  "receiver_OBJ_sha256": "b949784cbb3f833d10d82fdd48d469ac3fac1b8ac723f7cc08588ca633a59fba",
+  "geometry_UV_origin_or_scale_changed": false,
+  "fixture_normal_height_and_contact_shading_from_actual_unchanged_geometry": true,
+  "restored_fireplace_patch_exactly_matches_hybrid_UV02": true,
+  "highlight_mask": "HS03_World_Clipped_Receiver_Alpha_8192.png",
+  "highlight_mask_sha256": "04bbb152dbf48493c5a3cfe0f94b9c7a1b26c067452ded4731fd0aca2d0946f3",
+  "highlight_receiver_charts": 3123,
+  "highlight_nonzero_receiver_pixels": 1450617,
+  "highlight_method": "For every opaque non-underside source triangle, evaluate actual world XY affinely through its original UVs, clip against exact rectilinear room polygons, and rasterize at4x4 alpha coverage. Applies to floor finishes, furniture, wall sides/caps and other receiver surfaces. Two-pixel triangle-chart bleed stays within existing chart rectangles. No whole-triangle room ownership or mesh edits.",
+  "highlight_scope_authority": "Same registered A101 room-footprint polygons, approved H02 hall bounds and native verified gym inner bounds. Stop identities and explicit exclusions unchanged. No new R29 semantic room-boundary audit claimed.",
+  "mask_revision": "H03 canonical full receiver; original H02/P01/R02 untouched",
+  "native_preview_pending": false,
+  "room_highlight_mapping_validation_pending": false,
+  "physical_projector_readability_verified": false,
+  "room_highlight_mapping_QA": "Room_Highlight_World_Mapping_QA.json",
+  "viewing_QA": "Compact_Mapped_Preview_QA.json",
+  "native_QA": "Native_Hybrid_Media_Reapplication_QA.json",
+  "all30_final_atlas_audit": "../All13_Final_Tour_QA.json",
+  "visual_review_complete": true
+}

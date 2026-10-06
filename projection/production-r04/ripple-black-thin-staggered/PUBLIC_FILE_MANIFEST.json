@@ -1,0 +1,232 @@
+[
+  {
+    "file": "QA_and_References/Actual_Crest_Width_Comparison_QA.json",
+    "bytes": 1655,
+    "sha256": "d96ceaf68a83c0981452426c2205f6273f110819225a8385250d7e1cee7b9757"
+  },
+  {
+    "file": "QA_and_References/Compact_Black_Levels_And_Decode_QA.json",
+    "bytes": 159406,
+    "sha256": "f8d0c92671f1bce11ead0e186251ec2c6e21695acebcb8fc6ed2e4e18f2e6d72"
+  },
+  {
+    "file": "QA_and_References/Lossless_Atlas_Movie_QA.json",
+    "bytes": 183809,
+    "sha256": "d51c2d4afdb16e0c80d915f1fe0a55c73b293f28602fa5412f5d9f0cbf401d37"
+  },
+  {
+    "file": "QA_and_References/Lossless_Mapped_Reference_QA.json",
+    "bytes": 1207,
+    "sha256": "fae4c406defad43df49825847e51769d8246856572f2af88ecd57f4e7256c17c"
+  },
+  {
+    "file": "QA_and_References/Native_Hybrid_Media_Reapplication_QA.json",
+    "bytes": 3171,
+    "sha256": "7b5e1bbc996c3b258239b66ba60a2aacea39fe0d6e87b35bbc02246c03c2f426"
+  },
+  {
+    "file": "QA_and_References/README_R04.txt",
+    "bytes": 2770,
+    "sha256": "96adf6e4de23e2322354b777b3bbf6e2af1d5f313120a914d26dd1b38c61e728"
+  },
+  {
+    "file": "QA_and_References/Ripple_R04_Frame_0000_Actual_Decoded_Mapped_1024.png",
+    "bytes": 2420,
+    "sha256": "7b8b428aa36bc52973d45ab18a23f8f08635e23eee9abba0a91817d429e71543"
+  },
+  {
+    "file": "QA_and_References/Ripple_R04_Frame_0000_Lossless_Atlas_4096.png",
+    "bytes": 48918,
+    "sha256": "04677a4cd9894ebc7cdc62b07f0adfb2c50147562c5ecab179974c131695e1be"
+  },
+  {
+    "file": "QA_and_References/Ripple_R04_Frame_0000_Lossless_Native_Mapped_Preview.png",
+    "bytes": 60488,
+    "sha256": "c2a5f79f79bac81e43f532af3f667848cdd3a4ad7675335a6ffbb2107a4e6d21"
+  },
+  {
+    "file": "QA_and_References/Ripple_R04_Frame_0000_Mapped_1024.png",
+    "bytes": 2420,
+    "sha256": "7b8b428aa36bc52973d45ab18a23f8f08635e23eee9abba0a91817d429e71543"
+  },
+  {
+    "file": "QA_and_References/Ripple_R04_Frame_0060_Actual_Decoded_Mapped_1024.png",
+    "bytes": 32780,
+    "sha256": "b8d9fd2100a39247482528973c9136a17dcfabe2733c38a4152aa904c3cc8fba"
+  },
+  {
+    "file": "QA_and_References/Ripple_R04_Frame_0060_Lossless_Atlas_4096.png",
+    "bytes": 103612,
+    "sha256": "7f3fe9f11b9ba0e4830b4de9142c5033b06294939f1ceec7a235331fa439090b"
+  },
+  {
+    "file": "QA_and_References/Ripple_R04_Frame_0060_Lossless_Native_Mapped_Preview.png",
+    "bytes": 144808,
+    "sha256": "0430fdafa8e1f8885c1aa0c2c2931d1c4e65e8e00e071eb72b926b856dd8fd9c"
+  },
+  {
+    "file": "QA_and_References/Ripple_R04_Frame_0060_Mapped_1024.png",
+    "bytes": 21295,
+    "sha256": "c581cbda7382dd916653e609e39e9f71253aab96388ae4cd43d37a802aeb7f0a"
+  },
+  {
+    "file": "QA_and_References/Ripple_R04_Frame_0120_Actual_Decoded_Mapped_1024.png",
+    "bytes": 118655,
+    "sha256": "9730ca594319fbf48aeb8f2a503089d38ab09f798398e37f940d50eec633280a"
+  },
+  {
+    "file": "QA_and_References/Ripple_R04_Frame_0120_Lossless_Atlas_4096.png",
+    "bytes": 265275,
+    "sha256": "d6553e2ce03f08634ff6eb0ff5a0c267489c7a2da52693ec74ab4395fbb30b2d"
+  },
+  {
+    "file": "QA_and_References/Ripple_R04_Frame_0120_Lossless_Native_Mapped_Preview.png",
+    "bytes": 386032,
+    "sha256": "23b49b04ba15597e4e69bf423f0336dd04193ba6ea83d6590b3a994f811aaea2"
+  },
+  {
+    "file": "QA_and_References/Ripple_R04_Frame_0120_Mapped_1024.png",
+    "bytes": 77776,
+    "sha256": "8df03e9d580b54d8d24eaa53d2bb3a6db4cc39b180f4d82d3f599b5d2f04ed2b"
+  },
+  {
+    "file": "QA_and_References/Ripple_R04_Frame_0240_Actual_Decoded_Mapped_1024.png",
+    "bytes": 426962,
+    "sha256": "e47d99c959ea3800a3c318b4c2851c1891fad59bb36ee71d0093241d6be587a4"
+  },
+  {
+    "file": "QA_and_References/Ripple_R04_Frame_0240_Lossless_Atlas_4096.png",
+    "bytes": 782657,
+    "sha256": "233dbb1b48636beae9940804fe0334a27948cf4f05180e2711c65867d70f9ac8"
+  },
+  {
+    "file": "QA_and_References/Ripple_R04_Frame_0240_Lossless_Native_Mapped_Preview.png",
+    "bytes": 1196270,
+    "sha256": "d9cc864c455daf530adf732c6876cba46fb850d00908a7c1c004434b05448420"
+  },
+  {
+    "file": "QA_and_References/Ripple_R04_Frame_0240_Mapped_1024.png",
+    "bytes": 273951,
+    "sha256": "89bd10598b6653606246950e58ec158d9abdf8332d6872472251f582753f9ff6"
+  },
+  {
+    "file": "QA_and_References/Ripple_R04_Frame_0400_Actual_Decoded_Mapped_1024.png",
+    "bytes": 435109,
+    "sha256": "8374d510a636282bbc44b0cfb06605ac4b61c2d54d95bddd31d7ecdc770b01b9"
+  },
+  {
+    "file": "QA_and_References/Ripple_R04_Frame_0400_Lossless_Atlas_4096.png",
+    "bytes": 785437,
+    "sha256": "a6bd9c9442456ac97567cfb7183c408851e306bb2c8d18df791de29aa8c2254c"
+  },
+  {
+    "file": "QA_and_References/Ripple_R04_Frame_0400_Lossless_Native_Mapped_Preview.png",
+    "bytes": 1186017,
+    "sha256": "dcc11dc4a9fac62c0ec3f7b88213e9927257ea396fcf0e5f19340c0b1c91c2d2"
+  },
+  {
+    "file": "QA_and_References/Ripple_R04_Frame_0400_Mapped_1024.png",
+    "bytes": 271807,
+    "sha256": "b5b1bdcfb54284f5c8cc3693c0d8d8f6459fdb615ecba20b526089da0dad1f6a"
+  },
+  {
+    "file": "QA_and_References/Ripple_R04_Frame_0640_Actual_Decoded_Mapped_1024.png",
+    "bytes": 79188,
+    "sha256": "49fab7b6c1e2b4a8031cd0b70397d6d8c6fdba25b69c94053d164b8f18e3731b"
+  },
+  {
+    "file": "QA_and_References/Ripple_R04_Frame_0640_Lossless_Atlas_4096.png",
+    "bytes": 165027,
+    "sha256": "d75d0f7cb7d6d12fc27504b6994675954a08cf5e95cbcc84847c0aabee4615c0"
+  },
+  {
+    "file": "QA_and_References/Ripple_R04_Frame_0640_Lossless_Native_Mapped_Preview.png",
+    "bytes": 246057,
+    "sha256": "93adc034057585caf6dd469232a9cb0df95b94ca7395b59852bc4e27a4d02e15"
+  },
+  {
+    "file": "QA_and_References/Ripple_R04_Frame_0640_Mapped_1024.png",
+    "bytes": 50368,
+    "sha256": "b86cecc8ccb147d784e89175c41a63f5aac6b1b2604686cf8663b942ca9be378"
+  },
+  {
+    "file": "QA_and_References/Ripple_R04_Frame_0879_Actual_Decoded_Mapped_1024.png",
+    "bytes": 2420,
+    "sha256": "7b8b428aa36bc52973d45ab18a23f8f08635e23eee9abba0a91817d429e71543"
+  },
+  {
+    "file": "QA_and_References/Ripple_R04_Frame_0879_Lossless_Atlas_4096.png",
+    "bytes": 48918,
+    "sha256": "04677a4cd9894ebc7cdc62b07f0adfb2c50147562c5ecab179974c131695e1be"
+  },
+  {
+    "file": "QA_and_References/Ripple_R04_Frame_0879_Lossless_Native_Mapped_Preview.png",
+    "bytes": 60488,
+    "sha256": "6788a64c22a7acf47d3980d9eba608cf71807783924a8a4f42e8de2788b1a642"
+  },
+  {
+    "file": "QA_and_References/Ripple_R04_Frame_0879_Mapped_1024.png",
+    "bytes": 2420,
+    "sha256": "7b8b428aa36bc52973d45ab18a23f8f08635e23eee9abba0a91817d429e71543"
+  },
+  {
+    "file": "QA_and_References/Source_And_R03_H03_Preservation_QA.json",
+    "bytes": 923,
+    "sha256": "e2f545f694337772db9d6f117a62d94d16a0ffb9e3b3a8e818da0a0bcea716ed"
+  },
+  {
+    "file": "QA_and_References/Thin_Black_Staggered_Transfer_QA.json",
+    "bytes": 63158,
+    "sha256": "fe6360117527ba48150f1a3707262fbb331e0ed0541b52181ff772cbffff0b26"
+  },
+  {
+    "file": "QA_and_References/Staggered_Connected_Wave_Physics_QA.json",
+    "bytes": 51515,
+    "sha256": "77f89c9e289edfe646061519e7c70bba2c1fac04dab521458889e4aa936f18ff"
+  },
+  {
+    "file": "Reference_Receiver/CampusCenter_P02plusP03B3_Assembly_1_100_UV02.obj",
+    "bytes": 16613878,
+    "sha256": "b949784cbb3f833d10d82fdd48d469ac3fac1b8ac723f7cc08588ca633a59fba"
+  },
+  {
+    "file": "Reference_Receiver/CampusCenter_P02_Assembly_1_100_UV01.mtl",
+    "bytes": 275,
+    "sha256": "8f71eea8b37df7d0705cdfa9f69afde3d0fbde5cd8e524e04ae4b4f88de3c715"
+  },
+  {
+    "file": "Inherited_Geometry_References/Final_Coverage_And_Limitations_QA.json",
+    "bytes": 1146,
+    "sha256": "30506b06dd959764ed1459fe74a5769e69de4cdf3efba6cf76cc48f790116b69"
+  },
+  {
+    "file": "Inherited_Geometry_References/Source_Preservation_QA.json",
+    "bytes": 306,
+    "sha256": "60eefeaa19c51e93aafe6e649bb09d155fab1c2d3c4fa1b78492491a5f25aec0"
+  },
+  {
+    "file": "Inherited_Geometry_References/Simulation_Domain_Manifest.json",
+    "bytes": 42627,
+    "sha256": "0744a46dec666178fc2a7d5eaee9303949579882e9df39deb664226269a126df"
+  },
+  {
+    "file": "Inherited_Geometry_References/Solid_Fixture_Volume_QA.json",
+    "bytes": 368765,
+    "sha256": "052d7fe7fb3ed75fcbaba0ddcc2761552704363b1486b52c25fa73eb953590d7"
+  },
+  {
+    "file": "Inherited_Geometry_References/Open_Commons_Cafe_Transmission_QA.json",
+    "bytes": 570,
+    "sha256": "8469c12651a8b0bf2bdc5a60cc2a4a97f8a09b4fefe365e728d601d914fa0e68"
+  },
+  {
+    "file": "Inherited_Geometry_References/Whole_Native_Obstacle_And_Ownership_Grid.npz",
+    "bytes": 48662,
+    "sha256": "0463f76370ce6aa0df2ba52902e5c31acaf272295251c7c1d3f990e2cc5004df"
+  },
+  {
+    "file": "PUBLICATION_NOTICE.json",
+    "bytes": 1205,
+    "sha256": "684de795450ad52f73cb2b3bd2c4e44587455beb2ea515eefe2bda8b0a086972"
+  }
+]

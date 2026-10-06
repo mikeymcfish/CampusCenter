@@ -1,0 +1,190 @@
+{
+  "status": "PASS: complete H04 colour, Commons-only fireplace, verbatim gym captions, unchanged receiver/masks and native/viewing validation",
+  "official_title_exact": "CRI Gallery",
+  "official_body_exact": "The CRI Gallery makes learning visible by showcasing student research, creative work, discoveries, and ideas from across disciplines. It celebrates the process of inquiry as much as the final product, inviting the community to ask questions, make connections, and be inspired by what King students are exploring.",
+  "official_paragraphs_exact": [
+    "The CRI Gallery makes learning visible by showcasing student research, creative work, discoveries, and ideas from across disciplines. It celebrates the process of inquiry as much as the final product, inviting the community to ask questions, make connections, and be inspired by what King students are exploring."
+  ],
+  "full_official_word_sequence_reconstructs_exactly": true,
+  "paragraph_boundaries_preserved_as_page_boundaries": true,
+  "pages": [
+    {
+      "page": 1,
+      "lines": [
+        "The CRI Gallery makes learning",
+        "visible by showcasing student",
+        "research, creative work,",
+        "discoveries, and ideas from",
+        "across disciplines."
+      ],
+      "official_text_portion": "The CRI Gallery makes learning visible by showcasing student research, creative work, discoveries, and ideas from across disciplines.",
+      "atlas": "CRI_Gallery_Paginated_Page_01_Atlas_8192.png",
+      "atlas_sha256": "483e001ab5b03379ecf9b76dfb604f1f0e6d56cd595c5ac1f96111cc37affd22",
+      "body_glyph_bounds_px": [
+        [
+          175,
+          655,
+          1947,
+          782
+        ],
+        [
+          175,
+          830,
+          1874,
+          957
+        ],
+        [
+          175,
+          1005,
+          1508,
+          1118
+        ],
+        [
+          175,
+          1179,
+          1727,
+          1293
+        ],
+        [
+          175,
+          1355,
+          1185,
+          1481
+        ]
+      ],
+      "caption_surface_texels": 1557104,
+      "source_page": "CRI_Gallery_Paginated_Page_01_Atlas_8192.png",
+      "caption_pixels_exactly_preserved": true,
+      "fireplace_patch_exactly_preserved": false,
+      "source_H03_page": "CRI_Gallery_Paginated_Page_01_Atlas_8192.png",
+      "source_H03_page_sha256": "5f72d24318ce21152e9bdbd27aa341a00c8dcf31ce37ede07e814ed8f993ba5e",
+      "fireplace_selected_only_in_Commons": true
+    },
+    {
+      "page": 2,
+      "lines": [
+        "It celebrates the process of",
+        "inquiry as much as the final",
+        "product, inviting the",
+        "community to ask questions,",
+        "make connections, and be",
+        "inspired by what King students",
+        "are exploring."
+      ],
+      "official_text_portion": "It celebrates the process of inquiry as much as the final product, inviting the community to ask questions, make connections, and be inspired by what King students are exploring.",
+      "atlas": "CRI_Gallery_Paginated_Page_02_Atlas_8192.png",
+      "atlas_sha256": "3c37b8457595ec8cd0f808da50945b4d4ea891ea448cd0e31cf478a61b1bb4a3",
+      "body_glyph_bounds_px": [
+        [
+          175,
+          654,
+          1719,
+          781
+        ],
+        [
+          175,
+          829,
+          1741,
+          957
+        ],
+        [
+          175,
+          1005,
+          1337,
+          1132
+        ],
+        [
+          175,
+          1180,
+          1817,
+          1307
+        ],
+        [
+          175,
+          1355,
+          1675,
+          1468
+        ],
+        [
+          175,
+          1530,
+          1941,
+          1657
+        ],
+        [
+          175,
+          1705,
+          956,
+          1832
+        ]
+      ],
+      "caption_surface_texels": 1557104,
+      "source_page": "CRI_Gallery_Paginated_Page_02_Atlas_8192.png",
+      "caption_pixels_exactly_preserved": true,
+      "fireplace_patch_exactly_preserved": false,
+      "source_H03_page": "CRI_Gallery_Paginated_Page_02_Atlas_8192.png",
+      "source_H03_page_sha256": "1f9574cadf8dfb23bc4fb5f8e63acdd94afc79f13e95cf8c9590707e27db5ed1",
+      "fireplace_selected_only_in_Commons": true
+    }
+  ],
+  "page_count": 2,
+  "page_hold_seconds": 10,
+  "body_font_nominal_model_mm": 13,
+  "body_x_height_at_1024_view_px": 9.16488812392427,
+  "body_capital_height_at_1024_view_px": 12.830843373493977,
+  "caption_bounds_model_mm": [
+    [
+      235,
+      231
+    ],
+    [
+      448,
+      451
+    ]
+  ],
+  "all_caption_pixels_inside_gym_H02_and_world_rectangle": true,
+  "all_caption_pixels_exactly_preserved_from_validated_verbatim_source": true,
+  "caption_receiver_texels": 1557104,
+  "presentation_room_number_labels": false,
+  "stop_id_metadata_only": "HS05",
+  "receiver_OBJ": "CampusCenter_P02plusP03B3_Assembly_1_100_UV02.obj",
+  "receiver_OBJ_sha256": "b949784cbb3f833d10d82fdd48d469ac3fac1b8ac723f7cc08588ca633a59fba",
+  "geometry_UV_origin_or_scale_changed": false,
+  "fixture_normal_height_and_contact_shading_from_actual_unchanged_geometry": true,
+  "restored_fireplace_patch_exactly_matches_hybrid_UV02": false,
+  "highlight_mask": "HS05_World_Clipped_Receiver_Alpha_8192.png",
+  "highlight_mask_sha256": "e7b61e38a93f74649c054fb599283bc2f9148d3de11511aa0a26a59278ea80d9",
+  "highlight_receiver_charts": 389,
+  "highlight_nonzero_receiver_pixels": 661446,
+  "highlight_method": "For every opaque non-underside source triangle, evaluate actual world XY affinely through its original UVs, clip against exact rectilinear room polygons, and rasterize at4x4 alpha coverage. Applies to floor finishes, furniture, wall sides/caps and other receiver surfaces. Two-pixel triangle-chart bleed stays within existing chart rectangles. No whole-triangle room ownership or mesh edits.",
+  "highlight_scope_authority": "Same registered A101 room-footprint polygons, approved H02 hall bounds and native verified gym inner bounds. Stop identities and explicit exclusions unchanged. No new R29 semantic room-boundary audit claimed.",
+  "mask_revision": "H03 canonical full receiver; original H02/P01/R02 untouched",
+  "native_preview_pending": false,
+  "room_highlight_mapping_validation_pending": false,
+  "physical_projector_readability_verified": false,
+  "room_highlight_mapping_QA": "Room_Highlight_World_Mapping_QA.json",
+  "all30_final_atlas_audit": "../All13_Final_Tour_QA.json",
+  "visual_review_complete": true,
+  "revision": "H04: media only; H03 retained",
+  "source_H03_pagination_QA": "Pagination_QA.json",
+  "colour_RGB": [
+    212,
+    145,
+    255
+  ],
+  "previous_H03_colour_RGB": [
+    187,
+    128,
+    225
+  ],
+  "colour_and_fixture_shading_QA": {
+    "receiver_charts": 389,
+    "selected_receiver_texels": 661446,
+    "raised_fixture_or_wall_texels": 435914,
+    "same_hue_max_RGB_byte_residual": 0.9058823529411768
+  },
+  "floor_linear_colour_factor_ratio_vs_H03_median": 1.2196115324809382,
+  "fixture_colour": "All selected non-underside opaque surfaces use room hue; raised surfaces atz>=5.8mm use0.72 top multiplier,0.48 side multiplier. Normal,height and contact shading preserved; no neutral furniture replacements. Raised-wall surfaces share this treatment.",
+  "fireplace_control": "Dedicated UV02 fireplace charts use Commons hue and dim fixture shading only during Commons; RGB0 on every other stop. No neutral compatibility patch added.",
+  "all_caption_pixels_exactly_preserved_from_final_H03": true
+}

@@ -1,0 +1,33 @@
+{
+  "status": "PASS: all frames decoded; native caption/room sheets and actual encoded overview pages visually reviewed",
+  "file": "Trophy_Hall_Corridor_Paginated_Gym_Mapped_1024_Viewing_Preview_H04_Bright_SameHue.mp4",
+  "bytes": 255306,
+  "sha256": "bfe0605392f54a8972a7362048b0583cae6117a707362dfc6f14cdcb4482e5d9",
+  "width": 1024,
+  "height": 846,
+  "fps": 20,
+  "frames": 400,
+  "duration_seconds": 20.0,
+  "page_count": 2,
+  "hold_seconds_each": 10,
+  "actual_native_mapped_images_used": true,
+  "raw_atlas_playback_file": false,
+  "all_preview_frames_decoded": true,
+  "visual_review_pending": false,
+  "physical_projector_readability_verified": false,
+  "codec_probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1024,
+        "height": 846,
+        "r_frame_rate": "20/1",
+        "duration": "20.000000",
+        "nb_read_frames": "400"
+      }
+    ]
+  },
+  "visual_review_reference": "../Review_Sheets/Visual_Review_Completion.json"
+}

@@ -1,0 +1,396 @@
+{
+  "verification": "Every listed asset anonymously downloaded and checked for exact byte count and SHA256; GitHub server digests also checked. Full movie decodes and published tracker installer/rollback verified separately.",
+  "releases": [
+    {
+      "tag": "campuscenter-pacman-r02-uv02-atlas-test-20261006",
+      "tag_commit": "37b475848db96697df576786a966a523bfe7cd68",
+      "release_url": "https://github.com/mikeymcfish/CampusCenter/releases/tag/campuscenter-pacman-r02-uv02-atlas-test-20261006",
+      "downloads": [
+        {
+          "file": "PacMan_R02_SingleActor_UV02_1_100_8192_LosslessPNG.mov.part001",
+          "bytes": 1900000000,
+          "sha256": "04752ac8c815fe66ead47017e2500d6d37a1f842ccc1f8ce2e4a0c7ecb356a98",
+          "role": "Lossless UV atlas MOV byte-part 1/2; join both before opening",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-pacman-r02-uv02-atlas-test-20261006/PacMan_R02_SingleActor_UV02_1_100_8192_LosslessPNG.mov.part001"
+        },
+        {
+          "file": "PacMan_R02_SingleActor_UV02_1_100_8192_LosslessPNG.mov.part002",
+          "bytes": 1891677592,
+          "sha256": "e452a0f878c8852595fc1387a5706e60b714022a1e7c037b8962e94d487a5ad5",
+          "role": "Lossless UV atlas MOV byte-part 2/2; join both before opening",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-pacman-r02-uv02-atlas-test-20261006/PacMan_R02_SingleActor_UV02_1_100_8192_LosslessPNG.mov.part002"
+        },
+        {
+          "file": "RAW_ATLAS_JOIN_MANIFEST.json",
+          "bytes": 793,
+          "sha256": "d75ff4768032951528000256c59332dbb7ebeb308c403c8e2dda9841d97f1a4d",
+          "role": "Ordered parts and original MOV checksum",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-pacman-r02-uv02-atlas-test-20261006/RAW_ATLAS_JOIN_MANIFEST.json"
+        },
+        {
+          "file": "Join_PacMan_R02_Atlas.py",
+          "bytes": 1231,
+          "sha256": "2f4ccf5f5290e2e34162d175d922370dda2c393b94b7a3290bb7c2ae16f1b9a7",
+          "role": "Python3 checksum-verifying movie reassembly script",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-pacman-r02-uv02-atlas-test-20261006/Join_PacMan_R02_Atlas.py"
+        },
+        {
+          "file": "CampusCenter_UV02_PacMan_R02_SingleActor_Keyframes_Route_And_QA.zip",
+          "bytes": 19074858,
+          "sha256": "1e4923cbbd4bd8fe30b16c486312699741847c8bb6ca8aa96cfb1428f0ccb03e",
+          "role": "Raw atlas keyframes, validated continuous route, native mapping and barrier QA",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-pacman-r02-uv02-atlas-test-20261006/CampusCenter_UV02_PacMan_R02_SingleActor_Keyframes_Route_And_QA.zip"
+        },
+        {
+          "file": "PUBLIC_DOWNLOAD_MANIFEST.json",
+          "bytes": 1285,
+          "sha256": "0e7228ffbbad10f54ac2fdf030ee8866ace5c078271c424ed5090b680b5b60a2",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-pacman-r02-uv02-atlas-test-20261006/PUBLIC_DOWNLOAD_MANIFEST.json"
+        }
+      ]
+    },
+    {
+      "tag": "campuscenter-pacman-r02-compact-viewing-20261006",
+      "tag_commit": "7a0f40b1b20665598bc02fd50bacd35ede88c792",
+      "release_url": "https://github.com/mikeymcfish/CampusCenter/releases/tag/campuscenter-pacman-r02-compact-viewing-20261006",
+      "downloads": [
+        {
+          "file": "PacMan_R02_SingleActor_Mapped_1024_Viewing_Preview.mp4",
+          "bytes": 892695,
+          "sha256": "64cfbbc01286f1cd4dcd32d7d712cc4976b030def820133bcefae663634918d4",
+          "role": "Compact mapped CAMERA viewing preview; not a UV atlas input",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-pacman-r02-compact-viewing-20261006/PacMan_R02_SingleActor_Mapped_1024_Viewing_Preview.mp4"
+        },
+        {
+          "file": "CampusCenter_UV02_PacMan_R02_Compact_Viewing_And_Barrier_Proof.zip",
+          "bytes": 1964819,
+          "sha256": "33a5f71491a31dab24e512fcc2708ce765da161af0b71ced7446b0e3dfda84c8",
+          "role": "Compact viewing, route/barrier proof and reviewed frames",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-pacman-r02-compact-viewing-20261006/CampusCenter_UV02_PacMan_R02_Compact_Viewing_And_Barrier_Proof.zip"
+        },
+        {
+          "file": "PUBLIC_DOWNLOAD_MANIFEST.json",
+          "bytes": 537,
+          "sha256": "945313d47c7f126fcbb843f686ea1d0302e65a1f06c606875647c128ab5fd56b",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-pacman-r02-compact-viewing-20261006/PUBLIC_DOWNLOAD_MANIFEST.json"
+        }
+      ]
+    },
+    {
+      "tag": "campuscenter-tron-wallcaps-t01-atlas-20261006",
+      "tag_commit": "7a0f40b1b20665598bc02fd50bacd35ede88c792",
+      "downloads": [
+        {
+          "file": "Tron_WallCaps_UV02_Atlas_8192_10s24_Lossless.mov",
+          "bytes": 269899016,
+          "sha256": "d1bae23b58afd18566e2e118c09e80f6d586e23fce9bf5c3b9fc97910903788b",
+          "role": "Actual8192 UV atlas MOV, qtrle RGB24,10s24fps WALL TOPS ONLY",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-tron-wallcaps-t01-atlas-20261006/Tron_WallCaps_UV02_Atlas_8192_10s24_Lossless.mov"
+        },
+        {
+          "file": "CampusCenter_Tron_WallCaps_UV02_T01_Public_Test.zip",
+          "bytes": 12819282,
+          "sha256": "c4de9277c0d978ea9b7f5daf4699c011383424571b2e8fb47517863dff3bd7b1",
+          "role": "Receiver copy, raw atlas keyframes/masks, QA, static Blender preview and reproducible scripts",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-tron-wallcaps-t01-atlas-20261006/CampusCenter_Tron_WallCaps_UV02_T01_Public_Test.zip"
+        },
+        {
+          "file": "PUBLIC_DOWNLOAD_MANIFEST.json",
+          "bytes": 558,
+          "sha256": "0ac3eec341cf3627ffc27fef47ca149e8e97d0984a51252c66775d7b9c975a45",
+          "role": "Public asset checksums",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-tron-wallcaps-t01-atlas-20261006/PUBLIC_DOWNLOAD_MANIFEST.json"
+        }
+      ],
+      "release_url": "https://github.com/mikeymcfish/CampusCenter/releases/tag/campuscenter-tron-wallcaps-t01-atlas-20261006"
+    },
+    {
+      "tag": "campuscenter-tron-wallcaps-t01-viewing-20261006",
+      "tag_commit": "7a0f40b1b20665598bc02fd50bacd35ede88c792",
+      "release_url": "https://github.com/mikeymcfish/CampusCenter/releases/tag/campuscenter-tron-wallcaps-t01-viewing-20261006",
+      "downloads": [
+        {
+          "file": "Tron_WallCaps_UV02_FrontNormal_Mapped_1024_10s24.mp4",
+          "bytes": 235292,
+          "sha256": "801bb714bdc3236d3a145e006a5b9175c3db92d6d01a6b733a401ab233c2a860",
+          "role": "mapped_camera_MP4",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-tron-wallcaps-t01-viewing-20261006/Tron_WallCaps_UV02_FrontNormal_Mapped_1024_10s24.mp4"
+        },
+        {
+          "file": "WallCaps_Static_FrontNormal_Mapped_1024.png",
+          "bytes": 19818,
+          "sha256": "cf55b9b8e67240df79bf289769d1ff68f36b2ceb46d555155c00f8b31e127b86",
+          "role": "static_selection",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-tron-wallcaps-t01-viewing-20261006/WallCaps_Static_FrontNormal_Mapped_1024.png"
+        },
+        {
+          "file": "WallSelection_Oblique_DIAGNOSTIC_1024.png",
+          "bytes": 492934,
+          "sha256": "26b4563c3d11650ccc091afbb3d860451fe26792ac308ac70c5ad90a4f3c63d5",
+          "role": "oblique_selection_diagnostic",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-tron-wallcaps-t01-viewing-20261006/WallSelection_Oblique_DIAGNOSTIC_1024.png"
+        },
+        {
+          "file": "PUBLIC_DOWNLOAD_MANIFEST.json",
+          "bytes": 646,
+          "sha256": "26bdefb210c4b8023bfdc65f91838837e88fe9fb1f6740b684a02b8e37bd0088",
+          "role": "Public download checksums",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-tron-wallcaps-t01-viewing-20261006/PUBLIC_DOWNLOAD_MANIFEST.json"
+        }
+      ]
+    },
+    {
+      "tag": "campuscenter-ripple-r03-whole-model-atlas-20261006",
+      "tag_commit": "7a0f40b1b20665598bc02fd50bacd35ede88c792",
+      "release_url": "https://github.com/mikeymcfish/CampusCenter/releases/tag/campuscenter-ripple-r03-whole-model-atlas-20261006",
+      "downloads": [
+        {
+          "file": "Ripple_R03_WholeModel_Connected_UV02_1_100_4096_HAP.mov",
+          "bytes": 752774792,
+          "sha256": "914751534334c8a15a54722c031913ad1bd28c3fe68c5e6ff721d8fec6b7c14f",
+          "role": "Whole-model4096 HAP raw UV atlas input; geometry-connected R03 test",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-ripple-r03-whole-model-atlas-20261006/Ripple_R03_WholeModel_Connected_UV02_1_100_4096_HAP.mov"
+        },
+        {
+          "file": "CampusCenter_UV02_Ripple_R03_WholeModel_Keyframes_and_QA.zip",
+          "bytes": 35926994,
+          "sha256": "f091b2368f3088a506501c74da2e08fd505e3e6bd7a22581cd8677f85e201282",
+          "role": "Raw/decoded atlas keyframes, native mapping and physics review QA",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-ripple-r03-whole-model-atlas-20261006/CampusCenter_UV02_Ripple_R03_WholeModel_Keyframes_and_QA.zip"
+        },
+        {
+          "file": "PUBLIC_DOWNLOAD_MANIFEST.json",
+          "bytes": 553,
+          "sha256": "4687fe9d6f9393727c14e9fa84a294120ec00ebb100c944a41beacca7856f780",
+          "role": "Public asset checksums",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-ripple-r03-whole-model-atlas-20261006/PUBLIC_DOWNLOAD_MANIFEST.json"
+        }
+      ]
+    },
+    {
+      "tag": "campuscenter-ripple-r03-final-qa-supplement-20261006",
+      "tag_commit": "7a0f40b1b20665598bc02fd50bacd35ede88c792",
+      "release_url": "https://github.com/mikeymcfish/CampusCenter/releases/tag/campuscenter-ripple-r03-final-qa-supplement-20261006",
+      "downloads": [
+        {
+          "file": "CampusCenter_UV02_Ripple_R03_Final_QA_Supplement.zip",
+          "bytes": 54392,
+          "sha256": "6aec6034e64497c9899c28e3439654d4399c62aed6f757c9bd45787fce88e496",
+          "role": "Final source-limit QA and content map; existing movie/viewing/keyframe assets reused",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-ripple-r03-final-qa-supplement-20261006/CampusCenter_UV02_Ripple_R03_Final_QA_Supplement.zip"
+        },
+        {
+          "file": "PUBLIC_DOWNLOAD_MANIFEST.json",
+          "bytes": 287,
+          "sha256": "87511cd845959504b616e211ec9e8ae77b9a182d0b52c4ed2100eaf57391828f",
+          "role": "Public asset checksums",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-ripple-r03-final-qa-supplement-20261006/PUBLIC_DOWNLOAD_MANIFEST.json"
+        }
+      ]
+    },
+    {
+      "tag": "campuscenter-ripple-r04-black-thin-staggered-atlas-20261006",
+      "tag_commit": "7a0f40b1b20665598bc02fd50bacd35ede88c792",
+      "release_url": "https://github.com/mikeymcfish/CampusCenter/releases/tag/campuscenter-ripple-r04-black-thin-staggered-atlas-20261006",
+      "downloads": [
+        {
+          "file": "Ripple_R04_Black_Thin_Staggered_Connected_UV02_1_100_4096_Lossless_PNG.mov",
+          "bytes": 375159817,
+          "sha256": "615d32c42cddba4b7d4ce71a1c0168ed2d7db340a72ee490c32826bb5a225506",
+          "role": "UV02 projection atlas",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-ripple-r04-black-thin-staggered-atlas-20261006/Ripple_R04_Black_Thin_Staggered_Connected_UV02_1_100_4096_Lossless_PNG.mov"
+        },
+        {
+          "file": "Ripple_R04_Black_Thin_Staggered_Connected_44s_Mapped_1024_Lossless_Reference.mov",
+          "bytes": 155515150,
+          "sha256": "3ba30a882ae941609e21e451998713df9d8c77392e975f71a743bb1e588a7116",
+          "role": "Mapped CAMERA lossless reference; not atlas input",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-ripple-r04-black-thin-staggered-atlas-20261006/Ripple_R04_Black_Thin_Staggered_Connected_44s_Mapped_1024_Lossless_Reference.mov"
+        },
+        {
+          "file": "CampusCenter_UV02_Ripple_R04_Keyframes_Receiver_and_QA.zip",
+          "bytes": 9802072,
+          "sha256": "a44a71da3c9d080978d7404b0141aea6e8679e04a09f072458cacf6d0accd97d",
+          "role": "Exact receiver, unchanged keyframes, geometry grid and source-limit QA; movies supplied separately",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-ripple-r04-black-thin-staggered-atlas-20261006/CampusCenter_UV02_Ripple_R04_Keyframes_Receiver_and_QA.zip"
+        },
+        {
+          "file": "PUBLIC_DOWNLOAD_MANIFEST.json",
+          "bytes": 837,
+          "sha256": "ec18e39917c3965d2eacbaa14a8012620b103d247eaa424f8c661203a4108167",
+          "role": "Public asset checksums",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-ripple-r04-black-thin-staggered-atlas-20261006/PUBLIC_DOWNLOAD_MANIFEST.json"
+        }
+      ]
+    },
+    {
+      "tag": "campuscenter-ripple-r04-black-thin-staggered-viewing-20261006",
+      "tag_commit": "7a0f40b1b20665598bc02fd50bacd35ede88c792",
+      "release_url": "https://github.com/mikeymcfish/CampusCenter/releases/tag/campuscenter-ripple-r04-black-thin-staggered-viewing-20261006",
+      "downloads": [
+        {
+          "file": "Ripple_R04_Black_Thin_Staggered_Connected_44s_Mapped_1024_Viewing_Preview.mp4",
+          "bytes": 29629502,
+          "sha256": "1a87419b0e1d977f60bf01fbf4697f9e11930d70b5f57245ae086024bb5117d5",
+          "role": "Mapped CAMERA viewing preview; not projection atlas",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-ripple-r04-black-thin-staggered-viewing-20261006/Ripple_R04_Black_Thin_Staggered_Connected_44s_Mapped_1024_Viewing_Preview.mp4"
+        },
+        {
+          "file": "PUBLIC_DOWNLOAD_MANIFEST.json",
+          "bytes": 282,
+          "sha256": "5f86b25036883a85ff8d97906f31edd0c1037f4be2cfe7942b3abe2673e5931c",
+          "role": "Public asset checksums",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-ripple-r04-black-thin-staggered-viewing-20261006/PUBLIC_DOWNLOAD_MANIFEST.json"
+        }
+      ]
+    },
+    {
+      "tag": "campuscenter-ripple-r04-mobile-viewing-20261006",
+      "tag_commit": "7a0f40b1b20665598bc02fd50bacd35ede88c792",
+      "release_url": "https://github.com/mikeymcfish/CampusCenter/releases/tag/campuscenter-ripple-r04-mobile-viewing-20261006",
+      "downloads": [
+        {
+          "file": "Ripple_R04_Black_Thin_Staggered_44s_Mapped_720_Mobile_Viewing_Only.mp4",
+          "bytes": 4691619,
+          "sha256": "46f4df9ee8c177e87b288c2929e72f9671c991117a780251cc4aed1cb72c486d",
+          "role": "Small mapped CAMERA viewing copy; not atlas input; lossy black noise disclosed",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-ripple-r04-mobile-viewing-20261006/Ripple_R04_Black_Thin_Staggered_44s_Mapped_720_Mobile_Viewing_Only.mp4"
+        },
+        {
+          "file": "PUBLIC_DOWNLOAD_MANIFEST.json",
+          "bytes": 301,
+          "sha256": "6457c08959637d76731b4d1deda05cfade55c661ef0b82c7abe67c85e91bcd3a",
+          "role": "Public asset checksums",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-ripple-r04-mobile-viewing-20261006/PUBLIC_DOWNLOAD_MANIFEST.json"
+        }
+      ]
+    },
+    {
+      "tag": "campuscenter-h03-all13-30pages-final-tour-20261006",
+      "tag_commit": "7a0f40b1b20665598bc02fd50bacd35ede88c792",
+      "release_url": "https://github.com/mikeymcfish/CampusCenter/releases/tag/campuscenter-h03-all13-30pages-final-tour-20261006",
+      "downloads": [
+        {
+          "file": "CampusCenter_UV02_H03_All13_30Pages_Final_Paginated_Tour_Test.zip",
+          "bytes": 106905252,
+          "sha256": "bb706dac0bfb697630b1042c9bf95a7f84723b6036fa39ff38c3ff1b967582e0",
+          "role": "Final reviewed13-stop/30-page standalone8192 atlases, masks, exactUV02 receiver and QA",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-h03-all13-30pages-final-tour-20261006/CampusCenter_UV02_H03_All13_30Pages_Final_Paginated_Tour_Test.zip"
+        },
+        {
+          "file": "PUBLIC_DOWNLOAD_MANIFEST.json",
+          "bytes": 306,
+          "sha256": "74f04f6f6a4a6fbf5426ed39b7a1d4287f50a6ae9ba1ee77101b32ecc4eeb020",
+          "role": "Public asset checksums",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-h03-all13-30pages-final-tour-20261006/PUBLIC_DOWNLOAD_MANIFEST.json"
+        }
+      ]
+    },
+    {
+      "tag": "campuscenter-h04-all13-30pages-bright-samehue-tour-20261006",
+      "tag_commit": "7a0f40b1b20665598bc02fd50bacd35ede88c792",
+      "release_url": "https://github.com/mikeymcfish/CampusCenter/releases/tag/campuscenter-h04-all13-30pages-bright-samehue-tour-20261006",
+      "downloads": [
+        {
+          "file": "CampusCenter_UV02_H04_All13_30Pages_Bright_SameHue_CommonsFireplace_Tour_Test.zip",
+          "bytes": 118404457,
+          "sha256": "06d0ad61ca208d1086a4b8ff97aac164615895b6c0dce0258a28acd2fc3c7da7",
+          "role": "Current H04 all13/30 standalone8192 page atlases, exact receiver/masks, media scripts and QA",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-h04-all13-30pages-bright-samehue-tour-20261006/CampusCenter_UV02_H04_All13_30Pages_Bright_SameHue_CommonsFireplace_Tour_Test.zip"
+        },
+        {
+          "file": "PUBLIC_DOWNLOAD_MANIFEST.json",
+          "bytes": 328,
+          "sha256": "d07fc2616f6df902eff789966983b2b15e3a3fb32521199a99b74efe9239bf9c",
+          "role": "Public asset checksums",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-h04-all13-30pages-bright-samehue-tour-20261006/PUBLIC_DOWNLOAD_MANIFEST.json"
+        }
+      ]
+    },
+    {
+      "tag": "campuscenter-h04-all13-30pages-viewing-20261006",
+      "tag_commit": "7a0f40b1b20665598bc02fd50bacd35ede88c792",
+      "release_url": "https://github.com/mikeymcfish/CampusCenter/releases/tag/campuscenter-h04-all13-30pages-viewing-20261006",
+      "downloads": [
+        {
+          "file": "Tour_H04_All13_30Pages_Mapped_1024_Overview.mp4",
+          "bytes": 3864050,
+          "sha256": "b7716201000a81666b2b20149b00a0b9d0b384b7ef7e11b6b77cd2fd8dc45da5",
+          "role": "H04 all13/30-page five-minute mapped CAMERA overview; not projection atlas",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-h04-all13-30pages-viewing-20261006/Tour_H04_All13_30Pages_Mapped_1024_Overview.mp4"
+        },
+        {
+          "file": "PUBLIC_DOWNLOAD_MANIFEST.json",
+          "bytes": 274,
+          "sha256": "e9b59a31f505e5fa25e674734240d8a08d68a38f661b8d2d2a284ab46cdf952a",
+          "role": "Public asset checksums",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-h04-all13-30pages-viewing-20261006/PUBLIC_DOWNLOAD_MANIFEST.json"
+        }
+      ]
+    },
+    {
+      "tag": "campuscenter-projector-tracker-sender-r01-20261006",
+      "tag_commit": "8ea9fee36d880e376eb0929da44b52fada730776",
+      "release_url": "https://github.com/mikeymcfish/CampusCenter/releases/tag/campuscenter-projector-tracker-sender-r01-20261006",
+      "downloads": [
+        {
+          "file": "CampusCenter_ProjectorSender_R01_Optional_Patch.zip",
+          "bytes": 31224400,
+          "sha256": "211fa84351b32b10cdf28304b4505b8875ff772e05221caeabbd2081444a42cd",
+          "role": "Optional guarded R29 Vive/Quest sender patch; exact sealed bytes",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-projector-tracker-sender-r01-20261006/CampusCenter_ProjectorSender_R01_Optional_Patch.zip"
+        },
+        {
+          "file": "CampusCenterTracker_R01_Portable_Windows_x64.zip",
+          "bytes": 73173172,
+          "sha256": "5307ce66866ed433aa13c13b6f9dee73695167c52951f47832de0816ee4df12f",
+          "role": "Sealed portable companion with private runtime/licenses",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-projector-tracker-sender-r01-20261006/CampusCenterTracker_R01_Portable_Windows_x64.zip"
+        },
+        {
+          "file": "CampusCenterTracker_R01_Source_and_QA.zip",
+          "bytes": 224449,
+          "sha256": "03652e6400ca1c6b9abe82b0c29d1f156d2944037bb7d6175df948ee577ceabe",
+          "role": "Sealed companion sources and software QA",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-projector-tracker-sender-r01-20261006/CampusCenterTracker_R01_Source_and_QA.zip"
+        },
+        {
+          "file": "CampusCenter_ProjectorSender_R01_Public_Source_and_QA.zip",
+          "bytes": 205876,
+          "sha256": "84a2647dff8f1244de904db57bb7cbc9fe218651b72e45c9c08d217396fd0053",
+          "role": "Native sender source delta, portable installer, reproducible scripts and sanitized software QA; machine logs excluded",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-projector-tracker-sender-r01-20261006/CampusCenter_ProjectorSender_R01_Public_Source_and_QA.zip"
+        },
+        {
+          "file": "README_Projector_Tracker_R01.md",
+          "bytes": 7808,
+          "sha256": "09db8fcd2b5f98a7645628ce58f0bd89054a4533d6fe53638b490874854abc17",
+          "role": "Combined download/install/calibrate/live/rollback guide",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-projector-tracker-sender-r01-20261006/README_Projector_Tracker_R01.md"
+        },
+        {
+          "file": "PUBLIC_DOWNLOAD_MANIFEST.json",
+          "bytes": 1309,
+          "sha256": "678dfd226fca8122a3ec82abcb016a2d8905c33ce1b9055735d5ac21adbcd574",
+          "role": "Public asset checksums",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-projector-tracker-sender-r01-20261006/PUBLIC_DOWNLOAD_MANIFEST.json"
+        },
+        {
+          "file": "PUBLIC_INSTALLER_FLOW_QA.json",
+          "bytes": 1450,
+          "sha256": "474706433f686e99fa8c927780bd1ef1d43b2c2744435ae29772bca58a809c56",
+          "role": "Publisher anonymous-download installer/rollback/private-runtime verification",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-projector-tracker-sender-r01-20261006/PUBLIC_INSTALLER_FLOW_QA.json"
+        }
+      ]
+    }
+  ],
+  "PacMan_original_movie": {
+    "bytes": 3791677592,
+    "sha256": "fa6eb541b2a6cfe2a76c8d8cea87c7ace62aef0e9fff97a51153cd6f4d14e64b",
+    "delivery": "Two byte parts plus checksum-verifying Python joiner; no reencoding. Original ordered reconstruction independently tested."
+  },
+  "tracker_source_commit": "8ea9fee36d880e376eb0929da44b52fada730776",
+  "hardware_scope": "Actual HMD/projector/DPI/frame-performance/physical printing and MadMapper playback remain untested.",
+  "source_scope": "R03/R04 release kits include media/physics QA, reference data and documented provenance; a complete procedural solver rebuild bundle is not included."
+}

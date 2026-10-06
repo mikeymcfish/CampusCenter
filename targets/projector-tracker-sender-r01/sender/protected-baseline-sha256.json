@@ -1,0 +1,23 @@
+{
+  "Config/DefaultEditor.ini": "733f7f71b1c4264b5e61886f26a985710cf0690fd22d6d7cd611ce149bfe6c8f",
+  "Config/DefaultEngine.ini": "952434373b7cf7569584a383468b9e08a138400db01a79af0042a89c6bcd2a42",
+  "Config/DefaultGame.ini": "73eecad2fe296af95b2c60b1adfaaf691ea5f94bfaa58a7f64a25f613515e8e2",
+  "Config/DefaultInput.ini": "6f9e1db1504ec3f365bbd808f2976a0342cde1ad6bfe44589bf33c3db14291cc",
+  "CampusCenter.uproject": "226c7da1f7110c83d7e3f00707bbbbd55230bb7e77827b08453134456529b7f0",
+  "Plugins/CampusCrowdFix/Source/CampusCrowdFix/CampusCrowdFix.Build.cs": "6685775991cfa67f359997c5fc827f44e590b48895f8c727e102556be463091e",
+  "Plugins/CampusCrowdFix/Source/CampusCrowdFix/Private/CampusCrowdActorManagement.cpp": "cc407021efd420f76029913742febbf0eb14aa4309a71c45aa92efc621553fc2",
+  "Plugins/CampusCrowdFix/Source/CampusCrowdFix/Private/CampusViveTriggerWalk.cpp": "753016f5afeab2b407697f7d4090895e564e41d1f4ab7e026539c6374def372e",
+  "Plugins/CampusCrowdFix/Source/CampusCrowdFix/Private/CampusViveXROrigin.cpp": "a192f13c2f2675d29d2b819e8a70ad830b2f69023bac2c25914ebac2cccac53d",
+  "Plugins/CampusCrowdFix/Source/CampusCrowdFix/Private/CampusWalkSettings.cpp": "4b8003d9abd73d87ecd9f567ad9fad48aba4d3f2253ed3e37f4f9798e3916804",
+  "Plugins/CampusCrowdFix/Source/CampusCrowdFix/Private/CampusWalkTests.cpp": "a15103abb978ceeed29e21b00caa4ecb6c2c445578edad7bb1ac8fa3f9ba6a01",
+  "Plugins/CampusCrowdFix/Source/CampusCrowdFix/Public/CampusCrowdActorManagement.h": "8337bd5c3729aed28e46efa1694239af798da6b163950f6f50a6dd89cafc7933",
+  "Plugins/CampusCrowdFix/Source/CampusCrowdFix/Public/CampusViveTriggerWalk.h": "e01a9198f891871e85de0280d66193879793727e6993f5706874c26e0d598d8e",
+  "Plugins/CampusCrowdFix/Source/CampusCrowdFix/Public/CampusViveXROrigin.h": "8d5a1dd4f15bf27b376698f43aa4ce4465cd521838334da4afcd5614c1952ffd",
+  "Plugins/CampusCrowdFix/Source/CampusCrowdFix/Public/CampusWalkSettings.h": "b6b8d6a4847fefc8e54893183f5eca5bda97ebd3ca70d3fc3b83d1c3e8811edf",
+  "Content/Campus/ViveGripTurnR01/IA_GripTurn_Left.uasset": "afa868b3fec5df10f8753167ae82b31ca2ecec6f0c7ced68fb9c53744a4b8888",
+  "Content/Campus/ViveGripTurnR01/IA_GripTurn_Right.uasset": "d33f1ea876568c5646025e9ff454aa9d8adb57d2f839b940e6da9a821cbc2b77",
+  "Content/Campus/ViveTriggerWalkR01/IA_TriggerWalk_Left.uasset": "64585fcbb0237bf9cc4a310ff616fa0a79dcb5afae3bc98f2e1016efabc1ed31",
+  "Content/Campus/ViveTriggerWalkR01/IA_TriggerWalk_Right.uasset": "5fda7a785edea53c4c50cba1b220c1773e01bc4240c1180afdeba726886273e1",
+  "Content/Campus/ViveTriggerWalkR01/IMC_ViveTriggerWalk.uasset": "a23c510c0bff63eddda74ce2df441ba6d077146d26541cd3db4cf2be434a4577",
+  "Content/Campus/Maps/CampusCenter_Vive_R29_TrophyTrainerGymCorrections_r02.umap": "fba4b4b9262277979b321ac68bd3b2a52810cb92bc91deba9a11f148d4529277"
+}

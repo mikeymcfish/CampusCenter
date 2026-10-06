@@ -1,0 +1,12 @@
+# H04 all13-stop /30-page brighter same-hue tour test
+
+- [Current H04 all13/30 standalone8192 page atlases, exact receiver/masks, media scripts and QA](https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-h04-all13-30pages-bright-samehue-tour-20261006/CampusCenter_UV02_H04_All13_30Pages_Bright_SameHue_CommonsFireplace_Tour_Test.zip) (118,404,457 bytes).
+
+
+Current completed media revision: brighter room colors, selected furniture dimmer in the same room hue while depth/normal/contact shading is retained; fireplace lights only during Commons. Every fireplace pixel on all pages at the other12 stops is RGB0. H03 historical neutral fireplace patch/furniture overrides are removed. H03 clean world-clipped edge masks, balanced30-page pagination, official words/order and gym-only captions are unchanged; no room numbers. Early Commons/Cafe examples were user-approved; no claim that user reviewed every full-tour page or physical projection.
+
+Viewing overview is300seconds,20fps6000frames,1024x846 camera preview. It is not an atlas movie. Actual projection inputs are30 separate8192-square page atlas PNGs in the kit. Use the whole uncropped texture on the exact UV02 receiver with preserved UVs/origin/axes/scale, unlit emission/nearest and no second lighting. Follow Tour_Playback_And_Registration_Manifest order at10seconds per page. No MadMapper project/cues/calibration supplied. Requires five unchanged P02 1:100 tiles plus P03 B3 fireplace, not UV01 or1:250 sample.
+
+Producer reviewed actual surface/color/coverage and all30 encoded page midpoints, verified all6000 frames decode and317 protected originals unchanged. Publisher independently checks full overview decode/metadata/hash and package CRC, retained file manifest,30 atlas dimensions and exact receiver SHA. Public archive only sanitizes JSON paths and configures FFmpeg tool path; visual/geometry bytes stay unchanged. Media build scripts require matching H03 inputs/registered receiver and native-preview tooling; no source rebuild/render done for publication. H03/R03/earlier versions remain preserved.
+
+Inherited open-room boundaries/shared wall caps remain registered A101/H02 reference assignments, not a fresh latest R29 semantic perimeter audit. Physical projector readability/registration, actual MadMapper playback and real print fit remain untested. Tracker companion uses a different1:250 physical sample profile and is separately opt-in.

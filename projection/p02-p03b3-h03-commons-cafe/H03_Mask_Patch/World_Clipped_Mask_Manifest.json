@@ -1,0 +1,801 @@
+{
+  "revision": "H03 canonical full receiver world clipping",
+  "source_OBJ_sha256": "5fb3d64faebe846255f84b4e4f2be832070fec649ea99a1005d69f0c802db45f",
+  "geometry_UV_scale_origin_or_original_atlas_changes": [],
+  "source_H02_files_changed": false,
+  "scope_authority": "Same registered A101 room-footprint polygons, approved H02 hall bounds and native verified gym inner bounds. Stop identities and explicit exclusions unchanged. No new R29 semantic room-boundary audit claimed.",
+  "method": "For every opaque non-underside source triangle, evaluate actual world XY affinely through its original UVs, clip against exact rectilinear room polygons, and rasterize at4x4 alpha coverage. Applies to floor finishes, furniture, wall sides/caps and other receiver surfaces. Two-pixel triangle-chart bleed stays within existing chart rectangles. No whole-triangle room ownership or mesh edits.",
+  "shared_boundary_alpha_sum_before": 510,
+  "shared_boundary_pixels_normalized": 4854,
+  "shared_boundary_alpha_sum_after": 255,
+  "masks": [
+    {
+      "stop_id": "HS01",
+      "official_title": "Entry + Reception",
+      "approved_room_codes": [
+        "100",
+        "103"
+      ],
+      "mask": "HS01_World_Clipped_Receiver_Alpha_8192.png",
+      "mask_sha256": "0a703b8fa02fd62701cab7f1de32c668707c0bd0f618fd43611ff3b153c32347",
+      "world_polygon_loops_model_mm": [
+        [
+          [
+            658.89208984375,
+            168.8314208984375
+          ],
+          [
+            635.487548828125,
+            168.8314208984375
+          ],
+          [
+            635.487548828125,
+            119.5400390625
+          ],
+          [
+            658.89208984375,
+            119.5400390625
+          ]
+        ],
+        [
+          [
+            634.069091796875,
+            118.830810546875
+          ],
+          [
+            589.7423095703125,
+            118.830810546875
+          ],
+          [
+            589.7423095703125,
+            72.021728515625
+          ],
+          [
+            634.069091796875,
+            72.021728515625
+          ]
+        ]
+      ],
+      "exact_rectilinear_partition_rectangles_model_mm": [
+        [
+          [
+            589.7423095703125,
+            72.02172852
+          ],
+          [
+            634.069091796875,
+            118.83081055
+          ]
+        ],
+        [
+          [
+            635.487548828125,
+            119.54003906
+          ],
+          [
+            658.89208984375,
+            168.8314209
+          ]
+        ]
+      ],
+      "UV_world_clipped_pieces": 1717,
+      "partial_triangle_pieces": 448,
+      "antialiased_pixels": 41092,
+      "all_receiver_surface_roles_clipped": true,
+      "original_triangles_and_UVs_unchanged": true
+    },
+    {
+      "stop_id": "HS02",
+      "official_title": "The Cafe",
+      "approved_room_codes": [
+        "101"
+      ],
+      "mask": "HS02_World_Clipped_Receiver_Alpha_8192.png",
+      "mask_sha256": "fbea377d8fa0e13658f001f39a52e0224930e6f8a7598fb7f6ddf397e5ec3534",
+      "world_polygon_loops_model_mm": [
+        [
+          [
+            634.069091796875,
+            225.5697021484375
+          ],
+          [
+            591.1607666015625,
+            225.5697021484375
+          ],
+          [
+            591.1607666015625,
+            169.5406494140625
+          ],
+          [
+            634.069091796875,
+            169.5406494140625
+          ]
+        ]
+      ],
+      "exact_rectilinear_partition_rectangles_model_mm": [
+        [
+          [
+            591.1607666015625,
+            169.54064941
+          ],
+          [
+            634.069091796875,
+            225.56970215
+          ]
+        ]
+      ],
+      "UV_world_clipped_pieces": 1183,
+      "partial_triangle_pieces": 216,
+      "antialiased_pixels": 23020,
+      "all_receiver_surface_roles_clipped": true,
+      "original_triangles_and_UVs_unchanged": true
+    },
+    {
+      "stop_id": "HS03",
+      "official_title": "The Student Commons",
+      "approved_room_codes": [
+        "102"
+      ],
+      "mask": "HS03_World_Clipped_Receiver_Alpha_8192.png",
+      "mask_sha256": "04bbb152dbf48493c5a3cfe0f94b9c7a1b26c067452ded4731fd0aca2d0946f3",
+      "world_polygon_loops_model_mm": [
+        [
+          [
+            591.1607666015625,
+            225.5697021484375
+          ],
+          [
+            634.069091796875,
+            225.5697021484375
+          ],
+          [
+            634.069091796875,
+            332.6632080078125
+          ],
+          [
+            470.2373046875,
+            332.6632080078125
+          ],
+          [
+            470.2373046875,
+            186.8366516083479
+          ],
+          [
+            591.1607666015625,
+            186.8366516083479
+          ]
+        ]
+      ],
+      "exact_rectilinear_partition_rectangles_model_mm": [
+        [
+          [
+            470.2373046875,
+            186.83665161
+          ],
+          [
+            591.1607666015625,
+            225.56970215
+          ]
+        ],
+        [
+          [
+            470.2373046875,
+            225.56970215
+          ],
+          [
+            634.069091796875,
+            332.66320801
+          ]
+        ]
+      ],
+      "UV_world_clipped_pieces": 20160,
+      "partial_triangle_pieces": 808,
+      "antialiased_pixels": 194116,
+      "all_receiver_surface_roles_clipped": true,
+      "original_triangles_and_UVs_unchanged": true
+    },
+    {
+      "stop_id": "HS04",
+      "official_title": "Admissions Office",
+      "approved_room_codes": [
+        "104"
+      ],
+      "mask": "HS04_World_Clipped_Receiver_Alpha_8192.png",
+      "mask_sha256": "1d849a6ce3b92a2e26f7ac7055fa637b9eaafe3b53e0b8bcea49de241eb7cb11",
+      "world_polygon_loops_model_mm": [
+        [
+          [
+            634.069091796875,
+            69.89404296875
+          ],
+          [
+            590.80615234375,
+            69.89404296875
+          ],
+          [
+            590.80615234375,
+            28.049560546875
+          ],
+          [
+            634.069091796875,
+            28.049560546875
+          ]
+        ]
+      ],
+      "exact_rectilinear_partition_rectangles_model_mm": [
+        [
+          [
+            590.80615234375,
+            28.04956055
+          ],
+          [
+            634.069091796875,
+            69.89404297
+          ]
+        ]
+      ],
+      "UV_world_clipped_pieces": 1291,
+      "partial_triangle_pieces": 219,
+      "antialiased_pixels": 22160,
+      "all_receiver_surface_roles_clipped": true,
+      "original_triangles_and_UVs_unchanged": true
+    },
+    {
+      "stop_id": "HS05",
+      "official_title": "CRI Gallery",
+      "approved_room_codes": [
+        "105"
+      ],
+      "mask": "HS05_World_Clipped_Receiver_Alpha_8192.png",
+      "mask_sha256": "e7b61e38a93f74649c054fb599283bc2f9148d3de11511aa0a26a59278ea80d9",
+      "world_polygon_loops_model_mm": [
+        [
+          [
+            589.0330810546875,
+            110.320068359375
+          ],
+          [
+            471.3011474609375,
+            110.320068359375
+          ],
+          [
+            471.3011474609375,
+            28.049560546875
+          ],
+          [
+            589.0330810546875,
+            28.049560546875
+          ]
+        ]
+      ],
+      "exact_rectilinear_partition_rectangles_model_mm": [
+        [
+          [
+            471.3011474609375,
+            28.04956055
+          ],
+          [
+            589.0330810546875,
+            110.32006836
+          ]
+        ]
+      ],
+      "UV_world_clipped_pieces": 3084,
+      "partial_triangle_pieces": 530,
+      "antialiased_pixels": 52299,
+      "all_receiver_surface_roles_clipped": true,
+      "original_triangles_and_UVs_unchanged": true
+    },
+    {
+      "stop_id": "HS06",
+      "official_title": "Corridor / Display Hall",
+      "approved_room_codes": [
+        "106"
+      ],
+      "mask": "HS06_World_Clipped_Receiver_Alpha_8192.png",
+      "mask_sha256": "c04161d4fe7ea5fddadab2a5a03157bd94f72ad0fc1b767628f1f5a40376bc28",
+      "world_polygon_loops_model_mm": [
+        [
+          [
+            634.36858638376,
+            186.8366516083479
+          ],
+          [
+            634.069091796875,
+            186.8366516083479
+          ],
+          [
+            634.069091796875,
+            169.5406494140625
+          ],
+          [
+            591.1607666015625,
+            169.5406494140625
+          ],
+          [
+            591.1607666015625,
+            186.8366516083479
+          ],
+          [
+            355.16988525539637,
+            186.8366516083479
+          ],
+          [
+            355.16988525539637,
+            185.1436767578125
+          ],
+          [
+            368.4630126953125,
+            185.1436767578125
+          ],
+          [
+            368.4630126953125,
+            158.9022216796875
+          ],
+          [
+            355.16988525539637,
+            158.9022216796875
+          ],
+          [
+            355.16988525539637,
+            121.94031413644552
+          ],
+          [
+            634.36858638376,
+            121.94031413644552
+          ]
+        ]
+      ],
+      "exact_rectilinear_partition_rectangles_model_mm": [
+        [
+          [
+            355.16988525539637,
+            121.94031414
+          ],
+          [
+            634.36858638376,
+            158.90222168
+          ]
+        ],
+        [
+          [
+            368.4630126953125,
+            158.90222168
+          ],
+          [
+            634.36858638376,
+            169.54064941
+          ]
+        ],
+        [
+          [
+            368.4630126953125,
+            169.54064941
+          ],
+          [
+            591.1607666015625,
+            185.14367676
+          ]
+        ],
+        [
+          [
+            634.069091796875,
+            169.54064941
+          ],
+          [
+            634.36858638376,
+            185.14367676
+          ]
+        ],
+        [
+          [
+            355.16988525539637,
+            185.14367676
+          ],
+          [
+            591.1607666015625,
+            186.83665161
+          ]
+        ],
+        [
+          [
+            634.069091796875,
+            185.14367676
+          ],
+          [
+            634.36858638376,
+            186.83665161
+          ]
+        ]
+      ],
+      "UV_world_clipped_pieces": 3489,
+      "partial_triangle_pieces": 1441,
+      "antialiased_pixels": 71691,
+      "all_receiver_surface_roles_clipped": true,
+      "original_triangles_and_UVs_unchanged": true
+    },
+    {
+      "stop_id": "HS07",
+      "official_title": "Innovation Lab",
+      "approved_room_codes": [
+        "108"
+      ],
+      "mask": "HS07_World_Clipped_Receiver_Alpha_8192.png",
+      "mask_sha256": "fe296c9d54d4268083357144ce3d30b88ca834ec572cb746c2350ac0d2052d7a",
+      "world_polygon_loops_model_mm": [
+        [
+          [
+            468.4642333984375,
+            121.667724609375
+          ],
+          [
+            355.6968994140625,
+            121.667724609375
+          ],
+          [
+            355.6968994140625,
+            22.375732421875
+          ],
+          [
+            468.4642333984375,
+            22.375732421875
+          ]
+        ]
+      ],
+      "exact_rectilinear_partition_rectangles_model_mm": [
+        [
+          [
+            355.6968994140625,
+            22.37573242
+          ],
+          [
+            468.4642333984375,
+            121.66772461
+          ]
+        ]
+      ],
+      "UV_world_clipped_pieces": 10077,
+      "partial_triangle_pieces": 300,
+      "antialiased_pixels": 135427,
+      "all_receiver_surface_roles_clipped": true,
+      "original_triangles_and_UVs_unchanged": true
+    },
+    {
+      "stop_id": "HS08",
+      "official_title": "ASPIRE Seminar Room",
+      "approved_room_codes": [
+        "112"
+      ],
+      "mask": "HS08_World_Clipped_Receiver_Alpha_8192.png",
+      "mask_sha256": "79433732257137d186ab1e05802ed9d1f4e0d893ce93e60ef4fa94dfb383052f",
+      "world_polygon_loops_model_mm": [
+        [
+          [
+            318.8170166015625,
+            157.4837646484375
+          ],
+          [
+            260.6602783203125,
+            157.4837646484375
+          ],
+          [
+            260.6602783203125,
+            86.206298828125
+          ],
+          [
+            318.8170166015625,
+            86.206298828125
+          ]
+        ]
+      ],
+      "exact_rectilinear_partition_rectangles_model_mm": [
+        [
+          [
+            260.6602783203125,
+            86.20629883
+          ],
+          [
+            318.8170166015625,
+            157.48376465
+          ]
+        ]
+      ],
+      "UV_world_clipped_pieces": 3863,
+      "partial_triangle_pieces": 426,
+      "antialiased_pixels": 68076,
+      "all_receiver_surface_roles_clipped": true,
+      "original_triangles_and_UVs_unchanged": true
+    },
+    {
+      "stop_id": "HS09",
+      "official_title": "Collaboration Room",
+      "approved_room_codes": [
+        "113"
+      ],
+      "mask": "HS09_World_Clipped_Receiver_Alpha_8192.png",
+      "mask_sha256": "9ca031059e13072eb09f13d0b9620aed499322a482c0fe62f72949e6dac11c7b",
+      "world_polygon_loops_model_mm": [
+        [
+          [
+            259.2418212890625,
+            157.4837646484375
+          ],
+          [
+            208.1773681640625,
+            157.4837646484375
+          ],
+          [
+            208.1773681640625,
+            86.206298828125
+          ],
+          [
+            259.2418212890625,
+            86.206298828125
+          ]
+        ]
+      ],
+      "exact_rectilinear_partition_rectangles_model_mm": [
+        [
+          [
+            208.1773681640625,
+            86.20629883
+          ],
+          [
+            259.2418212890625,
+            157.48376465
+          ]
+        ]
+      ],
+      "UV_world_clipped_pieces": 3923,
+      "partial_triangle_pieces": 354,
+      "antialiased_pixels": 65401,
+      "all_receiver_surface_roles_clipped": true,
+      "original_triangles_and_UVs_unchanged": true
+    },
+    {
+      "stop_id": "HS10",
+      "official_title": "Trophy Hall / Corridor",
+      "approved_room_codes": [
+        "123"
+      ],
+      "mask": "HS10_World_Clipped_Receiver_Alpha_8192.png",
+      "mask_sha256": "ab0fd663d9455c3f4e2fdf03d4de38822c88124a6654e875f74ee31487b7926a",
+      "world_polygon_loops_model_mm": [
+        [
+          [
+            213.0743408203125,
+            315.565441891551
+          ],
+          [
+            167.32774658501148,
+            315.565441891551
+          ],
+          [
+            167.32774658501148,
+            186.8366516083479
+          ],
+          [
+            213.0743408203125,
+            186.8366516083479
+          ]
+        ]
+      ],
+      "exact_rectilinear_partition_rectangles_model_mm": [
+        [
+          [
+            167.32774658501148,
+            186.83665161
+          ],
+          [
+            213.0743408203125,
+            315.56544189
+          ]
+        ]
+      ],
+      "UV_world_clipped_pieces": 571,
+      "partial_triangle_pieces": 148,
+      "antialiased_pixels": 19777,
+      "all_receiver_surface_roles_clipped": true,
+      "original_triangles_and_UVs_unchanged": true
+    },
+    {
+      "stop_id": "HS11",
+      "official_title": "Athletics Office",
+      "approved_room_codes": [
+        "124",
+        "125",
+        "126"
+      ],
+      "mask": "HS11_World_Clipped_Receiver_Alpha_8192.png",
+      "mask_sha256": "1d60a84eaff347c8bafabf4131ad38feead8d31bea2f7d7d1afd09c9eb66bd67",
+      "world_polygon_loops_model_mm": [
+        [
+          [
+            152.5029296875,
+            417.416015625
+          ],
+          [
+            97.5377197265625,
+            417.416015625
+          ],
+          [
+            97.5377197265625,
+            379.826904296875
+          ],
+          [
+            152.5029296875,
+            379.826904296875
+          ]
+        ],
+        [
+          [
+            123.7791748046875,
+            377.69921875
+          ],
+          [
+            97.5377197265625,
+            377.69921875
+          ],
+          [
+            97.5377197265625,
+            341.528564453125
+          ],
+          [
+            123.7791748046875,
+            341.528564453125
+          ]
+        ],
+        [
+          [
+            152.5029296875,
+            377.69921875
+          ],
+          [
+            125.9068603515625,
+            377.69921875
+          ],
+          [
+            125.9068603515625,
+            341.528564453125
+          ],
+          [
+            152.5029296875,
+            341.528564453125
+          ]
+        ]
+      ],
+      "exact_rectilinear_partition_rectangles_model_mm": [
+        [
+          [
+            97.5377197265625,
+            341.52856445
+          ],
+          [
+            123.7791748046875,
+            377.69921875
+          ]
+        ],
+        [
+          [
+            125.9068603515625,
+            341.52856445
+          ],
+          [
+            152.5029296875,
+            377.69921875
+          ]
+        ],
+        [
+          [
+            97.5377197265625,
+            379.8269043
+          ],
+          [
+            152.5029296875,
+            417.41601562
+          ]
+        ]
+      ],
+      "UV_world_clipped_pieces": 2076,
+      "partial_triangle_pieces": 198,
+      "antialiased_pixels": 43999,
+      "all_receiver_surface_roles_clipped": true,
+      "original_triangles_and_UVs_unchanged": true
+    },
+    {
+      "stop_id": "HS12",
+      "official_title": "Athletics Trainers\u2019 Room",
+      "approved_room_codes": [
+        "129"
+      ],
+      "mask": "HS12_World_Clipped_Receiver_Alpha_8192.png",
+      "mask_sha256": "6182e83b7db795923401332e6db1cae9ceebd9e7efd9cfae6c18a9141036bb0e",
+      "world_polygon_loops_model_mm": [
+        [
+          [
+            67.3955078125,
+            417.416015625
+          ],
+          [
+            16.6856689453125,
+            417.416015625
+          ],
+          [
+            16.6856689453125,
+            341.528564453125
+          ],
+          [
+            67.3955078125,
+            341.528564453125
+          ]
+        ]
+      ],
+      "exact_rectilinear_partition_rectangles_model_mm": [
+        [
+          [
+            16.6856689453125,
+            341.52856445
+          ],
+          [
+            67.3955078125,
+            417.41601562
+          ]
+        ]
+      ],
+      "UV_world_clipped_pieces": 785,
+      "partial_triangle_pieces": 192,
+      "antialiased_pixels": 21889,
+      "all_receiver_surface_roles_clipped": true,
+      "original_triangles_and_UVs_unchanged": true
+    },
+    {
+      "stop_id": "HS13",
+      "official_title": "Gym",
+      "approved_room_codes": [
+        "GYM"
+      ],
+      "mask": "HS13_World_Clipped_Receiver_Alpha_8192.png",
+      "mask_sha256": "cd6188504f1fa37386796868db09a326fbca91602cffdae47bc128269d4a9587",
+      "world_polygon_loops_model_mm": [
+        [
+          [
+            466.904188349843,
+            493.8602050766349
+          ],
+          [
+            214.5743408203125,
+            493.8602050766349
+          ],
+          [
+            214.5743408203125,
+            188.33664550632238
+          ],
+          [
+            466.904188349843,
+            188.33664550632238
+          ]
+        ]
+      ],
+      "exact_rectilinear_partition_rectangles_model_mm": [
+        [
+          [
+            214.5743408203125,
+            188.33664551
+          ],
+          [
+            466.904188349843,
+            493.86020508
+          ]
+        ]
+      ],
+      "UV_world_clipped_pieces": 960,
+      "partial_triangle_pieces": 159,
+      "antialiased_pixels": 43156,
+      "all_receiver_surface_roles_clipped": true,
+      "original_triangles_and_UVs_unchanged": true
+    }
+  ],
+  "old_P01_R02_tests_use_H02": true,
+  "new_world_clipped_H03_media_use_these_masks": true,
+  "Glazing_HangingLoops_and_undersides_remain_unlit": true
+}

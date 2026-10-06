@@ -1,0 +1,52 @@
+{
+  "status": "PASS: actual encoded raw atlas fully decoded and mapped viewing preview built",
+  "primary_movie": "Ripple_R03_WholeModel_Connected_UV02_1_100_4096_HAP.mov",
+  "primary_bytes": 752774792,
+  "primary_sha256": "914751534334c8a15a54722c031913ad1bd28c3fe68c5e6ff721d8fec6b7c14f",
+  "resolution": 4096,
+  "fps": 20,
+  "frames": 800,
+  "duration_seconds": 40.0,
+  "connected_component_count": 56,
+  "floor_texels_in_solved_physical_domains": 1298084,
+  "wave_transfer_is_world_position_plus_Z_floor_projection": true,
+  "floor_transfer_not_room_label_clipped": true,
+  "actual_walls_glazing_doors_and_near_floor_furniture_define_reflections": true,
+  "invisible_room_boundary_cells": 0,
+  "tabletops_overhead_for_physics": true,
+  "static_fixture_height_shading_and_exact_fireplace_patch": true,
+  "same_actual_display_at_initial_last_and_terminal_quiet_states": true,
+  "external_fade_applied": false,
+  "brightness_transfer": {
+    "quiet_water_RGB": [
+      12,
+      72,
+      100
+    ],
+    "previous_R02_quiet_water_RGB": [
+      8,
+      38,
+      55
+    ],
+    "crest_response": "1-exp(-(max(height,0)*1200)^2)",
+    "trough_response": "1-exp(-(max(-height,0)*1000)^2)",
+    "bounded_normal_response": "sign(slope)*tanh(abs(slope*400)^1.5)",
+    "maximum_dynamic_floor_channel_before_rounding": 248,
+    "white_clipped_wave_pixels": 0,
+    "bounded_dynamic_floor_channel_maximum": 248
+  },
+  "physical_QA": "Connected_Wave_Physics_QA.json",
+  "coverage_QA": "Whole_Model_Coverage_Preflight.json",
+  "fixture_QA": "Solid_Fixture_Volume_QA.json",
+  "receiver_OBJ": "CampusCenter_P02plusP03B3_Assembly_1_100_UV02.obj",
+  "receiver_OBJ_sha256": "b949784cbb3f833d10d82fdd48d469ac3fac1b8ac723f7cc08588ca633a59fba",
+  "geometry_UV_or_prior_files_changed": false,
+  "full_hydraulic_filling_splashes_or_vertical_wall_water_simulated": false,
+  "physical_projection_or_MadMapper_playback_verified": false,
+  "raw_atlas_is_not_camera_view": true,
+  "all_primary_movie_frames_decoded": 800,
+  "actual_decoded_first_and_last_quiet_frames_equal": true,
+  "mapped_viewing_preview": "Ripple_R03_WholeModel_Connected_Mapped_1024_Viewing_Preview.mp4",
+  "native_receiver_reapplication_pending": false,
+  "native_receiver_reapplication_QA": "Native_Hybrid_Media_Reapplication_QA.json"
+}

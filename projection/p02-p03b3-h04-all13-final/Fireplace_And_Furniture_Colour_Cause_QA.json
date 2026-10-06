@@ -1,0 +1,454 @@
+{
+  "status": "PASS: observed H03 causes confirmed in actual charts and page pixels; H04 media revision removes both",
+  "fireplace_UV_mapped": true,
+  "receiver_part": "Opaque_Fireplace_P03_B3",
+  "appended_charts": 2756,
+  "fireplace_bounds_model_mm": [
+    [
+      516.4227777481079,
+      320.22774505615234,
+      4.18
+    ],
+    [
+      545.9227746963501,
+      334.4277648925781,
+      46.872
+    ]
+  ],
+  "receiver_OBJ_sha256": "b949784cbb3f833d10d82fdd48d469ac3fac1b8ac723f7cc08588ca633a59fba",
+  "H03_cause": "highlight_h03_world_caption_media.py assigns base[firemask]=firepatch[firemask] for every sid; all inspected H03 page pixels exactly match the neutral UV02 patch. Fresh native preview uses one Emission atlas on all4parts, no scene lights; persistent fireplace light originates in atlas, not additional scene lighting.",
+  "furniture_cause": "H03 replaces upward surfacesz5.8..22 with[228,230,221] andz>=22 with[139,174,182], overriding selected room hue.",
+  "H04_solution": "Room palette rescaled to maximum255; gentler normal/contact/height shading; all raised surfaces have dim same-hue top/side values; fireplace charts illuminated only for Commons.",
+  "geometry_UV_scale_origin_changes": false,
+  "all_H03_history_preserved": true,
+  "physical_projection_or_MadMapper_playback_verified": false,
+  "rows": [
+    {
+      "stop": "Entry + Reception",
+      "sid": 1,
+      "fireplace_chart_count": 2756,
+      "new_same_hue_RGB": [
+        255,
+        138,
+        78
+      ],
+      "fixture_QA": {
+        "receiver_charts": 337,
+        "selected_receiver_texels": 297527,
+        "raised_fixture_or_wall_texels": 175792,
+        "same_hue_max_RGB_byte_residual": 0.764705882352942
+      },
+      "floor_colour_ratio_median": 1.2706048112790422,
+      "pages": [
+        {
+          "page": 1,
+          "old_neutral_fireplace_chart_pixels_exact": true,
+          "old_fireplace_nonzero_texels": 1365444,
+          "new_fireplace_nonzero_texels": 0
+        },
+        {
+          "page": 2,
+          "old_neutral_fireplace_chart_pixels_exact": true,
+          "old_fireplace_nonzero_texels": 1365444,
+          "new_fireplace_nonzero_texels": 0
+        },
+        {
+          "page": 3,
+          "old_neutral_fireplace_chart_pixels_exact": true,
+          "old_fireplace_nonzero_texels": 1365444,
+          "new_fireplace_nonzero_texels": 0
+        }
+      ]
+    },
+    {
+      "stop": "The Cafe",
+      "sid": 2,
+      "fireplace_chart_count": 2756,
+      "new_same_hue_RGB": [
+        255,
+        209,
+        67
+      ],
+      "fixture_QA": {
+        "receiver_charts": 231,
+        "selected_receiver_texels": 234996,
+        "raised_fixture_or_wall_texels": 177399,
+        "same_hue_max_RGB_byte_residual": 0.898039215686282
+      },
+      "floor_colour_ratio_median": 1.2676044532511141,
+      "pages": [
+        {
+          "page": 1,
+          "old_neutral_fireplace_chart_pixels_exact": true,
+          "old_fireplace_nonzero_texels": 1365444,
+          "new_fireplace_nonzero_texels": 0
+        },
+        {
+          "page": 2,
+          "old_neutral_fireplace_chart_pixels_exact": true,
+          "old_fireplace_nonzero_texels": 1365444,
+          "new_fireplace_nonzero_texels": 0
+        }
+      ]
+    },
+    {
+      "stop": "The Student Commons",
+      "sid": 3,
+      "fireplace_chart_count": 2756,
+      "new_same_hue_RGB": [
+        91,
+        255,
+        231
+      ],
+      "fixture_QA": {
+        "receiver_charts": 3123,
+        "selected_receiver_texels": 1450617,
+        "raised_fixture_or_wall_texels": 883246,
+        "same_hue_max_RGB_byte_residual": 0.941176470588232
+      },
+      "floor_colour_ratio_median": 1.3884428530020265,
+      "pages": [
+        {
+          "page": 1,
+          "old_neutral_fireplace_chart_pixels_exact": true,
+          "old_fireplace_nonzero_texels": 1365444,
+          "new_fireplace_nonzero_texels": 1365444
+        },
+        {
+          "page": 2,
+          "old_neutral_fireplace_chart_pixels_exact": true,
+          "old_fireplace_nonzero_texels": 1365444,
+          "new_fireplace_nonzero_texels": 1365444
+        }
+      ]
+    },
+    {
+      "stop": "Admissions Office",
+      "sid": 4,
+      "fireplace_chart_count": 2756,
+      "new_same_hue_RGB": [
+        130,
+        151,
+        255
+      ],
+      "fixture_QA": {
+        "receiver_charts": 228,
+        "selected_receiver_texels": 172721,
+        "raised_fixture_or_wall_texels": 120701,
+        "same_hue_max_RGB_byte_residual": 0.7843137254902004
+      },
+      "floor_colour_ratio_median": 1.341025403968776,
+      "pages": [
+        {
+          "page": 1,
+          "old_neutral_fireplace_chart_pixels_exact": true,
+          "old_fireplace_nonzero_texels": 1365444,
+          "new_fireplace_nonzero_texels": 0
+        },
+        {
+          "page": 2,
+          "old_neutral_fireplace_chart_pixels_exact": true,
+          "old_fireplace_nonzero_texels": 1365444,
+          "new_fireplace_nonzero_texels": 0
+        },
+        {
+          "page": 3,
+          "old_neutral_fireplace_chart_pixels_exact": true,
+          "old_fireplace_nonzero_texels": 1365444,
+          "new_fireplace_nonzero_texels": 0
+        }
+      ]
+    },
+    {
+      "stop": "CRI Gallery",
+      "sid": 5,
+      "fireplace_chart_count": 2756,
+      "new_same_hue_RGB": [
+        212,
+        145,
+        255
+      ],
+      "fixture_QA": {
+        "receiver_charts": 389,
+        "selected_receiver_texels": 661446,
+        "raised_fixture_or_wall_texels": 435914,
+        "same_hue_max_RGB_byte_residual": 0.9058823529411768
+      },
+      "floor_colour_ratio_median": 1.2196115324809382,
+      "pages": [
+        {
+          "page": 1,
+          "old_neutral_fireplace_chart_pixels_exact": true,
+          "old_fireplace_nonzero_texels": 1365444,
+          "new_fireplace_nonzero_texels": 0
+        },
+        {
+          "page": 2,
+          "old_neutral_fireplace_chart_pixels_exact": true,
+          "old_fireplace_nonzero_texels": 1365444,
+          "new_fireplace_nonzero_texels": 0
+        }
+      ]
+    },
+    {
+      "stop": "Corridor / Display Hall",
+      "sid": 6,
+      "fireplace_chart_count": 2756,
+      "new_same_hue_RGB": [
+        78,
+        203,
+        255
+      ],
+      "fixture_QA": {
+        "receiver_charts": 514,
+        "selected_receiver_texels": 1021180,
+        "raised_fixture_or_wall_texels": 518720,
+        "same_hue_max_RGB_byte_residual": 0.8901960784313729
+      },
+      "floor_colour_ratio_median": 1.2701032486824333,
+      "pages": [
+        {
+          "page": 1,
+          "old_neutral_fireplace_chart_pixels_exact": true,
+          "old_fireplace_nonzero_texels": 1365444,
+          "new_fireplace_nonzero_texels": 0
+        },
+        {
+          "page": 2,
+          "old_neutral_fireplace_chart_pixels_exact": true,
+          "old_fireplace_nonzero_texels": 1365444,
+          "new_fireplace_nonzero_texels": 0
+        }
+      ]
+    },
+    {
+      "stop": "Innovation Lab",
+      "sid": 7,
+      "fireplace_chart_count": 2756,
+      "new_same_hue_RGB": [
+        190,
+        255,
+        89
+      ],
+      "fixture_QA": {
+        "receiver_charts": 1378,
+        "selected_receiver_texels": 1149404,
+        "raised_fixture_or_wall_texels": 829257,
+        "same_hue_max_RGB_byte_residual": 0.8627450980392197
+      },
+      "floor_colour_ratio_median": 1.5329314553757707,
+      "pages": [
+        {
+          "page": 1,
+          "old_neutral_fireplace_chart_pixels_exact": true,
+          "old_fireplace_nonzero_texels": 1365444,
+          "new_fireplace_nonzero_texels": 0
+        },
+        {
+          "page": 2,
+          "old_neutral_fireplace_chart_pixels_exact": true,
+          "old_fireplace_nonzero_texels": 1365444,
+          "new_fireplace_nonzero_texels": 0
+        }
+      ]
+    },
+    {
+      "stop": "ASPIRE Seminar Room",
+      "sid": 8,
+      "fireplace_chart_count": 2756,
+      "new_same_hue_RGB": [
+        255,
+        105,
+        165
+      ],
+      "fixture_QA": {
+        "receiver_charts": 904,
+        "selected_receiver_texels": 565881,
+        "raised_fixture_or_wall_texels": 439255,
+        "same_hue_max_RGB_byte_residual": 0.7647058823529562
+      },
+      "floor_colour_ratio_median": 1.3213519451064,
+      "pages": [
+        {
+          "page": 1,
+          "old_neutral_fireplace_chart_pixels_exact": true,
+          "old_fireplace_nonzero_texels": 1365444,
+          "new_fireplace_nonzero_texels": 0
+        },
+        {
+          "page": 2,
+          "old_neutral_fireplace_chart_pixels_exact": true,
+          "old_fireplace_nonzero_texels": 1365444,
+          "new_fireplace_nonzero_texels": 0
+        },
+        {
+          "page": 3,
+          "old_neutral_fireplace_chart_pixels_exact": true,
+          "old_fireplace_nonzero_texels": 1365444,
+          "new_fireplace_nonzero_texels": 0
+        }
+      ]
+    },
+    {
+      "stop": "Collaboration Room",
+      "sid": 9,
+      "fireplace_chart_count": 2756,
+      "new_same_hue_RGB": [
+        150,
+        129,
+        255
+      ],
+      "fixture_QA": {
+        "receiver_charts": 790,
+        "selected_receiver_texels": 536195,
+        "raised_fixture_or_wall_texels": 424699,
+        "same_hue_max_RGB_byte_residual": 0.7647058823529562
+      },
+      "floor_colour_ratio_median": 1.4261123995546028,
+      "pages": [
+        {
+          "page": 1,
+          "old_neutral_fireplace_chart_pixels_exact": true,
+          "old_fireplace_nonzero_texels": 1365444,
+          "new_fireplace_nonzero_texels": 0
+        },
+        {
+          "page": 2,
+          "old_neutral_fireplace_chart_pixels_exact": true,
+          "old_fireplace_nonzero_texels": 1365444,
+          "new_fireplace_nonzero_texels": 0
+        }
+      ]
+    },
+    {
+      "stop": "Trophy Hall / Corridor",
+      "sid": 10,
+      "fireplace_chart_count": 2756,
+      "new_same_hue_RGB": [
+        73,
+        255,
+        240
+      ],
+      "fixture_QA": {
+        "receiver_charts": 107,
+        "selected_receiver_texels": 437288,
+        "raised_fixture_or_wall_texels": 309163,
+        "same_hue_max_RGB_byte_residual": 0.9411764705882462
+      },
+      "floor_colour_ratio_median": 1.642768193875703,
+      "pages": [
+        {
+          "page": 1,
+          "old_neutral_fireplace_chart_pixels_exact": true,
+          "old_fireplace_nonzero_texels": 1365444,
+          "new_fireplace_nonzero_texels": 0
+        },
+        {
+          "page": 2,
+          "old_neutral_fireplace_chart_pixels_exact": true,
+          "old_fireplace_nonzero_texels": 1365444,
+          "new_fireplace_nonzero_texels": 0
+        }
+      ]
+    },
+    {
+      "stop": "Athletics Office",
+      "sid": 11,
+      "fireplace_chart_count": 2756,
+      "new_same_hue_RGB": [
+        255,
+        210,
+        158
+      ],
+      "fixture_QA": {
+        "receiver_charts": 323,
+        "selected_receiver_texels": 1001584,
+        "raised_fixture_or_wall_texels": 811793,
+        "same_hue_max_RGB_byte_residual": 0.8823529411764781
+      },
+      "floor_colour_ratio_median": 1.492204883068526,
+      "pages": [
+        {
+          "page": 1,
+          "old_neutral_fireplace_chart_pixels_exact": true,
+          "old_fireplace_nonzero_texels": 1365444,
+          "new_fireplace_nonzero_texels": 0
+        },
+        {
+          "page": 2,
+          "old_neutral_fireplace_chart_pixels_exact": true,
+          "old_fireplace_nonzero_texels": 1365444,
+          "new_fireplace_nonzero_texels": 0
+        }
+      ]
+    },
+    {
+      "stop": "Athletics Trainers\u2019 Room",
+      "sid": 12,
+      "fireplace_chart_count": 2756,
+      "new_same_hue_RGB": [
+        255,
+        165,
+        78
+      ],
+      "fixture_QA": {
+        "receiver_charts": 135,
+        "selected_receiver_texels": 298312,
+        "raised_fixture_or_wall_texels": 205230,
+        "same_hue_max_RGB_byte_residual": 0.7647058823529562
+      },
+      "floor_colour_ratio_median": 1.2621637562471975,
+      "pages": [
+        {
+          "page": 1,
+          "old_neutral_fireplace_chart_pixels_exact": true,
+          "old_fireplace_nonzero_texels": 1365444,
+          "new_fireplace_nonzero_texels": 0
+        },
+        {
+          "page": 2,
+          "old_neutral_fireplace_chart_pixels_exact": true,
+          "old_fireplace_nonzero_texels": 1365444,
+          "new_fireplace_nonzero_texels": 0
+        }
+      ]
+    },
+    {
+      "stop": "Gym",
+      "sid": 13,
+      "fireplace_chart_count": 2756,
+      "new_same_hue_RGB": [
+        128,
+        170,
+        255
+      ],
+      "fixture_QA": {
+        "receiver_charts": 218,
+        "selected_receiver_texels": 3961318,
+        "raised_fixture_or_wall_texels": 1312968,
+        "same_hue_max_RGB_byte_residual": 0.7215686274509778
+      },
+      "floor_colour_ratio_median": 1.1927925615076165,
+      "pages": [
+        {
+          "page": 1,
+          "old_neutral_fireplace_chart_pixels_exact": true,
+          "old_fireplace_nonzero_texels": 1365444,
+          "new_fireplace_nonzero_texels": 0
+        },
+        {
+          "page": 2,
+          "old_neutral_fireplace_chart_pixels_exact": true,
+          "old_fireplace_nonzero_texels": 1365444,
+          "new_fireplace_nonzero_texels": 0
+        },
+        {
+          "page": 3,
+          "old_neutral_fireplace_chart_pixels_exact": true,
+          "old_fireplace_nonzero_texels": 1365444,
+          "new_fireplace_nonzero_texels": 0
+        }
+      ]
+    }
+  ]
+}

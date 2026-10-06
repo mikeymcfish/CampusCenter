@@ -1,0 +1,7 @@
+CampusCenter UV02 H03 final13-stop paginated tour test
+
+30 standalone8192 RGB PNG projection atlases,13 mapped per-stop viewing MP4s and a300second1024 mapped overview. Official copy is verbatim and all text lies on the unchanged actual gym floor rectangle. No displayed room numbers. Admissions,ASPIRE and Gym long-sentence continuation pages are balanced; same30-page total and type size. All30 native page reapplications match the final atlas hashes; all13 highlights pass world-space reference-region checks. All30 final fireplace chart pixels match the neutral UV02 patch, and fixture geometry/depth and normal/height/contact shading are retained.
+
+Use the included Reference_Receiver OBJ/MTL with unchanged UV02 registration. Complete page atlases already include the fireplace patch; the separate masks/patch are reusable references. The mapped overview and per-stop MP4s are camera viewing previews with banners, not projection atlas playback files. Follow Tour_Playback_And_Registration_Manifest.json for page order and10s holds. No MadMapper calibration/project/cues or physical print/projection were performed.
+
+Room identities follow existing A101 verification and H02 approvals. Open-area divisions and shared caps remain registered reference assignments; exact alpha clipping is not a fresh semantic audit of every R29 perimeter. See Room_Identity_And_Boundary_Limitations.json. All317 protected source files passed SHA checks; original P01/R02/H02,Blender/Unreal and already published Commons/Cafe test kit remain unchanged.

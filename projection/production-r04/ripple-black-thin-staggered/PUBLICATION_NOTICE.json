@@ -1,0 +1,21 @@
+{
+  "original_package_sha256": "309253a41103e3b0b2316bc948343af76c951dba8cf7794d5c5acd2289b57bf9",
+  "changes": "Movies supplied separately to avoid duplicate uploads. Private JSON provenance reduced to basenames. Receiver, images and numerical grid retain exact bytes. No rendering or geometry changes.",
+  "separate_movies": {
+    "Ripple_R04_Black_Thin_Staggered_Connected_44s_Mapped_1024_Viewing_Preview.mp4": {
+      "bytes": 29629502,
+      "sha256": "1a87419b0e1d977f60bf01fbf4697f9e11930d70b5f57245ae086024bb5117d5",
+      "delivery": "Separate unchanged movie asset; compact MP4 in R04 viewing release"
+    },
+    "Ripple_R04_Black_Thin_Staggered_Connected_44s_Mapped_1024_Lossless_Reference.mov": {
+      "bytes": 155515150,
+      "sha256": "3ba30a882ae941609e21e451998713df9d8c77392e975f71a743bb1e588a7116",
+      "delivery": "Separate unchanged movie asset; compact MP4 in R04 viewing release"
+    },
+    "Ripple_R04_Black_Thin_Staggered_Connected_UV02_1_100_4096_Lossless_PNG.mov": {
+      "bytes": 375159817,
+      "sha256": "615d32c42cddba4b7d4ce71a1c0168ed2d7db340a72ee490c32826bb5a225506",
+      "delivery": "Separate unchanged movie asset; compact MP4 in R04 viewing release"
+    }
+  }
+}

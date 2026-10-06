@@ -1,0 +1,273 @@
+{
+  "status": "PASS",
+  "tour_order": "Official13-stop order,30 pages,10second holds,300seconds total",
+  "page_count": 30,
+  "stop_count": 13,
+  "standalone_atlas_dimensions": [
+    8192,
+    8192
+  ],
+  "projection_playback": "Standalone page RGB PNG atlases; assign in order and hold10s each. No MadMapper project/cues/calibration were created or saved.",
+  "mapped_viewing_movie": "Mapped_Overview_BalancedFinal/Tour_H03_All13_30Pages_BalancedFinal_Mapped_1024_Overview.mp4",
+  "mapped_viewing_is_projection_media": false,
+  "receiver_reference": "Reference_Receiver/CampusCenter_P02plusP03B3_Assembly_1_100_UV02.obj",
+  "receiver_sha256": "b949784cbb3f833d10d82fdd48d469ac3fac1b8ac723f7cc08588ca633a59fba",
+  "registration": "Unchanged UV02 shared millimetre origin, scale1:100,+Zup,+Ynorth. Receiver geometry and UVs are identical across all30 pages.",
+  "mask_reference": "H03_Mask_Patch_Reference.json",
+  "exact_copy_source": "Usable_13_Stop_Copy.json",
+  "caption_world_bounds_model_mm": [
+    [
+      235,
+      231
+    ],
+    [
+      448,
+      451
+    ]
+  ],
+  "room_numbers": "Room IDs are metadata only. No room numbers are printed in captions/banners. Page numbers and UV02/scale labels remain.",
+  "room_boundary_limits": "Room_Identity_And_Boundary_Limitations.json",
+  "physical_projection_or_readability_verified": false,
+  "timeline": [
+    {
+      "title": "Entry + Reception",
+      "page": 1,
+      "start_seconds": 0,
+      "end_seconds": 10,
+      "projection_atlas": "Entry_Reception\\Entry_Reception_Paginated_Page_01_Atlas_8192.png",
+      "projection_atlas_sha256": "8db737fb9717ef08d00b1839c540b893505b57b79fa6216a9f58810d564df7ed"
+    },
+    {
+      "title": "Entry + Reception",
+      "page": 2,
+      "start_seconds": 10,
+      "end_seconds": 20,
+      "projection_atlas": "Entry_Reception\\Entry_Reception_Paginated_Page_02_Atlas_8192.png",
+      "projection_atlas_sha256": "16e885e7e8427e5c57bb411ada7ef0ee3e5fb052c73a3ddb6809a8160c94b05c"
+    },
+    {
+      "title": "Entry + Reception",
+      "page": 3,
+      "start_seconds": 20,
+      "end_seconds": 30,
+      "projection_atlas": "Entry_Reception\\Entry_Reception_Paginated_Page_03_Atlas_8192.png",
+      "projection_atlas_sha256": "f26d23dec1f15df0450f05848716d3eb2a7ec3385dbdc13b7e7e2b690f6ccb5f"
+    },
+    {
+      "title": "The Cafe",
+      "page": 1,
+      "start_seconds": 30,
+      "end_seconds": 40,
+      "projection_atlas": "The_Cafe\\The_Cafe_Paginated_Page_01_Atlas_8192.png",
+      "projection_atlas_sha256": "2e59cf4f5fc3922ba0a89df2bc5bfb214efdf7a3b21b79e407f2603433161bed"
+    },
+    {
+      "title": "The Cafe",
+      "page": 2,
+      "start_seconds": 40,
+      "end_seconds": 50,
+      "projection_atlas": "The_Cafe\\The_Cafe_Paginated_Page_02_Atlas_8192.png",
+      "projection_atlas_sha256": "ae7b39419954713d6977a78a015ce5aee7a81b9fb91ab19394f70a5560e8fd74"
+    },
+    {
+      "title": "The Student Commons",
+      "page": 1,
+      "start_seconds": 50,
+      "end_seconds": 60,
+      "projection_atlas": "The_Student_Commons\\The_Student_Commons_Paginated_Page_01_Atlas_8192.png",
+      "projection_atlas_sha256": "6b111eff1fe1c7adec9e33d126663f644f3ca1e374624e94bdfab20b11b8587e"
+    },
+    {
+      "title": "The Student Commons",
+      "page": 2,
+      "start_seconds": 60,
+      "end_seconds": 70,
+      "projection_atlas": "The_Student_Commons\\The_Student_Commons_Paginated_Page_02_Atlas_8192.png",
+      "projection_atlas_sha256": "2ec18f1710a18ee919d288c6b98b8e62fa15aee809dea261185fd38bd0529cac"
+    },
+    {
+      "title": "Admissions Office",
+      "page": 1,
+      "start_seconds": 70,
+      "end_seconds": 80,
+      "projection_atlas": "Admissions_Office\\Admissions_Office_Paginated_Page_01_Atlas_8192.png",
+      "projection_atlas_sha256": "7be9f524742c7401e303d9063602adf9c990a41aa95322b14d34038e204be961"
+    },
+    {
+      "title": "Admissions Office",
+      "page": 2,
+      "start_seconds": 80,
+      "end_seconds": 90,
+      "projection_atlas": "Admissions_Office\\Admissions_Office_Paginated_Page_02_Atlas_8192.png",
+      "projection_atlas_sha256": "4526e8e9ff43d009adbcecc39a5b44ad561112fd28996fc3d45503f54a6c168d"
+    },
+    {
+      "title": "Admissions Office",
+      "page": 3,
+      "start_seconds": 90,
+      "end_seconds": 100,
+      "projection_atlas": "Admissions_Office\\Admissions_Office_Paginated_Page_03_Atlas_8192.png",
+      "projection_atlas_sha256": "0fb4a6a117ed4442ed3d49aa995ecbedfe053a9cf8e4f6b86756740a0883ecb2"
+    },
+    {
+      "title": "CRI Gallery",
+      "page": 1,
+      "start_seconds": 100,
+      "end_seconds": 110,
+      "projection_atlas": "CRI_Gallery\\CRI_Gallery_Paginated_Page_01_Atlas_8192.png",
+      "projection_atlas_sha256": "5f72d24318ce21152e9bdbd27aa341a00c8dcf31ce37ede07e814ed8f993ba5e"
+    },
+    {
+      "title": "CRI Gallery",
+      "page": 2,
+      "start_seconds": 110,
+      "end_seconds": 120,
+      "projection_atlas": "CRI_Gallery\\CRI_Gallery_Paginated_Page_02_Atlas_8192.png",
+      "projection_atlas_sha256": "1f9574cadf8dfb23bc4fb5f8e63acdd94afc79f13e95cf8c9590707e27db5ed1"
+    },
+    {
+      "title": "Corridor / Display Hall",
+      "page": 1,
+      "start_seconds": 120,
+      "end_seconds": 130,
+      "projection_atlas": "Corridor_Display_Hall\\Corridor_Display_Hall_Paginated_Page_01_Atlas_8192.png",
+      "projection_atlas_sha256": "5cdc3cf8b6f7461730f72581181c6e077adf76b57d9f8da9fa16fd889c6027ed"
+    },
+    {
+      "title": "Corridor / Display Hall",
+      "page": 2,
+      "start_seconds": 130,
+      "end_seconds": 140,
+      "projection_atlas": "Corridor_Display_Hall\\Corridor_Display_Hall_Paginated_Page_02_Atlas_8192.png",
+      "projection_atlas_sha256": "6868504b74597845a948cf89fdfd38e98aa8d238a6fc610f397114b73992b7de"
+    },
+    {
+      "title": "Innovation Lab",
+      "page": 1,
+      "start_seconds": 140,
+      "end_seconds": 150,
+      "projection_atlas": "Innovation_Lab\\Innovation_Lab_Paginated_Page_01_Atlas_8192.png",
+      "projection_atlas_sha256": "a1cc18a43984580e72ac94dd9545ac906ac90f13b95cb10002cce4b4201ff6d3"
+    },
+    {
+      "title": "Innovation Lab",
+      "page": 2,
+      "start_seconds": 150,
+      "end_seconds": 160,
+      "projection_atlas": "Innovation_Lab\\Innovation_Lab_Paginated_Page_02_Atlas_8192.png",
+      "projection_atlas_sha256": "0b3b82bbd162b06d219d2714156229142c0d3bf8ada7a1d0e94891a4d7ad1b38"
+    },
+    {
+      "title": "ASPIRE Seminar Room",
+      "page": 1,
+      "start_seconds": 160,
+      "end_seconds": 170,
+      "projection_atlas": "ASPIRE_Seminar_Room\\ASPIRE_Seminar_Room_Paginated_Page_01_Atlas_8192.png",
+      "projection_atlas_sha256": "5ed7b976598f6a038686284d731440f9e277e4e119f903dc97b698c6f5fe161b"
+    },
+    {
+      "title": "ASPIRE Seminar Room",
+      "page": 2,
+      "start_seconds": 170,
+      "end_seconds": 180,
+      "projection_atlas": "ASPIRE_Seminar_Room\\ASPIRE_Seminar_Room_Paginated_Page_02_Atlas_8192.png",
+      "projection_atlas_sha256": "eb300b2dd313453f0f5a273139174283437460beeef99eede7d9f1d1380258a8"
+    },
+    {
+      "title": "ASPIRE Seminar Room",
+      "page": 3,
+      "start_seconds": 180,
+      "end_seconds": 190,
+      "projection_atlas": "ASPIRE_Seminar_Room\\ASPIRE_Seminar_Room_Paginated_Page_03_Atlas_8192.png",
+      "projection_atlas_sha256": "e94b627c48fc49f1bfc7033fb5af8471ccda986f1ab152b0844e927c41efbe92"
+    },
+    {
+      "title": "Collaboration Room",
+      "page": 1,
+      "start_seconds": 190,
+      "end_seconds": 200,
+      "projection_atlas": "Collaboration_Room\\Collaboration_Room_Paginated_Page_01_Atlas_8192.png",
+      "projection_atlas_sha256": "8fcae820f84dce731e8cb8d1592e6afe182506f2aa499cc2f55cfd3fdf195f99"
+    },
+    {
+      "title": "Collaboration Room",
+      "page": 2,
+      "start_seconds": 200,
+      "end_seconds": 210,
+      "projection_atlas": "Collaboration_Room\\Collaboration_Room_Paginated_Page_02_Atlas_8192.png",
+      "projection_atlas_sha256": "f4d2db0dcc83e39109aff1c0f3925d9dc6b82d04a0e107102e784de63dcb0e42"
+    },
+    {
+      "title": "Trophy Hall / Corridor",
+      "page": 1,
+      "start_seconds": 210,
+      "end_seconds": 220,
+      "projection_atlas": "Trophy_Hall_Corridor\\Trophy_Hall_Corridor_Paginated_Page_01_Atlas_8192.png",
+      "projection_atlas_sha256": "bb9be3665135f18953281897dd7a1dc053b654a6a9ad019780bc730e3ae596d5"
+    },
+    {
+      "title": "Trophy Hall / Corridor",
+      "page": 2,
+      "start_seconds": 220,
+      "end_seconds": 230,
+      "projection_atlas": "Trophy_Hall_Corridor\\Trophy_Hall_Corridor_Paginated_Page_02_Atlas_8192.png",
+      "projection_atlas_sha256": "881589301f81d103ab9132ede250e5a6cfe93c31ceb29b46911fef7e0a2125f1"
+    },
+    {
+      "title": "Athletics Office",
+      "page": 1,
+      "start_seconds": 230,
+      "end_seconds": 240,
+      "projection_atlas": "Athletics_Office\\Athletics_Office_Paginated_Page_01_Atlas_8192.png",
+      "projection_atlas_sha256": "2eaa8b5b53f175e0bebaada424684d1fad0601e719f6e4820670609b12c30634"
+    },
+    {
+      "title": "Athletics Office",
+      "page": 2,
+      "start_seconds": 240,
+      "end_seconds": 250,
+      "projection_atlas": "Athletics_Office\\Athletics_Office_Paginated_Page_02_Atlas_8192.png",
+      "projection_atlas_sha256": "ebce6c4385c1774f76e504453168579748ae314342c4d0b335fbd44fa2136297"
+    },
+    {
+      "title": "Athletics Trainers\u2019 Room",
+      "page": 1,
+      "start_seconds": 250,
+      "end_seconds": 260,
+      "projection_atlas": "Athletics_Trainers_Room\\Athletics_Trainers_Room_Paginated_Page_01_Atlas_8192.png",
+      "projection_atlas_sha256": "6d3301cbc2bebf42d2e6910e7b0b4168d16caa910d1372e0ab0ac9c6f09915c6"
+    },
+    {
+      "title": "Athletics Trainers\u2019 Room",
+      "page": 2,
+      "start_seconds": 260,
+      "end_seconds": 270,
+      "projection_atlas": "Athletics_Trainers_Room\\Athletics_Trainers_Room_Paginated_Page_02_Atlas_8192.png",
+      "projection_atlas_sha256": "6e71d95a77ef821aa971c1b3d91946532cccc007c788457d70054c3acc0eca48"
+    },
+    {
+      "title": "Gym",
+      "page": 1,
+      "start_seconds": 270,
+      "end_seconds": 280,
+      "projection_atlas": "Gym\\Gym_Paginated_Page_01_Atlas_8192.png",
+      "projection_atlas_sha256": "9ed45c920abf83446baa189571ae30e9d21d4aaf97629c07a593dc45710f2c90"
+    },
+    {
+      "title": "Gym",
+      "page": 2,
+      "start_seconds": 280,
+      "end_seconds": 290,
+      "projection_atlas": "Gym\\Gym_Paginated_Page_02_Atlas_8192.png",
+      "projection_atlas_sha256": "c7307d3a405521f3c7d4ba75328742d34bb18c13571c1546d83cd6b36fb93269"
+    },
+    {
+      "title": "Gym",
+      "page": 3,
+      "start_seconds": 290,
+      "end_seconds": 300,
+      "projection_atlas": "Gym\\Gym_Paginated_Page_03_Atlas_8192.png",
+      "projection_atlas_sha256": "55fa26c2b6c922539a8d461d04aed82540b4f3161d57622909e1776105260b61"
+    }
+  ]
+}

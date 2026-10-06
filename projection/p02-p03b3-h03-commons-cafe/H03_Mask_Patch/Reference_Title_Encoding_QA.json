@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "corrected_new_reference_labels": [
+    {
+      "stop_id": "HS12",
+      "before": "Athletics Trainers\u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u201e\u00a2 Room",
+      "after": "Athletics Trainers\u2019 Room"
+    }
+  ],
+  "reference_titles_exact_UTF8_official_source": true,
+  "mask_pixels_geometry_UVs_or_caption_graphics_changed": false,
+  "original_H02_copy_changed": false
+}

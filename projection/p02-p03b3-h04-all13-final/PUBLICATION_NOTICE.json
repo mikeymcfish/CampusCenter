@@ -1,0 +1,4 @@
+{
+  "original_package_sha256": "2b83037a0af49bc25fdebae37f069d8b263cb9330718ffe44c75c239b8997916",
+  "changes": "Private JSON provenance reduced to basenames; FFmpeg tool path made configurable with CC_FFMPEG/PATH; package manifest regenerated. All30 atlas PNGs, exact receiver, masks, captions, native/camera previews and movie bytes unchanged. No render/rebuild or replacement of history."
+}

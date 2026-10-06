@@ -1,0 +1,502 @@
+{
+  "method": "Reopened saved context; real EnhancedInput injection with exact saved Touch modifiers and unchanged native helper; simulated focus/tracking, no XR session or hardware.",
+  "cases": [
+    {
+      "name": "startup-held",
+      "count": 0,
+      "expected": 0,
+      "walking": false,
+      "expected_walking": false,
+      "grip_values": [
+        1.0,
+        0.0
+      ],
+      "trigger_values": [
+        0.0,
+        0.0
+      ],
+      "yaw_delta": 0.0,
+      "pass": true
+    },
+    {
+      "name": "neutral",
+      "count": 0,
+      "expected": 0,
+      "walking": false,
+      "expected_walking": false,
+      "grip_values": [
+        0.0,
+        0.0
+      ],
+      "trigger_values": [
+        0.0,
+        0.0
+      ],
+      "yaw_delta": 0.0,
+      "pass": true
+    },
+    {
+      "name": "resting-squeeze",
+      "count": 0,
+      "expected": 0,
+      "walking": false,
+      "expected_walking": false,
+      "grip_values": [
+        0.0,
+        0.0
+      ],
+      "trigger_values": [
+        0.0,
+        0.0
+      ],
+      "yaw_delta": 0.0,
+      "pass": true
+    },
+    {
+      "name": "left-press",
+      "count": 1,
+      "expected": 1,
+      "walking": false,
+      "expected_walking": false,
+      "grip_values": [
+        0.6000000238418579,
+        0.0
+      ],
+      "trigger_values": [
+        0.0,
+        0.0
+      ],
+      "yaw_delta": -30.0,
+      "pass": true
+    },
+    {
+      "name": "held",
+      "count": 1,
+      "expected": 1,
+      "walking": false,
+      "expected_walking": false,
+      "grip_values": [
+        1.0,
+        0.0
+      ],
+      "trigger_values": [
+        0.0,
+        0.0
+      ],
+      "yaw_delta": 0.0,
+      "pass": true
+    },
+    {
+      "name": "partial-release-no-rearm",
+      "count": 1,
+      "expected": 1,
+      "walking": false,
+      "expected_walking": false,
+      "grip_values": [
+        0.08000004291534424,
+        0.0
+      ],
+      "trigger_values": [
+        0.0,
+        0.0
+      ],
+      "yaw_delta": 0.0,
+      "pass": true
+    },
+    {
+      "name": "squeeze-again-no-repeat",
+      "count": 1,
+      "expected": 1,
+      "walking": false,
+      "expected_walking": false,
+      "grip_values": [
+        0.6000000238418579,
+        0.0
+      ],
+      "trigger_values": [
+        0.0,
+        0.0
+      ],
+      "yaw_delta": 0.0,
+      "pass": true
+    },
+    {
+      "name": "release",
+      "count": 1,
+      "expected": 1,
+      "walking": false,
+      "expected_walking": false,
+      "grip_values": [
+        0.0,
+        0.0
+      ],
+      "trigger_values": [
+        0.0,
+        0.0
+      ],
+      "yaw_delta": 0.0,
+      "pass": true
+    },
+    {
+      "name": "right-press",
+      "count": 2,
+      "expected": 2,
+      "walking": false,
+      "expected_walking": false,
+      "grip_values": [
+        0.0,
+        0.6000000238418579
+      ],
+      "trigger_values": [
+        0.0,
+        0.0
+      ],
+      "yaw_delta": 30.0,
+      "pass": true
+    },
+    {
+      "name": "release2",
+      "count": 2,
+      "expected": 2,
+      "walking": false,
+      "expected_walking": false,
+      "grip_values": [
+        0.0,
+        0.0
+      ],
+      "trigger_values": [
+        0.0,
+        0.0
+      ],
+      "yaw_delta": 0.0,
+      "pass": true
+    },
+    {
+      "name": "both-suppressed",
+      "count": 2,
+      "expected": 2,
+      "walking": false,
+      "expected_walking": false,
+      "grip_values": [
+        0.6000000238418579,
+        0.6000000238418579
+      ],
+      "trigger_values": [
+        0.0,
+        0.0
+      ],
+      "yaw_delta": 0.0,
+      "pass": true
+    },
+    {
+      "name": "one-held-after-both",
+      "count": 2,
+      "expected": 2,
+      "walking": false,
+      "expected_walking": false,
+      "grip_values": [
+        0.6000000238418579,
+        0.0
+      ],
+      "trigger_values": [
+        0.0,
+        0.0
+      ],
+      "yaw_delta": 0.0,
+      "pass": true
+    },
+    {
+      "name": "neutral2",
+      "count": 2,
+      "expected": 2,
+      "walking": false,
+      "expected_walking": false,
+      "grip_values": [
+        0.0,
+        0.0
+      ],
+      "trigger_values": [
+        0.0,
+        0.0
+      ],
+      "yaw_delta": 0.0,
+      "pass": true
+    },
+    {
+      "name": "focus-lost",
+      "count": 2,
+      "expected": 2,
+      "walking": false,
+      "expected_walking": false,
+      "grip_values": [
+        0.6000000238418579,
+        0.0
+      ],
+      "trigger_values": [
+        0.0,
+        0.0
+      ],
+      "yaw_delta": 0.0,
+      "pass": true
+    },
+    {
+      "name": "refocus-held",
+      "count": 2,
+      "expected": 2,
+      "walking": false,
+      "expected_walking": false,
+      "grip_values": [
+        0.6000000238418579,
+        0.0
+      ],
+      "trigger_values": [
+        0.0,
+        0.0
+      ],
+      "yaw_delta": 0.0,
+      "pass": true
+    },
+    {
+      "name": "release3",
+      "count": 2,
+      "expected": 2,
+      "walking": false,
+      "expected_walking": false,
+      "grip_values": [
+        0.0,
+        0.0
+      ],
+      "trigger_values": [
+        0.0,
+        0.0
+      ],
+      "yaw_delta": 0.0,
+      "pass": true
+    },
+    {
+      "name": "tracking-lost",
+      "count": 2,
+      "expected": 2,
+      "walking": false,
+      "expected_walking": false,
+      "grip_values": [
+        0.0,
+        0.6000000238418579
+      ],
+      "trigger_values": [
+        0.0,
+        0.0
+      ],
+      "yaw_delta": 0.0,
+      "pass": true
+    },
+    {
+      "name": "tracking-restored-held",
+      "count": 2,
+      "expected": 2,
+      "walking": false,
+      "expected_walking": false,
+      "grip_values": [
+        0.0,
+        0.6000000238418579
+      ],
+      "trigger_values": [
+        0.0,
+        0.0
+      ],
+      "yaw_delta": 0.0,
+      "pass": true
+    },
+    {
+      "name": "release4",
+      "count": 2,
+      "expected": 2,
+      "walking": false,
+      "expected_walking": false,
+      "grip_values": [
+        0.0,
+        0.0
+      ],
+      "trigger_values": [
+        0.0,
+        0.0
+      ],
+      "yaw_delta": 0.0,
+      "pass": true
+    },
+    {
+      "name": "left-after-rearm",
+      "count": 3,
+      "expected": 3,
+      "walking": false,
+      "expected_walking": false,
+      "grip_values": [
+        0.6000000238418579,
+        0.0
+      ],
+      "trigger_values": [
+        0.0,
+        0.0
+      ],
+      "yaw_delta": -30.0,
+      "pass": true
+    },
+    {
+      "name": "trigger-neutral",
+      "count": 3,
+      "expected": 3,
+      "walking": false,
+      "expected_walking": false,
+      "grip_values": [
+        0.0,
+        0.0
+      ],
+      "trigger_values": [
+        0.0,
+        0.0
+      ],
+      "yaw_delta": 0.0,
+      "pass": true
+    },
+    {
+      "name": "left-trigger",
+      "count": 3,
+      "expected": 3,
+      "walking": true,
+      "expected_walking": true,
+      "grip_values": [
+        0.0,
+        0.0
+      ],
+      "trigger_values": [
+        0.699999988079071,
+        0.0
+      ],
+      "yaw_delta": 0.0,
+      "pass": true
+    },
+    {
+      "name": "right-trigger",
+      "count": 3,
+      "expected": 3,
+      "walking": true,
+      "expected_walking": true,
+      "grip_values": [
+        0.0,
+        0.0
+      ],
+      "trigger_values": [
+        0.0,
+        0.699999988079071
+      ],
+      "yaw_delta": 0.0,
+      "pass": true
+    },
+    {
+      "name": "both-triggers",
+      "count": 3,
+      "expected": 3,
+      "walking": true,
+      "expected_walking": true,
+      "grip_values": [
+        0.0,
+        0.0
+      ],
+      "trigger_values": [
+        0.699999988079071,
+        0.699999988079071
+      ],
+      "yaw_delta": 0.0,
+      "pass": true
+    },
+    {
+      "name": "trigger-focus-lost",
+      "count": 3,
+      "expected": 3,
+      "walking": false,
+      "expected_walking": false,
+      "grip_values": [
+        0.0,
+        0.0
+      ],
+      "trigger_values": [
+        0.699999988079071,
+        0.699999988079071
+      ],
+      "yaw_delta": 0.0,
+      "pass": true
+    },
+    {
+      "name": "trigger-refocus-held",
+      "count": 3,
+      "expected": 3,
+      "walking": false,
+      "expected_walking": false,
+      "grip_values": [
+        0.0,
+        0.0
+      ],
+      "trigger_values": [
+        0.699999988079071,
+        0.699999988079071
+      ],
+      "yaw_delta": 0.0,
+      "pass": true
+    },
+    {
+      "name": "trigger-release",
+      "count": 3,
+      "expected": 3,
+      "walking": false,
+      "expected_walking": false,
+      "grip_values": [
+        0.0,
+        0.0
+      ],
+      "trigger_values": [
+        0.0,
+        0.0
+      ],
+      "yaw_delta": 0.0,
+      "pass": true
+    },
+    {
+      "name": "right-trigger-rearmed",
+      "count": 3,
+      "expected": 3,
+      "walking": true,
+      "expected_walking": true,
+      "grip_values": [
+        0.0,
+        0.0
+      ],
+      "trigger_values": [
+        0.0,
+        0.699999988079071
+      ],
+      "yaw_delta": 0.0,
+      "pass": true
+    },
+    {
+      "name": "final-neutral",
+      "count": 3,
+      "expected": 3,
+      "walking": false,
+      "expected_walking": false,
+      "grip_values": [
+        0.0,
+        0.0
+      ],
+      "trigger_values": [
+        0.0,
+        0.0
+      ],
+      "yaw_delta": 0.0,
+      "pass": true
+    }
+  ],
+  "subsystems": [
+    "/Engine/Transient.UnrealEdEngine_0:LocalPlayer_0.EnhancedInputLocalPlayerSubsystem_0"
+  ],
+  "passed": true
+}

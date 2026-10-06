@@ -1,0 +1,519 @@
+{
+  "status": "PASS: all6000 frames decode; all30 actual encoded page midpoints compared and visually reviewed",
+  "file": "Tour_H04_All13_30Pages_Mapped_1024_Overview.mp4",
+  "bytes": 3864050,
+  "sha256": "b7716201000a81666b2b20149b00a0b9d0b384b7ef7e11b6b77cd2fd8dc45da5",
+  "width": 1024,
+  "height": 846,
+  "fps": 20,
+  "frames": 6000,
+  "duration_seconds": 300,
+  "stops": 13,
+  "pages": 30,
+  "each_page_hold_seconds": 10,
+  "actual_native_mapped_source_images": true,
+  "raw_projection_atlas_movie": false,
+  "all_frames_fully_decoded": true,
+  "preserves_existing_compact_bitstreams_without_reencoding": true,
+  "page_codec_checks": [
+    {
+      "page": 1,
+      "actual_decoded_midpoint": "Overview_Page_01_Actual_Decoded.png",
+      "mean_absolute_RGB_byte_error_from_native_mapped_preview": 0.7999312789351852,
+      "max_RGB_byte_error": 59,
+      "no_reencoding_during_concatenation": true
+    },
+    {
+      "page": 2,
+      "actual_decoded_midpoint": "Overview_Page_02_Actual_Decoded.png",
+      "mean_absolute_RGB_byte_error_from_native_mapped_preview": 0.7820738062697006,
+      "max_RGB_byte_error": 55,
+      "no_reencoding_during_concatenation": true
+    },
+    {
+      "page": 3,
+      "actual_decoded_midpoint": "Overview_Page_03_Actual_Decoded.png",
+      "mean_absolute_RGB_byte_error_from_native_mapped_preview": 0.784763778073286,
+      "max_RGB_byte_error": 57,
+      "no_reencoding_during_concatenation": true
+    },
+    {
+      "page": 4,
+      "actual_decoded_midpoint": "Overview_Page_04_Actual_Decoded.png",
+      "mean_absolute_RGB_byte_error_from_native_mapped_preview": 0.7865787683461387,
+      "max_RGB_byte_error": 91,
+      "no_reencoding_during_concatenation": true
+    },
+    {
+      "page": 5,
+      "actual_decoded_midpoint": "Overview_Page_05_Actual_Decoded.png",
+      "mean_absolute_RGB_byte_error_from_native_mapped_preview": 0.776680010712175,
+      "max_RGB_byte_error": 83,
+      "no_reencoding_during_concatenation": true
+    },
+    {
+      "page": 6,
+      "actual_decoded_midpoint": "Overview_Page_06_Actual_Decoded.png",
+      "mean_absolute_RGB_byte_error_from_native_mapped_preview": 0.8893452336977935,
+      "max_RGB_byte_error": 52,
+      "no_reencoding_during_concatenation": true
+    },
+    {
+      "page": 7,
+      "actual_decoded_midpoint": "Overview_Page_07_Actual_Decoded.png",
+      "mean_absolute_RGB_byte_error_from_native_mapped_preview": 0.8601957280585106,
+      "max_RGB_byte_error": 48,
+      "no_reencoding_during_concatenation": true
+    },
+    {
+      "page": 8,
+      "actual_decoded_midpoint": "Overview_Page_08_Actual_Decoded.png",
+      "mean_absolute_RGB_byte_error_from_native_mapped_preview": 0.7541171074665091,
+      "max_RGB_byte_error": 46,
+      "no_reencoding_during_concatenation": true
+    },
+    {
+      "page": 9,
+      "actual_decoded_midpoint": "Overview_Page_09_Actual_Decoded.png",
+      "mean_absolute_RGB_byte_error_from_native_mapped_preview": 0.7290827854117415,
+      "max_RGB_byte_error": 43,
+      "no_reencoding_during_concatenation": true
+    },
+    {
+      "page": 10,
+      "actual_decoded_midpoint": "Overview_Page_10_Actual_Decoded.png",
+      "mean_absolute_RGB_byte_error_from_native_mapped_preview": 0.7321271362785658,
+      "max_RGB_byte_error": 46,
+      "no_reencoding_during_concatenation": true
+    },
+    {
+      "page": 11,
+      "actual_decoded_midpoint": "Overview_Page_11_Actual_Decoded.png",
+      "mean_absolute_RGB_byte_error_from_native_mapped_preview": 0.7869104456018519,
+      "max_RGB_byte_error": 36,
+      "no_reencoding_during_concatenation": true
+    },
+    {
+      "page": 12,
+      "actual_decoded_midpoint": "Overview_Page_12_Actual_Decoded.png",
+      "mean_absolute_RGB_byte_error_from_native_mapped_preview": 0.7735398505220646,
+      "max_RGB_byte_error": 36,
+      "no_reencoding_during_concatenation": true
+    },
+    {
+      "page": 13,
+      "actual_decoded_midpoint": "Overview_Page_13_Actual_Decoded.png",
+      "mean_absolute_RGB_byte_error_from_native_mapped_preview": 0.8296964268124507,
+      "max_RGB_byte_error": 45,
+      "no_reencoding_during_concatenation": true
+    },
+    {
+      "page": 14,
+      "actual_decoded_midpoint": "Overview_Page_14_Actual_Decoded.png",
+      "mean_absolute_RGB_byte_error_from_native_mapped_preview": 0.8237574030979118,
+      "max_RGB_byte_error": 44,
+      "no_reencoding_during_concatenation": true
+    },
+    {
+      "page": 15,
+      "actual_decoded_midpoint": "Overview_Page_15_Actual_Decoded.png",
+      "mean_absolute_RGB_byte_error_from_native_mapped_preview": 0.83966367464539,
+      "max_RGB_byte_error": 73,
+      "no_reencoding_during_concatenation": true
+    },
+    {
+      "page": 16,
+      "actual_decoded_midpoint": "Overview_Page_16_Actual_Decoded.png",
+      "mean_absolute_RGB_byte_error_from_native_mapped_preview": 0.8226642533490938,
+      "max_RGB_byte_error": 65,
+      "no_reencoding_during_concatenation": true
+    },
+    {
+      "page": 17,
+      "actual_decoded_midpoint": "Overview_Page_17_Actual_Decoded.png",
+      "mean_absolute_RGB_byte_error_from_native_mapped_preview": 0.7947556515957447,
+      "max_RGB_byte_error": 67,
+      "no_reencoding_during_concatenation": true
+    },
+    {
+      "page": 18,
+      "actual_decoded_midpoint": "Overview_Page_18_Actual_Decoded.png",
+      "mean_absolute_RGB_byte_error_from_native_mapped_preview": 0.7735725565159575,
+      "max_RGB_byte_error": 61,
+      "no_reencoding_during_concatenation": true
+    },
+    {
+      "page": 19,
+      "actual_decoded_midpoint": "Overview_Page_19_Actual_Decoded.png",
+      "mean_absolute_RGB_byte_error_from_native_mapped_preview": 0.7800775863130418,
+      "max_RGB_byte_error": 66,
+      "no_reencoding_during_concatenation": true
+    },
+    {
+      "page": 20,
+      "actual_decoded_midpoint": "Overview_Page_20_Actual_Decoded.png",
+      "mean_absolute_RGB_byte_error_from_native_mapped_preview": 0.7596336466952325,
+      "max_RGB_byte_error": 47,
+      "no_reencoding_during_concatenation": true
+    },
+    {
+      "page": 21,
+      "actual_decoded_midpoint": "Overview_Page_21_Actual_Decoded.png",
+      "mean_absolute_RGB_byte_error_from_native_mapped_preview": 0.7534272033835697,
+      "max_RGB_byte_error": 45,
+      "no_reencoding_during_concatenation": true
+    },
+    {
+      "page": 22,
+      "actual_decoded_midpoint": "Overview_Page_22_Actual_Decoded.png",
+      "mean_absolute_RGB_byte_error_from_native_mapped_preview": 0.7845144429669031,
+      "max_RGB_byte_error": 46,
+      "no_reencoding_during_concatenation": true
+    },
+    {
+      "page": 23,
+      "actual_decoded_midpoint": "Overview_Page_23_Actual_Decoded.png",
+      "mean_absolute_RGB_byte_error_from_native_mapped_preview": 0.7665777063632782,
+      "max_RGB_byte_error": 45,
+      "no_reencoding_during_concatenation": true
+    },
+    {
+      "page": 24,
+      "actual_decoded_midpoint": "Overview_Page_24_Actual_Decoded.png",
+      "mean_absolute_RGB_byte_error_from_native_mapped_preview": 0.781596683535264,
+      "max_RGB_byte_error": 42,
+      "no_reencoding_during_concatenation": true
+    },
+    {
+      "page": 25,
+      "actual_decoded_midpoint": "Overview_Page_25_Actual_Decoded.png",
+      "mean_absolute_RGB_byte_error_from_native_mapped_preview": 0.7634036858500788,
+      "max_RGB_byte_error": 38,
+      "no_reencoding_during_concatenation": true
+    },
+    {
+      "page": 26,
+      "actual_decoded_midpoint": "Overview_Page_26_Actual_Decoded.png",
+      "mean_absolute_RGB_byte_error_from_native_mapped_preview": 0.8030318071562254,
+      "max_RGB_byte_error": 71,
+      "no_reencoding_during_concatenation": true
+    },
+    {
+      "page": 27,
+      "actual_decoded_midpoint": "Overview_Page_27_Actual_Decoded.png",
+      "mean_absolute_RGB_byte_error_from_native_mapped_preview": 0.7885569038120568,
+      "max_RGB_byte_error": 66,
+      "no_reencoding_during_concatenation": true
+    },
+    {
+      "page": 28,
+      "actual_decoded_midpoint": "Overview_Page_28_Actual_Decoded.png",
+      "mean_absolute_RGB_byte_error_from_native_mapped_preview": 0.8440439691686368,
+      "max_RGB_byte_error": 40,
+      "no_reencoding_during_concatenation": true
+    },
+    {
+      "page": 29,
+      "actual_decoded_midpoint": "Overview_Page_29_Actual_Decoded.png",
+      "mean_absolute_RGB_byte_error_from_native_mapped_preview": 0.827307734929078,
+      "max_RGB_byte_error": 41,
+      "no_reencoding_during_concatenation": true
+    },
+    {
+      "page": 30,
+      "actual_decoded_midpoint": "Overview_Page_30_Actual_Decoded.png",
+      "mean_absolute_RGB_byte_error_from_native_mapped_preview": 0.8271492070527975,
+      "max_RGB_byte_error": 42,
+      "no_reencoding_during_concatenation": true
+    }
+  ],
+  "timeline": [
+    {
+      "official_title": "Entry + Reception",
+      "stop_id_metadata_only": "HS01",
+      "page": 1,
+      "start_seconds": 0,
+      "end_seconds": 10,
+      "source_still": "Entry_Reception\\Entry_Reception_Page_01_Mapped_1024_Viewing.png",
+      "actual_decoded_midpoint": "Overview_Page_01_Actual_Decoded.png"
+    },
+    {
+      "official_title": "Entry + Reception",
+      "stop_id_metadata_only": "HS01",
+      "page": 2,
+      "start_seconds": 10,
+      "end_seconds": 20,
+      "source_still": "Entry_Reception\\Entry_Reception_Page_02_Mapped_1024_Viewing.png",
+      "actual_decoded_midpoint": "Overview_Page_02_Actual_Decoded.png"
+    },
+    {
+      "official_title": "Entry + Reception",
+      "stop_id_metadata_only": "HS01",
+      "page": 3,
+      "start_seconds": 20,
+      "end_seconds": 30,
+      "source_still": "Entry_Reception\\Entry_Reception_Page_03_Mapped_1024_Viewing.png",
+      "actual_decoded_midpoint": "Overview_Page_03_Actual_Decoded.png"
+    },
+    {
+      "official_title": "The Cafe",
+      "stop_id_metadata_only": "HS02",
+      "page": 1,
+      "start_seconds": 30,
+      "end_seconds": 40,
+      "source_still": "The_Cafe\\The_Cafe_Page_01_Mapped_1024_Viewing.png",
+      "actual_decoded_midpoint": "Overview_Page_04_Actual_Decoded.png"
+    },
+    {
+      "official_title": "The Cafe",
+      "stop_id_metadata_only": "HS02",
+      "page": 2,
+      "start_seconds": 40,
+      "end_seconds": 50,
+      "source_still": "The_Cafe\\The_Cafe_Page_02_Mapped_1024_Viewing.png",
+      "actual_decoded_midpoint": "Overview_Page_05_Actual_Decoded.png"
+    },
+    {
+      "official_title": "The Student Commons",
+      "stop_id_metadata_only": "HS03",
+      "page": 1,
+      "start_seconds": 50,
+      "end_seconds": 60,
+      "source_still": "The_Student_Commons\\The_Student_Commons_Page_01_Mapped_1024_Viewing.png",
+      "actual_decoded_midpoint": "Overview_Page_06_Actual_Decoded.png"
+    },
+    {
+      "official_title": "The Student Commons",
+      "stop_id_metadata_only": "HS03",
+      "page": 2,
+      "start_seconds": 60,
+      "end_seconds": 70,
+      "source_still": "The_Student_Commons\\The_Student_Commons_Page_02_Mapped_1024_Viewing.png",
+      "actual_decoded_midpoint": "Overview_Page_07_Actual_Decoded.png"
+    },
+    {
+      "official_title": "Admissions Office",
+      "stop_id_metadata_only": "HS04",
+      "page": 1,
+      "start_seconds": 70,
+      "end_seconds": 80,
+      "source_still": "Admissions_Office\\Admissions_Office_Page_01_Mapped_1024_Viewing.png",
+      "actual_decoded_midpoint": "Overview_Page_08_Actual_Decoded.png"
+    },
+    {
+      "official_title": "Admissions Office",
+      "stop_id_metadata_only": "HS04",
+      "page": 2,
+      "start_seconds": 80,
+      "end_seconds": 90,
+      "source_still": "Admissions_Office\\Admissions_Office_Page_02_Mapped_1024_Viewing.png",
+      "actual_decoded_midpoint": "Overview_Page_09_Actual_Decoded.png"
+    },
+    {
+      "official_title": "Admissions Office",
+      "stop_id_metadata_only": "HS04",
+      "page": 3,
+      "start_seconds": 90,
+      "end_seconds": 100,
+      "source_still": "Admissions_Office\\Admissions_Office_Page_03_Mapped_1024_Viewing.png",
+      "actual_decoded_midpoint": "Overview_Page_10_Actual_Decoded.png"
+    },
+    {
+      "official_title": "CRI Gallery",
+      "stop_id_metadata_only": "HS05",
+      "page": 1,
+      "start_seconds": 100,
+      "end_seconds": 110,
+      "source_still": "CRI_Gallery\\CRI_Gallery_Page_01_Mapped_1024_Viewing.png",
+      "actual_decoded_midpoint": "Overview_Page_11_Actual_Decoded.png"
+    },
+    {
+      "official_title": "CRI Gallery",
+      "stop_id_metadata_only": "HS05",
+      "page": 2,
+      "start_seconds": 110,
+      "end_seconds": 120,
+      "source_still": "CRI_Gallery\\CRI_Gallery_Page_02_Mapped_1024_Viewing.png",
+      "actual_decoded_midpoint": "Overview_Page_12_Actual_Decoded.png"
+    },
+    {
+      "official_title": "Corridor / Display Hall",
+      "stop_id_metadata_only": "HS06",
+      "page": 1,
+      "start_seconds": 120,
+      "end_seconds": 130,
+      "source_still": "Corridor_Display_Hall\\Corridor_Display_Hall_Page_01_Mapped_1024_Viewing.png",
+      "actual_decoded_midpoint": "Overview_Page_13_Actual_Decoded.png"
+    },
+    {
+      "official_title": "Corridor / Display Hall",
+      "stop_id_metadata_only": "HS06",
+      "page": 2,
+      "start_seconds": 130,
+      "end_seconds": 140,
+      "source_still": "Corridor_Display_Hall\\Corridor_Display_Hall_Page_02_Mapped_1024_Viewing.png",
+      "actual_decoded_midpoint": "Overview_Page_14_Actual_Decoded.png"
+    },
+    {
+      "official_title": "Innovation Lab",
+      "stop_id_metadata_only": "HS07",
+      "page": 1,
+      "start_seconds": 140,
+      "end_seconds": 150,
+      "source_still": "Innovation_Lab\\Innovation_Lab_Page_01_Mapped_1024_Viewing.png",
+      "actual_decoded_midpoint": "Overview_Page_15_Actual_Decoded.png"
+    },
+    {
+      "official_title": "Innovation Lab",
+      "stop_id_metadata_only": "HS07",
+      "page": 2,
+      "start_seconds": 150,
+      "end_seconds": 160,
+      "source_still": "Innovation_Lab\\Innovation_Lab_Page_02_Mapped_1024_Viewing.png",
+      "actual_decoded_midpoint": "Overview_Page_16_Actual_Decoded.png"
+    },
+    {
+      "official_title": "ASPIRE Seminar Room",
+      "stop_id_metadata_only": "HS08",
+      "page": 1,
+      "start_seconds": 160,
+      "end_seconds": 170,
+      "source_still": "ASPIRE_Seminar_Room\\ASPIRE_Seminar_Room_Page_01_Mapped_1024_Viewing.png",
+      "actual_decoded_midpoint": "Overview_Page_17_Actual_Decoded.png"
+    },
+    {
+      "official_title": "ASPIRE Seminar Room",
+      "stop_id_metadata_only": "HS08",
+      "page": 2,
+      "start_seconds": 170,
+      "end_seconds": 180,
+      "source_still": "ASPIRE_Seminar_Room\\ASPIRE_Seminar_Room_Page_02_Mapped_1024_Viewing.png",
+      "actual_decoded_midpoint": "Overview_Page_18_Actual_Decoded.png"
+    },
+    {
+      "official_title": "ASPIRE Seminar Room",
+      "stop_id_metadata_only": "HS08",
+      "page": 3,
+      "start_seconds": 180,
+      "end_seconds": 190,
+      "source_still": "ASPIRE_Seminar_Room\\ASPIRE_Seminar_Room_Page_03_Mapped_1024_Viewing.png",
+      "actual_decoded_midpoint": "Overview_Page_19_Actual_Decoded.png"
+    },
+    {
+      "official_title": "Collaboration Room",
+      "stop_id_metadata_only": "HS09",
+      "page": 1,
+      "start_seconds": 190,
+      "end_seconds": 200,
+      "source_still": "Collaboration_Room\\Collaboration_Room_Page_01_Mapped_1024_Viewing.png",
+      "actual_decoded_midpoint": "Overview_Page_20_Actual_Decoded.png"
+    },
+    {
+      "official_title": "Collaboration Room",
+      "stop_id_metadata_only": "HS09",
+      "page": 2,
+      "start_seconds": 200,
+      "end_seconds": 210,
+      "source_still": "Collaboration_Room\\Collaboration_Room_Page_02_Mapped_1024_Viewing.png",
+      "actual_decoded_midpoint": "Overview_Page_21_Actual_Decoded.png"
+    },
+    {
+      "official_title": "Trophy Hall / Corridor",
+      "stop_id_metadata_only": "HS10",
+      "page": 1,
+      "start_seconds": 210,
+      "end_seconds": 220,
+      "source_still": "Trophy_Hall_Corridor\\Trophy_Hall_Corridor_Page_01_Mapped_1024_Viewing.png",
+      "actual_decoded_midpoint": "Overview_Page_22_Actual_Decoded.png"
+    },
+    {
+      "official_title": "Trophy Hall / Corridor",
+      "stop_id_metadata_only": "HS10",
+      "page": 2,
+      "start_seconds": 220,
+      "end_seconds": 230,
+      "source_still": "Trophy_Hall_Corridor\\Trophy_Hall_Corridor_Page_02_Mapped_1024_Viewing.png",
+      "actual_decoded_midpoint": "Overview_Page_23_Actual_Decoded.png"
+    },
+    {
+      "official_title": "Athletics Office",
+      "stop_id_metadata_only": "HS11",
+      "page": 1,
+      "start_seconds": 230,
+      "end_seconds": 240,
+      "source_still": "Athletics_Office\\Athletics_Office_Page_01_Mapped_1024_Viewing.png",
+      "actual_decoded_midpoint": "Overview_Page_24_Actual_Decoded.png"
+    },
+    {
+      "official_title": "Athletics Office",
+      "stop_id_metadata_only": "HS11",
+      "page": 2,
+      "start_seconds": 240,
+      "end_seconds": 250,
+      "source_still": "Athletics_Office\\Athletics_Office_Page_02_Mapped_1024_Viewing.png",
+      "actual_decoded_midpoint": "Overview_Page_25_Actual_Decoded.png"
+    },
+    {
+      "official_title": "Athletics Trainers’ Room",
+      "stop_id_metadata_only": "HS12",
+      "page": 1,
+      "start_seconds": 250,
+      "end_seconds": 260,
+      "source_still": "Athletics_Trainers_Room\\Athletics_Trainers_Room_Page_01_Mapped_1024_Viewing.png",
+      "actual_decoded_midpoint": "Overview_Page_26_Actual_Decoded.png"
+    },
+    {
+      "official_title": "Athletics Trainers’ Room",
+      "stop_id_metadata_only": "HS12",
+      "page": 2,
+      "start_seconds": 260,
+      "end_seconds": 270,
+      "source_still": "Athletics_Trainers_Room\\Athletics_Trainers_Room_Page_02_Mapped_1024_Viewing.png",
+      "actual_decoded_midpoint": "Overview_Page_27_Actual_Decoded.png"
+    },
+    {
+      "official_title": "Gym",
+      "stop_id_metadata_only": "HS13",
+      "page": 1,
+      "start_seconds": 270,
+      "end_seconds": 280,
+      "source_still": "Gym\\Gym_Page_01_Mapped_1024_Viewing.png",
+      "actual_decoded_midpoint": "Overview_Page_28_Actual_Decoded.png"
+    },
+    {
+      "official_title": "Gym",
+      "stop_id_metadata_only": "HS13",
+      "page": 2,
+      "start_seconds": 280,
+      "end_seconds": 290,
+      "source_still": "Gym\\Gym_Page_02_Mapped_1024_Viewing.png",
+      "actual_decoded_midpoint": "Overview_Page_29_Actual_Decoded.png"
+    },
+    {
+      "official_title": "Gym",
+      "stop_id_metadata_only": "HS13",
+      "page": 3,
+      "start_seconds": 290,
+      "end_seconds": 300,
+      "source_still": "Gym\\Gym_Page_03_Mapped_1024_Viewing.png",
+      "actual_decoded_midpoint": "Overview_Page_30_Actual_Decoded.png"
+    }
+  ],
+  "visual_review_pending": false,
+  "physical_projection_or_readability_verified": false,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1024,
+        "height": 846,
+        "r_frame_rate": "20/1",
+        "duration": "300.000000",
+        "nb_read_frames": "6000"
+      }
+    ]
+  },
+  "visual_review_reference": "../Review_Sheets/Visual_Review_Completion.json"
+}

@@ -1,0 +1,672 @@
+{
+  "status": "PASS: all13 H04 media and all30 projection pages complete; native and actual encoded viewing visual review passed",
+  "stops_audited": 13,
+  "pages_audited": 30,
+  "receiver_OBJ_sha256": "b949784cbb3f833d10d82fdd48d469ac3fac1b8ac723f7cc08588ca633a59fba",
+  "geometry_UVs_shared_origin_scale_changed": false,
+  "H03_alpha_masks_byte_identical_reused": true,
+  "gym_caption_pixels_and_balanced_pagination_match_H03": true,
+  "displayed_room_numbers": false,
+  "fireplace_only_Commons": true,
+  "all_selected_fixture_surfaces_same_hue_dimmer": true,
+  "fixture_normal_height_contact_depth_shading_retained": true,
+  "native_shader": "Emission1; no scene lights; actual UV02 all4parts; nearest texture",
+  "physical_projection_or_MadMapper_playback_verified": false,
+  "rows": [
+    {
+      "sid": 1,
+      "title": "Entry + Reception",
+      "pages": [
+        {
+          "page": 1,
+          "atlas": "Entry_Reception_Paginated_Page_01_Atlas_8192.png",
+          "sha256": "b8d7098d6c853c1c27438dc39d3e9e0f75fe2950fadbc7240344a4a18019e1c8",
+          "caption_matches_final_H03_texels": true,
+          "official_lines_unchanged": true,
+          "native_render_matches_current_atlas_hash": true,
+          "fireplace_nonzero_chart_texels": 0,
+          "fireplace_on": false
+        },
+        {
+          "page": 2,
+          "atlas": "Entry_Reception_Paginated_Page_02_Atlas_8192.png",
+          "sha256": "a4df0b40eae11e31a48220811ce0a215012253f8587791e3d216370cea546d86",
+          "caption_matches_final_H03_texels": true,
+          "official_lines_unchanged": true,
+          "native_render_matches_current_atlas_hash": true,
+          "fireplace_nonzero_chart_texels": 0,
+          "fireplace_on": false
+        },
+        {
+          "page": 3,
+          "atlas": "Entry_Reception_Paginated_Page_03_Atlas_8192.png",
+          "sha256": "f83ee276eb2c30ce1c15b0a84935d6dbd3917852f1d10fe915fc8f871e3be4fe",
+          "caption_matches_final_H03_texels": true,
+          "official_lines_unchanged": true,
+          "native_render_matches_current_atlas_hash": true,
+          "fireplace_nonzero_chart_texels": 0,
+          "fireplace_on": false
+        }
+      ],
+      "colour_RGB": [
+        255,
+        138,
+        78
+      ],
+      "fixture_colour_QA": {
+        "receiver_charts": 337,
+        "selected_receiver_texels": 297527,
+        "raised_fixture_or_wall_texels": 175792,
+        "same_hue_max_RGB_byte_residual": 0.764705882352942
+      },
+      "floor_colour_ratio_vs_H03": 1.2706048112790422,
+      "clip_path": "Entry_Reception_Paginated_Gym_Mapped_1024_Viewing_Preview_H04_Bright_SameHue.mp4",
+      "clip_sha256": "9f8f1bdbbb914b94a3d74cc550304df100515865184deabd862088f8b3edf72c",
+      "clip_bytes": 374028,
+      "clip_seconds": 30.0,
+      "review_sheet": "Entry_Reception_Combined_Caption_And_Room_Review.png",
+      "room_comparison": "Entry_Reception_H03_H04_Room_Comparison.png",
+      "fireplace_crop": "Entry_Reception_Fireplace_Actual_Native_Crop.png",
+      "inherited_world_mask_mapping_QA": "PASS",
+      "original_H03_pages_hash_verified_unchanged": true
+    },
+    {
+      "sid": 2,
+      "title": "The Cafe",
+      "pages": [
+        {
+          "page": 1,
+          "atlas": "The_Cafe_Paginated_Page_01_Atlas_8192.png",
+          "sha256": "b62de0491a9f8195c1a95a552e57438701807f85f0c6f358028d47fcb81d8597",
+          "caption_matches_final_H03_texels": true,
+          "official_lines_unchanged": true,
+          "native_render_matches_current_atlas_hash": true,
+          "fireplace_nonzero_chart_texels": 0,
+          "fireplace_on": false
+        },
+        {
+          "page": 2,
+          "atlas": "The_Cafe_Paginated_Page_02_Atlas_8192.png",
+          "sha256": "2f147b2047f85723e17c181dbeeb51fdb56681c9eb9d723c1e14f3dad903d4ed",
+          "caption_matches_final_H03_texels": true,
+          "official_lines_unchanged": true,
+          "native_render_matches_current_atlas_hash": true,
+          "fireplace_nonzero_chart_texels": 0,
+          "fireplace_on": false
+        }
+      ],
+      "colour_RGB": [
+        255,
+        209,
+        67
+      ],
+      "fixture_colour_QA": {
+        "receiver_charts": 231,
+        "selected_receiver_texels": 234996,
+        "raised_fixture_or_wall_texels": 177399,
+        "same_hue_max_RGB_byte_residual": 0.898039215686282
+      },
+      "floor_colour_ratio_vs_H03": 1.2676044532511141,
+      "clip_path": "The_Cafe_Paginated_Gym_Mapped_1024_Viewing_Preview_H04_Bright_SameHue.mp4",
+      "clip_sha256": "49724897a3581285fcdbc655e5a74d3d99facbc0de3b946f4cd6ffd4fb75087c",
+      "clip_bytes": 253682,
+      "clip_seconds": 20.0,
+      "review_sheet": "The_Cafe_Combined_Caption_And_Room_Review.png",
+      "room_comparison": "The_Cafe_H03_H04_Room_Comparison.png",
+      "fireplace_crop": "The_Cafe_Fireplace_Actual_Native_Crop.png",
+      "inherited_world_mask_mapping_QA": "PASS",
+      "original_H03_pages_hash_verified_unchanged": true
+    },
+    {
+      "sid": 3,
+      "title": "The Student Commons",
+      "pages": [
+        {
+          "page": 1,
+          "atlas": "The_Student_Commons_Paginated_Page_01_Atlas_8192.png",
+          "sha256": "93add0747688cc8714a197204208d78e50bfaa3a3316eaf80cb8e3662668348d",
+          "caption_matches_final_H03_texels": true,
+          "official_lines_unchanged": true,
+          "native_render_matches_current_atlas_hash": true,
+          "fireplace_nonzero_chart_texels": 1365444,
+          "fireplace_on": true
+        },
+        {
+          "page": 2,
+          "atlas": "The_Student_Commons_Paginated_Page_02_Atlas_8192.png",
+          "sha256": "49bcc28030aafa0aafff5394bb7100c0f71718a1b6cb5a3bad419f7bea36212f",
+          "caption_matches_final_H03_texels": true,
+          "official_lines_unchanged": true,
+          "native_render_matches_current_atlas_hash": true,
+          "fireplace_nonzero_chart_texels": 1365444,
+          "fireplace_on": true
+        }
+      ],
+      "colour_RGB": [
+        91,
+        255,
+        231
+      ],
+      "fixture_colour_QA": {
+        "receiver_charts": 3123,
+        "selected_receiver_texels": 1450617,
+        "raised_fixture_or_wall_texels": 883246,
+        "same_hue_max_RGB_byte_residual": 0.941176470588232
+      },
+      "floor_colour_ratio_vs_H03": 1.3884428530020265,
+      "clip_path": "The_Student_Commons_Paginated_Gym_Mapped_1024_Viewing_Preview_H04_Bright_SameHue.mp4",
+      "clip_sha256": "97956ea5b5ecdad6d12774f436c7d882c3379dc2d1baa542a88b18a193588b32",
+      "clip_bytes": 287857,
+      "clip_seconds": 20.0,
+      "review_sheet": "The_Student_Commons_Combined_Caption_And_Room_Review.png",
+      "room_comparison": "The_Student_Commons_H03_H04_Room_Comparison.png",
+      "fireplace_crop": "The_Student_Commons_Fireplace_Actual_Native_Crop.png",
+      "inherited_world_mask_mapping_QA": "PASS",
+      "original_H03_pages_hash_verified_unchanged": true
+    },
+    {
+      "sid": 4,
+      "title": "Admissions Office",
+      "pages": [
+        {
+          "page": 1,
+          "atlas": "Admissions_Office_Paginated_Page_01_Atlas_8192.png",
+          "sha256": "dcd30938633606cb6c697739ee24e627b9e197072bb827e0d28e6799d7155e06",
+          "caption_matches_final_H03_texels": true,
+          "official_lines_unchanged": true,
+          "native_render_matches_current_atlas_hash": true,
+          "fireplace_nonzero_chart_texels": 0,
+          "fireplace_on": false
+        },
+        {
+          "page": 2,
+          "atlas": "Admissions_Office_Paginated_Page_02_Atlas_8192.png",
+          "sha256": "c11e09358b5f9f402becfe5ba8ef72ca2808732fdbc53aee6e3faadfd002d1f1",
+          "caption_matches_final_H03_texels": true,
+          "official_lines_unchanged": true,
+          "native_render_matches_current_atlas_hash": true,
+          "fireplace_nonzero_chart_texels": 0,
+          "fireplace_on": false
+        },
+        {
+          "page": 3,
+          "atlas": "Admissions_Office_Paginated_Page_03_Atlas_8192.png",
+          "sha256": "6fa963aa272af5fe50972ad11356e4667552577ab7b4a5029b7c00f7380f3bc3",
+          "caption_matches_final_H03_texels": true,
+          "official_lines_unchanged": true,
+          "native_render_matches_current_atlas_hash": true,
+          "fireplace_nonzero_chart_texels": 0,
+          "fireplace_on": false
+        }
+      ],
+      "colour_RGB": [
+        130,
+        151,
+        255
+      ],
+      "fixture_colour_QA": {
+        "receiver_charts": 228,
+        "selected_receiver_texels": 172721,
+        "raised_fixture_or_wall_texels": 120701,
+        "same_hue_max_RGB_byte_residual": 0.7843137254902004
+      },
+      "floor_colour_ratio_vs_H03": 1.341025403968776,
+      "clip_path": "Admissions_Office_Paginated_Gym_Mapped_1024_Viewing_Preview_H04_Bright_SameHue.mp4",
+      "clip_sha256": "2cf919594d03612dc1c952db6864d02ea0c395311540d600341174e34760e1a7",
+      "clip_bytes": 368419,
+      "clip_seconds": 30.0,
+      "review_sheet": "Admissions_Office_Combined_Caption_And_Room_Review.png",
+      "room_comparison": "Admissions_Office_H03_H04_Room_Comparison.png",
+      "fireplace_crop": "Admissions_Office_Fireplace_Actual_Native_Crop.png",
+      "inherited_world_mask_mapping_QA": "PASS",
+      "original_H03_pages_hash_verified_unchanged": true
+    },
+    {
+      "sid": 5,
+      "title": "CRI Gallery",
+      "pages": [
+        {
+          "page": 1,
+          "atlas": "CRI_Gallery_Paginated_Page_01_Atlas_8192.png",
+          "sha256": "483e001ab5b03379ecf9b76dfb604f1f0e6d56cd595c5ac1f96111cc37affd22",
+          "caption_matches_final_H03_texels": true,
+          "official_lines_unchanged": true,
+          "native_render_matches_current_atlas_hash": true,
+          "fireplace_nonzero_chart_texels": 0,
+          "fireplace_on": false
+        },
+        {
+          "page": 2,
+          "atlas": "CRI_Gallery_Paginated_Page_02_Atlas_8192.png",
+          "sha256": "3c37b8457595ec8cd0f808da50945b4d4ea891ea448cd0e31cf478a61b1bb4a3",
+          "caption_matches_final_H03_texels": true,
+          "official_lines_unchanged": true,
+          "native_render_matches_current_atlas_hash": true,
+          "fireplace_nonzero_chart_texels": 0,
+          "fireplace_on": false
+        }
+      ],
+      "colour_RGB": [
+        212,
+        145,
+        255
+      ],
+      "fixture_colour_QA": {
+        "receiver_charts": 389,
+        "selected_receiver_texels": 661446,
+        "raised_fixture_or_wall_texels": 435914,
+        "same_hue_max_RGB_byte_residual": 0.9058823529411768
+      },
+      "floor_colour_ratio_vs_H03": 1.2196115324809382,
+      "clip_path": "CRI_Gallery_Paginated_Gym_Mapped_1024_Viewing_Preview_H04_Bright_SameHue.mp4",
+      "clip_sha256": "dc2e262e27c229fbfcb9fcae11bb6dab1e3e3d42cc30fb32464febe2790b3450",
+      "clip_bytes": 259778,
+      "clip_seconds": 20.0,
+      "review_sheet": "CRI_Gallery_Combined_Caption_And_Room_Review.png",
+      "room_comparison": "CRI_Gallery_H03_H04_Room_Comparison.png",
+      "fireplace_crop": "CRI_Gallery_Fireplace_Actual_Native_Crop.png",
+      "inherited_world_mask_mapping_QA": "PASS",
+      "original_H03_pages_hash_verified_unchanged": true
+    },
+    {
+      "sid": 6,
+      "title": "Corridor / Display Hall",
+      "pages": [
+        {
+          "page": 1,
+          "atlas": "Corridor_Display_Hall_Paginated_Page_01_Atlas_8192.png",
+          "sha256": "2a5cd1c44a18063652c16d3f980a89992a51d2f54ae06ad52cf2994b3de06a4a",
+          "caption_matches_final_H03_texels": true,
+          "official_lines_unchanged": true,
+          "native_render_matches_current_atlas_hash": true,
+          "fireplace_nonzero_chart_texels": 0,
+          "fireplace_on": false
+        },
+        {
+          "page": 2,
+          "atlas": "Corridor_Display_Hall_Paginated_Page_02_Atlas_8192.png",
+          "sha256": "24e35998897cf090458ec713bb186e8d392b87243aabe745cb63dad6f2099a62",
+          "caption_matches_final_H03_texels": true,
+          "official_lines_unchanged": true,
+          "native_render_matches_current_atlas_hash": true,
+          "fireplace_nonzero_chart_texels": 0,
+          "fireplace_on": false
+        }
+      ],
+      "colour_RGB": [
+        78,
+        203,
+        255
+      ],
+      "fixture_colour_QA": {
+        "receiver_charts": 514,
+        "selected_receiver_texels": 1021180,
+        "raised_fixture_or_wall_texels": 518720,
+        "same_hue_max_RGB_byte_residual": 0.8901960784313729
+      },
+      "floor_colour_ratio_vs_H03": 1.2701032486824333,
+      "clip_path": "Corridor_Display_Hall_Paginated_Gym_Mapped_1024_Viewing_Preview_H04_Bright_SameHue.mp4",
+      "clip_sha256": "bed139916accdcbdad7a505a916f3587c82c28842ebde5d9ab37c19fcec6ff9f",
+      "clip_bytes": 265153,
+      "clip_seconds": 20.0,
+      "review_sheet": "Corridor_Display_Hall_Combined_Caption_And_Room_Review.png",
+      "room_comparison": "Corridor_Display_Hall_H03_H04_Room_Comparison.png",
+      "fireplace_crop": "Corridor_Display_Hall_Fireplace_Actual_Native_Crop.png",
+      "inherited_world_mask_mapping_QA": "PASS",
+      "original_H03_pages_hash_verified_unchanged": true
+    },
+    {
+      "sid": 7,
+      "title": "Innovation Lab",
+      "pages": [
+        {
+          "page": 1,
+          "atlas": "Innovation_Lab_Paginated_Page_01_Atlas_8192.png",
+          "sha256": "36576c3e0eb926f8f43927c81453b5477f49453ddff9e8cd1ef56b54823075d2",
+          "caption_matches_final_H03_texels": true,
+          "official_lines_unchanged": true,
+          "native_render_matches_current_atlas_hash": true,
+          "fireplace_nonzero_chart_texels": 0,
+          "fireplace_on": false
+        },
+        {
+          "page": 2,
+          "atlas": "Innovation_Lab_Paginated_Page_02_Atlas_8192.png",
+          "sha256": "edca1c65e8c5f6cf1344a91a553f914a9fd6e5f135fe4dc69d7999f236706d6c",
+          "caption_matches_final_H03_texels": true,
+          "official_lines_unchanged": true,
+          "native_render_matches_current_atlas_hash": true,
+          "fireplace_nonzero_chart_texels": 0,
+          "fireplace_on": false
+        }
+      ],
+      "colour_RGB": [
+        190,
+        255,
+        89
+      ],
+      "fixture_colour_QA": {
+        "receiver_charts": 1378,
+        "selected_receiver_texels": 1149404,
+        "raised_fixture_or_wall_texels": 829257,
+        "same_hue_max_RGB_byte_residual": 0.8627450980392197
+      },
+      "floor_colour_ratio_vs_H03": 1.5329314553757707,
+      "clip_path": "Innovation_Lab_Paginated_Gym_Mapped_1024_Viewing_Preview_H04_Bright_SameHue.mp4",
+      "clip_sha256": "181641f6102db8ee669f8aceef9fd3d8673790a403a8f4fa38088addb974c5dc",
+      "clip_bytes": 278510,
+      "clip_seconds": 20.0,
+      "review_sheet": "Innovation_Lab_Combined_Caption_And_Room_Review.png",
+      "room_comparison": "Innovation_Lab_H03_H04_Room_Comparison.png",
+      "fireplace_crop": "Innovation_Lab_Fireplace_Actual_Native_Crop.png",
+      "inherited_world_mask_mapping_QA": "PASS",
+      "original_H03_pages_hash_verified_unchanged": true
+    },
+    {
+      "sid": 8,
+      "title": "ASPIRE Seminar Room",
+      "pages": [
+        {
+          "page": 1,
+          "atlas": "ASPIRE_Seminar_Room_Paginated_Page_01_Atlas_8192.png",
+          "sha256": "1de0c5f50ee7354e4966c53b8ea473f80a868b6879001cee7caa75903d9f933d",
+          "caption_matches_final_H03_texels": true,
+          "official_lines_unchanged": true,
+          "native_render_matches_current_atlas_hash": true,
+          "fireplace_nonzero_chart_texels": 0,
+          "fireplace_on": false
+        },
+        {
+          "page": 2,
+          "atlas": "ASPIRE_Seminar_Room_Paginated_Page_02_Atlas_8192.png",
+          "sha256": "7a858ab9b215fc835bf01be91645d9b76ec23f961204ada7e0dd974125bbb9a8",
+          "caption_matches_final_H03_texels": true,
+          "official_lines_unchanged": true,
+          "native_render_matches_current_atlas_hash": true,
+          "fireplace_nonzero_chart_texels": 0,
+          "fireplace_on": false
+        },
+        {
+          "page": 3,
+          "atlas": "ASPIRE_Seminar_Room_Paginated_Page_03_Atlas_8192.png",
+          "sha256": "7de496a1247fa3ebbd003bf5631b4d5fd762b38ede8bb465e50aee3131e5ffa0",
+          "caption_matches_final_H03_texels": true,
+          "official_lines_unchanged": true,
+          "native_render_matches_current_atlas_hash": true,
+          "fireplace_nonzero_chart_texels": 0,
+          "fireplace_on": false
+        }
+      ],
+      "colour_RGB": [
+        255,
+        105,
+        165
+      ],
+      "fixture_colour_QA": {
+        "receiver_charts": 904,
+        "selected_receiver_texels": 565881,
+        "raised_fixture_or_wall_texels": 439255,
+        "same_hue_max_RGB_byte_residual": 0.7647058823529562
+      },
+      "floor_colour_ratio_vs_H03": 1.3213519451064,
+      "clip_path": "ASPIRE_Seminar_Room_Paginated_Gym_Mapped_1024_Viewing_Preview_H04_Bright_SameHue.mp4",
+      "clip_sha256": "4299c892558e1c0e29fc52419598385f8e4bc3b6b8dcd9f879e60f6d10965c5a",
+      "clip_bytes": 384135,
+      "clip_seconds": 30.0,
+      "review_sheet": "ASPIRE_Seminar_Room_Combined_Caption_And_Room_Review.png",
+      "room_comparison": "ASPIRE_Seminar_Room_H03_H04_Room_Comparison.png",
+      "fireplace_crop": "ASPIRE_Seminar_Room_Fireplace_Actual_Native_Crop.png",
+      "inherited_world_mask_mapping_QA": "PASS",
+      "original_H03_pages_hash_verified_unchanged": true
+    },
+    {
+      "sid": 9,
+      "title": "Collaboration Room",
+      "pages": [
+        {
+          "page": 1,
+          "atlas": "Collaboration_Room_Paginated_Page_01_Atlas_8192.png",
+          "sha256": "df5a6ae0dfb2c0615f66ead2831e830cec539aff189225c7b0325196b58c2848",
+          "caption_matches_final_H03_texels": true,
+          "official_lines_unchanged": true,
+          "native_render_matches_current_atlas_hash": true,
+          "fireplace_nonzero_chart_texels": 0,
+          "fireplace_on": false
+        },
+        {
+          "page": 2,
+          "atlas": "Collaboration_Room_Paginated_Page_02_Atlas_8192.png",
+          "sha256": "c52f3ebb48748d600c228e1dabe439b2f5863a76319071990b65182e4b644741",
+          "caption_matches_final_H03_texels": true,
+          "official_lines_unchanged": true,
+          "native_render_matches_current_atlas_hash": true,
+          "fireplace_nonzero_chart_texels": 0,
+          "fireplace_on": false
+        }
+      ],
+      "colour_RGB": [
+        150,
+        129,
+        255
+      ],
+      "fixture_colour_QA": {
+        "receiver_charts": 790,
+        "selected_receiver_texels": 536195,
+        "raised_fixture_or_wall_texels": 424699,
+        "same_hue_max_RGB_byte_residual": 0.7647058823529562
+      },
+      "floor_colour_ratio_vs_H03": 1.4261123995546028,
+      "clip_path": "Collaboration_Room_Paginated_Gym_Mapped_1024_Viewing_Preview_H04_Bright_SameHue.mp4",
+      "clip_sha256": "3df58cfb0f5b5cddb5f58ab556792253a02419892ac12677687399f7d314a9a6",
+      "clip_bytes": 271289,
+      "clip_seconds": 20.0,
+      "review_sheet": "Collaboration_Room_Combined_Caption_And_Room_Review.png",
+      "room_comparison": "Collaboration_Room_H03_H04_Room_Comparison.png",
+      "fireplace_crop": "Collaboration_Room_Fireplace_Actual_Native_Crop.png",
+      "inherited_world_mask_mapping_QA": "PASS",
+      "original_H03_pages_hash_verified_unchanged": true
+    },
+    {
+      "sid": 10,
+      "title": "Trophy Hall / Corridor",
+      "pages": [
+        {
+          "page": 1,
+          "atlas": "Trophy_Hall_Corridor_Paginated_Page_01_Atlas_8192.png",
+          "sha256": "6ae54d3bcb1e2fd6260c168fdaf3a60d289f762c703cd784421bf20dd8b55a16",
+          "caption_matches_final_H03_texels": true,
+          "official_lines_unchanged": true,
+          "native_render_matches_current_atlas_hash": true,
+          "fireplace_nonzero_chart_texels": 0,
+          "fireplace_on": false
+        },
+        {
+          "page": 2,
+          "atlas": "Trophy_Hall_Corridor_Paginated_Page_02_Atlas_8192.png",
+          "sha256": "0d26badc9968a1395d0f40c881ff20f7ee98c5a5fb3b83153fe3d3f9755d7ce4",
+          "caption_matches_final_H03_texels": true,
+          "official_lines_unchanged": true,
+          "native_render_matches_current_atlas_hash": true,
+          "fireplace_nonzero_chart_texels": 0,
+          "fireplace_on": false
+        }
+      ],
+      "colour_RGB": [
+        73,
+        255,
+        240
+      ],
+      "fixture_colour_QA": {
+        "receiver_charts": 107,
+        "selected_receiver_texels": 437288,
+        "raised_fixture_or_wall_texels": 309163,
+        "same_hue_max_RGB_byte_residual": 0.9411764705882462
+      },
+      "floor_colour_ratio_vs_H03": 1.642768193875703,
+      "clip_path": "Trophy_Hall_Corridor_Paginated_Gym_Mapped_1024_Viewing_Preview_H04_Bright_SameHue.mp4",
+      "clip_sha256": "bfe0605392f54a8972a7362048b0583cae6117a707362dfc6f14cdcb4482e5d9",
+      "clip_bytes": 255306,
+      "clip_seconds": 20.0,
+      "review_sheet": "Trophy_Hall_Corridor_Combined_Caption_And_Room_Review.png",
+      "room_comparison": "Trophy_Hall_Corridor_H03_H04_Room_Comparison.png",
+      "fireplace_crop": "Trophy_Hall_Corridor_Fireplace_Actual_Native_Crop.png",
+      "inherited_world_mask_mapping_QA": "PASS",
+      "original_H03_pages_hash_verified_unchanged": true
+    },
+    {
+      "sid": 11,
+      "title": "Athletics Office",
+      "pages": [
+        {
+          "page": 1,
+          "atlas": "Athletics_Office_Paginated_Page_01_Atlas_8192.png",
+          "sha256": "8142b1e156d28476bc826131ca190322728ec94a9d4f97e4d3b1723a3b011acd",
+          "caption_matches_final_H03_texels": true,
+          "official_lines_unchanged": true,
+          "native_render_matches_current_atlas_hash": true,
+          "fireplace_nonzero_chart_texels": 0,
+          "fireplace_on": false
+        },
+        {
+          "page": 2,
+          "atlas": "Athletics_Office_Paginated_Page_02_Atlas_8192.png",
+          "sha256": "a44f2134e06b2aadb65a47b5a7b05af25717ad19634dcdf9ecb0e12f13ad3d07",
+          "caption_matches_final_H03_texels": true,
+          "official_lines_unchanged": true,
+          "native_render_matches_current_atlas_hash": true,
+          "fireplace_nonzero_chart_texels": 0,
+          "fireplace_on": false
+        }
+      ],
+      "colour_RGB": [
+        255,
+        210,
+        158
+      ],
+      "fixture_colour_QA": {
+        "receiver_charts": 323,
+        "selected_receiver_texels": 1001584,
+        "raised_fixture_or_wall_texels": 811793,
+        "same_hue_max_RGB_byte_residual": 0.8823529411764781
+      },
+      "floor_colour_ratio_vs_H03": 1.492204883068526,
+      "clip_path": "Athletics_Office_Paginated_Gym_Mapped_1024_Viewing_Preview_H04_Bright_SameHue.mp4",
+      "clip_sha256": "b6b674520907451997906ebb45f5f4188f163f988cffb611b14fd361a441bef7",
+      "clip_bytes": 254026,
+      "clip_seconds": 20.0,
+      "review_sheet": "Athletics_Office_Combined_Caption_And_Room_Review.png",
+      "room_comparison": "Athletics_Office_H03_H04_Room_Comparison.png",
+      "fireplace_crop": "Athletics_Office_Fireplace_Actual_Native_Crop.png",
+      "inherited_world_mask_mapping_QA": "PASS",
+      "original_H03_pages_hash_verified_unchanged": true
+    },
+    {
+      "sid": 12,
+      "title": "Athletics Trainers’ Room",
+      "pages": [
+        {
+          "page": 1,
+          "atlas": "Athletics_Trainers_Room_Paginated_Page_01_Atlas_8192.png",
+          "sha256": "d37804ca4fb8f25f0e4c2228175f83f38145573b67db184b2a75dd5d8a8b2f91",
+          "caption_matches_final_H03_texels": true,
+          "official_lines_unchanged": true,
+          "native_render_matches_current_atlas_hash": true,
+          "fireplace_nonzero_chart_texels": 0,
+          "fireplace_on": false
+        },
+        {
+          "page": 2,
+          "atlas": "Athletics_Trainers_Room_Paginated_Page_02_Atlas_8192.png",
+          "sha256": "602b38c4c53ea9a65b26256684e2e460b39b6289104d0d8b2139acc08fc9194b",
+          "caption_matches_final_H03_texels": true,
+          "official_lines_unchanged": true,
+          "native_render_matches_current_atlas_hash": true,
+          "fireplace_nonzero_chart_texels": 0,
+          "fireplace_on": false
+        }
+      ],
+      "colour_RGB": [
+        255,
+        165,
+        78
+      ],
+      "fixture_colour_QA": {
+        "receiver_charts": 135,
+        "selected_receiver_texels": 298312,
+        "raised_fixture_or_wall_texels": 205230,
+        "same_hue_max_RGB_byte_residual": 0.7647058823529562
+      },
+      "floor_colour_ratio_vs_H03": 1.2621637562471975,
+      "clip_path": "Athletics_Trainers_Room_Paginated_Gym_Mapped_1024_Viewing_Preview_H04_Bright_SameHue.mp4",
+      "clip_sha256": "1b6fbc2ae7277d7b57c124557fc689cee4bdb3acbddb6eaa82813dd369541510",
+      "clip_bytes": 256526,
+      "clip_seconds": 20.0,
+      "review_sheet": "Athletics_Trainers_Room_Combined_Caption_And_Room_Review.png",
+      "room_comparison": "Athletics_Trainers_Room_H03_H04_Room_Comparison.png",
+      "fireplace_crop": "Athletics_Trainers_Room_Fireplace_Actual_Native_Crop.png",
+      "inherited_world_mask_mapping_QA": "PASS",
+      "original_H03_pages_hash_verified_unchanged": true
+    },
+    {
+      "sid": 13,
+      "title": "Gym",
+      "pages": [
+        {
+          "page": 1,
+          "atlas": "Gym_Paginated_Page_01_Atlas_8192.png",
+          "sha256": "1eb2f50a9fbc28d58b0700101cd354e1690b61206cbd0852f6c4fb73b2306c68",
+          "caption_matches_final_H03_texels": true,
+          "official_lines_unchanged": true,
+          "native_render_matches_current_atlas_hash": true,
+          "fireplace_nonzero_chart_texels": 0,
+          "fireplace_on": false
+        },
+        {
+          "page": 2,
+          "atlas": "Gym_Paginated_Page_02_Atlas_8192.png",
+          "sha256": "2fc93e343e8af59650b34f5b211c0f516f3328b9383ecc7b24c64ee91371130a",
+          "caption_matches_final_H03_texels": true,
+          "official_lines_unchanged": true,
+          "native_render_matches_current_atlas_hash": true,
+          "fireplace_nonzero_chart_texels": 0,
+          "fireplace_on": false
+        },
+        {
+          "page": 3,
+          "atlas": "Gym_Paginated_Page_03_Atlas_8192.png",
+          "sha256": "c7f23b9fd876982ee4b8d4affad7793f8d6c4d1e5dcf04127cdc23f1f1035b27",
+          "caption_matches_final_H03_texels": true,
+          "official_lines_unchanged": true,
+          "native_render_matches_current_atlas_hash": true,
+          "fireplace_nonzero_chart_texels": 0,
+          "fireplace_on": false
+        }
+      ],
+      "colour_RGB": [
+        128,
+        170,
+        255
+      ],
+      "fixture_colour_QA": {
+        "receiver_charts": 218,
+        "selected_receiver_texels": 3961318,
+        "raised_fixture_or_wall_texels": 1312968,
+        "same_hue_max_RGB_byte_residual": 0.7215686274509778
+      },
+      "floor_colour_ratio_vs_H03": 1.1927925615076165,
+      "clip_path": "Gym_Paginated_Gym_Mapped_1024_Viewing_Preview_H04_Bright_SameHue.mp4",
+      "clip_sha256": "bb1ad6eeeee14750228f5906ebd3cd91424601f35a3a477d00e19a71043067c9",
+      "clip_bytes": 364443,
+      "clip_seconds": 30.0,
+      "review_sheet": "Gym_Combined_Caption_And_Room_Review.png",
+      "room_comparison": "Gym_H03_H04_Room_Comparison.png",
+      "fireplace_crop": "Gym_Fireplace_Actual_Native_Crop.png",
+      "inherited_world_mask_mapping_QA": "PASS",
+      "original_H03_pages_hash_verified_unchanged": true
+    }
+  ],
+  "visual_review_complete": true,
+  "original_source_files_SHA_verified": 317,
+  "H03_history_unchanged": true,
+  "room_boundary_limitations": "Room_Identity_And_Boundary_Limitations.json"
+}

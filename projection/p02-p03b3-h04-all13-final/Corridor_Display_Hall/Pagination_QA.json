@@ -1,0 +1,176 @@
+{
+  "status": "PASS: complete H04 colour, Commons-only fireplace, verbatim gym captions, unchanged receiver/masks and native/viewing validation",
+  "official_title_exact": "Corridor / Display Hall",
+  "official_body_exact": "The Display Hall transforms a passageway into an evolving story of learning at King. Student work, research, accomplishments, and creative thinking turns each walk through the space into a chance to discover new ideas and celebrate the community's diverse talents.",
+  "official_paragraphs_exact": [
+    "The Display Hall transforms a passageway into an evolving story of learning at King. Student work, research, accomplishments, and creative thinking turns each walk through the space into a chance to discover new ideas and celebrate the community's diverse talents."
+  ],
+  "full_official_word_sequence_reconstructs_exactly": true,
+  "paragraph_boundaries_preserved_as_page_boundaries": true,
+  "pages": [
+    {
+      "page": 1,
+      "lines": [
+        "The Display Hall transforms a",
+        "passageway into an evolving",
+        "story of learning at King."
+      ],
+      "official_text_portion": "The Display Hall transforms a passageway into an evolving story of learning at King.",
+      "atlas": "Corridor_Display_Hall_Paginated_Page_01_Atlas_8192.png",
+      "atlas_sha256": "2a5cd1c44a18063652c16d3f980a89992a51d2f54ae06ad52cf2994b3de06a4a",
+      "body_glyph_bounds_px": [
+        [
+          175,
+          654,
+          1841,
+          782
+        ],
+        [
+          175,
+          830,
+          1815,
+          957
+        ],
+        [
+          175,
+          1004,
+          1580,
+          1132
+        ]
+      ],
+      "caption_surface_texels": 1557104,
+      "source_page": "Corridor_Display_Hall_Paginated_Page_01_Atlas_8192.png",
+      "caption_pixels_exactly_preserved": true,
+      "fireplace_patch_exactly_preserved": false,
+      "source_H03_page": "Corridor_Display_Hall_Paginated_Page_01_Atlas_8192.png",
+      "source_H03_page_sha256": "5cdc3cf8b6f7461730f72581181c6e077adf76b57d9f8da9fa16fd889c6027ed",
+      "fireplace_selected_only_in_Commons": true
+    },
+    {
+      "page": 2,
+      "lines": [
+        "Student work, research,",
+        "accomplishments, and creative",
+        "thinking turns each walk",
+        "through the space into a",
+        "chance to discover new ideas",
+        "and celebrate the community's",
+        "diverse talents."
+      ],
+      "official_text_portion": "Student work, research, accomplishments, and creative thinking turns each walk through the space into a chance to discover new ideas and celebrate the community's diverse talents.",
+      "atlas": "Corridor_Display_Hall_Paginated_Page_02_Atlas_8192.png",
+      "atlas_sha256": "24e35998897cf090458ec713bb186e8d392b87243aabe745cb63dad6f2099a62",
+      "body_glyph_bounds_px": [
+        [
+          175,
+          655,
+          1514,
+          768
+        ],
+        [
+          175,
+          830,
+          1930,
+          956
+        ],
+        [
+          175,
+          1005,
+          1569,
+          1132
+        ],
+        [
+          175,
+          1180,
+          1585,
+          1307
+        ],
+        [
+          175,
+          1355,
+          1848,
+          1453
+        ],
+        [
+          175,
+          1530,
+          1943,
+          1657
+        ],
+        [
+          175,
+          1705,
+          1027,
+          1803
+        ]
+      ],
+      "caption_surface_texels": 1557104,
+      "source_page": "Corridor_Display_Hall_Paginated_Page_02_Atlas_8192.png",
+      "caption_pixels_exactly_preserved": true,
+      "fireplace_patch_exactly_preserved": false,
+      "source_H03_page": "Corridor_Display_Hall_Paginated_Page_02_Atlas_8192.png",
+      "source_H03_page_sha256": "6868504b74597845a948cf89fdfd38e98aa8d238a6fc610f397114b73992b7de",
+      "fireplace_selected_only_in_Commons": true
+    }
+  ],
+  "page_count": 2,
+  "page_hold_seconds": 10,
+  "body_font_nominal_model_mm": 13,
+  "body_x_height_at_1024_view_px": 9.16488812392427,
+  "body_capital_height_at_1024_view_px": 12.830843373493977,
+  "caption_bounds_model_mm": [
+    [
+      235,
+      231
+    ],
+    [
+      448,
+      451
+    ]
+  ],
+  "all_caption_pixels_inside_gym_H02_and_world_rectangle": true,
+  "all_caption_pixels_exactly_preserved_from_validated_verbatim_source": true,
+  "caption_receiver_texels": 1557104,
+  "presentation_room_number_labels": false,
+  "stop_id_metadata_only": "HS06",
+  "receiver_OBJ": "CampusCenter_P02plusP03B3_Assembly_1_100_UV02.obj",
+  "receiver_OBJ_sha256": "b949784cbb3f833d10d82fdd48d469ac3fac1b8ac723f7cc08588ca633a59fba",
+  "geometry_UV_origin_or_scale_changed": false,
+  "fixture_normal_height_and_contact_shading_from_actual_unchanged_geometry": true,
+  "restored_fireplace_patch_exactly_matches_hybrid_UV02": false,
+  "highlight_mask": "HS06_World_Clipped_Receiver_Alpha_8192.png",
+  "highlight_mask_sha256": "c04161d4fe7ea5fddadab2a5a03157bd94f72ad0fc1b767628f1f5a40376bc28",
+  "highlight_receiver_charts": 514,
+  "highlight_nonzero_receiver_pixels": 1021180,
+  "highlight_method": "For every opaque non-underside source triangle, evaluate actual world XY affinely through its original UVs, clip against exact rectilinear room polygons, and rasterize at4x4 alpha coverage. Applies to floor finishes, furniture, wall sides/caps and other receiver surfaces. Two-pixel triangle-chart bleed stays within existing chart rectangles. No whole-triangle room ownership or mesh edits.",
+  "highlight_scope_authority": "Same registered A101 room-footprint polygons, approved H02 hall bounds and native verified gym inner bounds. Stop identities and explicit exclusions unchanged. No new R29 semantic room-boundary audit claimed.",
+  "mask_revision": "H03 canonical full receiver; original H02/P01/R02 untouched",
+  "native_preview_pending": false,
+  "room_highlight_mapping_validation_pending": false,
+  "physical_projector_readability_verified": false,
+  "room_highlight_mapping_QA": "Room_Highlight_World_Mapping_QA.json",
+  "all30_final_atlas_audit": "../All13_Final_Tour_QA.json",
+  "visual_review_complete": true,
+  "revision": "H04: media only; H03 retained",
+  "source_H03_pagination_QA": "Pagination_QA.json",
+  "colour_RGB": [
+    78,
+    203,
+    255
+  ],
+  "previous_H03_colour_RGB": [
+    66,
+    172,
+    216
+  ],
+  "colour_and_fixture_shading_QA": {
+    "receiver_charts": 514,
+    "selected_receiver_texels": 1021180,
+    "raised_fixture_or_wall_texels": 518720,
+    "same_hue_max_RGB_byte_residual": 0.8901960784313729
+  },
+  "floor_linear_colour_factor_ratio_vs_H03_median": 1.2701032486824333,
+  "fixture_colour": "All selected non-underside opaque surfaces use room hue; raised surfaces atz>=5.8mm use0.72 top multiplier,0.48 side multiplier. Normal,height and contact shading preserved; no neutral furniture replacements. Raised-wall surfaces share this treatment.",
+  "fireplace_control": "Dedicated UV02 fireplace charts use Commons hue and dim fixture shading only during Commons; RGB0 on every other stop. No neutral compatibility patch added.",
+  "all_caption_pixels_exactly_preserved_from_final_H03": true
+}

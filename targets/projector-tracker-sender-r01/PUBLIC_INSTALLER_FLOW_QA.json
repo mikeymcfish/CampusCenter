@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "release": "https://github.com/mikeymcfish/CampusCenter/releases/tag/campuscenter-projector-tracker-sender-r01-20261006",
+  "source_commit": "8ea9fee36d880e376eb0929da44b52fada730776",
+  "anonymous_asset_hashes_verified": true,
+  "published_baseline_dependency_hashes_match": true,
+  "baseline_native_public_grip_prerequisite_verified": true,
+  "install": "Native sender reconstructed; installed copy SHA256 verified.",
+  "verify": "Projector sender runtime verified.",
+  "rollback": "Baseline native and original containers verified. Sender overlay retired; use the original launcher. Preserve the retired folder.",
+  "source_files_unchanged": 54,
+  "original_public_runtime_manifest_sha256": "1eced00e25837dfd4c0e14a913d407471bd1012384676f258c832e6e1e881adf",
+  "sealed_portable_manifest_files_verified": 506,
+  "private_runtime_licenses_preserved": true,
+  "public_portable_smoke_exit": 0,
+  "Quest_installer_scope": "Producer tested retained Quest overlay; publisher independently exercised published Vive dependency flow.",
+  "no_projector_opened": true,
+  "hardware_acceptance": false,
+  "installed_native_sha256": "dfcd61e0ccafbf5530fe9ef4fa0f7a9af79927182090878f8d0b4b9c86cda028",
+  "packaged_integration_scope": "Released patch reconstructs tested Development native (779 actual accepted snapshots). Separate Shipping source build QA accepted777 snapshots; that Shipping binary is not this patch."
+}

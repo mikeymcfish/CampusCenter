@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "protected_source_files_verified": 317,
+  "changed_protected_source_files": [],
+  "hybrid_receiver_sha256": "b949784cbb3f833d10d82fdd48d469ac3fac1b8ac723f7cc08588ca633a59fba",
+  "original_Unreal_or_Blender_saved": false,
+  "print_geometry_UV_scale_or_origin_changed": false
+}

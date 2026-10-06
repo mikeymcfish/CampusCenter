@@ -1,0 +1,34 @@
+{
+  "passed": true,
+  "cases": [
+    {
+      "name": "existing-refused",
+      "exit": 1,
+      "expected_success": false
+    },
+    {
+      "name": "unknown-refused",
+      "exit": 1,
+      "expected_success": false
+    },
+    {
+      "name": "rollback-install",
+      "exit": 0,
+      "expected_success": true
+    },
+    {
+      "name": "rollback-verify",
+      "exit": 0,
+      "expected_success": true
+    },
+    {
+      "name": "rollback",
+      "exit": 0,
+      "expected_success": true
+    }
+  ],
+  "rollback_native_and_all_48_original_files_exact": true,
+  "source_all_48_files_unchanged": true,
+  "review_runtime_preserved": "Windows",
+  "unknown_destination_not_created": true
+}

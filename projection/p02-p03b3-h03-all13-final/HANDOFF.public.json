@@ -1,0 +1,59 @@
+{
+  "status": "PASS: all13 final paginated tour ready with disclosed reference-boundary limits",
+  "package": {
+    "path": "CampusCenter_UV02_H03_All13_30Pages_Final_Paginated_Tour_Test.zip",
+    "bytes": 106908362,
+    "sha256": "df3ef72c38ee67cc4af7a32686e596de4787b12e392a32d66113a48c58a6fa11"
+  },
+  "compact_mapped_overview": {
+    "path": "Tour_H03_All13_30Pages_BalancedFinal_Mapped_1024_Overview.mp4",
+    "bytes": 3877075,
+    "sha256": "62d12557a560472ff137da8afc5d23987935b0885023bfea253dbb6ed93defc8",
+    "duration_seconds": 300,
+    "pages": 30,
+    "frames": 6000,
+    "all_frames_decoded": true
+  },
+  "standalone_projection_atlases": {
+    "root": "deliverables",
+    "count": 30,
+    "resolution": 8192,
+    "order_manifest": "Tour_Playback_And_Registration_Manifest.json"
+  },
+  "reusable_all13_mask_patch": {
+    "path": "CampusCenter_UV02_H03_WorldClipped_13_Mask_Patch.zip",
+    "sha256": "4ca1a82fce899d113e566b00997d1dac03d911712a7797571fbd8c047990766f"
+  },
+  "QA_path": "All13_Final_Tour_QA.json",
+  "room_label_and_boundary_limits": "Room_Identity_And_Boundary_Limitations.json",
+  "same_UV02_registration_all30": true,
+  "official_wording_exact_all13": true,
+  "displayed_room_numbers": false,
+  "all30_gym_caption_and_final_fireplace_pixel_matches": true,
+  "all30_native_mapped_pages_and_all13_room_highlights_visually_reviewed": true,
+  "fixture_geometry_depth_and_shading_retained": true,
+  "balanced_continuations": {
+    "Admissions": [
+      5,
+      4,
+      4
+    ],
+    "ASPIRE": [
+      5,
+      4,
+      6
+    ],
+    "Gym": [
+      4,
+      4,
+      4
+    ]
+  },
+  "existing_published_Commons_Cafe_and_Ripple_R03_history_unchanged": true,
+  "original_protected_source_files_verified": 317,
+  "physical_projection_or_MadMapper_playback_verified": false,
+  "publisher_delivery": "No push or Library retry here; publisher handles external delivery",
+  "new_Library_IDs": [],
+  "remaining_tour_work": [],
+  "new_Ripple_R04_work": "Separate revision in progress for black background, thinner crests and staggered sources."
+}

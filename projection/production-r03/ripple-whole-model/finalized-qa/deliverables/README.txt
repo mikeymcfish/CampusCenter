@@ -1,0 +1,9 @@
+Ripple R03 whole-model connected viewing test
+
+Receiver: CampusCenter_P02plusP03B3_Assembly_1_100_UV02.obj, SHA b949784cbb3f833d10d82fdd48d469ac3fac1b8ac723f7cc08588ca633a59fba. Existing UV02 common atlas, model millimetres, unchanged origin/scale/UVs. Requires the hybrid receiver with restored P03 B3 fireplace. UV01/sample1:250 compatibility is not claimed.
+
+The MOV is the raw 4096x4096 HAP projection atlas,20fps,40seconds. The MP4 is a1024x846 mapped camera viewing test with a banner, not projection playback media. All800 frames of both videos decode. Six actual decoded atlas frames were reapplied in a fresh Blender5 factory scene to the exact four receiver parts; all world/UV checks passed. No Blender/Unreal originals or MadMapper project were saved.
+
+Waves use physical connected floor regions and actual near-floor walls, glazing, doors and furniture. Room labels locate source drops only.137 Commons/Cafe open neighbour edges and2380 total open label edges carry solver flux; invisible room barriers are absent.77 drops excite56 physical domains. Source native volume cuts remove55,852 false interior water cells. Bright cyan crests and dark trough detail use bounded colour responses with no white clipping. Natural damping gives identical decoded first/last quiet frames; no fade is used.
+
+Limits:0.5mm physics grid at1:100; artistic height-field waves, not a full hydraulic liquid simulation.75 tiny cells (18.75mm2 total, each pocket<2mm2) are unexcited. Seven unclosed native actors retain exact surface barriers; no invented caps. Tables are overhead; actual legs block. Static walls/fixtures retain height/normal/contact shading and the restored fireplace patch. HAP is lossy (keyframe average RGB byte error0.34-0.43, max51). Actual projector readability, mapping calibration and MadMapper playback remain untested. All317 protected source files pass SHA verification.

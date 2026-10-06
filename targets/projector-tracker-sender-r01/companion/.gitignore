@@ -1,0 +1,7 @@
+**/bin/
+**/obj/
+.dotnet-local/
+.nuget-local/
+stage/
+deliverables/
+data/

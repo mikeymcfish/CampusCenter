@@ -1,0 +1,39 @@
+{
+  "status": "PASS: all880 lossless mapped-reference frames decode; packets byte-identical to exact-black source PNGs",
+  "file": "Ripple_R04_Black_Thin_Staggered_Connected_44s_Mapped_1024_Lossless_Reference.mov",
+  "bytes": 155515150,
+  "sha256": "3ba30a882ae941609e21e451998713df9d8c77392e975f71a743bb1e588a7116",
+  "resolution": [
+    1024,
+    786
+  ],
+  "fps": 20,
+  "frames": 880,
+  "duration_seconds": 44,
+  "all_frames_decoded": true,
+  "all_movie_PNG_packets_identical_to_original_mapped_source": true,
+  "background_RGB_exact": [
+    0,
+    0,
+    0
+  ],
+  "black_repeat_endpoints_exact": true,
+  "ambient_model_grey_wash_glow_or_banner": false,
+  "raw_projection_atlas": false,
+  "purpose": "Lossless mapped viewing reference with mathematically exact black encoded background; companion standard MP4 is convenient viewing with measured small codec error.",
+  "physical_projection_or_MadMapper_playback_verified": false,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "png",
+        "width": 1024,
+        "height": 786,
+        "r_frame_rate": "20/1",
+        "duration": "44.000000",
+        "nb_read_frames": "880"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "status": "PASS: all frames decoded; native caption/room sheets and actual encoded overview pages visually reviewed",
+  "file": "Gym_Paginated_Gym_Mapped_1024_Viewing_Preview_H04_Bright_SameHue.mp4",
+  "bytes": 364443,
+  "sha256": "bb1ad6eeeee14750228f5906ebd3cd91424601f35a3a477d00e19a71043067c9",
+  "width": 1024,
+  "height": 846,
+  "fps": 20,
+  "frames": 600,
+  "duration_seconds": 30.0,
+  "page_count": 3,
+  "hold_seconds_each": 10,
+  "actual_native_mapped_images_used": true,
+  "raw_atlas_playback_file": false,
+  "all_preview_frames_decoded": true,
+  "visual_review_pending": false,
+  "physical_projector_readability_verified": false,
+  "codec_probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1024,
+        "height": 846,
+        "r_frame_rate": "20/1",
+        "duration": "30.000000",
+        "nb_read_frames": "600"
+      }
+    ]
+  },
+  "visual_review_reference": "../Review_Sheets/Visual_Review_Completion.json"
+}

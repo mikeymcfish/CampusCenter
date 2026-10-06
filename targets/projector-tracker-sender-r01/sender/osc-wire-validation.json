@@ -1,0 +1,80 @@
+{
+  "passed": true,
+  "packets": 291,
+  "rate_hz": 19.82905982905983,
+  "checks": {
+    "exact_wire": true,
+    "first_session_sequence_teleport": true,
+    "sequence": true,
+    "utc_decimal_fresh": true,
+    "registration_finite": true,
+    "six_floor_camera_cases": true,
+    "tall_ground_camera_above_upper": true,
+    "nominal_20hz": true
+  },
+  "cases": [
+    {
+      "name": "ground",
+      "packets": 20,
+      "expected": [
+        0,
+        1
+      ],
+      "state_pass": true,
+      "camera_xy_pass": true
+    },
+    {
+      "name": "roomscale-tall-gym",
+      "packets": 20,
+      "expected": [
+        0,
+        1
+      ],
+      "state_pass": true,
+      "camera_xy_pass": true
+    },
+    {
+      "name": "upper",
+      "packets": 20,
+      "expected": [
+        1,
+        1
+      ],
+      "state_pass": true,
+      "camera_xy_pass": true
+    },
+    {
+      "name": "focus-loss",
+      "packets": 20,
+      "expected": [
+        -1,
+        0
+      ],
+      "state_pass": true,
+      "camera_xy_pass": true
+    },
+    {
+      "name": "focus-recovery",
+      "packets": 20,
+      "expected": [
+        1,
+        1
+      ],
+      "state_pass": true,
+      "camera_xy_pass": true
+    },
+    {
+      "name": "unsupported",
+      "packets": 20,
+      "expected": [
+        -1,
+        0
+      ],
+      "state_pass": true,
+      "camera_xy_pass": true
+    }
+  ],
+  "scope": "Software PIE fixture using actual R29 pawn/camera and actual CharacterMovement floor; focus explicitly simulated; HMD/projector unverified.",
+  "shipping_final_rebuild_pending": true,
+  "packaged_receiver_acceptance_pending": true
+}

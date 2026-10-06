@@ -1,0 +1,17 @@
+[
+  {
+    "path": "CampusCenter-ProjectorSenderR01_3_P.pak",
+    "bytes": 27003,
+    "sha256": "979e2630cb53e640e0b5dd90b5dee212d4d88c1e8de1b041aa58cd3ed174e0ce"
+  },
+  {
+    "path": "CampusCenter-ProjectorSenderR01_3_P.ucas",
+    "bytes": 64,
+    "sha256": "3b7384269a74f6cc4ff8d5a7b869cb057f81d658aee4bb02cb4482f8b1089a2f"
+  },
+  {
+    "path": "CampusCenter-ProjectorSenderR01_3_P.utoc",
+    "bytes": 240,
+    "sha256": "9f4deaeec9174afd26b168e3ff4b4b5a498df12757ae75a99e63937e1860d7a8"
+  }
+]

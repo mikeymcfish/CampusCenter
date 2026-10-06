@@ -1,0 +1,53 @@
+{
+  "status": "PASS",
+  "page_count": 30,
+  "same13stops": true,
+  "original_R02_and_published_Commons_Cafe_unchanged": true,
+  "changes": [
+    {
+      "official_title": "Admissions Office",
+      "before_line_counts": [
+        5,
+        7,
+        1
+      ],
+      "after_line_counts": [
+        5,
+        4,
+        4
+      ],
+      "official_word_sequence_unchanged": true,
+      "changes_restricted_to_actual_gym_caption_texels": true
+    },
+    {
+      "official_title": "ASPIRE Seminar Room",
+      "before_line_counts": [
+        7,
+        2,
+        6
+      ],
+      "after_line_counts": [
+        5,
+        4,
+        6
+      ],
+      "official_word_sequence_unchanged": true,
+      "changes_restricted_to_actual_gym_caption_texels": true
+    },
+    {
+      "official_title": "Gym",
+      "before_line_counts": [
+        4,
+        7,
+        1
+      ],
+      "after_line_counts": [
+        4,
+        4,
+        4
+      ],
+      "official_word_sequence_unchanged": true,
+      "changes_restricted_to_actual_gym_caption_texels": true
+    }
+  ]
+}

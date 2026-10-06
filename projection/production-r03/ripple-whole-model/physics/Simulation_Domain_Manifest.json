@@ -1,0 +1,1686 @@
+{
+  "status": "Fixture occupancy audit complete; solver and rendered behaviour validation pending",
+  "whole_model_scope": true,
+  "source": "Read-only R29 native actor caches with unchanged physical footprint and restored fireplace",
+  "grid_pitch_model_mm": 0.5,
+  "water_obstacle_slab_model_Z_mm": [
+    4.25,
+    5.2
+  ],
+  "closed_solid_interior_cap_fill": true,
+  "fixture_volume_QA": "Solid_Fixture_Volume_QA.json",
+  "floor_substrate_finish_exclusions": [
+    {
+      "actor": "StaticMeshActor_768",
+      "label": "ILab_Designed_Details",
+      "excluded_floor_finish_triangles": 12,
+      "material_names": [
+        "ILab_EpoxyFloor"
+      ]
+    },
+    {
+      "actor": "StaticMeshActor_843",
+      "label": "DD_GalleryFloor_Oak",
+      "actual_override_materials": [
+        "/Game/Campus/GroundFloorV03/Materials/M_ContinuousCorridorOak.M_ContinuousCorridorOak"
+      ],
+      "native_height_above_ground_cm": [
+        1.200000000000001,
+        2.0000000000000018
+      ],
+      "classification": "Confirmed thin floor finish or floor transition; basin substrate, not reflecting obstacle",
+      "source_sha256": "7629814094dfca60eb286ff302607e79d337d84e6d5091d1ed15f88c559c033e"
+    },
+    {
+      "actor": "StaticMeshActor_844",
+      "label": "DD_TrophyFloor_Oak",
+      "actual_override_materials": [
+        "/Game/Campus/GroundFloorV03/Materials/M_ContinuousCorridorOak.M_ContinuousCorridorOak"
+      ],
+      "native_height_above_ground_cm": [
+        1.200000000000001,
+        2.0000000000000018
+      ],
+      "classification": "Confirmed thin floor finish or floor transition; basin substrate, not reflecting obstacle",
+      "source_sha256": "6416b397bdc59d265041aa3eb902fd721d76ebbdd832c974597de6f2ce0cc950"
+    },
+    {
+      "actor": "StaticMeshActor_845",
+      "label": "GF_CorridorOakConnector",
+      "actual_override_materials": [
+        "/Game/Campus/GroundFloorV03/Materials/M_ContinuousCorridorOak.M_ContinuousCorridorOak"
+      ],
+      "native_height_above_ground_cm": [
+        1.200000000000001,
+        2.0000000000000018
+      ],
+      "classification": "Confirmed thin floor finish or floor transition; basin substrate, not reflecting obstacle",
+      "source_sha256": "17d2a89f1751cfdd6af9496a8c6f95137883b07dc8111741154c4a1e60b67ddc"
+    },
+    {
+      "actor": "StaticMeshActor_846",
+      "label": "GF_TrophyOakConnector",
+      "actual_override_materials": [
+        "/Game/Campus/GroundFloorV03/Materials/M_ContinuousCorridorOak.M_ContinuousCorridorOak"
+      ],
+      "native_height_above_ground_cm": [
+        1.200000000000001,
+        2.0000000000000018
+      ],
+      "classification": "Confirmed thin floor finish or floor transition; basin substrate, not reflecting obstacle",
+      "source_sha256": "a44a27106552ebf9aed5cf2d709686b932b3138e13c7c010637f9628164d03f0"
+    },
+    {
+      "actor": "StaticMeshActor_847",
+      "label": "GF_GalleryOakEdge",
+      "actual_override_materials": [
+        "/Game/Campus/GroundFloorV03/Materials/M_ContinuousCorridorOak.M_ContinuousCorridorOak"
+      ],
+      "native_height_above_ground_cm": [
+        1.200000000000001,
+        2.0000000000000018
+      ],
+      "classification": "Confirmed thin floor finish or floor transition; basin substrate, not reflecting obstacle",
+      "source_sha256": "224c5e7eb4cc7bf849893a94eec6dba52c02ea288a08cd73dcce034e3f8b3658"
+    },
+    {
+      "actor": "StaticMeshActor_848",
+      "label": "GF_GalleryBlueThreshold",
+      "actual_override_materials": [
+        "/Game/Campus/GroundFloorV03/Materials/M_FloorTransitionBronze.M_FloorTransitionBronze"
+      ],
+      "native_height_above_ground_cm": [
+        1.9899999999999984,
+        2.110000000000003
+      ],
+      "classification": "Confirmed thin floor finish or floor transition; basin substrate, not reflecting obstacle",
+      "source_sha256": "27c31fd8cdfcc3def7ce7b21f9e9504d8e7fc8f5d936d3b0b942552f4c0142ce"
+    },
+    {
+      "actor": "StaticMeshActor_849",
+      "label": "GF_TrophyNorthThreshold",
+      "actual_override_materials": [
+        "/Game/Campus/GroundFloorV03/Materials/M_FloorTransitionBronze.M_FloorTransitionBronze"
+      ],
+      "native_height_above_ground_cm": [
+        1.9899999999999984,
+        2.110000000000003
+      ],
+      "classification": "Confirmed thin floor finish or floor transition; basin substrate, not reflecting obstacle",
+      "source_sha256": "546811bd298e1a0f7e80f68e3180cde2634c4351798512f29859ff9fed591a49"
+    },
+    {
+      "actor": "StaticMeshActor_952",
+      "label": "GF_CRI_EastPerimeter",
+      "actual_override_materials": [
+        "/Game/Campus/GroundFloorV03/Materials/M_CRI_PerimeterTile.M_CRI_PerimeterTile"
+      ],
+      "native_height_above_ground_cm": [
+        0.9999999999999964,
+        1.7999999999999972
+      ],
+      "classification": "Confirmed thin floor finish or floor transition; basin substrate, not reflecting obstacle",
+      "source_sha256": "e766587a020ab11d6ba9a294f67df0ce41123e5611447d06c25e1a5b79534a46"
+    },
+    {
+      "actor": "StaticMeshActor_953",
+      "label": "GF_CRI_SouthPerimeter",
+      "actual_override_materials": [
+        "/Game/Campus/GroundFloorV03/Materials/M_CRI_PerimeterTile.M_CRI_PerimeterTile"
+      ],
+      "native_height_above_ground_cm": [
+        0.9999999999999964,
+        1.7999999999999972
+      ],
+      "classification": "Confirmed thin floor finish or floor transition; basin substrate, not reflecting obstacle",
+      "source_sha256": "6196dccf43a5ac832018f564a0260e424401e24ae34c905bdb0b7fc251d95c4f"
+    }
+  ],
+  "tabletops_do_not_block_water": true,
+  "native_legs_do_block_water": true,
+  "print_supported_relief_not_used_as_water_physics": true,
+  "boundary_authority": "Only actual native near-floor walls, glazing, doors and fixtures plus the physical floor edge define reflecting boundaries. Geometry-connected open areas share the same solver state, including unobstructed doors and Commons/Cafe label boundaries. Frozen coarse room-reference masks identify impulse locations only; they never remove neighbour flux. No invisible room boundary walls.",
+  "invisible_open_door_boundaries_are_artistic": false,
+  "rooms": [
+    {
+      "name": "Connected_B001",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B001",
+      "origin_mm": [
+        15.5,
+        15.5
+      ],
+      "grid_shape_HW": [
+        805,
+        1237
+      ],
+      "global_grid_slice_xy": [
+        11,
+        20,
+        1248,
+        825
+      ],
+      "active_area_mm2": 84631.75,
+      "native_wall_cells": 55362,
+      "native_near_floor_furniture_cells": 50922,
+      "native_tabletop_cells_with_water_passage_underneath": 6150,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        0,
+        101,
+        102,
+        103,
+        105,
+        106,
+        110,
+        111,
+        112,
+        113,
+        123,
+        129,
+        130
+      ]
+    },
+    {
+      "name": "Connected_B002",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B002",
+      "origin_mm": [
+        213.5,
+        187.5
+      ],
+      "grid_shape_HW": [
+        613,
+        507
+      ],
+      "global_grid_slice_xy": [
+        407,
+        364,
+        914,
+        977
+      ],
+      "active_area_mm2": 74932.5,
+      "native_wall_cells": 3829,
+      "native_near_floor_furniture_cells": 1586,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        0,
+        123,
+        999
+      ]
+    },
+    {
+      "name": "Connected_B003",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B003",
+      "origin_mm": [
+        355.0,
+        22.0
+      ],
+      "grid_shape_HW": [
+        199,
+        228
+      ],
+      "global_grid_slice_xy": [
+        690,
+        33,
+        918,
+        232
+      ],
+      "active_area_mm2": 9643.75,
+      "native_wall_cells": 1302,
+      "native_near_floor_furniture_cells": 5495,
+      "native_tabletop_cells_with_water_passage_underneath": 2955,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        108
+      ]
+    },
+    {
+      "name": "Connected_B004",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B004",
+      "origin_mm": [
+        16.0,
+        97.5
+      ],
+      "grid_shape_HW": [
+        172,
+        301
+      ],
+      "global_grid_slice_xy": [
+        12,
+        184,
+        313,
+        356
+      ],
+      "active_area_mm2": 5668.75,
+      "native_wall_cells": 6589,
+      "native_near_floor_furniture_cells": 742,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        0,
+        114,
+        115,
+        118,
+        119,
+        120
+      ]
+    },
+    {
+      "name": "Connected_B005",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B005",
+      "origin_mm": [
+        51.0,
+        250.0
+      ],
+      "grid_shape_HW": [
+        129,
+        231
+      ],
+      "global_grid_slice_xy": [
+        82,
+        489,
+        313,
+        618
+      ],
+      "active_area_mm2": 4820.75,
+      "native_wall_cells": 991,
+      "native_near_floor_furniture_cells": 9945,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        122
+      ]
+    },
+    {
+      "name": "Connected_B006",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B006",
+      "origin_mm": [
+        51.0,
+        185.5
+      ],
+      "grid_shape_HW": [
+        125,
+        231
+      ],
+      "global_grid_slice_xy": [
+        82,
+        360,
+        313,
+        485
+      ],
+      "active_area_mm2": 4571.5,
+      "native_wall_cells": 1018,
+      "native_near_floor_furniture_cells": 9846,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        121
+      ]
+    },
+    {
+      "name": "Connected_B007",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B007",
+      "origin_mm": [
+        431.0,
+        153.0
+      ],
+      "grid_shape_HW": [
+        693,
+        464
+      ],
+      "global_grid_slice_xy": [
+        842,
+        295,
+        1306,
+        988
+      ],
+      "active_area_mm2": 2070.75,
+      "native_wall_cells": 8860,
+      "native_near_floor_furniture_cells": 13309,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        0
+      ]
+    },
+    {
+      "name": "Connected_B008",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B008",
+      "origin_mm": [
+        66.0,
+        98.5
+      ],
+      "grid_shape_HW": [
+        120,
+        71
+      ],
+      "global_grid_slice_xy": [
+        112,
+        186,
+        183,
+        306
+      ],
+      "active_area_mm2": 2003.75,
+      "native_wall_cells": 441,
+      "native_near_floor_furniture_cells": 64,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        117
+      ]
+    },
+    {
+      "name": "Connected_B009",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B009",
+      "origin_mm": [
+        16.0,
+        250.0
+      ],
+      "grid_shape_HW": [
+        129,
+        67
+      ],
+      "global_grid_slice_xy": [
+        12,
+        489,
+        79,
+        618
+      ],
+      "active_area_mm2": 1847.25,
+      "native_wall_cells": 552,
+      "native_near_floor_furniture_cells": 702,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        0
+      ]
+    },
+    {
+      "name": "Connected_B010",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B010",
+      "origin_mm": [
+        16.0,
+        185.5
+      ],
+      "grid_shape_HW": [
+        125,
+        67
+      ],
+      "global_grid_slice_xy": [
+        12,
+        360,
+        79,
+        485
+      ],
+      "active_area_mm2": 1817.0,
+      "native_wall_cells": 708,
+      "native_near_floor_furniture_cells": 404,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        0
+      ]
+    },
+    {
+      "name": "Connected_B011",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B011",
+      "origin_mm": [
+        103.0,
+        98.5
+      ],
+      "grid_shape_HW": [
+        120,
+        64
+      ],
+      "global_grid_slice_xy": [
+        186,
+        186,
+        250,
+        306
+      ],
+      "active_area_mm2": 1774.25,
+      "native_wall_cells": 406,
+      "native_near_floor_furniture_cells": 177,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        116
+      ]
+    },
+    {
+      "name": "Connected_B012",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B012",
+      "origin_mm": [
+        100.5,
+        379.5
+      ],
+      "grid_shape_HW": [
+        76,
+        104
+      ],
+      "global_grid_slice_xy": [
+        181,
+        748,
+        285,
+        824
+      ],
+      "active_area_mm2": 1765.75,
+      "native_wall_cells": 282,
+      "native_near_floor_furniture_cells": 560,
+      "native_tabletop_cells_with_water_passage_underneath": 952,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        125
+      ]
+    },
+    {
+      "name": "Connected_B013",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B013",
+      "origin_mm": [
+        481.0,
+        6.0
+      ],
+      "grid_shape_HW": [
+        257,
+        364
+      ],
+      "global_grid_slice_xy": [
+        942,
+        1,
+        1306,
+        258
+      ],
+      "active_area_mm2": 1741.0,
+      "native_wall_cells": 4059,
+      "native_near_floor_furniture_cells": 2913,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        0
+      ]
+    },
+    {
+      "name": "Connected_B014",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B014",
+      "origin_mm": [
+        590.0,
+        28.0
+      ],
+      "grid_shape_HW": [
+        84,
+        88
+      ],
+      "global_grid_slice_xy": [
+        1160,
+        45,
+        1248,
+        129
+      ],
+      "active_area_mm2": 1609.25,
+      "native_wall_cells": 471,
+      "native_near_floor_furniture_cells": 488,
+      "native_tabletop_cells_with_water_passage_underneath": 929,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        0,
+        104
+      ]
+    },
+    {
+      "name": "Connected_B015",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B015",
+      "origin_mm": [
+        10.0,
+        89.5
+      ],
+      "grid_shape_HW": [
+        666,
+        332
+      ],
+      "global_grid_slice_xy": [
+        0,
+        168,
+        332,
+        834
+      ],
+      "active_area_mm2": 1578.75,
+      "native_wall_cells": 28419,
+      "native_near_floor_furniture_cells": 24812,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        0
+      ]
+    },
+    {
+      "name": "Connected_B016",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B016",
+      "origin_mm": [
+        168.0,
+        97.5
+      ],
+      "grid_shape_HW": [
+        121,
+        75
+      ],
+      "global_grid_slice_xy": [
+        316,
+        184,
+        391,
+        305
+      ],
+      "active_area_mm2": 1565.75,
+      "native_wall_cells": 2812,
+      "native_near_floor_furniture_cells": 0,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        0
+      ]
+    },
+    {
+      "name": "Connected_B017",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B017",
+      "origin_mm": [
+        16.0,
+        98.5
+      ],
+      "grid_shape_HW": [
+        60,
+        97
+      ],
+      "global_grid_slice_xy": [
+        12,
+        186,
+        109,
+        246
+      ],
+      "active_area_mm2": 1304.0,
+      "native_wall_cells": 603,
+      "native_near_floor_furniture_cells": 40,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        120
+      ]
+    },
+    {
+      "name": "Connected_B018",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B018",
+      "origin_mm": [
+        635.0,
+        119.5
+      ],
+      "grid_shape_HW": [
+        99,
+        49
+      ],
+      "global_grid_slice_xy": [
+        1250,
+        228,
+        1299,
+        327
+      ],
+      "active_area_mm2": 1102.75,
+      "native_wall_cells": 440,
+      "native_near_floor_furniture_cells": 0,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        100
+      ]
+    },
+    {
+      "name": "Connected_B019",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B019",
+      "origin_mm": [
+        323.0,
+        86.5
+      ],
+      "grid_shape_HW": [
+        72,
+        62
+      ],
+      "global_grid_slice_xy": [
+        626,
+        162,
+        688,
+        234
+      ],
+      "active_area_mm2": 994.25,
+      "native_wall_cells": 358,
+      "native_near_floor_furniture_cells": 129,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        0,
+        109
+      ]
+    },
+    {
+      "name": "Connected_B020",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B020",
+      "origin_mm": [
+        69.0,
+        373.5
+      ],
+      "grid_shape_HW": [
+        88,
+        53
+      ],
+      "global_grid_slice_xy": [
+        118,
+        736,
+        171,
+        824
+      ],
+      "active_area_mm2": 880.25,
+      "native_wall_cells": 317,
+      "native_near_floor_furniture_cells": 387,
+      "native_tabletop_cells_with_water_passage_underneath": 520,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        127
+      ]
+    },
+    {
+      "name": "Connected_B021",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B021",
+      "origin_mm": [
+        125.5,
+        341.0
+      ],
+      "grid_shape_HW": [
+        68,
+        54
+      ],
+      "global_grid_slice_xy": [
+        231,
+        671,
+        285,
+        739
+      ],
+      "active_area_mm2": 805.0,
+      "native_wall_cells": 222,
+      "native_near_floor_furniture_cells": 232,
+      "native_tabletop_cells_with_water_passage_underneath": 561,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        124
+      ]
+    },
+    {
+      "name": "Connected_B022",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B022",
+      "origin_mm": [
+        97.5,
+        341.0
+      ],
+      "grid_shape_HW": [
+        68,
+        53
+      ],
+      "global_grid_slice_xy": [
+        175,
+        671,
+        228,
+        739
+      ],
+      "active_area_mm2": 797.0,
+      "native_wall_cells": 187,
+      "native_near_floor_furniture_cells": 230,
+      "native_tabletop_cells_with_water_passage_underneath": 563,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        126
+      ]
+    },
+    {
+      "name": "Connected_B023",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B023",
+      "origin_mm": [
+        69.0,
+        341.0
+      ],
+      "grid_shape_HW": [
+        62,
+        53
+      ],
+      "global_grid_slice_xy": [
+        118,
+        671,
+        171,
+        733
+      ],
+      "active_area_mm2": 574.25,
+      "native_wall_cells": 261,
+      "native_near_floor_furniture_cells": 737,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        128
+      ]
+    },
+    {
+      "name": "Connected_B024",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B024",
+      "origin_mm": [
+        139.5,
+        136.5
+      ],
+      "grid_shape_HW": [
+        35,
+        47
+      ],
+      "global_grid_slice_xy": [
+        259,
+        262,
+        306,
+        297
+      ],
+      "active_area_mm2": 371.25,
+      "native_wall_cells": 160,
+      "native_near_floor_furniture_cells": 0,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        114
+      ]
+    },
+    {
+      "name": "Connected_B025",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B025",
+      "origin_mm": [
+        267.0,
+        496.5
+      ],
+      "grid_shape_HW": [
+        6,
+        279
+      ],
+      "global_grid_slice_xy": [
+        514,
+        982,
+        793,
+        988
+      ],
+      "active_area_mm2": 276.5,
+      "native_wall_cells": 275,
+      "native_near_floor_furniture_cells": 0,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        0
+      ]
+    },
+    {
+      "name": "Connected_B026",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B026",
+      "origin_mm": [
+        208.0,
+        420.0
+      ],
+      "grid_shape_HW": [
+        159,
+        69
+      ],
+      "global_grid_slice_xy": [
+        396,
+        829,
+        465,
+        988
+      ],
+      "active_area_mm2": 250.0,
+      "native_wall_cells": 1629,
+      "native_near_floor_furniture_cells": 169,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        0
+      ]
+    },
+    {
+      "name": "Connected_B027",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B027",
+      "origin_mm": [
+        205.0,
+        222.0
+      ],
+      "grid_shape_HW": [
+        50,
+        13
+      ],
+      "global_grid_slice_xy": [
+        390,
+        433,
+        403,
+        483
+      ],
+      "active_area_mm2": 132.0,
+      "native_wall_cells": 50,
+      "native_near_floor_furniture_cells": 122,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        123
+      ]
+    },
+    {
+      "name": "Connected_B028",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B028",
+      "origin_mm": [
+        205.0,
+        246.5
+      ],
+      "grid_shape_HW": [
+        50,
+        13
+      ],
+      "global_grid_slice_xy": [
+        390,
+        482,
+        403,
+        532
+      ],
+      "active_area_mm2": 132.0,
+      "native_wall_cells": 50,
+      "native_near_floor_furniture_cells": 122,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        123
+      ]
+    },
+    {
+      "name": "Connected_B029",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B029",
+      "origin_mm": [
+        97.5,
+        380.5
+      ],
+      "grid_shape_HW": [
+        74,
+        7
+      ],
+      "global_grid_slice_xy": [
+        175,
+        750,
+        182,
+        824
+      ],
+      "active_area_mm2": 90.0,
+      "native_wall_cells": 80,
+      "native_near_floor_furniture_cells": 158,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        125
+      ]
+    },
+    {
+      "name": "Connected_B030",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B030",
+      "origin_mm": [
+        69.5,
+        409.5
+      ],
+      "grid_shape_HW": [
+        16,
+        25
+      ],
+      "global_grid_slice_xy": [
+        119,
+        808,
+        144,
+        824
+      ],
+      "active_area_mm2": 80.5,
+      "native_wall_cells": 25,
+      "native_near_floor_furniture_cells": 78,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        127
+      ]
+    },
+    {
+      "name": "Connected_B031",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B031",
+      "origin_mm": [
+        125.5,
+        374.5
+      ],
+      "grid_shape_HW": [
+        7,
+        54
+      ],
+      "global_grid_slice_xy": [
+        231,
+        738,
+        285,
+        745
+      ],
+      "active_area_mm2": 65.0,
+      "native_wall_cells": 66,
+      "native_near_floor_furniture_cells": 118,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        124
+      ]
+    },
+    {
+      "name": "Connected_B032",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B032",
+      "origin_mm": [
+        97.5,
+        374.5
+      ],
+      "grid_shape_HW": [
+        7,
+        52
+      ],
+      "global_grid_slice_xy": [
+        175,
+        738,
+        227,
+        745
+      ],
+      "active_area_mm2": 62.5,
+      "native_wall_cells": 58,
+      "native_near_floor_furniture_cells": 114,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        126
+      ]
+    },
+    {
+      "name": "Connected_B033",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B033",
+      "origin_mm": [
+        60.5,
+        406.0
+      ],
+      "grid_shape_HW": [
+        18,
+        14
+      ],
+      "global_grid_slice_xy": [
+        101,
+        801,
+        115,
+        819
+      ],
+      "active_area_mm2": 48.0,
+      "native_wall_cells": 18,
+      "native_near_floor_furniture_cells": 60,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        129
+      ]
+    },
+    {
+      "name": "Connected_B034",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B034",
+      "origin_mm": [
+        61.0,
+        396.5
+      ],
+      "grid_shape_HW": [
+        19,
+        13
+      ],
+      "global_grid_slice_xy": [
+        102,
+        782,
+        115,
+        801
+      ],
+      "active_area_mm2": 46.75,
+      "native_wall_cells": 19,
+      "native_near_floor_furniture_cells": 60,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        129
+      ]
+    },
+    {
+      "name": "Connected_B035",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B035",
+      "origin_mm": [
+        82.5,
+        373.5
+      ],
+      "grid_shape_HW": [
+        11,
+        22
+      ],
+      "global_grid_slice_xy": [
+        145,
+        736,
+        167,
+        747
+      ],
+      "active_area_mm2": 45.0,
+      "native_wall_cells": 22,
+      "native_near_floor_furniture_cells": 62,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        127
+      ]
+    },
+    {
+      "name": "Connected_B036",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B036",
+      "origin_mm": [
+        60.5,
+        387.5
+      ],
+      "grid_shape_HW": [
+        17,
+        14
+      ],
+      "global_grid_slice_xy": [
+        101,
+        764,
+        115,
+        781
+      ],
+      "active_area_mm2": 45.0,
+      "native_wall_cells": 17,
+      "native_near_floor_furniture_cells": 58,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        129
+      ]
+    },
+    {
+      "name": "Connected_B037",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B037",
+      "origin_mm": [
+        176.0,
+        92.5
+      ],
+      "grid_shape_HW": [
+        8,
+        35
+      ],
+      "global_grid_slice_xy": [
+        332,
+        174,
+        367,
+        182
+      ],
+      "active_area_mm2": 28.75,
+      "native_wall_cells": 54,
+      "native_near_floor_furniture_cells": 0,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        0
+      ]
+    },
+    {
+      "name": "Connected_B038",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B038",
+      "origin_mm": [
+        172.5,
+        420.0
+      ],
+      "grid_shape_HW": [
+        5,
+        41
+      ],
+      "global_grid_slice_xy": [
+        325,
+        829,
+        366,
+        834
+      ],
+      "active_area_mm2": 28.5,
+      "native_wall_cells": 54,
+      "native_near_floor_furniture_cells": 0,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        0
+      ]
+    },
+    {
+      "name": "Connected_B039",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B039",
+      "origin_mm": [
+        660.5,
+        134.5
+      ],
+      "grid_shape_HW": [
+        36,
+        5
+      ],
+      "global_grid_slice_xy": [
+        1301,
+        258,
+        1306,
+        294
+      ],
+      "active_area_mm2": 25.5,
+      "native_wall_cells": 44,
+      "native_near_floor_furniture_cells": 0,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        0
+      ]
+    },
+    {
+      "name": "Connected_B040",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B040",
+      "origin_mm": [
+        472.0,
+        331.0
+      ],
+      "grid_shape_HW": [
+        3,
+        90
+      ],
+      "global_grid_slice_xy": [
+        924,
+        651,
+        1014,
+        654
+      ],
+      "active_area_mm2": 22.0,
+      "native_wall_cells": 2,
+      "native_near_floor_furniture_cells": 181,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        102
+      ]
+    },
+    {
+      "name": "Connected_B041",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B041",
+      "origin_mm": [
+        156.5,
+        419.5
+      ],
+      "grid_shape_HW": [
+        7,
+        33
+      ],
+      "global_grid_slice_xy": [
+        293,
+        828,
+        326,
+        835
+      ],
+      "active_area_mm2": 18.0,
+      "native_wall_cells": 48,
+      "native_near_floor_furniture_cells": 0,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        0
+      ]
+    },
+    {
+      "name": "Connected_B042",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B042",
+      "origin_mm": [
+        27.0,
+        341.5
+      ],
+      "grid_shape_HW": [
+        12,
+        9
+      ],
+      "global_grid_slice_xy": [
+        34,
+        672,
+        43,
+        684
+      ],
+      "active_area_mm2": 17.5,
+      "native_wall_cells": 0,
+      "native_near_floor_furniture_cells": 38,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        129
+      ]
+    },
+    {
+      "name": "Connected_B043",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B043",
+      "origin_mm": [
+        193.0,
+        419.5
+      ],
+      "grid_shape_HW": [
+        7,
+        31
+      ],
+      "global_grid_slice_xy": [
+        366,
+        828,
+        397,
+        835
+      ],
+      "active_area_mm2": 16.25,
+      "native_wall_cells": 49,
+      "native_near_floor_furniture_cells": 0,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        0
+      ]
+    },
+    {
+      "name": "Connected_B044",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B044",
+      "origin_mm": [
+        253.0,
+        90.5
+      ],
+      "grid_shape_HW": [
+        9,
+        17
+      ],
+      "global_grid_slice_xy": [
+        486,
+        170,
+        503,
+        179
+      ],
+      "active_area_mm2": 15.5,
+      "native_wall_cells": 20,
+      "native_near_floor_furniture_cells": 53,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        0,
+        112,
+        113
+      ]
+    },
+    {
+      "name": "Connected_B045",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B045",
+      "origin_mm": [
+        53.0,
+        346.0
+      ],
+      "grid_shape_HW": [
+        19,
+        5
+      ],
+      "global_grid_slice_xy": [
+        86,
+        681,
+        91,
+        700
+      ],
+      "active_area_mm2": 12.75,
+      "native_wall_cells": 0,
+      "native_near_floor_furniture_cells": 44,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        129
+      ]
+    },
+    {
+      "name": "Connected_B046",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B046",
+      "origin_mm": [
+        301.0,
+        75.5
+      ],
+      "grid_shape_HW": [
+        16,
+        6
+      ],
+      "global_grid_slice_xy": [
+        582,
+        140,
+        588,
+        156
+      ],
+      "active_area_mm2": 10.0,
+      "native_wall_cells": 50,
+      "native_near_floor_furniture_cells": 0,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        0
+      ]
+    },
+    {
+      "name": "Connected_B047",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B047",
+      "origin_mm": [
+        69.0,
+        349.0
+      ],
+      "grid_shape_HW": [
+        5,
+        15
+      ],
+      "global_grid_slice_xy": [
+        118,
+        687,
+        133,
+        692
+      ],
+      "active_area_mm2": 9.75,
+      "native_wall_cells": 5,
+      "native_near_floor_furniture_cells": 32,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        128
+      ]
+    },
+    {
+      "name": "Connected_B048",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B048",
+      "origin_mm": [
+        64.0,
+        346.0
+      ],
+      "grid_shape_HW": [
+        19,
+        4
+      ],
+      "global_grid_slice_xy": [
+        108,
+        681,
+        112,
+        700
+      ],
+      "active_area_mm2": 8.5,
+      "native_wall_cells": 0,
+      "native_near_floor_furniture_cells": 42,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        129
+      ]
+    },
+    {
+      "name": "Connected_B049",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B049",
+      "origin_mm": [
+        51.0,
+        185.5
+      ],
+      "grid_shape_HW": [
+        10,
+        6
+      ],
+      "global_grid_slice_xy": [
+        82,
+        360,
+        88,
+        370
+      ],
+      "active_area_mm2": 8.0,
+      "native_wall_cells": 15,
+      "native_near_floor_furniture_cells": 15,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        121
+      ]
+    },
+    {
+      "name": "Connected_B050",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B050",
+      "origin_mm": [
+        16.0,
+        341.5
+      ],
+      "grid_shape_HW": [
+        13,
+        4
+      ],
+      "global_grid_slice_xy": [
+        12,
+        672,
+        16,
+        685
+      ],
+      "active_area_mm2": 5.5,
+      "native_wall_cells": 13,
+      "native_near_floor_furniture_cells": 30,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        129
+      ]
+    },
+    {
+      "name": "Connected_B051",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B051",
+      "origin_mm": [
+        541.5,
+        9.0
+      ],
+      "grid_shape_HW": [
+        20,
+        3
+      ],
+      "global_grid_slice_xy": [
+        1063,
+        7,
+        1066,
+        27
+      ],
+      "active_area_mm2": 4.5,
+      "native_wall_cells": 22,
+      "native_near_floor_furniture_cells": 0,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        0
+      ]
+    },
+    {
+      "name": "Connected_B052",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B052",
+      "origin_mm": [
+        475.0,
+        22.5
+      ],
+      "grid_shape_HW": [
+        9,
+        4
+      ],
+      "global_grid_slice_xy": [
+        930,
+        34,
+        934,
+        43
+      ],
+      "active_area_mm2": 3.5,
+      "native_wall_cells": 11,
+      "native_near_floor_furniture_cells": 0,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        0
+      ]
+    },
+    {
+      "name": "Connected_B053",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B053",
+      "origin_mm": [
+        153.5,
+        422.0
+      ],
+      "grid_shape_HW": [
+        11,
+        5
+      ],
+      "global_grid_slice_xy": [
+        287,
+        833,
+        292,
+        844
+      ],
+      "active_area_mm2": 3.25,
+      "native_wall_cells": 17,
+      "native_near_floor_furniture_cells": 0,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        0
+      ]
+    },
+    {
+      "name": "Connected_B054",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B054",
+      "origin_mm": [
+        31.0,
+        341.5
+      ],
+      "grid_shape_HW": [
+        12,
+        3
+      ],
+      "global_grid_slice_xy": [
+        42,
+        672,
+        45,
+        684
+      ],
+      "active_area_mm2": 2.5,
+      "native_wall_cells": 0,
+      "native_near_floor_furniture_cells": 26,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        129
+      ]
+    },
+    {
+      "name": "Connected_B055",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B055",
+      "origin_mm": [
+        192.0,
+        88.0
+      ],
+      "grid_shape_HW": [
+        6,
+        5
+      ],
+      "global_grid_slice_xy": [
+        364,
+        165,
+        369,
+        171
+      ],
+      "active_area_mm2": 2.0,
+      "native_wall_cells": 7,
+      "native_near_floor_furniture_cells": 0,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        0
+      ]
+    },
+    {
+      "name": "Connected_B056",
+      "number": -1,
+      "title": "Geometry-connected water component Connected_B056",
+      "origin_mm": [
+        666.0,
+        132.0
+      ],
+      "grid_shape_HW": [
+        5,
+        5
+      ],
+      "global_grid_slice_xy": [
+        1312,
+        253,
+        1317,
+        258
+      ],
+      "active_area_mm2": 2.0,
+      "native_wall_cells": 5,
+      "native_near_floor_furniture_cells": 0,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 0,
+      "room_reference_owners_present": [
+        0
+      ]
+    }
+  ],
+  "actor_sources_recorded_once_in_fixture_QA": true,
+  "no_global_wave_post_clipped_to_rooms": true,
+  "old_receiver_media_print_and_sources_changed": false,
+  "geometry_connected_solver_domains": true,
+  "room_labels_are_source_locations_only": true
+}

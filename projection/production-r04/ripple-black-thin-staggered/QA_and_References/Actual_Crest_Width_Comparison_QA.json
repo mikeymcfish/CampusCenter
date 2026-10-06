@@ -1,0 +1,35 @@
+{
+  "status": "PASS: actual isolated Gym crest substantially thinner than R03 transfer on same solved field",
+  "actual_R04_field_component": "Connected_B002",
+  "actual_frame": 60,
+  "time_seconds": 3,
+  "source_time_seconds": 0.75,
+  "source_point_model_mm": [
+    322.75,
+    349.75
+  ],
+  "measurement": "Horizontal outward ray on actual unobstructed Gym floor through the isolated solved wave. R04 samples the actual ridge-intensity grid bilinearly. R03 comparison evaluates its1-exp(-(positive_height*1200)^2) crest response on this same actual height field; quiet ambient wash excluded. FWHM around the principal outward crest.",
+  "R04_actual_FWHM_model_mm": 0.474999999999973,
+  "R03_response_FWHM_same_actual_field_model_mm": 6.574999999999626,
+  "width_ratio": 0.07224334600760456,
+  "R04_peak_intensity": 0.999999999996362,
+  "R03_response_peak_intensity": 1.0,
+  "R04_crest_radius_model_mm": 57.49999999999815,
+  "R03_crest_radius_model_mm": 51.72499999999848,
+  "R04_actual_FWHM_pixels_at_1024_fullmodel": 0.6697418244405815,
+  "peak_source_crest_RGB": [
+    40,
+    235,
+    248
+  ],
+  "ridge_kernel_support_width_mm": 1.7,
+  "bilinear_grid_filtering_can_broaden_kernel_support": true,
+  "background_source_RGB": [
+    0,
+    0,
+    0
+  ],
+  "glow_or_bloom_added": false,
+  "metric_not_physical_projector_validation": true,
+  "legacy_saturated_peak_location_note": "Legacy transfer has a saturated plateau, so its listed first local peak radius is nonunique. FWHM widths are measured on the same actual solved height-field ray; this is one isolated crest measurement, not a global/projector width claim."
+}

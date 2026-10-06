@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "stop_id_metadata_only": "HS10",
+  "official_title": "Trophy Hall / Corridor",
+  "receiver": "UV02 1:100 exact original triangles plus restored P03B3 fireplace",
+  "test": "Sample actual8192 alpha through unchanged top-visible receiver UV at native2048x1572 world-space sample points; compare to exact approved rectilinear world polygons.0.5mm conservative edge band excluded; newly appended fireplace charts excluded because neutral patch is separate.",
+  "tested_visible_receiver_samples": 1891419,
+  "expected_inside_samples": 45360,
+  "missing_interior_samples": 0,
+  "unexpected_outside_samples": 0,
+  "edge_band_model_mm": 0.5,
+  "native_world_canvas_model_mm": [
+    726.25,
+    557.45361328125
+  ],
+  "world_scale_and_origin_unchanged": true,
+  "full_original_opaque_nonunderside_mask": true,
+  "mask_sha256": "ab0fd663d9455c3f4e2fdf03d4de38822c88124a6654e875f74ee31487b7926a",
+  "explicit_stop_exclusions_preserved": true,
+  "scope_authority": "Same registered A101 room-footprint polygons, approved H02 hall bounds and native verified gym inner bounds. Stop identities and explicit exclusions unchanged. No new R29 semantic room-boundary audit claimed.",
+  "physical_mapping_calibration_verified": false
+}

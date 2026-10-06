@@ -1,0 +1,111 @@
+{
+  "original_package_sha256": "4ca1a82fce899d113e566b00997d1dac03d911712a7797571fbd8c047990766f",
+  "changes": "Private JSON provenance reduced to basenames; every atlas, mask, movie and preview image byte unchanged.",
+  "files": [
+    {
+      "file": "H03_Mask_Patch/HS01_World_Clipped_Receiver_Alpha_8192.png",
+      "bytes": 101401,
+      "sha256": "0a703b8fa02fd62701cab7f1de32c668707c0bd0f618fd43611ff3b153c32347"
+    },
+    {
+      "file": "H03_Mask_Patch/HS02_World_Clipped_Receiver_Alpha_8192.png",
+      "bytes": 90095,
+      "sha256": "fbea377d8fa0e13658f001f39a52e0224930e6f8a7598fb7f6ddf397e5ec3534"
+    },
+    {
+      "file": "H03_Mask_Patch/HS03_World_Clipped_Receiver_Alpha_8192.png",
+      "bytes": 271200,
+      "sha256": "04bbb152dbf48493c5a3cfe0f94b9c7a1b26c067452ded4731fd0aca2d0946f3"
+    },
+    {
+      "file": "H03_Mask_Patch/HS04_World_Clipped_Receiver_Alpha_8192.png",
+      "bytes": 88189,
+      "sha256": "1d849a6ce3b92a2e26f7ac7055fa637b9eaafe3b53e0b8bcea49de241eb7cb11"
+    },
+    {
+      "file": "H03_Mask_Patch/HS05_World_Clipped_Receiver_Alpha_8192.png",
+      "bytes": 119598,
+      "sha256": "e7b61e38a93f74649c054fb599283bc2f9148d3de11511aa0a26a59278ea80d9"
+    },
+    {
+      "file": "H03_Mask_Patch/HS06_World_Clipped_Receiver_Alpha_8192.png",
+      "bytes": 129288,
+      "sha256": "c04161d4fe7ea5fddadab2a5a03157bd94f72ad0fc1b767628f1f5a40376bc28"
+    },
+    {
+      "file": "H03_Mask_Patch/HS07_World_Clipped_Receiver_Alpha_8192.png",
+      "bytes": 192319,
+      "sha256": "fe296c9d54d4268083357144ce3d30b88ca834ec572cb746c2350ac0d2052d7a"
+    },
+    {
+      "file": "H03_Mask_Patch/HS08_World_Clipped_Receiver_Alpha_8192.png",
+      "bytes": 124255,
+      "sha256": "79433732257137d186ab1e05802ed9d1f4e0d893ce93e60ef4fa94dfb383052f"
+    },
+    {
+      "file": "H03_Mask_Patch/HS09_World_Clipped_Receiver_Alpha_8192.png",
+      "bytes": 120323,
+      "sha256": "9ca031059e13072eb09f13d0b9620aed499322a482c0fe62f72949e6dac11c7b"
+    },
+    {
+      "file": "H03_Mask_Patch/HS10_World_Clipped_Receiver_Alpha_8192.png",
+      "bytes": 77897,
+      "sha256": "ab0fd663d9455c3f4e2fdf03d4de38822c88124a6654e875f74ee31487b7926a"
+    },
+    {
+      "file": "H03_Mask_Patch/HS11_World_Clipped_Receiver_Alpha_8192.png",
+      "bytes": 111249,
+      "sha256": "1d60a84eaff347c8bafabf4131ad38feead8d31bea2f7d7d1afd09c9eb66bd67"
+    },
+    {
+      "file": "H03_Mask_Patch/HS12_World_Clipped_Receiver_Alpha_8192.png",
+      "bytes": 85058,
+      "sha256": "6182e83b7db795923401332e6db1cae9ceebd9e7efd9cfae6c18a9141036bb0e"
+    },
+    {
+      "file": "H03_Mask_Patch/HS13_World_Clipped_Receiver_Alpha_8192.png",
+      "bytes": 91720,
+      "sha256": "cd6188504f1fa37386796868db09a326fbca91602cffdae47bc128269d4a9587"
+    },
+    {
+      "file": "H03_Mask_Patch/World_Clipped_Mask_Manifest.json",
+      "bytes": 20520,
+      "sha256": "f5076e14124a37ed305da28677e9a4f5f91d2fdcb09f215bbe9af1039fbfd3f8"
+    },
+    {
+      "file": "H03_Mask_Patch/H03_Mask_Patch_Reference.json",
+      "bytes": 2763,
+      "sha256": "0ab64a84d0beee69a75b5043d1d037f1d4d32670dc45aa09e8cab5e368a818b5"
+    },
+    {
+      "file": "H03_Mask_Patch/H03_Mask_Compatibility_README.txt",
+      "bytes": 534,
+      "sha256": "bc660231952265c62783a55ad87fa533c8bbcc2e7bb1f5708fce9fddcd46a533"
+    },
+    {
+      "file": "H03_Mask_Patch/Reference_Title_Encoding_QA.json",
+      "bytes": 410,
+      "sha256": "676bfb0023b67df3caaf23e34fbc58ae063902411e48778c7d1df64b49f37114"
+    },
+    {
+      "file": "H03_Mask_Patch/Edge_Reviews/Commons_Cafe_Boundary_1_Native_8192_Atlas_Crops.png",
+      "bytes": 13360,
+      "sha256": "3634c9a12056266dd37f46cbc9d4fca4815c1825b446db60dd9c13d8e846369f"
+    },
+    {
+      "file": "H03_Mask_Patch/Edge_Reviews/Commons_Cafe_Boundary_2_Native_8192_Atlas_Crops.png",
+      "bytes": 10807,
+      "sha256": "b0dd75fc3f40ce8948f12341bc98ca0de998ab0c30cd8504222d9663130f0719"
+    },
+    {
+      "file": "H03_Mask_Patch/Edge_Reviews/The_Cafe_Boundary_Closeup_Actual_1024_Pixels.png",
+      "bytes": 6719,
+      "sha256": "8fee08dc29f01cbf9984ac34b35b2b1db137fe98b77719caf05d0570ebdfe36b"
+    },
+    {
+      "file": "H03_Mask_Patch/Edge_Reviews/The_Student_Commons_Boundary_Closeup_Actual_1024_Pixels.png",
+      "bytes": 6983,
+      "sha256": "9b5a86ba2a0f9615bf1c65bbec8e331406647a0e397f300b9aa6e5c79f8d9993"
+    }
+  ]
+}

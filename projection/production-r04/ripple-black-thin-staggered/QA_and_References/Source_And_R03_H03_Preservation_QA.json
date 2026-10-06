@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "protected_source_files_verified": 317,
+  "changed_protected_files": [],
+  "prior_R03_and_early_and_final_H03_packages_SHA_unchanged": [
+    {
+      "file": "CampusCenter_UV02_Ripple_R03_WholeModel_Connected_Final_Test.zip",
+      "sha256": "505a49df7a50ad58fba842c57373f84135464325b28ad098394c10d677bc05d5"
+    },
+    {
+      "file": "CampusCenter_UV02_H03_Commons_Cafe_CleanEdge_Viewing_Test.zip",
+      "sha256": "373a77c60066ff11f8ba284a07e26273524f0797f164ac9cfa72d9cedcc226ec"
+    },
+    {
+      "file": "CampusCenter_UV02_H03_All13_30Pages_Final_Paginated_Tour_Test.zip",
+      "sha256": "df3ef72c38ee67cc4af7a32686e596de4787b12e392a32d66113a48c58a6fa11"
+    }
+  ],
+  "hybrid_receiver_sha256": "b949784cbb3f833d10d82fdd48d469ac3fac1b8ac723f7cc08588ca633a59fba",
+  "original_Blender_Unreal_or_MadMapper_saved": false,
+  "geometry_UV_scale_origin_or_print_changed": false
+}

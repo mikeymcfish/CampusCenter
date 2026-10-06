@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "protected_original_source_files_verified": 317,
+  "protected_original_source_files_changed": [],
+  "H03_final_package_path": "CampusCenter_UV02_H03_All13_30Pages_Final_Paginated_Tour_Test.zip",
+  "H03_final_package_sha256_unchanged": "df3ef72c38ee67cc4af7a32686e596de4787b12e392a32d66113a48c58a6fa11",
+  "all30_H03_page_source_hashes_unchanged_verified": true,
+  "receiver_OBJ_sha256": "b949784cbb3f833d10d82fdd48d469ac3fac1b8ac723f7cc08588ca633a59fba",
+  "geometry_UVs_origin_world_scale_changes": false,
+  "original_Blender_Unreal_MadMapper_or_print_files_saved": false,
+  "source_authority": "Unchanged UV02 receiver: P02 assembly with the exact P03 B3 fireplace appended. Media-only changes over preserved H03 world-clipped masks, original official copy and balanced final pagination. No fresh R29 semantic boundary audit claimed.",
+  "print_configuration": "Five original P02 1:100 tiles plus P03 corrected B3 fireplace tile; no1:250 sample UV02 claim.",
+  "source_baseline_sha256": "d41f995183595d64ca80738b096a8cd850731a031eb47a5d6615466ede201f6c",
+  "physical_projection_or_MadMapper_playback_verified": false
+}

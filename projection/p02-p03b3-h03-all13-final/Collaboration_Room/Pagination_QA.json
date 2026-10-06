@@ -1,0 +1,162 @@
+{
+  "status": "PASS: all official words, gym-only captions, world-clipped highlight, exact UV02 registration, final fireplace and native/compact review complete",
+  "official_title_exact": "Collaboration Room",
+  "official_body_exact": "The Collaboration Room gives humanities students and educators a focused space to think together and exchange perspectives. Whether used for project teams, mentoring, research discussions, or interdisciplinary planning, it supports the dialogue and collaborative problem-solving at the center of humanities-based research.",
+  "official_paragraphs_exact": [
+    "The Collaboration Room gives humanities students and educators a focused space to think together and exchange perspectives. Whether used for project teams, mentoring, research discussions, or interdisciplinary planning, it supports the dialogue and collaborative problem-solving at the center of humanities-based research."
+  ],
+  "full_official_word_sequence_reconstructs_exactly": true,
+  "paragraph_boundaries_preserved_as_page_boundaries": true,
+  "pages": [
+    {
+      "page": 1,
+      "lines": [
+        "The Collaboration Room gives",
+        "humanities students and",
+        "educators a focused space to",
+        "think together and exchange",
+        "perspectives."
+      ],
+      "official_text_portion": "The Collaboration Room gives humanities students and educators a focused space to think together and exchange perspectives.",
+      "atlas": "Collaboration_Room_Paginated_Page_01_Atlas_8192.png",
+      "atlas_sha256": "8fcae820f84dce731e8cb8d1592e6afe182506f2aa499cc2f55cfd3fdf195f99",
+      "body_glyph_bounds_px": [
+        [
+          175,
+          655,
+          1900,
+          782
+        ],
+        [
+          175,
+          830,
+          1584,
+          928
+        ],
+        [
+          175,
+          1004,
+          1846,
+          1131
+        ],
+        [
+          175,
+          1180,
+          1831,
+          1307
+        ],
+        [
+          175,
+          1355,
+          911,
+          1481
+        ]
+      ],
+      "caption_surface_texels": 1557104,
+      "source_page": "Collaboration_Room_Paginated_Page_01_Atlas_8192.png",
+      "caption_pixels_exactly_preserved": true,
+      "fireplace_patch_exactly_preserved": true
+    },
+    {
+      "page": 2,
+      "lines": [
+        "Whether used for project",
+        "teams, mentoring, research",
+        "discussions, or interdisciplinary",
+        "planning, it supports the",
+        "dialogue and collaborative",
+        "problem-solving at the center",
+        "of humanities-based research."
+      ],
+      "official_text_portion": "Whether used for project teams, mentoring, research discussions, or interdisciplinary planning, it supports the dialogue and collaborative problem-solving at the center of humanities-based research.",
+      "atlas": "Collaboration_Room_Paginated_Page_02_Atlas_8192.png",
+      "atlas_sha256": "f4d2db0dcc83e39109aff1c0f3925d9dc6b82d04a0e107102e784de63dcb0e42",
+      "body_glyph_bounds_px": [
+        [
+          175,
+          654,
+          1613,
+          782
+        ],
+        [
+          175,
+          830,
+          1730,
+          957
+        ],
+        [
+          175,
+          1005,
+          1941,
+          1132
+        ],
+        [
+          175,
+          1180,
+          1576,
+          1307
+        ],
+        [
+          175,
+          1355,
+          1696,
+          1482
+        ],
+        [
+          175,
+          1530,
+          1880,
+          1657
+        ],
+        [
+          175,
+          1704,
+          1896,
+          1803
+        ]
+      ],
+      "caption_surface_texels": 1557104,
+      "source_page": "Collaboration_Room_Paginated_Page_02_Atlas_8192.png",
+      "caption_pixels_exactly_preserved": true,
+      "fireplace_patch_exactly_preserved": true
+    }
+  ],
+  "page_count": 2,
+  "page_hold_seconds": 10,
+  "body_font_nominal_model_mm": 13,
+  "body_x_height_at_1024_view_px": 9.16488812392427,
+  "body_capital_height_at_1024_view_px": 12.830843373493977,
+  "caption_bounds_model_mm": [
+    [
+      235,
+      231
+    ],
+    [
+      448,
+      451
+    ]
+  ],
+  "all_caption_pixels_inside_gym_H02_and_world_rectangle": true,
+  "all_caption_pixels_exactly_preserved_from_validated_verbatim_source": true,
+  "caption_receiver_texels": 1557104,
+  "presentation_room_number_labels": false,
+  "stop_id_metadata_only": "HS09",
+  "receiver_OBJ": "CampusCenter_P02plusP03B3_Assembly_1_100_UV02.obj",
+  "receiver_OBJ_sha256": "b949784cbb3f833d10d82fdd48d469ac3fac1b8ac723f7cc08588ca633a59fba",
+  "geometry_UV_origin_or_scale_changed": false,
+  "fixture_normal_height_and_contact_shading_from_actual_unchanged_geometry": true,
+  "restored_fireplace_patch_exactly_matches_hybrid_UV02": true,
+  "highlight_mask": "HS09_World_Clipped_Receiver_Alpha_8192.png",
+  "highlight_mask_sha256": "9ca031059e13072eb09f13d0b9620aed499322a482c0fe62f72949e6dac11c7b",
+  "highlight_receiver_charts": 790,
+  "highlight_nonzero_receiver_pixels": 536195,
+  "highlight_method": "For every opaque non-underside source triangle, evaluate actual world XY affinely through its original UVs, clip against exact rectilinear room polygons, and rasterize at4x4 alpha coverage. Applies to floor finishes, furniture, wall sides/caps and other receiver surfaces. Two-pixel triangle-chart bleed stays within existing chart rectangles. No whole-triangle room ownership or mesh edits.",
+  "highlight_scope_authority": "Same registered A101 room-footprint polygons, approved H02 hall bounds and native verified gym inner bounds. Stop identities and explicit exclusions unchanged. No new R29 semantic room-boundary audit claimed.",
+  "mask_revision": "H03 canonical full receiver; original H02/P01/R02 untouched",
+  "native_preview_pending": false,
+  "room_highlight_mapping_validation_pending": false,
+  "physical_projector_readability_verified": false,
+  "room_highlight_mapping_QA": "Room_Highlight_World_Mapping_QA.json",
+  "all30_final_atlas_audit": "../All13_Final_Tour_QA.json",
+  "visual_review_complete": true
+}

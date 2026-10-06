@@ -1,0 +1,815 @@
+{
+  "status": "PASS with disclosed inherited reference-boundary limits",
+  "stops": 13,
+  "pages": 30,
+  "standalone_projection_atlas_resolution": 8192,
+  "registration_receiver_OBJ": "CampusCenter_P02plusP03B3_Assembly_1_100_UV02.obj",
+  "registration_receiver_OBJ_sha256": "b949784cbb3f833d10d82fdd48d469ac3fac1b8ac723f7cc08588ca633a59fba",
+  "common_numeric_units": "1:100 modelmillimetres; right-handed,+Zup,+Ynorth; original shared origin and UVs",
+  "all_official_titles_and_body_words_exact": true,
+  "all30_caption_pixel_references_match": true,
+  "all_text_on_same_actual_gym_floor_rectangle": [
+    [
+      235,
+      231
+    ],
+    [
+      448,
+      451
+    ]
+  ],
+  "caption_receiver_texels_each_page": 1557104,
+  "displayed_room_numbers": false,
+  "all30_final_fireplace_chart_pixels_exact": true,
+  "all30_current_atlases_fresh_native_reapplication_SHA_matched": true,
+  "all13_room_world_mapping_QA_pass": true,
+  "fixture_geometry_depth_and_normal_height_contact_shading_retained": true,
+  "all13_full_receiver_masks_world_clipped_AA": true,
+  "no_whole_triangle_ownership_for_highlight": true,
+  "native_visual_review_all30_pages_and_all13_room_highlights_complete": true,
+  "balanced_continuation_pages": [
+    4,
+    8,
+    13
+  ],
+  "same30page_count": true,
+  "protected_original_source_files_SHA_verified": 317,
+  "protected_original_files_changed": [],
+  "source_Blender_Unreal_or_MadMapper_saved": false,
+  "physical_projection_or_readability_verified": false,
+  "room_boundary_limitations": "Room_Identity_And_Boundary_Limitations.json",
+  "rows": [
+    {
+      "stop_id_metadata_only": "HS01",
+      "official_title": "Entry + Reception",
+      "official_body_exact": "The Entry sets the tone for the Campus Center as a welcoming gateway into a space built for learning and connection. It is the first point of entry for students, families, and visitors to King’s Campus Center and everything it offers.\n\nThe Reception Area offers a warm and welcoming first point of connection for everyone entering the Campus Center.",
+      "pages": [
+        {
+          "page": 1,
+          "atlas": "Entry_Reception_Paginated_Page_01_Atlas_8192.png",
+          "sha256": "8db737fb9717ef08d00b1839c540b893505b57b79fa6216a9f58810d564df7ed",
+          "official_lines": [
+            "The Entry sets the tone for the",
+            "Campus Center as a",
+            "welcoming gateway into a",
+            "space built for learning and",
+            "connection."
+          ],
+          "gym_caption_pixel_match": true,
+          "neutral_final_fireplace_chart_pixel_match": true,
+          "fresh_native_reapplication_matches_current_atlas_sha": true,
+          "body_lines": 5
+        },
+        {
+          "page": 2,
+          "atlas": "Entry_Reception_Paginated_Page_02_Atlas_8192.png",
+          "sha256": "16e885e7e8427e5c57bb411ada7ef0ee3e5fb052c73a3ddb6809a8160c94b05c",
+          "official_lines": [
+            "It is the first point of entry for",
+            "students, families, and visitors",
+            "to King’s Campus Center and",
+            "everything it offers."
+          ],
+          "gym_caption_pixel_match": true,
+          "neutral_final_fireplace_chart_pixel_match": true,
+          "fresh_native_reapplication_matches_current_atlas_sha": true,
+          "body_lines": 4
+        },
+        {
+          "page": 3,
+          "atlas": "Entry_Reception_Paginated_Page_03_Atlas_8192.png",
+          "sha256": "f26d23dec1f15df0450f05848716d3eb2a7ec3385dbdc13b7e7e2b690f6ccb5f",
+          "official_lines": [
+            "The Reception Area offers a",
+            "warm and welcoming first",
+            "point of connection for",
+            "everyone entering the Campus",
+            "Center."
+          ],
+          "gym_caption_pixel_match": true,
+          "neutral_final_fireplace_chart_pixel_match": true,
+          "fresh_native_reapplication_matches_current_atlas_sha": true,
+          "body_lines": 5
+        }
+      ],
+      "room_mapping_samples_tested": 1893103,
+      "room_mapping_missing_interior": 0,
+      "room_mapping_unexpected_outside": 0,
+      "full_fixture_geometry_depth_retained": true,
+      "fixture_normal_height_contact_shading": true,
+      "geometry_UVs_scale_origin_identity_unchanged": true,
+      "page_holds_seconds": 10,
+      "clip_path": "Entry_Reception_Paginated_Gym_Mapped_1024_Viewing_Preview_H03_WorldClipped.mp4",
+      "clip_sha256": "b130265da6d98937387179a32c6e47eac2352f24b913342031fa566b684f06f7",
+      "clip_bytes": 369660,
+      "clip_duration_seconds": 30.0,
+      "balanced_continuations": null
+    },
+    {
+      "stop_id_metadata_only": "HS02",
+      "official_title": "The Cafe",
+      "official_body_exact": "The Cafe is designed as a natural gathering place where students, faculty, and visitors can connect and recharge. More than a place to grab something to eat, it supports the relationships and informal conversations that strengthen King’s collaborative and caring community.",
+      "pages": [
+        {
+          "page": 1,
+          "atlas": "The_Cafe_Paginated_Page_01_Atlas_8192.png",
+          "sha256": "2e59cf4f5fc3922ba0a89df2bc5bfb214efdf7a3b21b79e407f2603433161bed",
+          "official_lines": [
+            "The Cafe is designed as a",
+            "natural gathering place where",
+            "students, faculty, and visitors",
+            "can connect and recharge."
+          ],
+          "gym_caption_pixel_match": true,
+          "neutral_final_fireplace_chart_pixel_match": true,
+          "fresh_native_reapplication_matches_current_atlas_sha": true,
+          "body_lines": 4
+        },
+        {
+          "page": 2,
+          "atlas": "The_Cafe_Paginated_Page_02_Atlas_8192.png",
+          "sha256": "ae7b39419954713d6977a78a015ce5aee7a81b9fb91ab19394f70a5560e8fd74",
+          "official_lines": [
+            "More than a place to grab",
+            "something to eat, it supports",
+            "the relationships and informal",
+            "conversations that strengthen",
+            "King’s collaborative and caring",
+            "community."
+          ],
+          "gym_caption_pixel_match": true,
+          "neutral_final_fireplace_chart_pixel_match": true,
+          "fresh_native_reapplication_matches_current_atlas_sha": true,
+          "body_lines": 6
+        }
+      ],
+      "room_mapping_samples_tested": 1893561,
+      "room_mapping_missing_interior": 0,
+      "room_mapping_unexpected_outside": 0,
+      "full_fixture_geometry_depth_retained": true,
+      "fixture_normal_height_contact_shading": true,
+      "geometry_UVs_scale_origin_identity_unchanged": true,
+      "page_holds_seconds": 10,
+      "clip_path": "The_Cafe_Paginated_Gym_Mapped_1024_Viewing_Preview_H03_WorldClipped.mp4",
+      "clip_sha256": "dc3dc326b4d83704dcea1995a3fb8c1ce64fc3d92341170eede725e93d501fd1",
+      "clip_bytes": 258902,
+      "clip_duration_seconds": 20.0,
+      "balanced_continuations": null
+    },
+    {
+      "stop_id_metadata_only": "HS03",
+      "official_title": "The Student Commons",
+      "official_body_exact": "The Student Commons is the vibrant heart of the Campus Center, giving students a comfortable place to gather, study, relax, and connect around its welcoming fireplace. The space reflects King’s belief that a strong sense of belonging supports both personal growth and meaningful learning.",
+      "pages": [
+        {
+          "page": 1,
+          "atlas": "The_Student_Commons_Paginated_Page_01_Atlas_8192.png",
+          "sha256": "6b111eff1fe1c7adec9e33d126663f644f3ca1e374624e94bdfab20b11b8587e",
+          "official_lines": [
+            "The Student Commons is the",
+            "vibrant heart of the Campus",
+            "Center, giving students a",
+            "comfortable place to gather,",
+            "study, relax, and connect",
+            "around its welcoming",
+            "fireplace."
+          ],
+          "gym_caption_pixel_match": true,
+          "neutral_final_fireplace_chart_pixel_match": true,
+          "fresh_native_reapplication_matches_current_atlas_sha": true,
+          "body_lines": 7
+        },
+        {
+          "page": 2,
+          "atlas": "The_Student_Commons_Paginated_Page_02_Atlas_8192.png",
+          "sha256": "2ec18f1710a18ee919d288c6b98b8e62fa15aee809dea261185fd38bd0529cac",
+          "official_lines": [
+            "The space reflects King’s belief",
+            "that a strong sense of",
+            "belonging supports both",
+            "personal growth and",
+            "meaningful learning."
+          ],
+          "gym_caption_pixel_match": true,
+          "neutral_final_fireplace_chart_pixel_match": true,
+          "fresh_native_reapplication_matches_current_atlas_sha": true,
+          "body_lines": 5
+        }
+      ],
+      "room_mapping_samples_tested": 1890984,
+      "room_mapping_missing_interior": 0,
+      "room_mapping_unexpected_outside": 0,
+      "full_fixture_geometry_depth_retained": true,
+      "fixture_normal_height_contact_shading": true,
+      "geometry_UVs_scale_origin_identity_unchanged": true,
+      "page_holds_seconds": 10,
+      "clip_path": "The_Student_Commons_Paginated_Gym_Mapped_1024_Viewing_Preview_H03_WorldClipped.mp4",
+      "clip_sha256": "b4bdc711c2b2ff3aca6f63af1fa3d20f6e625e5a3af0d9a6f3249b71f28991c6",
+      "clip_bytes": 288501,
+      "clip_duration_seconds": 20.0,
+      "balanced_continuations": null
+    },
+    {
+      "stop_id_metadata_only": "HS04",
+      "official_title": "Admissions Office",
+      "official_body_exact": "The Admissions Office is a place where prospective Upper School students and families begin to imagine themselves as part of the King community. Through personal conversations and authentic connections, prospective students and families can discover a school that values curiosity, individuality, belonging, and the confidence to pursue a purposeful future.",
+      "pages": [
+        {
+          "page": 1,
+          "atlas": "Admissions_Office_Paginated_Page_01_Atlas_8192.png",
+          "sha256": "7be9f524742c7401e303d9063602adf9c990a41aa95322b14d34038e204be961",
+          "official_lines": [
+            "The Admissions Office is a",
+            "place where prospective Upper",
+            "School students and families",
+            "begin to imagine themselves",
+            "as part of the King community."
+          ],
+          "gym_caption_pixel_match": true,
+          "neutral_final_fireplace_chart_pixel_match": true,
+          "fresh_native_reapplication_matches_current_atlas_sha": true,
+          "body_lines": 5
+        },
+        {
+          "page": 2,
+          "atlas": "Admissions_Office_Paginated_Page_02_Atlas_8192.png",
+          "sha256": "4526e8e9ff43d009adbcecc39a5b44ad561112fd28996fc3d45503f54a6c168d",
+          "official_lines": [
+            "Through personal",
+            "conversations and authentic",
+            "connections, prospective",
+            "students and families can"
+          ],
+          "gym_caption_pixel_match": true,
+          "neutral_final_fireplace_chart_pixel_match": true,
+          "fresh_native_reapplication_matches_current_atlas_sha": true,
+          "body_lines": 4
+        },
+        {
+          "page": 3,
+          "atlas": "Admissions_Office_Paginated_Page_03_Atlas_8192.png",
+          "sha256": "0fb4a6a117ed4442ed3d49aa995ecbedfe053a9cf8e4f6b86756740a0883ecb2",
+          "official_lines": [
+            "discover a school that values",
+            "curiosity, individuality,",
+            "belonging, and the confidence",
+            "to pursue a purposeful future."
+          ],
+          "gym_caption_pixel_match": true,
+          "neutral_final_fireplace_chart_pixel_match": true,
+          "fresh_native_reapplication_matches_current_atlas_sha": true,
+          "body_lines": 4
+        }
+      ],
+      "room_mapping_samples_tested": 1893828,
+      "room_mapping_missing_interior": 0,
+      "room_mapping_unexpected_outside": 0,
+      "full_fixture_geometry_depth_retained": true,
+      "fixture_normal_height_contact_shading": true,
+      "geometry_UVs_scale_origin_identity_unchanged": true,
+      "page_holds_seconds": 10,
+      "clip_path": "Admissions_Office_Paginated_Gym_Mapped_1024_Viewing_Preview_H03_Balanced_WorldClipped.mp4",
+      "clip_sha256": "5d131d933a5f3f6c566d92ac722aebca547c93bfad2d7897aa88d8017944bc68",
+      "clip_bytes": 364933,
+      "clip_duration_seconds": 30.0,
+      "balanced_continuations": {
+        "before_line_counts": [
+          5,
+          7,
+          1
+        ],
+        "after_line_counts": [
+          5,
+          4,
+          4
+        ],
+        "official_word_sequence_unchanged": true,
+        "changes_restricted_to_actual_gym_caption_texels": true
+      }
+    },
+    {
+      "stop_id_metadata_only": "HS05",
+      "official_title": "CRI Gallery",
+      "official_body_exact": "The CRI Gallery makes learning visible by showcasing student research, creative work, discoveries, and ideas from across disciplines. It celebrates the process of inquiry as much as the final product, inviting the community to ask questions, make connections, and be inspired by what King students are exploring.",
+      "pages": [
+        {
+          "page": 1,
+          "atlas": "CRI_Gallery_Paginated_Page_01_Atlas_8192.png",
+          "sha256": "5f72d24318ce21152e9bdbd27aa341a00c8dcf31ce37ede07e814ed8f993ba5e",
+          "official_lines": [
+            "The CRI Gallery makes learning",
+            "visible by showcasing student",
+            "research, creative work,",
+            "discoveries, and ideas from",
+            "across disciplines."
+          ],
+          "gym_caption_pixel_match": true,
+          "neutral_final_fireplace_chart_pixel_match": true,
+          "fresh_native_reapplication_matches_current_atlas_sha": true,
+          "body_lines": 5
+        },
+        {
+          "page": 2,
+          "atlas": "CRI_Gallery_Paginated_Page_02_Atlas_8192.png",
+          "sha256": "1f9574cadf8dfb23bc4fb5f8e63acdd94afc79f13e95cf8c9590707e27db5ed1",
+          "official_lines": [
+            "It celebrates the process of",
+            "inquiry as much as the final",
+            "product, inviting the",
+            "community to ask questions,",
+            "make connections, and be",
+            "inspired by what King students",
+            "are exploring."
+          ],
+          "gym_caption_pixel_match": true,
+          "neutral_final_fireplace_chart_pixel_match": true,
+          "fresh_native_reapplication_matches_current_atlas_sha": true,
+          "body_lines": 7
+        }
+      ],
+      "room_mapping_samples_tested": 1892670,
+      "room_mapping_missing_interior": 0,
+      "room_mapping_unexpected_outside": 0,
+      "full_fixture_geometry_depth_retained": true,
+      "fixture_normal_height_contact_shading": true,
+      "geometry_UVs_scale_origin_identity_unchanged": true,
+      "page_holds_seconds": 10,
+      "clip_path": "CRI_Gallery_Paginated_Gym_Mapped_1024_Viewing_Preview_H03_WorldClipped.mp4",
+      "clip_sha256": "f27ff177b78de20d4adf25244dbaac1facad7b72c499ac1c7d6dcbb93d6b1b88",
+      "clip_bytes": 262894,
+      "clip_duration_seconds": 20.0,
+      "balanced_continuations": null
+    },
+    {
+      "stop_id_metadata_only": "HS06",
+      "official_title": "Corridor / Display Hall",
+      "official_body_exact": "The Display Hall transforms a passageway into an evolving story of learning at King. Student work, research, accomplishments, and creative thinking turns each walk through the space into a chance to discover new ideas and celebrate the community's diverse talents.",
+      "pages": [
+        {
+          "page": 1,
+          "atlas": "Corridor_Display_Hall_Paginated_Page_01_Atlas_8192.png",
+          "sha256": "5cdc3cf8b6f7461730f72581181c6e077adf76b57d9f8da9fa16fd889c6027ed",
+          "official_lines": [
+            "The Display Hall transforms a",
+            "passageway into an evolving",
+            "story of learning at King."
+          ],
+          "gym_caption_pixel_match": true,
+          "neutral_final_fireplace_chart_pixel_match": true,
+          "fresh_native_reapplication_matches_current_atlas_sha": true,
+          "body_lines": 3
+        },
+        {
+          "page": 2,
+          "atlas": "Corridor_Display_Hall_Paginated_Page_02_Atlas_8192.png",
+          "sha256": "6868504b74597845a948cf89fdfd38e98aa8d238a6fc610f397114b73992b7de",
+          "official_lines": [
+            "Student work, research,",
+            "accomplishments, and creative",
+            "thinking turns each walk",
+            "through the space into a",
+            "chance to discover new ideas",
+            "and celebrate the community's",
+            "diverse talents."
+          ],
+          "gym_caption_pixel_match": true,
+          "neutral_final_fireplace_chart_pixel_match": true,
+          "fresh_native_reapplication_matches_current_atlas_sha": true,
+          "body_lines": 7
+        }
+      ],
+      "room_mapping_samples_tested": 1885742,
+      "room_mapping_missing_interior": 0,
+      "room_mapping_unexpected_outside": 0,
+      "full_fixture_geometry_depth_retained": true,
+      "fixture_normal_height_contact_shading": true,
+      "geometry_UVs_scale_origin_identity_unchanged": true,
+      "page_holds_seconds": 10,
+      "clip_path": "Corridor_Display_Hall_Paginated_Gym_Mapped_1024_Viewing_Preview_H03_WorldClipped.mp4",
+      "clip_sha256": "35c8f8b401d2505bac02772004bdc2c0ec3be86e659b4fb679ca479b14e11fc7",
+      "clip_bytes": 268201,
+      "clip_duration_seconds": 20.0,
+      "balanced_continuations": null
+    },
+    {
+      "stop_id_metadata_only": "HS07",
+      "official_title": "Innovation Lab",
+      "official_body_exact": "The Innovation Lab is a flexible learning environment where ideas can move from imagination to prototype through designing, building, testing, and rethinking. In this space, Students collaborate across disciplines, use emerging tools and technologies, and develop the creative confidence and perseverance needed to solve real-world problems.",
+      "pages": [
+        {
+          "page": 1,
+          "atlas": "Innovation_Lab_Paginated_Page_01_Atlas_8192.png",
+          "sha256": "a1cc18a43984580e72ac94dd9545ac906ac90f13b95cb10002cce4b4201ff6d3",
+          "official_lines": [
+            "The Innovation Lab is a flexible",
+            "learning environment where",
+            "ideas can move from",
+            "imagination to prototype",
+            "through designing, building,",
+            "testing, and rethinking."
+          ],
+          "gym_caption_pixel_match": true,
+          "neutral_final_fireplace_chart_pixel_match": true,
+          "fresh_native_reapplication_matches_current_atlas_sha": true,
+          "body_lines": 6
+        },
+        {
+          "page": 2,
+          "atlas": "Innovation_Lab_Paginated_Page_02_Atlas_8192.png",
+          "sha256": "0b3b82bbd162b06d219d2714156229142c0d3bf8ada7a1d0e94891a4d7ad1b38",
+          "official_lines": [
+            "In this space, Students",
+            "collaborate across disciplines,",
+            "use emerging tools and",
+            "technologies, and develop the",
+            "creative confidence and",
+            "perseverance needed to solve",
+            "real-world problems."
+          ],
+          "gym_caption_pixel_match": true,
+          "neutral_final_fireplace_chart_pixel_match": true,
+          "fresh_native_reapplication_matches_current_atlas_sha": true,
+          "body_lines": 7
+        }
+      ],
+      "room_mapping_samples_tested": 1892418,
+      "room_mapping_missing_interior": 0,
+      "room_mapping_unexpected_outside": 0,
+      "full_fixture_geometry_depth_retained": true,
+      "fixture_normal_height_contact_shading": true,
+      "geometry_UVs_scale_origin_identity_unchanged": true,
+      "page_holds_seconds": 10,
+      "clip_path": "Innovation_Lab_Paginated_Gym_Mapped_1024_Viewing_Preview_H03_WorldClipped.mp4",
+      "clip_sha256": "7ad8be8ea230bfd7ed9da588178eb7fb5ea5a7c1982b67f20aa9e8bd8d95d06c",
+      "clip_bytes": 276573,
+      "clip_duration_seconds": 20.0,
+      "balanced_continuations": null
+    },
+    {
+      "stop_id_metadata_only": "HS08",
+      "official_title": "ASPIRE Seminar Room",
+      "official_body_exact": "The Advanced Science Program for Independent Research and Engineering (ASPIRE) Seminar Room supports King’s advanced student researchers as they investigate complex questions, analyze evidence, and present original scientific work. It is a space for deep inquiry, mentorship, collaboration, and the kind of high-level research experience that prepares students to contribute confidently beyond King.",
+      "pages": [
+        {
+          "page": 1,
+          "atlas": "ASPIRE_Seminar_Room_Paginated_Page_01_Atlas_8192.png",
+          "sha256": "5ed7b976598f6a038686284d731440f9e277e4e119f903dc97b698c6f5fe161b",
+          "official_lines": [
+            "The Advanced Science",
+            "Program for Independent",
+            "Research and Engineering",
+            "(ASPIRE) Seminar Room",
+            "supports King’s advanced"
+          ],
+          "gym_caption_pixel_match": true,
+          "neutral_final_fireplace_chart_pixel_match": true,
+          "fresh_native_reapplication_matches_current_atlas_sha": true,
+          "body_lines": 5
+        },
+        {
+          "page": 2,
+          "atlas": "ASPIRE_Seminar_Room_Paginated_Page_02_Atlas_8192.png",
+          "sha256": "eb300b2dd313453f0f5a273139174283437460beeef99eede7d9f1d1380258a8",
+          "official_lines": [
+            "student researchers as they",
+            "investigate complex questions,",
+            "analyze evidence, and present",
+            "original scientific work."
+          ],
+          "gym_caption_pixel_match": true,
+          "neutral_final_fireplace_chart_pixel_match": true,
+          "fresh_native_reapplication_matches_current_atlas_sha": true,
+          "body_lines": 4
+        },
+        {
+          "page": 3,
+          "atlas": "ASPIRE_Seminar_Room_Paginated_Page_03_Atlas_8192.png",
+          "sha256": "e94b627c48fc49f1bfc7033fb5af8471ccda986f1ab152b0844e927c41efbe92",
+          "official_lines": [
+            "It is a space for deep inquiry,",
+            "mentorship, collaboration, and",
+            "the kind of high-level research",
+            "experience that prepares",
+            "students to contribute",
+            "confidently beyond King."
+          ],
+          "gym_caption_pixel_match": true,
+          "neutral_final_fireplace_chart_pixel_match": true,
+          "fresh_native_reapplication_matches_current_atlas_sha": true,
+          "body_lines": 6
+        }
+      ],
+      "room_mapping_samples_tested": 1892945,
+      "room_mapping_missing_interior": 0,
+      "room_mapping_unexpected_outside": 0,
+      "full_fixture_geometry_depth_retained": true,
+      "fixture_normal_height_contact_shading": true,
+      "geometry_UVs_scale_origin_identity_unchanged": true,
+      "page_holds_seconds": 10,
+      "clip_path": "ASPIRE_Seminar_Room_Paginated_Gym_Mapped_1024_Viewing_Preview_H03_Balanced_WorldClipped.mp4",
+      "clip_sha256": "7329bdb79e3b5584e0931271f4d5529e43ebe85eda2e006b3fc9900b7f16cd26",
+      "clip_bytes": 389190,
+      "clip_duration_seconds": 30.0,
+      "balanced_continuations": {
+        "before_line_counts": [
+          7,
+          2,
+          6
+        ],
+        "after_line_counts": [
+          5,
+          4,
+          6
+        ],
+        "official_word_sequence_unchanged": true,
+        "changes_restricted_to_actual_gym_caption_texels": true
+      }
+    },
+    {
+      "stop_id_metadata_only": "HS09",
+      "official_title": "Collaboration Room",
+      "official_body_exact": "The Collaboration Room gives humanities students and educators a focused space to think together and exchange perspectives. Whether used for project teams, mentoring, research discussions, or interdisciplinary planning, it supports the dialogue and collaborative problem-solving at the center of humanities-based research.",
+      "pages": [
+        {
+          "page": 1,
+          "atlas": "Collaboration_Room_Paginated_Page_01_Atlas_8192.png",
+          "sha256": "8fcae820f84dce731e8cb8d1592e6afe182506f2aa499cc2f55cfd3fdf195f99",
+          "official_lines": [
+            "The Collaboration Room gives",
+            "humanities students and",
+            "educators a focused space to",
+            "think together and exchange",
+            "perspectives."
+          ],
+          "gym_caption_pixel_match": true,
+          "neutral_final_fireplace_chart_pixel_match": true,
+          "fresh_native_reapplication_matches_current_atlas_sha": true,
+          "body_lines": 5
+        },
+        {
+          "page": 2,
+          "atlas": "Collaboration_Room_Paginated_Page_02_Atlas_8192.png",
+          "sha256": "f4d2db0dcc83e39109aff1c0f3925d9dc6b82d04a0e107102e784de63dcb0e42",
+          "official_lines": [
+            "Whether used for project",
+            "teams, mentoring, research",
+            "discussions, or interdisciplinary",
+            "planning, it supports the",
+            "dialogue and collaborative",
+            "problem-solving at the center",
+            "of humanities-based research."
+          ],
+          "gym_caption_pixel_match": true,
+          "neutral_final_fireplace_chart_pixel_match": true,
+          "fresh_native_reapplication_matches_current_atlas_sha": true,
+          "body_lines": 7
+        }
+      ],
+      "room_mapping_samples_tested": 1892993,
+      "room_mapping_missing_interior": 0,
+      "room_mapping_unexpected_outside": 0,
+      "full_fixture_geometry_depth_retained": true,
+      "fixture_normal_height_contact_shading": true,
+      "geometry_UVs_scale_origin_identity_unchanged": true,
+      "page_holds_seconds": 10,
+      "clip_path": "Collaboration_Room_Paginated_Gym_Mapped_1024_Viewing_Preview_H03_WorldClipped.mp4",
+      "clip_sha256": "055b680e260409055400f86fab83a5d2ff67d35f5f631f351ed4b016455aaedf",
+      "clip_bytes": 269001,
+      "clip_duration_seconds": 20.0,
+      "balanced_continuations": null
+    },
+    {
+      "stop_id_metadata_only": "HS10",
+      "official_title": "Trophy Hall / Corridor",
+      "official_body_exact": "The Trophy Hall celebrates the dedication, teamwork, and school spirit that generations of Vikings have brought to King athletics. As students pass through, it connects past accomplishments with the perseverance, leadership, and commitment that continue to shape today’s teams.",
+      "pages": [
+        {
+          "page": 1,
+          "atlas": "Trophy_Hall_Corridor_Paginated_Page_01_Atlas_8192.png",
+          "sha256": "bb9be3665135f18953281897dd7a1dc053b654a6a9ad019780bc730e3ae596d5",
+          "official_lines": [
+            "The Trophy Hall celebrates the",
+            "dedication, teamwork, and",
+            "school spirit that generations",
+            "of Vikings have brought to",
+            "King athletics."
+          ],
+          "gym_caption_pixel_match": true,
+          "neutral_final_fireplace_chart_pixel_match": true,
+          "fresh_native_reapplication_matches_current_atlas_sha": true,
+          "body_lines": 5
+        },
+        {
+          "page": 2,
+          "atlas": "Trophy_Hall_Corridor_Paginated_Page_02_Atlas_8192.png",
+          "sha256": "881589301f81d103ab9132ede250e5a6cfe93c31ceb29b46911fef7e0a2125f1",
+          "official_lines": [
+            "As students pass through, it",
+            "connects past",
+            "accomplishments with the",
+            "perseverance, leadership, and",
+            "commitment that continue to",
+            "shape today’s teams."
+          ],
+          "gym_caption_pixel_match": true,
+          "neutral_final_fireplace_chart_pixel_match": true,
+          "fresh_native_reapplication_matches_current_atlas_sha": true,
+          "body_lines": 6
+        }
+      ],
+      "room_mapping_samples_tested": 1891419,
+      "room_mapping_missing_interior": 0,
+      "room_mapping_unexpected_outside": 0,
+      "full_fixture_geometry_depth_retained": true,
+      "fixture_normal_height_contact_shading": true,
+      "geometry_UVs_scale_origin_identity_unchanged": true,
+      "page_holds_seconds": 10,
+      "clip_path": "Trophy_Hall_Corridor_Paginated_Gym_Mapped_1024_Viewing_Preview_H03_WorldClipped.mp4",
+      "clip_sha256": "92c0d55c86ee3a2824694fa440e22a9cd810b68c6f9afecb62016bb7a90f1ef7",
+      "clip_bytes": 261077,
+      "clip_duration_seconds": 20.0,
+      "balanced_continuations": null
+    },
+    {
+      "stop_id_metadata_only": "HS11",
+      "official_title": "Athletics Office",
+      "official_body_exact": "The Athletics Office is a hub for the leadership, coordination, and relationships that support King’s student-athletes and teams. It reflects an approach to athletics that develops confidence, teamwork, responsibility, and growth as part of the whole student experience.",
+      "pages": [
+        {
+          "page": 1,
+          "atlas": "Athletics_Office_Paginated_Page_01_Atlas_8192.png",
+          "sha256": "2eaa8b5b53f175e0bebaada424684d1fad0601e719f6e4820670609b12c30634",
+          "official_lines": [
+            "The Athletics Office is a hub",
+            "for the leadership,",
+            "coordination, and relationships",
+            "that support King’s",
+            "student-athletes and teams."
+          ],
+          "gym_caption_pixel_match": true,
+          "neutral_final_fireplace_chart_pixel_match": true,
+          "fresh_native_reapplication_matches_current_atlas_sha": true,
+          "body_lines": 5
+        },
+        {
+          "page": 2,
+          "atlas": "Athletics_Office_Paginated_Page_02_Atlas_8192.png",
+          "sha256": "ebce6c4385c1774f76e504453168579748ae314342c4d0b335fbd44fa2136297",
+          "official_lines": [
+            "It reflects an approach to",
+            "athletics that develops",
+            "confidence, teamwork,",
+            "responsibility, and growth as",
+            "part of the whole student",
+            "experience."
+          ],
+          "gym_caption_pixel_match": true,
+          "neutral_final_fireplace_chart_pixel_match": true,
+          "fresh_native_reapplication_matches_current_atlas_sha": true,
+          "body_lines": 6
+        }
+      ],
+      "room_mapping_samples_tested": 1891915,
+      "room_mapping_missing_interior": 0,
+      "room_mapping_unexpected_outside": 0,
+      "full_fixture_geometry_depth_retained": true,
+      "fixture_normal_height_contact_shading": true,
+      "geometry_UVs_scale_origin_identity_unchanged": true,
+      "page_holds_seconds": 10,
+      "clip_path": "Athletics_Office_Paginated_Gym_Mapped_1024_Viewing_Preview_H03_WorldClipped.mp4",
+      "clip_sha256": "e77afce912169874a59f8b48be2b714d04b6a040143189d8f46bb24877120b04",
+      "clip_bytes": 253956,
+      "clip_duration_seconds": 20.0,
+      "balanced_continuations": null
+    },
+    {
+      "stop_id_metadata_only": "HS12",
+      "official_title": "Athletics Trainers’ Room",
+      "official_body_exact": "The Athletic Trainers’ Room supports student-athlete health, safety, recovery, and readiness to return to the activities King’s athletes love. The space reflects King’s commitment to wellness and to caring for students as whole people while helping them pursue their goals with resilience and confidence.",
+      "pages": [
+        {
+          "page": 1,
+          "atlas": "Athletics_Trainers_Room_Paginated_Page_01_Atlas_8192.png",
+          "sha256": "6d3301cbc2bebf42d2e6910e7b0b4168d16caa910d1372e0ab0ac9c6f09915c6",
+          "official_lines": [
+            "The Athletic Trainers’ Room",
+            "supports student-athlete",
+            "health, safety, recovery, and",
+            "readiness to return to the",
+            "activities King’s athletes love."
+          ],
+          "gym_caption_pixel_match": true,
+          "neutral_final_fireplace_chart_pixel_match": true,
+          "fresh_native_reapplication_matches_current_atlas_sha": true,
+          "body_lines": 5
+        },
+        {
+          "page": 2,
+          "atlas": "Athletics_Trainers_Room_Paginated_Page_02_Atlas_8192.png",
+          "sha256": "6e71d95a77ef821aa971c1b3d91946532cccc007c788457d70054c3acc0eca48",
+          "official_lines": [
+            "The space reflects King’s",
+            "commitment to wellness and",
+            "to caring for students as whole",
+            "people while helping them",
+            "pursue their goals with",
+            "resilience and confidence."
+          ],
+          "gym_caption_pixel_match": true,
+          "neutral_final_fireplace_chart_pixel_match": true,
+          "fresh_native_reapplication_matches_current_atlas_sha": true,
+          "body_lines": 6
+        }
+      ],
+      "room_mapping_samples_tested": 1892943,
+      "room_mapping_missing_interior": 0,
+      "room_mapping_unexpected_outside": 0,
+      "full_fixture_geometry_depth_retained": true,
+      "fixture_normal_height_contact_shading": true,
+      "geometry_UVs_scale_origin_identity_unchanged": true,
+      "page_holds_seconds": 10,
+      "clip_path": "Athletics_Trainers_Room_Paginated_Gym_Mapped_1024_Viewing_Preview_H03_WorldClipped.mp4",
+      "clip_sha256": "9dbea5a1f00e229fda5e34efac1a394b98fead35040b200dbbae8e407e6128fc",
+      "clip_bytes": 259547,
+      "clip_duration_seconds": 20.0,
+      "balanced_continuations": null
+    },
+    {
+      "stop_id_metadata_only": "HS13",
+      "official_title": "Gym",
+      "official_body_exact": "The existing Gym remains a lively center for competition, teamwork, school spirit, and community traditions. From practices and games to shared celebrations, it is a place where students challenge themselves, support one another, and experience the perseverance, respect, and integrity that define the Viking community.",
+      "pages": [
+        {
+          "page": 1,
+          "atlas": "Gym_Paginated_Page_01_Atlas_8192.png",
+          "sha256": "9ed45c920abf83446baa189571ae30e9d21d4aaf97629c07a593dc45710f2c90",
+          "official_lines": [
+            "The existing Gym remains a",
+            "lively center for competition,",
+            "teamwork, school spirit, and",
+            "community traditions."
+          ],
+          "gym_caption_pixel_match": true,
+          "neutral_final_fireplace_chart_pixel_match": true,
+          "fresh_native_reapplication_matches_current_atlas_sha": true,
+          "body_lines": 4
+        },
+        {
+          "page": 2,
+          "atlas": "Gym_Paginated_Page_02_Atlas_8192.png",
+          "sha256": "c7307d3a405521f3c7d4ba75328742d34bb18c13571c1546d83cd6b36fb93269",
+          "official_lines": [
+            "From practices and games to",
+            "shared celebrations, it is a",
+            "place where students",
+            "challenge themselves, support"
+          ],
+          "gym_caption_pixel_match": true,
+          "neutral_final_fireplace_chart_pixel_match": true,
+          "fresh_native_reapplication_matches_current_atlas_sha": true,
+          "body_lines": 4
+        },
+        {
+          "page": 3,
+          "atlas": "Gym_Paginated_Page_03_Atlas_8192.png",
+          "sha256": "55fa26c2b6c922539a8d461d04aed82540b4f3161d57622909e1776105260b61",
+          "official_lines": [
+            "one another, and experience",
+            "the perseverance, respect, and",
+            "integrity that define the Viking",
+            "community."
+          ],
+          "gym_caption_pixel_match": true,
+          "neutral_final_fireplace_chart_pixel_match": true,
+          "fresh_native_reapplication_matches_current_atlas_sha": true,
+          "body_lines": 4
+        }
+      ],
+      "room_mapping_samples_tested": 1886507,
+      "room_mapping_missing_interior": 0,
+      "room_mapping_unexpected_outside": 0,
+      "full_fixture_geometry_depth_retained": true,
+      "fixture_normal_height_contact_shading": true,
+      "geometry_UVs_scale_origin_identity_unchanged": true,
+      "page_holds_seconds": 10,
+      "clip_path": "Gym_Paginated_Gym_Mapped_1024_Viewing_Preview_H03_Balanced_WorldClipped.mp4",
+      "clip_sha256": "647d7468d237f5a7186b0a4ddab6b3e3f57f013906ed18c66449336cf760f46c",
+      "clip_bytes": 363742,
+      "clip_duration_seconds": 30.0,
+      "balanced_continuations": {
+        "before_line_counts": [
+          4,
+          7,
+          1
+        ],
+        "after_line_counts": [
+          4,
+          4,
+          4
+        ],
+        "official_word_sequence_unchanged": true,
+        "changes_restricted_to_actual_gym_caption_texels": true
+      }
+    }
+  ]
+}

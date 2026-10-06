@@ -1,0 +1,71 @@
+{
+  "status": "PASS: completed all13 H04 brighter same-hue tour; exact Commons-only fireplace; all30 captions preserved and full viewing validation complete",
+  "package": {
+    "path": "CampusCenter_UV02_H04_All13_30Pages_Bright_SameHue_CommonsFireplace_Tour_Test.zip",
+    "bytes": 118410287,
+    "sha256": "2b83037a0af49bc25fdebae37f069d8b263cb9330718ffe44c75c239b8997916"
+  },
+  "compact_mapped_overview": {
+    "path": "Tour_H04_All13_30Pages_Mapped_1024_Overview.mp4",
+    "bytes": 3864050,
+    "sha256": "b7716201000a81666b2b20149b00a0b9d0b384b7ef7e11b6b77cd2fd8dc45da5",
+    "width": 1024,
+    "height": 846,
+    "duration_seconds": 300,
+    "fps": 20,
+    "frames": 6000,
+    "all_frames_fully_decoded": true,
+    "all30_actual_encoded_page_midpoints_visually_reviewed": true
+  },
+  "standalone_projection_atlases": {
+    "root": "deliverables",
+    "count": 30,
+    "resolution": [
+      8192,
+      8192
+    ],
+    "order_manifest": "Tour_Playback_And_Registration_Manifest.json"
+  },
+  "cause_QA": "Fireplace_And_Furniture_Colour_Cause_QA.json",
+  "actual_surface_colour_QA": "Actual_Surface_Colour_And_Coverage_QA.json",
+  "media_QA": "H04_All_Stop_Media_QA.json",
+  "source_QA": "Source_And_H03_Preservation_QA.json",
+  "fireplace_UV_mapped": true,
+  "fireplace_UV_charts": 2756,
+  "fireplace_on_only_in_Commons": true,
+  "fireplace_all12_other_stops_all_pages_RGB_zero": true,
+  "selected_furniture_dimmer_same_room_hue_all13": true,
+  "fixture_top_side_depth_shading_retained": true,
+  "H03_clean_edge_masks_unchanged": true,
+  "all30_official_gym_caption_pixels_match_final_H03": true,
+  "full_official_words_and_balanced_30page_pagination_unchanged": true,
+  "displayed_room_numbers": false,
+  "geometry_UVs_shared_origin_scale_changed": false,
+  "receiver_OBJ_sha256": "b949784cbb3f833d10d82fdd48d469ac3fac1b8ac723f7cc08588ca633a59fba",
+  "protected_source_files_verified": 317,
+  "H03_history_unchanged": true,
+  "physical_projection_or_MadMapper_playback_verified": false,
+  "remaining_limitations": [
+    "Existing registered room-boundary assignments are inherited; no fresh R29 semantic perimeter audit.",
+    "Physical projection/readability and native MadMapper playback untested."
+  ],
+  "remaining_work": [],
+  "publisher_delivery": "No push or Library retry performed; publisher handles external delivery",
+  "new_Library_IDs": [],
+  "package_entry_checks": {
+    "standalone8192projection_atlases": 30,
+    "per_stop_viewing_clips": 13,
+    "full_viewing_overview": 1,
+    "archive_CRC_test_passed": true,
+    "duplicate_archive_entries": 0
+  },
+  "user_visual_style_approval": {
+    "feedback": "all look great",
+    "approved_examples": [
+      "R04 mobile",
+      "H04 Commons early preview",
+      "H04 Cafe early preview"
+    ],
+    "physical_validation_claimed": false
+  }
+}

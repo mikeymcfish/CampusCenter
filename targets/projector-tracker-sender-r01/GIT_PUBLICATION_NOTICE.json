@@ -1,0 +1,4 @@
+{
+  "source_archive_hashes": "See PUBLIC_DOWNLOAD_MANIFEST.json; sealed runtimes and native source unchanged.",
+  "git_text_change": "Removed surplus EOF blank line in copied test_grips.py to pass whitespace check. Original public source archive retained."
+}

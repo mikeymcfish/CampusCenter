@@ -1,0 +1,29 @@
+{
+  "original_copy_file": "Authoritative_Original_User_Copy.json",
+  "original_copy_sha256": "295e5af94a4096d02c88dd7d53c344765d051feb61f0b040e4e3a8867a16e7c5",
+  "original_entries": 14,
+  "usable_combined_stops": 13,
+  "edits": [
+    {
+      "change": "Combine Entry and Reception as one stop",
+      "usable_heading": "Entry + Reception",
+      "body": "Original Entry paragraph followed by original Reception paragraph; only literal instruction suffix \" (combine with entry)\" removed.",
+      "source_entries_1based": [
+        1,
+        4
+      ]
+    },
+    {
+      "change": "Complete explicitly requested ASPIRE placeholder",
+      "original_prefix": "The Advanced Science (complete full name) ASPIRE Seminar Room supports",
+      "replacement_prefix": "The Advanced Science Program for Independent Research and Engineering (ASPIRE) Seminar Room supports",
+      "remaining_description_exactly_preserved": true,
+      "source_entry_1based": 9,
+      "official_source": "https://www.kingschoolct.org/academics/advanced-research-program",
+      "verified_heading": "Advanced Science Program for Independent Research and Engineering (ASPIRE)"
+    }
+  ],
+  "all_other_headings_and_descriptions_exactly_preserved": true,
+  "no_editorial_rewrite": true,
+  "case_punctuation_and_existing_grammar_preserved": true
+}

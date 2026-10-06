@@ -1,0 +1,148 @@
+{
+  "status": "PASS: official gym pages, canonical H03 full-receiver highlight, fresh native reapplication, room mapping and compact viewing validated",
+  "official_title_exact": "The Cafe",
+  "official_body_exact": "The Cafe is designed as a natural gathering place where students, faculty, and visitors can connect and recharge. More than a place to grab something to eat, it supports the relationships and informal conversations that strengthen King’s collaborative and caring community.",
+  "official_paragraphs_exact": [
+    "The Cafe is designed as a natural gathering place where students, faculty, and visitors can connect and recharge. More than a place to grab something to eat, it supports the relationships and informal conversations that strengthen King’s collaborative and caring community."
+  ],
+  "full_official_word_sequence_reconstructs_exactly": true,
+  "paragraph_boundaries_preserved_as_page_boundaries": true,
+  "pages": [
+    {
+      "page": 1,
+      "lines": [
+        "The Cafe is designed as a",
+        "natural gathering place where",
+        "students, faculty, and visitors",
+        "can connect and recharge."
+      ],
+      "official_text_portion": "The Cafe is designed as a natural gathering place where students, faculty, and visitors can connect and recharge.",
+      "atlas": "The_Cafe_Paginated_Page_01_Atlas_8192.png",
+      "atlas_sha256": "2e59cf4f5fc3922ba0a89df2bc5bfb214efdf7a3b21b79e407f2603433161bed",
+      "body_glyph_bounds_px": [
+        [
+          175,
+          654,
+          1620,
+          782
+        ],
+        [
+          175,
+          830,
+          1889,
+          957
+        ],
+        [
+          175,
+          1004,
+          1825,
+          1132
+        ],
+        [
+          175,
+          1180,
+          1687,
+          1307
+        ]
+      ],
+      "caption_surface_texels": 1557104,
+      "source_page": "The_Cafe_Paginated_Page_01_Atlas_8192.png",
+      "caption_pixels_exactly_preserved": true,
+      "fireplace_patch_exactly_preserved": true
+    },
+    {
+      "page": 2,
+      "lines": [
+        "More than a place to grab",
+        "something to eat, it supports",
+        "the relationships and informal",
+        "conversations that strengthen",
+        "King’s collaborative and caring",
+        "community."
+      ],
+      "official_text_portion": "More than a place to grab something to eat, it supports the relationships and informal conversations that strengthen King’s collaborative and caring community.",
+      "atlas": "The_Cafe_Paginated_Page_02_Atlas_8192.png",
+      "atlas_sha256": "ae7b39419954713d6977a78a015ce5aee7a81b9fb91ab19394f70a5560e8fd74",
+      "body_glyph_bounds_px": [
+        [
+          175,
+          655,
+          1670,
+          782
+        ],
+        [
+          175,
+          830,
+          1832,
+          957
+        ],
+        [
+          175,
+          1004,
+          1888,
+          1131
+        ],
+        [
+          175,
+          1180,
+          1884,
+          1307
+        ],
+        [
+          175,
+          1355,
+          1927,
+          1482
+        ],
+        [
+          175,
+          1530,
+          849,
+          1657
+        ]
+      ],
+      "caption_surface_texels": 1557104,
+      "source_page": "The_Cafe_Paginated_Page_02_Atlas_8192.png",
+      "caption_pixels_exactly_preserved": true,
+      "fireplace_patch_exactly_preserved": true
+    }
+  ],
+  "page_count": 2,
+  "page_hold_seconds": 10,
+  "body_font_nominal_model_mm": 13,
+  "body_x_height_at_1024_view_px": 9.16488812392427,
+  "body_capital_height_at_1024_view_px": 12.830843373493977,
+  "caption_bounds_model_mm": [
+    [
+      235,
+      231
+    ],
+    [
+      448,
+      451
+    ]
+  ],
+  "all_caption_pixels_inside_gym_H02_and_world_rectangle": true,
+  "all_caption_pixels_exactly_preserved_from_validated_verbatim_source": true,
+  "caption_receiver_texels": 1557104,
+  "presentation_room_number_labels": false,
+  "stop_id_metadata_only": "HS02",
+  "receiver_OBJ": "CampusCenter_P02plusP03B3_Assembly_1_100_UV02.obj",
+  "receiver_OBJ_sha256": "b949784cbb3f833d10d82fdd48d469ac3fac1b8ac723f7cc08588ca633a59fba",
+  "geometry_UV_origin_or_scale_changed": false,
+  "fixture_normal_height_and_contact_shading_from_actual_unchanged_geometry": true,
+  "restored_fireplace_patch_exactly_matches_hybrid_UV02": true,
+  "highlight_mask": "HS02_World_Clipped_Receiver_Alpha_8192.png",
+  "highlight_mask_sha256": "fbea377d8fa0e13658f001f39a52e0224930e6f8a7598fb7f6ddf397e5ec3534",
+  "highlight_receiver_charts": 231,
+  "highlight_nonzero_receiver_pixels": 234996,
+  "highlight_method": "For every opaque non-underside source triangle, evaluate actual world XY affinely through its original UVs, clip against exact rectilinear room polygons, and rasterize at4x4 alpha coverage. Applies to floor finishes, furniture, wall sides/caps and other receiver surfaces. Two-pixel triangle-chart bleed stays within existing chart rectangles. No whole-triangle room ownership or mesh edits.",
+  "highlight_scope_authority": "Same registered A101 room-footprint polygons, approved H02 hall bounds and native verified gym inner bounds. Stop identities and explicit exclusions unchanged. No new R29 semantic room-boundary audit claimed.",
+  "mask_revision": "H03 canonical full receiver; original H02/P01/R02 untouched",
+  "native_preview_pending": false,
+  "room_highlight_mapping_validation_pending": false,
+  "physical_projector_readability_verified": false,
+  "room_highlight_mapping_QA": "Room_Highlight_World_Mapping_QA.json",
+  "viewing_QA": "Compact_Mapped_Preview_QA.json",
+  "native_QA": "Native_Hybrid_Media_Reapplication_QA.json"
+}

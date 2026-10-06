@@ -1,0 +1,38 @@
+{
+  "status": "PASS: fully decoded compact viewing clip and all native mapped pages/room highlights visually reviewed",
+  "file": "Entry_Reception_Paginated_Gym_Mapped_1024_Viewing_Preview_H03_WorldClipped.mp4",
+  "bytes": 369660,
+  "sha256": "b130265da6d98937387179a32c6e47eac2352f24b913342031fa566b684f06f7",
+  "width": 1024,
+  "height": 846,
+  "fps": 20,
+  "frames": 600,
+  "duration_seconds": 30.0,
+  "page_count": 3,
+  "hold_seconds_each": 10,
+  "actual_native_mapped_images_used": true,
+  "raw_atlas_playback_file": false,
+  "all_preview_frames_decoded": true,
+  "visual_review_pending": false,
+  "physical_projector_readability_verified": false,
+  "codec_probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1024,
+        "height": 846,
+        "r_frame_rate": "20/1",
+        "duration": "30.000000",
+        "nb_read_frames": "600"
+      }
+    ]
+  },
+  "visual_review_pages": [
+    1,
+    2,
+    3
+  ],
+  "visual_review_reference": "../Review_Sheets/Entry_Reception_Combined_Caption_And_Room_Review.png"
+}

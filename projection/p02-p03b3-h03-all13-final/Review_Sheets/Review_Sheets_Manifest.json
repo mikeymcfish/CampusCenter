@@ -1,0 +1,337 @@
+{
+  "receiver": "unchanged UV02 1:100",
+  "reviews": [
+    {
+      "stop_id_metadata_only": "HS01",
+      "official_title": "Entry + Reception",
+      "pages": 3,
+      "caption_sheet": "Entry_Reception_All_Page_Captions_Actual_Native_Crops.png",
+      "room_mapping_crop": "Entry_Reception_Actual_Native_Room_Highlight_Crop.png",
+      "combined_review": "Entry_Reception_Combined_Caption_And_Room_Review.png",
+      "source_native_images": [
+        "Entry_Reception_Paginated_Page_01_Native_Mapped_Preview.png",
+        "Entry_Reception_Paginated_Page_02_Native_Mapped_Preview.png",
+        "Entry_Reception_Paginated_Page_03_Native_Mapped_Preview.png"
+      ],
+      "caption_crop_native_box": [
+        700,
+        223,
+        1309,
+        851
+      ],
+      "room_crop_native_box": [
+        1690,
+        1008,
+        1914,
+        1310
+      ],
+      "resampling": false
+    },
+    {
+      "stop_id_metadata_only": "HS02",
+      "official_title": "The Cafe",
+      "pages": 2,
+      "caption_sheet": "The_Cafe_All_Page_Captions_Actual_Native_Crops.png",
+      "room_mapping_crop": "The_Cafe_Actual_Native_Room_Highlight_Crop.png",
+      "combined_review": "The_Cafe_Combined_Caption_And_Room_Review.png",
+      "source_native_images": [
+        "The_Cafe_Paginated_Page_01_Native_Mapped_Preview.png",
+        "The_Cafe_Paginated_Page_02_Native_Mapped_Preview.png"
+      ],
+      "caption_crop_native_box": [
+        700,
+        223,
+        1309,
+        851
+      ],
+      "room_crop_native_box": [
+        1694,
+        848,
+        1844,
+        1035
+      ],
+      "resampling": false
+    },
+    {
+      "stop_id_metadata_only": "HS03",
+      "official_title": "The Student Commons",
+      "pages": 2,
+      "caption_sheet": "The_Student_Commons_All_Page_Captions_Actual_Native_Crops.png",
+      "room_mapping_crop": "The_Student_Commons_Actual_Native_Room_Highlight_Crop.png",
+      "combined_review": "The_Student_Commons_Combined_Caption_And_Room_Review.png",
+      "source_native_images": [
+        "The_Student_Commons_Paginated_Page_01_Native_Mapped_Preview.png",
+        "The_Student_Commons_Paginated_Page_02_Native_Mapped_Preview.png"
+      ],
+      "caption_crop_native_box": [
+        700,
+        223,
+        1309,
+        851
+      ],
+      "room_crop_native_box": [
+        1353,
+        546,
+        1844,
+        986
+      ],
+      "resampling": false
+    },
+    {
+      "stop_id_metadata_only": "HS04",
+      "official_title": "Admissions Office",
+      "pages": 3,
+      "caption_sheet": "Admissions_Office_All_Page_Captions_Actual_Native_Crops.png",
+      "room_mapping_crop": "Admissions_Office_Actual_Native_Room_Highlight_Crop.png",
+      "combined_review": "Admissions_Office_Combined_Caption_And_Room_Review.png",
+      "source_native_images": [
+        "Admissions_Office_Paginated_Page_01_Native_Mapped_Preview.png",
+        "Admissions_Office_Paginated_Page_02_Native_Mapped_Preview.png",
+        "Admissions_Office_Paginated_Page_03_Native_Mapped_Preview.png"
+      ],
+      "caption_crop_native_box": [
+        700,
+        223,
+        1309,
+        851
+      ],
+      "room_crop_native_box": [
+        1693,
+        1287,
+        1844,
+        1434
+      ],
+      "resampling": false
+    },
+    {
+      "stop_id_metadata_only": "HS05",
+      "official_title": "CRI Gallery",
+      "pages": 2,
+      "caption_sheet": "CRI_Gallery_All_Page_Captions_Actual_Native_Crops.png",
+      "room_mapping_crop": "CRI_Gallery_Actual_Native_Room_Highlight_Crop.png",
+      "combined_review": "CRI_Gallery_Combined_Caption_And_Room_Review.png",
+      "source_native_images": [
+        "CRI_Gallery_Paginated_Page_01_Native_Mapped_Preview.png",
+        "CRI_Gallery_Paginated_Page_02_Native_Mapped_Preview.png"
+      ],
+      "caption_crop_native_box": [
+        700,
+        223,
+        1309,
+        851
+      ],
+      "room_crop_native_box": [
+        1356,
+        1173,
+        1717,
+        1434
+      ],
+      "resampling": false
+    },
+    {
+      "stop_id_metadata_only": "HS06",
+      "official_title": "Corridor / Display Hall",
+      "pages": 2,
+      "caption_sheet": "Corridor_Display_Hall_All_Page_Captions_Actual_Native_Crops.png",
+      "room_mapping_crop": "Corridor_Display_Hall_Actual_Native_Room_Highlight_Crop.png",
+      "combined_review": "Corridor_Display_Hall_Combined_Caption_And_Room_Review.png",
+      "source_native_images": [
+        "Corridor_Display_Hall_Paginated_Page_01_Native_Mapped_Preview.png",
+        "Corridor_Display_Hall_Paginated_Page_02_Native_Mapped_Preview.png"
+      ],
+      "caption_crop_native_box": [
+        700,
+        223,
+        1309,
+        851
+      ],
+      "room_crop_native_box": [
+        1029,
+        958,
+        1844,
+        1169
+      ],
+      "resampling": false
+    },
+    {
+      "stop_id_metadata_only": "HS07",
+      "official_title": "Innovation Lab",
+      "pages": 2,
+      "caption_sheet": "Innovation_Lab_All_Page_Captions_Actual_Native_Crops.png",
+      "room_mapping_crop": "Innovation_Lab_Actual_Native_Room_Highlight_Crop.png",
+      "combined_review": "Innovation_Lab_Combined_Caption_And_Room_Review.png",
+      "source_native_images": [
+        "Innovation_Lab_Paginated_Page_01_Native_Mapped_Preview.png",
+        "Innovation_Lab_Paginated_Page_02_Native_Mapped_Preview.png"
+      ],
+      "caption_crop_native_box": [
+        700,
+        223,
+        1309,
+        851
+      ],
+      "room_crop_native_box": [
+        1030,
+        1141,
+        1377,
+        1450
+      ],
+      "resampling": false
+    },
+    {
+      "stop_id_metadata_only": "HS08",
+      "official_title": "ASPIRE Seminar Room",
+      "pages": 3,
+      "caption_sheet": "ASPIRE_Seminar_Room_All_Page_Captions_Actual_Native_Crops.png",
+      "room_mapping_crop": "ASPIRE_Seminar_Room_Actual_Native_Room_Highlight_Crop.png",
+      "combined_review": "ASPIRE_Seminar_Room_Combined_Caption_And_Room_Review.png",
+      "source_native_images": [
+        "ASPIRE_Seminar_Room_Paginated_Page_01_Native_Mapped_Preview.png",
+        "ASPIRE_Seminar_Room_Paginated_Page_02_Native_Mapped_Preview.png",
+        "ASPIRE_Seminar_Room_Paginated_Page_03_Native_Mapped_Preview.png"
+      ],
+      "caption_crop_native_box": [
+        700,
+        223,
+        1309,
+        851
+      ],
+      "room_crop_native_box": [
+        762,
+        1040,
+        955,
+        1270
+      ],
+      "resampling": false
+    },
+    {
+      "stop_id_metadata_only": "HS09",
+      "official_title": "Collaboration Room",
+      "pages": 2,
+      "caption_sheet": "Collaboration_Room_All_Page_Captions_Actual_Native_Crops.png",
+      "room_mapping_crop": "Collaboration_Room_Actual_Native_Room_Highlight_Crop.png",
+      "combined_review": "Collaboration_Room_Combined_Caption_And_Room_Review.png",
+      "source_native_images": [
+        "Collaboration_Room_Paginated_Page_01_Native_Mapped_Preview.png",
+        "Collaboration_Room_Paginated_Page_02_Native_Mapped_Preview.png"
+      ],
+      "caption_crop_native_box": [
+        700,
+        223,
+        1309,
+        851
+      ],
+      "room_crop_native_box": [
+        614,
+        1040,
+        787,
+        1270
+      ],
+      "resampling": false
+    },
+    {
+      "stop_id_metadata_only": "HS10",
+      "official_title": "Trophy Hall / Corridor",
+      "pages": 2,
+      "caption_sheet": "Trophy_Hall_Corridor_All_Page_Captions_Actual_Native_Crops.png",
+      "room_mapping_crop": "Trophy_Hall_Corridor_Actual_Native_Room_Highlight_Crop.png",
+      "combined_review": "Trophy_Hall_Corridor_Combined_Caption_And_Room_Review.png",
+      "source_native_images": [
+        "Trophy_Hall_Corridor_Paginated_Page_01_Native_Mapped_Preview.png",
+        "Trophy_Hall_Corridor_Paginated_Page_02_Native_Mapped_Preview.png"
+      ],
+      "caption_crop_native_box": [
+        700,
+        223,
+        1309,
+        851
+      ],
+      "room_crop_native_box": [
+        499,
+        595,
+        656,
+        986
+      ],
+      "resampling": false
+    },
+    {
+      "stop_id_metadata_only": "HS11",
+      "official_title": "Athletics Office",
+      "pages": 2,
+      "caption_sheet": "Athletics_Office_All_Page_Captions_Actual_Native_Crops.png",
+      "room_mapping_crop": "Athletics_Office_Actual_Native_Room_Highlight_Crop.png",
+      "combined_review": "Athletics_Office_Combined_Caption_And_Room_Review.png",
+      "source_native_images": [
+        "Athletics_Office_Paginated_Page_01_Native_Mapped_Preview.png",
+        "Athletics_Office_Paginated_Page_02_Native_Mapped_Preview.png"
+      ],
+      "caption_crop_native_box": [
+        700,
+        223,
+        1309,
+        851
+      ],
+      "room_crop_native_box": [
+        302,
+        307,
+        486,
+        550
+      ],
+      "resampling": false
+    },
+    {
+      "stop_id_metadata_only": "HS12",
+      "official_title": "Athletics Trainers\u2019 Room",
+      "pages": 2,
+      "caption_sheet": "Athletics_Trainers_Room_All_Page_Captions_Actual_Native_Crops.png",
+      "room_mapping_crop": "Athletics_Trainers_Room_Actual_Native_Room_Highlight_Crop.png",
+      "combined_review": "Athletics_Trainers_Room_Combined_Caption_And_Room_Review.png",
+      "source_native_images": [
+        "Athletics_Trainers_Room_Paginated_Page_01_Native_Mapped_Preview.png",
+        "Athletics_Trainers_Room_Paginated_Page_02_Native_Mapped_Preview.png"
+      ],
+      "caption_crop_native_box": [
+        700,
+        223,
+        1309,
+        851
+      ],
+      "room_crop_native_box": [
+        74,
+        307,
+        246,
+        550
+      ],
+      "resampling": false
+    },
+    {
+      "stop_id_metadata_only": "HS13",
+      "official_title": "Gym",
+      "pages": 3,
+      "caption_sheet": "Gym_All_Page_Captions_Actual_Native_Crops.png",
+      "room_mapping_crop": "Gym_Actual_Native_Room_Highlight_Crop.png",
+      "combined_review": "Gym_Combined_Caption_And_Room_Review.png",
+      "source_native_images": [
+        "Gym_Paginated_Page_01_Native_Mapped_Preview.png",
+        "Gym_Paginated_Page_02_Native_Mapped_Preview.png",
+        "Gym_Paginated_Page_03_Native_Mapped_Preview.png"
+      ],
+      "caption_crop_native_box": [
+        700,
+        223,
+        1309,
+        851
+      ],
+      "room_crop_native_box": [
+        632,
+        92,
+        1372,
+        982
+      ],
+      "resampling": false
+    }
+  ],
+  "review_complete": true,
+  "reviewed_all_caption_pages": 30,
+  "reviewed_room_highlights": 13
+}

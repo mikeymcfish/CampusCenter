@@ -1,0 +1,51 @@
+{
+  "base": "R29 Vive grip R01 native / source, retained original config and inputs",
+  "files": {
+    "CampusCenter.uproject": {
+      "sha256": "b4301622131635df5d1e220977c7600c996d082eae81cf9f1f5e02eb39aa7c7b",
+      "expected_existing_sha256": "226c7da1f7110c83d7e3f00707bbbbd55230bb7e77827b08453134456529b7f0"
+    },
+    "Plugins/CampusCrowdFix/CampusCrowdFix.uplugin": {
+      "sha256": "6e38381f4722f800f8c9d87256ad667577e7610e02fe79ae11f122bd5b6ac0b7",
+      "expected_existing_sha256": "48dfe13c97580f88a0194c3a50a84c4a4301593f9234333dc0f717dcebfda5db"
+    },
+    "Plugins/CampusCrowdFix/Source/CampusCrowdFix/CampusCrowdFix.Build.cs": {
+      "sha256": "d6b7946605c73ade45ba0b2db6b9b82a1ddbf3fbd578206e30ea2597f802e400",
+      "expected_existing_sha256": "6685775991cfa67f359997c5fc827f44e590b48895f8c727e102556be463091e"
+    },
+    "Plugins/CampusCrowdFix/Source/CampusCrowdFix/Public/CampusProjectorSender.h": {
+      "sha256": "853d402bba879c1e8a80c01afdf6a90134f95bf0f23865b44d462b7c9f20e6a7",
+      "expected_existing_sha256": null
+    },
+    "Plugins/CampusCrowdFix/Source/CampusCrowdFix/Private/CampusProjectorSender.cpp": {
+      "sha256": "1605d3583233028331d0ca95500411ebdd5028e30233e7383b792067b7200cca",
+      "expected_existing_sha256": null
+    },
+    "Source/CampusCenter.Build.cs": {
+      "sha256": "4ddfdde466a83cfbfed003d194e85bbfc24b606b9686a26bc451b73b6e2be923",
+      "expected_existing_sha256": null
+    },
+    "Source/CampusCenter.cpp": {
+      "sha256": "2c3f1a4ed7df378b8e786a49b6f31fc86a1035fc9f09037aadb55ccdb3cab8aa",
+      "expected_existing_sha256": null
+    },
+    "Source/CampusCenter.Target.cs": {
+      "sha256": "59c975352d20dddc80bdc40c51e2f1304ed91971657dd174b9c9f73c77105e62",
+      "expected_existing_sha256": null
+    },
+    "Source/CampusCenterClient.Target.cs": {
+      "sha256": "ed3f21929373ede0f71ae86b8d0b212769254d4de58274d38b5277420f1a8f3c",
+      "expected_existing_sha256": null
+    },
+    "Source/CampusCenterEditor.Target.cs": {
+      "sha256": "08bcb21f3255d39639f6dc8dbb3136f9627db3834d5e06cf2406fa9dbca41bbf",
+      "expected_existing_sha256": null
+    },
+    "Source/CampusCenterServer.Target.cs": {
+      "sha256": "f4d8d172c3f7e72fb2a1cb08a2b058dae47e003dde545a8d811e46ff54d53659",
+      "expected_existing_sha256": null
+    }
+  },
+  "integration_root": "corresponding unreal/unreal_project or codex/vr project; verify guards; preserve target-specific settings",
+  "no_maps_or_config_included": true
+}

@@ -1,0 +1,142 @@
+{
+  "status": "PASS: final whole-model Ripple test ready",
+  "package_path": "CampusCenter_UV02_Ripple_R03_WholeModel_Connected_Final_Test.zip",
+  "package_bytes": 471527500,
+  "package_sha256": "505a49df7a50ad58fba842c57373f84135464325b28ad098394c10d677bc05d5",
+  "raw_atlas": {
+    "path": "Ripple_R03_WholeModel_Connected_UV02_1_100_4096_HAP.mov",
+    "bytes": 752774792,
+    "sha256": "914751534334c8a15a54722c031913ad1bd28c3fe68c5e6ff721d8fec6b7c14f",
+    "resolution": 4096,
+    "fps": 20,
+    "frames": 800,
+    "duration_seconds": 40
+  },
+  "compact_viewing": {
+    "status": "PASS: actual atlas and compact videos fully decoded; mapped keyframes visually reviewed; six fresh Blender reapplications passed",
+    "file": "Ripple_R03_WholeModel_Connected_Mapped_1024_Viewing_Preview.mp4",
+    "bytes": 12712688,
+    "sha256": "5da719133f7acca361c2ce90fa2ee7364303fa1d9f220dd0c6cb1ea443ba384a",
+    "width": 1024,
+    "height": 846,
+    "fps": 20,
+    "frames": 800,
+    "duration_seconds": 40.0,
+    "raw_atlas_playback_file": false,
+    "actual_primary_movie": "Ripple_R03_WholeModel_Connected_UV02_1_100_4096_HAP.mov",
+    "actual_primary_movie_sha256": "914751534334c8a15a54722c031913ad1bd28c3fe68c5e6ff721d8fec6b7c14f",
+    "all_primary_atlas_movie_frames_decoded": 800,
+    "actual_decoded_primary_first_and_last_frames_equal_after_natural_decay": true,
+    "all_compact_preview_frames_decoded": true,
+    "projection_reference": "Exact receiver triangles and UVs, including restored fireplace visibility; unchanged +Z orthographic view",
+    "invisible_room_boundary_reflections": false,
+    "keyframe_lossy_codec_error": [
+      {
+        "frame": 0,
+        "HAP_lossy_mean_absolute_RGB_byte_error": 0.3379385670026143,
+        "HAP_lossy_max_RGB_byte_error": 35
+      },
+      {
+        "frame": 60,
+        "HAP_lossy_mean_absolute_RGB_byte_error": 0.3784676790237427,
+        "HAP_lossy_max_RGB_byte_error": 49
+      },
+      {
+        "frame": 120,
+        "HAP_lossy_mean_absolute_RGB_byte_error": 0.4239156246185303,
+        "HAP_lossy_max_RGB_byte_error": 51
+      },
+      {
+        "frame": 200,
+        "HAP_lossy_mean_absolute_RGB_byte_error": 0.39509036143620807,
+        "HAP_lossy_max_RGB_byte_error": 49
+      },
+      {
+        "frame": 400,
+        "HAP_lossy_mean_absolute_RGB_byte_error": 0.33764636516571045,
+        "HAP_lossy_max_RGB_byte_error": 35
+      },
+      {
+        "frame": 799,
+        "HAP_lossy_mean_absolute_RGB_byte_error": 0.3379385670026143,
+        "HAP_lossy_max_RGB_byte_error": 35
+      }
+    ],
+    "physical_projection_or_MadMapper_playback_verified": false,
+    "visual_review_pending": false,
+    "codec_probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 1024,
+          "height": 846,
+          "r_frame_rate": "20/1",
+          "duration": "40.000000",
+          "nb_read_frames": "800"
+        }
+      ]
+    },
+    "mapped_visual_review_frames": [
+      60,
+      120,
+      200,
+      799
+    ],
+    "mapped_visual_review": "Brighter cyan rings and trough detail remain distinct; actual fixtures/fireplace visible; natural quiet ending. No room-label flux barriers.",
+    "native_reapplication_pending": false,
+    "native_visual_review_frames": [
+      120
+    ]
+  },
+  "native_reapplication": {
+    "QA": "Native_Hybrid_Media_Reapplication_QA.json",
+    "keyframes": 6,
+    "status": "PASS"
+  },
+  "coverage_and_limits": {
+    "status": "PASS with documented source limitations",
+    "physically_connected_domains": 56,
+    "source_events": 77,
+    "floor_atlas_texels_in_solved_domains": 1298084,
+    "meaningful_free_floor_cells": 841555,
+    "unexcited_tiny_cells": 75,
+    "unexcited_tiny_area_model_mm2": 18.75,
+    "tiny_pocket_area_each_less_than_model_mm2": 2,
+    "unclosed_native_surface_only_barrier_warnings": 7,
+    "unclosed_native_actors": [
+      "StaticMeshActor_684",
+      "StaticMeshActor_687",
+      "StaticMeshActor_690",
+      "StaticMeshActor_693",
+      "StaticMeshActor_696",
+      "StaticMeshActor_140",
+      "StaticMeshActor_2013"
+    ],
+    "label_boundaries_have_no_solver_barriers": true,
+    "Commons_Cafe_open_neighbor_flux_edges": 137,
+    "all_open_label_neighbor_flux_edges": 2380,
+    "actual_geometry_water_slab_model_mm": [
+      4.25,
+      5.2
+    ],
+    "tabletops_not_floor_level_water_barriers": true,
+    "existing_fixtures_and_fireplace_static_depth_shaded": true,
+    "source_warning_geometry_preserved_not_invented_closed": true,
+    "full_hydraulic_liquid_or_vertical_wall_flooding_simulated": false,
+    "no_geometry_or_printing_changes": true
+  },
+  "preservation": {
+    "status": "PASS",
+    "protected_source_files_verified": 317,
+    "changed_protected_source_files": [],
+    "hybrid_receiver_sha256": "b949784cbb3f833d10d82fdd48d469ac3fac1b8ac723f7cc08588ca633a59fba",
+    "original_Unreal_or_Blender_saved": false,
+    "print_geometry_UV_scale_or_origin_changed": false
+  },
+  "publisher_delivery": "No GitHub push or Library retry here; publisher handles delivery",
+  "new_Library_IDs": [],
+  "remaining_Ripple_work": [],
+  "physical_projection_or_MadMapper_playback_verified": false
+}

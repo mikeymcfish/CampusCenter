@@ -1,0 +1,94 @@
+{
+  "status": "Disclosed inherited reference-boundary limitations; no unresolved stop identity choice",
+  "identity_basis": "Existing A101 plan identity verification, frozen H01/H02 selection approvals and source evidence notes. H03 changes alpha coverage, not native room naming or print geometry.",
+  "all13_stop_identity_codes": [
+    {
+      "official_title": "Entry + Reception",
+      "approved_room_codes": [
+        "100",
+        "103"
+      ]
+    },
+    {
+      "official_title": "The Cafe",
+      "approved_room_codes": [
+        "101"
+      ]
+    },
+    {
+      "official_title": "The Student Commons",
+      "approved_room_codes": [
+        "102"
+      ]
+    },
+    {
+      "official_title": "Admissions Office",
+      "approved_room_codes": [
+        "104"
+      ]
+    },
+    {
+      "official_title": "CRI Gallery",
+      "approved_room_codes": [
+        "105"
+      ]
+    },
+    {
+      "official_title": "Corridor / Display Hall",
+      "approved_room_codes": [
+        "106"
+      ]
+    },
+    {
+      "official_title": "Innovation Lab",
+      "approved_room_codes": [
+        "108"
+      ]
+    },
+    {
+      "official_title": "ASPIRE Seminar Room",
+      "approved_room_codes": [
+        "112"
+      ]
+    },
+    {
+      "official_title": "Collaboration Room",
+      "approved_room_codes": [
+        "113"
+      ]
+    },
+    {
+      "official_title": "Trophy Hall / Corridor",
+      "approved_room_codes": [
+        "123"
+      ]
+    },
+    {
+      "official_title": "Athletics Office",
+      "approved_room_codes": [
+        "124",
+        "125",
+        "126"
+      ]
+    },
+    {
+      "official_title": "Athletics Trainers’ Room",
+      "approved_room_codes": [
+        "129"
+      ]
+    },
+    {
+      "official_title": "Gym",
+      "approved_room_codes": [
+        "GYM"
+      ]
+    }
+  ],
+  "inherited_boundary_limit": "Open Cafe/Commons/Gallery/Display divisions and shared wall/fixture caps remain registered reference assignments. H03 polygons derive frozen registered A101 footprints, with approved H02 numbered hall limits and native gym inner bounds. Exact clipping against these polygons does not constitute a fresh semantic audit of every latest R29 native room perimeter.",
+  "approved_explicit_choices": "Athletics Office includes124,125,126. Trainers selects129;127/128 excluded. Display106/Trophy123 stay inside approved numbered domains; adjoining110/130/131 excluded. Entry100+Reception103 combined; Cafe101 and Commons102 remain separate.",
+  "virtual_boundary_vs_physics": "The H03 virtual highlight boundaries select light only. They add no wall or reflection barrier; R03/R04 Ripple connectivity uses actual geometry.",
+  "metadata_room_codes_displayed_in_user_graphics": false,
+  "source_evidence_path": "Source_Evidence_and_Identity_Notes.json",
+  "H02_contract_path": "Boundary_Ownership_Contract.json",
+  "R29_reaudit_claimed": false
+}

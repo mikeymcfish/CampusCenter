@@ -1,0 +1,32 @@
+{
+  "status": "PASS with documented source limitations",
+  "physically_connected_domains": 56,
+  "source_events": 77,
+  "floor_atlas_texels_in_solved_domains": 1298084,
+  "meaningful_free_floor_cells": 841555,
+  "unexcited_tiny_cells": 75,
+  "unexcited_tiny_area_model_mm2": 18.75,
+  "tiny_pocket_area_each_less_than_model_mm2": 2,
+  "unclosed_native_surface_only_barrier_warnings": 7,
+  "unclosed_native_actors": [
+    "StaticMeshActor_684",
+    "StaticMeshActor_687",
+    "StaticMeshActor_690",
+    "StaticMeshActor_693",
+    "StaticMeshActor_696",
+    "StaticMeshActor_140",
+    "StaticMeshActor_2013"
+  ],
+  "label_boundaries_have_no_solver_barriers": true,
+  "Commons_Cafe_open_neighbor_flux_edges": 137,
+  "all_open_label_neighbor_flux_edges": 2380,
+  "actual_geometry_water_slab_model_mm": [
+    4.25,
+    5.2
+  ],
+  "tabletops_not_floor_level_water_barriers": true,
+  "existing_fixtures_and_fireplace_static_depth_shaded": true,
+  "source_warning_geometry_preserved_not_invented_closed": true,
+  "full_hydraulic_liquid_or_vertical_wall_flooding_simulated": false,
+  "no_geometry_or_printing_changes": true
+}

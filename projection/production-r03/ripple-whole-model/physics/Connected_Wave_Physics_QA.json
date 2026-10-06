@@ -1,0 +1,1545 @@
+{
+  "status": "PASS: full-model actual geometry-connected waves transmit across open label boundaries, reflect at real obstacles and decay naturally",
+  "fps": 20,
+  "duration_seconds": 40,
+  "stored_states": 801,
+  "grid_pitch_model_mm": 0.5,
+  "solver_time_step_seconds": 0.0125,
+  "solver_substeps_per_video_frame": 4,
+  "solver_numeric_precision": "float64 conservative flux and compact zero-sum forcing; stored output height fields float32",
+  "artistic_wave_speed_model_mm_per_second": 25.0,
+  "damping_velocity_per_second": 0.8,
+  "behaviour_tests": {
+    "inter_basin_transfer_max_abs_height_mm": 0.0,
+    "barrier_cells_height_and_velocity_exact_zero": true,
+    "edge_flux_at_walls_exact_zero_by_no_connection": true,
+    "returning_closed_wall_probe_amplitude_mm": 0.8074203133583069,
+    "reflection_probe_passed": true,
+    "CFL_number": 0.625,
+    "2D_stability_limit": 0.7071067811865475,
+    "solver_method": "Symplectic damped height-field wave equation; symmetric finite-volume neighbour flux. Removed domain neighbour means no flow / reflecting Neumann wall, not a post-render mask.",
+    "full_liquid_flow_splashes_or_overtopping_simulated": false
+  },
+  "Commons_Cafe_transmission_QA": {
+    "status": "PASS: actual Commons/Cafe open boundary transmits the solved wave",
+    "actual_free_Commons_Cafe_neighbor_edges": 137,
+    "all_open_room_label_neighbor_edges_with_solver_flux_connections": 2380,
+    "artificial_label_barrier_edges": 0,
+    "test_source_point_model_mm": [
+      586.75,
+      200.75
+    ],
+    "test_edge_model_mm": [
+      590.75,
+      200.75
+    ],
+    "Cafe_max_abs_height_from_Commons_only_impulse_mm": 0.027697105999506328,
+    "test_duration_seconds": 2.0,
+    "labels_used_in_laplacian_or_flux": false,
+    "geometry_domain_crop_used": true
+  },
+  "components": [
+    {
+      "name": "Connected_B001",
+      "source_events": [
+        {
+          "reference_owner": 0,
+          "point_model_mm": [
+            308.75,
+            78.25
+          ],
+          "time_seconds": 0.5
+        },
+        {
+          "reference_owner": 101,
+          "point_model_mm": [
+            596.25,
+            215.25
+          ],
+          "time_seconds": 0.6290322580645161
+        },
+        {
+          "reference_owner": 102,
+          "point_model_mm": [
+            477.75,
+            228.75
+          ],
+          "time_seconds": 0.6935483870967742
+        },
+        {
+          "reference_owner": 103,
+          "point_model_mm": [
+            594.75,
+            113.75
+          ],
+          "time_seconds": 0.7580645161290323
+        },
+        {
+          "reference_owner": 105,
+          "point_model_mm": [
+            476.75,
+            105.25
+          ],
+          "time_seconds": 0.8870967741935484
+        },
+        {
+          "reference_owner": 106,
+          "point_model_mm": [
+            373.75,
+            179.25
+          ],
+          "time_seconds": 0.9516129032258065
+        },
+        {
+          "reference_owner": 110,
+          "point_model_mm": [
+            281.25,
+            179.75
+          ],
+          "time_seconds": 1.1451612903225805
+        },
+        {
+          "reference_owner": 111,
+          "point_model_mm": [
+            339.25,
+            141.75
+          ],
+          "time_seconds": 1.2096774193548387
+        },
+        {
+          "reference_owner": 112,
+          "point_model_mm": [
+            281.25,
+            151.75
+          ],
+          "time_seconds": 1.2741935483870968
+        },
+        {
+          "reference_owner": 113,
+          "point_model_mm": [
+            253.75,
+            152.25
+          ],
+          "time_seconds": 1.338709677419355
+        },
+        {
+          "reference_owner": 123,
+          "point_model_mm": [
+            205.75,
+            216.75
+          ],
+          "time_seconds": 1.9838709677419355
+        },
+        {
+          "reference_owner": 129,
+          "point_model_mm": [
+            61.75,
+            358.25
+          ],
+          "time_seconds": 2.370967741935484
+        },
+        {
+          "reference_owner": 130,
+          "point_model_mm": [
+            163.25,
+            322.25
+          ],
+          "time_seconds": 2.435483870967742
+        }
+      ],
+      "peak_height_mm": 0.5679563935548525,
+      "final_max_abs_height_mm": 8.787871469139786e-06,
+      "final_energy_fraction_of_impulses": 5.387962997265761e-13,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B002",
+      "source_events": [
+        {
+          "reference_owner": 0,
+          "point_model_mm": [
+            254.75,
+            188.25
+          ],
+          "time_seconds": 0.5
+        },
+        {
+          "reference_owner": 123,
+          "point_model_mm": [
+            214.25,
+            353.25
+          ],
+          "time_seconds": 1.9838709677419355
+        },
+        {
+          "reference_owner": 999,
+          "point_model_mm": [
+            322.75,
+            349.75
+          ],
+          "time_seconds": 2.5
+        }
+      ],
+      "peak_height_mm": 0.4733009067457811,
+      "final_max_abs_height_mm": 5.358794754051778e-08,
+      "final_energy_fraction_of_impulses": 9.978549374127166e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B003",
+      "source_events": [
+        {
+          "reference_owner": 108,
+          "point_model_mm": [
+            404.25,
+            74.75
+          ],
+          "time_seconds": 1.0161290322580645
+        }
+      ],
+      "peak_height_mm": 0.4737169726592365,
+      "final_max_abs_height_mm": 1.3539474518874517e-08,
+      "final_energy_fraction_of_impulses": 2.8704362277594117e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B004",
+      "source_events": [
+        {
+          "reference_owner": 0,
+          "point_model_mm": [
+            63.75,
+            133.25
+          ],
+          "time_seconds": 0.5
+        },
+        {
+          "reference_owner": 114,
+          "point_model_mm": [
+            142.25,
+            129.25
+          ],
+          "time_seconds": 1.403225806451613
+        },
+        {
+          "reference_owner": 115,
+          "point_model_mm": [
+            80.75,
+            165.25
+          ],
+          "time_seconds": 1.467741935483871
+        },
+        {
+          "reference_owner": 118,
+          "point_model_mm": [
+            63.75,
+            143.25
+          ],
+          "time_seconds": 1.6612903225806452
+        },
+        {
+          "reference_owner": 119,
+          "point_model_mm": [
+            47.25,
+            139.25
+          ],
+          "time_seconds": 1.7258064516129032
+        },
+        {
+          "reference_owner": 120,
+          "point_model_mm": [
+            63.75,
+            131.25
+          ],
+          "time_seconds": 1.7903225806451613
+        }
+      ],
+      "peak_height_mm": 0.48909895132921394,
+      "final_max_abs_height_mm": 2.974348040037706e-06,
+      "final_energy_fraction_of_impulses": 9.640653837128e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B005",
+      "source_events": [
+        {
+          "reference_owner": 122,
+          "point_model_mm": [
+            108.75,
+            292.75
+          ],
+          "time_seconds": 1.9193548387096775
+        }
+      ],
+      "peak_height_mm": 0.47371697265923635,
+      "final_max_abs_height_mm": 2.831437307022861e-08,
+      "final_energy_fraction_of_impulses": 6.116962462297784e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B006",
+      "source_events": [
+        {
+          "reference_owner": 121,
+          "point_model_mm": [
+            109.25,
+            227.25
+          ],
+          "time_seconds": 1.8548387096774193
+        }
+      ],
+      "peak_height_mm": 0.4813378285271778,
+      "final_max_abs_height_mm": 3.018489908081042e-08,
+      "final_energy_fraction_of_impulses": 5.85049368657789e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B007",
+      "source_events": [
+        {
+          "reference_owner": 0,
+          "point_model_mm": [
+            532.25,
+            351.75
+          ],
+          "time_seconds": 0.5
+        }
+      ],
+      "peak_height_mm": 0.48133782852717777,
+      "final_max_abs_height_mm": 1.9263652024231212e-05,
+      "final_energy_fraction_of_impulses": 5.812981416443313e-12,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B008",
+      "source_events": [
+        {
+          "reference_owner": 117,
+          "point_model_mm": [
+            81.25,
+            130.25
+          ],
+          "time_seconds": 1.596774193548387
+        }
+      ],
+      "peak_height_mm": 0.47330090674578107,
+      "final_max_abs_height_mm": 4.296822914639507e-08,
+      "final_energy_fraction_of_impulses": 4.507220085925437e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B009",
+      "source_events": [
+        {
+          "reference_owner": 0,
+          "point_model_mm": [
+            30.25,
+            284.25
+          ],
+          "time_seconds": 0.5
+        }
+      ],
+      "peak_height_mm": 0.48133782852717777,
+      "final_max_abs_height_mm": 2.1515403815479783e-08,
+      "final_energy_fraction_of_impulses": 1.8660533424153947e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B010",
+      "source_events": [
+        {
+          "reference_owner": 0,
+          "point_model_mm": [
+            30.25,
+            218.75
+          ],
+          "time_seconds": 0.5
+        }
+      ],
+      "peak_height_mm": 0.4813378285271777,
+      "final_max_abs_height_mm": 2.201009513999788e-08,
+      "final_energy_fraction_of_impulses": 1.908783907497834e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B011",
+      "source_events": [
+        {
+          "reference_owner": 116,
+          "point_model_mm": [
+            116.75,
+            130.25
+          ],
+          "time_seconds": 1.532258064516129
+        }
+      ],
+      "peak_height_mm": 0.45141062398796533,
+      "final_max_abs_height_mm": 3.6308392093116664e-08,
+      "final_energy_fraction_of_impulses": 4.2777590779603206e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B012",
+      "source_events": [
+        {
+          "reference_owner": 125,
+          "point_model_mm": [
+            122.75,
+            399.75
+          ],
+          "time_seconds": 2.1129032258064515
+        }
+      ],
+      "peak_height_mm": 0.47371697265923657,
+      "final_max_abs_height_mm": 5.880341125827684e-08,
+      "final_energy_fraction_of_impulses": 7.014390072307335e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B013",
+      "source_events": [
+        {
+          "reference_owner": 0,
+          "point_model_mm": [
+            559.25,
+            15.25
+          ],
+          "time_seconds": 0.5
+        }
+      ],
+      "peak_height_mm": 0.4813378285271776,
+      "final_max_abs_height_mm": 3.4694418225856276e-06,
+      "final_energy_fraction_of_impulses": 2.465521613348107e-13,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B014",
+      "source_events": [
+        {
+          "reference_owner": 0,
+          "point_model_mm": [
+            590.75,
+            59.25
+          ],
+          "time_seconds": 0.5
+        },
+        {
+          "reference_owner": 104,
+          "point_model_mm": [
+            604.75,
+            53.25
+          ],
+          "time_seconds": 0.8225806451612903
+        }
+      ],
+      "peak_height_mm": 0.4291194099665638,
+      "final_max_abs_height_mm": 2.8152620699304752e-08,
+      "final_energy_fraction_of_impulses": 2.6337707742595706e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B015",
+      "source_events": [
+        {
+          "reference_owner": 0,
+          "point_model_mm": [
+            13.25,
+            265.75
+          ],
+          "time_seconds": 0.5
+        }
+      ],
+      "peak_height_mm": 0.44106203576902453,
+      "final_max_abs_height_mm": 6.612588373483264e-06,
+      "final_energy_fraction_of_impulses": 1.670903429041656e-12,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B016",
+      "source_events": [
+        {
+          "reference_owner": 0,
+          "point_model_mm": [
+            184.25,
+            129.75
+          ],
+          "time_seconds": 0.5
+        }
+      ],
+      "peak_height_mm": 0.48133782852717777,
+      "final_max_abs_height_mm": 1.6840713976609403e-08,
+      "final_energy_fraction_of_impulses": 1.9110578720037405e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B017",
+      "source_events": [
+        {
+          "reference_owner": 120,
+          "point_model_mm": [
+            36.75,
+            114.25
+          ],
+          "time_seconds": 1.7903225806451613
+        }
+      ],
+      "peak_height_mm": 0.4733009067457812,
+      "final_max_abs_height_mm": 4.048875919080001e-08,
+      "final_energy_fraction_of_impulses": 5.4876782874843356e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B018",
+      "source_events": [
+        {
+          "reference_owner": 100,
+          "point_model_mm": [
+            645.75,
+            145.75
+          ],
+          "time_seconds": 0.564516129032258
+        }
+      ],
+      "peak_height_mm": 0.47371697265923646,
+      "final_max_abs_height_mm": 2.360462711825629e-08,
+      "final_energy_fraction_of_impulses": 2.018983245333808e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B019",
+      "source_events": [
+        {
+          "reference_owner": 0,
+          "point_model_mm": [
+            336.25,
+            121.25
+          ],
+          "time_seconds": 0.5
+        },
+        {
+          "reference_owner": 109,
+          "point_model_mm": [
+            334.25,
+            102.25
+          ],
+          "time_seconds": 1.0806451612903225
+        }
+      ],
+      "peak_height_mm": 0.46267361777891997,
+      "final_max_abs_height_mm": 3.8023210019576695e-08,
+      "final_energy_fraction_of_impulses": 3.155707278968165e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B020",
+      "source_events": [
+        {
+          "reference_owner": 127,
+          "point_model_mm": [
+            74.75,
+            391.25
+          ],
+          "time_seconds": 2.241935483870968
+        }
+      ],
+      "peak_height_mm": 0.4754483164539787,
+      "final_max_abs_height_mm": 5.863165653368321e-08,
+      "final_energy_fraction_of_impulses": 8.03653802777271e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B021",
+      "source_events": [
+        {
+          "reference_owner": 124,
+          "point_model_mm": [
+            139.75,
+            359.25
+          ],
+          "time_seconds": 2.0483870967741935
+        }
+      ],
+      "peak_height_mm": 0.4733009067457811,
+      "final_max_abs_height_mm": 8.101008446558463e-08,
+      "final_energy_fraction_of_impulses": 6.600586862631407e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B022",
+      "source_events": [
+        {
+          "reference_owner": 126,
+          "point_model_mm": [
+            107.75,
+            359.25
+          ],
+          "time_seconds": 2.17741935483871
+        }
+      ],
+      "peak_height_mm": 0.45141062398796533,
+      "final_max_abs_height_mm": 5.4007686243095076e-08,
+      "final_energy_fraction_of_impulses": 7.448437228810017e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B023",
+      "source_events": [
+        {
+          "reference_owner": 128,
+          "point_model_mm": [
+            84.25,
+            355.25
+          ],
+          "time_seconds": 2.306451612903226
+        }
+      ],
+      "peak_height_mm": 0.405676007881604,
+      "final_max_abs_height_mm": 7.988014256851225e-08,
+      "final_energy_fraction_of_impulses": 8.756779703883192e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B024",
+      "source_events": [
+        {
+          "reference_owner": 114,
+          "point_model_mm": [
+            149.75,
+            145.75
+          ],
+          "time_seconds": 1.403225806451613
+        }
+      ],
+      "peak_height_mm": 0.4813378285271778,
+      "final_max_abs_height_mm": 6.670681246561622e-08,
+      "final_energy_fraction_of_impulses": 3.905516327370166e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B025",
+      "source_events": [
+        {
+          "reference_owner": 0,
+          "point_model_mm": [
+            326.75,
+            498.25
+          ],
+          "time_seconds": 0.5
+        }
+      ],
+      "peak_height_mm": 0.3294162459344879,
+      "final_max_abs_height_mm": 2.1623370371822758e-08,
+      "final_energy_fraction_of_impulses": 2.1193331250523044e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B026",
+      "source_events": [
+        {
+          "reference_owner": 0,
+          "point_model_mm": [
+            210.75,
+            462.25
+          ],
+          "time_seconds": 0.5
+        }
+      ],
+      "peak_height_mm": 0.384653633395687,
+      "final_max_abs_height_mm": 1.999500939515486e-08,
+      "final_energy_fraction_of_impulses": 2.0610134357697124e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B027",
+      "source_events": [
+        {
+          "reference_owner": 123,
+          "point_model_mm": [
+            207.75,
+            235.25
+          ],
+          "time_seconds": 1.9838709677419355
+        }
+      ],
+      "peak_height_mm": 0.4355821232295686,
+      "final_max_abs_height_mm": 6.496513186439447e-08,
+      "final_energy_fraction_of_impulses": 6.164789598254495e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B028",
+      "source_events": [
+        {
+          "reference_owner": 123,
+          "point_model_mm": [
+            207.75,
+            259.75
+          ],
+          "time_seconds": 1.9838709677419355
+        }
+      ],
+      "peak_height_mm": 0.4355821232295686,
+      "final_max_abs_height_mm": 6.496513186439447e-08,
+      "final_energy_fraction_of_impulses": 6.164789598254495e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B029",
+      "source_events": [
+        {
+          "reference_owner": 125,
+          "point_model_mm": [
+            99.25,
+            400.25
+          ],
+          "time_seconds": 2.1129032258064515
+        }
+      ],
+      "peak_height_mm": 0.33328355371115015,
+      "final_max_abs_height_mm": 4.03367706431896e-08,
+      "final_energy_fraction_of_impulses": 7.614615043913817e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B030",
+      "source_events": [
+        {
+          "reference_owner": 127,
+          "point_model_mm": [
+            74.75,
+            413.75
+          ],
+          "time_seconds": 2.241935483870968
+        }
+      ],
+      "peak_height_mm": 0.5166927063510007,
+      "final_max_abs_height_mm": 1.5945621077886386e-07,
+      "final_energy_fraction_of_impulses": 7.722755955228528e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B031",
+      "source_events": [
+        {
+          "reference_owner": 124,
+          "point_model_mm": [
+            137.25,
+            376.25
+          ],
+          "time_seconds": 2.0483870967741935
+        }
+      ],
+      "peak_height_mm": 0.35426714463092285,
+      "final_max_abs_height_mm": 6.715848934956719e-08,
+      "final_energy_fraction_of_impulses": 8.55827302956965e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B032",
+      "source_events": [
+        {
+          "reference_owner": 126,
+          "point_model_mm": [
+            108.75,
+            376.25
+          ],
+          "time_seconds": 2.17741935483871
+        }
+      ],
+      "peak_height_mm": 0.371912407428448,
+      "final_max_abs_height_mm": 6.973750716854635e-08,
+      "final_energy_fraction_of_impulses": 7.310203972599248e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B033",
+      "source_events": [
+        {
+          "reference_owner": 129,
+          "point_model_mm": [
+            63.75,
+            410.75
+          ],
+          "time_seconds": 2.370967741935484
+        }
+      ],
+      "peak_height_mm": 0.46132048854337276,
+      "final_max_abs_height_mm": 1.4167709303929145e-07,
+      "final_energy_fraction_of_impulses": 8.71003365069727e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B034",
+      "source_events": [
+        {
+          "reference_owner": 129,
+          "point_model_mm": [
+            63.75,
+            401.75
+          ],
+          "time_seconds": 2.370967741935484
+        }
+      ],
+      "peak_height_mm": 0.5149675905670954,
+      "final_max_abs_height_mm": 1.0058091529533424e-07,
+      "final_energy_fraction_of_impulses": 9.184056487718287e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B035",
+      "source_events": [
+        {
+          "reference_owner": 127,
+          "point_model_mm": [
+            87.25,
+            376.25
+          ],
+          "time_seconds": 2.241935483870968
+        }
+      ],
+      "peak_height_mm": 0.46726628974769546,
+      "final_max_abs_height_mm": 8.335195362978668e-08,
+      "final_energy_fraction_of_impulses": 7.911703094340767e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B036",
+      "source_events": [
+        {
+          "reference_owner": 129,
+          "point_model_mm": [
+            63.75,
+            392.25
+          ],
+          "time_seconds": 2.370967741935484
+        }
+      ],
+      "peak_height_mm": 0.5172781935317636,
+      "final_max_abs_height_mm": 1.561313119672796e-07,
+      "final_energy_fraction_of_impulses": 9.829923870881579e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B037",
+      "source_events": [
+        {
+          "reference_owner": 0,
+          "point_model_mm": [
+            183.75,
+            94.75
+          ],
+          "time_seconds": 0.5
+        }
+      ],
+      "peak_height_mm": 0.34227976449869957,
+      "final_max_abs_height_mm": 5.4505026963622154e-08,
+      "final_energy_fraction_of_impulses": 2.021088441292642e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B038",
+      "source_events": [
+        {
+          "reference_owner": 0,
+          "point_model_mm": [
+            181.25,
+            421.25
+          ],
+          "time_seconds": 0.5
+        }
+      ],
+      "peak_height_mm": 0.3068062107484786,
+      "final_max_abs_height_mm": 4.0916136855412384e-08,
+      "final_energy_fraction_of_impulses": 2.72128395918695e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B039",
+      "source_events": [
+        {
+          "reference_owner": 0,
+          "point_model_mm": [
+            661.75,
+            144.25
+          ],
+          "time_seconds": 0.5
+        }
+      ],
+      "peak_height_mm": 0.3068062107484785,
+      "final_max_abs_height_mm": 4.0044022563474426e-08,
+      "final_energy_fraction_of_impulses": 2.4463025448785514e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B040",
+      "source_events": [
+        {
+          "reference_owner": 102,
+          "point_model_mm": [
+            491.25,
+            331.75
+          ],
+          "time_seconds": 0.6935483870967742
+        }
+      ],
+      "peak_height_mm": 0.5577554153767004,
+      "final_max_abs_height_mm": 4.242006373705313e-08,
+      "final_energy_fraction_of_impulses": 2.1708149326062502e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B041",
+      "source_events": [
+        {
+          "reference_owner": 0,
+          "point_model_mm": [
+            163.75,
+            420.75
+          ],
+          "time_seconds": 0.5
+        }
+      ],
+      "peak_height_mm": 0.40377660645671454,
+      "final_max_abs_height_mm": 2.4512499648939534e-08,
+      "final_energy_fraction_of_impulses": 2.1966277181993633e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B042",
+      "source_events": [
+        {
+          "reference_owner": 129,
+          "point_model_mm": [
+            28.75,
+            344.75
+          ],
+          "time_seconds": 2.370967741935484
+        }
+      ],
+      "peak_height_mm": 0.39677366250692925,
+      "final_max_abs_height_mm": 1.001370660378133e-07,
+      "final_energy_fraction_of_impulses": 9.751452532178072e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B043",
+      "source_events": [
+        {
+          "reference_owner": 0,
+          "point_model_mm": [
+            199.75,
+            420.75
+          ],
+          "time_seconds": 0.5
+        }
+      ],
+      "peak_height_mm": 0.5064706073417657,
+      "final_max_abs_height_mm": 6.095907175996473e-08,
+      "final_energy_fraction_of_impulses": 2.0791819360666543e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B044",
+      "source_events": [
+        {
+          "reference_owner": 113,
+          "point_model_mm": [
+            256.75,
+            92.75
+          ],
+          "time_seconds": 1.338709677419355
+        }
+      ],
+      "peak_height_mm": 0.4563195803838684,
+      "final_max_abs_height_mm": 9.118252389320476e-08,
+      "final_energy_fraction_of_impulses": 4.950336311925953e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B045",
+      "source_events": [
+        {
+          "reference_owner": 129,
+          "point_model_mm": [
+            54.25,
+            351.25
+          ],
+          "time_seconds": 2.370967741935484
+        }
+      ],
+      "peak_height_mm": 0.32519970734932324,
+      "final_max_abs_height_mm": 4.376334645799101e-08,
+      "final_energy_fraction_of_impulses": 9.830555728348195e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B046",
+      "source_events": [
+        {
+          "reference_owner": 0,
+          "point_model_mm": [
+            302.25,
+            79.75
+          ],
+          "time_seconds": 0.5
+        }
+      ],
+      "peak_height_mm": 0.37342658013221386,
+      "final_max_abs_height_mm": 3.865592384024077e-08,
+      "final_energy_fraction_of_impulses": 2.1461611231583038e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B047",
+      "source_events": [
+        {
+          "reference_owner": 128,
+          "point_model_mm": [
+            72.25,
+            350.25
+          ],
+          "time_seconds": 2.306451612903226
+        }
+      ],
+      "peak_height_mm": 0.3244014521578987,
+      "final_max_abs_height_mm": 9.375797691260779e-08,
+      "final_energy_fraction_of_impulses": 1.0125002279381729e-13,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B048",
+      "source_events": [
+        {
+          "reference_owner": 129,
+          "point_model_mm": [
+            64.75,
+            351.25
+          ],
+          "time_seconds": 2.370967741935484
+        }
+      ],
+      "peak_height_mm": 0.43072095016186096,
+      "final_max_abs_height_mm": 4.8484144589458896e-08,
+      "final_energy_fraction_of_impulses": 8.887541494349886e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B049",
+      "source_events": [
+        {
+          "reference_owner": 121,
+          "point_model_mm": [
+            52.25,
+            188.25
+          ],
+          "time_seconds": 1.8548387096774193
+        }
+      ],
+      "peak_height_mm": 0.33327890711940095,
+      "final_max_abs_height_mm": 1.4389409437206093e-08,
+      "final_energy_fraction_of_impulses": 5.987299206735527e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B050",
+      "source_events": [
+        {
+          "reference_owner": 129,
+          "point_model_mm": [
+            16.75,
+            344.75
+          ],
+          "time_seconds": 2.370967741935484
+        }
+      ],
+      "peak_height_mm": 0.41637062324490337,
+      "final_max_abs_height_mm": 1.1650932016077882e-07,
+      "final_energy_fraction_of_impulses": 9.77664260795746e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B051",
+      "source_events": [
+        {
+          "reference_owner": 0,
+          "point_model_mm": [
+            542.25,
+            14.25
+          ],
+          "time_seconds": 0.5
+        }
+      ],
+      "peak_height_mm": 0.6039229662578802,
+      "final_max_abs_height_mm": 6.225589032738724e-08,
+      "final_energy_fraction_of_impulses": 2.182256356060773e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B052",
+      "source_events": [
+        {
+          "reference_owner": 0,
+          "point_model_mm": [
+            475.75,
+            24.75
+          ],
+          "time_seconds": 0.5
+        }
+      ],
+      "peak_height_mm": 0.330715806636813,
+      "final_max_abs_height_mm": 1.3997969325913698e-08,
+      "final_energy_fraction_of_impulses": 2.5044542897062925e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B053",
+      "source_events": [
+        {
+          "reference_owner": 0,
+          "point_model_mm": [
+            154.75,
+            424.75
+          ],
+          "time_seconds": 0.5
+        }
+      ],
+      "peak_height_mm": 0.38804084501411545,
+      "final_max_abs_height_mm": 2.8851551160449688e-08,
+      "final_energy_fraction_of_impulses": 2.4544358267068134e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B054",
+      "source_events": [
+        {
+          "reference_owner": 129,
+          "point_model_mm": [
+            31.75,
+            344.75
+          ],
+          "time_seconds": 2.370967741935484
+        }
+      ],
+      "peak_height_mm": 0.548922997412706,
+      "final_max_abs_height_mm": 1.6113564910965526e-07,
+      "final_energy_fraction_of_impulses": 1.0572994020130793e-13,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B055",
+      "source_events": [
+        {
+          "reference_owner": 0,
+          "point_model_mm": [
+            193.25,
+            89.25
+          ],
+          "time_seconds": 0.5
+        }
+      ],
+      "peak_height_mm": 0.1534032001945294,
+      "final_max_abs_height_mm": 1.496857272592566e-08,
+      "final_energy_fraction_of_impulses": 3.2266169853106273e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    },
+    {
+      "name": "Connected_B056",
+      "source_events": [
+        {
+          "reference_owner": 0,
+          "point_model_mm": [
+            667.25,
+            133.25
+          ],
+          "time_seconds": 0.5
+        }
+      ],
+      "peak_height_mm": 0.07143668998034275,
+      "final_max_abs_height_mm": 8.736189315635898e-09,
+      "final_energy_fraction_of_impulses": 3.293778007312001e-14,
+      "independent_only_because_actual_geometry_disconnected": true,
+      "room_labels_do_not_partition_solver": true,
+      "natural_damping_to_quiet_passed": true,
+      "external_fade_applied": false
+    }
+  ],
+  "energy_timeseries": [
+    {
+      "time_s": 0.0,
+      "max_abs_height_mm": 0.0,
+      "total_energy": 0.0
+    },
+    {
+      "time_s": 1.0,
+      "max_abs_height_mm": 0.45141062398796533,
+      "total_energy": 30649.470608061532
+    },
+    {
+      "time_s": 2.0,
+      "max_abs_height_mm": 0.47371697265923635,
+      "total_energy": 50378.89005145173
+    },
+    {
+      "time_s": 3.0,
+      "max_abs_height_mm": 0.3691065713967915,
+      "total_energy": 52941.123382790014
+    },
+    {
+      "time_s": 4.0,
+      "max_abs_height_mm": 0.2566291680289663,
+      "total_energy": 23792.087804335242
+    },
+    {
+      "time_s": 5.0,
+      "max_abs_height_mm": 0.177000640812103,
+      "total_energy": 10725.275553119898
+    },
+    {
+      "time_s": 6.0,
+      "max_abs_height_mm": 0.11435353486170374,
+      "total_energy": 4767.123523618605
+    },
+    {
+      "time_s": 7.0,
+      "max_abs_height_mm": 0.08855836932780367,
+      "total_energy": 2098.1367495805252
+    },
+    {
+      "time_s": 8.0,
+      "max_abs_height_mm": 0.06367920113075906,
+      "total_energy": 956.3843288538071
+    },
+    {
+      "time_s": 9.0,
+      "max_abs_height_mm": 0.03230562952784619,
+      "total_energy": 431.50021705460006
+    },
+    {
+      "time_s": 10.0,
+      "max_abs_height_mm": 0.027641137442258955,
+      "total_energy": 193.93136996111303
+    },
+    {
+      "time_s": 11.0,
+      "max_abs_height_mm": 0.014617801268235676,
+      "total_energy": 87.60802392151685
+    },
+    {
+      "time_s": 12.0,
+      "max_abs_height_mm": 0.010532910715060347,
+      "total_energy": 39.004057324299616
+    },
+    {
+      "time_s": 13.0,
+      "max_abs_height_mm": 0.007341769289085794,
+      "total_energy": 17.611675347920407
+    },
+    {
+      "time_s": 14.0,
+      "max_abs_height_mm": 0.004684006273425782,
+      "total_energy": 7.8804405141607425
+    },
+    {
+      "time_s": 15.0,
+      "max_abs_height_mm": 0.002919977155417901,
+      "total_energy": 3.5400743436884774
+    },
+    {
+      "time_s": 16.0,
+      "max_abs_height_mm": 0.0023165381837418246,
+      "total_energy": 1.586472338211013
+    },
+    {
+      "time_s": 17.0,
+      "max_abs_height_mm": 0.0016575564541112427,
+      "total_energy": 0.728794723839063
+    },
+    {
+      "time_s": 18.0,
+      "max_abs_height_mm": 0.0009741357230078783,
+      "total_energy": 0.3238070800269773
+    },
+    {
+      "time_s": 19.0,
+      "max_abs_height_mm": 0.0007649411050951593,
+      "total_energy": 0.1473340414450544
+    },
+    {
+      "time_s": 20.0,
+      "max_abs_height_mm": 0.0004731618594925799,
+      "total_energy": 0.0650317994871283
+    },
+    {
+      "time_s": 21.0,
+      "max_abs_height_mm": 0.00031900527953522816,
+      "total_energy": 0.02986197658581904
+    },
+    {
+      "time_s": 22.0,
+      "max_abs_height_mm": 0.0001842947605711688,
+      "total_energy": 0.013219013732845526
+    },
+    {
+      "time_s": 23.0,
+      "max_abs_height_mm": 0.00012514934851878134,
+      "total_energy": 0.0059870598960268554
+    },
+    {
+      "time_s": 24.0,
+      "max_abs_height_mm": 0.00010738798407347495,
+      "total_energy": 0.002706217679841313
+    },
+    {
+      "time_s": 25.0,
+      "max_abs_height_mm": 7.20186841054507e-05,
+      "total_energy": 0.0012135304765727056
+    },
+    {
+      "time_s": 26.0,
+      "max_abs_height_mm": 4.195817675432159e-05,
+      "total_energy": 0.0005295812811758084
+    },
+    {
+      "time_s": 27.0,
+      "max_abs_height_mm": 3.823259886532413e-05,
+      "total_energy": 0.00024086647639230598
+    },
+    {
+      "time_s": 28.0,
+      "max_abs_height_mm": 3.562845632038558e-05,
+      "total_energy": 0.00010652328003938718
+    },
+    {
+      "time_s": 29.0,
+      "max_abs_height_mm": 3.343118142878037e-05,
+      "total_energy": 4.8900442007928776e-05
+    },
+    {
+      "time_s": 30.0,
+      "max_abs_height_mm": 3.178944568721992e-05,
+      "total_energy": 2.1895340120706653e-05
+    },
+    {
+      "time_s": 31.0,
+      "max_abs_height_mm": 2.988473406594797e-05,
+      "total_energy": 9.92138004414039e-06
+    },
+    {
+      "time_s": 32.0,
+      "max_abs_height_mm": 2.809643918110332e-05,
+      "total_energy": 4.469354139295303e-06
+    },
+    {
+      "time_s": 33.0,
+      "max_abs_height_mm": 2.6678274159634323e-05,
+      "total_energy": 2.0762506473489693e-06
+    },
+    {
+      "time_s": 34.0,
+      "max_abs_height_mm": 2.536560511698037e-05,
+      "total_energy": 9.462404834846347e-07
+    },
+    {
+      "time_s": 35.0,
+      "max_abs_height_mm": 2.4015322949407413e-05,
+      "total_energy": 4.497798666843824e-07
+    },
+    {
+      "time_s": 36.0,
+      "max_abs_height_mm": 2.278476876382052e-05,
+      "total_energy": 2.2509655267476612e-07
+    },
+    {
+      "time_s": 37.0,
+      "max_abs_height_mm": 2.1599426420340618e-05,
+      "total_energy": 1.2195034300079243e-07
+    },
+    {
+      "time_s": 38.0,
+      "max_abs_height_mm": 2.0462134529944447e-05,
+      "total_energy": 7.258682764629284e-08
+    },
+    {
+      "time_s": 39.0,
+      "max_abs_height_mm": 1.9797184676750106e-05,
+      "total_energy": 4.845816470987161e-08
+    },
+    {
+      "time_s": 40.0,
+      "max_abs_height_mm": 1.9263652024231212e-05,
+      "total_energy": 3.618216058017177e-08
+    }
+  ],
+  "room_labels_used_for_impulses_only": true,
+  "invisible_room_boundaries_used": false,
+  "whole_model_solve_complete": true,
+  "source_geometry_UV_or_prior_media_changed": false,
+  "boundary_authority": "Only actual native near-floor walls, glazing, doors and fixtures plus the physical floor edge define reflecting boundaries. Geometry-connected open areas share the same solver state, including unobstructed doors and Commons/Cafe label boundaries. Frozen coarse room-reference masks identify impulse locations only; they never remove neighbour flux. No invisible room boundary walls.",
+  "vertical_wall_water_or_hydraulic_filling_simulated": false,
+  "render_transfer_pending": true
+}

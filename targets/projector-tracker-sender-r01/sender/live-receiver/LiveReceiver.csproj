@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><OutputType>WinExe</OutputType><TargetFramework>net9.0-windows</TargetFramework><UseWindowsForms>true</UseWindowsForms><ImplicitUsings>enable</ImplicitUsings><Nullable>enable</Nullable></PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CampusCenterTracker"><HintPath>C:/Users/mikef/Documents/Codex/2026-10-06/task-2/CampusCenterTracker/stage/CampusCenterTracker_R01/app/CampusCenterTracker.dll</HintPath><Private>true</Private></Reference>
+    <Reference Include="Tracker.Core"><HintPath>C:/Users/mikef/Documents/Codex/2026-10-06/task-2/CampusCenterTracker/stage/CampusCenterTracker_R01/app/Tracker.Core.dll</HintPath><Private>true</Private></Reference>
+  </ItemGroup>
+</Project>
