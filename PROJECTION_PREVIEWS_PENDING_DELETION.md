@@ -1,0 +1,12 @@
+# Obsolete viewing previews marked for future deletion
+
+These eight camera-view MP4 assets are marked for future deletion at the user request. **Marked only; not removed.** They are outside the current downloads. Existing assets, release pages, tags and branches remain available. Keep every checksum manifest, source/QA archive and actual projection-media fallback. Historical direct links would stop working if these assets are eventually removed.
+
+- [The_Cafe_Paginated_Gym_Mapped_1024_Viewing_Preview_H04_Bright_SameHue.mp4](https://github.com/mikeymcfish/CampusCenter/releases/tag/campuscenter-h04-commons-cafe-early-viewing-20261006) (253,682 bytes; release `campuscenter-h04-commons-cafe-early-viewing-20261006`).
+- [The_Student_Commons_Paginated_Gym_Mapped_1024_Viewing_Preview_H04_Bright_SameHue.mp4](https://github.com/mikeymcfish/CampusCenter/releases/tag/campuscenter-h04-commons-cafe-early-viewing-20261006) (287,857 bytes; release `campuscenter-h04-commons-cafe-early-viewing-20261006`).
+- [The_Cafe_Paginated_Gym_Mapped_1024_Viewing_Preview_H03_WorldClipped.mp4](https://github.com/mikeymcfish/CampusCenter/releases/tag/campuscenter-h03-commons-cafe-clean-edge-viewing-20261006) (258,902 bytes; release `campuscenter-h03-commons-cafe-clean-edge-viewing-20261006`).
+- [The_Student_Commons_Paginated_Gym_Mapped_1024_Viewing_Preview_H03_WorldClipped.mp4](https://github.com/mikeymcfish/CampusCenter/releases/tag/campuscenter-h03-commons-cafe-clean-edge-viewing-20261006) (288,501 bytes; release `campuscenter-h03-commons-cafe-clean-edge-viewing-20261006`).
+- [Tour_H03_All13_30Pages_BalancedFinal_Mapped_1024_Overview.mp4](https://github.com/mikeymcfish/CampusCenter/releases/tag/campuscenter-h03-all13-30pages-viewing-20261006) (3,877,075 bytes; release `campuscenter-h03-all13-30pages-viewing-20261006`).
+- [Ripple_R03_WholeModel_Connected_Mapped_1024_Viewing_Preview.mp4](https://github.com/mikeymcfish/CampusCenter/releases/tag/campuscenter-ripple-r03-whole-model-viewing-20261006) (12,712,688 bytes; release `campuscenter-ripple-r03-whole-model-viewing-20261006`).
+- [Commons_Paginated_Gym_Mapped_1024_Viewing_Preview.mp4](https://github.com/mikeymcfish/CampusCenter/releases/tag/campuscenter-uv02-r02-viewing-previews-20261006) (283,479 bytes; release `campuscenter-uv02-r02-viewing-previews-20261006`).
+- [Ripple_R02_ThreeRoom_Mapped_1024_Viewing_Preview.mp4](https://github.com/mikeymcfish/CampusCenter/releases/tag/campuscenter-uv02-r02-viewing-previews-20261006) (512,094 bytes; release `campuscenter-uv02-r02-viewing-previews-20261006`).

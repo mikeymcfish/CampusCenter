@@ -1,5 +1,7 @@
 # Preserved earlier CampusCenter index
 
+[Eight obsolete camera previews are marked for future deletion](PROJECTION_PREVIEWS_PENDING_DELETION.md); marked only, not removed. Current projection media and all source/QA are preserved.
+
 This is the former README, retained with every link for reference. Older versions and test packages are superseded for the current quickstart; nothing was deleted. Use [current downloads](PROJECT_DELIVERABLES.md) and the [current README](README.md) first. Historical statements below describe their own versions, not the latest release.
 
 # Current deliverables
