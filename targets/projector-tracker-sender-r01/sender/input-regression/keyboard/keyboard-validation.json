@@ -1,0 +1,6699 @@
+{
+  "method": "PIE real raw Vive input keys via development-only diagnostic flag, real EnhancedInput and collision-aware CharacterMovement. Focus/tracking simulated explicitly; hardware unverified.",
+  "tests": [
+    {
+      "name": "neutral",
+      "expected_walking": false,
+      "samples": [
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        }
+      ],
+      "pass": true,
+      "max_speed": 0.0
+    },
+    {
+      "name": "keyboard_only",
+      "expected_walking": false,
+      "samples": [
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            360.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 360.0,
+          "location": [
+            -3021.496384749398,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            360.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 360.0,
+          "location": [
+            -3017.7667851841306,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            360.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 360.0,
+          "location": [
+            -3014.2406204438066,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            360.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 360.0,
+          "location": [
+            -3010.1614968573904,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            360.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 360.0,
+          "location": [
+            -3006.4953650629377,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            360.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 360.0,
+          "location": [
+            -3002.6913891827917,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            360.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 360.0,
+          "location": [
+            -2998.995268950448,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            360.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 360.0,
+          "location": [
+            -2995.276540378318,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.99999999999994,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999999994,
+          "location": [
+            -2991.1636853313303,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            360.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 360.0,
+          "location": [
+            -2987.5453974401807,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            360.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 360.0,
+          "location": [
+            -2983.9857895767545,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            360.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 360.0,
+          "location": [
+            -2980.2647931969022,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            360.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 360.0,
+          "location": [
+            -2976.55614436625,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            360.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 360.0,
+          "location": [
+            -2972.6060095524645,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            360.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 360.0,
+          "location": [
+            -2968.572892556176,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            360.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 360.0,
+          "location": [
+            -2965.141373584256,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            137.6719184461869,
+            171.19657335143106,
+            0.0
+          ],
+          "speed_horizontal": 219.68573885422205,
+          "location": [
+            -2963.6032202957645,
+            -2378.08728914908,
+            492.8900104266288
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            167.54396162950098,
+            156.06704009974158,
+            0.0
+          ],
+          "speed_horizontal": 228.9713957768569,
+          "location": [
+            -2961.7523786806505,
+            -2376.3632319538524,
+            492.8900104266288
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            175.54137421466243,
+            162.7638284484974,
+            0.0
+          ],
+          "speed_horizontal": 239.3884665400237,
+          "location": [
+            -2959.810645293176,
+            -2374.562836113353,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            202.07589263476837,
+            149.2609396819714,
+            0.0
+          ],
+          "speed_horizontal": 251.22399268159785,
+          "location": [
+            -2957.7151180446967,
+            -2373.0149999902064,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            227.66463369493997,
+            136.7443962201003,
+            0.0
+          ],
+          "speed_horizontal": 265.5752536157143,
+          "location": [
+            -2955.3287148366276,
+            -2371.5816317040176,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            250.5969525949695,
+            126.07494142593733,
+            0.0
+          ],
+          "speed_horizontal": 280.5240159156412,
+          "location": [
+            -2952.8846175544268,
+            -2370.352010120427,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            275.87153498979865,
+            114.93052073984812,
+            0.0
+          ],
+          "speed_horizontal": 298.85469448405917,
+          "location": [
+            -2949.836402335689,
+            -2369.082096707905,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            299.2704088264305,
+            105.29106920282369,
+            0.0
+          ],
+          "speed_horizontal": 317.2522448352614,
+          "location": [
+            -2946.6988517270956,
+            -2367.9782252641753,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            321.5585053166155,
+            96.72576637548843,
+            0.0
+          ],
+          "speed_horizontal": 335.7912241592704,
+          "location": [
+            -2943.4290516438577,
+            -2366.9946595561732,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            343.0268714543083,
+            89.04148544425193,
+            0.0
+          ],
+          "speed_horizontal": 354.3950065532096,
+          "location": [
+            -2940.0226236748863,
+            -2366.11043318309,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            351.21723459077253,
+            79.0345122487369,
+            0.0
+          ],
+          "speed_horizontal": 359.9999999999798,
+          "location": [
+            -2936.53591456467,
+            -2365.3258180596317,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            353.55507086145144,
+            67.81454024148827,
+            0.0
+          ],
+          "speed_horizontal": 360.00000000001444,
+          "location": [
+            -2932.5637238021013,
+            -2364.563921787974,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            355.341575031874,
+            57.726640763755384,
+            0.0
+          ],
+          "speed_horizontal": 360.00000000000085,
+          "location": [
+            -2928.3901303497255,
+            -2363.885905065901,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            356.48119248589677,
+            50.21114820261447,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999998875,
+          "location": [
+            -2924.768352127223,
+            -2363.3757697574465,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            357.3889436296861,
+            43.27982175639292,
+            0.0
+          ],
+          "speed_horizontal": 360.0000000000112,
+          "location": [
+            -2920.915306845665,
+            -2362.909165750866,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            358.04328470010796,
+            37.4834134137794,
+            0.0
+          ],
+          "speed_horizontal": 359.9999999999873,
+          "location": [
+            -2917.184352369295,
+            -2362.518573565391,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            358.54035933133525,
+            32.385347467142815,
+            0.0
+          ],
+          "speed_horizontal": 360.00000000001467,
+          "location": [
+            -2913.3922857880802,
+            -2362.176053147103,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            358.90822944102547,
+            28.0157605553308,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999997976,
+          "location": [
+            -2909.632471258619,
+            -2361.8825684762337,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.1624154920775,
+            24.54300914532099,
+            0.0
+          ],
+          "speed_horizontal": 360.00000000001535,
+          "location": [
+            -2906.195070608929,
+            -2361.6476770957815,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.3634748358673,
+            21.39843344479694,
+            0.0
+          ],
+          "speed_horizontal": 360.0000000000006,
+          "location": [
+            -2902.635684084683,
+            -2361.435732084736,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.520245814394,
+            18.57936623107273,
+            0.0
+          ],
+          "speed_horizontal": 359.999999999987,
+          "location": [
+            -2898.9700878601184,
+            -2361.2463005979025,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.64161851485574,
+            16.059459268971683,
+            0.0
+          ],
+          "speed_horizontal": 359.9999999999955,
+          "location": [
+            -2895.1899297464374,
+            -2361.0775011816736,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.73542275090404,
+            13.799478911564647,
+            0.0
+          ],
+          "speed_horizontal": 360.0000000000033,
+          "location": [
+            -2891.2589576944792,
+            -2360.926708786757,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.7974364483566,
+            12.07496274055345,
+            0.0
+          ],
+          "speed_horizontal": 359.999999999993,
+          "location": [
+            -2887.792272693589,
+            -2360.8103652890595,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.84694657764754,
+            10.496429810083884,
+            0.0
+          ],
+          "speed_horizontal": 360.0000000000199,
+          "location": [
+            -2884.156703350145,
+            -2360.7043188190364,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.8868325665968,
+            9.025948437024368,
+            0.0
+          ],
+          "speed_horizontal": 360.0000000000077,
+          "location": [
+            -2880.2445892316728,
+            -2360.6062031417796,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.92013519220484,
+            7.582630362859968,
+            0.0
+          ],
+          "speed_horizontal": 359.9999999999927,
+          "location": [
+            -2875.73979284213,
+            -2360.5112981822012,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9398534084765,
+            6.580420070211706,
+            0.0
+          ],
+          "speed_horizontal": 360.0000000000222,
+          "location": [
+            -2872.061783261152,
+            -2360.444056814412,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9563582020197,
+            5.605371525311014,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999999653,
+          "location": [
+            -2867.9092548658227,
+            -2360.3793921296665,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9675250860776,
+            4.835378310554644,
+            0.0
+          ],
+          "speed_horizontal": 360.0000000000029,
+          "location": [
+            -2864.077940212103,
+            -2360.327926776582,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.97544017389225,
+            4.205053104450997,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999999824,
+          "location": [
+            -2860.453348318268,
+            -2360.2855861063736,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9815312546155,
+            3.6465265107190996,
+            0.0
+          ],
+          "speed_horizontal": 360.0000000000154,
+          "location": [
+            -2856.7561933389456,
+            -2360.248134813805,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.98603433871415,
+            3.1709747857764525,
+            0.0
+          ],
+          "speed_horizontal": 360.0000000000082,
+          "location": [
+            -2853.1299820652903,
+            -2360.2161929510107,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.989589007958,
+            2.737846941460329,
+            0.0
+          ],
+          "speed_horizontal": 359.9999999999908,
+          "location": [
+            -2849.321616918427,
+            -2360.187228999864,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9922288417599,
+            2.365411921319253,
+            0.0
+          ],
+          "speed_horizontal": 360.0000000000216,
+          "location": [
+            -2845.5297821044132,
+            -2360.162313875164,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.99404469529287,
+            2.0706964865889406,
+            0.0
+          ],
+          "speed_horizontal": 360.00000000002234,
+          "location": [
+            -2842.0741991917935,
+            -2360.1424372591428,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.99551447016825,
+            1.7970980359612774,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999998886,
+          "location": [
+            -2838.3974930023596,
+            -2360.1240831374766,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9966577062821,
+            1.5512705457865008,
+            0.0
+          ],
+          "speed_horizontal": 360.0000000000004,
+          "location": [
+            -2834.5832206656905,
+            -2360.1076469617433,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9974979333534,
+            1.3421928766136229,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999999,
+          "location": [
+            -2830.8284102926104,
+            -2360.093647754069,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.99807960515835,
+            1.1758743938833376,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999998903,
+          "location": [
+            -2827.392661029473,
+            -2360.0824254453646,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9985657514584,
+            1.0161972676029225,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999999136,
+          "location": [
+            -2823.6078525416247,
+            -2360.0717417582346,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9989330527946,
+            0.8764706830627403,
+            0.0
+          ],
+          "speed_horizontal": 360.00000000001216,
+          "location": [
+            -2819.7726402930693,
+            -2360.0624043663965,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.99921635995065,
+            0.7511459447990849,
+            0.0
+          ],
+          "speed_horizontal": 360.00000000001245,
+          "location": [
+            -2815.774668937591,
+            -2360.054062514985,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.999407576807,
+            0.6531036340192294,
+            0.0
+          ],
+          "speed_horizontal": 360.0000000000122,
+          "location": [
+            -2812.1451901376613,
+            -2360.0474779880556,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9995574697876,
+            0.5644657343275873,
+            0.0
+          ],
+          "speed_horizontal": 360.0000000000113,
+          "location": [
+            -2808.362639028417,
+            -2360.0415470905164,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9996603460065,
+            0.4945207538651068,
+            0.0
+          ],
+          "speed_horizontal": 360.0000000000223,
+          "location": [
+            -2804.9269457574787,
+            -2360.036827581546,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9997475123543,
+            0.42636961591079153,
+            0.0
+          ],
+          "speed_horizontal": 360.0000000000114,
+          "location": [
+            -2801.082472558653,
+            -2360.0322743379047,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.99981582529267,
+            0.36415072086418476,
+            0.0
+          ],
+          "speed_horizontal": 359.9999999999891,
+          "location": [
+            -2796.99701568465,
+            -2360.028141774497,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9998582330405,
+            0.31948740524816804,
+            0.0
+          ],
+          "speed_horizontal": 360.0000000000158,
+          "location": [
+            -2793.5982210011475,
+            -2360.0251254619357,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.99989497708873,
+            0.27498452774792154,
+            0.0
+          ],
+          "speed_horizontal": 360.0000000000075,
+          "location": [
+            -2789.7098612775367,
+            -2360.022155353396,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9999185450879,
+            0.2421725143960803,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999999534,
+          "location": [
+            -2786.4080868671567,
+            -2360.01993424453,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9999401887698,
+            0.20751887983420195,
+            0.0
+          ],
+          "speed_horizontal": 360.0000000000046,
+          "location": [
+            -2782.4069384437726,
+            -2360.0176278168165,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.99995532755196,
+            0.1793436799911805,
+            0.0
+          ],
+          "speed_horizontal": 359.999999999993,
+          "location": [
+            -2778.6227993099706,
+            -2360.015742645922,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9999660147548,
+            0.15642687493733856,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999998863,
+          "location": [
+            -2775.073848197994,
+            -2360.0142005587436,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.99997418791366,
+            0.13632574332366706,
+            0.0
+          ],
+          "speed_horizontal": 360.00000000000944,
+          "location": [
+            -2771.5037638821314,
+            -2360.012848629763,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.99998021930196,
+            0.11934030262751608,
+            0.0
+          ],
+          "speed_horizontal": 360.00000000000784,
+          "location": [
+            -2768.048160204235,
+            -2360.011703094176,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9999852089733,
+            0.10319661546468224,
+            0.0
+          ],
+          "speed_horizontal": 360.0000000000034,
+          "location": [
+            -2764.2787085322966,
+            -2360.010622553424,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9999889868725,
+            0.08904740897373259,
+            0.0
+          ],
+          "speed_horizontal": 359.9999999999852,
+          "location": [
+            -2760.455039990537,
+            -2360.0096767540163,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9999919114853,
+            0.07631338230561009,
+            0.0
+          ],
+          "speed_horizontal": 360.0000000000025,
+          "location": [
+            -2756.456628186529,
+            -2360.0088291641955,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.99999389236757,
+            0.06631352436132334,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999998363,
+          "location": [
+            -2752.812060073284,
+            -2360.0081578193053,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.99999536531016,
+            0.05776650270545065,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999998914,
+          "location": [
+            -2749.230636508943,
+            -2360.0075831350923,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.99999648143523,
+            0.05033242419051057,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999998096,
+          "location": [
+            -2745.6549729773014,
+            -2360.007083213383,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9999974308286,
+            0.043009321104843345,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999999767,
+          "location": [
+            -2741.5824007154683,
+            -2360.0065966618013,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.99999806172843,
+            0.03735730923115752,
+            0.0
+          ],
+          "speed_horizontal": 360.0000000000181,
+          "location": [
+            -2737.9267443080057,
+            -2360.0062173132246,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9999985423799,
+            0.032395886450960636,
+            0.0
+          ],
+          "speed_horizontal": 360.0000000000097,
+          "location": [
+            -2734.229976337153,
+            -2360.005884646347,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9999989090627,
+            0.02802659073311001,
+            0.0
+          ],
+          "speed_horizontal": 360.00000000002075,
+          "location": [
+            -2730.4724053665605,
+            -2360.0055921132803,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.99999917385924,
+            0.024389013334158726,
+            0.0
+          ],
+          "speed_horizontal": 360.00000000000364,
+          "location": [
+            -2726.864484221533,
+            -2360.0053476865105,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9999993885889,
+            0.020981623184104386,
+            0.0
+          ],
+          "speed_horizontal": 360.0000000000174,
+          "location": [
+            -2722.9638133719204,
+            -2360.0051203464936,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9999995355376,
+            0.01828740300993984,
+            0.0
+          ],
+          "speed_horizontal": 360.00000000002245,
+          "location": [
+            -2719.3964646578797,
+            -2360.0049391310945,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9999996437072,
+            0.01601627688022622,
+            0.0
+          ],
+          "speed_horizontal": 359.9999999999865,
+          "location": [
+            -2715.952669218707,
+            -2360.004785917813,
+            492.89001028927925
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9999997354176,
+            0.013802116002227912,
+            0.0
+          ],
+          "speed_horizontal": 359.9999999999987,
+          "location": [
+            -2712.0954126004194,
+            -2360.004638033637,
+            492.89001028927925
+          ]
+        }
+      ],
+      "pass": true,
+      "max_speed": 360.00000000002245
+    },
+    {
+      "name": "keyboard_plus_trigger",
+      "expected_walking": true,
+      "samples": [
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            360.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 360.0,
+          "location": [
+            -3014.6484312475573,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            360.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 360.0,
+          "location": [
+            -3010.5417305291544,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            360.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 360.0,
+          "location": [
+            -3006.612546449984,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            360.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 360.0,
+          "location": [
+            -3003.1268106461416,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            360.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 360.0,
+          "location": [
+            -2999.307967281426,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            360.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 360.0,
+          "location": [
+            -2995.599102532948,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            360.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 360.0,
+          "location": [
+            -2991.729859119738,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            360.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 360.0,
+          "location": [
+            -2987.665350890244,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            360.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 360.0,
+          "location": [
+            -2984.1442273617636,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            360.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 360.0,
+          "location": [
+            -2980.4462349475275,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            360.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 360.0,
+          "location": [
+            -2976.796303695525,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            360.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 360.0,
+          "location": [
+            -2973.076386904801,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            360.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 360.0,
+          "location": [
+            -2968.83155510434,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            360.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 360.0,
+          "location": [
+            -2965.120567387427,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            139.92447055828026,
+            169.46206817859135,
+            0.0
+          ],
+          "speed_horizontal": 219.76407807551394,
+          "location": [
+            -2963.7431090050513,
+            -2378.3317646629216,
+            492.8900104266288
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            169.28572699590583,
+            154.64660554961657,
+            0.0
+          ],
+          "speed_horizontal": 229.28852996290735,
+          "location": [
+            -2961.8931032863043,
+            -2376.641739699042,
+            492.8900104266288
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            161.9179111125213,
+            174.93601167636453,
+            0.0
+          ],
+          "speed_horizontal": 238.36949914004413,
+          "location": [
+            -2959.915259773229,
+            -2374.504878782791,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            188.29382058996833,
+            161.05700889984453,
+            0.0
+          ],
+          "speed_horizontal": 247.77797115185965,
+          "location": [
+            -2958.0479123687956,
+            -2372.9076442766736,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            213.7887184861776,
+            148.04167353869647,
+            0.0
+          ],
+          "speed_horizontal": 260.04221437316687,
+          "location": [
+            -2955.888326233322,
+            -2371.4122017298905,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            237.67400316360786,
+            136.3428258334252,
+            0.0
+          ],
+          "speed_horizontal": 274.0041932818883,
+          "location": [
+            -2953.5405819292587,
+            -2370.065407009014,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            265.8588381185684,
+            123.19741582801178,
+            0.0
+          ],
+          "speed_horizontal": 293.0162539390182,
+          "location": [
+            -2950.336504808528,
+            -2368.580656589652,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            293.3783410488603,
+            111.22410588231291,
+            0.0
+          ],
+          "speed_horizontal": 313.75412782288834,
+          "location": [
+            -2946.772398182262,
+            -2367.229450596195,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            317.06883700049383,
+            101.69015091222975,
+            0.0
+          ],
+          "speed_horizontal": 332.9767772524051,
+          "location": [
+            -2943.375068090918,
+            -2366.1398606732128,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            339.3039411680175,
+            93.37450148455247,
+            0.0
+          ],
+          "speed_horizontal": 351.9175500307397,
+          "location": [
+            -2939.9067717528837,
+            -2365.1854053832158,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            350.23714359537564,
+            83.27030230607771,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999999073,
+          "location": [
+            -2936.3697264093394,
+            -2364.3444584979034,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            352.4842030279079,
+            73.17709078518769,
+            0.0
+          ],
+          "speed_horizontal": 360.00000000000415,
+          "location": [
+            -2933.009036493197,
+            -2363.6467662070663,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            354.550884559576,
+            62.39928090945443,
+            0.0
+          ],
+          "speed_horizontal": 359.9999999999928,
+          "location": [
+            -2928.8788727462284,
+            -2362.919876897033,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            355.89549260162346,
+            54.20699535885915,
+            0.0
+          ],
+          "speed_horizontal": 359.9999999999828,
+          "location": [
+            -2925.224432110712,
+            -2362.3632633666944,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            356.9042923714526,
+            47.10972390948008,
+            0.0
+          ],
+          "speed_horizontal": 359.9999999999927,
+          "location": [
+            -2921.5811878423488,
+            -2361.882371891624,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            357.66661267027666,
+            40.921805690454185,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999999585,
+          "location": [
+            -2917.925978109033,
+            -2361.4641674040768,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            358.2078642520111,
+            35.87653812727081,
+            0.0
+          ],
+          "speed_horizontal": 359.9999999999788,
+          "location": [
+            -2914.507565173666,
+            -2361.121794066555,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            358.6347573571602,
+            31.322688507817517,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999998187,
+          "location": [
+            -2910.982795444722,
+            -2360.8139453095214,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            358.96436818639353,
+            27.2870367124878,
+            0.0
+          ],
+          "speed_horizontal": 360.00000000000745,
+          "location": [
+            -2907.4021615412403,
+            -2360.5417598297427,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.2195530290826,
+            23.692039202757893,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999999847,
+          "location": [
+            -2903.7362187172816,
+            -2360.2999754937623,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.43025100552836,
+            20.245855430206447,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999999716,
+          "location": [
+            -2899.6643408984883,
+            -2360.070616252524,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.568801784645,
+            17.614675221523015,
+            0.0
+          ],
+          "speed_horizontal": 360.00000000000705,
+          "location": [
+            -2896.0511410317004,
+            -2359.893611624069,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.6716058187115,
+            15.37322242663363,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999998516,
+          "location": [
+            -2892.5176198781123,
+            -2359.742580500776,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.7580202440013,
+            13.197229637616651,
+            0.0
+          ],
+          "speed_horizontal": 359.9999999999878,
+          "location": [
+            -2888.56236837304,
+            -2359.5974875231364,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.8184378784283,
+            11.432049803922062,
+            0.0
+          ],
+          "speed_horizontal": 359.9999999999885,
+          "location": [
+            -2884.837671116151,
+            -2359.4791474936583,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.86449340401924,
+            9.87655744964931,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999998283,
+          "location": [
+            -2881.044807550434,
+            -2359.375051547567,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.90004826010687,
+            8.482644774819976,
+            0.0
+          ],
+          "speed_horizontal": 360.0000000000042,
+          "location": [
+            -2877.10185102785,
+            -2359.2821182464872,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.92536749403024,
+            7.330063729383099,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999998545,
+          "location": [
+            -2873.3146088680132,
+            -2359.204989127794,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.94749024364376,
+            6.148517488253161,
+            0.0
+          ],
+          "speed_horizontal": 360.00000000000193,
+          "location": [
+            -2868.77106244648,
+            -2359.127377600033,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.9601924568402,
+            5.353489183147106,
+            0.0
+          ],
+          "speed_horizontal": 359.9999999999993,
+          "location": [
+            -2865.1774003679134,
+            -2359.0739310482513,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.97036724520154,
+            4.618950675219618,
+            0.0
+          ],
+          "speed_horizontal": 359.9999999999797,
+          "location": [
+            -2861.3508079468206,
+            -2359.0248302242517,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.9777870415631,
+            3.9991044804400158,
+            0.0
+          ],
+          "speed_horizontal": 359.9999999999811,
+          "location": [
+            -2857.6131576984217,
+            -2358.9833075125935,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.9836154469609,
+            3.4346192984453223,
+            0.0
+          ],
+          "speed_horizontal": 359.9999999999871,
+          "location": [
+            -2853.6696812467335,
+            -2358.945682632619,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.9877569499653,
+            2.9689806545730777,
+            0.0
+          ],
+          "speed_horizontal": 359.9999999999924,
+          "location": [
+            -2849.8914301841332,
+            -2358.9145216997917,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.9907210276695,
+            2.58471932184373,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999999176,
+          "location": [
+            -2846.294223298646,
+            -2358.8886938948,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.9930813445392,
+            2.2319014478144994,
+            0.0
+          ],
+          "speed_horizontal": 360.00000000001216,
+          "location": [
+            -2842.4885194564235,
+            -2358.8650991193567,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.9947792926961,
+            1.938783640956181,
+            0.0
+          ],
+          "speed_horizontal": 360.0000000000047,
+          "location": [
+            -2838.8352924462033,
+            -2358.8454243430224,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.99617165274293,
+            1.6602395508905339,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999999653,
+          "location": [
+            -2834.817052138491,
+            -2358.8268929196097,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.9971872003825,
+            1.4230979615705928,
+            0.0
+          ],
+          "speed_horizontal": 359.9999999999937,
+          "location": [
+            -2830.8236026883114,
+            -2358.8111064913423,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.9978908350147,
+            1.2323125929921723,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999998056,
+          "location": [
+            -2827.0898850086314,
+            -2358.798325562808,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.9984148107239,
+            1.0683322336996544,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999999386,
+          "location": [
+            -2823.3855373183196,
+            -2358.787332530951,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.99877836501764,
+            0.9378569645515412,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999998755,
+          "location": [
+            -2820.0019448102667,
+            -2358.778517707153,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.99909759603077,
+            0.806058346241386,
+            0.0
+          ],
+          "speed_horizontal": 360.0000000000195,
+          "location": [
+            -2816.0769105595314,
+            -2358.769729333409,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.999325008024,
+            0.6971325233942026,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999998346,
+          "location": [
+            -2812.311605782211,
+            -2358.7624378852356,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.999492290466,
+            0.604607823610694,
+            0.0
+          ],
+          "speed_horizontal": 360.00000000001893,
+          "location": [
+            -2808.617434020212,
+            -2358.7562336399606,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.9996191334132,
+            0.5236638235279587,
+            0.0
+          ],
+          "speed_horizontal": 360.00000000000364,
+          "location": [
+            -2804.8891701160887,
+            -2358.7508104205253,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.9997083395404,
+            0.4582526047754786,
+            0.0
+          ],
+          "speed_horizontal": 360.00000000000546,
+          "location": [
+            -2801.424316775438,
+            -2358.7463999223173,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.99978072334903,
+            0.39734006673919087,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999998334,
+          "location": [
+            -2797.7242036465136,
+            -2358.7423160220587,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.9998393540712,
+            0.3400956362954786,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999999847,
+          "location": [
+            -2793.6940777705713,
+            -2358.738508719737,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.9998790614996,
+            0.2950859255719458,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999999693,
+          "location": [
+            -2790.011026497834,
+            -2358.7354897837404,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.9999100546347,
+            0.25448113183227694,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999998823,
+          "location": [
+            -2786.172743441167,
+            -2358.73277653135,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.9999308357173,
+            0.22315530358106417,
+            0.0
+          ],
+          "speed_horizontal": 360.00000000001495,
+          "location": [
+            -2782.7609165622202,
+            -2358.73066162188,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.9999483283164,
+            0.1928824101698137,
+            0.0
+          ],
+          "speed_horizontal": 360.00000000002035,
+          "location": [
+            -2778.980124898361,
+            -2358.728635932121,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.9999625487557,
+            0.16420994896879232,
+            0.0
+          ],
+          "speed_horizontal": 360.00000000001785,
+          "location": [
+            -2774.8133417903955,
+            -2358.726735300697,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.99997184327617,
+            0.14238277130816063,
+            0.0
+          ],
+          "speed_horizontal": 360.00000000001836,
+          "location": [
+            -2771.113261565836,
+            -2358.72527189037,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.9999790816724,
+            0.12272408864885472,
+            0.0
+          ],
+          "speed_horizontal": 360.00000000000904,
+          "location": [
+            -2767.26118987857,
+            -2358.723958718107,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.99998410378583,
+            0.10698257843471588,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999999744,
+          "location": [
+            -2763.697981306879,
+            -2358.7228998257256,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.99998791578633,
+            0.09327713022143437,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999998516,
+          "location": [
+            -2760.139418283315,
+            -2358.721977790843,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.9999912536723,
+            0.0793558485881012,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999999284,
+          "location": [
+            -2755.9548866664873,
+            -2358.721055382328,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.99999329645954,
+            0.06947342729224261,
+            0.0
+          ],
+          "speed_horizontal": 360.00000000001114,
+          "location": [
+            -2752.50108262528,
+            -2358.7203888611934,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.9999950406064,
+            0.05975589791704242,
+            0.0
+          ],
+          "speed_horizontal": 360.0000000000055,
+          "location": [
+            -2748.595550319006,
+            -2358.719740587324,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.9999962490419,
+            0.051968037556851636,
+            0.0
+          ],
+          "speed_horizontal": 359.9999999999821,
+          "location": [
+            -2744.9718269690447,
+            -2358.719217482343,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.9999971834862,
+            0.04503219888337498,
+            0.0
+          ],
+          "speed_horizontal": 360.0000000000125,
+          "location": [
+            -2741.255798069361,
+            -2358.7187526463604,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.99999795647824,
+            0.03835791188603866,
+            0.0
+          ],
+          "speed_horizontal": 359.9999999999913,
+          "location": [
+            -2737.1021909032834,
+            -2358.718310080531,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.9999984604069,
+            0.033294075708273946,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999998397,
+          "location": [
+            -2733.428822524618,
+            -2358.7179703544048,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.9999988396941,
+            0.028903914600454283,
+            0.0
+          ],
+          "speed_horizontal": 360.0000000000223,
+          "location": [
+            -2729.760025967334,
+            -2358.717675791675,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.99999912526243,
+            0.025096000157570502,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999999744,
+          "location": [
+            -2726.09465056473,
+            -2358.717420274281,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.9999993241523,
+            0.0220592942727251,
+            0.0
+          ],
+          "speed_horizontal": 360.00000000000296,
+          "location": [
+            -2722.743914370211,
+            -2358.717214955181,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.9999995047338,
+            0.01888325828802839,
+            0.0
+          ],
+          "speed_horizontal": 359.9999999999803,
+          "location": [
+            -2718.7165225546055,
+            -2358.7170037044034,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            359.99999962876433,
+            0.016349384085614073,
+            0.0
+          ],
+          "speed_horizontal": 360.0000000000176,
+          "location": [
+            -2714.979182137975,
+            -2358.7168339732534,
+            492.89001035779444
+          ]
+        },
+        {
+          "walking": true,
+          "scale": 1.0,
+          "left": 1.0,
+          "right": 0.0,
+          "velocity": [
+            349.707335209994,
+            0.013771363100401474,
+            0.0
+          ],
+          "speed_horizontal": 349.70733548115,
+          "location": [
+            -2711.3857651030494,
+            -2358.716692465639,
+            492.8899989834283
+          ]
+        }
+      ],
+      "pass": true,
+      "max_speed": 360.0000000000223
+    },
+    {
+      "name": "trigger_release_keyboard_continues",
+      "expected_walking": false,
+      "samples": [
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            360.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 360.0,
+          "location": [
+            -3018.068307502101,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            360.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 360.0,
+          "location": [
+            -3014.417835784982,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            360.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 360.0,
+          "location": [
+            -3010.333636118005,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            360.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 360.0,
+          "location": [
+            -3006.534052355121,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            360.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 360.0,
+          "location": [
+            -3002.7454120050174,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            360.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 360.0,
+          "location": [
+            -2998.8738270233375,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            360.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 360.0,
+          "location": [
+            -2995.3259913752777,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            360.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 360.0,
+          "location": [
+            -2991.263500166963,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            360.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 360.0,
+          "location": [
+            -2987.1545678506595,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            360.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 360.0,
+          "location": [
+            -2983.399227125476,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            360.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 360.0,
+          "location": [
+            -2979.4986635575992,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            360.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 360.0,
+          "location": [
+            -2975.6797115634186,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            360.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 360.0,
+          "location": [
+            -2971.462239636014,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            360.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 360.0,
+          "location": [
+            -2967.5415876637203,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            233.21675420476194,
+            94.82284764030149,
+            0.0
+          ],
+          "speed_horizontal": 251.75668189031285,
+          "location": [
+            -2964.6463651564945,
+            -2378.822840821949,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            178.9154923580216,
+            159.03343107072106,
+            0.0
+          ],
+          "speed_horizontal": 239.37916702135772,
+          "location": [
+            -2962.7188006939864,
+            -2377.1094777920484,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            187.8394569678837,
+            164.22838210261074,
+            0.0
+          ],
+          "speed_horizontal": 249.508763537537,
+          "location": [
+            -2960.5154444927502,
+            -2375.183079419918,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            214.56536002053844,
+            150.41164942879928,
+            0.0
+          ],
+          "speed_horizontal": 262.0342687600904,
+          "location": [
+            -2958.2589890444656,
+            -2373.601290142252,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            240.91568920924956,
+            137.3513446340226,
+            0.0
+          ],
+          "speed_horizontal": 277.3188799558043,
+          "location": [
+            -2955.6441381146496,
+            -2372.1105059911383,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            265.93861915933815,
+            125.59725574224284,
+            0.0
+          ],
+          "speed_horizontal": 294.1054569544024,
+          "location": [
+            -2952.7993660287957,
+            -2370.766979547612,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            289.5969875038519,
+            115.14063089774561,
+            0.0
+          ],
+          "speed_horizontal": 311.6468835955801,
+          "location": [
+            -2949.785559082414,
+            -2369.568722493209,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            311.0762268336395,
+            106.24606476210006,
+            0.0
+          ],
+          "speed_horizontal": 328.7197061000242,
+          "location": [
+            -2946.7817453426082,
+            -2368.542789420852,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            336.7069863242717,
+            96.29454886955466,
+            0.0
+          ],
+          "speed_horizontal": 350.20598907152396,
+          "location": [
+            -2942.8395464797204,
+            -2367.415363271487,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            349.8216884890775,
+            84.9987427121932,
+            0.0
+          ],
+          "speed_horizontal": 360.00000000000387,
+          "location": [
+            -2938.925006277113,
+            -2366.4642187127974,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            352.1140727729997,
+            74.93783927513543,
+            0.0
+          ],
+          "speed_horizontal": 360.0000000000213,
+          "location": [
+            -2935.647175927556,
+            -2365.7666222720422,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            354.00966185261984,
+            65.39999476284771,
+            0.0
+          ],
+          "speed_horizontal": 359.9999999999816,
+          "location": [
+            -2932.109593658926,
+            -2365.113086827188,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            355.4461494913521,
+            57.07919771474903,
+            0.0
+          ],
+          "speed_horizontal": 359.9999999999834,
+          "location": [
+            -2928.574254812604,
+            -2364.5453656539903,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            356.5857138985894,
+            49.4634071149944,
+            0.0
+          ],
+          "speed_horizontal": 359.9999999999866,
+          "location": [
+            -2924.8572414541636,
+            -2364.02976410902,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            357.44056007430135,
+            42.85144120980301,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999998255,
+          "location": [
+            -2921.13342514086,
+            -2363.583337727547,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            358.0516822502048,
+            37.40311267509877,
+            0.0
+          ],
+          "speed_horizontal": 359.999999999983,
+          "location": [
+            -2917.6020693103765,
+            -2363.214442099985,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            358.5720856569545,
+            32.032161769356705,
+            0.0
+          ],
+          "speed_horizontal": 359.9999999999952,
+          "location": [
+            -2913.5849854514145,
+            -2362.8555857217043,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            358.9468982133527,
+            27.515891099717017,
+            0.0
+          ],
+          "speed_horizontal": 359.9999999999979,
+          "location": [
+            -2909.6455795207194,
+            -2362.553601597796,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.2483800037605,
+            23.25083793465984,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999998624,
+          "location": [
+            -2905.287896780051,
+            -2362.2715689406887,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.45271822981863,
+            19.842967449564984,
+            0.0
+          ],
+          "speed_horizontal": 360.0000000000137,
+          "location": [
+            -2901.1828743044807,
+            -2362.0449582538545,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.6215344128002,
+            16.50309021342235,
+            0.0
+          ],
+          "speed_horizontal": 360.0000000000128,
+          "location": [
+            -2896.423104125984,
+            -2361.8265316327147,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.73062337290446,
+            13.92402986676819,
+            0.0
+          ],
+          "speed_horizontal": 359.9999999999848,
+          "location": [
+            -2892.027519237645,
+            -2361.656392502792,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.8011573697706,
+            11.963576194517723,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999998397,
+          "location": [
+            -2888.0944965557815,
+            -2361.5256174467218,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.8567532087359,
+            10.154662479013744,
+            0.0
+          ],
+          "speed_horizontal": 359.9999999999941,
+          "location": [
+            -2883.8513538068064,
+            -2361.4058817961277,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.89431304748183,
+            8.72258196117591,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999998374,
+          "location": [
+            -2879.911555818705,
+            -2361.310394844498,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.92175549772577,
+            7.505326071601484,
+            0.0
+          ],
+          "speed_horizontal": 360.000000000008,
+          "location": [
+            -2876.0155098273385,
+            -2361.229151921256,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9412141716438,
+            6.505562286056905,
+            0.0
+          ],
+          "speed_horizontal": 360.00000000002075,
+          "location": [
+            -2872.30699996851,
+            -2361.162124470869,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9556307268913,
+            5.651894196497947,
+            0.0
+          ],
+          "speed_horizontal": 360.0000000000035,
+          "location": [
+            -2868.656978164659,
+            -2361.104813137779,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9679084230877,
+            4.806756236757491,
+            0.0
+          ],
+          "speed_horizontal": 360.00000000001677,
+          "location": [
+            -2864.46389119116,
+            -2361.048821627176,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9758865002783,
+            4.1666699351431955,
+            0.0
+          ],
+          "speed_horizontal": 360.0000000000134,
+          "location": [
+            -2860.756680253034,
+            -2361.005911185287,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9816420992603,
+            3.6355675632966356,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999998226,
+          "location": [
+            -2857.2170167581367,
+            -2360.9701630129302,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9861888401989,
+            3.153386165266016,
+            0.0
+          ],
+          "speed_horizontal": 359.9999999999981,
+          "location": [
+            -2853.525573766418,
+            -2360.9378269244335,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.98951536231965,
+            2.7475132768417394,
+            0.0
+          ],
+          "speed_horizontal": 360.00000000000585,
+          "location": [
+            -2849.9493666028193,
+            -2360.910532583228,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9924163701275,
+            2.336697666893717,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999998573,
+          "location": [
+            -2845.7565708112356,
+            -2360.8833172984096,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9944776099914,
+            1.9940136159953905,
+            0.0
+          ],
+          "speed_horizontal": 359.999999999988,
+          "location": [
+            -2841.6494650512145,
+            -2360.8605679916363,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.99576264785696,
+            1.7466755801798666,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999999244,
+          "location": [
+            -2838.2100659997304,
+            -2360.8438802553987,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.99685510667365,
+            1.5047635333369356,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999998147,
+          "location": [
+            -2834.34528333482,
+            -2360.8277257142245,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9976235715139,
+            1.3080607264343802,
+            0.0
+          ],
+          "speed_horizontal": 360.000000000002,
+          "location": [
+            -2830.710027646734,
+            -2360.8145169181525,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9982198991683,
+            1.132108404235742,
+            0.0
+          ],
+          "speed_horizontal": 360.00000000001234,
+          "location": [
+            -2826.9630216386054,
+            -2360.802733479352,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9987288057868,
+            0.9566912823536763,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999998914,
+          "location": [
+            -2822.6076499262545,
+            -2360.7911591436246,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.99905418192645,
+            0.8252200363105914,
+            0.0
+          ],
+          "speed_horizontal": 359.999999999986,
+          "location": [
+            -2818.774704189026,
+            -2360.7823729438173,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.99928474038137,
+            0.7176255449366236,
+            0.0
+          ],
+          "speed_horizontal": 360.0000000000124,
+          "location": [
+            -2815.1493666089104,
+            -2360.7751461659686,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9994657069793,
+            0.620234373737907,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999998465,
+          "location": [
+            -2811.3669599617965,
+            -2360.768629549025,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.99960620641036,
+            0.5324764994356236,
+            0.0
+          ],
+          "speed_horizontal": 359.9999999999903,
+          "location": [
+            -2807.413444524875,
+            -2360.7627818924607,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.999703618604,
+            0.46194644949006347,
+            0.0
+          ],
+          "speed_horizontal": 360.0000000000068,
+          "location": [
+            -2803.7270838627387,
+            -2360.7580516074013,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9997745360622,
+            0.40290692695036656,
+            0.0
+          ],
+          "speed_horizontal": 360.0000000000103,
+          "location": [
+            -2800.1774144657275,
+            -2360.7540788649453,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9998257570951,
+            0.35419606079595284,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999998374,
+          "location": [
+            -2796.829740285706,
+            -2360.750785160553,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.99993405485606,
+            0.21790019898689994,
+            0.0
+          ],
+          "speed_horizontal": 359.9999999999964,
+          "location": [
+            -2784.7834938775613,
+            -2360.7434938273022,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9999503638468,
+            0.18904504386806426,
+            0.0
+          ],
+          "speed_horizontal": 360.000000000001,
+          "location": [
+            -2781.0981029894124,
+            -2360.741558535696,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.99996371054397,
+            0.1616428010823475,
+            0.0
+          ],
+          "speed_horizontal": 359.9999999999835,
+          "location": [
+            -2777.0417303087593,
+            -2360.739737192617,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9999728032985,
+            0.1399344119796854,
+            0.0
+          ],
+          "speed_horizontal": 360.00000000002126,
+          "location": [
+            -2773.3010789838386,
+            -2360.738283176275,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9999800204466,
+            0.11993865622182637,
+            0.0
+          ],
+          "speed_horizontal": 360.0000000000045,
+          "location": [
+            -2769.305907420211,
+            -2360.7369521331216,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.99998517532805,
+            0.10331391558897579,
+            0.0
+          ],
+          "speed_horizontal": 360.00000000000216,
+          "location": [
+            -2765.4378161750597,
+            -2360.7358420562637,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9999887527769,
+            0.08998885882368907,
+            0.0
+          ],
+          "speed_horizontal": 359.999999999992,
+          "location": [
+            -2761.8537989804663,
+            -2360.734946162854,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.99999156210833,
+            0.07794401733413678,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999998323,
+          "location": [
+            -2758.1264311004634,
+            -2360.7341391460945,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9999936628262,
+            0.06754819070531565,
+            0.0
+          ],
+          "speed_horizontal": 359.9999999999903,
+          "location": [
+            -2754.4129959331926,
+            -2360.7334423798966,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.99999531650366,
+            0.058069855211623,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999998715,
+          "location": [
+            -2750.4942524035946,
+            -2360.7328102663623,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9999965509562,
+            0.049832967313059494,
+            0.0
+          ],
+          "speed_horizontal": 360.0000000000182,
+          "location": [
+            -2746.530255971598,
+            -2360.732261550511,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9999974306959,
+            0.043010601333286595,
+            0.0
+          ],
+          "speed_horizontal": 360.00000000001785,
+          "location": [
+            -2742.7126357214393,
+            -2360.731805444556,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9999980642,
+            0.037333433744666536,
+            0.0
+          ],
+          "speed_horizontal": 360.00000000001285,
+          "location": [
+            -2739.0398802315735,
+            -2360.7314245651824,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9999985346112,
+            0.03248183637310175,
+            0.0
+          ],
+          "speed_horizontal": 359.9999999999858,
+          "location": [
+            -2735.4271713498806,
+            -2360.731098600129,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.99999888547114,
+            0.028327551315164994,
+            0.0
+          ],
+          "speed_horizontal": 359.9999999999853,
+          "location": [
+            -2731.8748725170176,
+            -2360.7308190781073,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.999999215974,
+            0.02375892782775519,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999998323,
+          "location": [
+            -2727.3287562344417,
+            -2360.7305190479715,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.999999414046,
+            0.020539506993369937,
+            0.0
+          ],
+          "speed_horizontal": 359.9999999999784,
+          "location": [
+            -2723.552535859328,
+            -2360.730303598791,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9999995634353,
+            0.017729503422399196,
+            0.0
+          ],
+          "speed_horizontal": 360.0000000000121,
+          "location": [
+            -2719.737723859388,
+            -2360.730115724562,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.99999967631436,
+            0.015266255659026463,
+            0.0
+          ],
+          "speed_horizontal": 360.0000000000068,
+          "location": [
+            -2715.8600194213273,
+            -2360.729951285597,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            359.9999997523506,
+            0.013352931440518988,
+            0.0
+          ],
+          "speed_horizontal": 359.99999999999056,
+          "location": [
+            -2712.3828881463965,
+            -2360.729822313665,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            59.95716548762056,
+            -5.591603257581108,
+            0.0
+          ],
+          "speed_horizontal": 60.2173373730532,
+          "location": [
+            -2711.6555956858624,
+            -2360.797649584325,
+            492.8900104266288
+          ]
+        }
+      ],
+      "pass": true,
+      "max_speed": 360.0000000000213
+    },
+    {
+      "name": "keyboard_release",
+      "expected_walking": false,
+      "samples": [
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        },
+        {
+          "walking": false,
+          "scale": 0.0,
+          "left": 0.0,
+          "right": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "speed_horizontal": 0.0,
+          "location": [
+            -3100.0,
+            -2380.0,
+            492.8899893760681
+          ]
+        }
+      ],
+      "pass": true,
+      "max_speed": 0.0
+    }
+  ],
+  "controller_class": "/Game/FirstPerson/Blueprints/BP_FirstPersonPlayerController.BP_FirstPersonPlayerController_C",
+  "movement": {
+    "speed": 360.0,
+    "pawn": "/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C",
+    "radius": 17.594999313354492
+  },
+  "passed": true
+}

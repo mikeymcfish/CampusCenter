@@ -1,0 +1,26 @@
+[
+  {
+    "name": "grip",
+    "editor_exit": 0,
+    "report": "grip-validation.json",
+    "passed": true
+  },
+  {
+    "name": "trigger",
+    "editor_exit": 0,
+    "report": "input-validation.json",
+    "passed": true
+  },
+  {
+    "name": "keyboard",
+    "editor_exit": 0,
+    "report": "keyboard-validation.json",
+    "passed": true
+  },
+  {
+    "name": "quest",
+    "editor_exit": 0,
+    "report": "touch-validation.json",
+    "passed": true
+  }
+]

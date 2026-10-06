@@ -1,0 +1,30 @@
+{
+  "main": "7a0f40b1b20665598bc02fd50bacd35ede88c792",
+  "obj_sha256": "91aa654f83f2b05a685b3cc06ffdbfae5d05ad8b2770b7f5272b8e6d3e15ce2e",
+  "obj_git_blob_sha1": "d703ddab5a4876daed56930db9523bb53d1d20c8",
+  "bounds_mm": [
+    [
+      4.48,
+      2.72,
+      0.0
+    ],
+    [
+      267.84,
+      199.52,
+      19.0688
+    ]
+  ],
+  "manifest_transform": {
+    "x": "(UE_X_cm + 4700) * 10 / 100",
+    "y": "(-UE_Y_cm + 230) * 10 / 100",
+    "z": "UE_Z_cm * 10 / 100 + 4.2"
+  },
+  "contract_transform": {
+    "modelXmm": "(worldXcm+4700)/25",
+    "modelYmm": "(-worldYcm+230)/25"
+  },
+  "sample_scale": "1:250",
+  "derivation": "10 mm per cm / 250 = 1/25; inherited 1:100 coordinates multiply by 100/250 = 0.4",
+  "sample_readme": "registration-source/README.txt",
+  "registration_passed": true
+}

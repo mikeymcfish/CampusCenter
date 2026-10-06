@@ -1,0 +1,38 @@
+{
+  "pid": 29920,
+  "owned_native": "CampusCenter.exe",
+  "launch_args": [
+    "CampusCenter.exe",
+    "/Game/Campus/Maps/CampusCenter_Vive_R29_TrophyTrainerGymCorrections_r02",
+    "-DisablePlugins=MetaHumanCrowdContent",
+    "-EnablePlugins=OSC",
+    "-game",
+    "-nosplash",
+    "-windowed",
+    "-ResX=1280",
+    "-ResY=720",
+    "-CampusProjector",
+    "-ExecCmds=r.ScreenPercentage 50",
+    "-UserDir=[local path omitted]",
+    "-abslog=[local path omitted]"
+  ],
+  "exit": 0,
+  "normal_window_close": true,
+  "windows": [
+    21039374
+  ],
+  "foreground": [
+    {
+      "window": 21039374,
+      "activation_return": true,
+      "actual_foreground": 21039374
+    }
+  ],
+  "scoped_W_key_test": true,
+  "sender_started": true,
+  "map_loaded": true,
+  "quest_overlay_mounted": true,
+  "material_shader_fatal_errors": [],
+  "headset_tested": false,
+  "source_geometry_recooked": false
+}

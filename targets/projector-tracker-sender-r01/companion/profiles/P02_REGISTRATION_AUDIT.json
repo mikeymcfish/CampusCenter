@@ -1,0 +1,45 @@
+{
+  "source": "Ground_R29_P02_Sample_1_250.obj",
+  "source_sha256": "d14d518971fb4c5265544eb84ba0d2bdd0b620097afe12cdd8ab9a08e86fa032",
+  "sample_scale": 250,
+  "world_cm_to_model_mm": {
+    "x": "(worldX+4700)/25",
+    "y": "(-worldY+230)/25"
+  },
+  "origin_world_cm": [
+    -4700,
+    230
+  ],
+  "source_bounds_mm": [
+    [
+      4.48,
+      2.72,
+      0
+    ],
+    [
+      267.84,
+      199.52,
+      19.0688
+    ]
+  ],
+  "footprint_method": "exact z=0 foundation underside triangle boundary; only collinear vertices removed",
+  "bottom_triangles": 335,
+  "boundary_loops": 4,
+  "footprint_points": [
+    310,
+    4,
+    4,
+    4
+  ],
+  "loop_absolute_areas_mm2": [
+    38431.82080000002,
+    4.09599999999773,
+    3.7119999999995343,
+    0.12799999999992906
+  ],
+  "footprint_fill_rule": "even-odd across all exact boundary loops; retains holes and disconnected pieces",
+  "bounds_area_mm2": 51829.24800000001,
+  "landmarks_method": "inherited 1:100 XY landmarks times 0.4; independently equal world formula; landmarks near wall edges remain reference, physically verify",
+  "registration_verified": true,
+  "physical_projection_tested": false
+}

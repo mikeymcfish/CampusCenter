@@ -1,0 +1,187 @@
+{
+  "base_exe_sha256": "20adab2cd975e19d325adbe607b907cfffa2bd3e775b01c51a68f695bfdf915a",
+  "target_exe_sha256": "dfcd61e0ccafbf5530fe9ef4fa0f7a9af79927182090878f8d0b4b9c86cda028",
+  "target_bytes": 353024512,
+  "chunks": [
+    {
+      "path": "NativeChunks/chunk-00.msdelta",
+      "source_offset": 0,
+      "source_bytes": 16777216,
+      "target_bytes": 16777216,
+      "bytes": 271693,
+      "sha256": "6e50963f092d1a40282e1b329a1243c2061fb64804183083e476293a71aa40f5"
+    },
+    {
+      "path": "NativeChunks/chunk-01.msdelta",
+      "source_offset": 16777216,
+      "source_bytes": 16777216,
+      "target_bytes": 16777216,
+      "bytes": 1582201,
+      "sha256": "555bf07772c89dab9656b243ba8e393e06cf452ae7fad23ba7fff8954ed203de"
+    },
+    {
+      "path": "NativeChunks/chunk-02.msdelta",
+      "source_offset": 33554432,
+      "source_bytes": 16777216,
+      "target_bytes": 16777216,
+      "bytes": 935004,
+      "sha256": "474cf43cadccfc3692d6ced45de5075640c3905639521ae53862cf37e0677a19"
+    },
+    {
+      "path": "NativeChunks/chunk-03.msdelta",
+      "source_offset": 50331648,
+      "source_bytes": 16777216,
+      "target_bytes": 16777216,
+      "bytes": 1020255,
+      "sha256": "0d748eedb0618ca8c3022bb184eb97d9e1ab13bd54e550f1edcbd24ed531f9ac"
+    },
+    {
+      "path": "NativeChunks/chunk-04.msdelta",
+      "source_offset": 67108864,
+      "source_bytes": 16777216,
+      "target_bytes": 16777216,
+      "bytes": 952919,
+      "sha256": "e741b619ad93f97afb5c16af5f13d322a69054bc9a43137e7af4241e4232909c"
+    },
+    {
+      "path": "NativeChunks/chunk-05.msdelta",
+      "source_offset": 83886080,
+      "source_bytes": 16777216,
+      "target_bytes": 16777216,
+      "bytes": 1134620,
+      "sha256": "0c3ed980c35a93632a6b6aabeb26826ed9a9b23f3f6e0696a3fd0d42cb3bf096"
+    },
+    {
+      "path": "NativeChunks/chunk-06.msdelta",
+      "source_offset": 100663296,
+      "source_bytes": 16777216,
+      "target_bytes": 16777216,
+      "bytes": 1322581,
+      "sha256": "f60c48fc6e2ef9efc3e60cc9f5d2a59255a5b33ed798afe4804c0ee17179ced7"
+    },
+    {
+      "path": "NativeChunks/chunk-07.msdelta",
+      "source_offset": 117440512,
+      "source_bytes": 16777216,
+      "target_bytes": 16777216,
+      "bytes": 1373217,
+      "sha256": "cf59c4f5ed7f0fa49624c5e903453da3392d440737a18194f6b92c9833da2a19"
+    },
+    {
+      "path": "NativeChunks/chunk-08.msdelta",
+      "source_offset": 134217728,
+      "source_bytes": 16777216,
+      "target_bytes": 16777216,
+      "bytes": 1097054,
+      "sha256": "8925774a167851b4cc3dbc5400d4a12181a74b20d331f8dfe79bd97fc2edab1e"
+    },
+    {
+      "path": "NativeChunks/chunk-09.msdelta",
+      "source_offset": 150994944,
+      "source_bytes": 16777216,
+      "target_bytes": 16777216,
+      "bytes": 883121,
+      "sha256": "e81bb36e0ef36b28fcd9cc5959c4c0f81a93d840f53b98e7532e0d6655d7a34e"
+    },
+    {
+      "path": "NativeChunks/chunk-10.msdelta",
+      "source_offset": 167772160,
+      "source_bytes": 16777216,
+      "target_bytes": 16777216,
+      "bytes": 1270845,
+      "sha256": "f073854d6775d84788e32eca0636331f27867e4a08d2e8100f96be181d3d5108"
+    },
+    {
+      "path": "NativeChunks/chunk-11.msdelta",
+      "source_offset": 184549376,
+      "source_bytes": 16777216,
+      "target_bytes": 16777216,
+      "bytes": 1638524,
+      "sha256": "d5d519de7c0b1f4e91b2d1f03ea691b44d20d090d928b9122cea32df7271fbfd"
+    },
+    {
+      "path": "NativeChunks/chunk-12.msdelta",
+      "source_offset": 201326592,
+      "source_bytes": 16777216,
+      "target_bytes": 16777216,
+      "bytes": 1789880,
+      "sha256": "7171a3739ff470e6a74f63e6eccb97a5ddbb486a5affe0861310cd1fea98b4d3"
+    },
+    {
+      "path": "NativeChunks/chunk-13.msdelta",
+      "source_offset": 218103808,
+      "source_bytes": 16777216,
+      "target_bytes": 16777216,
+      "bytes": 1900933,
+      "sha256": "f339cd460c9157915956e11360357a2d12eed29467f681e82fdf2860de984c49"
+    },
+    {
+      "path": "NativeChunks/chunk-14.msdelta",
+      "source_offset": 234881024,
+      "source_bytes": 16777216,
+      "target_bytes": 16777216,
+      "bytes": 1516743,
+      "sha256": "5d00c3766b7d42e5f217e3431a2e64b88f695fa433eca6cb0a65fc781684fa65"
+    },
+    {
+      "path": "NativeChunks/chunk-15.msdelta",
+      "source_offset": 251658240,
+      "source_bytes": 16777216,
+      "target_bytes": 16777216,
+      "bytes": 1071789,
+      "sha256": "846e8c86daaee00578a892e29983aeca694f494aef3c7f253b73bbf2cbfc905f"
+    },
+    {
+      "path": "NativeChunks/chunk-16.msdelta",
+      "source_offset": 268435456,
+      "source_bytes": 16777216,
+      "target_bytes": 16777216,
+      "bytes": 679483,
+      "sha256": "ecfce5e65604539811252fb0d510e687557fc53c0f5e1662be029696fb4a72e9"
+    },
+    {
+      "path": "NativeChunks/chunk-17.msdelta",
+      "source_offset": 285212672,
+      "source_bytes": 16777216,
+      "target_bytes": 16777216,
+      "bytes": 1023083,
+      "sha256": "2ab68c5ad0075333df51f018aae5e73d8feb4ead06d029acebb783ff61a1e3ee"
+    },
+    {
+      "path": "NativeChunks/chunk-18.msdelta",
+      "source_offset": 301989888,
+      "source_bytes": 16777216,
+      "target_bytes": 16777216,
+      "bytes": 1680454,
+      "sha256": "9585ff5e7daef7c3f219b9480eef95099ee9fdc81b2d699576912db81f1322f9"
+    },
+    {
+      "path": "NativeChunks/chunk-19.msdelta",
+      "source_offset": 318767104,
+      "source_bytes": 16777216,
+      "target_bytes": 16777216,
+      "bytes": 2301818,
+      "sha256": "957e8ce4fe0b78734ccd3c1ef44f005475293f57f94f477f4bf8244029b1e5b9"
+    },
+    {
+      "path": "NativeChunks/chunk-20.msdelta",
+      "source_offset": 335544320,
+      "source_bytes": 16777216,
+      "target_bytes": 16777216,
+      "bytes": 6026920,
+      "sha256": "9287e81295033ffc2a0130c34f09c3565b2c0ee1ce3c27161f8a8be1c947a3e0"
+    },
+    {
+      "path": "NativeChunks/chunk-21.msdelta",
+      "source_offset": 352321536,
+      "source_bytes": 499200,
+      "target_bytes": 702976,
+      "bytes": 51890,
+      "sha256": "6f91765eecfe077e789ab0c6fae41ab6b99784a42f551ecd7fd6d9b3f593eb4e"
+    }
+  ],
+  "delta_bytes": 31525027,
+  "roundtrip_exact": true,
+  "elapsed_seconds": 151.43700000000536,
+  "implementation": "Windows msdelta RAW chunks, four isolated workers, final SHA-256 exact; Opt-in projector OSC sender; original grip/trigger native code unchanged"
+}

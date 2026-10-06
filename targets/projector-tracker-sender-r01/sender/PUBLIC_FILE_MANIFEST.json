@@ -1,0 +1,337 @@
+[
+  {
+    "file": "source/CampusCenter.uproject",
+    "bytes": 871,
+    "sha256": "b4301622131635df5d1e220977c7600c996d082eae81cf9f1f5e02eb39aa7c7b"
+  },
+  {
+    "file": "source/Plugins/CampusCrowdFix/CampusCrowdFix.uplugin",
+    "bytes": 631,
+    "sha256": "6e38381f4722f800f8c9d87256ad667577e7610e02fe79ae11f122bd5b6ac0b7"
+  },
+  {
+    "file": "source/Plugins/CampusCrowdFix/Source/CampusCrowdFix/CampusCrowdFix.Build.cs",
+    "bytes": 571,
+    "sha256": "d6b7946605c73ade45ba0b2db6b9b82a1ddbf3fbd578206e30ea2597f802e400"
+  },
+  {
+    "file": "source/Plugins/CampusCrowdFix/Source/CampusCrowdFix/Public/CampusProjectorSender.h",
+    "bytes": 1318,
+    "sha256": "853d402bba879c1e8a80c01afdf6a90134f95bf0f23865b44d462b7c9f20e6a7"
+  },
+  {
+    "file": "source/Plugins/CampusCrowdFix/Source/CampusCrowdFix/Private/CampusProjectorSender.cpp",
+    "bytes": 6461,
+    "sha256": "1605d3583233028331d0ca95500411ebdd5028e30233e7383b792067b7200cca"
+  },
+  {
+    "file": "source/Source/CampusCenter.Build.cs",
+    "bytes": 290,
+    "sha256": "4ddfdde466a83cfbfed003d194e85bbfc24b606b9686a26bc451b73b6e2be923"
+  },
+  {
+    "file": "source/Source/CampusCenter.cpp",
+    "bytes": 144,
+    "sha256": "2c3f1a4ed7df378b8e786a49b6f31fc86a1035fc9f09037aadb55ccdb3cab8aa"
+  },
+  {
+    "file": "source/Source/CampusCenter.Target.cs",
+    "bytes": 331,
+    "sha256": "59c975352d20dddc80bdc40c51e2f1304ed91971657dd174b9c9f73c77105e62"
+  },
+  {
+    "file": "source/Source/CampusCenterClient.Target.cs",
+    "bytes": 345,
+    "sha256": "ed3f21929373ede0f71ae86b8d0b212769254d4de58274d38b5277420f1a8f3c"
+  },
+  {
+    "file": "source/Source/CampusCenterEditor.Target.cs",
+    "bytes": 345,
+    "sha256": "08bcb21f3255d39639f6dc8dbb3136f9627db3834d5e06cf2406fa9dbca41bbf"
+  },
+  {
+    "file": "source/Source/CampusCenterServer.Target.cs",
+    "bytes": 345,
+    "sha256": "f4d8d172c3f7e72fb2a1cb08a2b058dae47e003dde545a8d811e46ff54d53659"
+  },
+  {
+    "file": "input-regression/summary.json",
+    "bytes": 448,
+    "sha256": "f491564d56758b9970e527f7d643c7ab5a1f12ccad0f80134db6b345c72cd927"
+  },
+  {
+    "file": "input-regression/grip/grip-validation.json",
+    "bytes": 5712,
+    "sha256": "195b881ba4e3f72c5c55a9542a2069b461a545c2635f3cbade576b330cf7d58a"
+  },
+  {
+    "file": "input-regression/grip/test_grips.py",
+    "bytes": 4303,
+    "sha256": "f86681d023cb0d7c6651df073a0bc827468f135b5f471ff9ff5b3758b8d2d90e"
+  },
+  {
+    "file": "input-regression/keyboard/keyboard-validation.json",
+    "bytes": 152943,
+    "sha256": "21a27247bcf5755e3f2db1070459d74778347207deb42f5dc18ff661dc43d7bf"
+  },
+  {
+    "file": "input-regression/keyboard/test_keyboard.py",
+    "bytes": 4173,
+    "sha256": "14c929885a0d5ecb2f5a6c2bb47aec439dae47082621ac85bab4e22033177d2a"
+  },
+  {
+    "file": "input-regression/quest/test_touch.py",
+    "bytes": 5458,
+    "sha256": "d80e8c3c6c3e527ddde946c1c178d918ae855f29b2208fb7dba0be19068e6479"
+  },
+  {
+    "file": "input-regression/quest/touch-validation.json",
+    "bytes": 9353,
+    "sha256": "456339c682602131ac1c838cfda360fa739b8ff55de88f2fd0989cc95aa484e8"
+  },
+  {
+    "file": "input-regression/trigger/input-validation.json",
+    "bytes": 592911,
+    "sha256": "6eb54bcbba28c8f734731adcee8c894f9ece30735898154b7b27aa2db9a7e051"
+  },
+  {
+    "file": "input-regression/trigger/test_input.py",
+    "bytes": 4343,
+    "sha256": "97858688f778c4c7e0cc6be5ddc44d8c6426a7de171b9502a1a43354c90599f1"
+  },
+  {
+    "file": "live-integration-r04/live-receiver-validation.json",
+    "bytes": 756626,
+    "sha256": "7ca2782f6b5b45aa4c4eb1062498df14e6a1a3faa7922aa36a74e312c6a3da8d"
+  },
+  {
+    "file": "live-integration-shipping-r02/live-receiver-validation.json",
+    "bytes": 757351,
+    "sha256": "8fca0f19206e99cb472f025ac93f3712474ca956fac1c48cadcb3d1dda5e97ac"
+  },
+  {
+    "file": "live-integration-floor-fixture/live-receiver-validation.json",
+    "bytes": 376635,
+    "sha256": "5acea00f4ec0edf065cd928031db29651f14957790108b11c9ca2d113609ca8e"
+  },
+  {
+    "file": "README.md",
+    "bytes": 7157,
+    "sha256": "4f8d533c178de46766c3f541c1cb3526796a2a691bfa0ac30cfcbf2f33ab8a57"
+  },
+  {
+    "file": "TELEMETRY_CONTRACT.md",
+    "bytes": 4265,
+    "sha256": "32470ae57a97e8f4a8911524f0f8fd28a95a8b105d6be7643c8868037d81a3f4"
+  },
+  {
+    "file": "FINAL_QA.json",
+    "bytes": 2104,
+    "sha256": "ba119b88a990bdabaefe33994583dbe167cf51734eca1944e1826f6481a07d46"
+  },
+  {
+    "file": "SOURCE_DELTA.json",
+    "bytes": 2470,
+    "sha256": "14611f8e1e8984299ce95b89f10186a85ec4632002aedac63380a9e971664acc"
+  },
+  {
+    "file": "protected-baseline-sha256.json",
+    "bytes": 2788,
+    "sha256": "5059e80a51515af7c8e500e518b76c3f45f527b3b63f430435c626977a5d9704"
+  },
+  {
+    "file": "registration-proof.json",
+    "bytes": 794,
+    "sha256": "a67bb9c34c52053951af1ec4710bd2fe2de6e0415f3bf2c5fa6331e1c46d9009"
+  },
+  {
+    "file": "floor-baseline-inspection.json",
+    "bytes": 229446,
+    "sha256": "579c7fbe9f0ce8b22a480e3a0186338a6934e893f202763395ccd745995fdf41"
+  },
+  {
+    "file": "osc-wire-validation.json",
+    "bytes": 1618,
+    "sha256": "bc3443f98a815763f25b8fe273e8ab4babc84bff02211de7090d85e87b20594b"
+  },
+  {
+    "file": "osc-pie-r03-capture.json",
+    "bytes": 149129,
+    "sha256": "6326412418edb7c022021a46c6fa33d291e9c892c673f804a79892d4422d363a"
+  },
+  {
+    "file": "sender-pie-validation.json",
+    "bytes": 2743,
+    "sha256": "20405c65e4f354f210cc9dfda7e22c111bc5361e2ac258ceef7bf71cbbb791d2"
+  },
+  {
+    "file": "sender-pie-inside-profile-validation.json",
+    "bytes": 2772,
+    "sha256": "2cafd362f915d6382ff628f168a533dd873b52a41e52edab9d9d12b1d0cdcf7e"
+  },
+  {
+    "file": "receiver-floor-behavior-validation.json",
+    "bytes": 408,
+    "sha256": "a5c675d87cb651c144e4c09f19b4230cefd66c36c1dc145ec0bf3a9f40aeb1c4"
+  },
+  {
+    "file": "runtime-staging-proof.json",
+    "bytes": 12575,
+    "sha256": "f73a70592eec665004e332120c5c3a797aa7713b9ceb03d301acbf5e8d38db49"
+  },
+  {
+    "file": "shipping-runtime-staging.json",
+    "bytes": 176,
+    "sha256": "86f336d6334d6ae9bb60402a951f9c60ff95a7120f375ce7e703a9cd3e2aee93"
+  },
+  {
+    "file": "installer-validation.json",
+    "bytes": 688,
+    "sha256": "229ed018a473fa09e31469c34dbdd0bd3ed156b903e254addf97b1701e789009"
+  },
+  {
+    "file": "final-chunked-binary-delta-proof.json",
+    "bytes": 6298,
+    "sha256": "5ae8e0c99ce650b76502ac1a99ba9ba78f71ac3c7ff85ff6d1fd393b84f01fcf"
+  },
+  {
+    "file": "packaged-sender-r04-validation.json",
+    "bytes": 890,
+    "sha256": "5e371b488d3e5591a40d50577d49930ca4b5282fbc11e53facb7eec28bf80d01"
+  },
+  {
+    "file": "packaged-sender-shipping-r02-validation.json",
+    "bytes": 946,
+    "sha256": "7bc1b9f44e06028dca2e9bc9ce1b04e03be6ef05c2e8616771096f42f30644da"
+  },
+  {
+    "file": "packaged-sender-off-validation.json",
+    "bytes": 887,
+    "sha256": "906d50ecc55af6332903ac1b3fbe9ec91758b5d88e43a216add3e12028c95f7e"
+  },
+  {
+    "file": "osc-sender-off-capture.json",
+    "bytes": 2,
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  {
+    "file": "ApplySenderDelta.cs",
+    "bytes": 3950,
+    "sha256": "6fe26bae8d55c75bffcd37fd95c3a1cc809d75235aef1c33e1cfca68917fa1d6"
+  },
+  {
+    "file": "make_metadata_overlay.py",
+    "bytes": 1763,
+    "sha256": "7844155b95cd699936ed446419381a4880d084a750b114d0601a3b3c13c90a78"
+  },
+  {
+    "file": "make_empty_iostore.py",
+    "bytes": 1465,
+    "sha256": "76a5c4f94af26b5f5814b5b73c8f24f3f7083dea6f9ff09a702ecc49933a9c64"
+  },
+  {
+    "file": "make_final_delta.py",
+    "bytes": 3096,
+    "sha256": "34e2315f40077537e0fb35105d659f9bf3cd89da73d1ad9afda584a82a9add97"
+  },
+  {
+    "file": "prepare_payload.py",
+    "bytes": 1452,
+    "sha256": "d5946743cc58f86aea4db262c819af48073a6d5803223e711af511838da289da"
+  },
+  {
+    "file": "prepare_runtime.py",
+    "bytes": 1738,
+    "sha256": "c933bbdb596262e12bfc1fe18ef394e2d0edb0223b706a75f541fb2a56ba5f06"
+  },
+  {
+    "file": "prepare_shipping_runtime.py",
+    "bytes": 1282,
+    "sha256": "1025aea78a34036ad35d05228bfb0e0b536dbd24fe2ab503e6fd8b1d4ff48c5f"
+  },
+  {
+    "file": "validate_installer.py",
+    "bytes": 3020,
+    "sha256": "4b11e925ece305afd50f803bdc7cb1690ad7b33717299be0e744306e930cd78f"
+  },
+  {
+    "file": "capture_osc.py",
+    "bytes": 1304,
+    "sha256": "30c14a967b35819ba176fa593b0b0b2b10d2c69ff58ed16b08ee5bce397dbdbc"
+  },
+  {
+    "file": "validate_packets.py",
+    "bytes": 2353,
+    "sha256": "2e48c853ee67f21856eeae8d2fb17e132e2ece9dcaaf9ea255b1a2a0eea7ec1d"
+  },
+  {
+    "file": "test_sender.py",
+    "bytes": 3890,
+    "sha256": "e9cafc7d763741a899d684dcb2954c9cdd47789bf9bf7ec7c0c8daae17640d44"
+  },
+  {
+    "file": "test_sender_inside_profile.py",
+    "bytes": 3968,
+    "sha256": "d360d1a5057d396b944d3f3e0543625477b187de2c4bf7196ea41c32b5f69844"
+  },
+  {
+    "file": "run_regressions.py",
+    "bytes": 2482,
+    "sha256": "80b837a13e30bfde6fec4fad8fc2ad21f9ec21599b12c660aed9162cb2a8d74e"
+  },
+  {
+    "file": "smoke_sender.py",
+    "bytes": 4305,
+    "sha256": "5c7acb45d2dc6eb8925636a78a12eef1430b98416f9b3d7a4155a0d70f2ccea2"
+  },
+  {
+    "file": "metadata-overlay/proof.json",
+    "bytes": 388,
+    "sha256": "c43effc874aba361e90f7b782ea75ebb80ed090fc5ccfb3aff3cd09eaf78b64c"
+  },
+  {
+    "file": "metadata-overlay/overlay-files.json",
+    "bytes": 494,
+    "sha256": "d83fb9eb8f35189cbc8eed0aa017589ae96d01e971be3ca49b1177bfdea9de62"
+  },
+  {
+    "file": "live-receiver/Program.cs",
+    "bytes": 2221,
+    "sha256": "afba1aec586efd5880aad49c2a082911563b055bd4df78c29d04054868a23f8a"
+  },
+  {
+    "file": "live-receiver/LiveReceiver.csproj",
+    "bytes": 735,
+    "sha256": "b87f3174dd258f971aa176cbdd49791f26af613b22476d1911e5660345a37ba9"
+  },
+  {
+    "file": "live-receiver/NuGet.Config",
+    "bytes": 74,
+    "sha256": "9508cae5f76364f56e80eb97cb16493977243cf38e5cca6284e3d74f83b20a2c"
+  },
+  {
+    "file": "installer/ProjectorSender.ps1",
+    "bytes": 8755,
+    "sha256": "aa1770558b5cf3c01c95bb7087aaf5b05ad6e60e81b864edec4e021121a5cd42"
+  },
+  {
+    "file": "installer/sender-manifest.json",
+    "bytes": 16484,
+    "sha256": "a59e77c9dba48dfbf8107c94d9922175aa41ae2c0067976e20faa63a1891f1ae"
+  },
+  {
+    "file": "installer/Start_Vive_Projector.cmd",
+    "bytes": 131,
+    "sha256": "52ad091b44bdd1202ac7ccb61f89e45ee3b82f6642ccc0ba40a5cba8259a2744"
+  },
+  {
+    "file": "installer/Start_Quest_Projector.cmd",
+    "bytes": 132,
+    "sha256": "62a64c9b274f32dc10dbc5a7a0de6a3026f217a494dc7336a4832a60ec4796e7"
+  },
+  {
+    "file": "PUBLICATION_NOTICE.json",
+    "bytes": 2650,
+    "sha256": "c2d16c67832107ab3067f47bac23c76b8c8cd4d27f1ca08cde452c587b1ca521"
+  }
+]
