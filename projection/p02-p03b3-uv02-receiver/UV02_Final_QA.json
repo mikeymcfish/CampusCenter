@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "native_mapped_whole_and_fireplace_views_visually_reviewed": true,
+  "source_files_checked_unchanged": 317,
+  "changed_source_files": [],
+  "legacy_vertex_normal_UV_and_face_records_exact": true,
+  "original_UV_repacked": false,
+  "new_chart_overlaps_legacy_or_other_charts": false,
+  "new_solid_manifold": true,
+  "new_receiver_dimensions_mm": [
+    657.5999999999999,
+    512.0602094000001,
+    46.872
+  ],
+  "scale_denominator": 100,
+  "limitation": "Projection reference overlay retains concealed floor/contact surfaces; this OBJ is not a printable replacement. Use P03 B3 3MF. Orthographic mapped previews do not verify physical projector calibration.",
+  "media_scope": "One separately named Commons compatibility test; no original media changed."
+}

@@ -1,0 +1,91 @@
+{
+  "scope": "P02 five original 1:100 tiles plus P03 B3 only; projection overlay, not printable geometry",
+  "original_package_sha256": "df066be200b8deb3c6e8c683297f03e12b3608865ab4d1618e6f495437ed1106",
+  "publication_changes": "Private provenance path replaced by basename in compatibility manifest only; OBJ, MTL, images and other files unchanged.",
+  "files": [
+    {
+      "file": "Atlas_Diagnostic.png",
+      "bytes": 3401065,
+      "sha256": "c80845a068f5e7f137119792ce75f80cead160c4459513c44b38c78b1829d8df",
+      "original_bytes_preserved": true
+    },
+    {
+      "file": "CampusCenter_P02_Assembly_1_100_UV01.mtl",
+      "bytes": 275,
+      "sha256": "8f71eea8b37df7d0705cdfa9f69afde3d0fbde5cd8e524e04ae4b4f88de3c715",
+      "original_bytes_preserved": true
+    },
+    {
+      "file": "CampusCenter_P02plusP03B3_Assembly_1_100_UV02.obj",
+      "bytes": 16613878,
+      "sha256": "b949784cbb3f833d10d82fdd48d469ac3fac1b8ac723f7cc08588ca633a59fba",
+      "original_bytes_preserved": true
+    },
+    {
+      "file": "Fireplace_New_Chart_Mask_8192.png",
+      "bytes": 79491,
+      "sha256": "6bac2d20a0ce19d68c6c9b3dc99ed2a67f579782c4a1ee3862a2743df2abf627",
+      "original_bytes_preserved": true
+    },
+    {
+      "file": "Fireplace_Only_Patch_8192.png",
+      "bytes": 221821,
+      "sha256": "ce879b8ffb26cd44099b5c251584231535da08e7c4b3e0f5dad57e1fc710bb70",
+      "original_bytes_preserved": true
+    },
+    {
+      "file": "Native_Receiver_Reapplication_QA.json",
+      "bytes": 2210,
+      "sha256": "49607ba8a847a26853c925e8a159ee330106fea64418bb4e5c6e5408a69a041c",
+      "original_bytes_preserved": true
+    },
+    {
+      "file": "READ_ME.txt",
+      "bytes": 1381,
+      "sha256": "436ee7368eb91a395bd3312ab945986fb92ab71e5e9448c2da1d65ea1da845b9",
+      "original_bytes_preserved": true
+    },
+    {
+      "file": "Tour_Student_Commons_P02plusP03B3_UV02_Test_Atlas_8192.png",
+      "bytes": 540290,
+      "sha256": "4e0d4eaa374072905f449b70cabee590dd1245fc9962357f54b943ec02e89947",
+      "original_bytes_preserved": true
+    },
+    {
+      "file": "UV02_Commons_Test_Fireplace_Mapped_Closeup.png",
+      "bytes": 1250306,
+      "sha256": "053c8733b12bd6c2ababe31d64388a512ad17e54a1d2f7ddbb73d3b5a362a604",
+      "original_bytes_preserved": true
+    },
+    {
+      "file": "UV02_Commons_Test_Native_Mapped_Preview.png",
+      "bytes": 2447676,
+      "sha256": "2ae2d5a0f28fc1ce88f99bc20fa6741554112c522f3554c6a5165bf2b4c7108e",
+      "original_bytes_preserved": true
+    },
+    {
+      "file": "UV02_Compatibility_And_Surface_Manifest.json",
+      "bytes": 2295532,
+      "sha256": "c3f6b32c921bb0a7114494436339906d23f9d340242e3b1f37471fd9c14cca41",
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "UV02_Diagnostic_Fireplace_Mapped_Closeup.png",
+      "bytes": 1431879,
+      "sha256": "b5a0a94f1069b199de1ec1a8735f35d975ed875f564798e10d366341fa0c812d",
+      "original_bytes_preserved": true
+    },
+    {
+      "file": "UV02_Diagnostic_Native_Mapped_Preview.png",
+      "bytes": 4176826,
+      "sha256": "6aec69dc20735db6edefe746058794ac6e5d07cb62a0985669bf6bae834a382d",
+      "original_bytes_preserved": true
+    },
+    {
+      "file": "UV02_Final_QA.json",
+      "bytes": 796,
+      "sha256": "e41b1d5a9715ee4f4065f8d8028cefabdae75e40eae39ca1211e51468a47c8d6",
+      "original_bytes_preserved": true
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # Current deliverables
 
-[Corrected B3 fireplace tile, P03](print/r29-p03-b3-fireplace/README.md) replaces only P02 B3 at 1:100. Projection receiver update remains pending.
+[Corrected B3 fireplace tile, P03](print/r29-p03-b3-fireplace/README.md) replaces only P02 B3 at 1:100. [Matched UV02 receiver](projection/p02-p03b3-uv02-receiver/README.md) is available; full revised media and physical calibration remain pending.
 
 [Optional Pac-Man-style P01 reference kit](projection/production-p01/pacman-test-prototype/README.md) is available; the whole-space single-main-character chase remains pending.
 

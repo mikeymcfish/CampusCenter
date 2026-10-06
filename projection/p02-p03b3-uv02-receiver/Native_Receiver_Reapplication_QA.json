@@ -1,0 +1,64 @@
+{
+  "status": "PASS",
+  "Blender_version": "5.0.0",
+  "source_OBJ_sha256": "b949784cbb3f833d10d82fdd48d469ac3fac1b8ac723f7cc08588ca633a59fba",
+  "fresh_factory_import": true,
+  "import_checks": [
+    {
+      "part": "Glazing",
+      "triangles": 708,
+      "coordinate_error_mm": 2.8417968792382453e-05,
+      "UV_error_px_at_8192": 0.00024408883200521814,
+      "identity_world_transform": true
+    },
+    {
+      "part": "HangingLoops",
+      "triangles": 1128,
+      "coordinate_error_mm": 3.035468751022563e-05,
+      "UV_error_px_at_8192": 0.00024413882238150109,
+      "identity_world_transform": true
+    },
+    {
+      "part": "Opaque",
+      "triangles": 74138,
+      "coordinate_error_mm": 3.0114062496977567e-05,
+      "UV_error_px_at_8192": 0.0002441406240905053,
+      "identity_world_transform": true
+    },
+    {
+      "part": "Opaque_Fireplace_P03_B3",
+      "triangles": 2756,
+      "coordinate_error_mm": 3.0517578011313162e-05,
+      "UV_error_px_at_8192": 0.0002440312564431224,
+      "identity_world_transform": true
+    }
+  ],
+  "all_parts_share_one_atlas": true,
+  "shader": "Emission strength1 sRGB Standard view nearest sampling; no second lighting",
+  "lights_in_scene": 0,
+  "renders": [
+    {
+      "atlas": "Atlas_Diagnostic.png",
+      "preview": "UV02_Diagnostic_Native_Mapped_Preview.png",
+      "view": "Exact unchanged +Z orthographic coordinate contract"
+    },
+    {
+      "atlas": "Atlas_Diagnostic.png",
+      "preview": "UV02_Diagnostic_Fireplace_Mapped_Closeup.png",
+      "view": "+Z fireplace closeup; camera only changed"
+    },
+    {
+      "atlas": "Tour_Student_Commons_P02plusP03B3_UV02_Test_Atlas_8192.png",
+      "preview": "UV02_Commons_Test_Native_Mapped_Preview.png",
+      "view": "Exact unchanged +Z orthographic coordinate contract"
+    },
+    {
+      "atlas": "Tour_Student_Commons_P02plusP03B3_UV02_Test_Atlas_8192.png",
+      "preview": "UV02_Commons_Test_Fireplace_Mapped_Closeup.png",
+      "view": "+Z fireplace closeup; camera only changed"
+    }
+  ],
+  "physical_projection_verified": false,
+  "old_receiver_or_media_changed": false,
+  "saved_original_Blender_or_Unreal_files": false
+}
