@@ -1,0 +1,513 @@
+{
+  "status": "PASS: source-aligned fireplace restored into only tile B3",
+  "revision": "R03 fireplace-only correction",
+  "created_UTC": "2026-10-06T08:00:48.333705-04:00",
+  "tile": "B3",
+  "file": "Ground_R29_P03_Tile_B3_1_100_Fireplace.3mf",
+  "bytes": 159626,
+  "sha256": "0873b4f30cebc013c030a0a0ac1f7b1f715ca4463ce551101e1668a91a2293ad",
+  "original_file": "Ground_R29_P02_Tile_B3_1_100.3mf",
+  "original_file_sha256": "eb0c72d39a0adeb5635ce69dc2108668733c376fa868b44d10d4700894b8f61b",
+  "cause": "The non-architectural exclusion checks a substring fire, which unintentionally excluded physical fireplace/hearth/firebox/log actors. They are absent from P02 included_actors.",
+  "native_physical_actors_restored": [
+    {
+      "actor": "StaticMeshActor_334",
+      "label": "003 fireplace_surround / C_V6_Fireplace_plan_aligned_pier",
+      "native_full_volume_mm3": 20651.54781586091,
+      "included_closed_volume": {
+        "label": "StaticMeshActor_334",
+        "watertight": true,
+        "winding_consistent": true,
+        "nonmanifold_edges": 0,
+        "components": 1,
+        "vertices": 32,
+        "triangles": 60,
+        "bounds_mm": [
+          [
+            517.3424097061157,
+            325.42774963378906,
+            4.18
+          ],
+          [
+            545.0031427383423,
+            334.4277648925781,
+            46.872
+          ]
+        ],
+        "dimensions_mm": [
+          27.660733032226517,
+          9.000015258789062,
+          42.692
+        ],
+        "volume_mm3": 10368.045859140411
+      }
+    },
+    {
+      "actor": "StaticMeshActor_335",
+      "label": "003 fireplace_surround / C_V6_V5_Firebox_back_corrected",
+      "native_full_volume_mm3": 74.78401844786949,
+      "included_closed_volume": {
+        "label": "StaticMeshActor_335",
+        "watertight": true,
+        "winding_consistent": true,
+        "nonmanifold_edges": 0,
+        "components": 1,
+        "vertices": 8,
+        "triangles": 12,
+        "bounds_mm": [
+          [
+            525.0227739334107,
+            327.4277473449707,
+            7.200000190734864
+          ],
+          [
+            537.3227785110474,
+            328.2277473449707,
+            14.799999237060547
+          ]
+        ],
+        "dimensions_mm": [
+          12.300004577636741,
+          0.7999999999999545,
+          7.599999046325683
+        ],
+        "volume_mm3": 74.78401844786822
+      }
+    },
+    {
+      "actor": "StaticMeshActor_336",
+      "label": "003 fireplace_surround / C_V6_V5_Fireplace_hearth_corrected",
+      "native_full_volume_mm3": 477.90077346318515,
+      "included_closed_volume": {
+        "label": "StaticMeshActor_336",
+        "watertight": true,
+        "winding_consistent": true,
+        "nonmanifold_edges": 0,
+        "components": 1,
+        "vertices": 16,
+        "triangles": 28,
+        "bounds_mm": [
+          [
+            516.4227777481079,
+            320.22774505615234,
+            4.18
+          ],
+          [
+            545.9227746963501,
+            329.2277603149414,
+            6.5
+          ]
+        ],
+        "dimensions_mm": [
+          29.499996948242142,
+          9.000015258789062,
+          2.3200000000000003
+        ],
+        "volume_mm3": 615.9609805618353
+      }
+    },
+    {
+      "actor": "StaticMeshActor_722",
+      "label": "115 fireplace_logs / C_Charred_log_0",
+      "native_full_volume_mm3": 9.613118039659922,
+      "included_closed_volume": {
+        "label": "StaticMeshActor_722",
+        "watertight": true,
+        "winding_consistent": true,
+        "nonmanifold_edges": 0,
+        "components": 1,
+        "vertices": 240,
+        "triangles": 476,
+        "bounds_mm": [
+          [
+            526.8039707183838,
+            322.9867015838623,
+            6.500010190734611
+          ],
+          [
+            534.4907251358032,
+            325.2318406581879,
+            7.842296396026359
+          ]
+        ],
+        "dimensions_mm": [
+          7.686754417419479,
+          2.24513907432555,
+          1.3422862052917486
+        ],
+        "volume_mm3": 9.61311803965979
+      }
+    },
+    {
+      "actor": "StaticMeshActor_723",
+      "label": "115 fireplace_logs / C_Charred_log_1",
+      "native_full_volume_mm3": 9.344697549623353,
+      "included_closed_volume": {
+        "label": "StaticMeshActor_723",
+        "watertight": true,
+        "winding_consistent": true,
+        "nonmanifold_edges": 0,
+        "components": 1,
+        "vertices": 280,
+        "triangles": 556,
+        "bounds_mm": [
+          [
+            528.8972568511963,
+            324.6211225271225,
+            7.000009418854461
+          ],
+          [
+            536.5960292816162,
+            326.93513946533204,
+            8.30087565017675
+          ]
+        ],
+        "dimensions_mm": [
+          7.698772430419922,
+          2.3140169382095337,
+          1.3008662313222885
+        ],
+        "volume_mm3": 9.344697549623257
+      }
+    },
+    {
+      "actor": "StaticMeshActor_724",
+      "label": "115 fireplace_logs / C_Charred_log_2",
+      "native_full_volume_mm3": 9.237962299258276,
+      "included_closed_volume": {
+        "label": "StaticMeshActor_724",
+        "watertight": true,
+        "winding_consistent": true,
+        "nonmanifold_edges": 0,
+        "components": 1,
+        "vertices": 248,
+        "triangles": 492,
+        "bounds_mm": [
+          [
+            527.5866558074952,
+            322.7280431747437,
+            7.000009713897453
+          ],
+          [
+            534.9292217254639,
+            327.0719568252564,
+            8.330761228332268
+          ]
+        ],
+        "dimensions_mm": [
+          7.342565917968727,
+          4.343913650512718,
+          1.330751514434815
+        ],
+        "volume_mm3": 9.237962299258053
+      }
+    },
+    {
+      "actor": "StaticMeshActor_123",
+      "label": "003 fireplace_surround / C_V6_V5_Fireplace_hearth_corrected2",
+      "native_full_volume_mm3": 238.95038673159195,
+      "included_closed_volume": {
+        "label": "StaticMeshActor_123",
+        "watertight": true,
+        "winding_consistent": true,
+        "nonmanifold_edges": 0,
+        "components": 1,
+        "vertices": 8,
+        "triangles": 12,
+        "bounds_mm": [
+          [
+            523.7977769629396,
+            320.22774508178713,
+            17.699999952316286
+          ],
+          [
+            538.5477754370606,
+            329.2277603405762,
+            19.5
+          ]
+        ],
+        "dimensions_mm": [
+          14.749998474121071,
+          9.000015258789062,
+          1.8000000476837137
+        ],
+        "volume_mm3": 238.9503867315931
+      }
+    },
+    {
+      "actor": "StaticMeshActor_127",
+      "label": "003 fireplace_surround / C_V6_V5_Fireplace_hearth_corrected4",
+      "native_full_volume_mm3": 192.35506131892225,
+      "included_closed_volume": {
+        "label": "StaticMeshActor_127",
+        "watertight": true,
+        "winding_consistent": true,
+        "nonmanifold_edges": 0,
+        "components": 1,
+        "vertices": 8,
+        "triangles": 12,
+        "bounds_mm": [
+          [
+            535.8000000000001,
+            321.29999008178714,
+            6.26312561416626
+          ],
+          [
+            537.6000000476837,
+            330.3000053405762,
+            18.136874385833742
+          ]
+        ],
+        "dimensions_mm": [
+          1.8000000476836249,
+          9.000015258789062,
+          11.873748771667483
+        ],
+        "volume_mm3": 192.35506131891938
+      }
+    },
+    {
+      "actor": "StaticMeshActor_137",
+      "label": "003 fireplace_surround / C_V6_V5_Fireplace_hearth_corrected5",
+      "native_full_volume_mm3": 192.3550613189259,
+      "included_closed_volume": {
+        "label": "StaticMeshActor_137",
+        "watertight": true,
+        "winding_consistent": true,
+        "nonmanifold_edges": 0,
+        "components": 1,
+        "vertices": 8,
+        "triangles": 12,
+        "bounds_mm": [
+          [
+            524.3000000000001,
+            321.29999008178714,
+            6.26312561416626
+          ],
+          [
+            526.1000000476837,
+            330.3000053405762,
+            18.136874385833742
+          ]
+        ],
+        "dimensions_mm": [
+          1.8000000476836249,
+          9.000015258789062,
+          11.873748771667483
+        ],
+        "volume_mm3": 192.35506131892907
+      }
+    }
+  ],
+  "adaptations": [
+    {
+      "actor": "StaticMeshActor_334",
+      "kind": "Clip tall native fireplace pier to unchanged P02 ground-floor/open-roof cap",
+      "native_Z_max_mm": 88.19999389648439,
+      "print_Z_max_mm": 46.872,
+      "native_XY_unchanged": true
+    },
+    {
+      "actor": "StaticMeshActor_334",
+      "kind": "0.02mm positive engagement below source floor datum",
+      "source_XY_unchanged": true
+    },
+    {
+      "actor": "StaticMeshActor_335",
+      "label": "003 fireplace_surround / C_V6_V5_Firebox_back_corrected",
+      "kind": "Symmetric minimum-feature thickness",
+      "center_and_source_alignment_preserved": true,
+      "changes": [
+        {
+          "axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "from_mm": 0.34999847412109375,
+          "to_mm": 0.8
+        }
+      ]
+    },
+    {
+      "actor": "StaticMeshActor_336",
+      "kind": "Supported raised hearth footprint down to the existing floor",
+      "native_hearth_bottom_mm": 4.6999999523162845,
+      "support_bottom_mm": 4.18,
+      "hearth_top_and_XY_outline_preserved": true
+    }
+  ],
+  "all_restored_parts_Opaque_extruder1": true,
+  "glazing_extruder2_unchanged": true,
+  "glazing_vertex_and_triangle_strings_unchanged": true,
+  "fire_flame_or_particle_geometry_invented": false,
+  "tiny_ember_meshes_included": false,
+  "original_opaque_volume_mm3": 179374.77829956062,
+  "corrected_opaque_volume_mm3": 190459.7176410562,
+  "added_fireplace_volume_mm3": 11084.939341495987,
+  "old_opaque_volume_removed_mm3": 0.0,
+  "added_geometry_bounds_assembly_mm": [
+    [
+      471.9999999666666,
+      319.20000000000005,
+      4.2
+    ],
+    [
+      631.5999999666666,
+      334.4277648925781,
+      46.872
+    ]
+  ],
+  "all_opaque_one_closed_connected_base_body": true,
+  "reopened_3MF_mesh_QA": {
+    "Opaque": {
+      "label": "Reopened Opaque",
+      "watertight": true,
+      "winding_consistent": true,
+      "nonmanifold_edges": 0,
+      "components": 1,
+      "vertices": 8195,
+      "triangles": 16386,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          245.925,
+          192.4083333,
+          46.872
+        ]
+      ],
+      "dimensions_mm": [
+        245.925,
+        192.4083333,
+        46.872
+      ],
+      "volume_mm3": 190459.71770816378
+    },
+    "Glazing": {
+      "label": "Reopened Glazing",
+      "watertight": true,
+      "winding_consistent": true,
+      "nonmanifold_edges": 0,
+      "components": 3,
+      "vertices": 24,
+      "triangles": 36,
+      "bounds_mm": [
+        [
+          165.0806,
+          27.3361333,
+          4.2
+        ],
+        [
+          245.925,
+          190.1769333,
+          44.372
+        ]
+      ],
+      "dimensions_mm": [
+        80.84440000000001,
+        162.8408,
+        40.172
+      ],
+      "volume_mm3": 10144.053469439898
+    }
+  },
+  "reopened_material_overlap_mm3": 0.0,
+  "plate_rotation_origin_seams_build_transform_preserved": true,
+  "plate_mesh_to_assembly": [
+    [
+      0.0,
+      1.0,
+      0.0,
+      444.79166666666663
+    ],
+    [
+      -1.0,
+      0.0,
+      0.0,
+      498.8
+    ],
+    [
+      0.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "plate_rotation_deg": 90,
+  "H2D_static_fit": {
+    "shared_xy_mm": [
+      [
+        25,
+        0
+      ],
+      [
+        325,
+        320
+      ]
+    ],
+    "bed_model_bounds_mm": [
+      [
+        52.037499999999994,
+        8.0,
+        0.0
+      ],
+      [
+        297.9625,
+        200.40833329999998,
+        46.872
+      ]
+    ],
+    "model_plus_5mm_brim_bounds_xy_mm": [
+      [
+        47.037499999999994,
+        3.0
+      ],
+      [
+        302.9625,
+        205.40833329999998
+      ]
+    ],
+    "purge_tower_plus_brim_reservation_xy_mm": [
+      [
+        65,
+        242
+      ],
+      [
+        135,
+        312
+      ]
+    ],
+    "rear_toolhead_exclusion_xy_mm": [
+      [
+        145,
+        310
+      ],
+      [
+        256,
+        320
+      ]
+    ],
+    "geometry_envelope_matches_original_B3": true,
+    "static_fit_passed": true,
+    "actual_sliced_tower_size_verified": false
+  },
+  "original_files_SHA256_verified_unchanged": 317,
+  "changed_original_files": [],
+  "other_tiles_updated": [],
+  "hanging_loops_on_B2_unchanged": true,
+  "actual_slice_preview_verified": false,
+  "physical_print_verified": false,
+  "projection_impact": "Existing P02 UV01 projection receiver and all media remain unchanged. The added B3 fireplace needs a separately matched receiver/UV update and calibration review before claiming projection alignment on its new surfaces.",
+  "current_projection_UV_or_media_changed": false,
+  "native_actual_geometry_visual_review": "PASS: corrected tile and fireplace close-up inspected; source firebox opening, mantel, hearth and real logs present"
+}

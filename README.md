@@ -1,5 +1,7 @@
 # Current deliverables
 
+[Corrected B3 fireplace tile, P03](print/r29-p03-b3-fireplace/README.md) replaces only P02 B3 at 1:100. Projection receiver update remains pending.
+
 [Optional Pac-Man-style P01 reference kit](projection/production-p01/pacman-test-prototype/README.md) is available; the whole-space single-main-character chase remains pending.
 
 [Ripple Rooms P01 loop downloads](projection/production-p01/ripple-rooms/README.md) are now available for the1:100 UV01 model.
