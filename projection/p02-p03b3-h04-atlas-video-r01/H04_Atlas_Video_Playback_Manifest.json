@@ -1,0 +1,87 @@
+{
+  "status": "PASS: three completed H04 projection atlas movies",
+  "revision": "H04 final bright same-hue furniture, Commons-only fireplace",
+  "movies": [
+    {
+      "variant": "hap8192",
+      "file": "CampusCenter_UV02_H04_All13_30Pages_300s_ATLAS_8192_HAPQ_Playback.mov",
+      "bytes": 1039239191,
+      "sha256": "f45ada6f020899a5aba27021e3513b95d0138b299cf789d7bfb8b26a2e71b958",
+      "resolution": [
+        8192,
+        8192
+      ],
+      "duration_seconds": 300,
+      "projection_atlas_movie": true,
+      "codec": "hap",
+      "sample_rate_fps": 1,
+      "QA_file": "hap8192_QA.json",
+      "Mac_MadMapper_playback_tested": false
+    },
+    {
+      "variant": "hap4096",
+      "file": "CampusCenter_UV02_H04_All13_30Pages_300s_ATLAS_4096_HAPQ_Playback.mov",
+      "bytes": 276091231,
+      "sha256": "9d928dce7536db494e3bb9984b399d81d493556873fddd900d496b9e0cb82828",
+      "resolution": [
+        4096,
+        4096
+      ],
+      "duration_seconds": 300,
+      "projection_atlas_movie": true,
+      "codec": "hap",
+      "sample_rate_fps": 1,
+      "QA_file": "hap4096_QA.json",
+      "Mac_MadMapper_playback_tested": false
+    },
+    {
+      "variant": "lossless8192",
+      "file": "CampusCenter_UV02_H04_All13_30Pages_300s_ATLAS_8192_Lossless_PNG.mov",
+      "bytes": 14039402,
+      "sha256": "0006f47e7cd825836476c748a0ef234756ffe011d962588274310bce9e5ae538",
+      "resolution": [
+        8192,
+        8192
+      ],
+      "duration_seconds": 300,
+      "projection_atlas_movie": true,
+      "codec": "png",
+      "sample_rate_fps": 0.1,
+      "QA_file": "lossless8192_QA.json",
+      "Mac_MadMapper_playback_tested": false
+    }
+  ],
+  "tour": {
+    "stops": 13,
+    "pages": 30,
+    "page_hold_seconds": 10,
+    "duration_seconds": 300,
+    "transition": "hard cuts",
+    "loop": "Five-minute file; enable loop in the existing playback setup if desired. No project/settings were changed."
+  },
+  "UV_registration": {
+    "receiver_OBJ_SHA256": "b949784cbb3f833d10d82fdd48d469ac3fac1b8ac723f7cc08588ca633a59fba",
+    "native_canvas": [
+      8192,
+      8192
+    ],
+    "fallback_canvas": [
+      4096,
+      4096
+    ],
+    "crop_or_repacking": false,
+    "shared_origin_scale_geometry_changed": false,
+    "registration": "Original UV02 numeric 1:100 model millimetres; +Z up, +Y north; original normalized UV coordinates retained"
+  },
+  "quality": {
+    "lossless_master": "Every original PNG packet is byte-identical; all 30 decoded page RGB arrays equal the original sources.",
+    "HAP_Q": "Lossy GPU-oriented playback; native pixel density in 8192 version.",
+    "4096_tradeoff": "Exact full-canvas 2:1 BOX reduction; half linear text resolution.",
+    "static_sample_rates": "HAP: 1 fps, 300 samples; PNG master: 0.1 fps, 30 ten-second samples. Static tour appearance and timing are unchanged.",
+    "physical_projection_and_Mac_MadMapper_playback": "Untested; offline decode is not a real-time Mac performance claim."
+  },
+  "all30_original_H04_atlases_unchanged": true,
+  "no_MadMapper_projects_cues_calibration_or_settings_changed": true,
+  "codec_reference": "https://hap.video/integrations",
+  "download_delivery": "Publisher should upload MOVs as direct downloadable release assets; QA archive is supplemental."
+}

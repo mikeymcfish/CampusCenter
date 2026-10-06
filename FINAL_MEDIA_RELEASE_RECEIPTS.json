@@ -383,6 +383,27 @@
           "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-projector-tracker-sender-r01-20261006/PUBLIC_INSTALLER_FLOW_QA.json"
         }
       ]
+    },
+    {
+      "tag": "campuscenter-h04-atlas-video-r01-lossless-20261006",
+      "tag_commit": "49afa9e407da5bf3b590ff2b08b254ae3b814c89",
+      "release_url": "https://github.com/mikeymcfish/CampusCenter/releases/tag/campuscenter-h04-atlas-video-r01-lossless-20261006",
+      "downloads": [
+        {
+          "file": "CampusCenter_UV02_H04_All13_30Pages_300s_ATLAS_8192_Lossless_PNG.mov",
+          "bytes": 14039402,
+          "sha256": "0006f47e7cd825836476c748a0ef234756ffe011d962588274310bce9e5ae538",
+          "role": "ACTUAL UV02 projection atlas MOV,8192 PNG lossless,300s,30samples held10s each; not camera preview",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-h04-atlas-video-r01-lossless-20261006/CampusCenter_UV02_H04_All13_30Pages_300s_ATLAS_8192_Lossless_PNG.mov"
+        },
+        {
+          "file": "PUBLIC_DOWNLOAD_MANIFEST.json",
+          "bytes": 320,
+          "sha256": "502cd3fc2190c5d0e5b0fcd0bbe9773a062d8bd2c08e9379f9d8b0a7558df237",
+          "role": "Public asset checksums",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-h04-atlas-video-r01-lossless-20261006/PUBLIC_DOWNLOAD_MANIFEST.json"
+        }
+      ]
     }
   ],
   "PacMan_original_movie": {
