@@ -1,0 +1,56 @@
+{
+  "A101_plan": {
+    "path": "Architectural Plans  King School Campus Center.PDF",
+    "SHA256": "0e3267332fba5a3fba3292faa48bf30552560c3968f46e916c74963d8e4f86ae",
+    "sheet": "A-101 Upper School First Floor Construction Plan",
+    "inspection": "Room labels visually checked in existing full-sheet source capture; PDF is image-only for text extraction. Gym label 000 visually enlarged and checked.",
+    "plan_labels": {
+      "100": "VESTIBULE",
+      "101": "CAFE",
+      "102": "STUDENT COMMONS",
+      "103": "RECEPTION",
+      "104": "ADMISSIONS OFFICE",
+      "105": "CRI GALLERY",
+      "106": "CORRIDOR",
+      "108": "INNOVATION LAB",
+      "112": "ASPIRE CLASSROOM",
+      "113": "COLLABORATION ROOM",
+      "123": "CORRIDOR",
+      "124": "ATHLETICS OFFICE",
+      "125": "ATHLETICS OFFICE",
+      "126": "ATHLETICS OFFICE",
+      "127": "ATHLETICS TRAINERS OFFICE",
+      "128": "ATHLETICS TRAINERS STG",
+      "129": "ATHLETIC TRAINERS",
+      "GYM": "EXISTING GYM"
+    },
+    "existing_gym_drawn_room_number": "000",
+    "UV01_gym_alias_retained": "GYM"
+  },
+  "R29_native_handoff": {
+    "path": "FINAL_R29_DESKTOP_AND_VIVE_SOURCE_HANDOFF.json",
+    "SHA256": "995323028069843bbbca3dca162fef71c779b8b517af4faee137d574fd71c99b",
+    "relevant_evidence": "Trainer furniture corrections and geometry-preservation evidence; native gym geometry unchanged. Supplement reads final physical P02 UV01 model and does not replay native changes."
+  },
+  "identity_distinctions": {
+    "Display_Hall": "User label maps to A101 CORRIDOR106; separate from CORRIDOR123 Trophy Hall and nonselected CORRIDOR110/130/131.",
+    "ASPIRE": "User Seminar Room label maps to A101 ASPIRE CLASSROOM112; separate from COLLABORATION ROOM113, with humanities role from user copy.",
+    "Entry_Reception": "One combined stop selects only existing room candidates100 and103. Cafe101 and Commons102 remain separate stops.",
+    "Athletics_Trainers": "A101 ATHLETIC TRAINERS129; trainers office127 and storage128 stay excluded.",
+    "Athletics_Office": "A101 has three separately numbered ATHLETICS OFFICE rooms124,125,126. No automatic choice or merged selection.",
+    "Gym": "Existing Gym000 is existing atlas GYM; no renumbering of source atlas."
+  },
+  "boundary_limits": "Identity verification does not certify every polygon in inherited UV01 room candidate masks. Open Cafe/Commons/Gallery/Display-Hall divisions and shared caps remain reference assignments. No perimeter extension or guessed corridor/stair ownership is added.",
+  "concrete_inherited_boundary_issues": [
+    {
+      "division": "Display Hall106 / nonselected corridor110",
+      "observation": "Existing face-level room assignments include floor triangles spanning the circulation division; blue reference shading exposes the extension.",
+      "action": "Do not treat current candidate mask as a verified numbered-room perimeter."
+    },
+    {
+      "division": "Trophy Hall123 / nonselected corridor130",
+      "observation": "Existing123 candidate floor assignment extends north toward the office/corridor130 area; reference shading exposes this.",
+      "action": "Do not expand final highlight ownership from the existing room label alone."
+    }
+  ]
+}

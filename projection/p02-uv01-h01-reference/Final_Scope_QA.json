@@ -1,0 +1,191 @@
+{
+  "all_P02_UV01_source_and_package_hashes_unchanged": true,
+  "source_files_verified": 197,
+  "geometry_UV_changes": [],
+  "models": [
+    {
+      "physical_scale_denominator": 100,
+      "all_existing_IDs_resolve": true,
+      "distinct_stop_selection_overlap": 0,
+      "nonhighlighted_receiver_pixels_retained_in_exclusion_mask": true,
+      "Office_HS11_empty_pending_choice": true,
+      "rows": [
+        {
+          "stop_id": "HS01",
+          "resolved_existing_surface_IDs": 281,
+          "reference_receiver_pixels": 230247,
+          "mask_matches_existing_room_ids_and_default_receiver": true
+        },
+        {
+          "stop_id": "HS02",
+          "resolved_existing_surface_IDs": 202,
+          "reference_receiver_pixels": 169118,
+          "mask_matches_existing_room_ids_and_default_receiver": true
+        },
+        {
+          "stop_id": "HS03",
+          "resolved_existing_surface_IDs": 3097,
+          "reference_receiver_pixels": 829929,
+          "mask_matches_existing_room_ids_and_default_receiver": true
+        },
+        {
+          "stop_id": "HS04",
+          "resolved_existing_surface_IDs": 198,
+          "reference_receiver_pixels": 138035,
+          "mask_matches_existing_room_ids_and_default_receiver": true
+        },
+        {
+          "stop_id": "HS05",
+          "resolved_existing_surface_IDs": 301,
+          "reference_receiver_pixels": 514941,
+          "mask_matches_existing_room_ids_and_default_receiver": true
+        },
+        {
+          "stop_id": "HS06",
+          "resolved_existing_surface_IDs": 504,
+          "reference_receiver_pixels": 988206,
+          "mask_matches_existing_room_ids_and_default_receiver": true
+        },
+        {
+          "stop_id": "HS07",
+          "resolved_existing_surface_IDs": 1337,
+          "reference_receiver_pixels": 865300,
+          "mask_matches_existing_room_ids_and_default_receiver": true
+        },
+        {
+          "stop_id": "HS08",
+          "resolved_existing_surface_IDs": 821,
+          "reference_receiver_pixels": 396734,
+          "mask_matches_existing_room_ids_and_default_receiver": true
+        },
+        {
+          "stop_id": "HS09",
+          "resolved_existing_surface_IDs": 721,
+          "reference_receiver_pixels": 384224,
+          "mask_matches_existing_room_ids_and_default_receiver": true
+        },
+        {
+          "stop_id": "HS10",
+          "resolved_existing_surface_IDs": 288,
+          "reference_receiver_pixels": 669805,
+          "mask_matches_existing_room_ids_and_default_receiver": true
+        },
+        {
+          "stop_id": "HS11",
+          "resolved_existing_surface_IDs": 0,
+          "reference_receiver_pixels": 0,
+          "mask_matches_existing_room_ids_and_default_receiver": true
+        },
+        {
+          "stop_id": "HS12",
+          "resolved_existing_surface_IDs": 121,
+          "reference_receiver_pixels": 335694,
+          "mask_matches_existing_room_ids_and_default_receiver": true
+        },
+        {
+          "stop_id": "HS13",
+          "resolved_existing_surface_IDs": 205,
+          "reference_receiver_pixels": 4142344,
+          "mask_matches_existing_room_ids_and_default_receiver": true
+        }
+      ]
+    },
+    {
+      "physical_scale_denominator": 250,
+      "all_existing_IDs_resolve": true,
+      "distinct_stop_selection_overlap": 0,
+      "nonhighlighted_receiver_pixels_retained_in_exclusion_mask": true,
+      "Office_HS11_empty_pending_choice": true,
+      "rows": [
+        {
+          "stop_id": "HS01",
+          "resolved_existing_surface_IDs": 327,
+          "reference_receiver_pixels": 995016,
+          "mask_matches_existing_room_ids_and_default_receiver": true
+        },
+        {
+          "stop_id": "HS02",
+          "resolved_existing_surface_IDs": 216,
+          "reference_receiver_pixels": 576204,
+          "mask_matches_existing_room_ids_and_default_receiver": true
+        },
+        {
+          "stop_id": "HS03",
+          "resolved_existing_surface_IDs": 3392,
+          "reference_receiver_pixels": 436009,
+          "mask_matches_existing_room_ids_and_default_receiver": true
+        },
+        {
+          "stop_id": "HS04",
+          "resolved_existing_surface_IDs": 228,
+          "reference_receiver_pixels": 626919,
+          "mask_matches_existing_room_ids_and_default_receiver": true
+        },
+        {
+          "stop_id": "HS05",
+          "resolved_existing_surface_IDs": 478,
+          "reference_receiver_pixels": 416344,
+          "mask_matches_existing_room_ids_and_default_receiver": true
+        },
+        {
+          "stop_id": "HS06",
+          "resolved_existing_surface_IDs": 562,
+          "reference_receiver_pixels": 449052,
+          "mask_matches_existing_room_ids_and_default_receiver": true
+        },
+        {
+          "stop_id": "HS07",
+          "resolved_existing_surface_IDs": 1617,
+          "reference_receiver_pixels": 544214,
+          "mask_matches_existing_room_ids_and_default_receiver": true
+        },
+        {
+          "stop_id": "HS08",
+          "resolved_existing_surface_IDs": 886,
+          "reference_receiver_pixels": 615725,
+          "mask_matches_existing_room_ids_and_default_receiver": true
+        },
+        {
+          "stop_id": "HS09",
+          "resolved_existing_surface_IDs": 787,
+          "reference_receiver_pixels": 521350,
+          "mask_matches_existing_room_ids_and_default_receiver": true
+        },
+        {
+          "stop_id": "HS10",
+          "resolved_existing_surface_IDs": 328,
+          "reference_receiver_pixels": 595403,
+          "mask_matches_existing_room_ids_and_default_receiver": true
+        },
+        {
+          "stop_id": "HS11",
+          "resolved_existing_surface_IDs": 0,
+          "reference_receiver_pixels": 0,
+          "mask_matches_existing_room_ids_and_default_receiver": true
+        },
+        {
+          "stop_id": "HS12",
+          "resolved_existing_surface_IDs": 135,
+          "reference_receiver_pixels": 781208,
+          "mask_matches_existing_room_ids_and_default_receiver": true
+        },
+        {
+          "stop_id": "HS13",
+          "resolved_existing_surface_IDs": 197,
+          "reference_receiver_pixels": 1846834,
+          "mask_matches_existing_room_ids_and_default_receiver": true
+        }
+      ]
+    }
+  ],
+  "original_user_copy_preserved": true,
+  "only_ASPIRE_placeholder_and_Entry_Reception_combine_edits": true,
+  "unicode_curly_apostrophe_preserved": true,
+  "all_PNGs_verified": 44,
+  "visual_review": [
+    "Annotated_13_Stop_Room_Map.png",
+    "assembly_1_100/Stop_Atlas_Reference.png"
+  ],
+  "boundary_status": "Reference selections only. Concrete inherited106/110 and123/130 floor-triangle extensions are flagged; no guessed perimeter is approved.",
+  "animations_cues_or_MadMapper_project_created": false
+}

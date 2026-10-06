@@ -1,0 +1,15 @@
+{
+  "questions": [
+    {
+      "id": "athletics_office_room_choice",
+      "question": "Which plan room(s) should the single Athletics Office stop cover: 124, 125, 126, or a combination?",
+      "context": "All three A101 labels are ATHLETICS OFFICE. Existing UV01 keeps them separate. HS11 masks are empty until answered; per-room/all-three candidate masks are included for review."
+    },
+    {
+      "id": "hall_circulation_boundaries",
+      "question": "For future highlight boundaries, should Display Hall106/Trophy Hall123 cover only their numbered A101 areas or include adjoining circulation areas110/130?",
+      "context": "The annotated map exposes inherited UV01 face assignments extending across these divisions. Current masks remain reference-only; no guessed perimeter is added."
+    }
+  ],
+  "other_boundary_notes": "Open Cafe/Commons/Gallery boundaries and shared caps remain inherited candidates; confirm exact perimeters before future final highlights."
+}

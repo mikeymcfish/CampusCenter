@@ -1,0 +1,18 @@
+{
+  "all_UV01_and_original_P02_baseline_files_unchanged": true,
+  "verified_baseline_files": 197,
+  "geometry_and_UV_coordinate_changes": [],
+  "source_labels": 13,
+  "original_user_copy_entries": 14,
+  "usable_copy_stops": 13,
+  "only_requested_copy_edits": true,
+  "nonhighlighted_geometry_preserved": true,
+  "reference_mask_overlap_pixels": 0,
+  "unexpected_selected_stops": 0,
+  "inactive_office_candidate_stop": "HS11",
+  "main_opaque_face_count": 74138,
+  "mask_rows_use_existing_atlas_convention": true,
+  "pending_question": true,
+  "projection_calibration_claimed": false,
+  "GitHub_push": false
+}

@@ -1,5 +1,7 @@
 # Current deliverables
 
+[H01 official copy and 13-stop reference supplement](projection/p02-uv01-h01-reference/README.md) is published with Athletics Office and hall-perimeter choices still unresolved. Masks remain provisional.
+
 [Canonical versions, downloads, opening instructions and pending inputs](PROJECT_DELIVERABLES.md). **Quest PC-VR R01 and ground-floor Print P02** join the preserved R29 desktop/Vive releases. Final MadMapper P02 UV01 model/atlas packages are published; room ownership review remains. All eight final admissions concepts are published with AI/fictional-person labels and combined manifests, as detailed in the index.
 
 ## Current R29 Vive with integrated grip patch
