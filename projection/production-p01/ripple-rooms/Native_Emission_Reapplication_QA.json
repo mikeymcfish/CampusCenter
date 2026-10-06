@@ -1,0 +1,61 @@
+{
+  "status": "PASS",
+  "native_Blender_version": "5.0.0",
+  "fresh_factory_scene_and_OBJ_import": true,
+  "source_OBJ_sha256": "5fb3d64faebe846255f84b4e4f2be832070fec649ea99a1005d69f0c802db45f",
+  "geometry_UV_origin_changes": [],
+  "import_checks": [
+    {
+      "part": "Glazing",
+      "triangles": 708,
+      "coordinate_error_mm": 2.8417968792382453e-05,
+      "UV_error": 2.979600000063698e-08,
+      "identity_world_transform": true
+    },
+    {
+      "part": "HangingLoops",
+      "triangles": 1128,
+      "coordinate_error_mm": 3.035468751022563e-05,
+      "UV_error": 2.9802102341491832e-08,
+      "identity_world_transform": true
+    },
+    {
+      "part": "Opaque",
+      "triangles": 74138,
+      "coordinate_error_mm": 3.0114062496977567e-05,
+      "UV_error": 2.980232227667301e-08,
+      "identity_world_transform": true
+    }
+  ],
+  "no_second_light_pass": true,
+  "lights_in_scene": 0,
+  "shader": "Emission strength1; sRGB input; Standard view; nearest sampling",
+  "projector_assumption": "Orthographic +Z normal floor view; hidden walls not claimed",
+  "rendered_atlases": [
+    {
+      "atlas": "Ripple_Rooms_Frame_0000_Atlas_4096.png",
+      "atlas_sha256": "d27a7b7ce03d565f2fa7ca21ba422ec97e9d9ac097291c2d2dcb45ccc1be41f3",
+      "native_emission_preview": "Ripple_Rooms_Frame_0000_Native_Emission_Preview.png",
+      "all_mesh_parts_share_one_atlas": true
+    },
+    {
+      "atlas": "Ripple_Rooms_Frame_0040_Atlas_4096.png",
+      "atlas_sha256": "f7a8292ffc8947586a978159f493923410605df68cda085fde15968bb3875224",
+      "native_emission_preview": "Ripple_Rooms_Frame_0040_Native_Emission_Preview.png",
+      "all_mesh_parts_share_one_atlas": true
+    },
+    {
+      "atlas": "Ripple_Rooms_Frame_0080_Atlas_4096.png",
+      "atlas_sha256": "b899dc9d59c26422aa58767642bf37888434d6f5496dcb17b74cc191c358b69b",
+      "native_emission_preview": "Ripple_Rooms_Frame_0080_Native_Emission_Preview.png",
+      "all_mesh_parts_share_one_atlas": true
+    },
+    {
+      "atlas": "Ripple_Rooms_Frame_0120_Atlas_4096.png",
+      "atlas_sha256": "a741a8f10016d35a8f5402609d0b4aeb69c036780666e42ce769e8d620555af5",
+      "native_emission_preview": "Ripple_Rooms_Frame_0120_Native_Emission_Preview.png",
+      "all_mesh_parts_share_one_atlas": true
+    }
+  ],
+  "physical_projection_tested": false
+}

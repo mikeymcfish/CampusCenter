@@ -1,0 +1,21 @@
+[
+  {
+    "file": "Ripple_Rooms_P02_UV01_1_100_4096_HAP.mov",
+    "bytes": 190003080,
+    "sha256": "fee7cb552e83128d2d9371708701b024c6ca61b890de5ac21bf1c226f356698a",
+    "role": "Primary HAP UV atlas movie"
+  },
+  {
+    "file": "Ripple_Rooms_P02_UV01_1_100_4096_AllIntra.mp4",
+    "bytes": 151245997,
+    "sha256": "a391451698567ac0a478acd51c18e439ab0510d332c6fb39c4b71b2081b28489",
+    "role": "Large all-intra MP4 UV atlas test alternative; not compact camera preview"
+  },
+  {
+    "file": "CampusCenter_P02_UV01_P01_Ripple_Rooms_Keyframes_and_QA_1_100.zip",
+    "bytes": 23581443,
+    "sha256": "4d83907c34e397624524314ae92e46f1dbf87086f5938a3ecac38441d6b531e6",
+    "role": "Atlas keyframes, mapped/native-emission previews, import instructions and QA",
+    "producer_package_sha256": "cd81b67b63007e33c706372c6996b931fe7e06aaa049e97ec6dd498086bda27a"
+  }
+]

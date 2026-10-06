@@ -1,5 +1,7 @@
 # Current deliverables
 
+[Ripple Rooms P01 loop downloads](projection/production-p01/ripple-rooms/README.md) are now available for the1:100 UV01 model.
+
 [Infinite Floor P01 loop downloads](projection/production-p01/infinite-floor/README.md) are now available for the1:100 UV01 model.
 
 [Tour static texture test packages](projection/production-p01/tour-statics/README.md) are available now for both physical scales.

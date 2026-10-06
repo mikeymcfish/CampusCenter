@@ -1,0 +1,11 @@
+# Ripple Rooms — P01 atlas loop
+
+- [Primary HAP UV atlas movie](https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-ripple-rooms-p01-20261006/Ripple_Rooms_P02_UV01_1_100_4096_HAP.mov) — 190.0 MB.
+- [Large all-intra MP4 UV atlas test alternative; not compact camera preview](https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-ripple-rooms-p01-20261006/Ripple_Rooms_P02_UV01_1_100_4096_AllIntra.mp4) — 151.2 MB.
+- [Atlas keyframes, mapped/native-emission previews, import instructions and QA](https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-ripple-rooms-p01-20261006/CampusCenter_P02_UV01_P01_Ripple_Rooms_Keyframes_and_QA_1_100.zip) — 23.6 MB.
+
+**1:100 model only.** Use the exact OBJ from the [1:100 static tour package](../tour-statics/README.md). Add the primary HAP MOV to the Media Bin and assign its full uncropped4096×4096 atlas to the complete model using original UVs; select Loop playback. Every region shares this texture. Preserve origin, axes and registration; disable extra lighting/shadow passes. The all-intra MP4 is a large **UV atlas test alternative**, not a compact camera preview. Mapped/native-emission PNGs are reference previews, not atlas inputs. The keyframe ZIP does not contain the movies.
+
+Both supplied movies are4096×4096,20fps,160frames,8seconds. Producer full-frame decode and phase-wrap checks passed; publisher rechecked actual codec/frame-count/duration metadata, registration hashes and mapped keyframes. Whole-model floor receivers include corridors and non-tour rooms; these loops are not constrained to thirteen tour stops. Furniture remains contrasting and source geometry/UVs/scale are unchanged. Assumes one projector roughly normal from+Z; hidden-wall coverage is not claimed.
+
+**Physical projector calibration and actual MadMapper playback/performance remain untested.** No MadMapper project or programmed cues are included. HAP videos and MP4s are release assets, not normal Git blobs. A genuinely small camera-reference MP4 has not been supplied; the two current movie alternatives retain tested producer bytes. Earlier packages/history remain preserved. Pac-Man is published only after a final validated handoff, without holding these ready effects. No Library retry, installation or unrelated cleanup occurs.

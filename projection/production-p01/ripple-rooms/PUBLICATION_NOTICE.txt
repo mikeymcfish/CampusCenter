@@ -1,0 +1,1 @@
+Public keyframe kit retains exact atlas and preview bytes. Empty machine encoding log is excluded; manifest is regenerated. Movies are separate release assets, not included in this keyframe ZIP. Original producer package is preserved. Physical projection/MadMapper playback untested.

@@ -1,0 +1,42 @@
+{
+  "files_verified": 317,
+  "all_source_P02_UV01_H01_H02_files_unchanged": true,
+  "changed_files": [],
+  "effect": "Ripple_Rooms",
+  "scale": 100,
+  "atlas_resolution": 4096,
+  "fps": 20,
+  "frames": 160,
+  "duration_seconds": 8.0,
+  "phase0_equals_phase1": true,
+  "whole_model_default_receiver_used": true,
+  "restricted_to_13_stops": false,
+  "animated_floor_texels": 1329093,
+  "no_physical_geometry_or_UV_changes": true,
+  "virtual_viewer_camera_1_100_mm": null,
+  "infinite_floor_method": null,
+  "projector_assumption": "Approximately normal +Z floor projection; no hidden-wall coverage claim",
+  "codec_probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "hap",
+        "width": 4096,
+        "height": 4096,
+        "r_frame_rate": "20/1",
+        "duration": "8.000000",
+        "nb_read_frames": "160"
+      }
+    ]
+  },
+  "all_movie_frames_decoded": true,
+  "primary_movie": "Ripple_Rooms_P02_UV01_1_100_4096_HAP.mov",
+  "primary_bytes": 190003080,
+  "primary_sha256": "fee7cb552e83128d2d9371708701b024c6ca61b890de5ac21bf1c226f356698a",
+  "compact_movie": "Ripple_Rooms_P02_UV01_1_100_4096_AllIntra.mp4",
+  "compact_bytes": 151245997,
+  "official_MadMapper_codec_reference": "https://docs.madmapper.com/madmapper/6/3.-media/media-formats-and-video-codecs",
+  "physical_projection_or_MadMapper_playback_tested": false,
+  "compact_movie_all_frames_decoded": true
+}
