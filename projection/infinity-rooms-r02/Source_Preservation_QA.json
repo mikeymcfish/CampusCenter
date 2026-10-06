@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "protected_original_source_files_verified": 317,
+  "changed_protected_files": [],
+  "additional_original_effect_and_accepted_media_SHA256_checks": {
+    "madmapper_production_P01/deliverables/Infinite_Floor/assembly_1_100/Infinite_Floor_P02_UV01_1_100_4096_HAP.mov": "6635c7d573bce9e373c10c1222400fb2edb72413f8c712046d802b4b89dec660",
+    "madmapper_ripple_R04/whole_model/deliverables/Ripple_R04_Black_Thin_Staggered_Connected_UV02_1_100_4096_Lossless_PNG.mov": "615d32c42cddba4b7d4ce71a1c0168ed2d7db340a72ee490c32826bb5a225506",
+    "madmapper_ripple_R04/whole_model/deliverables/Ripple_R04_Black_Thin_Staggered_Connected_44s_Mapped_1024_Lossless_Reference.mov": "3ba30a882ae941609e21e451998713df9d8c77392e975f71a743bb1e588a7116",
+    "CampusCenter_UV02_H04_All13_30Pages_Bright_SameHue_CommonsFireplace_Tour_Test.zip": "2b83037a0af49bc25fdebae37f069d8b263cb9330718ffe44c75c239b8997916",
+    "madmapper_highlight_H04_atlas_video_R01/CampusCenter_UV02_H04_All13_30Pages_300s_ATLAS_8192_Lossless_PNG.mov": "0006f47e7cd825836476c748a0ef234756ffe011d962588274310bce9e5ae538"
+  }
+}

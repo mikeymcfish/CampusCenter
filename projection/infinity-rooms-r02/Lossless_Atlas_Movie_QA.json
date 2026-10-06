@@ -1,0 +1,26 @@
+{
+  "status": "PASS: all480 atlas frames decode and every PNG packet is byte-identical to the paired source",
+  "file": "Infinity_Rooms_R02_WholeModel_UV02_24s_ATLAS_4096_Lossless_PNG.mov",
+  "bytes": 236646404,
+  "sha256": "bb43f36cc6b2a2526ff5eb7bdbf75188da075abe30e57e89b1df2ae03ca11abe",
+  "projection_atlas_movie": true,
+  "mapped_camera_movie": false,
+  "width": 4096,
+  "height": 4096,
+  "fps": 20,
+  "frames": 480,
+  "duration_seconds": 24,
+  "all480_original_PNG_packet_SHA256_and_sizes_match": true,
+  "all_sample_timestamps_and_durations_verified": true,
+  "all480_frames_fully_decoded": true,
+  "exact_black_background_outside_receiver": true,
+  "source_background_RGB": [
+    0,
+    0,
+    0
+  ],
+  "unchanged_UV02_receiver_SHA256": "b949784cbb3f833d10d82fdd48d469ac3fac1b8ac723f7cc08588ca633a59fba",
+  "same_atlas_frames_as_verified_compact_mapped_preview": true,
+  "no_physical_geometry_UV_origin_or_scale_changes": true,
+  "physical_MadMapper_or_projection_tested": false
+}

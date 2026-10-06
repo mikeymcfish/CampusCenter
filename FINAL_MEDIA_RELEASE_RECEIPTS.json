@@ -446,6 +446,55 @@
           "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-h04-atlas-video-r01-hap8192-20261006/PUBLIC_DOWNLOAD_MANIFEST.json"
         }
       ]
+    },
+    {
+      "tag": "campuscenter-infinity-rooms-r02-viewing-20261006",
+      "tag_commit": "8037bfd68b307b00071075a28ea8972c1b410f1b",
+      "release_url": "https://github.com/mikeymcfish/CampusCenter/releases/tag/campuscenter-infinity-rooms-r02-viewing-20261006",
+      "downloads": [
+        {
+          "file": "Infinity_Rooms_R02_WholeModel_UV02_24s_Fixed_Front_Mapped_1024_Viewing.mp4",
+          "bytes": 686269,
+          "sha256": "fed0f3f0ab7aac94d037f835bc5c7cc692c0e6117a092ee19f65446877f04a83",
+          "role": "Camera viewing preview only; 24s/20fps; assumed front viewpoint; optical effect untested",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-infinity-rooms-r02-viewing-20261006/Infinity_Rooms_R02_WholeModel_UV02_24s_Fixed_Front_Mapped_1024_Viewing.mp4"
+        },
+        {
+          "file": "PUBLIC_DOWNLOAD_MANIFEST.json",
+          "bytes": 314,
+          "sha256": "1e0de77baa4fe4bf1f5d247b8271608e53bdfbea5b1399f18ef76f434b9f66b8",
+          "role": "Public asset checksums",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-infinity-rooms-r02-viewing-20261006/PUBLIC_DOWNLOAD_MANIFEST.json"
+        }
+      ]
+    },
+    {
+      "tag": "campuscenter-infinity-rooms-r02-atlas-20261006",
+      "tag_commit": "8037bfd68b307b00071075a28ea8972c1b410f1b",
+      "release_url": "https://github.com/mikeymcfish/CampusCenter/releases/tag/campuscenter-infinity-rooms-r02-atlas-20261006",
+      "downloads": [
+        {
+          "file": "Infinity_Rooms_R02_WholeModel_UV02_24s_ATLAS_4096_Lossless_PNG.mov",
+          "bytes": 236646404,
+          "sha256": "bb43f36cc6b2a2526ff5eb7bdbf75188da075abe30e57e89b1df2ae03ca11abe",
+          "role": "Actual UV02 1:100 projection atlas MOV;4096 PNG lossless;24s/20fps",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-infinity-rooms-r02-atlas-20261006/Infinity_Rooms_R02_WholeModel_UV02_24s_ATLAS_4096_Lossless_PNG.mov"
+        },
+        {
+          "file": "CampusCenter_UV02_Infinity_Rooms_R02_Keyframes_Receiver_And_QA.zip",
+          "bytes": 9166671,
+          "sha256": "ad8637732a7dd82ab786ae7bb4132468e5cf8e11d1a9a0af71bc45ca1c483bc3",
+          "role": "Byte-exact producer keyframes, receiver, geometry arrays, provenance scripts and QA; not standalone rebuild",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-infinity-rooms-r02-atlas-20261006/CampusCenter_UV02_Infinity_Rooms_R02_Keyframes_Receiver_And_QA.zip"
+        },
+        {
+          "file": "PUBLIC_DOWNLOAD_MANIFEST.json",
+          "bytes": 610,
+          "sha256": "c1a221758a8b1cd518125275d6084f9f933f450fab58e7c73c7df3c3de7669f5",
+          "role": "Public asset checksums",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-infinity-rooms-r02-atlas-20261006/PUBLIC_DOWNLOAD_MANIFEST.json"
+        }
+      ]
     }
   ],
   "PacMan_original_movie": {

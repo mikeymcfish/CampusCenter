@@ -1,0 +1,87 @@
+{
+  "status": "PASS: Infinity Rooms R02 test ready for user review",
+  "movies": [
+    {
+      "role": "compact fixed-front mapped viewing preview",
+      "file": "Infinity_Rooms_R02_WholeModel_UV02_24s_Fixed_Front_Mapped_1024_Viewing.mp4",
+      "bytes": 686269,
+      "sha256": "fed0f3f0ab7aac94d037f835bc5c7cc692c0e6117a092ee19f65446877f04a83",
+      "duration_seconds": 24,
+      "fps": 20,
+      "frames": 480
+    },
+    {
+      "role": "lossless projection atlas",
+      "file": "Infinity_Rooms_R02_WholeModel_UV02_24s_ATLAS_4096_Lossless_PNG.mov",
+      "bytes": 236646404,
+      "sha256": "bb43f36cc6b2a2526ff5eb7bdbf75188da075abe30e57e89b1df2ae03ca11abe",
+      "duration_seconds": 24,
+      "fps": 20,
+      "frames": 480
+    }
+  ],
+  "delivery_order": "Compact mapped MP4 first; actual atlas MOV next. The source package is supplemental.",
+  "receiver_OBJ": "Reference_Receiver/CampusCenter_P02plusP03B3_Assembly_1_100_UV02.obj",
+  "receiver_SHA256": "b949784cbb3f833d10d82fdd48d469ac3fac1b8ac723f7cc08588ca633a59fba",
+  "original_parts": [
+    "Opaque",
+    "Glazing",
+    "HangingLoops",
+    "Opaque_Fireplace_P03_B3"
+  ],
+  "scale_denominator": 100,
+  "assembled_dimensions_mm": [
+    657.6,
+    512.0602094,
+    46.872
+  ],
+  "registration": "Frozen UV02 numeric model millimetres; shared world origin; +Z up, +Y north; original UV islands and model transformations unchanged.",
+  "viewpoint": {
+    "eye_model_mm": [
+      348.25,
+      -600.0,
+      850.0
+    ],
+    "target_model_mm": [
+      348.25,
+      252.875,
+      12.0
+    ],
+    "horizontal_FOV_degrees": 42.0,
+    "side_assumption": "South / negative Y, looking north; fixed front viewer. No earlier front-side decision was available.",
+    "physical_projector_pose_calibrated": false,
+    "single_projector_assumed": true,
+    "real_mesh_occlusion_retained": true,
+    "hidden_surface_illumination_not_claimed": true
+  },
+  "visual_design": {
+    "regions": 37,
+    "scope": "Whole model eligible floor regions, including non-tour rooms; supports and architecture remain at their actual heights.",
+    "appearance": "Black background, cool contours on virtual recessed sidewalls, descending light planes and return; local region phases and shapes.",
+    "background_choice": "Chosen for this test to fit the accepted Ripple presentation; not stated as a user requirement for all future Infinity designs.",
+    "duration_seconds": 24,
+    "virtual_depth_minmax_model_mm": [
+      12.0,
+      180.0
+    ],
+    "physical_furniture": "Complete projected footprints protected with one-millimetre inflation and a stationary lip; all physical fixture atlas pixels are constant across all480 frames.",
+    "no_physical_geometry_motion": true,
+    "regions_are_independent_apertures": "Existing open-area texture ownership boundaries create visual apertures only; they add no physical wall.",
+    "comfortable_motion_design": "One smooth descend/return per24s with deterministic staggered phases; no strobe, random flicker or added bloom.",
+    "loop": "Terminal virtual frame480 equals frame0 exactly; encoded frame479 is one normal time step before frame0."
+  },
+  "QA": {
+    "all480_mapped_and_atlas_frames_decode": true,
+    "all480_atlas_PNG_packets_byte_identical_to_sources": true,
+    "all5_actual_decoded_and_native_keyframes_visually_reviewed": true,
+    "all_four_native_import_parts_vertices_UVs_and_identity_transforms_verified": true,
+    "animated_aperture_overlap_full_furniture_and_walls_cells": 0,
+    "protected_source_files_unchanged": 317,
+    "current_accepted_Ripple_and_tour_media_unchanged": true,
+    "largest_adjacent_source_frame_mean_RGB_byte_change": 0.04401991102430555,
+    "loop_wrap_mean_RGB_byte_change": 0.019936455620659724,
+    "physical_projection_and_MadMapper_runtime_tested": false
+  },
+  "boundary_limit": "Room identities and open-area divisions use inherited registered A101/H02/H03/H04 references intersected with actual physical domains and full print-mesh obstacle footprints. This is not a fresh R29 semantic perimeter audit.",
+  "required_user_test": "Assess the apparent depth from the assumed front side on the existing calibrated model; single-projector occlusion and transparent-window optical behaviour remain physical-test items."
+}

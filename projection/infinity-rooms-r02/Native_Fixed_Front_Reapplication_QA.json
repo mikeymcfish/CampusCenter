@@ -1,0 +1,83 @@
+{
+  "status": "PASS",
+  "receiver_SHA256": "b949784cbb3f833d10d82fdd48d469ac3fac1b8ac723f7cc08588ca633a59fba",
+  "Blender_version": "5.0.0",
+  "factory_scene_fresh_OBJ_import": true,
+  "original_parts_and_UVs_verified": [
+    {
+      "part": "Glazing",
+      "triangles": 708,
+      "world_vertex_error_mm": 2.8417968792382453e-05,
+      "UV_error": 2.979600000063698e-08,
+      "identity_world_transform": true
+    },
+    {
+      "part": "HangingLoops",
+      "triangles": 1128,
+      "world_vertex_error_mm": 3.035468751022563e-05,
+      "UV_error": 2.9802102341491832e-08,
+      "identity_world_transform": true
+    },
+    {
+      "part": "Opaque",
+      "triangles": 74138,
+      "world_vertex_error_mm": 3.0114062496977567e-05,
+      "UV_error": 2.980232227667301e-08,
+      "identity_world_transform": true
+    },
+    {
+      "part": "Opaque_Fireplace_P03_B3",
+      "triangles": 2756,
+      "world_vertex_error_mm": 3.0517578011313162e-05,
+      "UV_error": 2.978897173377959e-08,
+      "identity_world_transform": true
+    }
+  ],
+  "all_four_parts_one_common_atlas": true,
+  "shader": "Emission1, nearest original UV02 texture, sRGB Standard; no lights; exact black world; dither0",
+  "eye_mm": [
+    348.25,
+    -600.0,
+    850.0
+  ],
+  "target_mm": [
+    348.25,
+    252.875,
+    12.0
+  ],
+  "HFOV_degrees": 42,
+  "fixed_camera_no_orbit_or_geometry_animation": true,
+  "resolution": [
+    1024,
+    768
+  ],
+  "renders": [
+    {
+      "atlas": "Infinity_Rooms_R02_Frame_0000_Lossless_Atlas_4096.png",
+      "atlas_SHA256": "0754f8b2ef4679ffb8c49662cba43aca4eef577bd4aaec35e00ec3d935141586",
+      "native_preview": "Infinity_Rooms_R02_Frame_0000_Native_Fixed_Front_1024.png"
+    },
+    {
+      "atlas": "Infinity_Rooms_R02_Frame_0120_Lossless_Atlas_4096.png",
+      "atlas_SHA256": "fc1fcf23bda31aa27b1dce54ff47d982ae8a8b6e8d0ae099201288166ae649b8",
+      "native_preview": "Infinity_Rooms_R02_Frame_0120_Native_Fixed_Front_1024.png"
+    },
+    {
+      "atlas": "Infinity_Rooms_R02_Frame_0240_Lossless_Atlas_4096.png",
+      "atlas_SHA256": "81fe8f05df832d7b71c96852673634cef4c071339815040229457e73703a448f",
+      "native_preview": "Infinity_Rooms_R02_Frame_0240_Native_Fixed_Front_1024.png"
+    },
+    {
+      "atlas": "Infinity_Rooms_R02_Frame_0360_Lossless_Atlas_4096.png",
+      "atlas_SHA256": "0e988af5679ce3cda63b0e932ebc4f2d77e17572d9babf266a2d730a77673c61",
+      "native_preview": "Infinity_Rooms_R02_Frame_0360_Native_Fixed_Front_1024.png"
+    },
+    {
+      "atlas": "Infinity_Rooms_R02_Frame_0479_Lossless_Atlas_4096.png",
+      "atlas_SHA256": "5716b72f5f9aa12d7ea41e29493970b33a91088626cc68653faf94095999da89",
+      "native_preview": "Infinity_Rooms_R02_Frame_0479_Native_Fixed_Front_1024.png"
+    }
+  ],
+  "original_Blender_Unreal_MadMapper_or_print_projects_saved": false,
+  "physical_projection_or_MadMapper_playback_tested": false
+}

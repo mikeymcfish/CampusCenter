@@ -1,0 +1,194 @@
+{
+  "files": [
+    {
+      "file": "Five_Keyframes_Source_Decoded_Native_Review.png",
+      "bytes": 963744,
+      "SHA256": "3e131f464334128419883dac912bfdfe6d803a1dc87bb4b89fafe7ebe9307fa7"
+    },
+    {
+      "file": "Geometry_And_View_References/Fixed_Front_Receiver_Cache_QA.json",
+      "bytes": 894,
+      "SHA256": "80d0d23481f6060022e61bd427396cb3bffd4b5dee36d9e79e20ca9d4dea9a01"
+    },
+    {
+      "file": "Geometry_And_View_References/Infinity_Geometry_And_View_Contract.json",
+      "bytes": 14054,
+      "SHA256": "669e0644fe47985d1096984d549c582801bccd04ad5ee40b6d019ede69ffe347"
+    },
+    {
+      "file": "Geometry_And_View_References/Infinity_Room_Apertures_And_Depth.npz",
+      "bytes": 415385,
+      "SHA256": "a0580ae2014b0f469eb8db70e5b7a3b86a7bb0f4275539880a4a0f06c0ba83b1"
+    },
+    {
+      "file": "Infinity_Rooms_R02_Frame_0000_Fixed_Front_Mapped_1024.png",
+      "bytes": 74409,
+      "SHA256": "d4fa498aff85e216dcaf210033ceb5d32351d1be97957c912c38d938c5a40e9c"
+    },
+    {
+      "file": "Infinity_Rooms_R02_Frame_0000_Lossless_Atlas_4096.png",
+      "bytes": 497305,
+      "SHA256": "0754f8b2ef4679ffb8c49662cba43aca4eef577bd4aaec35e00ec3d935141586"
+    },
+    {
+      "file": "Infinity_Rooms_R02_Frame_0000_Native_Fixed_Front_1024.png",
+      "bytes": 333352,
+      "SHA256": "bb1c128a31e10ee8e42ae22875c35a3dd5ffc56bd81b71d35224e4fa256f1302"
+    },
+    {
+      "file": "Infinity_Rooms_R02_Frame_0120_Fixed_Front_Mapped_1024.png",
+      "bytes": 69614,
+      "SHA256": "058b882f3734c8e83ae67ae0af1be8ef874283c95c5edf8a2194d6e9e038ccd0"
+    },
+    {
+      "file": "Infinity_Rooms_R02_Frame_0120_Lossless_Atlas_4096.png",
+      "bytes": 481186,
+      "SHA256": "fc1fcf23bda31aa27b1dce54ff47d982ae8a8b6e8d0ae099201288166ae649b8"
+    },
+    {
+      "file": "Infinity_Rooms_R02_Frame_0120_Native_Fixed_Front_1024.png",
+      "bytes": 323203,
+      "SHA256": "8f1830a5e8a97c761a3df3d9b271cda3a1d09e709be0d5d66547b22476ba59b0"
+    },
+    {
+      "file": "Infinity_Rooms_R02_Frame_0240_Fixed_Front_Mapped_1024.png",
+      "bytes": 71937,
+      "SHA256": "399b6f1590b47b790e85f79a4e6922cfb5c9b09fd4d58ab86d548e4c5befe9d1"
+    },
+    {
+      "file": "Infinity_Rooms_R02_Frame_0240_Lossless_Atlas_4096.png",
+      "bytes": 497224,
+      "SHA256": "81fe8f05df832d7b71c96852673634cef4c071339815040229457e73703a448f"
+    },
+    {
+      "file": "Infinity_Rooms_R02_Frame_0240_Native_Fixed_Front_1024.png",
+      "bytes": 310542,
+      "SHA256": "5251284c9d64104ac5ab871ef2d4aad1a7d423b7f03f33f6f4794f5db8afa578"
+    },
+    {
+      "file": "Infinity_Rooms_R02_Frame_0360_Fixed_Front_Mapped_1024.png",
+      "bytes": 71730,
+      "SHA256": "9301993f82babf5fdf2c5e821645e32ad53a2f18d946454bd6ee0e5279ece68b"
+    },
+    {
+      "file": "Infinity_Rooms_R02_Frame_0360_Lossless_Atlas_4096.png",
+      "bytes": 495606,
+      "SHA256": "0e988af5679ce3cda63b0e932ebc4f2d77e17572d9babf266a2d730a77673c61"
+    },
+    {
+      "file": "Infinity_Rooms_R02_Frame_0360_Native_Fixed_Front_1024.png",
+      "bytes": 313000,
+      "SHA256": "6ace1a6467dfc18423670e4edf19d39e80d4413caf0506fdc844974e54615b12"
+    },
+    {
+      "file": "Infinity_Rooms_R02_Frame_0479_Fixed_Front_Mapped_1024.png",
+      "bytes": 74456,
+      "SHA256": "61c27e924bd1eceb2d93c6671159c1680df042b34aacf65d76c2a93784d18eb3"
+    },
+    {
+      "file": "Infinity_Rooms_R02_Frame_0479_Lossless_Atlas_4096.png",
+      "bytes": 497190,
+      "SHA256": "5716b72f5f9aa12d7ea41e29493970b33a91088626cc68653faf94095999da89"
+    },
+    {
+      "file": "Infinity_Rooms_R02_Frame_0479_Native_Fixed_Front_1024.png",
+      "bytes": 333922,
+      "SHA256": "250465a4e96018eb4873820a0485a01581b27c0d6b1435c5a2ab7cb96033a64e"
+    },
+    {
+      "file": "Infinity_Rooms_R02_Playback_And_View_Manifest.json",
+      "bytes": 4345,
+      "SHA256": "35dacea01d640b8e2b2770bf68df833f9939bd18aeb2a95c18be84a8a62792db"
+    },
+    {
+      "file": "Initial_Keyframe_And_Loop_QA.json",
+      "bytes": 543,
+      "SHA256": "a37efb47eca7f78b13258c7805109542c77a4862130aeb2d213eccdd89694432"
+    },
+    {
+      "file": "Lossless_Atlas_Movie_QA.json",
+      "bytes": 1014,
+      "SHA256": "73b9072c047f0ea9c119cf43c884925d828de7134f867dca31708819cd1b16ba"
+    },
+    {
+      "file": "Mapped_Actual_Decode_And_Motion_QA.json",
+      "bytes": 2992,
+      "SHA256": "cad423a091c3fdc32f6c549674036d6aba035382bd22eeb51994de3a6e4b5cba"
+    },
+    {
+      "file": "Mapped_Preview_And_Loop_QA.json",
+      "bytes": 64311,
+      "SHA256": "c99001226f24ddb0dafaa801c8d513cbc4d5f4b89f6bd6056ed95aeac8692221"
+    },
+    {
+      "file": "Native_Fixed_Front_Reapplication_QA.json",
+      "bytes": 2945,
+      "SHA256": "19502c526841005402f622d1a557550e1bd9c85b43916f2f03459d2472eac09c"
+    },
+    {
+      "file": "Producer_Scripts/Dependency_And_Input_Record.json",
+      "bytes": 5520,
+      "SHA256": "37e2a515127361228bdf0f0094383add076292ad513f06fb62766ed1c9b376c7"
+    },
+    {
+      "file": "Producer_Scripts/infinity_rooms_common.py",
+      "bytes": 8663,
+      "SHA256": "5da47a3cde67411420c40773132baa8548025011f48c66a70e90e05033c40834"
+    },
+    {
+      "file": "Producer_Scripts/infinity_rooms_finalize.py",
+      "bytes": 15664,
+      "SHA256": "fcd0cb0e5b9f903564889e4f139fdd124673635ca8a829f9f34f82c221670b3c"
+    },
+    {
+      "file": "Producer_Scripts/infinity_rooms_media_qa.py",
+      "bytes": 6508,
+      "SHA256": "acbce04d080422066c6eba80450563cd1cea304d999244261d0b510099f9783c"
+    },
+    {
+      "file": "Producer_Scripts/infinity_rooms_native_preview.py",
+      "bytes": 4125,
+      "SHA256": "dfe882a50a997b9c97b99b8557b04863d046f67990a7b94775e77ea10a945549"
+    },
+    {
+      "file": "Producer_Scripts/infinity_rooms_preflight.py",
+      "bytes": 8874,
+      "SHA256": "65727357e5bd8045d7dcb799d5504db679a30cda22ab22ce4ba27682f144c40e"
+    },
+    {
+      "file": "Producer_Scripts/infinity_rooms_preview.py",
+      "bytes": 4229,
+      "SHA256": "974980dbdf2f59a113f395e0ce2a02c061815817674b9f3eb8d5a5c0038b0cbb"
+    },
+    {
+      "file": "README_Infinity_Rooms_R02.txt",
+      "bytes": 3535,
+      "SHA256": "7d923021ebe9da17d19ab45c24cbd69c18c70fe35086f82e92ffa8ce3ef5b85a"
+    },
+    {
+      "file": "Reference_Receiver/Atlas_Diagnostic.png",
+      "bytes": 497305,
+      "SHA256": "0754f8b2ef4679ffb8c49662cba43aca4eef577bd4aaec35e00ec3d935141586"
+    },
+    {
+      "file": "Reference_Receiver/CampusCenter_P02_Assembly_1_100_UV01.mtl",
+      "bytes": 275,
+      "SHA256": "8f71eea8b37df7d0705cdfa9f69afde3d0fbde5cd8e524e04ae4b4f88de3c715"
+    },
+    {
+      "file": "Reference_Receiver/CampusCenter_P02plusP03B3_Assembly_1_100_UV02.obj",
+      "bytes": 16613878,
+      "SHA256": "b949784cbb3f833d10d82fdd48d469ac3fac1b8ac723f7cc08588ca633a59fba"
+    },
+    {
+      "file": "Room_Apertures_And_Protected_Furniture_Plan_QA.png",
+      "bytes": 31528,
+      "SHA256": "50b2f32f6f25f62bb5752225d4581740ec18de486d152b36d5ea7f0739754a45"
+    },
+    {
+      "file": "Source_Preservation_QA.json",
+      "bytes": 1113,
+      "SHA256": "07f5ee6e139c9d5b17f6f2fc0f591542a0eb4870ab0788b2585eaee985a07bbc"
+    }
+  ]
+}

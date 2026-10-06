@@ -1,0 +1,61 @@
+{
+  "status": "PASS: compact mapped preview decoded and compared against paired source and fresh native receiver",
+  "file": "Infinity_Rooms_R02_WholeModel_UV02_24s_Fixed_Front_Mapped_1024_Viewing.mp4",
+  "bytes": 686269,
+  "sha256": "fed0f3f0ab7aac94d037f835bc5c7cc692c0e6117a092ee19f65446877f04a83",
+  "all_480_frames_decode": true,
+  "frames": 480,
+  "fps": 20,
+  "duration_seconds": 24,
+  "mapped_viewing_movie_not_projection_atlas": true,
+  "keyframe_checks": [
+    {
+      "frame": 0,
+      "decoded_MP4_mean_RGB_byte_error_from_source": 0.9609807332356771,
+      "decoded_MP4_max_RGB_byte_error": 69,
+      "fresh_Blender_mean_RGB_byte_error_from_software_perspective_reference": 1.578539530436198,
+      "native_difference_note": "Blender four-sample antialiasing versus software point-sampled perspective raster."
+    },
+    {
+      "frame": 120,
+      "decoded_MP4_mean_RGB_byte_error_from_source": 0.9552536010742188,
+      "decoded_MP4_max_RGB_byte_error": 69,
+      "fresh_Blender_mean_RGB_byte_error_from_software_perspective_reference": 1.5178260803222656,
+      "native_difference_note": "Blender four-sample antialiasing versus software point-sampled perspective raster."
+    },
+    {
+      "frame": 240,
+      "decoded_MP4_mean_RGB_byte_error_from_source": 0.9358512030707465,
+      "decoded_MP4_max_RGB_byte_error": 74,
+      "fresh_Blender_mean_RGB_byte_error_from_software_perspective_reference": 1.4747305976019964,
+      "native_difference_note": "Blender four-sample antialiasing versus software point-sampled perspective raster."
+    },
+    {
+      "frame": 360,
+      "decoded_MP4_mean_RGB_byte_error_from_source": 0.9306755065917969,
+      "decoded_MP4_max_RGB_byte_error": 69,
+      "fresh_Blender_mean_RGB_byte_error_from_software_perspective_reference": 1.48121092054579,
+      "native_difference_note": "Blender four-sample antialiasing versus software point-sampled perspective raster."
+    },
+    {
+      "frame": 479,
+      "decoded_MP4_mean_RGB_byte_error_from_source": 0.9880379570855035,
+      "decoded_MP4_max_RGB_byte_error": 69,
+      "fresh_Blender_mean_RGB_byte_error_from_software_perspective_reference": 1.5797364976671007,
+      "native_difference_note": "Blender four-sample antialiasing versus software point-sampled perspective raster."
+    }
+  ],
+  "source_frame_mean_RGB_byte_brightness_minmax": [
+    7.301106770833333,
+    7.872521294487847
+  ],
+  "largest_adjacent_source_frame_mean_absolute_RGB_byte_change": 0.04401991102430555,
+  "loop_wrap_mean_absolute_RGB_byte_change": 0.019936455620659724,
+  "smooth_loop_without_abrupt_global_brightness_reset": true,
+  "visual_review_pending": false,
+  "source_background_exact_black": true,
+  "lossy_MP4_exact_black_not_guaranteed": true,
+  "furniture_and_supports_static_in_all_authoring_frames": true,
+  "physical_MadMapper_and_projector_playback_tested": false,
+  "all5_actual_decoded_and_native_keyframes_visually_reviewed": true
+}

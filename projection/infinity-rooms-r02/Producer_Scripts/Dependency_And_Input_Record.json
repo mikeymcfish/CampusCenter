@@ -1,0 +1,117 @@
+{
+  "status": "Production provenance; standalone source-backup packaging is a separate pending priority",
+  "Python": "3.12.14",
+  "NumPy": "2.3.5",
+  "Pillow": "12.3.0",
+  "Blender": "5.0.0",
+  "FFmpeg": "2024-05-02-git-71669f2ad5 full_build",
+  "external_helper_modules": [
+    "production_common.py",
+    "production_navigation.py",
+    "uvprep_common.py"
+  ],
+  "native_domain_inputs": "56 Connected_B*_Simulation_Domain.npz files from the accepted R03 physical domain audit; numerical union841555cells. Their complete source pipeline is being handled by the separate procedural rebuild backup.",
+  "existing_UV_cache_dependencies": "production_common build_cache reads the original UV01 receiver, Default_Opaque_Receiver_Mask.png, Projection_Coordinate_Contract.json and Usable_13_Stop_Copy.json. Cache is validated against the original UV01 receiver hash.",
+  "inputs": [
+    {
+      "workspace_relative_path": "madmapper_hybrid_UV02/deliverables/CampusCenter_P02plusP03B3_Assembly_1_100_UV02.obj",
+      "bytes": 16613878,
+      "SHA256": "b949784cbb3f833d10d82fdd48d469ac3fac1b8ac723f7cc08588ca633a59fba",
+      "in_kit": true
+    },
+    {
+      "workspace_relative_path": "madmapper_ripple_R03/whole_model/Whole_Native_Obstacle_And_Ownership_Grid.npz",
+      "bytes": 48662,
+      "SHA256": "0463f76370ce6aa0df2ba52902e5c31acaf272295251c7c1d3f990e2cc5004df",
+      "in_kit": false
+    },
+    {
+      "workspace_relative_path": "madmapper_production_P01/navigation/obstacles.npy",
+      "bytes": 5513984,
+      "SHA256": "f0adda3214d0a4518ee81304478126d429e59d650dd5ca579acbbe3c2d1148f0",
+      "in_kit": false
+    },
+    {
+      "workspace_relative_path": "madmapper_production_P01/navigation/origin.npy",
+      "bytes": 144,
+      "SHA256": "a6f0bbd7ceba1559a03f01e6d1fb1a9052ba43d887197d6e2b470b05f235d4d4",
+      "in_kit": false
+    },
+    {
+      "workspace_relative_path": "madmapper_production_P01/navigation/Navigation_Contract.json",
+      "bytes": 10711,
+      "SHA256": "9f020c375d4d80c369a4d805ddcfff8d592e539f8fad2d9cabcc39488e56f6e6",
+      "in_kit": false
+    },
+    {
+      "workspace_relative_path": "madmapper_highlight_H03/world_clipped/deliverables/World_Clipped_Mask_Manifest.json",
+      "bytes": 20520,
+      "SHA256": "f5076e14124a37ed305da28677e9a4f5f91d2fdcb09f215bbe9af1039fbfd3f8",
+      "in_kit": false
+    },
+    {
+      "workspace_relative_path": "print_revision02/deliverables/projection/Projection_Coordinate_Contract.json",
+      "bytes": 26064,
+      "SHA256": "11ec3fb88f88a12c6f7b005f614efb8957a7d2b00928e1bedb1afeb6de188564",
+      "in_kit": false
+    },
+    {
+      "workspace_relative_path": "madmapper_hybrid_UV02/deliverables/Fireplace_New_Chart_Mask_8192.png",
+      "bytes": 79491,
+      "SHA256": "6bac2d20a0ce19d68c6c9b3dc99ed2a67f579782c4a1ee3862a2743df2abf627",
+      "in_kit": false
+    },
+    {
+      "workspace_relative_path": "madmapper_hybrid_UV02/deliverables/Fireplace_Only_Patch_8192.png",
+      "bytes": 221821,
+      "SHA256": "ce879b8ffb26cd44099b5c251584231535da08e7c4b3e0f5dad57e1fc710bb70",
+      "in_kit": false
+    },
+    {
+      "workspace_relative_path": "madmapper_production_P01/cache/assembly_1_100_4096_world64/Cache_Contract.json",
+      "bytes": 871,
+      "SHA256": "c4e3e5ffd2e0cf991e953ff4421b733439ee25e4a115a252fd15b17df6208b0d",
+      "in_kit": false
+    }
+  ],
+  "scripts": [
+    {
+      "file": "infinity_rooms_common.py",
+      "production_SHA256": "ac9f07f3a2042efbd1b7fbe366cacc937322fdab616ce3b8c52676aee9d9407f",
+      "public_copy_SHA256": "5da47a3cde67411420c40773132baa8548025011f48c66a70e90e05033c40834",
+      "public_safe_path_and_literal_normalization_only": true
+    },
+    {
+      "file": "infinity_rooms_preflight.py",
+      "production_SHA256": "1d59a3f8f57765d8e1ccaa6f31c389a6f880db04b3956185d3dfecac49a1c48f",
+      "public_copy_SHA256": "65727357e5bd8045d7dcb799d5504db679a30cda22ab22ce4ba27682f144c40e",
+      "public_safe_path_and_literal_normalization_only": false
+    },
+    {
+      "file": "infinity_rooms_preview.py",
+      "production_SHA256": "0d6ba2de89c78a155596373617efbc51821cfe29f6f853f4fcd4bffdef212542",
+      "public_copy_SHA256": "974980dbdf2f59a113f395e0ce2a02c061815817674b9f3eb8d5a5c0038b0cbb",
+      "public_safe_path_and_literal_normalization_only": false
+    },
+    {
+      "file": "infinity_rooms_native_preview.py",
+      "production_SHA256": "d73c04d0d555e117deb89df9a2c242ad8cbe0b1887c4fd766e8e7b2dd82d27c0",
+      "public_copy_SHA256": "dfe882a50a997b9c97b99b8557b04863d046f67990a7b94775e77ea10a945549",
+      "public_safe_path_and_literal_normalization_only": false
+    },
+    {
+      "file": "infinity_rooms_media_qa.py",
+      "production_SHA256": "7d2ad849d391661298f1b6fbded0fbde03e8f9aaf02746f683da03dc0e4e8b6a",
+      "public_copy_SHA256": "acbce04d080422066c6eba80450563cd1cea304d999244261d0b510099f9783c",
+      "public_safe_path_and_literal_normalization_only": false
+    },
+    {
+      "file": "infinity_rooms_finalize.py",
+      "production_SHA256": "395dbc7068e4cfd627cd376640c741c067cb659369ab90f1107d5d4478991788",
+      "public_copy_SHA256": "fcd0cb0e5b9f903564889e4f139fdd124673635ca8a829f9f34f82c221670b3c",
+      "public_safe_path_and_literal_normalization_only": true
+    }
+  ],
+  "included_frozen_effect_input_SHA256": "a0580ae2014b0f469eb8db70e5b7a3b86a7bb0f4275539880a4a0f06c0ba83b1",
+  "no_large_simulation_frame_or_state_caches_in_kit": true
+}

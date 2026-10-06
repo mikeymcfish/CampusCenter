@@ -1,0 +1,26 @@
+{
+  "status": "PASS",
+  "receiver_SHA256": "b949784cbb3f833d10d82fdd48d469ac3fac1b8ac723f7cc08588ca633a59fba",
+  "frame0_equals_virtual_terminal_frame480": true,
+  "fixed_physical_geometry_and_fixed_fixture_atlas_pixels": true,
+  "viewpoint": [
+    348.25,
+    -600.0,
+    850.0
+  ],
+  "target": [
+    348.25,
+    252.875,
+    12.0
+  ],
+  "resolution": [
+    4096,
+    4096
+  ],
+  "preview_resolution": [
+    1024,
+    768
+  ],
+  "whole_model_scope": true,
+  "physical_projection_or_MadMapper_playback_tested": false
+}
