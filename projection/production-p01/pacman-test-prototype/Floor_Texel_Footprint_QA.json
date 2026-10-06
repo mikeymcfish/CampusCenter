@@ -1,0 +1,11 @@
+{
+  "resolution": 4096,
+  "maximum_XY_texel_corner_radius_mm": 0.34148300048282676,
+  "coordinate_cache_L2_error_mm": 0.0111,
+  "analytic_sprite_max_radius_mm": 1.7,
+  "whole_visible_coloured_texel_footprint_bound_mm": 2.0525830004828265,
+  "navigation_visible_radius_mm": 2.2,
+  "fits_navigation_visible_radius": true,
+  "primary_lossless_output": true,
+  "no_DXT_HAP_bleed_in_primary": true
+}

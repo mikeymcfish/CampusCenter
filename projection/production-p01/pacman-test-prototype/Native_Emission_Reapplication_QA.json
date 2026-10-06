@@ -1,0 +1,61 @@
+{
+  "status": "PASS",
+  "native_Blender_version": "5.0.0",
+  "fresh_factory_scene_and_OBJ_import": true,
+  "source_OBJ_sha256": "5fb3d64faebe846255f84b4e4f2be832070fec649ea99a1005d69f0c802db45f",
+  "geometry_UV_origin_changes": [],
+  "import_checks": [
+    {
+      "part": "Glazing",
+      "triangles": 708,
+      "coordinate_error_mm": 2.8417968792382453e-05,
+      "UV_error": 2.979600000063698e-08,
+      "identity_world_transform": true
+    },
+    {
+      "part": "HangingLoops",
+      "triangles": 1128,
+      "coordinate_error_mm": 3.035468751022563e-05,
+      "UV_error": 2.9802102341491832e-08,
+      "identity_world_transform": true
+    },
+    {
+      "part": "Opaque",
+      "triangles": 74138,
+      "coordinate_error_mm": 3.0114062496977567e-05,
+      "UV_error": 2.980232227667301e-08,
+      "identity_world_transform": true
+    }
+  ],
+  "no_second_light_pass": true,
+  "lights_in_scene": 0,
+  "shader": "Emission strength1; sRGB input; Standard view; nearest sampling",
+  "projector_assumption": "Orthographic +Z normal floor view; hidden walls not claimed",
+  "rendered_atlases": [
+    {
+      "atlas": "PacMan_Frame_0000_Atlas_4096.png",
+      "atlas_sha256": "bc75ac1573febd7d6f8cc353749fb24f2d45f5949fcef31fc8b5d178d8c18785",
+      "native_emission_preview": "PacMan_Frame_0000_Native_Emission_Preview.png",
+      "all_mesh_parts_share_one_atlas": true
+    },
+    {
+      "atlas": "PacMan_Frame_0360_Atlas_4096.png",
+      "atlas_sha256": "bcf1147180fb72c39df05b740ee2f5ac02b12ebb52c9c5b252751331132c571a",
+      "native_emission_preview": "PacMan_Frame_0360_Native_Emission_Preview.png",
+      "all_mesh_parts_share_one_atlas": true
+    },
+    {
+      "atlas": "PacMan_Frame_0720_Atlas_4096.png",
+      "atlas_sha256": "284dc811cc9d2d084205abb31fc5a3b5e7e07ca9bc03149f56ebd4b887accf0b",
+      "native_emission_preview": "PacMan_Frame_0720_Native_Emission_Preview.png",
+      "all_mesh_parts_share_one_atlas": true
+    },
+    {
+      "atlas": "PacMan_Frame_1080_Atlas_4096.png",
+      "atlas_sha256": "220e7025b796967b41cbc37860ff98fe318e3d62af6862912398eada6d1517d5",
+      "native_emission_preview": "PacMan_Frame_1080_Native_Emission_Preview.png",
+      "all_mesh_parts_share_one_atlas": true
+    }
+  ],
+  "physical_projection_tested": false
+}

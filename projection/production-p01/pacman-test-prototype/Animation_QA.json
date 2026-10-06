@@ -1,0 +1,60 @@
+{
+  "files_verified": 317,
+  "all_source_P02_UV01_H01_H02_files_unchanged": true,
+  "changed_files": [],
+  "effect": "PacMan",
+  "scale": 100,
+  "atlas_resolution": 4096,
+  "fps": 20,
+  "frames": 1440,
+  "duration_seconds": 72,
+  "phase0_equals_phase1": true,
+  "codec_probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "png",
+        "width": 4096,
+        "height": 4096,
+        "r_frame_rate": "20/1",
+        "duration": "72.000000",
+        "nb_read_frames": "1440"
+      }
+    ]
+  },
+  "all_movie_frames_decoded": true,
+  "first_decoded_movie_RGB_exactly_equals_source_atlas": true,
+  "PNG_image_folder_frames": 1440,
+  "all_rendered_character_texels_inside_analytic_radius": true,
+  "rendered_body_texels_checked": 2446038,
+  "visible_footprint": {
+    "resolution": 4096,
+    "maximum_XY_texel_corner_radius_mm": 0.34148300048282676,
+    "coordinate_cache_L2_error_mm": 0.0111,
+    "analytic_sprite_max_radius_mm": 1.7,
+    "whole_visible_coloured_texel_footprint_bound_mm": 2.0525830004828265,
+    "navigation_visible_radius_mm": 2.2,
+    "fits_navigation_visible_radius": true,
+    "primary_lossless_output": true,
+    "no_DXT_HAP_bleed_in_primary": true
+  },
+  "continuous_swept_route_QA": "Validated_World_Routes.json",
+  "connected_regions_covered": 28,
+  "primary_route_length_mm": 4324.698584518038,
+  "primary_speed_mm_per_second": 60.06525811830608,
+  "all_table_overhangs_and_walls_avoided": true,
+  "single_character_portals_used": false,
+  "presentation_choice": "Independent character loop in each meaningful physical connected region",
+  "whole_model_scope_not_13_spotlights": true,
+  "geometry_UV_origin_changes": [],
+  "primary_movie": "PacMan_P02_UV01_1_100_4096_LosslessPNG.mov",
+  "primary_bytes": 1153744147,
+  "primary_sha256": "468ffe2054da21df7936982bb7fc18b2d4731108943a86ac11579750cfb6d3fa",
+  "physical_projection_or_MadMapper_playback_tested": false,
+  "linear_filtering_character_footprint_bound_mm": 2.3940660009656534,
+  "minimum_linear_filtering_collision_clearance_mm": 0.652118941011754,
+  "nearest_filtering_recommended_for_declared_0_6mm_clearance": true,
+  "whole_space_single_actor_delivered": false,
+  "component_interpretation": "Connected regions of the conservative 2D projected free-floor grid after character footprint, clearance and sampling margins; not architectural room boundaries."
+}

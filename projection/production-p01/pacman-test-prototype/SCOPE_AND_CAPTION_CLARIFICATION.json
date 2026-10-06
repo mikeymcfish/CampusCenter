@@ -1,0 +1,203 @@
+{
+  "created_UTC": "2026-10-06T07:25:56.832057-04:00",
+  "no_media_regenerated_or_changed": true,
+  "component_definition": "Connected regions of the conservative 2D projected free-floor grid after character footprint, clearance and sampling margins; not architectural room boundaries.",
+  "projected_zero_radius_free_floor_components_total": 109,
+  "projected_zero_radius_free_floor_components_area_at_least_30mm2": 19,
+  "fine_grid_with_delivered_clearance_components_area_at_least_30mm2": 27,
+  "delivered_coarse_components_area_at_least_30mm2": 28,
+  "delivered_components_raw_sources": [
+    {
+      "delivered_component": 1,
+      "zero_radius_projected_free_floor_component": 1,
+      "inflated_fine_grid_component": 1
+    },
+    {
+      "delivered_component": 2,
+      "zero_radius_projected_free_floor_component": 1,
+      "inflated_fine_grid_component": 2
+    },
+    {
+      "delivered_component": 3,
+      "zero_radius_projected_free_floor_component": 1,
+      "inflated_fine_grid_component": 3
+    },
+    {
+      "delivered_component": 4,
+      "zero_radius_projected_free_floor_component": 1,
+      "inflated_fine_grid_component": 4
+    },
+    {
+      "delivered_component": 5,
+      "zero_radius_projected_free_floor_component": 1,
+      "inflated_fine_grid_component": 5
+    },
+    {
+      "delivered_component": 6,
+      "zero_radius_projected_free_floor_component": 2,
+      "inflated_fine_grid_component": 7
+    },
+    {
+      "delivered_component": 7,
+      "zero_radius_projected_free_floor_component": 1,
+      "inflated_fine_grid_component": 6
+    },
+    {
+      "delivered_component": 8,
+      "zero_radius_projected_free_floor_component": 4,
+      "inflated_fine_grid_component": 8
+    },
+    {
+      "delivered_component": 9,
+      "zero_radius_projected_free_floor_component": 3,
+      "inflated_fine_grid_component": 9
+    },
+    {
+      "delivered_component": 10,
+      "zero_radius_projected_free_floor_component": 5,
+      "inflated_fine_grid_component": 11
+    },
+    {
+      "delivered_component": 11,
+      "zero_radius_projected_free_floor_component": 1,
+      "inflated_fine_grid_component": 10
+    },
+    {
+      "delivered_component": 12,
+      "zero_radius_projected_free_floor_component": 1,
+      "inflated_fine_grid_component": 12
+    },
+    {
+      "delivered_component": 13,
+      "zero_radius_projected_free_floor_component": 7,
+      "inflated_fine_grid_component": 13
+    },
+    {
+      "delivered_component": 14,
+      "zero_radius_projected_free_floor_component": 1,
+      "inflated_fine_grid_component": 14
+    },
+    {
+      "delivered_component": 15,
+      "zero_radius_projected_free_floor_component": 1,
+      "inflated_fine_grid_component": 6
+    },
+    {
+      "delivered_component": 16,
+      "zero_radius_projected_free_floor_component": 11,
+      "inflated_fine_grid_component": 15
+    },
+    {
+      "delivered_component": 17,
+      "zero_radius_projected_free_floor_component": 1,
+      "inflated_fine_grid_component": 16
+    },
+    {
+      "delivered_component": 18,
+      "zero_radius_projected_free_floor_component": 1,
+      "inflated_fine_grid_component": 17
+    },
+    {
+      "delivered_component": 19,
+      "zero_radius_projected_free_floor_component": 1,
+      "inflated_fine_grid_component": 18
+    },
+    {
+      "delivered_component": 20,
+      "zero_radius_projected_free_floor_component": 1,
+      "inflated_fine_grid_component": 19
+    },
+    {
+      "delivered_component": 21,
+      "zero_radius_projected_free_floor_component": 1,
+      "inflated_fine_grid_component": 20
+    },
+    {
+      "delivered_component": 22,
+      "zero_radius_projected_free_floor_component": 1,
+      "inflated_fine_grid_component": 21
+    },
+    {
+      "delivered_component": 23,
+      "zero_radius_projected_free_floor_component": 1,
+      "inflated_fine_grid_component": 22
+    },
+    {
+      "delivered_component": 24,
+      "zero_radius_projected_free_floor_component": 1,
+      "inflated_fine_grid_component": 23
+    },
+    {
+      "delivered_component": 25,
+      "zero_radius_projected_free_floor_component": 6,
+      "inflated_fine_grid_component": 24
+    },
+    {
+      "delivered_component": 26,
+      "zero_radius_projected_free_floor_component": 8,
+      "inflated_fine_grid_component": 25
+    },
+    {
+      "delivered_component": 27,
+      "zero_radius_projected_free_floor_component": 12,
+      "inflated_fine_grid_component": 27
+    },
+    {
+      "delivered_component": 28,
+      "zero_radius_projected_free_floor_component": 6,
+      "inflated_fine_grid_component": 26
+    }
+  ],
+  "unique_zero_radius_source_components_for_delivered_28": 10,
+  "unique_inflated_fine_grid_components_for_delivered_28": 27,
+  "obstacle_projection_limitation": "All opaque/glazing geometry above Z5mm was projected as obstacles, including overhangs and closed panes. This is deliberately conservative for top projection and is not an audit of human-scale architectural doorway connectivity. Smaller characters or a height-aware/open-door variant could connect some regions.",
+  "authored_per_room_partition": false,
+  "implementation_choice": "After component extraction, one simultaneous closed-route character was assigned to each of the 28 safe regions of at least 30mm2. Routes use A-star with selected spatial goals, not a route covering every floor point.",
+  "main_route": {
+    "length_mm": 4324.698584518038,
+    "period_seconds": 72,
+    "sampled_H02_floor_selection_ids_every_2mm": {
+      "HS00": 720,
+      "HS01": 22,
+      "HS03": 186,
+      "HS04": 38,
+      "HS05": 75,
+      "HS06": 216,
+      "HS10": 192,
+      "HS11": 51,
+      "HS13": 663
+    },
+    "continuous_across_Gym_and_Student_Commons": true,
+    "room_boundary_restarts": false,
+    "end_to_start": "Continuous closed path; no teleport or respawn",
+    "H02_reference_limit": "Counts identify the existing approved mask selections, some of which retain coarse source chart assignments. They are not a new semantic doorway audit."
+  },
+  "whole_space_single_actor_delivered": false,
+  "all_28_characters_simultaneous": true,
+  "portal_transitions_or_hidden_cross_wall_jumps": false,
+  "tour_caption_review": {
+    "atlas_resolution": [
+      8192,
+      8192
+    ],
+    "actual_mapped_and_native_receiver_preview_resolution": [
+      2048,
+      1572
+    ],
+    "canvas_1_100_mm": [
+      726.25,
+      557.45361328125
+    ],
+    "model_mm_per_preview_pixel": 0.3546142578125,
+    "body_nominal_font_em_height_preview_pixels": 18.329776247848535,
+    "body_approximate_H_ink_height_preview_pixels": 12.97184165232358,
+    "body_approximate_x_ink_height_preview_pixels": 9.305886402753872,
+    "all_four_1_100_native_receiver_views_reviewed": true,
+    "actual_projector_resolution_and_model_coverage_known": false,
+    "actual_projector_effective_resolution_tested": false,
+    "lower_resolution_or_optical_projection_legibility_claimed": false,
+    "conclusion": "Reviewed after full-model UV reapplication at 2048x1572, not only in the 8192 atlas. This is a digital receiver proxy, not a confirmed projector-resolution test."
+  },
+  "correction_to_earlier_handoff": "Earlier references to 28 physically disconnected regions and necessarily required portals were too strong. The delivered regions are disconnected at the chosen conservative character/clearance/grid settings; 28 delivered regions map to 10 zero-radius projected free-floor components and 27 fine-grid safe components. Gym/Commons/Innovation/ASPIRE/Trainers share zero-radius projected component 1. Smaller-character and height-aware route work could connect additional spaces without portals. This addendum supersedes those earlier scope descriptions; media and source files are unchanged.",
+  "full_space_single_actor_requirement_status": "Not delivered in this version. Independent simultaneous component characters were an implementation/design choice after conservative connectivity extraction. Main actor crosses multiple connected spaces; several areas have separate actors. No regeneration performed pending parent direction."
+}
