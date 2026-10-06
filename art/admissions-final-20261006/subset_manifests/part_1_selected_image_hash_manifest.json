@@ -1,0 +1,69 @@
+{
+  "series": "King CampusCenter eight requested updates",
+  "original_numbers_retained": true,
+  "excluded_photo_numbers": [
+    2,
+    6
+  ],
+  "authentic_K_sources": [
+    "https://www.kingschoolstore.com/unisex-premium-soft-crew-sweatshirt.html",
+    "https://www.kingschoolstore.com/soft-cotton-tee-k-adult.html"
+  ],
+  "material_reference": "https://ecoreathletic.com/products/rubber/inlaid-rubber-logos",
+  "images": [
+    {
+      "original_photo_number": 1,
+      "filename": "01_Commons_Fireplace_final_visualization.png",
+      "title": "Commons Fireplace",
+      "classification": "Conceptual architectural visualization with fictional people",
+      "selected_round": 1,
+      "native_resolution": [
+        1672,
+        941
+      ],
+      "sha256": "2c2a0fdde5ed84960c6ad7273cb2e7f6d08a4d226a5eab968c7b3e9ef15b20b2",
+      "change_checklist": "Framed wall art removed; wall finish and physical navy K updated using the verified store silhouette."
+    },
+    {
+      "original_photo_number": 3,
+      "filename": "03_Research_ASPIRE_final_visualization.png",
+      "title": "Research ASPIRE",
+      "classification": "Conceptual architectural visualization with fictional people",
+      "selected_round": 1,
+      "native_resolution": [
+        1672,
+        941
+      ],
+      "sha256": "ffc2d633738222fbf49939ebf35cc9f9af899cd0205fe05023db7d8ab80f6890",
+      "change_checklist": "Fictional scientist on a laboratory video call; students visibly engage the screen."
+    },
+    {
+      "original_photo_number": 4,
+      "filename": "04_Innovation_Lab_final_visualization.png",
+      "title": "Innovation Lab",
+      "classification": "Conceptual architectural visualization with fictional people",
+      "selected_round": 2,
+      "native_resolution": [
+        1672,
+        941
+      ],
+      "sha256": "28e48334ec27f7f2a52e34cc7bdd7ec663712b3ac5f9926280f19e7e99b8e9db",
+      "change_checklist": "Large active 3D printer with bed-attached lattice prototype, connected gantry and non-emissive plastic/nozzle."
+    },
+    {
+      "original_photo_number": 5,
+      "filename": "05_Fitness_final_visualization.png",
+      "title": "Fitness",
+      "classification": "Conceptual architectural visualization with fictional people",
+      "selected_round": 3,
+      "native_resolution": [
+        1672,
+        941
+      ],
+      "sha256": "61fc99de6fa8978626410352876d8c0d412ab9518dca77a96ee7a28408ae311b",
+      "change_checklist": "Verified store K applied as gold inlay in custom matte navy rubber flooring.",
+      "minor_limitation": "Faint residual surface curves are visible at 100% inspection; matte rubber reads convincingly at delivery size."
+    }
+  ],
+  "part": 1
+}

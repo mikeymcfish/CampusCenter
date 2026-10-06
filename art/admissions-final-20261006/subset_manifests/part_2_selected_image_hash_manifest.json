@@ -1,0 +1,68 @@
+{
+  "series": "King CampusCenter eight requested updates",
+  "original_numbers_retained": true,
+  "excluded_photo_numbers": [
+    2,
+    6
+  ],
+  "authentic_K_sources": [
+    "https://www.kingschoolstore.com/unisex-premium-soft-crew-sweatshirt.html",
+    "https://www.kingschoolstore.com/soft-cotton-tee-k-adult.html"
+  ],
+  "material_reference": "https://ecoreathletic.com/products/rubber/inlaid-rubber-logos",
+  "images": [
+    {
+      "original_photo_number": 7,
+      "filename": "07_Balcony_final_visualization.png",
+      "title": "Balcony",
+      "classification": "Conceptual architectural visualization with fictional people",
+      "selected_round": 2,
+      "native_resolution": [
+        1672,
+        941
+      ],
+      "sha256": "a59193e896324e662a752387af37c288e9cebbb92f0c0be4e0292ff0706a2acf",
+      "change_checklist": "More mixed-age fictional students; same art removal and solid navy wall K as photo1."
+    },
+    {
+      "original_photo_number": 8,
+      "filename": "08_Cafe_Reception_final_visualization.png",
+      "title": "Cafe Reception",
+      "classification": "Conceptual architectural visualization with fictional people",
+      "selected_round": 1,
+      "native_resolution": [
+        1672,
+        941
+      ],
+      "sha256": "4b7ac714a835875a90d51d04ee44b694d4a2e840627feb945985f011b6ea55c9",
+      "change_checklist": "Vertical food-photo sign visibly attached to wall with bolted backplate and stand-off arms."
+    },
+    {
+      "original_photo_number": 9,
+      "filename": "09_Athletics_Trophy_Hall_final_visualization.png",
+      "title": "Athletics Trophy Hall",
+      "classification": "Conceptual architectural visualization with fictional people",
+      "selected_round": 2,
+      "native_resolution": [
+        1672,
+        941
+      ],
+      "sha256": "0002d6027008aabc1b543cd2da690ef00c27c3ae568cbb07e1b9c55fedf774cd",
+      "change_checklist": "Realistic fountain/bottle filler; abundant supported trophies and text-only KING/VIKINGS banners."
+    },
+    {
+      "original_photo_number": 10,
+      "filename": "10_Commons_Collaboration_final_visualization.png",
+      "title": "Commons Collaboration",
+      "classification": "Conceptual architectural visualization with fictional people",
+      "selected_round": 1,
+      "native_resolution": [
+        1672,
+        941
+      ],
+      "sha256": "d20b0c5e1cdaa2e3f2d95926c2b8de16ba20ee43beb4be9195183403430bd3c9",
+      "change_checklist": "Existing far-left cafe stocked to match photo8 cases/food and the mounted coffee-photo sign."
+    }
+  ],
+  "part": 2
+}
