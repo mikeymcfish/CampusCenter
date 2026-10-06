@@ -1,0 +1,14 @@
+[
+  {
+    "file": "Commons_Paginated_Gym_Mapped_1024_Viewing_Preview.mp4",
+    "bytes": 283479,
+    "sha256": "6f08a7a0c7cab4a77714d0089fed936fcb556a71e035cfd208e08c27a5f5ace7",
+    "role": "Mapped camera viewing preview ONLY; not MadMapper atlas input"
+  },
+  {
+    "file": "Ripple_R02_ThreeRoom_Mapped_1024_Viewing_Preview.mp4",
+    "bytes": 512094,
+    "sha256": "a37200f07676680e2a06a615cc7e6716edc357a7f8e00f97ca48c4c4f68035d8",
+    "role": "Mapped camera viewing preview ONLY; not MadMapper atlas input"
+  }
+]
