@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "frames": 300,
+  "duration_seconds": 300,
+  "every_packet_pts_and_duration_independently_verified": true,
+  "producer_page_order_comparison_reviewed": true,
+  "Mac_MadMapper_playback_tested": false
+}

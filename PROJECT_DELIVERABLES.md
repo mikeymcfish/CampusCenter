@@ -61,3 +61,5 @@ Fetch/pull main for Windows launchers and editable sources; keep the `tools` fol
 | **Historical/reference: Earlier Blender/art/print sources** | [Final V26 source and downloads](https://github.com/mikeymcfish/CampusCenter/releases/tag/campuscenter-v26-final-20261001) and preserved versioned branches. These are earlier versions, not substitutes for P02 or the final eight admissions images. |
 
 The history table preserves version-specific test notes, including old “pending” statements; current status is defined by the quickstart above. No GitHub release/tag/asset/branch or local file was deleted.
+
+H04 optional actual atlas playback alternatives: [4096 and 8192 HAPQ downloads, quality and import limits](projection/p02-p03b3-h04-atlas-video-r01/README.md#optional-hapq-playback-alternatives). The lossless PNG MOV remains the primary tour.
