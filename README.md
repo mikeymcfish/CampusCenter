@@ -1,5 +1,7 @@
 # Current deliverables
 
+[Matched UV02 R02 Commons/Ripple atlas tests](projection/production-r02/atlas-tests/README.md) are available with their limited scope and import instructions.
+
 [Two compact R02 viewing previews](projection/production-r02/viewing-previews/README.md) are available for immediate review. Camera views are not projection atlas inputs.
 
 [Corrected B3 fireplace tile, P03](print/r29-p03-b3-fireplace/README.md) replaces only P02 B3 at 1:100. [Matched UV02 receiver](projection/p02-p03b3-uv02-receiver/README.md) is available; full revised media and physical calibration remain pending.

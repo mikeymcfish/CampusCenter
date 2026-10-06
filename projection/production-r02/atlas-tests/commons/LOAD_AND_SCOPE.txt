@@ -1,0 +1,7 @@
+Commons R02 paginated caption first example
+
+Use P02plusP03B3 UV02 physical1:100 receiver, five P02 tiles plus P03 B3 only. Caption pages are full8192 square raw atlases; the MP4 marked Mapped1024 Viewing Preview is a camera-reference movie for reviewing, not atlas playback media.
+
+Two stable pages,10seconds each in the viewing preview. Every word of the official Commons copy is preserved, with the title retained and sentence-boundary page breaks. Body nominal13mm at1:100, x-height approximately9.16pixels at1024 effective model width. All caption pixels remain inside unchanged gym bounds X235..448,Y231..451mm. All other room and fireplace pixels match the UV02 Commons compatibility test. Original P01 media and UV01 remain unchanged. Real projector readability is not verified.
+
+No MadMapper project or cues included. For actual mapping, assign each separately supplied Page Atlas PNG to the shared receiver UVs; preserve the full atlas, dimensions and origins. Playback timing is documented without changing any user project.

@@ -1,0 +1,126 @@
+{
+  "original_package_sha256": "daf0d130a083b0af08bbda2e2f77863731678d58521e232aa8dd956d2dc427ac",
+  "changes": "Private JSON provenance paths reduced to basenames; empty machine encoding logs excluded. Geometry/atlas/preview/media pixels and bytes unchanged.",
+  "files": [
+    {
+      "file": "LOAD_AND_SCOPE.txt",
+      "bytes": 1707,
+      "sha256": "f5c4b6bca8e3117acdce3df683a732b3c69607cc0f0e3cef5d6a77f1d335fb78"
+    },
+    {
+      "file": "Native_Hybrid_Media_Reapplication_QA.json",
+      "bytes": 2581,
+      "sha256": "35699674cf6ae16221a34912c6205e0c552fc072a24ef8c1e1fc58fbb790e12b"
+    },
+    {
+      "file": "Ripple_Compact_Mapped_Preview_QA.json",
+      "bytes": 1200,
+      "sha256": "6441abfb97bd5eb28e6e2a3bb329c236444d6c3c06e948e0628096042850f589"
+    },
+    {
+      "file": "Ripple_R02_Frame_0000_Atlas_4096.png",
+      "bytes": 322592,
+      "sha256": "7ee814f22d9363b9525f1940ccb5a5aa04a0828110285b16801a8107d54b4823"
+    },
+    {
+      "file": "Ripple_R02_Frame_0000_Mapped_1024_Viewing.png",
+      "bytes": 181343,
+      "sha256": "e47827ad1f23e6884372336c397a335eea777acaa9bc7962d4cd8c5549146064"
+    },
+    {
+      "file": "Ripple_R02_Frame_0000_Native_Mapped_Preview.png",
+      "bytes": 3147141,
+      "sha256": "7ccd21de15ea2cb1acadf4af42f07179b52188caa34b05107684f8a8ed4000f1"
+    },
+    {
+      "file": "Ripple_R02_Frame_0060_Atlas_4096.png",
+      "bytes": 405335,
+      "sha256": "ca9fbfec20f4c4e05d74011fcbce009a22c0bede0e107649ee6b9e05c6bfc9ef"
+    },
+    {
+      "file": "Ripple_R02_Frame_0060_Mapped_1024_Viewing.png",
+      "bytes": 211326,
+      "sha256": "f89d82dd60a174144d09db729f931b29d02bf1385eed5826b00e1ef189bd6b5d"
+    },
+    {
+      "file": "Ripple_R02_Frame_0060_Native_Mapped_Preview.png",
+      "bytes": 3205307,
+      "sha256": "1cc4a3a3dc75cf4068c576b330235f782f4c7be779ae305691ea2122b7d9505c"
+    },
+    {
+      "file": "Ripple_R02_Frame_0120_Atlas_4096.png",
+      "bytes": 438293,
+      "sha256": "5bc7287362ec23795ff56a3cfed86cfbec33b1ae3710ba229fc505092fce3917"
+    },
+    {
+      "file": "Ripple_R02_Frame_0120_Mapped_1024_Viewing.png",
+      "bytes": 225219,
+      "sha256": "136869054e113ea9d9e5ccd91101db55e2ba8cb935004a6fd111b27c6fbc9de3"
+    },
+    {
+      "file": "Ripple_R02_Frame_0120_Native_Mapped_Preview.png",
+      "bytes": 3205069,
+      "sha256": "cee57620c6500a7f5a38d24b88cb6960dce77556693288d00be814840782eed1"
+    },
+    {
+      "file": "Ripple_R02_Frame_0200_Atlas_4096.png",
+      "bytes": 370226,
+      "sha256": "8d6bddd45dd0db216f28469ca2cebfd2d2444ea39a1238b6465d859691227de5"
+    },
+    {
+      "file": "Ripple_R02_Frame_0200_Mapped_1024_Viewing.png",
+      "bytes": 208415,
+      "sha256": "b1a8dc63d278b16aab1e529c7e499ef90e6b61d85f593639e531501f0acca9ae"
+    },
+    {
+      "file": "Ripple_R02_Frame_0200_Native_Mapped_Preview.png",
+      "bytes": 3165468,
+      "sha256": "c9f43ab888897c58cf7bfec1327d7675051c8d158af8f80005bc733ae49ec343"
+    },
+    {
+      "file": "Ripple_R02_Frame_0599_Atlas_4096.png",
+      "bytes": 322592,
+      "sha256": "7ee814f22d9363b9525f1940ccb5a5aa04a0828110285b16801a8107d54b4823"
+    },
+    {
+      "file": "Ripple_R02_Frame_0599_Native_Mapped_Preview.png",
+      "bytes": 3147141,
+      "sha256": "94f34237a158709307c67d1f38999fde9506aa9631fbf57dde8d495613f52917"
+    },
+    {
+      "file": "Wave_Transfer_And_Video_QA.json",
+      "bytes": 1908,
+      "sha256": "a330ca834221dd4fb36ad000ba92b92bb9192b8508c9a717d88c71cc195261c5"
+    },
+    {
+      "file": "Ripple_R02_ThreeRoom_Mapped_1024_Viewing_Preview.mp4",
+      "bytes": 512094,
+      "sha256": "a37200f07676680e2a06a615cc7e6716edc357a7f8e00f97ca48c4c4f68035d8"
+    },
+    {
+      "file": "Physics/Commons_Domain_Review.png",
+      "bytes": 37905,
+      "sha256": "2faafd06fff46b1bb3edc185fd5a11581b463923ee7f5a4bebe2e5b067d28d6c"
+    },
+    {
+      "file": "Physics/GYM_Domain_Review.png",
+      "bytes": 11923,
+      "sha256": "5248ddb963c38c0dbf3dcafda502c10a1c49d832fe84747c6d519bf6ef282fa3"
+    },
+    {
+      "file": "Physics/Innovation_Domain_Review.png",
+      "bytes": 19892,
+      "sha256": "ea2f060a0a79b69b8dafc7b010f9430f8ab3e04e01ca3c1241c945676a4ca222"
+    },
+    {
+      "file": "Physics/Room_Local_Wave_Physics_QA.json",
+      "bytes": 94767,
+      "sha256": "3dbab4c6aa45d329008810052d0b80866035cf77a8564488eb5eda6ec39391d5"
+    },
+    {
+      "file": "Physics/Simulation_Domain_Manifest.json",
+      "bytes": 97934,
+      "sha256": "872eb33ef0c8c6da1cdc2e6ef9f78d5815fdb71514fa46e48bda6fb233027176"
+    }
+  ]
+}

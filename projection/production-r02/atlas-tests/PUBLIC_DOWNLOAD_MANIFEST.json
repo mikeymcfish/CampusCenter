@@ -1,0 +1,20 @@
+[
+  {
+    "file": "CampusCenter_UV02_Commons_Paginated_First_Test.zip",
+    "bytes": 6951212,
+    "sha256": "aeee4415541cdfd2c6fda564a2b8b4295e4a2c8fb1489b07092d5faea09bc020",
+    "role": "commons raw atlas test/keyframes and QA; scoped incremental test"
+  },
+  {
+    "file": "CampusCenter_UV02_Ripple_R02_ThreeRoom_Keyframes_Physics_And_Preview.zip",
+    "bytes": 18997925,
+    "sha256": "0d9fac26d7a85b22db5234140b348f0e4155a31985efa678451ca19934b5d1a1",
+    "role": "ripple-three-room raw atlas test/keyframes and QA; scoped incremental test"
+  },
+  {
+    "file": "Ripple_R02_ThreeRoom_Physics_UV02_1_100_4096_HAP.mov",
+    "bytes": 505821116,
+    "sha256": "9080d326d73ab3c2fb6b1b5afe9734578e1862c41367fa5c5d5cd9483a50a4fa",
+    "role": "Ripple THREE-ROOM 4096 UV atlas HAP movie; MadMapper test input"
+  }
+]

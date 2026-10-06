@@ -1,0 +1,50 @@
+{
+  "status": "PASS: solved room-local fields transferred to hybrid UV02; playable movie encoded and fully decoded",
+  "primary_movie": "Ripple_R02_ThreeRoom_Physics_UV02_1_100_4096_HAP.mov",
+  "primary_bytes": 505821116,
+  "primary_sha256": "9080d326d73ab3c2fb6b1b5afe9734578e1862c41367fa5c5d5cd9483a50a4fa",
+  "compact_movie": "Ripple_R02_ThreeRoom_Physics_UV02_1_100_4096_AllIntra.mp4",
+  "compact_bytes": 603976063,
+  "compact_sha256": "a51e216e6aa629890108d951a9f3b0918b70479f1f231d5fb58d8ca32980bc5a",
+  "resolution": 4096,
+  "fps": 20,
+  "frames": 600,
+  "duration_seconds": 30.0,
+  "same_displayed_quiet_state_at_start_and_after_natural_decay": true,
+  "arbitrary_seamless_fluid_loop_claimed": false,
+  "external_fade_used": false,
+  "physics_QA": "Room_Local_Wave_Physics_QA.json",
+  "simulation_domain_manifest": "Simulation_Domain_Manifest.json",
+  "receiver_OBJ": "CampusCenter_P02plusP03B3_Assembly_1_100_UV02.obj",
+  "receiver_geometry_or_UV_changed": false,
+  "legacy_media_changed": false,
+  "room_boundaries_participate_in_solver": true,
+  "three_room_test_only": true,
+  "whole_building_wave_revision_complete": false,
+  "vertical_wall_water_shader_or_bake_complete": false,
+  "furniture_normal_shade_and_fireplace_patch_static": true,
+  "physical_projection_or_MadMapper_playback_tested": false,
+  "native_reapplication_pending": false,
+  "codec_probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "hap",
+        "width": 4096,
+        "height": 4096,
+        "r_frame_rate": "20/1",
+        "duration": "30.000000",
+        "nb_read_frames": "600"
+      }
+    ]
+  },
+  "floor_texels_by_room": {
+    "GYM": 620606,
+    "Commons": 68385,
+    "Innovation": 36571
+  },
+  "native_and_compact_mapped_keyframes_visually_reviewed": true,
+  "colour_exposure_increased_after_mapped_review": true,
+  "solver_or_damping_changed_for_exposure": false
+}

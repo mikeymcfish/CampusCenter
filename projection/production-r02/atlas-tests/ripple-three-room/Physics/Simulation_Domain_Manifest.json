@@ -1,0 +1,2118 @@
+{
+  "status": "Domain extraction complete; solver and physical behaviour validation pending",
+  "source": "R29 read-only transformed native actor caches plus unchanged physical base footprint; restored fireplace native actors included",
+  "receiver": "P02plusP03B3 UV02 1:100 copy",
+  "grid_pitch_model_mm": 0.5,
+  "water_obstacle_slab_model_Z_mm": [
+    4.25,
+    5.2
+  ],
+  "water_obstacle_slab_height_above_native_floor_cm": [
+    0.4999999999999982,
+    10.0
+  ],
+  "floor_substrate_finish_exclusions": [
+    {
+      "actor": "StaticMeshActor_768",
+      "label": "ILab_Designed_Details",
+      "finish_material_names": [
+        "ILab_EpoxyFloor"
+      ],
+      "excluded_floor_substrate_triangles": 10
+    }
+  ],
+  "tabletops_do_not_block_water": true,
+  "native_legs_do_block_water": true,
+  "print_supported_relief_not_used_as_water_physics": true,
+  "navigation_physics_distinct": "PacMan still avoids tabletop footprints; water travels under tabletops around near-floor legs.",
+  "boundary_authority": "GYM rectangle uses verified native wall inner bounds. Commons and Innovation basin grouping uses frozen A101 room reference masks clipped to actual physical footprint and native near-floor barriers. These are documented artistic selection boundaries, not a new R29 architectural room-boundary audit. Open door/reference boundaries reflect independently and do not imply a real wall.",
+  "invisible_open_door_boundaries_are_artistic": true,
+  "rooms": [
+    {
+      "name": "GYM",
+      "title": "Simple verified gym basin",
+      "number": 999,
+      "origin_mm": [
+        213.5,
+        187.5
+      ],
+      "grid_shape_HW": [
+        615,
+        509
+      ],
+      "active_area_mm2": 75238.75,
+      "native_wall_cells": 1666,
+      "native_near_floor_furniture_cells": 288,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 560,
+      "actors": [
+        {
+          "actor": "StaticMeshActor_11",
+          "label": "Architecture_Ground_06_12",
+          "category": "native wall/glazing/door",
+          "source_sha256": "a6121bddfadacdf76a7547105decaf8b54a47caa964059f342ce2c3263a20b49",
+          "new_obstacle_cells": 55,
+          "retained_slab_triangles": 58
+        },
+        {
+          "actor": "StaticMeshActor_12",
+          "label": "Architecture_Ground_06_13",
+          "category": "native wall/glazing/door",
+          "source_sha256": "5efdf8a358cb010a595f17a9b6a4c578aa2579c1fc9d158936426e48d826c52a",
+          "new_obstacle_cells": 36,
+          "retained_slab_triangles": 76
+        },
+        {
+          "actor": "StaticMeshActor_13",
+          "label": "Architecture_Ground_06_14",
+          "category": "native wall/glazing/door",
+          "source_sha256": "d5624bceb9bcb6c625fe30d6454e462d89ae344435aa776e45409c8f12876a4c",
+          "new_obstacle_cells": 33,
+          "retained_slab_triangles": 184
+        },
+        {
+          "actor": "StaticMeshActor_147",
+          "label": "Furniture_Ground_06_13",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "7bf21ed2749960ddc870b21d253d58c966e3d4f8eddf7bb2dc612dea2afe35c3",
+          "new_obstacle_cells": 144,
+          "retained_slab_triangles": 404
+        },
+        {
+          "actor": "StaticMeshActor_148",
+          "label": "Furniture_Ground_06_14",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "036639980f699edd0154c3c97c95f2a46c541cc8ad3bc06a0453cbc6530dfeac",
+          "new_obstacle_cells": 144,
+          "retained_slab_triangles": 8
+        },
+        {
+          "actor": "StaticMeshActor_17",
+          "label": "Architecture_Ground_07_12",
+          "category": "native wall/glazing/door",
+          "source_sha256": "6aa0082cb58744a3fdcb88429f4fb8da666c5a137460657c0be9c767f1333d02",
+          "new_obstacle_cells": 32,
+          "retained_slab_triangles": 26
+        },
+        {
+          "actor": "StaticMeshActor_233",
+          "label": "Retained_Architecture_Ground_08_12",
+          "category": "native wall/glazing/door",
+          "source_sha256": "40f306fedd53b2de09519d3c51207cb5cedc5b2d00f279e9a031c6bbd5720349",
+          "new_obstacle_cells": 423,
+          "retained_slab_triangles": 8
+        },
+        {
+          "actor": "StaticMeshActor_51",
+          "label": "Architecture_Upper_06_12",
+          "category": "native wall/glazing/door",
+          "source_sha256": "81e6b31151c5968553b889208c2911e8dfa6830a083da3596eade4a53c72f9bd",
+          "new_obstacle_cells": 270,
+          "retained_slab_triangles": 21
+        },
+        {
+          "actor": "StaticMeshActor_53",
+          "label": "Architecture_Upper_06_14",
+          "category": "native wall/glazing/door",
+          "source_sha256": "9c80440e5888c7e528d08b0f3a622c6133cdc14a12cf0c646afe1f9f4e973451",
+          "new_obstacle_cells": 29,
+          "retained_slab_triangles": 8
+        },
+        {
+          "actor": "StaticMeshActor_54",
+          "label": "Architecture_Upper_06_15",
+          "category": "native wall/glazing/door",
+          "source_sha256": "e2bd76aeb888077423387f00ac824948b1d97fb277b61788552c59a42ce37855",
+          "new_obstacle_cells": 254,
+          "retained_slab_triangles": 8
+        },
+        {
+          "actor": "StaticMeshActor_61",
+          "label": "Architecture_Upper_08_15",
+          "category": "native wall/glazing/door",
+          "source_sha256": "cc074df928c9dba96c2572fd79e6707889c41113d1ced468912533584444063d",
+          "new_obstacle_cells": 507,
+          "retained_slab_triangles": 8
+        },
+        {
+          "actor": "StaticMeshActor_65",
+          "label": "Architecture_Upper_09_13",
+          "category": "native wall/glazing/door",
+          "source_sha256": "2e7779ebd9848f96eca5efac3a81e250c69b5ea9de98744c1be57ab2184beb8d",
+          "new_obstacle_cells": 615,
+          "retained_slab_triangles": 8
+        },
+        {
+          "actor": "StaticMeshActor_92",
+          "label": "Doors_Ground_06_13",
+          "category": "native wall/glazing/door",
+          "source_sha256": "79df3b0b306847c9cdcb0fa5bd252a5d0153b59f2f21419cb4c9154f8fd6d9b6",
+          "new_obstacle_cells": 66,
+          "retained_slab_triangles": 462
+        },
+        {
+          "actor": "StaticMeshActor_97",
+          "label": "Doors_Ground_07_12",
+          "category": "native wall/glazing/door",
+          "source_sha256": "9cea794d20f5a39143e24ec9ac5d3c5eaf3cc69fc637d61ac95b1dec3785dd0e",
+          "new_obstacle_cells": 62,
+          "retained_slab_triangles": 396
+        }
+      ]
+    },
+    {
+      "name": "Commons",
+      "title": "Irregular Commons basin with restored fireplace",
+      "number": 102,
+      "origin_mm": [
+        469.0,
+        184.0
+      ],
+      "grid_shape_HW": [
+        299,
+        332
+      ],
+      "active_area_mm2": 20926.25,
+      "native_wall_cells": 685,
+      "native_near_floor_furniture_cells": 5677,
+      "native_tabletop_cells_with_water_passage_underneath": 0,
+      "artistic_selection_boundary_cells_without_native_wall": 1226,
+      "actors": [
+        {
+          "actor": "StaticMeshActor_1358",
+          "label": "R25_NATIVE_REV02_Reception_StaffChair",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "0b5c6a01a5e34498e04f686e32c9587bfba31f745953aa2a49660d0a29fcaffa",
+          "new_obstacle_cells": 3,
+          "retained_slab_triangles": 2593
+        },
+        {
+          "actor": "StaticMeshActor_140",
+          "label": "Plane",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "a3e0f0f19c29734563b0d95e7869c15c69c1b37cd08b9abe813a5ec43c150ea1",
+          "new_obstacle_cells": 22,
+          "retained_slab_triangles": 2
+        },
+        {
+          "actor": "StaticMeshActor_1475",
+          "label": "R25_Architecture_Upper_08_12",
+          "category": "native wall/glazing/door",
+          "source_sha256": "add48a8f957dc58006b48cc6d251ac4198b5b26cd830dca477ab3a2f3f2db947",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 8
+        },
+        {
+          "actor": "StaticMeshActor_1504",
+          "label": "R25_G101_Architecture",
+          "category": "native wall/glazing/door",
+          "source_sha256": "86becc607764aad0bdaf40f93d2188e95cb7090c7e41e829497a18b4586c3783",
+          "new_obstacle_cells": 162,
+          "retained_slab_triangles": 8
+        },
+        {
+          "actor": "StaticMeshActor_1561",
+          "label": "R25_NATIVE_RE11_Commons_RoundDining_1_StaticMeshActor_577",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "71b6e66dd6bfb6fd88a67274404d074875149213919b5514afb06aaa04443e3a",
+          "new_obstacle_cells": 4,
+          "retained_slab_triangles": 574
+        },
+        {
+          "actor": "StaticMeshActor_1563",
+          "label": "R25_NATIVE_RE11_Commons_RoundDining_1_StaticMeshActor_579",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "74b7e24afdd648dee999916c28e95e004c200d572a28b6ebaebdfbad3f7640ef",
+          "new_obstacle_cells": 117,
+          "retained_slab_triangles": 830
+        },
+        {
+          "actor": "StaticMeshActor_1564",
+          "label": "R25_NATIVE_RE11_Commons_RoundDining_1_StaticMeshActor_580",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "a417ab79279deb05e946841557cde81499f4c90830d6b0984365edfb2bdc3f53",
+          "new_obstacle_cells": 12,
+          "retained_slab_triangles": 792
+        },
+        {
+          "actor": "StaticMeshActor_1565",
+          "label": "R25_NATIVE_RE11_Commons_RoundDining_1_StaticMeshActor_581",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "e64780a2e41062658fa3dd0a4bddfb9c86318a1899f369038f23d9eb11a46387",
+          "new_obstacle_cells": 13,
+          "retained_slab_triangles": 792
+        },
+        {
+          "actor": "StaticMeshActor_1566",
+          "label": "R25_NATIVE_RE11_Commons_RoundDining_1_StaticMeshActor_582",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "42950ae52c7d6bad82d22adfd15fe7c2ba13039bb624b091b015216abfb325b7",
+          "new_obstacle_cells": 15,
+          "retained_slab_triangles": 792
+        },
+        {
+          "actor": "StaticMeshActor_1567",
+          "label": "R25_NATIVE_RE11_Commons_RoundDining_1_StaticMeshActor_583",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "d9fb2d700a78c6d7ad9b5fd88504ba71468581385da26baeeebcbc4a4e60609e",
+          "new_obstacle_cells": 11,
+          "retained_slab_triangles": 792
+        },
+        {
+          "actor": "StaticMeshActor_1568",
+          "label": "R25_NATIVE_RE11_Commons_RoundDining_2_StaticMeshActor_577",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "9b8cde1441ec117ec1e679c0a13d2f5b1c05492e3793b99a8bf055b351864066",
+          "new_obstacle_cells": 4,
+          "retained_slab_triangles": 574
+        },
+        {
+          "actor": "StaticMeshActor_1570",
+          "label": "R25_NATIVE_RE11_Commons_RoundDining_2_StaticMeshActor_579",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "f9b30156f9cf55fc809ce54917f30633507b1a8c70a46fb7b73cf70f6edb9e7b",
+          "new_obstacle_cells": 117,
+          "retained_slab_triangles": 830
+        },
+        {
+          "actor": "StaticMeshActor_1571",
+          "label": "R25_NATIVE_RE11_Commons_RoundDining_2_StaticMeshActor_580",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "001ea94ca812af3df079859c564b342ad99d73fa4062806fe0f5034eae4a861e",
+          "new_obstacle_cells": 10,
+          "retained_slab_triangles": 792
+        },
+        {
+          "actor": "StaticMeshActor_1572",
+          "label": "R25_NATIVE_RE11_Commons_RoundDining_2_StaticMeshActor_581",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "3876e3d7c2b8460388bf310a77612dadab32b063aac5dd301a04903e116a5013",
+          "new_obstacle_cells": 12,
+          "retained_slab_triangles": 792
+        },
+        {
+          "actor": "StaticMeshActor_1573",
+          "label": "R25_NATIVE_RE11_Commons_RoundDining_2_StaticMeshActor_582",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "07e62bbec43671107c66aabfdae4a36ca5189e04ddbce8f676324e9e25d3871f",
+          "new_obstacle_cells": 15,
+          "retained_slab_triangles": 792
+        },
+        {
+          "actor": "StaticMeshActor_1574",
+          "label": "R25_NATIVE_RE11_Commons_RoundDining_2_StaticMeshActor_583",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "e2770f4c73196958df4ed4d6f47633ad2e4413a5830480f79c9fcc29b8a97169",
+          "new_obstacle_cells": 11,
+          "retained_slab_triangles": 792
+        },
+        {
+          "actor": "StaticMeshActor_1576",
+          "label": "R25_NATIVE_RE11_Commons_RectDining_1_StaticMeshActor_532",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "321e9005489eb0a6bcb2eb15319f3d52b5c2ea2d89b90bf443323ebf69a6b7fa",
+          "new_obstacle_cells": 26,
+          "retained_slab_triangles": 170
+        },
+        {
+          "actor": "StaticMeshActor_1587",
+          "label": "R25_NATIVE_RE11_Commons_RectDining_1_StaticMeshActor_543",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "c0f89f6eb79ef8c4cc23f7ebbdddf2ca77b88a080c3069a96a517bf800d9cd77",
+          "new_obstacle_cells": 13,
+          "retained_slab_triangles": 792
+        },
+        {
+          "actor": "StaticMeshActor_1588",
+          "label": "R25_NATIVE_RE11_Commons_RectDining_1_StaticMeshActor_544",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "90ede0542f5bcc66e9cf0f2c7c964270592db78c15a1acbc8cd663296884c917",
+          "new_obstacle_cells": 11,
+          "retained_slab_triangles": 792
+        },
+        {
+          "actor": "StaticMeshActor_1589",
+          "label": "R25_NATIVE_RE11_Commons_RectDining_1_StaticMeshActor_545",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "d1f37aea7e7bf23a0816e6712b2c55ba9d88e8d8eab128717a05e4aacfcea74a",
+          "new_obstacle_cells": 11,
+          "retained_slab_triangles": 792
+        },
+        {
+          "actor": "StaticMeshActor_1590",
+          "label": "R25_NATIVE_RE11_Commons_RectDining_1_StaticMeshActor_546",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "c7cc4b98beed32d82927094c44406ff0cb2ef3ffd33757b018bd320add4220c1",
+          "new_obstacle_cells": 14,
+          "retained_slab_triangles": 792
+        },
+        {
+          "actor": "StaticMeshActor_1593",
+          "label": "R25_NATIVE_RE11_Commons_RoundedLounge_0_0_StaticMeshActor_477",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "aee4cd1f98d1f2a1b80d34fccec6a47b62bb110c307d8147ff7318add6a893ab",
+          "new_obstacle_cells": 15,
+          "retained_slab_triangles": 768
+        },
+        {
+          "actor": "StaticMeshActor_1594",
+          "label": "R25_NATIVE_RE11_Commons_RoundedLounge_0_1_StaticMeshActor_477",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "1eee02db607caa2c2540ab03830623a7fe465dc98f452304e98bb2c6a1074766",
+          "new_obstacle_cells": 12,
+          "retained_slab_triangles": 768
+        },
+        {
+          "actor": "StaticMeshActor_1595",
+          "label": "R25_NATIVE_RE11_Commons_RoundedLounge_0_2_StaticMeshActor_477",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "87e1e3e7d7bcab41e0d7e7961c93f6cdfebcc652d9e819763c7848458c284e35",
+          "new_obstacle_cells": 12,
+          "retained_slab_triangles": 768
+        },
+        {
+          "actor": "StaticMeshActor_1596",
+          "label": "R25_NATIVE_RE11_Commons_RoundedLounge_0_3_StaticMeshActor_477",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "6d97ec8c80d8e907909c8c2b1ee3d08b10c1916a10311ff7b50236e983fe4c6b",
+          "new_obstacle_cells": 13,
+          "retained_slab_triangles": 768
+        },
+        {
+          "actor": "StaticMeshActor_1597",
+          "label": "R25_NATIVE_RE11_Commons_RoundedLounge_1_0_StaticMeshActor_477",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "4c66d25563ec0ee8030c054fad17c81d6d5348c250844001a8067250c83e4594",
+          "new_obstacle_cells": 15,
+          "retained_slab_triangles": 768
+        },
+        {
+          "actor": "StaticMeshActor_1598",
+          "label": "R25_NATIVE_RE11_Commons_RoundedLounge_1_1_StaticMeshActor_477",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "f924fbbce94237feacf991237c9d336787e571bbe8453f8c5a33dd247d6952e1",
+          "new_obstacle_cells": 14,
+          "retained_slab_triangles": 768
+        },
+        {
+          "actor": "StaticMeshActor_1599",
+          "label": "R25_NATIVE_RE11_Commons_RoundedLounge_1_2_StaticMeshActor_477",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "6162924a64234c8ab7c2d652aa46e64158a5259d32396f3729d279b765ba5648",
+          "new_obstacle_cells": 14,
+          "retained_slab_triangles": 768
+        },
+        {
+          "actor": "StaticMeshActor_1600",
+          "label": "R25_NATIVE_RE11_Commons_RoundedLounge_1_3_StaticMeshActor_477",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "c4742a142d70805bb16f72163443c91ca4e25801219581bca2ffb8a5940087d6",
+          "new_obstacle_cells": 14,
+          "retained_slab_triangles": 768
+        },
+        {
+          "actor": "StaticMeshActor_1601",
+          "label": "R25_NATIVE_RE11_Commons_SquareLounge_0_0_StaticMeshActor_477",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "f48ad5c3efcb00718c12da354b0a9babeeee58f3fcb654266256edc67feac5b3",
+          "new_obstacle_cells": 14,
+          "retained_slab_triangles": 768
+        },
+        {
+          "actor": "StaticMeshActor_1602",
+          "label": "R25_NATIVE_RE11_Commons_SquareLounge_0_1_StaticMeshActor_477",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "97376148cf4339ad0689cc1dd1154006c5ca386d0aacdb18e4efaeea1ba5d7a7",
+          "new_obstacle_cells": 14,
+          "retained_slab_triangles": 768
+        },
+        {
+          "actor": "StaticMeshActor_1603",
+          "label": "R25_NATIVE_RE11_Commons_SquareLounge_0_2_StaticMeshActor_477",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "0911c23cb64c7140e62cc90d3ee8a6fc9a6c379ab79dac9389637e083845d2b3",
+          "new_obstacle_cells": 14,
+          "retained_slab_triangles": 768
+        },
+        {
+          "actor": "StaticMeshActor_1604",
+          "label": "R25_NATIVE_RE11_Commons_SquareLounge_1_0_StaticMeshActor_477",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "e183d620851e38d2fab7922629f5f4ad9ac0ccb54a0ebe9af5250358092a31f1",
+          "new_obstacle_cells": 15,
+          "retained_slab_triangles": 768
+        },
+        {
+          "actor": "StaticMeshActor_1605",
+          "label": "R25_NATIVE_RE11_Commons_SquareLounge_1_1_StaticMeshActor_477",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "ebd5f05f5ee160fd9a53c41116af6f2f64f5af80f9abc5cb53270cc29f53747b",
+          "new_obstacle_cells": 13,
+          "retained_slab_triangles": 768
+        },
+        {
+          "actor": "StaticMeshActor_1606",
+          "label": "R25_NATIVE_RE11_Commons_SquareLounge_1_2_StaticMeshActor_477",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "3be4563f090f37f766ab2a07ad6e049b615b5d988550ca06d892e638f963cfc3",
+          "new_obstacle_cells": 14,
+          "retained_slab_triangles": 768
+        },
+        {
+          "actor": "StaticMeshActor_1607",
+          "label": "R25_NATIVE_RE11_Commons_SquareLounge_2_0_StaticMeshActor_477",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "e4b9b24d30fde142d53b9ab6c5b2fe720f8beece980a92ec303d6a6950157972",
+          "new_obstacle_cells": 14,
+          "retained_slab_triangles": 768
+        },
+        {
+          "actor": "StaticMeshActor_1608",
+          "label": "R25_NATIVE_RE11_Commons_SquareLounge_2_1_StaticMeshActor_477",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "a52fcd0a45304cd2d576efb3c496381e602b6c6d6b4ff4e403819929a0f2c56f",
+          "new_obstacle_cells": 15,
+          "retained_slab_triangles": 768
+        },
+        {
+          "actor": "StaticMeshActor_1609",
+          "label": "R25_NATIVE_RE11_Commons_SquareLounge_2_2_StaticMeshActor_477",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "e194485382ed83e6fee4bfe65afc1d7b206b0139c718919fbc9b7c6461e17748",
+          "new_obstacle_cells": 12,
+          "retained_slab_triangles": 768
+        },
+        {
+          "actor": "StaticMeshActor_1612",
+          "label": "R25_NATIVE_RE11_Commons_Stool_0_0_0_StaticMeshActor_622",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "1e47354347134de3dd99c9da9f459af39df5df72a63b0e7388a16c590ffff6fb",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1613",
+          "label": "R25_NATIVE_RE11_Commons_Stool_0_0_0_StaticMeshActor_623",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "6b2bc8bf4898bca0623a25e1eaa718aa4a38268a4e33e8e4b0bc1fa152341c38",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1614",
+          "label": "R25_NATIVE_RE11_Commons_Stool_0_0_0_StaticMeshActor_624",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "a49c07e5e72376987477f4c865eb7b1442d83bc5ad759a0b55d9a4a4f7211093",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1615",
+          "label": "R25_NATIVE_RE11_Commons_Stool_0_0_0_StaticMeshActor_625",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "629a8c25553b361bf3d1ffee74e189d3ff3df16132770a745bb03b5db4c162a9",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1617",
+          "label": "R25_NATIVE_RE11_Commons_Stool_0_0_1_StaticMeshActor_622",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "2d884f0b0d369f9ead8d08cc50986d7ea9df8ed16fb18def54f6838a84f2a2e9",
+          "new_obstacle_cells": 1,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1618",
+          "label": "R25_NATIVE_RE11_Commons_Stool_0_0_1_StaticMeshActor_623",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "4a4645fa8f1496652bb9a229209c9fdbd697b6327ad0f6e544246811bc8ecdfe",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1619",
+          "label": "R25_NATIVE_RE11_Commons_Stool_0_0_1_StaticMeshActor_624",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "fdb05a3ac31fe182468ff58b2409b46b04910b94a192fb34fb3fff68754229ec",
+          "new_obstacle_cells": 1,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1620",
+          "label": "R25_NATIVE_RE11_Commons_Stool_0_0_1_StaticMeshActor_625",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "5d211a30bbf34c6b4379fef2dd31a57b6aca5dba607597dd6b8535f109099a67",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1622",
+          "label": "R25_NATIVE_RE11_Commons_Stool_0_0_2_StaticMeshActor_622",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "b0127334d20d080fdafd7d2bdb38c7e49f7e5b9223661f2c932a778b810087fb",
+          "new_obstacle_cells": 1,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1623",
+          "label": "R25_NATIVE_RE11_Commons_Stool_0_0_2_StaticMeshActor_623",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "0ce32d8fa8a21fc7841b78ddc629f955bd300fcb2109a917b3d08551cef33292",
+          "new_obstacle_cells": 1,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1624",
+          "label": "R25_NATIVE_RE11_Commons_Stool_0_0_2_StaticMeshActor_624",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "6d850e824baaba5d225585ac94d8ecbf314c8bb718f0d15e09efd79dbb21378b",
+          "new_obstacle_cells": 1,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1625",
+          "label": "R25_NATIVE_RE11_Commons_Stool_0_0_2_StaticMeshActor_625",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "36ffd3e160a064452e8d27ff24dba5e5fe39fca92058bea16df24fe7663bdadf",
+          "new_obstacle_cells": 1,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1627",
+          "label": "R25_NATIVE_RE11_Commons_Stool_0_1_0_StaticMeshActor_622",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "49519775d3bea4e8dedd0206556830b176b8526a43498304428ba98490dafd31",
+          "new_obstacle_cells": 4,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1628",
+          "label": "R25_NATIVE_RE11_Commons_Stool_0_1_0_StaticMeshActor_623",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "78a07a397656e5805260a9a22edbb6de02f9b2b0dd934f49159047a1ebcf4f03",
+          "new_obstacle_cells": 4,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1629",
+          "label": "R25_NATIVE_RE11_Commons_Stool_0_1_0_StaticMeshActor_624",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "ced9b23dcf34bb5bf7a0d74f4b98375a2acf1891c9d2a14036671212d3924010",
+          "new_obstacle_cells": 4,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1630",
+          "label": "R25_NATIVE_RE11_Commons_Stool_0_1_0_StaticMeshActor_625",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "5017447d49338c6e18d08c2e32fb4defa0a3675046e5a9f604cd13b91a9da79c",
+          "new_obstacle_cells": 4,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1632",
+          "label": "R25_NATIVE_RE11_Commons_Stool_0_1_1_StaticMeshActor_622",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "29619ce09081161576a764eb767346134deeb46cd07ba34b061ec4d8c49495ec",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1633",
+          "label": "R25_NATIVE_RE11_Commons_Stool_0_1_1_StaticMeshActor_623",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "54741d3e67164f366bbe85122a902215bb2672efcbbc8c1193c2a613a377eaac",
+          "new_obstacle_cells": 4,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1634",
+          "label": "R25_NATIVE_RE11_Commons_Stool_0_1_1_StaticMeshActor_624",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "5de201044720e78bcbc2265d8c38526d575c8bb4d59375de9dbb686e19b100f1",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1635",
+          "label": "R25_NATIVE_RE11_Commons_Stool_0_1_1_StaticMeshActor_625",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "dcb59907e093f384e9d2a045761a2eb831ee3902f2248c70ae8760e06c8ee311",
+          "new_obstacle_cells": 4,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1637",
+          "label": "R25_NATIVE_RE11_Commons_Stool_0_1_2_StaticMeshActor_622",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "52797bdb9e9bdec8389958284ffc3bd3fcd1dc28f57373366435a9f91ada6a3a",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1638",
+          "label": "R25_NATIVE_RE11_Commons_Stool_0_1_2_StaticMeshActor_623",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "02502713f5ad3a40744ed27b68540c942c669b1a4ad8b1118adf377848c927f0",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1639",
+          "label": "R25_NATIVE_RE11_Commons_Stool_0_1_2_StaticMeshActor_624",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "d1a289b77a266f5f9fa7767750c949c87eb80e264e0545ec2ba15e52a7506766",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1640",
+          "label": "R25_NATIVE_RE11_Commons_Stool_0_1_2_StaticMeshActor_625",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "96fa8959bb8153cbefbd72269b89238ed3ab6f8871e19896b2294b0c4bbee465",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1642",
+          "label": "R25_NATIVE_RE11_Commons_Stool_1_0_0_StaticMeshActor_622",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "c6d446cfa336eb4db3973c6a9e75cf9664fc05ca082035df7b840bab6f10e43f",
+          "new_obstacle_cells": 1,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1643",
+          "label": "R25_NATIVE_RE11_Commons_Stool_1_0_0_StaticMeshActor_623",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "c4f48d83c51d19f1237622f5ca68deef7a1993d015261fc4b47f670d0f8bb55e",
+          "new_obstacle_cells": 1,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1644",
+          "label": "R25_NATIVE_RE11_Commons_Stool_1_0_0_StaticMeshActor_624",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "f1e7ff5808cffffc331ecb5c76a0ad01bd97ef6bf9df04a8a64f1355303df7a6",
+          "new_obstacle_cells": 1,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1645",
+          "label": "R25_NATIVE_RE11_Commons_Stool_1_0_0_StaticMeshActor_625",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "0160bcc24bf1eb96aa3094e1fc44aab7b6e2b777218e2d6c45885f5ee59f9a72",
+          "new_obstacle_cells": 1,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1647",
+          "label": "R25_NATIVE_RE11_Commons_Stool_1_0_1_StaticMeshActor_622",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "0796d2e4fca5829b8e7822725833458e71465ebd5bd21264342bf2e0f5dc44b0",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1648",
+          "label": "R25_NATIVE_RE11_Commons_Stool_1_0_1_StaticMeshActor_623",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "5419bc21ac6654eb1121287a2e0a9b817e941d3657c614e1fd8c7e0e4ebb819f",
+          "new_obstacle_cells": 1,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1649",
+          "label": "R25_NATIVE_RE11_Commons_Stool_1_0_1_StaticMeshActor_624",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "c064d9d3a3eded5277b6f4ebdb964b473da6286ae110473c0e46ccf49cdaffbc",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1650",
+          "label": "R25_NATIVE_RE11_Commons_Stool_1_0_1_StaticMeshActor_625",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "59de2b3eca44813fe1e625296c5b0103f6d4f47748870be00856b42c3b24315d",
+          "new_obstacle_cells": 1,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1652",
+          "label": "R25_NATIVE_RE11_Commons_Stool_1_0_2_StaticMeshActor_622",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "e596927849ff7d032384d873ebf15340397c128caaf4e1528712017c207314b3",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1653",
+          "label": "R25_NATIVE_RE11_Commons_Stool_1_0_2_StaticMeshActor_623",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "12438adb9d0f5ca8a6eaa418f60ad84461ab758ef1eb06516353eb7a843170ec",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1654",
+          "label": "R25_NATIVE_RE11_Commons_Stool_1_0_2_StaticMeshActor_624",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "9ae93cd6366e7763361c1a2f88a8561cf95e2c89be1600a9bf48a951c6a552a7",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1655",
+          "label": "R25_NATIVE_RE11_Commons_Stool_1_0_2_StaticMeshActor_625",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "b965c6777bd68265be196d17e1091373ad00e792d0ad9ce6863386fef4a64463",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1657",
+          "label": "R25_NATIVE_RE11_Commons_Stool_1_1_0_StaticMeshActor_622",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "afbd18ab00c6fbe84d493a1a7a631cc6e246957d4ab045c9b6e1d4333a833b36",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1658",
+          "label": "R25_NATIVE_RE11_Commons_Stool_1_1_0_StaticMeshActor_623",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "f7a9ef5b2095112eeb0c7a7d9af6d4c9efffc4c5cc2df94a6e9ea61c309ea529",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1659",
+          "label": "R25_NATIVE_RE11_Commons_Stool_1_1_0_StaticMeshActor_624",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "a513b01382f3d4e02ad1dad53edff84a9ba37df11e922fec848928a0eb0adc66",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1660",
+          "label": "R25_NATIVE_RE11_Commons_Stool_1_1_0_StaticMeshActor_625",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "92940f6f2a662d480e5ee5504d10f83d0a46c92fafafa0c00df9eb33020fca31",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1662",
+          "label": "R25_NATIVE_RE11_Commons_Stool_1_1_1_StaticMeshActor_622",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "2d3ce9dabc8b8416d4bf3a3721518461c60ca213777c8349d00feb67c236750f",
+          "new_obstacle_cells": 4,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1663",
+          "label": "R25_NATIVE_RE11_Commons_Stool_1_1_1_StaticMeshActor_623",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "c92e8b53a31822ea024d7d0cb16c90d4962391153acce305fa8f3cbd48e58b15",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1664",
+          "label": "R25_NATIVE_RE11_Commons_Stool_1_1_1_StaticMeshActor_624",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "2cb354042e8aa04cf8b627aa77fbf5a5a67e78a4bd53e46a18414c2c12f04de7",
+          "new_obstacle_cells": 4,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1665",
+          "label": "R25_NATIVE_RE11_Commons_Stool_1_1_1_StaticMeshActor_625",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "9456f4accea3d79d6d8d8f3e37abd944569e9a553e0ba811b5b7562a170b2cea",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1667",
+          "label": "R25_NATIVE_RE11_Commons_Stool_1_1_2_StaticMeshActor_622",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "85ca9b753cf19d77e277926bfdacf108d9115425715d4008cc65374316aaac77",
+          "new_obstacle_cells": 4,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1668",
+          "label": "R25_NATIVE_RE11_Commons_Stool_1_1_2_StaticMeshActor_623",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "f25d46954aaf4908bc7ae205f554822b13388f4b71a76023c660537ba3a0be89",
+          "new_obstacle_cells": 3,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1669",
+          "label": "R25_NATIVE_RE11_Commons_Stool_1_1_2_StaticMeshActor_624",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "6942467766558c7d0f5c450e706b46e35351dd87302d0f84563e40cbaeedfc4f",
+          "new_obstacle_cells": 4,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1670",
+          "label": "R25_NATIVE_RE11_Commons_Stool_1_1_2_StaticMeshActor_625",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "9f6975178ea22d69827f4a763aaed99509cfc9f6dc3d58898c59cb377af48d5c",
+          "new_obstacle_cells": 4,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1672",
+          "label": "R25_NATIVE_RE12_G102_GlazingStool_0_StaticMeshActor_622",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "90b539de92c7e9233ebd3d878b1ebcaca8f6121821bda69af847752731b93a30",
+          "new_obstacle_cells": 4,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1673",
+          "label": "R25_NATIVE_RE12_G102_GlazingStool_0_StaticMeshActor_623",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "4bcf72c00ab83568a62ab973e45f33161de89b298cbe63bcbb8f285f6e805080",
+          "new_obstacle_cells": 4,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1674",
+          "label": "R25_NATIVE_RE12_G102_GlazingStool_0_StaticMeshActor_624",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "c76d9f2e3eb26e563d6ac5bdf425600e8cab02e470f8a81f126da56a950369a2",
+          "new_obstacle_cells": 4,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1675",
+          "label": "R25_NATIVE_RE12_G102_GlazingStool_0_StaticMeshActor_625",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "b40932cc37f807e7e9552b052142cc846e8e85b168d9782fc3604cd2959dc3c6",
+          "new_obstacle_cells": 4,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1677",
+          "label": "R25_NATIVE_RE12_G102_GlazingStool_1_StaticMeshActor_622",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "c728056b24ebfdcb288497b766d9aa4d25353c0bb8bb36498c5c36857ac94e64",
+          "new_obstacle_cells": 3,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1678",
+          "label": "R25_NATIVE_RE12_G102_GlazingStool_1_StaticMeshActor_623",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "5ab3de7a0878768a042864f899f2e39c5f77aae32c1893dce57f4e4aeaad9608",
+          "new_obstacle_cells": 4,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1679",
+          "label": "R25_NATIVE_RE12_G102_GlazingStool_1_StaticMeshActor_624",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "46bfdbe945a3dca445c3204f2400024d47a2bc52b1bc0371b678e58443082eaa",
+          "new_obstacle_cells": 3,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1680",
+          "label": "R25_NATIVE_RE12_G102_GlazingStool_1_StaticMeshActor_625",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "6837b7955aac506f07b11b872f8f53322a2f423972dea5d03571ca023dd15b0d",
+          "new_obstacle_cells": 4,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1682",
+          "label": "R25_NATIVE_RE12_G102_GlazingStool_2_StaticMeshActor_622",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "2f65bfaa8dc7feba31a21ab7e9b9539e5c46d6b50d387bb61511c851c9caad78",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1683",
+          "label": "R25_NATIVE_RE12_G102_GlazingStool_2_StaticMeshActor_623",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "42086f020e0942a13f8cb9f2276ceeeac6645a3afeae1bf129ea5cae9c8f07fe",
+          "new_obstacle_cells": 3,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1684",
+          "label": "R25_NATIVE_RE12_G102_GlazingStool_2_StaticMeshActor_624",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "f67231c739c754f087e4595cd4232ca81aa01478c548cfd55a6d8388fcac85f2",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1685",
+          "label": "R25_NATIVE_RE12_G102_GlazingStool_2_StaticMeshActor_625",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "117041eedd4d2b766bdcfdae53271b82a90c627b5dcdf70bd7d00a2df6a0ec48",
+          "new_obstacle_cells": 4,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1687",
+          "label": "R25_NATIVE_RE12_G102_GlazingStool_3_StaticMeshActor_622",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "a01c5222ecb21c904afc6f6dc69e9df3d6115b328a5625b18159c03bdeb4d759",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1688",
+          "label": "R25_NATIVE_RE12_G102_GlazingStool_3_StaticMeshActor_623",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "db39552c224517752730186a9b4478031eed580bb5e28a933a96d2e2912c6390",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1689",
+          "label": "R25_NATIVE_RE12_G102_GlazingStool_3_StaticMeshActor_624",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "f3dd5569a8fc6e4840231d9bf0873aaad83f8cf61c837ef69146331c5ff2d793",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1690",
+          "label": "R25_NATIVE_RE12_G102_GlazingStool_3_StaticMeshActor_625",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "b4198909b63754515e7d8c4a05c1159c9bb47bfe9106692ab4001c44d4360ca5",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1692",
+          "label": "R25_NATIVE_RE12_G102_GlazingStool_4_StaticMeshActor_622",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "1e7f16e08903f4d7114af088d83be30a1745c8ebf5c68f164eeab5ae6aa44043",
+          "new_obstacle_cells": 3,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1693",
+          "label": "R25_NATIVE_RE12_G102_GlazingStool_4_StaticMeshActor_623",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "aef8938556e1f099bca8ef1929563b6fbc69b99a69ea05a30afe4bf3bfb45483",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1694",
+          "label": "R25_NATIVE_RE12_G102_GlazingStool_4_StaticMeshActor_624",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "7497c0b366038d8eb897f8d9e06437f270db093f539c3f4800b9946089feb79a",
+          "new_obstacle_cells": 3,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1695",
+          "label": "R25_NATIVE_RE12_G102_GlazingStool_4_StaticMeshActor_625",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "09b14d9504364672398d201479c9588ee23caecc5d555d03b9961258f1c8a421",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1697",
+          "label": "R25_NATIVE_RE12_G102_GlazingStool_5_StaticMeshActor_622",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "11227ffa3cf2ac55ed2e0a212f26dfe17e00a4878202551a35fe3ac672be5ea6",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1698",
+          "label": "R25_NATIVE_RE12_G102_GlazingStool_5_StaticMeshActor_623",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "887ffd4a58e2f840d048e1b5643d09cc1c7ff50640c0252b18558a22e21e2fb5",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1699",
+          "label": "R25_NATIVE_RE12_G102_GlazingStool_5_StaticMeshActor_624",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "bd64c8a296a6c12e7ac3d3a0c3165b88d6ff0530d15cf73d8f674750c4fb749e",
+          "new_obstacle_cells": 4,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1700",
+          "label": "R25_NATIVE_RE12_G102_GlazingStool_5_StaticMeshActor_625",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "8ef0670664c05b3d69d7e07bd732cc6ea107aaeed9dea3c883079a70bc1a2f5c",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1702",
+          "label": "R25_NATIVE_RE12_G102_GlazingStool_6_StaticMeshActor_622",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "ab188bcf85826665626061d361a0cf1bc394f08449c32766340b79374d4cec37",
+          "new_obstacle_cells": 4,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1703",
+          "label": "R25_NATIVE_RE12_G102_GlazingStool_6_StaticMeshActor_623",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "420ae673a81be267d3d6c641dd972a32d10670547fbc47663aa0f88aec4199b1",
+          "new_obstacle_cells": 3,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1704",
+          "label": "R25_NATIVE_RE12_G102_GlazingStool_6_StaticMeshActor_624",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "b086cce7cc3d9ae6c15909683686c768afcd0814ad3b8bb3efc9b6805f71d7f6",
+          "new_obstacle_cells": 4,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1705",
+          "label": "R25_NATIVE_RE12_G102_GlazingStool_6_StaticMeshActor_625",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "578cafe91ad08fc0f91a9ce0dcd70c1258ae82b3d8063b9dbfb234b9ba2a7508",
+          "new_obstacle_cells": 4,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1707",
+          "label": "R25_NATIVE_RE12_G102_GlazingStool_7_StaticMeshActor_622",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "86565b2cf6e14662f1542785beca0a3d43119af619ee44c824710264218c474a",
+          "new_obstacle_cells": 4,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1708",
+          "label": "R25_NATIVE_RE12_G102_GlazingStool_7_StaticMeshActor_623",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "c5e5f9002886d26222c06c94a1c5a8fd1817c4f487e56339cd186cf4992d3b16",
+          "new_obstacle_cells": 4,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1709",
+          "label": "R25_NATIVE_RE12_G102_GlazingStool_7_StaticMeshActor_624",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "a5c854aa07b0b943f02b509df4dfabebf487d8c5cb0c71c7ecd3b7e2b7f94382",
+          "new_obstacle_cells": 4,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1710",
+          "label": "R25_NATIVE_RE12_G102_GlazingStool_7_StaticMeshActor_625",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "e19c56ba1f663cbd02d6ed798bec3461aae4e5c1e25d96e3a06d5df59139ad2b",
+          "new_obstacle_cells": 4,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1712",
+          "label": "R25_NATIVE_RE12_G102_GlazingStool_8_StaticMeshActor_622",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "ca13b5a806179281c517aec50fdcf8fc41fa1ca344cd9b5360b469e1c54434b2",
+          "new_obstacle_cells": 4,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1713",
+          "label": "R25_NATIVE_RE12_G102_GlazingStool_8_StaticMeshActor_623",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "2f400c5736bb79a1adb25586dfe273a38eb187e80b341cbeabd7603d1f2dff87",
+          "new_obstacle_cells": 4,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1714",
+          "label": "R25_NATIVE_RE12_G102_GlazingStool_8_StaticMeshActor_624",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "0cf85e5dc873dea6596c37d05accf414a2c0607cd52db0b077f9fdbdf3f7f7d3",
+          "new_obstacle_cells": 4,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1715",
+          "label": "R25_NATIVE_RE12_G102_GlazingStool_8_StaticMeshActor_625",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "ef967163f0c102089b5398358eacac9088198927385e01b33c19cafe2bdb327f",
+          "new_obstacle_cells": 4,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1717",
+          "label": "R25_NATIVE_RE12_G102_GlazingStool_9_StaticMeshActor_622",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "deaf47293871562739a4c1bdeffacd9d7a48c1d845ac7b5ec004f45965bc6ac2",
+          "new_obstacle_cells": 3,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1718",
+          "label": "R25_NATIVE_RE12_G102_GlazingStool_9_StaticMeshActor_623",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "fe4dd1f197b29c6114743b88a1bbdad58300fb48f7d194080503987650d1b5d2",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1719",
+          "label": "R25_NATIVE_RE12_G102_GlazingStool_9_StaticMeshActor_624",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "b08afff24e6f32f9b4019bd17da147abfab526111cca678b8c981ff55a29ffbb",
+          "new_obstacle_cells": 4,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1720",
+          "label": "R25_NATIVE_RE12_G102_GlazingStool_9_StaticMeshActor_625",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "a566447dd0eacf203da766c00775a0ade7c09dae26442f7088ff9d5387b412bc",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_1722",
+          "label": "R25_NATIVE_RE11_Commons_SharedTable_0_StaticMeshActor_610",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "e6f6fb2a8e39a0a44e4c5d47193558dd7634b5d227a657e1ea07e3083afd4c57",
+          "new_obstacle_cells": 48,
+          "retained_slab_triangles": 170
+        },
+        {
+          "actor": "StaticMeshActor_1723",
+          "label": "R25_NATIVE_RE11_Commons_SharedTable_0_StaticMeshActor_611",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "e503755471005b87f66a2245d65ce3c27b1dca93f2944ee3fb27650407008e13",
+          "new_obstacle_cells": 24,
+          "retained_slab_triangles": 170
+        },
+        {
+          "actor": "StaticMeshActor_1731",
+          "label": "R25_NATIVE_RE11_Commons_SharedTable_0_StaticMeshActor_619",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "7125ef953ad6c942cc80689135837f932ee60921bbbbf820cafd585f2ad98c7b",
+          "new_obstacle_cells": 4,
+          "retained_slab_triangles": 210
+        },
+        {
+          "actor": "StaticMeshActor_1732",
+          "label": "R25_NATIVE_RE11_Commons_SharedTable_0_StaticMeshActor_620",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "182c283f5fb0c5de850ba250aefecdc99972be4e7830e04ea29c5846c37d21d5",
+          "new_obstacle_cells": 4,
+          "retained_slab_triangles": 210
+        },
+        {
+          "actor": "StaticMeshActor_1734",
+          "label": "R25_NATIVE_RE11_Commons_SharedTable_1_StaticMeshActor_610",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "d572c4fe8a7f430af325a07e74db638a5045c7031bfc1d11307d2785996857e2",
+          "new_obstacle_cells": 47,
+          "retained_slab_triangles": 170
+        },
+        {
+          "actor": "StaticMeshActor_1735",
+          "label": "R25_NATIVE_RE11_Commons_SharedTable_1_StaticMeshActor_611",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "6668cc56ac7603295f02a7c76cf9cd493783acab107dac18d45819f3145f3753",
+          "new_obstacle_cells": 48,
+          "retained_slab_triangles": 170
+        },
+        {
+          "actor": "StaticMeshActor_1741",
+          "label": "R25_NATIVE_RE11_Commons_SharedTable_1_StaticMeshActor_617",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "8759a9802fe3a781f815c93e2ece8de6becf7b9bf4195b76113374ccd5e1f3e5",
+          "new_obstacle_cells": 1,
+          "retained_slab_triangles": 210
+        },
+        {
+          "actor": "StaticMeshActor_1746",
+          "label": "R25_NATIVE_RE15_G102_NorthBench_0_Module0_StaticMeshActor_673",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "16ff553313c2880e14ca1d5d2bd4f83b15c4434b927b566a4c76b75d9ec951a6",
+          "new_obstacle_cells": 460,
+          "retained_slab_triangles": 170
+        },
+        {
+          "actor": "StaticMeshActor_1749",
+          "label": "R25_NATIVE_RE15_G102_NorthBench_0_Module1_StaticMeshActor_673",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "692aa0bddaff7e932a649cab6573e73c136bab619399d07a4eaa5ae908739510",
+          "new_obstacle_cells": 440,
+          "retained_slab_triangles": 170
+        },
+        {
+          "actor": "StaticMeshActor_1752",
+          "label": "R25_NATIVE_RE15_G102_NorthBench_1_Module0_StaticMeshActor_673",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "f8c485997ccdda4adab89bd51bd0dda68cffa186b77a2020dfab56b15785a197",
+          "new_obstacle_cells": 450,
+          "retained_slab_triangles": 170
+        },
+        {
+          "actor": "StaticMeshActor_1755",
+          "label": "R25_NATIVE_RE15_G102_NorthBench_1_Module1_StaticMeshActor_673",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "f02fcc7fa88c0c3034d6359b503ee84893b096526c1a19c2e70b6afab4a54d5b",
+          "new_obstacle_cells": 450,
+          "retained_slab_triangles": 170
+        },
+        {
+          "actor": "StaticMeshActor_1760",
+          "label": "R25_NATIVE_RE11_Commons_CurvedGroupTable_StaticMeshActor_577",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "6b462b4491e4ee6e4a34b9ea215426030bb3656fc5a08b5eeb62844a960cc73a",
+          "new_obstacle_cells": 8,
+          "retained_slab_triangles": 574
+        },
+        {
+          "actor": "StaticMeshActor_1762",
+          "label": "R25_NATIVE_RE11_Commons_CurvedGroupTable_StaticMeshActor_579",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "b78075b8a73ccf99f278ada6721e70d5884143792adbad253fc605651be1390c",
+          "new_obstacle_cells": 109,
+          "retained_slab_triangles": 1020
+        },
+        {
+          "actor": "StaticMeshActor_1763",
+          "label": "R25_NATIVE_RE11_Commons_RoundedGroupTable_0_StaticMeshActor_577",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "aee7986bf50d9ff3ace0f7c4e9d8e5b6c68e09f521299d451dee7dc53d82d7c6",
+          "new_obstacle_cells": 4,
+          "retained_slab_triangles": 574
+        },
+        {
+          "actor": "StaticMeshActor_1765",
+          "label": "R25_NATIVE_RE11_Commons_RoundedGroupTable_0_StaticMeshActor_579",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "16b8fd6d7afea148a9645e79733aaff9670fdc6ed53b9e9ca6faa38b71828178",
+          "new_obstacle_cells": 72,
+          "retained_slab_triangles": 1020
+        },
+        {
+          "actor": "StaticMeshActor_1766",
+          "label": "R25_NATIVE_RE11_Commons_RoundedGroupTable_1_StaticMeshActor_577",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "847021e34fa6eb6bb5f3377d8d71e13b36b82b2d4c03c3ffcd8c39bf068e0f70",
+          "new_obstacle_cells": 4,
+          "retained_slab_triangles": 574
+        },
+        {
+          "actor": "StaticMeshActor_1768",
+          "label": "R25_NATIVE_RE11_Commons_RoundedGroupTable_1_StaticMeshActor_579",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "85af43937eb020a7999a93947712c6f765014125eac77769239b60653e7324a1",
+          "new_obstacle_cells": 72,
+          "retained_slab_triangles": 1020
+        },
+        {
+          "actor": "StaticMeshActor_1769",
+          "label": "R25_NATIVE_RE11_Commons_SquareGroupTable_0_StaticMeshActor_577",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "61e5255fabfb68d799106aafb2fb2fce9a812836f6d0028f969eb6a171a89c42",
+          "new_obstacle_cells": 6,
+          "retained_slab_triangles": 574
+        },
+        {
+          "actor": "StaticMeshActor_1771",
+          "label": "R25_NATIVE_RE11_Commons_SquareGroupTable_0_StaticMeshActor_579",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "e1c56e47b299d9738cee6e926ab66c8cabacb32793123bc2635ea502edd0c786",
+          "new_obstacle_cells": 100,
+          "retained_slab_triangles": 1020
+        },
+        {
+          "actor": "StaticMeshActor_1772",
+          "label": "R25_NATIVE_RE11_Commons_SquareGroupTable_1_StaticMeshActor_577",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "b8fb2e676606af10f4938695015e85895c122cc1f55d6792942221e0e859e654",
+          "new_obstacle_cells": 6,
+          "retained_slab_triangles": 574
+        },
+        {
+          "actor": "StaticMeshActor_1774",
+          "label": "R25_NATIVE_RE11_Commons_SquareGroupTable_1_StaticMeshActor_579",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "d51cae9ac7ba86bafd8a126b99e45dedf1931b21ec19346028b334d91f51ed19",
+          "new_obstacle_cells": 102,
+          "retained_slab_triangles": 1020
+        },
+        {
+          "actor": "StaticMeshActor_1775",
+          "label": "R25_NATIVE_RE11_Commons_SquareGroupTable_2_StaticMeshActor_577",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "5acb729a569402984aa85e5db3ea7517de99d12125842ce830a66da33a7987b3",
+          "new_obstacle_cells": 4,
+          "retained_slab_triangles": 574
+        },
+        {
+          "actor": "StaticMeshActor_1777",
+          "label": "R25_NATIVE_RE11_Commons_SquareGroupTable_2_StaticMeshActor_579",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "7595e30871354453659754e582da86ad9826ce9e1af210aa1f44b1491e7f871e",
+          "new_obstacle_cells": 106,
+          "retained_slab_triangles": 1020
+        },
+        {
+          "actor": "StaticMeshActor_1784",
+          "label": "FA26_PH12_G102_GlazingCounter",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "c45c5ea37a23fee3ac76c100bd4bb780eb0828538f678079fe532a1f62d823d6",
+          "new_obstacle_cells": 8,
+          "retained_slab_triangles": 128
+        },
+        {
+          "actor": "StaticMeshActor_233",
+          "label": "Retained_Architecture_Ground_08_12",
+          "category": "native wall/glazing/door",
+          "source_sha256": "40f306fedd53b2de09519d3c51207cb5cedc5b2d00f279e9a031c6bbd5720349",
+          "new_obstacle_cells": 10,
+          "retained_slab_triangles": 8
+        },
+        {
+          "actor": "StaticMeshActor_2330",
+          "label": "CF27_RE11_Commons_LowerCurvedBank",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "ca691ab8dc5cac38aa3b22031badf817758dc911d2b3555f938bef1d30573663",
+          "new_obstacle_cells": 357,
+          "retained_slab_triangles": 280
+        },
+        {
+          "actor": "StaticMeshActor_2332",
+          "label": "CF27_UpperCurve_0_OakBase",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "da118c1c1074deb87faa971b0ddbe9808ebc61cd70fa1d704c604d2dee2e2094",
+          "new_obstacle_cells": 100,
+          "retained_slab_triangles": 440
+        },
+        {
+          "actor": "StaticMeshActor_2334",
+          "label": "CF27_UpperCurve_1_OakBase",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "89afc69d5d9d148b32239b87805cb35488b25c255c3db318abefb91bb4faba31",
+          "new_obstacle_cells": 100,
+          "retained_slab_triangles": 440
+        },
+        {
+          "actor": "StaticMeshActor_248",
+          "label": "000 commons_architecture / C_Commons_east_wall0",
+          "category": "native wall/glazing/door",
+          "source_sha256": "abd8c1e76a58d5e0c990568c003bffb7f45c9b5aedd443c94dd81c5c550d6866",
+          "new_obstacle_cells": 12,
+          "retained_slab_triangles": 8
+        },
+        {
+          "actor": "StaticMeshActor_250",
+          "label": "000 commons_architecture / C_Commons_gym_party_wall_end",
+          "category": "native wall/glazing/door",
+          "source_sha256": "52e5cff942077f5f7d3abeb032fe071893b099170ba0f44c856127d8f3b2c183",
+          "new_obstacle_cells": 298,
+          "retained_slab_triangles": 8
+        },
+        {
+          "actor": "StaticMeshActor_251",
+          "label": "000 commons_architecture / C_Commons_gym_party_wall_end_base_trim",
+          "category": "native wall/glazing/door",
+          "source_sha256": "088b6a84eb70aef726e7e1bcebdd4e23c9d95acbc68ac860555f56f18bea052f",
+          "new_obstacle_cells": 294,
+          "retained_slab_triangles": 8
+        },
+        {
+          "actor": "StaticMeshActor_252",
+          "label": "000 commons_architecture / C_Commons_north_end",
+          "category": "native wall/glazing/door",
+          "source_sha256": "92fbab5e7fe9959cb0a54a8d86630e6b7b347349840f284f5d3f02a1d2ed7802",
+          "new_obstacle_cells": 9,
+          "retained_slab_triangles": 8
+        },
+        {
+          "actor": "StaticMeshActor_255",
+          "label": "000 commons_architecture / C_Commons_north_wall0",
+          "category": "native wall/glazing/door",
+          "source_sha256": "e79bef9cf175946fe8d21da628c133b5a02c1cd9a61bc3bb4c320ef49e5d0438",
+          "new_obstacle_cells": 6,
+          "retained_slab_triangles": 8
+        },
+        {
+          "actor": "StaticMeshActor_267",
+          "label": "000 commons_architecture / C_V8_DETAIL_Commons_plan_columns",
+          "category": "native wall/glazing/door",
+          "source_sha256": "2d60a3dba31b0cd3205359a00ac3bcfb78a8478f61465fdb3f2df3622495aa80",
+          "new_obstacle_cells": 80,
+          "retained_slab_triangles": 320
+        },
+        {
+          "actor": "StaticMeshActor_268",
+          "label": "001 architectural_glazing / C_Commons_east_glass0",
+          "category": "native wall/glazing/door",
+          "source_sha256": "0a42c7ceb3536c33f91907c0a53eaf54c52cb75f3760cf1a49eb86691f7fa2ee",
+          "new_obstacle_cells": 293,
+          "retained_slab_triangles": 8
+        },
+        {
+          "actor": "StaticMeshActor_269",
+          "label": "001 architectural_glazing / C_Commons_north_glass0",
+          "category": "native wall/glazing/door",
+          "source_sha256": "7220c7d36d477d4b5666c1bcc95c64d04b8f708ad8d2d9166a01571ede7d8504",
+          "new_obstacle_cells": 528,
+          "retained_slab_triangles": 16
+        },
+        {
+          "actor": "StaticMeshActor_272",
+          "label": "002 architectural_frames / C_Commons_east_frame0_0",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "47dee393a3d607f66cc9cf93b2761e1c2c4d5dd03840b9b62b85479c5302f24c",
+          "new_obstacle_cells": 882,
+          "retained_slab_triangles": 10
+        },
+        {
+          "actor": "StaticMeshActor_274",
+          "label": "002 architectural_frames / C_Commons_east_mullion0_0",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "888f76a1eea76e9916c82353773772e6f0fd44ce331eb9e12168806e86bdc6ae",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 8
+        },
+        {
+          "actor": "StaticMeshActor_289",
+          "label": "002 architectural_frames / C_Commons_north_frame0_0",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "af2662875190676c8559a879ed7aa9b18555704f3c684d2dea965f8c6f05f5ef",
+          "new_obstacle_cells": 532,
+          "retained_slab_triangles": 20
+        },
+        {
+          "actor": "StaticMeshActor_291",
+          "label": "002 architectural_frames / C_Commons_north_mullion0_0",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "ce9fe6644de849893153ad0bb7ac80bf2a9fd5025451a48f178dfe0b28402d4e",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 8
+        },
+        {
+          "actor": "StaticMeshActor_297",
+          "label": "002 architectural_frames / C_Commons_north_mullion0_14",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "f7ac1a6c4b26c607faa224be750b82d129a048a76c2b86b1e0ef7213c4c7271d",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 8
+        },
+        {
+          "actor": "StaticMeshActor_334",
+          "label": "003 fireplace_surround / C_V6_Fireplace_plan_aligned_pier",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "ce8bc7b27f4ce602281b14f305c2682c084ac676e368697574640efd50e9b9bb",
+          "new_obstacle_cells": 85,
+          "retained_slab_triangles": 12
+        },
+        {
+          "actor": "StaticMeshActor_337",
+          "label": "004 cafe_u_counter / commons_cafe_u_counter",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "417feff24152fd5933e16ccf5df96c9013a6c16ae49c4f4897df9c2e6cc162e2",
+          "new_obstacle_cells": 420,
+          "retained_slab_triangles": 42
+        },
+        {
+          "actor": "StaticMeshActor_338",
+          "label": "005 cafe_back_counter / commons_cafe_back_counter",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "e2d1ad2639c30a2d0e2171bd869bec58cd683a53879bfedb9c650d1845983a17",
+          "new_obstacle_cells": 544,
+          "retained_slab_triangles": 348
+        },
+        {
+          "actor": "StaticMeshActor_405",
+          "label": "017 refined_cafe_undercounter_refrigerator / C_Black_toe_kick",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "24d7e2d2d408a7a269064822bf8acc5a30e10752038c1c57736688b14e754b17",
+          "new_obstacle_cells": 224,
+          "retained_slab_triangles": 126
+        },
+        {
+          "actor": "StaticMeshActor_406",
+          "label": "017 refined_cafe_undercounter_refrigerator / C_Case",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "159533e51a9d1c5daa9d12aada3da5a76816fa7c0fe4b5ec7a1b07da2d2c7c60",
+          "new_obstacle_cells": 47,
+          "retained_slab_triangles": 110
+        },
+        {
+          "actor": "StaticMeshActor_419",
+          "label": "018 refined_cafe_undercounter_ice_machine / C_Black_toe_kick",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "46056c9c15d4926d05cfdc460a834b86dedc00aa62146748078f377c70e0b38d",
+          "new_obstacle_cells": 240,
+          "retained_slab_triangles": 126
+        },
+        {
+          "actor": "StaticMeshActor_420",
+          "label": "018 refined_cafe_undercounter_ice_machine / C_Case",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "a3a0b269d63eb88e48ace882d2518990e744f37dfa01411251dc9017d45ea7f2",
+          "new_obstacle_cells": 16,
+          "retained_slab_triangles": 110
+        },
+        {
+          "actor": "StaticMeshActor_464",
+          "label": "022 boundary_wood_trim / commons_boundary_wood_trim",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "530b6a8a4172a1a62d30dfdb15f7bcf5327761fbb62b0b1bbc26b3706e29824c",
+          "new_obstacle_cells": 524,
+          "retained_slab_triangles": 8
+        },
+        {
+          "actor": "StaticMeshActor_531",
+          "label": "R25_NATIVE_RE11_Commons_RectDining_0_StaticMeshActor_531",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "380eed1f908bd15950b536cecdd49df0a97f8dc2d01b362f6d16faaf3aedf499",
+          "new_obstacle_cells": 39,
+          "retained_slab_triangles": 170
+        },
+        {
+          "actor": "StaticMeshActor_532",
+          "label": "R25_NATIVE_RE11_Commons_RectDining_0_StaticMeshActor_532",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "5f7d765b6a9db6ca5758a4ae19cd55c13159b026cdf3bb8d3b206e44bc26df49",
+          "new_obstacle_cells": 26,
+          "retained_slab_triangles": 170
+        },
+        {
+          "actor": "StaticMeshActor_540",
+          "label": "R25_NATIVE_RE11_Commons_RectDining_0_StaticMeshActor_540",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "6a8eece03642fcd57a0834d26ff179de3b878d15aef2ce671f344a84738c40c5",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 210
+        },
+        {
+          "actor": "StaticMeshActor_541",
+          "label": "R25_NATIVE_RE11_Commons_RectDining_0_StaticMeshActor_541",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "c36f25f98a322092b8d49ae533b91bf2257644f3ede8dbdb7f7e6e8c51915149",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 210
+        },
+        {
+          "actor": "StaticMeshActor_543",
+          "label": "R25_NATIVE_RE11_Commons_RectDining_0_StaticMeshActor_543",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "63159d0481ea07e2a66b586750dcfcf26f6b3ab67c2b1363d4820a4d560c9e4e",
+          "new_obstacle_cells": 18,
+          "retained_slab_triangles": 792
+        },
+        {
+          "actor": "StaticMeshActor_544",
+          "label": "R25_NATIVE_RE11_Commons_RectDining_0_StaticMeshActor_544",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "cdeceb7ce54717d0b60b9cd5f1ce18f767b1d7503829a46c6c2e99864506407c",
+          "new_obstacle_cells": 11,
+          "retained_slab_triangles": 792
+        },
+        {
+          "actor": "StaticMeshActor_545",
+          "label": "R25_NATIVE_RE11_Commons_RectDining_0_StaticMeshActor_545",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "b0d35726e938946d1e929788c93ba70b24b85cfbba605dbe3ac7adb54a5df627",
+          "new_obstacle_cells": 16,
+          "retained_slab_triangles": 792
+        },
+        {
+          "actor": "StaticMeshActor_546",
+          "label": "R25_NATIVE_RE11_Commons_RectDining_0_StaticMeshActor_546",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "64efe9ead77d2b34c073c9a6eaa9f70b84a783aacbd37a8728840826306ef131",
+          "new_obstacle_cells": 18,
+          "retained_slab_triangles": 792
+        },
+        {
+          "actor": "StaticMeshActor_577",
+          "label": "R25_NATIVE_RE11_Commons_RoundDining_0_StaticMeshActor_577",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "f870ff02d208347b89c73ba97eb0e4874ae18ee46be926a825247845ddf84534",
+          "new_obstacle_cells": 6,
+          "retained_slab_triangles": 574
+        },
+        {
+          "actor": "StaticMeshActor_579",
+          "label": "R25_NATIVE_RE11_Commons_RoundDining_0_StaticMeshActor_579",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "8713156d3a2d19c5caf81dc9bbb6a8da3294a7ae66b96be2f61e6b5427f01ccb",
+          "new_obstacle_cells": 115,
+          "retained_slab_triangles": 830
+        },
+        {
+          "actor": "StaticMeshActor_580",
+          "label": "R25_NATIVE_RE11_Commons_RoundDining_0_StaticMeshActor_580",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "83cbf79218b47b7e35ffbf6d86457aff9401b8464dbaf63b575424dab5e5a453",
+          "new_obstacle_cells": 16,
+          "retained_slab_triangles": 792
+        },
+        {
+          "actor": "StaticMeshActor_581",
+          "label": "R25_NATIVE_RE11_Commons_RoundDining_0_StaticMeshActor_581",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "1235462d06a7077f009c43f899b34217656035c26a6353ab540689b626de2cfc",
+          "new_obstacle_cells": 10,
+          "retained_slab_triangles": 792
+        },
+        {
+          "actor": "StaticMeshActor_582",
+          "label": "R25_NATIVE_RE11_Commons_RoundDining_0_StaticMeshActor_582",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "79fc0d09f771684a8574e5868c9cecec932c4315ad007155dddda5f98a883bab",
+          "new_obstacle_cells": 15,
+          "retained_slab_triangles": 792
+        },
+        {
+          "actor": "StaticMeshActor_583",
+          "label": "R25_NATIVE_RE11_Commons_RoundDining_0_StaticMeshActor_583",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "92a64ea829fd20fb98399949de84e3befe2cb3bc7a9a15e3b3d000a2a78a917e",
+          "new_obstacle_cells": 13,
+          "retained_slab_triangles": 792
+        },
+        {
+          "actor": "StaticMeshActor_65",
+          "label": "Architecture_Upper_09_13",
+          "category": "native wall/glazing/door",
+          "source_sha256": "2e7779ebd9848f96eca5efac3a81e250c69b5ea9de98744c1be57ab2184beb8d",
+          "new_obstacle_cells": 295,
+          "retained_slab_triangles": 8
+        },
+        {
+          "actor": "StaticMeshActor_684",
+          "label": "102 library_potted_plant_02_LOD1 / Static_potted_plant_02_pot",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "7d965f780efc7e99484a4aa6bdc36ee4c5ecfd3cc42b880b95b22e91c7492b6e",
+          "new_obstacle_cells": 104,
+          "retained_slab_triangles": 241
+        },
+        {
+          "actor": "StaticMeshActor_687",
+          "label": "103 library_potted_plant_02_LOD1 / Static_potted_plant_02_pot",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "b2774919268e6e964d8b3e65045734fadabfd1af00f12e22b08290280695c885",
+          "new_obstacle_cells": 104,
+          "retained_slab_triangles": 241
+        },
+        {
+          "actor": "StaticMeshActor_690",
+          "label": "104 library_potted_plant_02_LOD1 / Static_potted_plant_02_pot",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "a5582289da8f819a27bbad38c87d7381320c630cff2ac008948e6babf1a07870",
+          "new_obstacle_cells": 104,
+          "retained_slab_triangles": 241
+        },
+        {
+          "actor": "StaticMeshActor_693",
+          "label": "105 library_potted_plant_02_LOD1 / Static_potted_plant_02_pot",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "ecd9acc70e40c9c947de2977ccedfd69f7a38525b3943ec18cada89c664f211c",
+          "new_obstacle_cells": 104,
+          "retained_slab_triangles": 241
+        },
+        {
+          "actor": "StaticMeshActor_697",
+          "label": "107 library_modern_cabinet_static / Static_modern_wooden_cabinet_body_Static",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "2d3f78bdb3cd15f068e478c43005978e83d1cc2d9f114cd6f9eee59d81f87796",
+          "new_obstacle_cells": 36,
+          "retained_slab_triangles": 1668
+        },
+        {
+          "actor": "StaticMeshActor_720",
+          "label": "114 waste_bin / C_Bin_interior",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "93c84e60e55d27ce3a72525af23eecb0289f9bb839899bd23b1328fc2ba4a2d6",
+          "new_obstacle_cells": 66,
+          "retained_slab_triangles": 64
+        },
+        {
+          "actor": "StaticMeshActor_721",
+          "label": "114 waste_bin / C_Waste_bin_shell",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "72853d81d9a0a6ea87df6385fc4810241b01ac0831219607b57f6e693d9d1688",
+          "new_obstacle_cells": 8,
+          "retained_slab_triangles": 640
+        },
+        {
+          "actor": "StaticMeshActor_843",
+          "label": "DD_GalleryFloor_Oak",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "7629814094dfca60eb286ff302607e79d337d84e6d5091d1ed15f88c559c033e",
+          "new_obstacle_cells": 3,
+          "retained_slab_triangles": 48
+        }
+      ]
+    },
+    {
+      "name": "Innovation",
+      "title": "Furnished Innovation basin; water around native legs",
+      "number": 108,
+      "origin_mm": [
+        354.5,
+        21.5
+      ],
+      "grid_shape_HW": [
+        202,
+        230
+      ],
+      "active_area_mm2": 9843.0,
+      "native_wall_cells": 259,
+      "native_near_floor_furniture_cells": 5117,
+      "native_tabletop_cells_with_water_passage_underneath": 2971,
+      "artistic_selection_boundary_cells_without_native_wall": 773,
+      "actors": [
+        {
+          "actor": "StaticMeshActor_100",
+          "label": "Doors_Ground_09_11",
+          "category": "native wall/glazing/door",
+          "source_sha256": "b11ea726b31033723dffe388387ea0ac4935b3bdd9f8159fb360286bdcf8cce3",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 198
+        },
+        {
+          "actor": "StaticMeshActor_101",
+          "label": "Doors_Ground_10_10",
+          "category": "native wall/glazing/door",
+          "source_sha256": "243737c58ad3038fadbd318c86607b8eabecd7d14b174d3c0632c701a5c72111",
+          "new_obstacle_cells": 38,
+          "retained_slab_triangles": 132
+        },
+        {
+          "actor": "StaticMeshActor_1477",
+          "label": "R25_Architecture_Ground_08_11",
+          "category": "native wall/glazing/door",
+          "source_sha256": "0c76813a00a29bf6c2e2fad3fe3904872d0d16d69e7e29c078eee8a307d258b0",
+          "new_obstacle_cells": 144,
+          "retained_slab_triangles": 158
+        },
+        {
+          "actor": "StaticMeshActor_1479",
+          "label": "R25_Architecture_Ground_09_11",
+          "category": "native wall/glazing/door",
+          "source_sha256": "11bb731009dc8a0027c7578c00e22687526a94cb26121e0bcda64fe59a7493e1",
+          "new_obstacle_cells": 414,
+          "retained_slab_triangles": 124
+        },
+        {
+          "actor": "StaticMeshActor_1508",
+          "label": "R25_G111_private_Architecture",
+          "category": "native wall/glazing/door",
+          "source_sha256": "29882e1b7639db05e9a2866774035e61801f1b30c4727065e08fa34ecce0478d",
+          "new_obstacle_cells": 1,
+          "retained_slab_triangles": 80
+        },
+        {
+          "actor": "StaticMeshActor_18",
+          "label": "Architecture_Ground_08_09",
+          "category": "native wall/glazing/door",
+          "source_sha256": "9f14354718da2b6a8ef87cbeef5c7bc6d7e68e500f391cad77b73303c494b3b3",
+          "new_obstacle_cells": 92,
+          "retained_slab_triangles": 104
+        },
+        {
+          "actor": "StaticMeshActor_23",
+          "label": "Architecture_Ground_09_09",
+          "category": "native wall/glazing/door",
+          "source_sha256": "57def70b1e0da25c0681c4829298044b8b27499d05a3accfdaa86b1cf1d7333d",
+          "new_obstacle_cells": 143,
+          "retained_slab_triangles": 24
+        },
+        {
+          "actor": "StaticMeshActor_24",
+          "label": "Architecture_Ground_09_10",
+          "category": "native wall/glazing/door",
+          "source_sha256": "7b7de89e71b57ad00fc8058e4dfa492d8b7d5d3df132ed09533c8af277d4717c",
+          "new_obstacle_cells": 48,
+          "retained_slab_triangles": 96
+        },
+        {
+          "actor": "StaticMeshActor_26",
+          "label": "Architecture_Ground_10_09",
+          "category": "native wall/glazing/door",
+          "source_sha256": "224aaa40be80c48a45108300813c41062be77459a099ddd4e12e0eedf49e0239",
+          "new_obstacle_cells": 2,
+          "retained_slab_triangles": 50
+        },
+        {
+          "actor": "StaticMeshActor_27",
+          "label": "Architecture_Ground_10_10",
+          "category": "native wall/glazing/door",
+          "source_sha256": "c192c69593578e17204e0bbdf87a5341145afff7463dcb7fb0405356fcd20d4f",
+          "new_obstacle_cells": 201,
+          "retained_slab_triangles": 138
+        },
+        {
+          "actor": "StaticMeshActor_763",
+          "label": "ILab_V8_DETAIL_Lab_fabrication_bench",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "8242b7d2d0a26b1eef40bd0d78679750e73faa151ea694a0b1c1a5b4023de87f",
+          "new_obstacle_cells": 2320,
+          "retained_slab_triangles": 388
+        },
+        {
+          "actor": "StaticMeshActor_764",
+          "label": "ILab_V8_DETAIL_Lab_west_workbench",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "f5c242ed2312eca627a0756917f885f9672a2f75835423a9f7673a958fb8e098",
+          "new_obstacle_cells": 1408,
+          "retained_slab_triangles": 262
+        },
+        {
+          "actor": "StaticMeshActor_765",
+          "label": "ILabRetained_Architecture_Ground_08_10",
+          "category": "native wall/glazing/door",
+          "source_sha256": "20a97e47169aec27e4046fbb5328e1b805865413e429f55d9387a8745cfe602b",
+          "new_obstacle_cells": 290,
+          "retained_slab_triangles": 318
+        },
+        {
+          "actor": "StaticMeshActor_779",
+          "label": "ILab_Clean_V9_Lab_bigrep_7",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "88718b6200fb4e041f26d822359b5e5b84a342e6c4257507097ac4afab564e0b",
+          "new_obstacle_cells": 212,
+          "retained_slab_triangles": 550
+        },
+        {
+          "actor": "StaticMeshActor_812",
+          "label": "V06_CollaborationTable_0",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "9bf07646758a8526cca494967d012a76d5d0daaae557bc58ba53fca9579504c6",
+          "new_obstacle_cells": 142,
+          "retained_slab_triangles": 2116
+        },
+        {
+          "actor": "StaticMeshActor_813",
+          "label": "V06_CollaborationTable_1",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "a663060021d4ccce002a6e89723215347c10e0fc3bf88c95aab5ae7680abe83e",
+          "new_obstacle_cells": 144,
+          "retained_slab_triangles": 2116
+        },
+        {
+          "actor": "StaticMeshActor_814",
+          "label": "V06_CollaborationTable_2",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "160d799a7c8eaefebb4fc6f646b8d5c695196b2670394c861ba75b7b6d4d5ced",
+          "new_obstacle_cells": 142,
+          "retained_slab_triangles": 2116
+        },
+        {
+          "actor": "StaticMeshActor_977",
+          "label": "V08_V8_DETAIL_V5_Lab_island_stool_0",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "5dc3f0ffa2c3039fe69265f2f555f5a15c767ec254b64599b302a8621b4b6df9",
+          "new_obstacle_cells": 34,
+          "retained_slab_triangles": 3130
+        },
+        {
+          "actor": "StaticMeshActor_978",
+          "label": "V08_V8_DETAIL_V5_Lab_island_stool_1",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "afb78f3ff4d24e2eb7267309fbcb0b9b3e1568dfb7a4998aef5ce1409fed1ec5",
+          "new_obstacle_cells": 34,
+          "retained_slab_triangles": 3130
+        },
+        {
+          "actor": "StaticMeshActor_979",
+          "label": "V08_V8_DETAIL_V5_Lab_island_stool_2",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "93b675a64d2610ed00337b6fd75abb88a01e642f891cf94bc0bea791e904f01c",
+          "new_obstacle_cells": 34,
+          "retained_slab_triangles": 3130
+        },
+        {
+          "actor": "StaticMeshActor_98",
+          "label": "Doors_Ground_08_10",
+          "category": "native wall/glazing/door",
+          "source_sha256": "ec516e785b3a4aaac94ff2c1f5045be286ed620838b3e82544d7dc64d7e5ae13",
+          "new_obstacle_cells": 4,
+          "retained_slab_triangles": 396
+        },
+        {
+          "actor": "StaticMeshActor_980",
+          "label": "V08_V8_DETAIL_V5_Lab_island_stool_3",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "5a995f87f2a903e9163cd1dd828d13d201d727d6131f4149edc0b3a6615d700d",
+          "new_obstacle_cells": 34,
+          "retained_slab_triangles": 3130
+        },
+        {
+          "actor": "StaticMeshActor_981",
+          "label": "V08_V8_DETAIL_V5_Lab_island_stool_4",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "b922bba280969ee944ac6895f0db73ab011c3c73d17b692b63d47c4bc49ddb34",
+          "new_obstacle_cells": 34,
+          "retained_slab_triangles": 3130
+        },
+        {
+          "actor": "StaticMeshActor_982",
+          "label": "V08_V8_DETAIL_V5_Lab_east_chair_0",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "f8d9fc8219ca8f0554a10c3e0712a2b57f1cb035dde752f62911c440b685eef1",
+          "new_obstacle_cells": 31,
+          "retained_slab_triangles": 3130
+        },
+        {
+          "actor": "StaticMeshActor_983",
+          "label": "V08_V8_DETAIL_V5_Lab_west_chair_0",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "b9e4e92595758e5ac137da2186b6c74f73943808e29423e872d2b83fc06196ae",
+          "new_obstacle_cells": 34,
+          "retained_slab_triangles": 3130
+        },
+        {
+          "actor": "StaticMeshActor_984",
+          "label": "V08_V8_DETAIL_V5_Lab_east_chair_1",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "f7d0b2edd3ef516b1d7b4cfc9f88de4728b3b8828e3ec13af0c851ef2ce6036e",
+          "new_obstacle_cells": 30,
+          "retained_slab_triangles": 3130
+        },
+        {
+          "actor": "StaticMeshActor_985",
+          "label": "V08_V8_DETAIL_V5_Lab_west_chair_1",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "d263048de2821c9747984240dddaf9a25d8562c90d6ef8973148ad9bbee908ef",
+          "new_obstacle_cells": 31,
+          "retained_slab_triangles": 3130
+        },
+        {
+          "actor": "StaticMeshActor_986",
+          "label": "V08_V8_DETAIL_V5_Lab_east_chair_2",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "f42230f21588f37a26eebfe0aff0021e2784df7b2fe793aca8f3e865b89885f6",
+          "new_obstacle_cells": 31,
+          "retained_slab_triangles": 3130
+        },
+        {
+          "actor": "StaticMeshActor_987",
+          "label": "V08_V8_DETAIL_V5_Lab_west_chair_2",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "79614ab85879ed9db1ad15c9f189e1625ba876771e2b115406dd893f0ff23ad3",
+          "new_obstacle_cells": 28,
+          "retained_slab_triangles": 3130
+        },
+        {
+          "actor": "StaticMeshActor_988",
+          "label": "V08_V8_DETAIL_V5_Lab_east_chair_3",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "8a81b95bd4a8adb73139f74cf2399d41158bd3781c1caa86e4064c4e4708851d",
+          "new_obstacle_cells": 35,
+          "retained_slab_triangles": 3130
+        },
+        {
+          "actor": "StaticMeshActor_989",
+          "label": "V08_V8_DETAIL_V5_Lab_west_chair_3",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "392f2a651733d592c5fceaa6facbc73c623ac3fe59cf85a23b42090ddf973bf8",
+          "new_obstacle_cells": 33,
+          "retained_slab_triangles": 3130
+        },
+        {
+          "actor": "StaticMeshActor_990",
+          "label": "V08_V8_DETAIL_V5_Lab_east_chair_4",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "432137d6c8397024d131049ab36008d012518b7aaad275b62cd7dc0b68774612",
+          "new_obstacle_cells": 31,
+          "retained_slab_triangles": 3130
+        },
+        {
+          "actor": "StaticMeshActor_991",
+          "label": "V08_V8_DETAIL_V5_Lab_west_chair_4",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "5c6eb1d38a1de3b0e7f618e7eef6793ae67a0906cde4952fbe21f6dd03b6f75a",
+          "new_obstacle_cells": 31,
+          "retained_slab_triangles": 3130
+        },
+        {
+          "actor": "StaticMeshActor_992",
+          "label": "V08_V8_DETAIL_V5_Lab_east_chair_5",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "3ce58954e463484a1398d8997463cec92e55e4c2fc8cc424ca937d2f6eb3fed6",
+          "new_obstacle_cells": 35,
+          "retained_slab_triangles": 3130
+        },
+        {
+          "actor": "StaticMeshActor_993",
+          "label": "V08_V8_DETAIL_V5_Lab_west_chair_5",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "a121e7dfc6607ad7c3d3572c239b1e37c512f17bc70b9587651b43aa7ce6eb09",
+          "new_obstacle_cells": 31,
+          "retained_slab_triangles": 3130
+        },
+        {
+          "actor": "StaticMeshActor_994",
+          "label": "V08_V8_DETAIL_V5_Lab_end_chair_N",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "5e0a60a248d12e1f8d463b232ff1799515eadb7c3a41132755c5a8c2c8050871",
+          "new_obstacle_cells": 35,
+          "retained_slab_triangles": 3130
+        },
+        {
+          "actor": "StaticMeshActor_995",
+          "label": "V08_V8_DETAIL_V5_Lab_end_chair_S",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "a90853143f5e5b08a85a608a01df9fea426d39be7c6fde28c7857be786f5630a",
+          "new_obstacle_cells": 36,
+          "retained_slab_triangles": 3130
+        },
+        {
+          "actor": "StaticMeshActor_996",
+          "label": "V08_V8_DETAIL_V5_Lab_west_stool_4",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "bd78c7a7f38020ed93ddbdb0460766b6b7569cd14a603f3535b31391b91e9b90",
+          "new_obstacle_cells": 34,
+          "retained_slab_triangles": 3130
+        },
+        {
+          "actor": "StaticMeshActor_997",
+          "label": "V08_V8_DETAIL_V5_Lab_west_stool_5.3",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "96cece5ca85c429c0117f4529be4ac45fa4d38f10bb53f26b45f2fc3513b3800",
+          "new_obstacle_cells": 31,
+          "retained_slab_triangles": 3130
+        },
+        {
+          "actor": "StaticMeshActor_998",
+          "label": "V08_V8_DETAIL_V5_Lab_west_stool_6.6",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "20bcdb99f4c8829a9c28750729c3eaa5383dc408262aa05dcef04ae842ead46a",
+          "new_obstacle_cells": 31,
+          "retained_slab_triangles": 3130
+        },
+        {
+          "actor": "StaticMeshActor_999",
+          "label": "V08_V8_DETAIL_V5_Lab_west_stool_7.9",
+          "category": "native near-floor furniture/fixture",
+          "source_sha256": "67ba35b50516bc0fe99fb48f6dc615bdbdfa2e173c58dc144e6189ef49ea781a",
+          "new_obstacle_cells": 31,
+          "retained_slab_triangles": 3130
+        }
+      ]
+    }
+  ],
+  "no_global_wave_post_clipped_to_rooms": true,
+  "old_receiver_media_print_and_sources_changed": false
+}

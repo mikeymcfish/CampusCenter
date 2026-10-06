@@ -1,0 +1,71 @@
+{
+  "original_package_sha256": "e8d7d6c2f06d0825ff48c4abd52e31f75efd1f5d58281229a86f23c83d869ea4",
+  "changes": "Private JSON provenance paths reduced to basenames; empty machine encoding logs excluded. Geometry/atlas/preview/media pixels and bytes unchanged.",
+  "files": [
+    {
+      "file": "Commons_Compact_Mapped_Preview_QA.json",
+      "bytes": 940,
+      "sha256": "2af0befa95a8c98f906c87b7f166b7e222fcf5664af82bf0b334a6f225e68798"
+    },
+    {
+      "file": "Commons_Page_01_Gym_Reference.png",
+      "bytes": 182595,
+      "sha256": "bb7a6d3ca0271114af95e1a5ec23a1657239b3be2884ba0f8782df1d43496458"
+    },
+    {
+      "file": "Commons_Page_01_Mapped_1024_Viewing.png",
+      "bytes": 364991,
+      "sha256": "cfc6ddb0454d2d2d39add495912d6ce9f110b3a95d2e3f4290d246d452d58b7a"
+    },
+    {
+      "file": "Commons_Page_02_Gym_Reference.png",
+      "bytes": 136211,
+      "sha256": "47c905ba2cbb4f5f3a4b7abc10c5d86887a5d90c9073e13683a5a151b96ed2f0"
+    },
+    {
+      "file": "Commons_Page_02_Mapped_1024_Viewing.png",
+      "bytes": 350060,
+      "sha256": "641bb818ff5610bb86e2a4a1f879d6cc0ab3bbc97f2ce0a47f36e424e80825d9"
+    },
+    {
+      "file": "Commons_Paginated_Gym_Mapped_1024_Viewing_Preview.mp4",
+      "bytes": 283479,
+      "sha256": "6f08a7a0c7cab4a77714d0089fed936fcb556a71e035cfd208e08c27a5f5ace7"
+    },
+    {
+      "file": "Commons_Paginated_Page_01_Atlas_8192.png",
+      "bytes": 551752,
+      "sha256": "bdecab71a6bf64d5c0c784fd3185a1383bc1a87f1315958bbd1dfe697e8b99f5"
+    },
+    {
+      "file": "Commons_Paginated_Page_01_Native_Mapped_Preview.png",
+      "bytes": 2530620,
+      "sha256": "0eee936b2f0d6146ccd3485f570bf717467118d80b2a1f6b857c2705bcee7a4a"
+    },
+    {
+      "file": "Commons_Paginated_Page_02_Atlas_8192.png",
+      "bytes": 523687,
+      "sha256": "45c30b5c99ad0c5ac45f0ad992e3e87ce526d87589581097852151ca6ac30395"
+    },
+    {
+      "file": "Commons_Paginated_Page_02_Native_Mapped_Preview.png",
+      "bytes": 2493415,
+      "sha256": "a35d08d731676a8b4ea5fb976a8f52167068a7921fa31acb621058bca171cb16"
+    },
+    {
+      "file": "Commons_Pagination_QA.json",
+      "bytes": 3002,
+      "sha256": "47a5439ea5b98279ac7ea2d5c18cc766f39bd7504aa23c262d6902fcdefa823e"
+    },
+    {
+      "file": "LOAD_AND_SCOPE.txt",
+      "bytes": 1043,
+      "sha256": "0eacaf5dd7b7753b78ef50ce9ce380fa907c7173235e44a8e45f93db57ac4797"
+    },
+    {
+      "file": "Native_Hybrid_Media_Reapplication_QA.json",
+      "bytes": 1901,
+      "sha256": "fa79546b86681a31cba94d56e7bc70c46d2f65e69f649ea07fd4a80871350e92"
+    }
+  ]
+}

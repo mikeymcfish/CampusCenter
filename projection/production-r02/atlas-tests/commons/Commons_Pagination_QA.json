@@ -1,0 +1,69 @@
+{
+  "status": "PASS: Commons paginated atlases built with every official word preserved, all captions inside unchanged gym bounds",
+  "official_title": "The Student Commons",
+  "official_body_exact": "The Student Commons is the vibrant heart of the Campus Center, giving students a comfortable place to gather, study, relax, and connect around its welcoming fireplace. The space reflects King’s belief that a strong sense of belonging supports both personal growth and meaningful learning.",
+  "pages": [
+    {
+      "page": 1,
+      "lines": [
+        "The Student Commons is the",
+        "vibrant heart of the Campus",
+        "Center, giving students a",
+        "comfortable place to gather,",
+        "study, relax, and connect",
+        "around its welcoming",
+        "fireplace."
+      ],
+      "official_text_portion": "The Student Commons is the vibrant heart of the Campus Center, giving students a comfortable place to gather, study, relax, and connect around its welcoming fireplace.",
+      "atlas": "Commons_Paginated_Page_01_Atlas_8192.png",
+      "atlas_sha256": "bdecab71a6bf64d5c0c784fd3185a1383bc1a87f1315958bbd1dfe697e8b99f5",
+      "body_nominal_font_mm": 13.0,
+      "caption_surface_texels": 1557104,
+      "presentation_room_number_labels": false
+    },
+    {
+      "page": 2,
+      "lines": [
+        "The space reflects King’s belief",
+        "that a strong sense of",
+        "belonging supports both",
+        "personal growth and",
+        "meaningful learning."
+      ],
+      "official_text_portion": "The space reflects King’s belief that a strong sense of belonging supports both personal growth and meaningful learning.",
+      "atlas": "Commons_Paginated_Page_02_Atlas_8192.png",
+      "atlas_sha256": "45c30b5c99ad0c5ac45f0ad992e3e87ce526d87589581097852151ca6ac30395",
+      "body_nominal_font_mm": 13.0,
+      "caption_surface_texels": 1557104,
+      "presentation_room_number_labels": false
+    }
+  ],
+  "page_count": 2,
+  "full_copy_reconstructs_exact_original": true,
+  "sentence_boundaries_used_for_page_breaks_where_fit": true,
+  "caption_bounds_model_mm": [
+    [
+      235.0,
+      231.0
+    ],
+    [
+      448.0,
+      451.0
+    ]
+  ],
+  "all_changed_pixels_owned_by_gym_H02": true,
+  "all_other_room_and_fireplace_pixels_preserved": true,
+  "body_font_nominal_model_mm": 13.0,
+  "body_x_height_at_1024_view_px": 9.16488812392427,
+  "body_capital_height_at_1024_view_px": 12.830843373493977,
+  "page_hold_seconds": 10,
+  "scrolling_used": false,
+  "source_compatible_Commons_atlas": "Tour_Student_Commons_P02plusP03B3_UV02_Test_Atlas_8192.png",
+  "source_receiver_OBJ": "CampusCenter_P02plusP03B3_Assembly_1_100_UV02.obj",
+  "geometry_or_UV_changed": false,
+  "old_P01_media_changed": false,
+  "physical_projector_readability_verified": false,
+  "native_preview_pending": false,
+  "pagination_approval": "User approved scrolling or pagination; stable pagination selected for optical clarity.",
+  "native_mapped_1024_pages_visually_reviewed": true
+}

@@ -1,0 +1,34 @@
+{
+  "status": "PASS: compact mapped-camera preview encoded from actual atlas movie through unchanged receiver triangle UVs",
+  "file": "Ripple_R02_ThreeRoom_Mapped_1024_Viewing_Preview.mp4",
+  "bytes": 512094,
+  "sha256": "a37200f07676680e2a06a615cc7e6716edc357a7f8e00f97ca48c4c4f68035d8",
+  "width": 1024,
+  "height": 846,
+  "model_view_width_px": 1024,
+  "fps": 20,
+  "frames": 600,
+  "duration_seconds": 30.0,
+  "source_atlas_movie": "Ripple_R02_ThreeRoom_Physics_UV02_1_100_4096_HAP.mov",
+  "raw_atlas_playback_file": false,
+  "projection_reference": "Unchanged +Z orthographic contract including actual restored fireplace visibility; exact UV lookup; nearest texture sampling",
+  "scope": "Three-room physics test only",
+  "physical_projector_readability_or_MadMapper_playback_verified": false,
+  "visual_review_pending": false,
+  "all_preview_frames_decoded": true,
+  "codec_probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1024,
+        "height": 846,
+        "r_frame_rate": "20/1",
+        "duration": "30.000000",
+        "nb_read_frames": "600"
+      }
+    ]
+  },
+  "mapped_frames_0_60_120_200_reviewed": true
+}

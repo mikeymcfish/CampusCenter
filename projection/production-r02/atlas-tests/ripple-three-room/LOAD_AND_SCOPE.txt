@@ -1,0 +1,9 @@
+Ripple Rooms R02, three-room physics test
+
+Load the separately supplied P02plusP03B3 UV02 1:100 receiver copy. This matches five P02 tiles plus P03 B3 only. Use the full 4096-square atlas movie as shared unlit/Emission media. Camera previews are not the atlas. No MadMapper project/cues are included or changed.
+
+This is the validated incremental test: verified gym interior, irregular Commons selection with native fireplace obstacles, and furnished Innovation selection with native leg/near-floor barriers. Independent damped height-field states reflect at barriers; a common building-wide pattern was not generated and clipped afterward. Native tabletops are overhead for water and do not block it; real near-floor legs and fixtures do. The supported printable relief is kept separate from physics.
+
+The gym uses verified native wall bounds. Commons/Innovation grouping retains the earlier coarse room-reference selections; where those boundaries cross open floor/doors they are explicitly invisible artistic basin boundaries, not real architectural walls. See the domain review images and source manifest. A full building boundary-authority review and expansion remain pending.
+
+The 30-second drop test naturally returns to a quiet display state. Its solver residual is documented; no fade or arbitrary seamless-fluid claim. Wave speed/amplitude and colour exposure are artistic model-space values, not a full hydraulic simulation. Filling, splashes, overtopping and vertical-wall water transfer are not included. Raised furniture/fireplace shading remains static. Real projector calibration and MadMapper playback were not tested. Older P02 UV01 receiver/media remain unchanged and available.
