@@ -1,0 +1,116 @@
+[
+  {
+    "scale": 100,
+    "hall_generation": [
+      {
+        "room": "106",
+        "stop_id": "HS06",
+        "bounds_mm": [
+          [
+            355.1698852539063,
+            121.94031413612565
+          ],
+          [
+            634.3685863874346,
+            186.83665161132814
+          ]
+        ],
+        "candidate_face_count": 3806,
+        "face_boundary_relations": {
+          "fully_inside": 2058,
+          "fully_outside": 1479,
+          "crosses_boundary": 269
+        },
+        "H01_receiver_pixels": 988206,
+        "H02_receiver_pixels": 836401,
+        "H01_spill_pixels_removed": 161833,
+        "correctly_owned_pixels_recovered_from_other_corridor_candidate_IDs": 10028,
+        "partial_source_surface_selection_supported": true
+      },
+      {
+        "room": "123",
+        "stop_id": "HS10",
+        "bounds_mm": [
+          [
+            167.32774658203124,
+            186.83665161132814
+          ],
+          [
+            213.0743408203125,
+            315.56544189453126
+          ]
+        ],
+        "candidate_face_count": 2680,
+        "face_boundary_relations": {
+          "fully_inside": 405,
+          "fully_outside": 2195,
+          "crosses_boundary": 80
+        },
+        "H01_receiver_pixels": 669805,
+        "H02_receiver_pixels": 368635,
+        "H01_spill_pixels_removed": 301490,
+        "correctly_owned_pixels_recovered_from_other_corridor_candidate_IDs": 320,
+        "partial_source_surface_selection_supported": true
+      }
+    ],
+    "all_three_office_regions_exactly_equal_original_union": true,
+    "unchanged_other10_stop_masks": true
+  },
+  {
+    "scale": 250,
+    "hall_generation": [
+      {
+        "room": "106",
+        "stop_id": "HS06",
+        "bounds_mm": [
+          [
+            142.0679541015625,
+            48.77612565445026
+          ],
+          [
+            253.7474345549738,
+            74.73466064453125
+          ]
+        ],
+        "candidate_face_count": 3193,
+        "face_boundary_relations": {
+          "fully_inside": 1718,
+          "fully_outside": 1231,
+          "crosses_boundary": 244
+        },
+        "H01_receiver_pixels": 449052,
+        "H02_receiver_pixels": 401094,
+        "H01_spill_pixels_removed": 66346,
+        "correctly_owned_pixels_recovered_from_other_corridor_candidate_IDs": 18388,
+        "partial_source_surface_selection_supported": true
+      },
+      {
+        "room": "123",
+        "stop_id": "HS10",
+        "bounds_mm": [
+          [
+            66.9310986328125,
+            74.73466064453125
+          ],
+          [
+            85.229736328125,
+            126.2261767578125
+          ]
+        ],
+        "candidate_face_count": 2942,
+        "face_boundary_relations": {
+          "fully_inside": 349,
+          "fully_outside": 2531,
+          "crosses_boundary": 62
+        },
+        "H01_receiver_pixels": 595403,
+        "H02_receiver_pixels": 317148,
+        "H01_spill_pixels_removed": 278279,
+        "correctly_owned_pixels_recovered_from_other_corridor_candidate_IDs": 24,
+        "partial_source_surface_selection_supported": true
+      }
+    ],
+    "all_three_office_regions_exactly_equal_original_union": true,
+    "unchanged_other10_stop_masks": true
+  }
+]

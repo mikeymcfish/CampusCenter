@@ -1,0 +1,27 @@
+﻿scale,stop_id,label,approved_room_codes,receiver_pixels,active_source_surfaces,partially_masked_source_surfaces,selection_state
+100,HS01,Entry + Reception,100 | 103,230247,267,0,unchanged_H01_reference_selection
+100,HS02,Cafe,101,169118,200,0,unchanged_H01_reference_selection
+100,HS03,Student Commons,102,829929,3094,0,unchanged_H01_reference_selection
+100,HS04,Admissions Office,104,138035,196,0,unchanged_H01_reference_selection
+100,HS05,CRI Gallery,105,514941,285,0,unchanged_H01_reference_selection
+100,HS06,Corridor / Display Hall,106,836401,368,141,approved_scope_spatially_clipped_at_texture_level
+100,HS07,Innovation Lab,108,865300,1336,0,unchanged_H01_reference_selection
+100,HS08,ASPIRE Seminar Room,112,396734,818,0,unchanged_H01_reference_selection
+100,HS09,Collaboration Room (humanities research),113,384224,720,0,unchanged_H01_reference_selection
+100,HS10,Trophy Hall / Corridor,123,368635,87,29,approved_scope_spatially_clipped_at_texture_level
+100,HS11,Athletics Office,124 | 125 | 126,1135281,307,0,approved_all_three_offices
+100,HS12,Athletics Trainers' Room,129,335694,120,0,unchanged_H01_reference_selection
+100,HS13,existing Gym,GYM,4142344,189,0,unchanged_H01_reference_selection
+250,HS01,Entry + Reception,100 | 103,995016,305,0,unchanged_H01_reference_selection
+250,HS02,Cafe,101,576204,213,0,unchanged_H01_reference_selection
+250,HS03,Student Commons,102,436009,3381,0,unchanged_H01_reference_selection
+250,HS04,Admissions Office,104,626919,222,0,unchanged_H01_reference_selection
+250,HS05,CRI Gallery,105,416344,459,0,unchanged_H01_reference_selection
+250,HS06,Corridor / Display Hall,106,401094,417,116,approved_scope_spatially_clipped_at_texture_level
+250,HS07,Innovation Lab,108,544214,1609,0,unchanged_H01_reference_selection
+250,HS08,ASPIRE Seminar Room,112,615725,882,0,unchanged_H01_reference_selection
+250,HS09,Collaboration Room (humanities research),113,521350,785,0,unchanged_H01_reference_selection
+250,HS10,Trophy Hall / Corridor,123,317148,80,28,approved_scope_spatially_clipped_at_texture_level
+250,HS11,Athletics Office,124 | 125 | 126,2899630,371,0,approved_all_three_offices
+250,HS12,Athletics Trainers' Room,129,781208,134,0,unchanged_H01_reference_selection
+250,HS13,existing Gym,GYM,1846834,181,0,unchanged_H01_reference_selection

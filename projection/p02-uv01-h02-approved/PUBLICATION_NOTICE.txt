@@ -1,0 +1,1 @@
+Public H02 copy: private provenance paths become unique relative source identifiers, internal message/thread identifiers are omitted, and the manifest is regenerated. Original/usable copy, all masks, maps and geometry remain unchanged. Original producer package and H01 history are preserved. H02 supersedes H01 selections; no animation, cue or MadMapper project is supplied.

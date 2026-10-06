@@ -1,0 +1,13 @@
+# H02 — approved thirteen-stop masks and copy
+
+[Download ZIP](https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-p02-uv01-h02-approved-20261006/CampusCenter_P02_UV01_H02_Approved_13_Stop_Masks_and_Copy.zip) · [Direct annotated approved-scope map](https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-p02-uv01-h02-approved-20261006/Annotated_H02_13_Stop_Room_Map.png) · [Validation](PUBLICATION_QA.json)
+
+H02 supersedes H01's provisional selections. The user approved **all three Athletics Offices124–126** as HS11, and **Display Hall106 / Trophy Hall123 strictly within their numbered areas**, excluding adjoining physical corridors110/130. All thirteen stops are active at both scales: **26 production masks**. The other ten selections and all four public copy files are unchanged from H01. H01 remains preserved as historical reference.
+
+Use the masks with the existing P02 UV01 model and atlas of the same physical scale. Extract the ZIP as a separate additive H02 folder; preserve the existing models and atlas. Native masks are **8192 × 8192**, with **nearest-neighbour sampling**. The 2048 atlas overview is a reference image. Do not use whole-face/surface-ID switches: hall masks select partial regions within existing UV faces to enforce approved bounds. Conservative boundary texels remain off. Downsampling or linear filtering can blur the boundary.
+
+Independent producer QA reports zero selected hall coverage outside documented bounds, zero physical corridor110/130 coverage, zero unsupported selected hall texels and zero stop overlaps. HS11 matches the exact union of the original124/125/126 opaque receivers. Some old coarse room IDs110/130 include physically valid hall portions; the masks use mapped geometry and the ownership contract rather than those coarse labels alone.
+
+All261 baseline source files were independently checksum-verified unchanged by the publisher. No geometry, UV coordinate, existing atlas or model is replaced; no unrelated cleanup or deletion occurs. Unselected geometry is retained. The original and usable copy remain as published in H01, with only the already-authorized Entry+Reception combination and official ASPIRE expansion. No animations, cues, MadMapper project or physical print/projector calibration are supplied or certified.
+
+Public copies use unique relative provenance identifiers instead of private paths, omit internal message/thread references, and regenerate manifests. Masks, maps and copy content remain unchanged. Original producer packages and prior releases are preserved. No Library save/transfer is retried.

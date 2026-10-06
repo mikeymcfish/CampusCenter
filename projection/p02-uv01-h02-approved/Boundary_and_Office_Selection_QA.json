@@ -1,0 +1,184 @@
+{
+  "status": "Independent geometry-to-texture boundary checks pass",
+  "scope_approval_complete": true,
+  "user_scope_answer": "Allthree124-126; halls stay within numbered106/123",
+  "all_source_and_H01_hashes_unchanged": true,
+  "source_files_verified": 261,
+  "all_original_and_usable_copy_files_byte_identical_to_H01": true,
+  "geometry_and_UV_changes": [],
+  "all_PNG_files_verified": 34,
+  "models": [
+    {
+      "physical_scale_denominator": 100,
+      "all13_stops_active": true,
+      "all_three_offices_included": true,
+      "office_receiver_pixels_by_room": {
+        "124": 373243,
+        "125": 312485,
+        "126": 449553
+      },
+      "office_mask_exact_union_of124_125_126": true,
+      "other10_stop_masks_identical_to_H01": true,
+      "stop_mask_overlaps": 0,
+      "unhighlighted_geometry_kept_in_model": true,
+      "opaque_receiver_partition_complete": true,
+      "halls": [
+        {
+          "room": "106",
+          "stop_id": "HS06",
+          "selected_receiver_pixels": 836401,
+          "UV_texels_outside_numbered_hall_domain": 0,
+          "selected_texels_without_source_triangle_support": 0,
+          "selected_candidate_faces_tested": 2291,
+          "crossing_triangle_selected_texel_corner_tests": 559556,
+          "crossing_triangle_selected_texels": 139889,
+          "largest_boundary_violation_mm": 0.0,
+          "conservative_selected_geometry_XY_bounds_mm": [
+            [
+              355.1709782025184,
+              121.94033010051952
+            ],
+            [
+              634.3658451419899,
+              186.82224864810593
+            ]
+          ],
+          "allowed_domain_mm": [
+            [
+              355.1698852539063,
+              121.94031413612565
+            ],
+            [
+              634.3685863874346,
+              186.83665161132814
+            ]
+          ],
+          "selected_receiving_points_in_adjoining_corridor110": 0,
+          "selected_receiving_points_in_adjoining_corridor130": 0,
+          "proof": "All supported selected source geometry lies inside the hall domain.106 is east of110 boundary;123 is north of110 boundary and south of130 boundary. Candidate source IDs are not a perimeter guarantee; partial mask coverage is checked through original triangles."
+        },
+        {
+          "room": "123",
+          "stop_id": "HS10",
+          "selected_receiver_pixels": 368635,
+          "UV_texels_outside_numbered_hall_domain": 0,
+          "selected_texels_without_source_triangle_support": 0,
+          "selected_candidate_faces_tested": 485,
+          "crossing_triangle_selected_texel_corner_tests": 146748,
+          "crossing_triangle_selected_texels": 36687,
+          "largest_boundary_violation_mm": 0.0,
+          "conservative_selected_geometry_XY_bounds_mm": [
+            [
+              167.3289100227674,
+              186.86716476518
+            ],
+            [
+              212.94759470490226,
+              315.5276969461405
+            ]
+          ],
+          "allowed_domain_mm": [
+            [
+              167.32774658203124,
+              186.83665161132814
+            ],
+            [
+              213.0743408203125,
+              315.56544189453126
+            ]
+          ],
+          "selected_receiving_points_in_adjoining_corridor110": 0,
+          "selected_receiving_points_in_adjoining_corridor130": 0,
+          "proof": "All supported selected source geometry lies inside the hall domain.106 is east of110 boundary;123 is north of110 boundary and south of130 boundary. Candidate source IDs are not a perimeter guarantee; partial mask coverage is checked through original triangles."
+        }
+      ]
+    },
+    {
+      "physical_scale_denominator": 250,
+      "all13_stops_active": true,
+      "all_three_offices_included": true,
+      "office_receiver_pixels_by_room": {
+        "124": 1026378,
+        "125": 899147,
+        "126": 974105
+      },
+      "office_mask_exact_union_of124_125_126": true,
+      "other10_stop_masks_identical_to_H01": true,
+      "stop_mask_overlaps": 0,
+      "unhighlighted_geometry_kept_in_model": true,
+      "opaque_receiver_partition_complete": true,
+      "halls": [
+        {
+          "room": "106",
+          "stop_id": "HS06",
+          "selected_receiver_pixels": 401094,
+          "UV_texels_outside_numbered_hall_domain": 0,
+          "selected_texels_without_source_triangle_support": 0,
+          "selected_candidate_faces_tested": 1936,
+          "crossing_triangle_selected_texel_corner_tests": 388184,
+          "crossing_triangle_selected_texels": 97046,
+          "largest_boundary_violation_mm": 0.0,
+          "conservative_selected_geometry_XY_bounds_mm": [
+            [
+              142.06853400661157,
+              48.77631663458113
+            ],
+            [
+              253.28,
+              74.73140558945177
+            ]
+          ],
+          "allowed_domain_mm": [
+            [
+              142.0679541015625,
+              48.77612565445026
+            ],
+            [
+              253.7474345549738,
+              74.73466064453125
+            ]
+          ],
+          "selected_receiving_points_in_adjoining_corridor110": 0,
+          "selected_receiving_points_in_adjoining_corridor130": 0,
+          "proof": "All supported selected source geometry lies inside the hall domain.106 is east of110 boundary;123 is north of110 boundary and south of130 boundary. Candidate source IDs are not a perimeter guarantee; partial mask coverage is checked through original triangles."
+        },
+        {
+          "room": "123",
+          "stop_id": "HS10",
+          "selected_receiver_pixels": 317148,
+          "UV_texels_outside_numbered_hall_domain": 0,
+          "selected_texels_without_source_triangle_support": 0,
+          "selected_candidate_faces_tested": 411,
+          "crossing_triangle_selected_texel_corner_tests": 84604,
+          "crossing_triangle_selected_texels": 21151,
+          "largest_boundary_violation_mm": 0.0,
+          "conservative_selected_geometry_XY_bounds_mm": [
+            [
+              66.93281817303193,
+              74.74637772659821
+            ],
+            [
+              85.22551090650906,
+              126.22594431629943
+            ]
+          ],
+          "allowed_domain_mm": [
+            [
+              66.9310986328125,
+              74.73466064453125
+            ],
+            [
+              85.229736328125,
+              126.2261767578125
+            ]
+          ],
+          "selected_receiving_points_in_adjoining_corridor110": 0,
+          "selected_receiving_points_in_adjoining_corridor130": 0,
+          "proof": "All supported selected source geometry lies inside the hall domain.106 is east of110 boundary;123 is north of110 boundary and south of130 boundary. Candidate source IDs are not a perimeter guarantee; partial mask coverage is checked through original triangles."
+        }
+      ]
+    }
+  ],
+  "known_atlas_face_limitation": "A whole surface ID can straddle an ownership division. H02 uses partial texel masks, preserving its original source face/UV. Conservative boundary texels are off; use native8192 nearest-neighbour masks. No unresolved atlas-face limitation remains.",
+  "animations_cues_MadMapper_project_created": false
+}

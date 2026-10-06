@@ -1,0 +1,143 @@
+{
+  "revision": "H02",
+  "units": "P02 assembled1:100 model millimetres, unchanged world origin and axes",
+  "scale_rule": "Multiply all XY boundaries by100/N for actual model1:N; no model or UV coordinates are changed.",
+  "approval": {
+    "user_answer": "1. Yes, 2. Stay within",
+    "acknowledged_scope": "One Athletics Office stop includes124,125,126. Display Hall106 and Trophy Hall123 stay within their numbered areas; adjoining110/130 excluded."
+  },
+  "bounds_1_100_mm": {
+    "106": [
+      [
+        355.1698852539063,
+        121.94031413612565
+      ],
+      [
+        634.3685863874346,
+        186.83665161132814
+      ]
+    ],
+    "123": [
+      [
+        167.32774658203124,
+        186.83665161132814
+      ],
+      [
+        213.0743408203125,
+        315.56544189453126
+      ]
+    ]
+  },
+  "anchors": [
+    {
+      "boundary": "106 west /110 east",
+      "rule": "Extend latest native Office111 east outside face north to gym wall at the open numbered-room junction.",
+      "actor": "R25_G111_private_Architecture",
+      "cache_file": "actor_meshes/0604_StaticMeshActor_1508.npz",
+      "cache_sha256": "29882e1b7639db05e9a2866774035e61801f1b30c4727065e08fa34ecce0478d",
+      "value_X_mm": 355.1698852539063
+    },
+    {
+      "boundary": "123 north /130 south",
+      "rule": "Extend verified Locker122 north wall centreline across the open hall junction. Shared boundary wall caps conservatively divided at centreline.",
+      "actor": "R25_Architecture_Ground_05_13",
+      "native_bounds_cm": [
+        [
+          -4548.06298828125,
+          2916.654296875,
+          0.0
+        ],
+        [
+          -3026.722412109375,
+          2934.654541015625,
+          426.7200012207031
+        ]
+      ],
+      "value_Y_mm": 315.56544189453126
+    },
+    {
+      "boundary": "123 west",
+      "rule": "Locker122/121 east boundary wall centreline; keeps corridor-facing wall side.",
+      "actor": "Architecture_Ground_06_13",
+      "native_bounds_cm": [
+        [
+          -3035.72265625,
+          2260.73291015625,
+          0.0
+        ],
+        [
+          -3017.722412109375,
+          2925.654296875,
+          426.7200012207031
+        ]
+      ],
+      "value_X_mm": 167.32774658203124
+    },
+    {
+      "boundary": "123 east",
+      "rule": "Gym west wall centreline; keeps corridor-facing wall side without reaching gym floor.",
+      "actor": "Architecture_Upper_06_15",
+      "native_bounds_cm": [
+        [
+          -2584.256591796875,
+          3457.591552734375,
+          0.0
+        ],
+        [
+          -2554.256591796875,
+          4723.60205078125,
+          868.7000122070312
+        ]
+      ],
+      "value_X_mm": 213.0743408203125
+    },
+    {
+      "boundary": "106 north /123 south /110 north",
+      "rule": "Use gym south boundary wall centreline, extended at open numbered-room junctions.",
+      "actor": "Architecture_Upper_06_12",
+      "native_bounds_cm": [
+        [
+          -2590.533935546875,
+          1623.3665771484375,
+          0.0
+        ],
+        [
+          -2297.96875,
+          1653.366455078125,
+          868.7000122070312
+        ]
+      ],
+      "value_Y_mm": 186.83665161132814
+    },
+    {
+      "boundary": "106 south",
+      "rule": "A101 registered Office111 south/Innovation boundary wall alignment.",
+      "plan_part": "Office111_south_end",
+      "source": "A-101/A-102",
+      "value_Y_mm": 121.94031413612565
+    },
+    {
+      "boundary": "106 east",
+      "rule": "A101 main east facade/slab edge, excluding projecting Entry100 vestibule.",
+      "plan_part": "A101_ground_slab",
+      "value_X_mm": 634.3685863874346
+    }
+  ],
+  "source_plan_geometry_file": "model_geometry.json",
+  "source_plan_geometry_sha256": "b13b2b709f4652cf8c778ebf0dc8b711a7492c6c16a3c012db07654759a409cd",
+  "interpretation": "Open numbered-room junctions have no added physical wall. These mask partitions extend the verified architectural wall lines; they are documented texture ownership rules. Existing other-stop masks are preserved.",
+  "candidate_source_room_codes": {
+    "106": [
+      "106",
+      "110"
+    ],
+    "123": [
+      "123",
+      "130",
+      "110"
+    ]
+  },
+  "default_receiver": "Existing UV01 Opaque receiver mask only. Glazing, HangingLoops and undersides stay unlit.",
+  "boundary_filter_policy": "At triangles crossing a plane, retain a texel only when all four pixel-square corners mapped affinely through the original triangle lie inside the allowed rectangle. Fully inside triangles remain addressable. Union of forbidden coverage vetoes shared edge pixels.",
+  "limitations": "Finite8192 binary masks leave a conservative boundary strip up to a texel footprint. Use nearest-neighbour mask sampling at native resolution. A source surface ID may be partially selected; the mask is authoritative, not a whole-ID switch. No mesh/UV changes are needed."
+}

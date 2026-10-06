@@ -1,0 +1,32 @@
+{
+  "revision": "H02",
+  "created_UTC": "2026-10-06T01:21:09.570685+00:00",
+  "approval": {
+    "user_answer": "1. Yes, 2. Stay within",
+    "acknowledged_scope": "One Athletics Office stop includes124,125,126. Display Hall106 and Trophy Hall123 stay within their numbered areas; adjoining110/130 excluded."
+  },
+  "approved_changes": [
+    "HS06: partial texture selection inside numbered 106",
+    "HS10: partial texture selection inside numbered 123",
+    "HS11: union of all three offices 124, 125, 126"
+  ],
+  "unchanged_other_stop_selections": [
+    "HS01",
+    "HS02",
+    "HS03",
+    "HS04",
+    "HS05",
+    "HS07",
+    "HS08",
+    "HS09",
+    "HS12",
+    "HS13"
+  ],
+  "source_geometry_UVs_world_origin_scale_and_copy_unchanged": true,
+  "partial_surface_ID_masks_required": true,
+  "unresolved_scope_or_atlas_face_questions": [],
+  "parent_reported_current_main": "4d4f2938294ce3c1f10e84abae3add280da12f81",
+  "GitHub_push_performed": false,
+  "physical_print_or_projection_claimed": false,
+  "unrelated_cleanup_performed": false
+}

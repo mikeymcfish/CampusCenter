@@ -1,0 +1,18 @@
+{
+  "top_reference_source": "Actual unchanged primary OBJ v/vt; barycentric projection into each original triangle UV and nearest lookup in H02 mask.",
+  "geometry_changes": [],
+  "old_source_atlas_modified": false,
+  "static_diagnostic_files": [
+    "Annotated_H02_13_Stop_Room_Map.png",
+    "Boundary_And_Office_Difference_Diagnostic.png",
+    "Actual_UV_Chart_Boundary_Comparisons.png"
+  ],
+  "source_original_vertex_triangle_and_UV_hashes_verified_separately": true,
+  "physical_projector_calibration_claimed": false,
+  "reviewed_images": {
+    "Annotated_H02_13_Stop_Room_Map.png": "Pass: all three office labels, distinct hall boundaries, 13-stop legend and unchanged model context readable.",
+    "Actual_UV_Chart_Boundary_Comparisons.png": "Pass: original chart crop and partial H02 coverage show clipped spill without changing UV coordinates.",
+    "Boundary_And_Office_Difference_Diagnostic.png": "Pass: removed hall spill and recovered coverage correspond to corrected model-space boundaries; all three offices included."
+  },
+  "visual_review_complete": true
+}

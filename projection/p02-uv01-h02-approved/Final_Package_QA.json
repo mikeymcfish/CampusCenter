@@ -1,0 +1,321 @@
+{
+  "status": "PASS",
+  "revision": "H02",
+  "created_UTC": "2026-10-06T01:21:09.570685+00:00",
+  "source_baseline_files_verified_unchanged": 261,
+  "copy_files_verified_byte_identical_to_H01": 4,
+  "production_stop_masks_verified": 26,
+  "all_deliverable_PNGs_decoded_and_verified": 38,
+  "PNG_checks": [
+    {
+      "path": "Actual_UV_Chart_Boundary_Comparisons.png",
+      "dimensions": [
+        1800,
+        1080
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "Annotated_H02_13_Stop_Room_Map.png",
+      "dimensions": [
+        3150,
+        1920
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "assembly_1_100/Excluded_From_Highlights_Opaque_Receiver_Mask.png",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "mode": "1"
+    },
+    {
+      "path": "assembly_1_100/Highlight_Stop_IDs_uint8.png",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "mode": "L"
+    },
+    {
+      "path": "assembly_1_100/Selected_Receiver_Mask.png",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "mode": "1"
+    },
+    {
+      "path": "assembly_1_100/Stop_Atlas_Reference.png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "assembly_1_100/stop_masks/HS01_Receiver_Mask.png",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "mode": "1"
+    },
+    {
+      "path": "assembly_1_100/stop_masks/HS02_Receiver_Mask.png",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "mode": "1"
+    },
+    {
+      "path": "assembly_1_100/stop_masks/HS03_Receiver_Mask.png",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "mode": "1"
+    },
+    {
+      "path": "assembly_1_100/stop_masks/HS04_Receiver_Mask.png",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "mode": "1"
+    },
+    {
+      "path": "assembly_1_100/stop_masks/HS05_Receiver_Mask.png",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "mode": "1"
+    },
+    {
+      "path": "assembly_1_100/stop_masks/HS06_Receiver_Mask.png",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "mode": "1"
+    },
+    {
+      "path": "assembly_1_100/stop_masks/HS07_Receiver_Mask.png",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "mode": "1"
+    },
+    {
+      "path": "assembly_1_100/stop_masks/HS08_Receiver_Mask.png",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "mode": "1"
+    },
+    {
+      "path": "assembly_1_100/stop_masks/HS09_Receiver_Mask.png",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "mode": "1"
+    },
+    {
+      "path": "assembly_1_100/stop_masks/HS10_Receiver_Mask.png",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "mode": "1"
+    },
+    {
+      "path": "assembly_1_100/stop_masks/HS11_Receiver_Mask.png",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "mode": "1"
+    },
+    {
+      "path": "assembly_1_100/stop_masks/HS12_Receiver_Mask.png",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "mode": "1"
+    },
+    {
+      "path": "assembly_1_100/stop_masks/HS13_Receiver_Mask.png",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "mode": "1"
+    },
+    {
+      "path": "Boundary_And_Office_Difference_Diagnostic.png",
+      "dimensions": [
+        2048,
+        1697
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "sample_1_250/Excluded_From_Highlights_Opaque_Receiver_Mask.png",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "mode": "1"
+    },
+    {
+      "path": "sample_1_250/Highlight_Stop_IDs_uint8.png",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "mode": "L"
+    },
+    {
+      "path": "sample_1_250/Selected_Receiver_Mask.png",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "mode": "1"
+    },
+    {
+      "path": "sample_1_250/Stop_Atlas_Reference.png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "sample_1_250/stop_masks/HS01_Receiver_Mask.png",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "mode": "1"
+    },
+    {
+      "path": "sample_1_250/stop_masks/HS02_Receiver_Mask.png",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "mode": "1"
+    },
+    {
+      "path": "sample_1_250/stop_masks/HS03_Receiver_Mask.png",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "mode": "1"
+    },
+    {
+      "path": "sample_1_250/stop_masks/HS04_Receiver_Mask.png",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "mode": "1"
+    },
+    {
+      "path": "sample_1_250/stop_masks/HS05_Receiver_Mask.png",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "mode": "1"
+    },
+    {
+      "path": "sample_1_250/stop_masks/HS06_Receiver_Mask.png",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "mode": "1"
+    },
+    {
+      "path": "sample_1_250/stop_masks/HS07_Receiver_Mask.png",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "mode": "1"
+    },
+    {
+      "path": "sample_1_250/stop_masks/HS08_Receiver_Mask.png",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "mode": "1"
+    },
+    {
+      "path": "sample_1_250/stop_masks/HS09_Receiver_Mask.png",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "mode": "1"
+    },
+    {
+      "path": "sample_1_250/stop_masks/HS10_Receiver_Mask.png",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "mode": "1"
+    },
+    {
+      "path": "sample_1_250/stop_masks/HS11_Receiver_Mask.png",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "mode": "1"
+    },
+    {
+      "path": "sample_1_250/stop_masks/HS12_Receiver_Mask.png",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "mode": "1"
+    },
+    {
+      "path": "sample_1_250/stop_masks/HS13_Receiver_Mask.png",
+      "dimensions": [
+        8192,
+        8192
+      ],
+      "mode": "1"
+    },
+    {
+      "path": "Top_Visible_H02_Stop_IDs_uint8.png",
+      "dimensions": [
+        2048,
+        1572
+      ],
+      "mode": "L"
+    }
+  ],
+  "independent_geometry_boundary_QA": "Boundary_and_Office_Selection_QA.json",
+  "visual_reference_QA": "Visual_Reference_QA.json",
+  "all_13_stops_active_on_both_scales": true,
+  "zero_adjoining_corridor_110_130_hall_selection": true,
+  "geometry_UV_original_copy_changes": [],
+  "outstanding_scope_questions": []
+}

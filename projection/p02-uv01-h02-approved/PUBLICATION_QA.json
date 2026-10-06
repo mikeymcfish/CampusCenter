@@ -1,0 +1,49 @@
+{
+  "revision": "H02",
+  "approved_scope": {
+    "user_answer": "1. Yes, 2. Stay within",
+    "Athletics_Office_includes": [
+      "124",
+      "125",
+      "126"
+    ],
+    "Display_Hall": "106 only",
+    "Trophy_Hall": "123 only",
+    "adjoining_corridors_excluded": [
+      "110",
+      "130"
+    ]
+  },
+  "producer_QA_summary": {
+    "production_masks_8192_square": 26,
+    "decoded_verified_PNGs": 38,
+    "source_baseline_files_verified_unchanged": 261,
+    "original_and_usable_copy_files_byte_identical_to_H01": 4,
+    "whole_model_mesh_changes": 0,
+    "original_UV_changes": 0,
+    "stop_overlaps": 0,
+    "hall_selection_outside_documented_domains": 0,
+    "unsupported_selected_hall_texels": 0,
+    "adjoining_physical_corridor110_130_hall_selection": 0,
+    "independent_crossing_texel_corner_tests": 1179092,
+    "offices_exact_original_receiver_union_both_scales": true,
+    "other10_stop_selections_exactly_match_H01": true,
+    "all_unhighlighted_geometry_retained": true,
+    "archive_CRC_and_every_archived_file_SHA256_verified": true,
+    "visual_review_complete": true
+  },
+  "independent_baseline_hashes_verified_unchanged": 261,
+  "public_copy_files_identical_to_public_H01": 4,
+  "all_mask_and_map_bytes_unchanged": true,
+  "sanitized_metadata_files": [
+    "Approval_and_Changes.json",
+    "assembly_1_100/Stop_Selection_Manifest.json",
+    "Boundary_Ownership_Contract.json",
+    "copy/Copy_Change_Note.json",
+    "sample_1_250/Stop_Selection_Manifest.json",
+    "Source_Preservation_Hashes.json"
+  ],
+  "producer_package_sha256": "75e6e526c0be5167468a6c8eca04eecda14c900e6dcb262da47bb8316fb8b457",
+  "animations_cues_project_supplied": false,
+  "physical_calibration_tested": false
+}
