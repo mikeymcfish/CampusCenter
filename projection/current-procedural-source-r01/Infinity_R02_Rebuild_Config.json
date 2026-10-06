@@ -1,0 +1,633 @@
+{
+  "revision": "Current Infinity Rooms R02 test; user visual review pending",
+  "random_seed": null,
+  "randomness": "No PRNG; fixed region order and explicit golden-ratio phase offsets.",
+  "eye_model_mm": [
+    348.25,
+    -600,
+    850
+  ],
+  "target_model_mm": [
+    348.25,
+    252.875,
+    12
+  ],
+  "floor_ray_origin_Z_mm": 4.5,
+  "horizontal_FOV_degrees": 42,
+  "atlas_resolution": [
+    4096,
+    4096
+  ],
+  "mapped_resolution": [
+    1024,
+    768
+  ],
+  "fps": 20,
+  "duration_seconds": 24,
+  "frames": 480,
+  "grid_pitch_model_mm": 0.5,
+  "region_count": 37,
+  "animated_floor_texels": 1027056,
+  "regions": [
+    {
+      "region_id": 100,
+      "name": "ENTRY VESTIBULE",
+      "animated_area_mm2": 727.0,
+      "maximum_virtual_depth_mm": 26.448535919189453,
+      "layer_spacing_mm": 2.5,
+      "phase_radians": 0.0,
+      "colour_RGB": [
+        40,
+        225,
+        240
+      ]
+    },
+    {
+      "region_id": 101,
+      "name": "CAFE",
+      "animated_area_mm2": 492.75,
+      "maximum_virtual_depth_mm": 12.0,
+      "layer_spacing_mm": 2.5,
+      "phase_radians": 2.3999632297279927,
+      "colour_RGB": [
+        70,
+        176,
+        248
+      ]
+    },
+    {
+      "region_id": 102,
+      "name": "STUDENT COMMONS",
+      "animated_area_mm2": 10745.75,
+      "maximum_virtual_depth_mm": 43.204551696777344,
+      "layer_spacing_mm": 3.9276865178888496,
+      "phase_radians": 4.799926459455985,
+      "colour_RGB": [
+        115,
+        149,
+        240
+      ]
+    },
+    {
+      "region_id": 103,
+      "name": "RECEPTION",
+      "animated_area_mm2": 694.0,
+      "maximum_virtual_depth_mm": 33.99148941040039,
+      "layer_spacing_mm": 3.09013540094549,
+      "phase_radians": 0.9167043820043913,
+      "colour_RGB": [
+        45,
+        214,
+        203
+      ]
+    },
+    {
+      "region_id": 104,
+      "name": "ADMISSIONS OFFICE",
+      "animated_area_mm2": 491.5,
+      "maximum_virtual_depth_mm": 29.891414642333984,
+      "layer_spacing_mm": 2.7174013311212715,
+      "phase_radians": 3.316667611732384,
+      "colour_RGB": [
+        40,
+        225,
+        240
+      ]
+    },
+    {
+      "region_id": 105,
+      "name": "CRI GALLERY",
+      "animated_area_mm2": 6440.5,
+      "maximum_virtual_depth_mm": 66.1445541381836,
+      "layer_spacing_mm": 6.013141285289418,
+      "phase_radians": 5.716630841460377,
+      "colour_RGB": [
+        70,
+        176,
+        248
+      ]
+    },
+    {
+      "region_id": 106,
+      "name": "CORRIDOR / DISPLAY HALL",
+      "animated_area_mm2": 14088.0,
+      "maximum_virtual_depth_mm": 57.132259368896484,
+      "layer_spacing_mm": 5.1938417608087715,
+      "phase_radians": 1.8334087640087826,
+      "colour_RGB": [
+        115,
+        149,
+        240
+      ]
+    },
+    {
+      "region_id": 108,
+      "name": "INNOVATION LAB",
+      "animated_area_mm2": 3407.25,
+      "maximum_virtual_depth_mm": 38.4178466796875,
+      "layer_spacing_mm": 3.492531516335227,
+      "phase_radians": 4.233371993736777,
+      "colour_RGB": [
+        45,
+        214,
+        203
+      ]
+    },
+    {
+      "region_id": 109,
+      "name": "STORAGE / IT / MECH",
+      "animated_area_mm2": 265.75,
+      "maximum_virtual_depth_mm": 24.492403030395508,
+      "layer_spacing_mm": 2.5,
+      "phase_radians": 0.3501499162851824,
+      "colour_RGB": [
+        40,
+        225,
+        240
+      ]
+    },
+    {
+      "region_id": 110,
+      "name": "CORRIDOR",
+      "animated_area_mm2": 3106.75,
+      "maximum_virtual_depth_mm": 20.19021987915039,
+      "layer_spacing_mm": 2.5,
+      "phase_radians": 2.750113146013174,
+      "colour_RGB": [
+        70,
+        176,
+        248
+      ]
+    },
+    {
+      "region_id": 111,
+      "name": "OFFICE",
+      "animated_area_mm2": 388.75,
+      "maximum_virtual_depth_mm": 18.866289138793945,
+      "layer_spacing_mm": 2.5,
+      "phase_radians": 5.150076375741168,
+      "colour_RGB": [
+        115,
+        149,
+        240
+      ]
+    },
+    {
+      "region_id": 112,
+      "name": "ASPIRE CLASSROOM",
+      "animated_area_mm2": 1051.5,
+      "maximum_virtual_depth_mm": 43.556060791015625,
+      "layer_spacing_mm": 3.9596418900923296,
+      "phase_radians": 1.2668542982895765,
+      "colour_RGB": [
+        45,
+        214,
+        203
+      ]
+    },
+    {
+      "region_id": 113,
+      "name": "COLLABORATION ROOM",
+      "animated_area_mm2": 667.25,
+      "maximum_virtual_depth_mm": 19.814096450805664,
+      "layer_spacing_mm": 2.5,
+      "phase_radians": 3.666817528017565,
+      "colour_RGB": [
+        40,
+        225,
+        240
+      ]
+    },
+    {
+      "region_id": 114,
+      "name": "VESTIBULE",
+      "animated_area_mm2": 973.0,
+      "maximum_virtual_depth_mm": 24.666608810424805,
+      "layer_spacing_mm": 2.5,
+      "phase_radians": 6.066780757745559,
+      "colour_RGB": [
+        70,
+        176,
+        248
+      ]
+    },
+    {
+      "region_id": 115,
+      "name": "CORRIDOR",
+      "animated_area_mm2": 1741.25,
+      "maximum_virtual_depth_mm": 17.40166664123535,
+      "layer_spacing_mm": 2.5,
+      "phase_radians": 2.183558680293968,
+      "colour_RGB": [
+        115,
+        149,
+        240
+      ]
+    },
+    {
+      "region_id": 116,
+      "name": "WOMENS TOILET",
+      "animated_area_mm2": 888.0,
+      "maximum_virtual_depth_mm": 45.08940505981445,
+      "layer_spacing_mm": 4.099036823619496,
+      "phase_radians": 4.583521910021957,
+      "colour_RGB": [
+        45,
+        214,
+        203
+      ]
+    },
+    {
+      "region_id": 117,
+      "name": "MENS TOILET",
+      "animated_area_mm2": 1219.75,
+      "maximum_virtual_depth_mm": 37.069496154785156,
+      "layer_spacing_mm": 3.3699541958895596,
+      "phase_radians": 0.7002998325703648,
+      "colour_RGB": [
+        40,
+        225,
+        240
+      ]
+    },
+    {
+      "region_id": 118,
+      "name": "JANITOR",
+      "animated_area_mm2": 52.0,
+      "maximum_virtual_depth_mm": 12.0,
+      "layer_spacing_mm": 2.5,
+      "phase_radians": 3.100263062298359,
+      "colour_RGB": [
+        70,
+        176,
+        248
+      ]
+    },
+    {
+      "region_id": 119,
+      "name": "ATHLETICS STORAGE",
+      "animated_area_mm2": 796.75,
+      "maximum_virtual_depth_mm": 22.79534339904785,
+      "layer_spacing_mm": 2.5,
+      "phase_radians": 5.500226292026348,
+      "colour_RGB": [
+        115,
+        149,
+        240
+      ]
+    },
+    {
+      "region_id": 120,
+      "name": "MECH / ELECTRICAL",
+      "animated_area_mm2": 872.75,
+      "maximum_virtual_depth_mm": 24.89411163330078,
+      "layer_spacing_mm": 2.5,
+      "phase_radians": 1.617004214574756,
+      "colour_RGB": [
+        45,
+        214,
+        203
+      ]
+    },
+    {
+      "region_id": 121,
+      "name": "LOCKER ROOM",
+      "animated_area_mm2": 1656.0,
+      "maximum_virtual_depth_mm": 19.401569366455078,
+      "layer_spacing_mm": 2.5,
+      "phase_radians": 4.01696744430275,
+      "colour_RGB": [
+        40,
+        225,
+        240
+      ]
+    },
+    {
+      "region_id": 122,
+      "name": "LOCKER ROOM",
+      "animated_area_mm2": 1906.75,
+      "maximum_virtual_depth_mm": 17.371658325195312,
+      "layer_spacing_mm": 2.5,
+      "phase_radians": 0.1337453668511586,
+      "colour_RGB": [
+        70,
+        176,
+        248
+      ]
+    },
+    {
+      "region_id": 123,
+      "name": "TROPHY HALL / CORRIDOR",
+      "animated_area_mm2": 4089.0,
+      "maximum_virtual_depth_mm": 107.41901397705078,
+      "layer_spacing_mm": 9.765364907004617,
+      "phase_radians": 2.533708596579153,
+      "colour_RGB": [
+        115,
+        149,
+        240
+      ]
+    },
+    {
+      "region_id": 124,
+      "name": "ATHLETICS OFFICE",
+      "animated_area_mm2": 56.0,
+      "maximum_virtual_depth_mm": 12.0,
+      "layer_spacing_mm": 2.5,
+      "phase_radians": 4.933671826307136,
+      "colour_RGB": [
+        45,
+        214,
+        203
+      ]
+    },
+    {
+      "region_id": 125,
+      "name": "ATHLETICS OFFICE",
+      "animated_area_mm2": 604.25,
+      "maximum_virtual_depth_mm": 17.645587921142578,
+      "layer_spacing_mm": 2.5,
+      "phase_radians": 1.0504497488555444,
+      "colour_RGB": [
+        40,
+        225,
+        240
+      ]
+    },
+    {
+      "region_id": 126,
+      "name": "ATHLETICS OFFICE",
+      "animated_area_mm2": 117.5,
+      "maximum_virtual_depth_mm": 12.0,
+      "layer_spacing_mm": 2.5,
+      "phase_radians": 3.4504129785835387,
+      "colour_RGB": [
+        70,
+        176,
+        248
+      ]
+    },
+    {
+      "region_id": 127,
+      "name": "TRAINERS OFFICE",
+      "animated_area_mm2": 178.75,
+      "maximum_virtual_depth_mm": 12.0,
+      "layer_spacing_mm": 2.5,
+      "phase_radians": 5.850376208311533,
+      "colour_RGB": [
+        115,
+        149,
+        240
+      ]
+    },
+    {
+      "region_id": 128,
+      "name": "TRAINERS STORAGE",
+      "animated_area_mm2": 49.5,
+      "maximum_virtual_depth_mm": 12.0,
+      "layer_spacing_mm": 2.5,
+      "phase_radians": 1.9671541308599412,
+      "colour_RGB": [
+        45,
+        214,
+        203
+      ]
+    },
+    {
+      "region_id": 129,
+      "name": "ATHLETICS TRAINERS",
+      "animated_area_mm2": 1365.75,
+      "maximum_virtual_depth_mm": 26.949079513549805,
+      "layer_spacing_mm": 2.5,
+      "phase_radians": 4.367117360587936,
+      "colour_RGB": [
+        40,
+        225,
+        240
+      ]
+    },
+    {
+      "region_id": 130,
+      "name": "CORRIDOR",
+      "animated_area_mm2": 3280.75,
+      "maximum_virtual_depth_mm": 21.534181594848633,
+      "layer_spacing_mm": 2.5,
+      "phase_radians": 0.4838952831363326,
+      "colour_RGB": [
+        70,
+        176,
+        248
+      ]
+    },
+    {
+      "region_id": 999,
+      "name": "GYM",
+      "animated_area_mm2": 71775.25,
+      "maximum_virtual_depth_mm": 180.0,
+      "layer_spacing_mm": 16.363636363636363,
+      "phase_radians": 2.883858512864327,
+      "colour_RGB": [
+        115,
+        149,
+        240
+      ]
+    },
+    {
+      "region_id": 1002,
+      "name": "Unlabelled physical area",
+      "animated_area_mm2": 5201.25,
+      "maximum_virtual_depth_mm": 72.0969009399414,
+      "layer_spacing_mm": 6.554263721812855,
+      "phase_radians": 5.2838217425923215,
+      "colour_RGB": [
+        45,
+        214,
+        203
+      ]
+    },
+    {
+      "region_id": 1008,
+      "name": "Unlabelled physical area",
+      "animated_area_mm2": 2272.75,
+      "maximum_virtual_depth_mm": 68.69896697998047,
+      "layer_spacing_mm": 6.245360634543679,
+      "phase_radians": 1.4005996651407295,
+      "colour_RGB": [
+        40,
+        225,
+        240
+      ]
+    },
+    {
+      "region_id": 1010,
+      "name": "Unlabelled physical area",
+      "animated_area_mm2": 943.75,
+      "maximum_virtual_depth_mm": 25.222640991210938,
+      "layer_spacing_mm": 2.5,
+      "phase_radians": 3.800562894868724,
+      "colour_RGB": [
+        70,
+        176,
+        248
+      ]
+    },
+    {
+      "region_id": 1011,
+      "name": "Unlabelled physical area",
+      "animated_area_mm2": 900.0,
+      "maximum_virtual_depth_mm": 34.09683609008789,
+      "layer_spacing_mm": 3.099712371826172,
+      "phase_radians": 6.200526124596718,
+      "colour_RGB": [
+        115,
+        149,
+        240
+      ]
+    },
+    {
+      "region_id": 1019,
+      "name": "Unlabelled physical area",
+      "animated_area_mm2": 410.75,
+      "maximum_virtual_depth_mm": 32.04502487182617,
+      "layer_spacing_mm": 2.913184079256925,
+      "phase_radians": 2.3173040471451265,
+      "colour_RGB": [
+        45,
+        214,
+        203
+      ]
+    },
+    {
+      "region_id": 1039,
+      "name": "Unlabelled physical area",
+      "animated_area_mm2": 14.25,
+      "maximum_virtual_depth_mm": 12.0,
+      "layer_spacing_mm": 2.5,
+      "phase_radians": 4.71726727687311,
+      "colour_RGB": [
+        40,
+        225,
+        240
+      ]
+    }
+  ],
+  "complete_obstacle_projection": "All receiver opaque/glazing triangles above5mm, full overhangs, plus actual UV02 fireplace footprint.",
+  "full_obstacle_inflation_model_mm": 1,
+  "stationary_ownership_lip": "One .5mm neighbour ring plus conservative footprint inflation; small apertures under8mm2 excluded.",
+  "first_exit_ray_algorithm": "Exact 2D cell-by-cell DDA through each room aperture; no skipped obstacle cell.",
+  "maximum_virtual_depth_rule": "Clip92nd-percentile local first-exit depth to12..180modelmm",
+  "layer_spacing_rule": "max(2.5,maximum_virtual_depth/11)",
+  "phase_rule": "((region_order_index*0.38196601125)%1)*2*pi",
+  "depth_rule": "1.25*spacing+(max_depth-1.25*spacing)*(0.5-0.5*cos(2*pi*time/24+phase))",
+  "lighting": {
+    "region_palette_RGB": [
+      [
+        40,
+        225,
+        240
+      ],
+      [
+        70,
+        176,
+        248
+      ],
+      [
+        115,
+        149,
+        240
+      ],
+      [
+        45,
+        214,
+        203
+      ]
+    ],
+    "layer_shift_spacing_fraction": 0.16,
+    "layer_depth_band_width_mm": "max(.65,spacing*.075)",
+    "wall_strength": ".08+.68*band",
+    "wall_depth_fade": "exp(-first_exit_depth/(max_depth*1.1))",
+    "wall_axis_factors": [
+      0.66,
+      1
+    ],
+    "rim_width_mm": 0.85,
+    "rim_strength": 0.7,
+    "channel_clip_max": 248,
+    "physical_raised_top_RGB": [
+      50,
+      126,
+      150
+    ],
+    "physical_raised_side_RGB": [
+      20,
+      49,
+      67
+    ],
+    "stationary_floor_support_RGB": [
+      7,
+      17,
+      24
+    ],
+    "static_fireplace_RGB": [
+      36,
+      95,
+      115
+    ],
+    "fireplace_source": "Existing neutral UV02 source patch used only as immutable shade factors; generated test colour is cool static cyan.",
+    "background_RGB": [
+      0,
+      0,
+      0
+    ],
+    "no_noise_flash_bloom_or_global_grid": true
+  },
+  "physical_geometry_and_all_fixture_pixels_static": true,
+  "world_axes_scale": "Frozen UV02 numeric1:100 modelmm,+Zup,+Ynorth,shared original origin",
+  "expected_keyframe_pixel_hashes": [
+    {
+      "frame": 0,
+      "atlas_RGB_pixel_sha256": "aa61178b64fabf4118eeea97d74e5fd5f4a88f00b7cb6df27c7cf28c279db1c0",
+      "mapped_RGB_pixel_sha256": "9e148ac8f6dd4225fc432816014bb6bcca3944ae95e341e3fef301d551886e02",
+      "pixel_encoding": "Row-major RGB uint8; atlas4096x4096, mapped1024x768"
+    },
+    {
+      "frame": 120,
+      "atlas_RGB_pixel_sha256": "ca5d5d71ba8f784b229620fd36da0408d56e10d96bff2f470b4ac6d077436834",
+      "mapped_RGB_pixel_sha256": "5ae11027343682251fe02a662f7d3834a640866ba35b6e9219b9f288ef07371b",
+      "pixel_encoding": "Row-major RGB uint8; atlas4096x4096, mapped1024x768"
+    },
+    {
+      "frame": 240,
+      "atlas_RGB_pixel_sha256": "03ff28fb7929fd323d542b68f741a831b6f8c426029367a6e103c9ce69bd8df2",
+      "mapped_RGB_pixel_sha256": "c48b9a1e8befd7abafbdc9442b187b78b888b1eedefa604e87e35261f52dc533",
+      "pixel_encoding": "Row-major RGB uint8; atlas4096x4096, mapped1024x768"
+    },
+    {
+      "frame": 360,
+      "atlas_RGB_pixel_sha256": "f38811c27a5c699c7b711cfe553291a4d4716db0d847d1f4524d750024858bc5",
+      "mapped_RGB_pixel_sha256": "e0d97004a8d6a763479b6d8ef6cda9530d2366c87488bf1f8a3c54a0e2ab530c",
+      "pixel_encoding": "Row-major RGB uint8; atlas4096x4096, mapped1024x768"
+    },
+    {
+      "frame": 479,
+      "atlas_RGB_pixel_sha256": "410e57f6633fdf0b2727a9730ea5de52026402691d8a0c94066e8bbbebc72e7c",
+      "mapped_RGB_pixel_sha256": "72eb96939e19b99c3ba7a8ca0e6125a973fcfb243afdfe07840c88aaca51a095",
+      "pixel_encoding": "Row-major RGB uint8; atlas4096x4096, mapped1024x768"
+    }
+  ],
+  "encoded_files_original": {
+    "lossless_atlas_MOV": {
+      "file": "Infinity_Rooms_R02_WholeModel_UV02_24s_ATLAS_4096_Lossless_PNG.mov",
+      "bytes": 236646404,
+      "sha256": "bb43f36cc6b2a2526ff5eb7bdbf75188da075abe30e57e89b1df2ae03ca11abe"
+    },
+    "mapped_viewing_MP4": {
+      "file": "Infinity_Rooms_R02_WholeModel_UV02_24s_Fixed_Front_Mapped_1024_Viewing.mp4",
+      "bytes": 686269,
+      "sha256": "fed0f3f0ab7aac94d037f835bc5c7cc692c0e6117a092ee19f65446877f04a83"
+    }
+  },
+  "Blender_factory_preview_seed": 0,
+  "Blender_use_animated_seed": false,
+  "Blender_samples": 4
+}

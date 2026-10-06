@@ -1,0 +1,67 @@
+{
+  "current_effects": [
+    "Ripple R04: accepted 44-second black thin staggered connected-wave transfer",
+    "Infinity Rooms R02: current 24-second test, visual review pending"
+  ],
+  "actual_generation_scripts": {
+    "ripple": [
+      "ripple_r02_domains.py",
+      "ripple_whole_fixture_volume_audit.py",
+      "ripple_r04_staggered_solver.py",
+      "ripple_r04_thin_ridge_transfer.py",
+      "ripple_r04_parallel_preview.py",
+      "ripple_r04_lossless_atlas_movie.py",
+      "ripple_r04_exact_black_mapped_reference.py"
+    ],
+    "infinity": [
+      "production_navigation.py",
+      "infinity_rooms_preflight.py",
+      "infinity_rooms_common.py",
+      "infinity_rooms_preview.py",
+      "infinity_rooms_native_preview.py",
+      "infinity_rooms_media_qa.py"
+    ]
+  },
+  "entrypoint": "run_rebuild.py --workdir <new-empty-directory> --download --revision all",
+  "random_seed": null,
+  "randomness": "Neither effect calls a PRNG; source schedules and region phases are explicit deterministic records.",
+  "configurations": [
+    "R04_Rebuild_Config.json",
+    "Infinity_R02_Rebuild_Config.json",
+    "Environment_Requirements.json"
+  ],
+  "input_identifiers_and_hashes": [
+    "Native_Geometry_Input_SHA256.json",
+    "Locked_Domain_Input_SHA256.json",
+    "Infinity_Compact_Input_SHA256.json",
+    "External_Receiver_Input_Manifest.json",
+    "Bundle_File_SHA256.json"
+  ],
+  "source_provenance": "Production_Script_Provenance.json; original and portable SHA256, disclosed path/QA-only edits",
+  "native_input_count": 1284,
+  "locked_connected_domains": 56,
+  "current_ripple_events": 77,
+  "current_infinity_regions": 37,
+  "coordinate_preservation": "Frozen numeric 1:100 receiver model mm, original world origin, +Z up, +Y north; native actor transform retained in code.",
+  "rebuild_modes": {
+    "default": "Locked exact native domains and Infinity aperture inputs; fresh published receiver caches and generation code",
+    "optional_geometry_rederivation": "Native actor domain extraction and Infinity navigation/aperture construction; regenerated arrays must match references"
+  },
+  "not_generation_entrypoints": [
+    "infinity_rooms_finalize.py: original-delivery packaging provenance; requires original workspace baselines",
+    "ripple_r04_thin_ridge_transfer.py standalone main: historical 64-second branch; current 44-second render uses ripple_r04_parallel_preview.py"
+  ],
+  "excluded_large_intermediates": [
+    "Height-state sequences",
+    "Rendered frame sequences",
+    "Derived UV/top/front raster caches",
+    "Movies"
+  ],
+  "limitations": [
+    "Original distribution version labels for retained trimesh/manifold3d are unavailable; fingerprints and regenerated-array guards supplied",
+    "No clean-machine dependency installation or full movie encoding rerun for this backup",
+    "Encoded movie byte hashes may vary with encoder and library versions; decoded keyframe pixel hashes supplied",
+    "Infinity fixed-front viewer assumption is unchanged; user visual review pending; no projector calibration or physical playback claim",
+    "No fresh R29 semantic perimeter audit; frozen receiver and prior accepted geometry references remain authoritative for these effects"
+  ]
+}

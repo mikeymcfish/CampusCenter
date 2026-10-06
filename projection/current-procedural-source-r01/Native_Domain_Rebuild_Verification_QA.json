@@ -1,0 +1,362 @@
+{
+  "status": "PASS: fresh domain extraction from included native geometry matches accepted full-model domains exactly",
+  "native_geometry_cache_inputs": 1284,
+  "connected_components": 56,
+  "all56_domain_arrays_exact": true,
+  "all_whole_grid_arrays_exact": true,
+  "grid_arrays": [
+    "footprint",
+    "architecture",
+    "furniture_legs",
+    "tabletop_projection",
+    "room_reference_owner",
+    "origin",
+    "pitch"
+  ],
+  "physical_floor_cells": 956916,
+  "free_water_cells": 841630,
+  "meaningful_cells": 841555,
+  "tiny_unexcited_cells": 75,
+  "false_fixture_interior_cells_removed": 55852,
+  "derivation": "Preservedripple_r02_domains.py --whole-model followed by preservedripple_whole_fixture_volume_audit.py --connected, in an independent empty workspace; source meshes, scale/origin and geometry unchanged.",
+  "domain_checks": [
+    {
+      "component": "Connected_B001_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "2c1c89af79634d6ee3931c5596cc08a78f3f23539f882ee04f4dde0ce2613f07",
+      "locked_NPZ_sha256": "2c1c89af79634d6ee3931c5596cc08a78f3f23539f882ee04f4dde0ce2613f07"
+    },
+    {
+      "component": "Connected_B002_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "e53b97c03a4f7ec8a68317972c1b07e574ea9756555af0dddbe7710e7743bc50",
+      "locked_NPZ_sha256": "e53b97c03a4f7ec8a68317972c1b07e574ea9756555af0dddbe7710e7743bc50"
+    },
+    {
+      "component": "Connected_B003_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "85962a9b26a710bf947c09f9debc762918231ea25c61ce8f600871a901dd0fa0",
+      "locked_NPZ_sha256": "85962a9b26a710bf947c09f9debc762918231ea25c61ce8f600871a901dd0fa0"
+    },
+    {
+      "component": "Connected_B004_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "f08d50c6b1770237355d568044727137a102684f7a3a269690cf6de29a5fe16b",
+      "locked_NPZ_sha256": "f08d50c6b1770237355d568044727137a102684f7a3a269690cf6de29a5fe16b"
+    },
+    {
+      "component": "Connected_B005_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "0c82ecc3b6ef8e4b23c00636e624137898f9f2f2a95c4a4cf5ce0b08c16584f7",
+      "locked_NPZ_sha256": "0c82ecc3b6ef8e4b23c00636e624137898f9f2f2a95c4a4cf5ce0b08c16584f7"
+    },
+    {
+      "component": "Connected_B006_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "96d392fb2e7df379e96a39d0c903a5e921a24f3ea9913c02bbe581dfe6c670bb",
+      "locked_NPZ_sha256": "96d392fb2e7df379e96a39d0c903a5e921a24f3ea9913c02bbe581dfe6c670bb"
+    },
+    {
+      "component": "Connected_B007_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "3c8f82604803a6de4958172c39afabbbbf7e34f645539557c5dd745392517ae8",
+      "locked_NPZ_sha256": "3c8f82604803a6de4958172c39afabbbbf7e34f645539557c5dd745392517ae8"
+    },
+    {
+      "component": "Connected_B008_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "01c82a348f819ebf5bbcaac9c714bbecbeb3c6f5c54d19cda9178b5e83dd6a71",
+      "locked_NPZ_sha256": "01c82a348f819ebf5bbcaac9c714bbecbeb3c6f5c54d19cda9178b5e83dd6a71"
+    },
+    {
+      "component": "Connected_B009_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "fada32c10093a7bd2fecbd8f58429f5ce9a8207ef0197c7993eff6c3853b15f5",
+      "locked_NPZ_sha256": "fada32c10093a7bd2fecbd8f58429f5ce9a8207ef0197c7993eff6c3853b15f5"
+    },
+    {
+      "component": "Connected_B010_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "277d0da4f55b3cdc4246444b58dd44d8b8d63a2b5e9aa92d5852d033d2740c14",
+      "locked_NPZ_sha256": "277d0da4f55b3cdc4246444b58dd44d8b8d63a2b5e9aa92d5852d033d2740c14"
+    },
+    {
+      "component": "Connected_B011_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "dcebabaef2bc7ee624aa5ba2f6b70b7863cdd081b6a972c208b725260036e070",
+      "locked_NPZ_sha256": "dcebabaef2bc7ee624aa5ba2f6b70b7863cdd081b6a972c208b725260036e070"
+    },
+    {
+      "component": "Connected_B012_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "b8000032a5c97c0d43b60260149f589eca2adabd3eccdbeaae1ce71194e2ded3",
+      "locked_NPZ_sha256": "b8000032a5c97c0d43b60260149f589eca2adabd3eccdbeaae1ce71194e2ded3"
+    },
+    {
+      "component": "Connected_B013_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "4ac05439ecf6d1082381c09c8a6852655ba8bd39fd38036ae1915c39e756e4fd",
+      "locked_NPZ_sha256": "4ac05439ecf6d1082381c09c8a6852655ba8bd39fd38036ae1915c39e756e4fd"
+    },
+    {
+      "component": "Connected_B014_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "0eee806815b1bb977def2899e33dd759a481867d5acc6bbcedd4341975089368",
+      "locked_NPZ_sha256": "0eee806815b1bb977def2899e33dd759a481867d5acc6bbcedd4341975089368"
+    },
+    {
+      "component": "Connected_B015_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "2377b12f93c607f4dc9ff40bc132120cdc9a3286fe1eafc8b6a848b3253df0ae",
+      "locked_NPZ_sha256": "2377b12f93c607f4dc9ff40bc132120cdc9a3286fe1eafc8b6a848b3253df0ae"
+    },
+    {
+      "component": "Connected_B016_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "238db073378668311fcfd0cd705fd562ed0b8e42a77881d08ebf0cd0cce06f14",
+      "locked_NPZ_sha256": "238db073378668311fcfd0cd705fd562ed0b8e42a77881d08ebf0cd0cce06f14"
+    },
+    {
+      "component": "Connected_B017_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "28114b26f6cafe760778e1eeb1cb5d98c307e2d9adcba6353b83d2f74a9564c1",
+      "locked_NPZ_sha256": "28114b26f6cafe760778e1eeb1cb5d98c307e2d9adcba6353b83d2f74a9564c1"
+    },
+    {
+      "component": "Connected_B018_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "494442972fd100d2a1b8758e3100c1775c9f12b631adbd6ae9940c0b87d48270",
+      "locked_NPZ_sha256": "494442972fd100d2a1b8758e3100c1775c9f12b631adbd6ae9940c0b87d48270"
+    },
+    {
+      "component": "Connected_B019_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "9768bbc7c02c5132a5a0f3d6412164a8e05bc4636fd87e3ecda3c1e540481b6e",
+      "locked_NPZ_sha256": "9768bbc7c02c5132a5a0f3d6412164a8e05bc4636fd87e3ecda3c1e540481b6e"
+    },
+    {
+      "component": "Connected_B020_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "fae9850b098fda937334764f2addaed4726d79f2c2c1eb35d19d0b422dc1ccca",
+      "locked_NPZ_sha256": "fae9850b098fda937334764f2addaed4726d79f2c2c1eb35d19d0b422dc1ccca"
+    },
+    {
+      "component": "Connected_B021_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "19c29e25089378c3b890b1e5237cf7b744521ba2573957174739ccc1b6bf3bb3",
+      "locked_NPZ_sha256": "19c29e25089378c3b890b1e5237cf7b744521ba2573957174739ccc1b6bf3bb3"
+    },
+    {
+      "component": "Connected_B022_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "6defe3e7724dceefd0b4e5dd738d7f75fbda7950723d740da3316e3a09938940",
+      "locked_NPZ_sha256": "6defe3e7724dceefd0b4e5dd738d7f75fbda7950723d740da3316e3a09938940"
+    },
+    {
+      "component": "Connected_B023_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "c8535501b145ebf4667037dd014d51ca76c0f1c7b1519cb1464cd381d5d5e636",
+      "locked_NPZ_sha256": "c8535501b145ebf4667037dd014d51ca76c0f1c7b1519cb1464cd381d5d5e636"
+    },
+    {
+      "component": "Connected_B024_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "39bb731c7e7fa0f92d2d570c09bdb2810a30f6b4f1a7708c4ccac5ee863ed9d0",
+      "locked_NPZ_sha256": "39bb731c7e7fa0f92d2d570c09bdb2810a30f6b4f1a7708c4ccac5ee863ed9d0"
+    },
+    {
+      "component": "Connected_B025_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "651662288e4e5e90a34fc5c6bb425fe2066bb72adcff48ef92c5282a6257b48e",
+      "locked_NPZ_sha256": "651662288e4e5e90a34fc5c6bb425fe2066bb72adcff48ef92c5282a6257b48e"
+    },
+    {
+      "component": "Connected_B026_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "b5186101d6b06836da3f35f1b2ea0cc29a07a109f0616369ccc771a227fe2c67",
+      "locked_NPZ_sha256": "b5186101d6b06836da3f35f1b2ea0cc29a07a109f0616369ccc771a227fe2c67"
+    },
+    {
+      "component": "Connected_B027_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "ba1e05754f2a362c9dfb2eb725dda86050c41a11b93414fd9338b5ee5dd25f80",
+      "locked_NPZ_sha256": "ba1e05754f2a362c9dfb2eb725dda86050c41a11b93414fd9338b5ee5dd25f80"
+    },
+    {
+      "component": "Connected_B028_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "182155c66f4428d4365193b0f9837ba534318efaedc6a558b004df4c90e8107b",
+      "locked_NPZ_sha256": "182155c66f4428d4365193b0f9837ba534318efaedc6a558b004df4c90e8107b"
+    },
+    {
+      "component": "Connected_B029_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "55fcb6801200715d97f3d04641609d7fad61beb2f63624146e2acffec1da3e9f",
+      "locked_NPZ_sha256": "55fcb6801200715d97f3d04641609d7fad61beb2f63624146e2acffec1da3e9f"
+    },
+    {
+      "component": "Connected_B030_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "5dcce738793014b3b0c8fc2e72d493d40566a39d38af8cba10ec763c3753807d",
+      "locked_NPZ_sha256": "5dcce738793014b3b0c8fc2e72d493d40566a39d38af8cba10ec763c3753807d"
+    },
+    {
+      "component": "Connected_B031_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "8497b31974e29cc3f5060f1da5915c528b7d4319f871635e6f86623fb338e602",
+      "locked_NPZ_sha256": "8497b31974e29cc3f5060f1da5915c528b7d4319f871635e6f86623fb338e602"
+    },
+    {
+      "component": "Connected_B032_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "0db9e1f88a28ae3787d5c923fd6726875161da71e52818d05e6e26930d4aac8e",
+      "locked_NPZ_sha256": "0db9e1f88a28ae3787d5c923fd6726875161da71e52818d05e6e26930d4aac8e"
+    },
+    {
+      "component": "Connected_B033_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "d47971af45479e6af151d3060d79a6202d315b1b87622c3c78177c46becfa601",
+      "locked_NPZ_sha256": "d47971af45479e6af151d3060d79a6202d315b1b87622c3c78177c46becfa601"
+    },
+    {
+      "component": "Connected_B034_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "9dfa2f9eaee0193ff1d78d021352e41ff50caaa230a856eb946f339f52658fb0",
+      "locked_NPZ_sha256": "9dfa2f9eaee0193ff1d78d021352e41ff50caaa230a856eb946f339f52658fb0"
+    },
+    {
+      "component": "Connected_B035_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "af8307751cadb555d6d17b2debb198479ba9bd17cd76eab9efed45c756ac3f0b",
+      "locked_NPZ_sha256": "af8307751cadb555d6d17b2debb198479ba9bd17cd76eab9efed45c756ac3f0b"
+    },
+    {
+      "component": "Connected_B036_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "758f7e680d6fe28beba4e0fb248bd989b166e9fb337c63c91a9afe09cfcc773d",
+      "locked_NPZ_sha256": "758f7e680d6fe28beba4e0fb248bd989b166e9fb337c63c91a9afe09cfcc773d"
+    },
+    {
+      "component": "Connected_B037_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "fa084a821068080004383f5f2ea61d5ffcfa53bdb2007793d270bd3cc003ad9b",
+      "locked_NPZ_sha256": "fa084a821068080004383f5f2ea61d5ffcfa53bdb2007793d270bd3cc003ad9b"
+    },
+    {
+      "component": "Connected_B038_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "1cadcc0331f96b36afa258996ce847c1e33ab06f4469b3d00e876c36153212d7",
+      "locked_NPZ_sha256": "1cadcc0331f96b36afa258996ce847c1e33ab06f4469b3d00e876c36153212d7"
+    },
+    {
+      "component": "Connected_B039_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "20f3eaec7186e13867977cb9095404952e7dd1248441370c4dfdaca80959d494",
+      "locked_NPZ_sha256": "20f3eaec7186e13867977cb9095404952e7dd1248441370c4dfdaca80959d494"
+    },
+    {
+      "component": "Connected_B040_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "6f97bfaf747817a8974933af12215f4f8b1121bb625bee5ffad6970e43ad5035",
+      "locked_NPZ_sha256": "6f97bfaf747817a8974933af12215f4f8b1121bb625bee5ffad6970e43ad5035"
+    },
+    {
+      "component": "Connected_B041_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "53dc6beda2ac0eddaefe9b39360e3db78484488b04a1db76033bba7f5b9a002e",
+      "locked_NPZ_sha256": "53dc6beda2ac0eddaefe9b39360e3db78484488b04a1db76033bba7f5b9a002e"
+    },
+    {
+      "component": "Connected_B042_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "b68fff33e1f66f768a2eba47ea6cafed2a2577c7358365fb5a416ecbb2f59340",
+      "locked_NPZ_sha256": "b68fff33e1f66f768a2eba47ea6cafed2a2577c7358365fb5a416ecbb2f59340"
+    },
+    {
+      "component": "Connected_B043_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "7f447b2026762469d67d3714a5d903fd5470b382aeecfa664469abafb624cda6",
+      "locked_NPZ_sha256": "7f447b2026762469d67d3714a5d903fd5470b382aeecfa664469abafb624cda6"
+    },
+    {
+      "component": "Connected_B044_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "345086c759da3d218a97eed8726de9c975787cc50faee43b94b33e7379d3cba6",
+      "locked_NPZ_sha256": "345086c759da3d218a97eed8726de9c975787cc50faee43b94b33e7379d3cba6"
+    },
+    {
+      "component": "Connected_B045_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "74488bc2dd8030a4224575130f150ca346662f3bbd77fadcb8abd49cc1045e69",
+      "locked_NPZ_sha256": "74488bc2dd8030a4224575130f150ca346662f3bbd77fadcb8abd49cc1045e69"
+    },
+    {
+      "component": "Connected_B046_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "49a3d4bbe6aaec14fc8fd141da794157db27704ac967e7cc4c2f17ee4e657acd",
+      "locked_NPZ_sha256": "49a3d4bbe6aaec14fc8fd141da794157db27704ac967e7cc4c2f17ee4e657acd"
+    },
+    {
+      "component": "Connected_B047_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "79c5a27a5f4bd2617ca9b2c01baef61c745233afb589b6bd5fba700f2742055b",
+      "locked_NPZ_sha256": "79c5a27a5f4bd2617ca9b2c01baef61c745233afb589b6bd5fba700f2742055b"
+    },
+    {
+      "component": "Connected_B048_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "70e7387560a750cf5d9065cefcd996a558678790a4bddd07f8eaa3232cf34c88",
+      "locked_NPZ_sha256": "70e7387560a750cf5d9065cefcd996a558678790a4bddd07f8eaa3232cf34c88"
+    },
+    {
+      "component": "Connected_B049_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "344e8376e98b8ce3f5f3c14d7c5245c6cf51de901a4be48477a66593202d9a2a",
+      "locked_NPZ_sha256": "344e8376e98b8ce3f5f3c14d7c5245c6cf51de901a4be48477a66593202d9a2a"
+    },
+    {
+      "component": "Connected_B050_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "b4c379f7b2f78bd3891b9def3e28c8b2dfe155c3d0563664c5645d36bfee0cce",
+      "locked_NPZ_sha256": "b4c379f7b2f78bd3891b9def3e28c8b2dfe155c3d0563664c5645d36bfee0cce"
+    },
+    {
+      "component": "Connected_B051_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "4e0230e8b31d25a5281d4492eb818c4e16131cb5bf6283de109161b0238565c1",
+      "locked_NPZ_sha256": "4e0230e8b31d25a5281d4492eb818c4e16131cb5bf6283de109161b0238565c1"
+    },
+    {
+      "component": "Connected_B052_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "8c0ce754f210d1233b9f16e9d4054b496e7071213d8fef0715da75cc12330376",
+      "locked_NPZ_sha256": "8c0ce754f210d1233b9f16e9d4054b496e7071213d8fef0715da75cc12330376"
+    },
+    {
+      "component": "Connected_B053_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "bb5d9f88eb5b242c9bea8ab867f405d37159b533d155674420fd2e5df10d900d",
+      "locked_NPZ_sha256": "bb5d9f88eb5b242c9bea8ab867f405d37159b533d155674420fd2e5df10d900d"
+    },
+    {
+      "component": "Connected_B054_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "63deed8ce1ed7626218d34c02a5b1f55a70a1b33495e77f5cf87d6837644ec21",
+      "locked_NPZ_sha256": "63deed8ce1ed7626218d34c02a5b1f55a70a1b33495e77f5cf87d6837644ec21"
+    },
+    {
+      "component": "Connected_B055_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "e34217b266945dd892191f85aa83305684f7cb12e1437554202897b2129824a9",
+      "locked_NPZ_sha256": "e34217b266945dd892191f85aa83305684f7cb12e1437554202897b2129824a9"
+    },
+    {
+      "component": "Connected_B056_Simulation_Domain",
+      "all_arrays_dtype_shape_and_values_identical": true,
+      "regenerated_NPZ_sha256": "387140813fecca5e493fc5925370bd3151b1fa24dd937bd9aaed7753b0638800",
+      "locked_NPZ_sha256": "387140813fecca5e493fc5925370bd3151b1fa24dd937bd9aaed7753b0638800"
+    }
+  ],
+  "full_simulation_or_frame_cache_used_to_regenerate_domains": false,
+  "dependency_version_metadata_limitation": "Original vendored trimesh/manifold3d distribution version labels unavailable; exact source/module fingerprints recorded in Environment_Requirements.json. Numeric outputs are protected by these exact-array assertions."
+}

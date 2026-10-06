@@ -1,0 +1,161 @@
+{
+  "scripts": [
+    {
+      "script": "uvprep_common.py",
+      "production_sha256": "eb6b7ddbd60ffba2b088ce2ac612b672eef721d5e0e9bba29bc0866545572059",
+      "bundle_sha256": "9b98c36e3afa956a4e74f9ebff6a2641e653f64cc593198a0b057f7b21c00d07",
+      "changes": "Byte content unchanged except newline/UTF8 normalization"
+    },
+    {
+      "script": "production_common.py",
+      "production_sha256": "9173a6c8591060bb95558d258cbef57d6d9f1c289df13a4613d5ff7292ed4792",
+      "bundle_sha256": "eeaa9237b3c38d8db2245b6a5c3fe34269953c3951175420de582ef92a26824e",
+      "changes": "Byte content unchanged except newline/UTF8 normalization"
+    },
+    {
+      "script": "production_navigation.py",
+      "production_sha256": "ab321f0942ad8cd3b9be28bde505b33992875a15ba6c8d8e9247e5740b13f313",
+      "bundle_sha256": "29b6aa6b49c46f1042ba3d7bfe8a67a4ad0b567d7084cae5221d0b31291e6a28",
+      "changes": "Byte content unchanged except newline/UTF8 normalization"
+    },
+    {
+      "script": "geometry_utils.py",
+      "production_sha256": "75b6e58d313127ce817f6123830f0b8d52b56d0b1374764d3a976fb06896a848",
+      "bundle_sha256": "0770234cbaaa537b5b34c2b5bacaccbfd902e33e5e3c7c0ae2571d559e7bce5e",
+      "changes": "Byte content unchanged except newline/UTF8 normalization"
+    },
+    {
+      "script": "hybrid_projection_cache.py",
+      "production_sha256": "1c11a79bf988e0974e0d458bfe0c4e11a64b625d2c0ed0088f075fe022ba14df",
+      "bundle_sha256": "48b2c2b60d148fbf2b1ac5c7be540aef4484557a467ea78f3d725318220fd747",
+      "changes": "Byte content unchanged except newline/UTF8 normalization"
+    },
+    {
+      "script": "ripple_r02_domains.py",
+      "production_sha256": "5ffd193bfb56667567d53be95bd0c024d62b7a885d9ee631629b51a26e830c55",
+      "bundle_sha256": "f2953f91527ee9d01ebae94accce5000bae5d832e6dec120dcc1a7614afc88c1",
+      "changes": "Byte content unchanged except newline/UTF8 normalization"
+    },
+    {
+      "script": "ripple_whole_fixture_volume_audit.py",
+      "production_sha256": "397e3ad2c22cdf0c3c7f43f4c695c3daa18648508d63cc3ebaeccb76be6499ae",
+      "bundle_sha256": "c9d5d70fe11eeaca823f9987572f89433b042451a1027469330a7e007f1b978f",
+      "changes": "Byte content unchanged except newline/UTF8 normalization"
+    },
+    {
+      "script": "ripple_r02_solver.py",
+      "production_sha256": "460ebfc19434c7cbf3ee6244da935f3a167121ea8ae2094ac9a422bd6d870d18",
+      "bundle_sha256": "7415d98d8a74b33bd697e34ea8f47900dea707640a2a15b9e7925d158e394ed2",
+      "changes": "Byte content unchanged except newline/UTF8 normalization"
+    },
+    {
+      "script": "ripple_r03_connected_solver.py",
+      "production_sha256": "e44f0c7881c1671b7634404ce2d665c22176c0b008a166ed0f86d0dd084c5ede",
+      "bundle_sha256": "3d308800a4095aaf10e42dcb2aff2a8a7d1159985ad21c0c46303ffb36a53d3c",
+      "changes": "Byte content unchanged except newline/UTF8 normalization"
+    },
+    {
+      "script": "ripple_r03_connected_transfer.py",
+      "production_sha256": "32f3c3672f70c8096391a88b4feebce332417e7be760544412ab0cdbcba4504a",
+      "bundle_sha256": "15dbe9fb1a8144f6284994a783d338aa7cc3c48253e8d376b06187fabbba0d42",
+      "changes": "Configurable FFmpeg/ffprobe lookup and optional read-only R04 field root only; numerical code unchanged"
+    },
+    {
+      "script": "ripple_r03_mapped_decode_preview.py",
+      "production_sha256": "e2e9836aac41f776d6129eb2dcf92c68b3471260844c805be0e183c20d41a13d",
+      "bundle_sha256": "17aac75dc8ea2de6b4678b73211818c5d354431008850cc91c18127b5ac73190",
+      "changes": "Configurable FFmpeg/ffprobe lookup and optional read-only R04 field root only; numerical code unchanged"
+    },
+    {
+      "script": "ripple_r04_staggered_solver.py",
+      "production_sha256": "aca4f77a47fd173c3ebdb555682056170d5e93ed309d12fe5194096910167284",
+      "bundle_sha256": "c4b960d5c712fe8f7f00c571c8c2c7688ca1559193aca3c365e6ae2c28b762ba",
+      "changes": "Byte content unchanged except newline/UTF8 normalization"
+    },
+    {
+      "script": "ripple_r04_thin_ridge_transfer.py",
+      "production_sha256": "c1dfc60cfeae342e1330e438936478f4f4b6b1813afc556bc5eac0bbe69c3364",
+      "bundle_sha256": "9bda4ebd908a5772b7cc0a60cc8ca4ac6955dff62fc4730a04aaf2eef679ae81",
+      "changes": "Configurable FFmpeg/ffprobe lookup and optional read-only R04 field root only; numerical code unchanged"
+    },
+    {
+      "script": "ripple_r04_parallel_preview.py",
+      "production_sha256": "73ac63b26b3c0ba8314a40c168e20d6989eb7174f449b63d3be4820c00c9077c",
+      "bundle_sha256": "98bf41dbbb8db45f882f4c15e059b2c89bbb4e1cc0aa4e4bf100f4b13cf8bd25",
+      "changes": "Configurable FFmpeg/ffprobe lookup and optional read-only R04 field root only; numerical code unchanged"
+    },
+    {
+      "script": "ripple_r04_lossless_atlas_movie.py",
+      "production_sha256": "ce83fd97547714e5ca394113302518f1dfd5feb5dd0fbb7a69a09e9457d31097",
+      "bundle_sha256": "6ab1abfba79f5996c9bd5bc7527505b14566866fd23bc3f404feaf74c969c33c",
+      "changes": "Configurable FFmpeg/ffprobe lookup and optional read-only R04 field root only; numerical code unchanged"
+    },
+    {
+      "script": "ripple_r04_exact_black_mapped_reference.py",
+      "production_sha256": "2c14d195030e2b244625a6b86109731adba2950763c9106b03def89ab36c980d",
+      "bundle_sha256": "92470b1ac25f0cdff262d8a693b67599f7f2a89f2f730d7b0a7503c7ed1b434d",
+      "changes": "Configurable FFmpeg/ffprobe lookup and optional read-only R04 field root only; numerical code unchanged"
+    },
+    {
+      "script": "ripple_r04_compact_black_decode_qa.py",
+      "production_sha256": "de0c2088b48528d3fb9f5d3e7fb10ef296fb192ae6ee91a5782ff71743dbb1f0",
+      "bundle_sha256": "616f5130fe06c15005b3cb3b46c89ca7df8b3cbe5919a8b8a9561349dfeaab97",
+      "changes": "Configurable FFmpeg/ffprobe lookup and optional read-only R04 field root only; numerical code unchanged"
+    },
+    {
+      "script": "ripple_r04_actual_crest_width_qa.py",
+      "production_sha256": "96b13546821c81e27031837191a0180fb329c319f14a23035c14e9581dca91b4",
+      "bundle_sha256": "4cd0e0b1fcadeb396f502f72a1db5bfc3d1d7a70370ebdd2ea56f2d6d811186b",
+      "changes": "Byte content unchanged except newline/UTF8 normalization"
+    },
+    {
+      "script": "ripple_r04_mobile_viewing.py",
+      "production_sha256": "4c8efdb60b8958b46786c3ff5a6a9e61fdf9665e1d97820751be5c299b21a649",
+      "bundle_sha256": "39f8ac13fe892ca6f5f63c6c50d9e7197a1f4440b812d4144cb2003b694cdcfc",
+      "changes": "Configurable FFmpeg/ffprobe lookup and optional read-only R04 field root only; numerical code unchanged"
+    },
+    {
+      "script": "hybrid_media_native_preview.py",
+      "production_sha256": "fb0891c75cfad4e2140b3c5d5eb6abbc101d5ce6bfdf426ed1655820365e2752",
+      "bundle_sha256": "eb077f4eddcb229827799a319b1156ffae9a5f84d69fa958949513d659a84152",
+      "changes": "Byte content unchanged except newline/UTF8 normalization"
+    },
+    {
+      "script": "infinity_rooms_common.py",
+      "production_sha256": "ac9f07f3a2042efbd1b7fbe366cacc937322fdab616ce3b8c52676aee9d9407f",
+      "bundle_sha256": "4eff8a27fab2bf178b3c051a952452289129bccecf7d9c21d0175b2572e54785",
+      "changes": "Configurable FFmpeg/ffprobe lookup; optional native-QA skip with explicit not-run status; public-safe path literals. Generation equations and numerical parameters unchanged."
+    },
+    {
+      "script": "infinity_rooms_preflight.py",
+      "production_sha256": "1d59a3f8f57765d8e1ccaa6f31c389a6f880db04b3956185d3dfecac49a1c48f",
+      "bundle_sha256": "65727357e5bd8045d7dcb799d5504db679a30cda22ab22ce4ba27682f144c40e",
+      "changes": "Byte content unchanged except newline/UTF8 normalization"
+    },
+    {
+      "script": "infinity_rooms_preview.py",
+      "production_sha256": "0d6ba2de89c78a155596373617efbc51821cfe29f6f853f4fcd4bffdef212542",
+      "bundle_sha256": "974980dbdf2f59a113f395e0ce2a02c061815817674b9f3eb8d5a5c0038b0cbb",
+      "changes": "Byte content unchanged except newline/UTF8 normalization"
+    },
+    {
+      "script": "infinity_rooms_native_preview.py",
+      "production_sha256": "d73c04d0d555e117deb89df9a2c242ad8cbe0b1887c4fd766e8e7b2dd82d27c0",
+      "bundle_sha256": "dfe882a50a997b9c97b99b8557b04863d046f67990a7b94775e77ea10a945549",
+      "changes": "Byte content unchanged except newline/UTF8 normalization"
+    },
+    {
+      "script": "infinity_rooms_media_qa.py",
+      "production_sha256": "7d2ad849d391661298f1b6fbded0fbde03e8f9aaf02746f683da03dc0e4e8b6a",
+      "bundle_sha256": "d8a10fbc1e3c75ac096b629585418bb020c0d1f1b6b1a3f6928748e8df6e54dd",
+      "changes": "Configurable FFmpeg/ffprobe lookup; optional native-QA skip with explicit not-run status; public-safe path literals. Generation equations and numerical parameters unchanged."
+    },
+    {
+      "script": "infinity_rooms_finalize.py",
+      "production_sha256": "395dbc7068e4cfd627cd376640c741c067cb659369ab90f1107d5d4478991788",
+      "bundle_sha256": "dc8d75ba86069c331cf29ad36e7cb244756d2a2940ea01528e8790009a47c438",
+      "changes": "Portable/public-safe packaging-provenance paths and private thread identifiers sanitized; original finalizer is not a generation entrypoint."
+    }
+  ],
+  "scope": "Current production R04 solver/transfer and R02 Infinity generation, plus historical R03. Numerical code and geometry inputs retained; portable-only deltas disclosed. Original workspace delivery finalizers are provenance only."
+}

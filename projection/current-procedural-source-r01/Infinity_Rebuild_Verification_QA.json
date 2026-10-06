@@ -1,0 +1,78 @@
+{
+  "status": "PASS: actual current Infinity generation reproduces all five accepted keyframes",
+  "keyframe_checks": [
+    {
+      "frame": 0,
+      "atlas_RGB_pixel_SHA256": "aa61178b64fabf4118eeea97d74e5fd5f4a88f00b7cb6df27c7cf28c279db1c0",
+      "mapped_RGB_pixel_SHA256": "9e148ac8f6dd4225fc432816014bb6bcca3944ae95e341e3fef301d551886e02",
+      "accepted_atlas_and_mapped_pixels_bit_identical": true
+    },
+    {
+      "frame": 120,
+      "atlas_RGB_pixel_SHA256": "ca5d5d71ba8f784b229620fd36da0408d56e10d96bff2f470b4ac6d077436834",
+      "mapped_RGB_pixel_SHA256": "5ae11027343682251fe02a662f7d3834a640866ba35b6e9219b9f288ef07371b",
+      "accepted_atlas_and_mapped_pixels_bit_identical": true
+    },
+    {
+      "frame": 240,
+      "atlas_RGB_pixel_SHA256": "03ff28fb7929fd323d542b68f741a831b6f8c426029367a6e103c9ce69bd8df2",
+      "mapped_RGB_pixel_SHA256": "c48b9a1e8befd7abafbdc9442b187b78b888b1eedefa604e87e35261f52dc533",
+      "accepted_atlas_and_mapped_pixels_bit_identical": true
+    },
+    {
+      "frame": 360,
+      "atlas_RGB_pixel_SHA256": "f38811c27a5c699c7b711cfe553291a4d4716db0d847d1f4524d750024858bc5",
+      "mapped_RGB_pixel_SHA256": "e0d97004a8d6a763479b6d8ef6cda9530d2366c87488bf1f8a3c54a0e2ab530c",
+      "accepted_atlas_and_mapped_pixels_bit_identical": true
+    },
+    {
+      "frame": 479,
+      "atlas_RGB_pixel_SHA256": "410e57f6633fdf0b2727a9730ea5de52026402691d8a0c94066e8bbbebc72e7c",
+      "mapped_RGB_pixel_SHA256": "72eb96939e19b99c3ba7a8ca0e6125a973fcfb243afdfe07840c88aaca51a095",
+      "accepted_atlas_and_mapped_pixels_bit_identical": true
+    }
+  ],
+  "geometry_constrained_regions": 37,
+  "animated_floor_texels": 1027056,
+  "aperture_overlap_obstacles_or_supports_cells": 0,
+  "all_non_aperture_fixture_pixels_are_fixed_by_generation_assertion": true,
+  "frame0_equals_terminal_frame480": true,
+  "fixed_front_cache_regenerated_from_published_UV02": true,
+  "production_front_array_comparisons": {
+    "front_u": {
+      "shape": [
+        768,
+        1024
+      ],
+      "dtype": "float32",
+      "bit_identical_to_accepted_geometry_cache": true
+    },
+    "front_v": {
+      "shape": [
+        768,
+        1024
+      ],
+      "dtype": "float32",
+      "bit_identical_to_accepted_geometry_cache": true
+    },
+    "front_part": {
+      "shape": [
+        768,
+        1024
+      ],
+      "dtype": "uint8",
+      "bit_identical_to_accepted_geometry_cache": true
+    },
+    "front_z": {
+      "shape": [
+        768,
+        1024
+      ],
+      "dtype": "float32",
+      "bit_identical_to_accepted_geometry_cache": true
+    }
+  },
+  "random_seed": null,
+  "full480frame_movie_reencoding_rerun": false,
+  "physical_MadMapper_or_projection_tested": false
+}

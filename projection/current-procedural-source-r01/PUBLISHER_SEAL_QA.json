@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "sealed_ZIP_bytes": 43853723,
+  "sealed_ZIP_sha256": "5d49d0c7952940e88a1e407aedbd72783f1dc24697d596c6e1a27b81ff639889",
+  "ZIP_CRC_passed": true,
+  "declared_files_size_SHA256_verified": 1429,
+  "all_1430_entries_accounted_for": true,
+  "Python_AST_files": 33,
+  "production_script_bundle_hashes_checked": 26,
+  "public_content_scan_passed": true,
+  "full_movie_rebuild_performed": false,
+  "clean_machine_installation_tested": false
+}

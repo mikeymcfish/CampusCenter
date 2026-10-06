@@ -1,0 +1,1644 @@
+{
+  "status": "PASS: all protected original inputs, scripts and current/reference movies unchanged",
+  "protected_baseline_files": 317,
+  "production_script_files": 26,
+  "movies_verified": [
+    {
+      "file": "madmapper_ripple_R04/whole_model/deliverables/Ripple_R04_Black_Thin_Staggered_Connected_UV02_1_100_4096_Lossless_PNG.mov",
+      "bytes": 375159817,
+      "sha256": "615d32c42cddba4b7d4ce71a1c0168ed2d7db340a72ee490c32826bb5a225506",
+      "unchanged": true
+    },
+    {
+      "file": "madmapper_ripple_R04/whole_model/deliverables/Ripple_R04_Black_Thin_Staggered_Connected_44s_Mapped_1024_Lossless_Reference.mov",
+      "bytes": 155515150,
+      "sha256": "3ba30a882ae941609e21e451998713df9d8c77392e975f71a743bb1e588a7116",
+      "unchanged": true
+    },
+    {
+      "file": "madmapper_infinity_rooms_R02/deliverables/Infinity_Rooms_R02_WholeModel_UV02_24s_ATLAS_4096_Lossless_PNG.mov",
+      "bytes": 236646404,
+      "sha256": "bb43f36cc6b2a2526ff5eb7bdbf75188da075abe30e57e89b1df2ae03ca11abe",
+      "unchanged": true
+    },
+    {
+      "file": "madmapper_infinity_rooms_R02/deliverables/Infinity_Rooms_R02_WholeModel_UV02_24s_Fixed_Front_Mapped_1024_Viewing.mp4",
+      "bytes": 686269,
+      "sha256": "fed0f3f0ab7aac94d037f835bc5c7cc692c0e6117a092ee19f65446877f04a83",
+      "unchanged": true
+    },
+    {
+      "file": "madmapper_production_P01/deliverables/Infinite_Floor/assembly_1_100/Infinite_Floor_P02_UV01_1_100_4096_HAP.mov",
+      "bytes": 203925514,
+      "sha256": "6635c7d573bce9e373c10c1222400fb2edb72413f8c712046d802b4b89dec660",
+      "unchanged": true
+    },
+    {
+      "file": "madmapper_highlight_H04_atlas_video_R01/CampusCenter_UV02_H04_All13_30Pages_300s_ATLAS_8192_HAPQ_Playback.mov",
+      "bytes": 1039239191,
+      "sha256": "f45ada6f020899a5aba27021e3513b95d0138b299cf789d7bfb8b26a2e71b958",
+      "unchanged": true
+    },
+    {
+      "file": "madmapper_highlight_H04_atlas_video_R01/CampusCenter_UV02_H04_All13_30Pages_300s_ATLAS_4096_HAPQ_Playback.mov",
+      "bytes": 276091231,
+      "sha256": "9d928dce7536db494e3bb9984b399d81d493556873fddd900d496b9e0cb82828",
+      "unchanged": true
+    },
+    {
+      "file": "madmapper_highlight_H04_atlas_video_R01/CampusCenter_UV02_H04_All13_30Pages_300s_ATLAS_8192_Lossless_PNG.mov",
+      "bytes": 14039402,
+      "sha256": "0006f47e7cd825836476c748a0ef234756ffe011d962588274310bce9e5ae538",
+      "unchanged": true
+    }
+  ],
+  "protected_input_hashes": [
+    {
+      "file": "madmapper_p02/deliverables/Initial_Source_UV_Audit.json",
+      "bytes": 3628,
+      "sha256": "6b2998d5720dba084dc89e93a7692eeef51d6e74d35355abec6fa790a6d1ff75"
+    },
+    {
+      "file": "madmapper_p02/deliverables/Lossless_PNG_Encoding_QA.json",
+      "bytes": 17131,
+      "sha256": "04d47f8a09bc807842bbe6951055bfab052cb1431d29cebcb23088ab81ea72fb"
+    },
+    {
+      "file": "madmapper_p02/deliverables/P02_Architectural_Calibration_Landmarks_1_100_UNCHANGED.json",
+      "bytes": 2810,
+      "sha256": "da8551e2e43aaa7520033aafc2bfbbe4d44a00c1cf0423b6dc19325dd2d68292"
+    },
+    {
+      "file": "madmapper_p02/deliverables/P02_Physical_Assembly_Manifest_REFERENCE.json",
+      "bytes": 43324,
+      "sha256": "11d511fa0ffd72f2b8a1cfddd45c7a3d2f7bef1a2a0b874127a03d637d012cf8"
+    },
+    {
+      "file": "madmapper_p02/deliverables/Room_Review_Map.png",
+      "bytes": 139808,
+      "sha256": "28545c98a8c9a89f037a377ebc9e96c678a5fb0c13266ac4be5d0e592dff8acf"
+    },
+    {
+      "file": "madmapper_p02/deliverables/Source_P02_Preservation_QA.json",
+      "bytes": 263,
+      "sha256": "d79abaa7afcff31687bd0f9e9fc56d8b269abf01b7c6bf6c4673a1fabdf899ed"
+    },
+    {
+      "file": "madmapper_p02/deliverables/Visual_Review_QA.json",
+      "bytes": 922,
+      "sha256": "97bf55c95a93b0cb9772004486557bfbe38d9904ffff57145887df6bca755612"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/Atlas_Diagnostic.png",
+      "bytes": 3314814,
+      "sha256": "55aab346a35810e6327c13fdf141fa669bf0bbf68cca33b4f4a06c3aa91978df"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/CampusCenter_P02_Assembly_1_100_UV01.blend",
+      "bytes": 5665608,
+      "sha256": "1691f82322b86d0e2ce323efff25851c3c93d465ccfff2367d03f694b4fda08b"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/CampusCenter_P02_Assembly_1_100_UV01.mtl",
+      "bytes": 275,
+      "sha256": "8f71eea8b37df7d0705cdfa9f69afde3d0fbde5cd8e524e04ae4b4f88de3c715"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/CampusCenter_P02_Assembly_1_100_UV01.obj",
+      "bytes": 15971501,
+      "sha256": "5fb3d64faebe846255f84b4e4f2be832070fec649ea99a1005d69f0c802db45f"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/Changes_and_Review_Needs.json",
+      "bytes": 1299,
+      "sha256": "fd46ec725ca6b050813ec3cce3c334cdde40b604d652c3606565b77495336169"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/Default_Opaque_Receiver_Mask.png",
+      "bytes": 195508,
+      "sha256": "c69a3e8c0d72a0fa614bcfe92888b7fb8938227a76ea798fdb23de254ace1cf4"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/Diagnostic_Fresh_Import_NorthEast.png",
+      "bytes": 2243513,
+      "sha256": "06f172fa0a2dd9121dbe277fab2f6098e7d4525142b0d27462734ce59a678bea"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/Diagnostic_Fresh_Import_SouthEast.png",
+      "bytes": 2279422,
+      "sha256": "136f43cba32865c8b5f9192196a2645f8909b3fe7e2f08691734564b6ed040db"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/Exact_Source_and_UV_QA.json",
+      "bytes": 1251,
+      "sha256": "e924c38f56edd4dd6740929ba40e9ee9391d5c493f625c1328cc0b079afe1e51"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/Fresh_Blender_Reimport_QA.json",
+      "bytes": 3540,
+      "sha256": "2a855aa4291f759c475d2d84cde8117d1f66b7cd84386c6e08bafecef28a81e9"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/Geometry_Surface_Contact_Audit.json",
+      "bytes": 26545,
+      "sha256": "780662050dff8295f3fdd7dee3f53c676177f473056be3db60543e38801d4196"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/Glazing_UV_Mask.png",
+      "bytes": 16900,
+      "sha256": "32800c9591699fe962a3b10ee4e80a0f9e7a5db6edac39f3e6e8671fbc52b3ae"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/HangingLoops_UV_Mask.png",
+      "bytes": 12527,
+      "sha256": "5ca3e70042fc957bafb7978b18752d6cb892e901df17f68a1c8c2481092e1f43"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/Opaque_UV_Mask.png",
+      "bytes": 196451,
+      "sha256": "0a9a4bf0c0161cff7b00274166dc51e12c1c4518ebbcf032eaa618a3178b49ea"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/Original_P02_Physical_Materials_REFERENCE.mtl",
+      "bytes": 160,
+      "sha256": "6c54629adc8bc0f8b3bd9d436245320d8840d2148442a044c654f034892e6ef6"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/Physical_Part_IDs_uint8.png",
+      "bytes": 292684,
+      "sha256": "29ece78111b3b0c0225a4477c837acb440df535b3f89737552e1597736400b33"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/README.txt",
+      "bytes": 6083,
+      "sha256": "a8d49158fed2e2d48d506a5dc374f7c647faffea314c9276d50880b25bd4028b"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/Room_Atlas_Index.png",
+      "bytes": 278084,
+      "sha256": "a015e2c1bd7b611896d1a9eff97e7a29f2a45caa1282c69fb392184f943bb4ba"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/Room_IDs_uint8.png",
+      "bytes": 301706,
+      "sha256": "701ed733eefb4c162818f4780082d004e8aa4f01dec4953c93aa1975f2102f87"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/Room_ID_Lookup.json",
+      "bytes": 7727,
+      "sha256": "aa2c4e413a01377ab73de31a5dceee377cdc15ce4ab53544f6445d75834d0fd6"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/Surface_IDs_uint16.png",
+      "bytes": 599592,
+      "sha256": "5fceaf373c3548b7264568a8518eeb2c118cb10675367741119fe7bc54634b40"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/Surface_Lookup.csv",
+      "bytes": 1210177,
+      "sha256": "80a60c2dab61eecc1838c39a02df52e4f27b9ddee084870deffc16e016a8ab30"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/Surface_Lookup_Manifest.json",
+      "bytes": 16147954,
+      "sha256": "4ef9c37bd9b45f683ce8e2ac283cd3cf93bf24b6913ef268a1c1d3acc325ada0"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/UV_Atlas_Overview.png",
+      "bytes": 545174,
+      "sha256": "ca88c2d5ae8816de94641cb5327738a12a66d8f6ac7f16d4752063e7ea2c81fb"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/UV_Overlap_and_Stretch_QA.json",
+      "bytes": 808,
+      "sha256": "86aa7322651455dbff7d50b83a40d669155f6b6e9262828ef9042b9b1e6dd1b0"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/UV_Room_Surface_Reference.png",
+      "bytes": 3316031,
+      "sha256": "4e0a5a702a11ce129b88aeca6046dc2d16949741b1c1c4983fadf6f12841f911"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/UV_Wireframe_Transparent.png",
+      "bytes": 731363,
+      "sha256": "f5d61f6d66103160b41fc339c06df97bcd586ca8262daff24df9c384aaf17bea"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/Atlas_Diagnostic.png",
+      "bytes": 3089714,
+      "sha256": "06e6e3826da97f70958475262a3a2acb26ab7121d7af9b0c34b29d5f4e2ac111"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/CampusCenter_P02_Sample_1_250_UV01.blend",
+      "bytes": 5190390,
+      "sha256": "c23774ec27fe32379827ac47e0cae623f87b12a973376ea81aa289824bacdbf1"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/CampusCenter_P02_Sample_1_250_UV01.mtl",
+      "bytes": 179,
+      "sha256": "66862f5120b0c01a1edca68c895f3067c98ff96d24d19d340460f674505b68d5"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/CampusCenter_P02_Sample_1_250_UV01.obj",
+      "bytes": 14048840,
+      "sha256": "ea3ece475b4a386cb3fac71a95f3e9701c8ca40211ee5580aad58e7b0cfcd5dd"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/Changes_and_Review_Needs.json",
+      "bytes": 1299,
+      "sha256": "e3cfe81478f8c8660f4022a756573b0de76af10d177b89bc0eac2058af9ba1c0"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/Default_Opaque_Receiver_Mask.png",
+      "bytes": 187710,
+      "sha256": "60b7cfc50570f4d1fa65c0c4ac8ef851d2bc1dac0db8558ce259f07c4bb835cf"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/Diagnostic_Fresh_Import_NorthEast.png",
+      "bytes": 2219832,
+      "sha256": "6b5bbfd5d677f9ad7291c838f2dc60d9ec78b216f66205a6826531cea61b5ddf"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/Diagnostic_Fresh_Import_SouthEast.png",
+      "bytes": 2252888,
+      "sha256": "3effc5c15536b19342efef93d5c2d03b5486896b3e856f1025f329003c46390a"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/Exact_Source_and_UV_QA.json",
+      "bytes": 1250,
+      "sha256": "3133eefa92095616161af063284313bdd5aad2895da59f54abfc4b716ae4061a"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/Fresh_Blender_Reimport_QA.json",
+      "bytes": 2647,
+      "sha256": "2cb6369b8d9932d9e21cf86c35bc75d93120471731dc8068e9be4435816f3e42"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/Geometry_Surface_Contact_Audit.json",
+      "bytes": 4197,
+      "sha256": "b92ee139904d9491ee023eebf23d8255045f2b724fc4ede357f5fdb79dfbc181"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/Glazing_UV_Mask.png",
+      "bytes": 21698,
+      "sha256": "93d98028bf52420cca13642cf1fe49573acc28e3a2e10b66023183165baa355e"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/HangingLoops_UV_Mask.png",
+      "bytes": 8216,
+      "sha256": "eb310f5f583f65b5e198e490ca98865dcb4c610a65791ada1b4fbd4206e4ef73"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/Opaque_UV_Mask.png",
+      "bytes": 188454,
+      "sha256": "8d44d583bec439b59028c0a3855d689e5c0671bee425c13616746dcdb21f2ec4"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/Original_P02_Physical_Materials_REFERENCE.mtl",
+      "bytes": 160,
+      "sha256": "6c54629adc8bc0f8b3bd9d436245320d8840d2148442a044c654f034892e6ef6"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/Physical_Part_IDs_uint8.png",
+      "bytes": 282242,
+      "sha256": "f98c74a3bf4d07403af0f48abf3bc00a26e8ea280dd38c19e2a8b219758c2cc6"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/README.txt",
+      "bytes": 6068,
+      "sha256": "23db0d383d75b72c75d3f31a53af966909e482591bbc652a029bb22b235f7cb0"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/Room_Atlas_Index.png",
+      "bytes": 273111,
+      "sha256": "b5b527f21331501c9ce5ecb89f19a54b2ba91906eaab8e8f115aa3ed4b6f77dc"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/Room_IDs_uint8.png",
+      "bytes": 288969,
+      "sha256": "4600ced9f5a67c78e63efc8fa69c93d6fbf6a6cc056677e958546bb85980be65"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/Room_ID_Lookup.json",
+      "bytes": 7484,
+      "sha256": "8b7a8bdd1a8bf01ae8d7bc1f6835544d89165cef391f3147e575eb404d4093e0"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/Surface_IDs_uint16.png",
+      "bytes": 603310,
+      "sha256": "6d700bcede22c0229d83eeead219d6f9ae70be9552480b683155a5640505b20e"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/Surface_Lookup.csv",
+      "bytes": 1366919,
+      "sha256": "964ea57a9b93cf6bc72644a9cd9ba4049b50b49e5622f8a28b4838cff925d874"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/Surface_Lookup_Manifest.json",
+      "bytes": 17852723,
+      "sha256": "65865f19db28e5da5ec395ea6aacf75a644cad599792fddf8a30a7d75f6f003f"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/UV_Atlas_Overview.png",
+      "bytes": 513003,
+      "sha256": "0cf96f1c01b757c921561a9857c2cb899b3810e75b708b714d9b40f8ba515873"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/UV_Overlap_and_Stretch_QA.json",
+      "bytes": 808,
+      "sha256": "75c651151e47ff9a0e7d48e592eca1864cf31d6e06be2aefcb47ff1369c3812c"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/UV_Room_Surface_Reference.png",
+      "bytes": 3091491,
+      "sha256": "05e5ea3adf24b0bfd34baa7416b848a4cb6296fef871f0e1df0807c393eb3ec0"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/UV_Wireframe_Transparent.png",
+      "bytes": 732582,
+      "sha256": "495485d8d95800b92f3360fd86457bee9033bd7c425e5c47534b539e3077fc88"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/room_masks/100_All_Parts.png",
+      "bytes": 10235,
+      "sha256": "5815aa7f17501f6ce77ba969982c6be2ddfe92a8e3480db4bd6bb2bd1c48392e"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/room_masks/101_All_Parts.png",
+      "bytes": 12168,
+      "sha256": "04923aad657ac41adf32b4a3a120d2e442690c3dbf1a0e24f8b131d334cff3a0"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/room_masks/102_All_Parts.png",
+      "bytes": 39853,
+      "sha256": "97da0ea02671105dbb27718e4686c223cd41bf275a1c212100017fbf4a8cb3b6"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/room_masks/103_All_Parts.png",
+      "bytes": 11914,
+      "sha256": "0a4cd48fc5306d226c9df4645e055e06c7b1faff49c5420005a8351555e890db"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/room_masks/104_All_Parts.png",
+      "bytes": 11622,
+      "sha256": "47c9bbca512163c7f246ad0bad8cf928ba6344ed64f5de5a37c11ab557f6d72d"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/room_masks/105_All_Parts.png",
+      "bytes": 15635,
+      "sha256": "f40944b178a20a53caf30b52cffca38616d63ef272de2a59799a27e2aa15d75c"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/room_masks/106_All_Parts.png",
+      "bytes": 22245,
+      "sha256": "d60bf51c74a765a6890bc74126ddf8d48c217d1d48df17c5641022c1281888d0"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/room_masks/108_All_Parts.png",
+      "bytes": 26480,
+      "sha256": "e6e189aab2945c13d9b5e5fa53875fe24d4a4daa70fbdda5ac7f12e423fb44e4"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/room_masks/109_All_Parts.png",
+      "bytes": 10057,
+      "sha256": "7b3609fd863469fc10c8d20d44c5b32d410b70ad18850ec444e14e4e24e1bfa5"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/room_masks/110_All_Parts.png",
+      "bytes": 11067,
+      "sha256": "fdf078c3b3f630541666f1234285329de1195597bfdcbd93cb38968d9b808734"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/room_masks/111_All_Parts.png",
+      "bytes": 12579,
+      "sha256": "75f860c48df9ad3bf5d4e47b44a721e87853770319ccc790e57ff840628fd114"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/room_masks/112_All_Parts.png",
+      "bytes": 18448,
+      "sha256": "ae39a11a00b0dd5884c6583ef2e16303129c5bcb168578c84238ca008dd78fcf"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/room_masks/113_All_Parts.png",
+      "bytes": 17346,
+      "sha256": "c90b8b934e0ec77c11f97a5306411693261c927de1a8b2c35ad12eb1d32e9d67"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/room_masks/114_All_Parts.png",
+      "bytes": 11069,
+      "sha256": "b60c3cc7def2e1e0be1f5be3454e34a1ab3e04768b998cec60c3b39313105c2c"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/room_masks/115_All_Parts.png",
+      "bytes": 10537,
+      "sha256": "55809b2b01c00b8fa8f379602cec033aa9b1f537ac3723a44ff72ba3d6798525"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/room_masks/116_All_Parts.png",
+      "bytes": 11145,
+      "sha256": "40405bcaf18bb281f39b8f496ad8933590cc8d0438a97465a283e2befece81ab"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/room_masks/117_All_Parts.png",
+      "bytes": 10777,
+      "sha256": "f97691df8d771f58c3fa057d019b7318d73379aef80a72d7c4d5f4c2371efac8"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/room_masks/118_All_Parts.png",
+      "bytes": 11112,
+      "sha256": "2de75a968095f2548a645a1a53bf82a14f24ef5f32237821e745e356219e1a3e"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/room_masks/119_All_Parts.png",
+      "bytes": 10990,
+      "sha256": "c10c8dc5d3715a016d23f6a6e83190ac573fc7b2e8b6325b0642c5966124a558"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/room_masks/120_All_Parts.png",
+      "bytes": 9458,
+      "sha256": "44ddefd19bdf048e4e1bd8a6f1251f710f723b2f802cade116384609385581ef"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/room_masks/121_All_Parts.png",
+      "bytes": 11052,
+      "sha256": "a8f64fedc0dd2cc34bb75e9647c3aefa4c53255da96fbef4bec58b4fed81f27a"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/room_masks/122_All_Parts.png",
+      "bytes": 10926,
+      "sha256": "a7730e9199b96c98231bab7c46b0fb1c3cbe8d549d4544c8f27f84091570b2e7"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/room_masks/123_All_Parts.png",
+      "bytes": 14273,
+      "sha256": "e602dcc1f2bff672899d7d8a0e10ab5ed9a215ab0af6769c31ea824990605675"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/room_masks/124_All_Parts.png",
+      "bytes": 10474,
+      "sha256": "fd43cedb7138c8561804cbcadee918b9dc16aeb4e36503ee0318a565fc8a6b73"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/room_masks/125_All_Parts.png",
+      "bytes": 11400,
+      "sha256": "d026e4debf4024f5a2252c5ceccdd7b2c80c29a2aca46b15ef00e80b37448f1c"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/room_masks/126_All_Parts.png",
+      "bytes": 11240,
+      "sha256": "bccf718fb217ec132b6d748af08a0ecaa0a77d6a83e9ebe5bdbd329d7db6e648"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/room_masks/127_All_Parts.png",
+      "bytes": 11891,
+      "sha256": "5699c4bcbeb674ffe93aba62f8c0404b091d537026b0c6e12dda322a10ee8efd"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/room_masks/128_All_Parts.png",
+      "bytes": 11022,
+      "sha256": "566a89e0e4d02219d1584bc1e994afa63f07479d8d0c76f225fb714e38c6b9d7"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/room_masks/129_All_Parts.png",
+      "bytes": 10777,
+      "sha256": "e13eee7bbe2d48d762d3ed4bebb1bde2538f03b6e85e523875fda7a40446e7c5"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/room_masks/130_All_Parts.png",
+      "bytes": 14471,
+      "sha256": "e33606b0d6aa6d0a8059ccf543c64e9267c3feb872841241a7c07e3f7122992b"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/room_masks/EXTERIOR_All_Parts.png",
+      "bytes": 61068,
+      "sha256": "c41328d9562c7ddeaf6fe11cd7c417bea3e9ab4ee8c8d90d1e3bbad113fb5ca7"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/room_masks/GYM_All_Parts.png",
+      "bytes": 13363,
+      "sha256": "cf6827d609361b90f5d9f858db4c6ce44adc5faec170db8f3c299227beac7fb5"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/room_masks/H01_All_Parts.png",
+      "bytes": 11527,
+      "sha256": "2f7b75a5de24e92db646db204846d329bf6f891b301e5c1ae4e12cb56aae5751"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/room_masks/H02_All_Parts.png",
+      "bytes": 11566,
+      "sha256": "9c40bb2de303ddeede66d8ee710835cf0e60b233329ef5247f06e37363833d26"
+    },
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/room_masks/UNDERSIDE_All_Parts.png",
+      "bytes": 9964,
+      "sha256": "946fa99b25db76ed69f7bb3e0c21587fbc0d17bfa755809aec0efdad0fcefed1"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/room_masks/100_All_Parts.png",
+      "bytes": 13431,
+      "sha256": "0463b69c504da5ed7450f089d61b548fd27f6f8059ae634857e0f87f3cc632bb"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/room_masks/101_All_Parts.png",
+      "bytes": 15980,
+      "sha256": "1ef5fb8f773f635fabe044db898318c64bd147eb823bf05c551ae34b79622eda"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/room_masks/102_All_Parts.png",
+      "bytes": 32801,
+      "sha256": "35eb5260ce342542edad71499b33a15fb0b85dc43d2cbbdcfb21b15ce3688ad8"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/room_masks/103_All_Parts.png",
+      "bytes": 16575,
+      "sha256": "12e295ad66905afb9ccf087acfcca04733b9c0f02054535781d7bf56bd739c87"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/room_masks/104_All_Parts.png",
+      "bytes": 16617,
+      "sha256": "7cfc3e9caaad6a54c730438859c7ad6297acceceac1f4802ad88666830566289"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/room_masks/105_All_Parts.png",
+      "bytes": 16301,
+      "sha256": "5a5e6a67262c6a41ff881423c91be9f1f313c210d4f93986af0d59ac66330828"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/room_masks/106_All_Parts.png",
+      "bytes": 17897,
+      "sha256": "1cf8d9b57cc82401714e8e2209e68eaa32d8c4115580181b971d614fe72aed2e"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/room_masks/108_All_Parts.png",
+      "bytes": 23349,
+      "sha256": "8b91317e4e1ed65726b16909d68ce34a377e8676233f90888b0d65e1c5964322"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/room_masks/109_All_Parts.png",
+      "bytes": 11241,
+      "sha256": "0e8d1c7450ba23bf86ad1e03379709db723d301e347af598ee77301e9bda284c"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/room_masks/110_All_Parts.png",
+      "bytes": 12009,
+      "sha256": "991cc15a298e14fdc6e29ecf682740a55d95a550a360cd09ce59d170c9238748"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/room_masks/111_All_Parts.png",
+      "bytes": 13661,
+      "sha256": "c399ca7fe0eff5620666de60df341c22b3492b93852cde548817b93fc948a3c8"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/room_masks/112_All_Parts.png",
+      "bytes": 18822,
+      "sha256": "219df4d6f10fd0437633feb924e5c0b4b4823491401f26273b9e6f526bbd0450"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/room_masks/113_All_Parts.png",
+      "bytes": 17886,
+      "sha256": "9e507c9f024333f7b7d1c8627f367ba965d8fabc6d45747a70190459a2b86ac3"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/room_masks/114_All_Parts.png",
+      "bytes": 12577,
+      "sha256": "517d7702ad682b92d02bdb4ce6f6856dcb2b39f101c8edb9d86f85b1e776e75a"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/room_masks/115_All_Parts.png",
+      "bytes": 13302,
+      "sha256": "60b139ee941a2367ed6fd89fc63ff17b6b44f3478df8a30c3442ab942ee49599"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/room_masks/116_All_Parts.png",
+      "bytes": 12389,
+      "sha256": "e28cc59a8c114013cbb925d3cca8c922ca100bbb62d50456a225aa0bd05b42e4"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/room_masks/117_All_Parts.png",
+      "bytes": 11891,
+      "sha256": "bcab5e3eb9a46b8f2e51f2c36b4288ffbeeeadd93c0682560707c16bf4627245"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/room_masks/118_All_Parts.png",
+      "bytes": 10618,
+      "sha256": "64837a45382dd6d4430841f81980c9f3fc3b1d875edc29dc61037fd64e811fcc"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/room_masks/119_All_Parts.png",
+      "bytes": 12204,
+      "sha256": "e99a481bd0d901e55ef1297a0c2f19cb502ce00ce21fec80509ce4fd244562d4"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/room_masks/120_All_Parts.png",
+      "bytes": 10712,
+      "sha256": "4917a7cbb6b39f7b02e8dab7fea7503a67ff32f4588084ff7b8245e27de94c9c"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/room_masks/121_All_Parts.png",
+      "bytes": 10976,
+      "sha256": "ea34d474d55d0cb4daa843d618383c96d8d1a5bb95fcffd42bc70c45349283f2"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/room_masks/122_All_Parts.png",
+      "bytes": 11229,
+      "sha256": "2fa77c74c4096daf15a8ddf54961426b6346625ec217617f55f41feaaab95f39"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/room_masks/123_All_Parts.png",
+      "bytes": 14542,
+      "sha256": "2f8faa4b09c119dc12010d321cef2761c8aecf398c27b17f062f74084a7e4cda"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/room_masks/124_All_Parts.png",
+      "bytes": 12460,
+      "sha256": "36485f08fe3ef996d14739ab0969ad6173df2498a80ec0f96acaed2d86cacaa0"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/room_masks/125_All_Parts.png",
+      "bytes": 13188,
+      "sha256": "ab96d2ebd9a9e638ac4a237c32a688b13c9912c6aa5b3970434c47db5493193b"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/room_masks/126_All_Parts.png",
+      "bytes": 12720,
+      "sha256": "7f16428d25d64262d4d794647c62d992e3379ab0e2c526b3aa96dd67ee51c6a3"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/room_masks/127_All_Parts.png",
+      "bytes": 14052,
+      "sha256": "e4caff69984fb4c887dfebb8b99f90bdd80a459f084594eeabc2b39ecf447e15"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/room_masks/128_All_Parts.png",
+      "bytes": 11432,
+      "sha256": "0f4d33db88529921c8dfdc55504100d6e6c1f81fff7a27fa1495514100e0f1d2"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/room_masks/129_All_Parts.png",
+      "bytes": 11722,
+      "sha256": "2df1d929e479bfe5f686dd3899f79803b80c8207d15b1d2779a0da237020ebcf"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/room_masks/130_All_Parts.png",
+      "bytes": 12432,
+      "sha256": "c993e1eb7284f615c572e07e516cf4ebe1785a38ae3214345f0aaaf2305f1a74"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/room_masks/EXTERIOR_All_Parts.png",
+      "bytes": 39351,
+      "sha256": "40305dc87d907c0b27121a129fba4cf13d6fd40f3b13591e3bb5ab6be68d273c"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/room_masks/GYM_All_Parts.png",
+      "bytes": 12542,
+      "sha256": "1d5b351df971e8e2f342b7f01984c2434bb47de02f85727d66c4620f9c6a837b"
+    },
+    {
+      "file": "madmapper_p02/deliverables/sample_1_250/room_masks/UNDERSIDE_All_Parts.png",
+      "bytes": 10928,
+      "sha256": "ba0b1c0562b66f6706a8f7d280a6026a781b0b492eb2aeaebff3fc04191070c2"
+    },
+    {
+      "file": "madmapper_p02/deliverables/File_SHA256.json",
+      "bytes": 15031,
+      "sha256": "938bfd575742554b56c4399ab9890591dd73c752cca6a0196d3b3ca26517676c"
+    },
+    {
+      "file": "madmapper_p02/packages/CampusCenter_P02_MadMapper_UV01_Assembly_1_100_Model.zip",
+      "bytes": 17353904,
+      "sha256": "4334ed849a16c5282294735d29c80d73c311f9b868c0726dfbd843fe9febfee9"
+    },
+    {
+      "file": "madmapper_p02/packages/CampusCenter_P02_MadMapper_UV01_Assembly_1_100_Atlas_Masks_Reference.zip",
+      "bytes": 6649326,
+      "sha256": "20d79889bb58bda20fee0106b6b60fe5272d9fef6d870a7ee60970e7e8f3b9ca"
+    },
+    {
+      "file": "madmapper_p02/packages/CampusCenter_P02_MadMapper_UV01_Sample_1_250_Model.zip",
+      "bytes": 16303497,
+      "sha256": "9debeb279b8cc96bc5f1c2611296a8a8f71d39e0d42e94c36f613520cf7a72d0"
+    },
+    {
+      "file": "madmapper_p02/packages/CampusCenter_P02_MadMapper_UV01_Sample_1_250_Atlas_Masks_Reference.zip",
+      "bytes": 6374213,
+      "sha256": "6b14883dfa5baceed7f9160a8e2983f54aec70a83151fc3b6e5fe8a013328f18"
+    },
+    {
+      "file": "print_revision02/deliverables/Actual_Geometry_Oblique.png",
+      "bytes": 1303517,
+      "sha256": "5ca154887f803649f3bb895af4b66dccb4f6aa5c632783f4e821e7efb98218f7"
+    },
+    {
+      "file": "print_revision02/deliverables/Actual_Geometry_Six_Tile_Layout.png",
+      "bytes": 132089,
+      "sha256": "487e79fc26980802fcce39d25b77cff8c086d0b65d01cb1636905b231c194cf4"
+    },
+    {
+      "file": "print_revision02/deliverables/Actual_Geometry_Top.png",
+      "bytes": 16061,
+      "sha256": "4d32929f0e8832fef5b81a49edb65df57c3b78b435af6aed94bb4ed56f8b20ec"
+    },
+    {
+      "file": "print_revision02/deliverables/Additional_Architectural_Shell_Audit.json",
+      "bytes": 386239,
+      "sha256": "efbd50da7ba7ffb7ddeea7508d3c498c2edfb2c35e834a87057efc51cde35d69"
+    },
+    {
+      "file": "print_revision02/deliverables/Assembly_Manifest.json",
+      "bytes": 43324,
+      "sha256": "11d511fa0ffd72f2b8a1cfddd45c7a3d2f7bef1a2a0b874127a03d637d012cf8"
+    },
+    {
+      "file": "print_revision02/deliverables/Assembly_Registration_1_1.svg",
+      "bytes": 5634,
+      "sha256": "b00e3eb219927ea3011c779cf45037dad844deb826524a9143675f2617bcd6ae"
+    },
+    {
+      "file": "print_revision02/deliverables/Calibration_Landmarks.json",
+      "bytes": 2810,
+      "sha256": "da8551e2e43aaa7520033aafc2bfbbe4d44a00c1cf0423b6dc19325dd2d68292"
+    },
+    {
+      "file": "print_revision02/deliverables/Final_Revision02_QA.json",
+      "bytes": 2209,
+      "sha256": "81226986994df546453197f5c1a059699cb9faad1776a5ad3116a2ee994c102d"
+    },
+    {
+      "file": "print_revision02/deliverables/Ground_R29_P02_Assembly_1_100.mtl",
+      "bytes": 160,
+      "sha256": "6c54629adc8bc0f8b3bd9d436245320d8840d2148442a044c654f034892e6ef6"
+    },
+    {
+      "file": "print_revision02/deliverables/Ground_R29_P02_Assembly_1_100.obj",
+      "bytes": 9448159,
+      "sha256": "698a4af7012f712817e2c84d0ef8d78d397187f224f9283602f09c0ffc652406"
+    },
+    {
+      "file": "print_revision02/deliverables/Ground_R29_P02_Assembly_1_100_Combined_REFERENCE.stl",
+      "bytes": 3755084,
+      "sha256": "1f48f8cd9039c7d289037e74e809f615caf8a93229fe8e6f59de1d6d3396433d"
+    },
+    {
+      "file": "print_revision02/deliverables/Ground_R29_P02_Assembly_1_100_geometry_QA.json",
+      "bytes": 879429,
+      "sha256": "a0296c44ac8cd7343c075e05ecbf9d8efe8bfed45f1cd67eca85af2e895a4323"
+    },
+    {
+      "file": "print_revision02/deliverables/Ground_R29_P02_Assembly_1_100_Glazing.stl",
+      "bytes": 35484,
+      "sha256": "7a418ffe7c1f8d705d385691033f36594410eb0969180d5f05c13f02a22570c3"
+    },
+    {
+      "file": "print_revision02/deliverables/Ground_R29_P02_Assembly_1_100_Glazing_Audit.csv",
+      "bytes": 22415,
+      "sha256": "65eed1767d9b6c9f551e23ca1c39c165f376e078459afb6b3d54df860f1474e2"
+    },
+    {
+      "file": "print_revision02/deliverables/Ground_R29_P02_Assembly_1_100_HangingLoops.stl",
+      "bytes": 56484,
+      "sha256": "654d3e82ff0e3bfed507771336a8c50768b138ce6bacbdeedc93ea0d3b52e7a5"
+    },
+    {
+      "file": "print_revision02/deliverables/Ground_R29_P02_Assembly_1_100_Opaque.stl",
+      "bytes": 3706984,
+      "sha256": "ceb4608ba73942fd73a387c0d1b7f16af6c8e5009906f98a05f20906f03e47dc"
+    },
+    {
+      "file": "print_revision02/deliverables/Ground_R29_P02_Assembly_1_100_REFERENCE.3mf",
+      "bytes": 688530,
+      "sha256": "765dc8e04e2eb21d9b78073b5a517f4343e18bdc96f13882054a4175fb1eeda8"
+    },
+    {
+      "file": "print_revision02/deliverables/Ground_R29_P02_Print_Reference.blend",
+      "bytes": 1723639,
+      "sha256": "3d6390f906e86309ef7a7635e5f6a2ca4422f81a860b2a450ba2b2cf07403921"
+    },
+    {
+      "file": "print_revision02/deliverables/Ground_R29_P02_Sample_1_250.3mf",
+      "bytes": 614295,
+      "sha256": "e7db7a038c3f31ea2d2cb8b0a2fe228bb2384953ada375d45e0309514990ebdc"
+    },
+    {
+      "file": "print_revision02/deliverables/Ground_R29_P02_Sample_1_250.mtl",
+      "bytes": 160,
+      "sha256": "6c54629adc8bc0f8b3bd9d436245320d8840d2148442a044c654f034892e6ef6"
+    },
+    {
+      "file": "print_revision02/deliverables/Ground_R29_P02_Sample_1_250.obj",
+      "bytes": 8291183,
+      "sha256": "d14d518971fb4c5265544eb84ba0d2bdd0b620097afe12cdd8ab9a08e86fa032"
+    },
+    {
+      "file": "print_revision02/deliverables/Ground_R29_P02_Sample_1_250_Combined_REFERENCE.stl",
+      "bytes": 3335684,
+      "sha256": "dca6e6dcc615515ff860a12089c87b015f043671b718bb7f8ffd08aad48d3b8b"
+    },
+    {
+      "file": "print_revision02/deliverables/Ground_R29_P02_Sample_1_250_geometry_QA.json",
+      "bytes": 1056403,
+      "sha256": "aaabd456201df92b3bfa78a8ecd6d8582e50d72301a7aca44ca8e85f5a0cfe9a"
+    },
+    {
+      "file": "print_revision02/deliverables/Ground_R29_P02_Sample_1_250_Glazing.stl",
+      "bytes": 35484,
+      "sha256": "7c373f0b539d6f691ae5fea7acff13da36d8380547c63e1601bf8f6981f2c861"
+    },
+    {
+      "file": "print_revision02/deliverables/Ground_R29_P02_Sample_1_250_Glazing_Audit.csv",
+      "bytes": 22290,
+      "sha256": "d1dddcf6d572c1f53301138d0aaa788d6f1b1c66b13881c109395bbb8f300fa7"
+    },
+    {
+      "file": "print_revision02/deliverables/Ground_R29_P02_Sample_1_250_Opaque.stl",
+      "bytes": 3320684,
+      "sha256": "c26478a98b586ad720449fe306ff127d391ef2b82761c4806c0ed279862ccb7c"
+    },
+    {
+      "file": "print_revision02/deliverables/Ground_R29_P02_Tile_A1_1_100.3mf",
+      "bytes": 87430,
+      "sha256": "b47efc1cb2c52b1c4c7ac59fbeddf0afcef2bb040586abf2a3d8695d26fad511"
+    },
+    {
+      "file": "print_revision02/deliverables/Ground_R29_P02_Tile_A1_1_100_Glazing.stl",
+      "bytes": 5484,
+      "sha256": "9c9db0660f026106189d41bf192c847efff739138a81851dbb94af6cd930a7db"
+    },
+    {
+      "file": "print_revision02/deliverables/Ground_R29_P02_Tile_A1_1_100_Opaque.stl",
+      "bytes": 478184,
+      "sha256": "843a44bb835d362c295dfcde2307cdd9c6c8ce4f628bfec39bd82e33653ad545"
+    },
+    {
+      "file": "print_revision02/deliverables/Ground_R29_P02_Tile_A2_1_100.3mf",
+      "bytes": 156390,
+      "sha256": "8b50146588556b674dc7a544fae7786b341e8ea362411f9699f44daabf47e4ac"
+    },
+    {
+      "file": "print_revision02/deliverables/Ground_R29_P02_Tile_A2_1_100_Glazing.stl",
+      "bytes": 7884,
+      "sha256": "d2501699f15a0bbad6e56bc514f86a953a09e197ec078a02006e647f73c98903"
+    },
+    {
+      "file": "print_revision02/deliverables/Ground_R29_P02_Tile_A2_1_100_Opaque.stl",
+      "bytes": 868684,
+      "sha256": "db2b23823c5102266964f1392b79f13e44653dfd0a557eb4db88910c8f34afb8"
+    },
+    {
+      "file": "print_revision02/deliverables/Ground_R29_P02_Tile_A3_1_100.3mf",
+      "bytes": 227310,
+      "sha256": "419723b68ffd1b04f456429d3aea3b3331463991770be8b47039116442bd2b08"
+    },
+    {
+      "file": "print_revision02/deliverables/Ground_R29_P02_Tile_A3_1_100_Glazing.stl",
+      "bytes": 16284,
+      "sha256": "a9e3a037fe43fd20f5246cf4032ac78d00526fa18634218647f3a44d4f843ed9"
+    },
+    {
+      "file": "print_revision02/deliverables/Ground_R29_P02_Tile_A3_1_100_Opaque.stl",
+      "bytes": 1260884,
+      "sha256": "c0dc5f15691558cda813b0d6d1a23316e3fc5d1858eaae5c8c4bf2fe5266ba4c"
+    },
+    {
+      "file": "print_revision02/deliverables/Ground_R29_P02_Tile_B1_1_100.3mf",
+      "bytes": 86833,
+      "sha256": "1578d0b3fc7dce57848cd7ea0cdafe9380fc6f1845f45c2bda70e865d32b5132"
+    },
+    {
+      "file": "print_revision02/deliverables/Ground_R29_P02_Tile_B1_1_100_Glazing.stl",
+      "bytes": 6684,
+      "sha256": "9afdafc52fecfa248a0232665815263968c6a74c462c81354bf306e7dc72d34c"
+    },
+    {
+      "file": "print_revision02/deliverables/Ground_R29_P02_Tile_B1_1_100_Opaque.stl",
+      "bytes": 470584,
+      "sha256": "cf269bb17567b8a8f9aa65ffd1dbd1477ad227b5993eb9924a2fb885a38d631c"
+    },
+    {
+      "file": "print_revision02/deliverables/Ground_R29_P02_Tile_B2_1_100.3mf",
+      "bytes": 13455,
+      "sha256": "2368f47ef7b6b4b2ba1a4f8d0fbfc02b067adfea5b06fa74c6baef6b209b0bb1"
+    },
+    {
+      "file": "print_revision02/deliverables/Ground_R29_P02_Tile_B2_1_100_HangingLoops.stl",
+      "bytes": 56484,
+      "sha256": "23e140e0ca4a2a144f0baeba8033364622c986dd85f52a4b4a31a1b0ddce6d42"
+    },
+    {
+      "file": "print_revision02/deliverables/Ground_R29_P02_Tile_B2_1_100_Opaque.stl",
+      "bytes": 5284,
+      "sha256": "7c29197e3b674e6423df7b8463c1b3b7c2599d8e74c627907bfe449a2e544574"
+    },
+    {
+      "file": "print_revision02/deliverables/Ground_R29_P02_Tile_B3_1_100.3mf",
+      "bytes": 119513,
+      "sha256": "eb0c72d39a0adeb5635ce69dc2108668733c376fa868b44d10d4700894b8f61b"
+    },
+    {
+      "file": "print_revision02/deliverables/Ground_R29_P02_Tile_B3_1_100_Glazing.stl",
+      "bytes": 1884,
+      "sha256": "941f34821e99649289f6d2f55ffeb6024ed0439a03524d1582f3bf48f0f6ab5e"
+    },
+    {
+      "file": "print_revision02/deliverables/Ground_R29_P02_Tile_B3_1_100_Opaque.stl",
+      "bytes": 683584,
+      "sha256": "221f9578830a9cffe110661d08fd77c4de9964adc6b8eda6a01008dbcfcd48d8"
+    },
+    {
+      "file": "print_revision02/deliverables/Gym_Perimeter_and_Hanging_QA.json",
+      "bytes": 6570,
+      "sha256": "8b68e29792d232af0643783d5bc1ded67e4a045ecad8d8043cb8abae48bd51d3"
+    },
+    {
+      "file": "print_revision02/deliverables/Hanging_Design_Proposal.json",
+      "bytes": 2287,
+      "sha256": "898da6f0d182b5f22b425ead42cd7940d7878f49d64d3e26185972b13dae6fe6"
+    },
+    {
+      "file": "print_revision02/deliverables/Native_Revisions_Trace.json",
+      "bytes": 366077,
+      "sha256": "12b9d1bcab089583e69c7d079fdec6d566f5112cb226dce3636daaf5a9437110"
+    },
+    {
+      "file": "print_revision02/deliverables/Native_Surface_Classification.csv",
+      "bytes": 37955,
+      "sha256": "9e14d9d4c0f999c8a1015ab474bc73029c8ddd1699f54e5cea121f350113c743"
+    },
+    {
+      "file": "print_revision02/deliverables/README.txt",
+      "bytes": 7371,
+      "sha256": "965ca813f107503b994f7cb97728b6a4cc1dc29a6f1aaeba15cb7844309b939c"
+    },
+    {
+      "file": "print_revision02/deliverables/Source_Integrity_QA.json",
+      "bytes": 715,
+      "sha256": "a5e95c753f975c966a1e6ec5b07a404b94f16d0dad4c4b788055a0ff3238426c"
+    },
+    {
+      "file": "print_revision02/deliverables/Upper_Label_Scope_Audit.json",
+      "bytes": 71658,
+      "sha256": "10c5482689ff330aa70270e45b466ba43bdb5fbc0c97856ae84e3de946cba7bb"
+    },
+    {
+      "file": "print_revision02/deliverables/projection/Architectural_projection_receiver_mask.png",
+      "bytes": 6771,
+      "sha256": "973388beff41eb19b372ca2ce84f5610521229c47c23b70b7c6858d08047610c"
+    },
+    {
+      "file": "print_revision02/deliverables/projection/Combined_coverage_mask.png",
+      "bytes": 7379,
+      "sha256": "3a24580c407c63f854917ab0f67508b86d52c547bc99c50f017733628c88dcf9"
+    },
+    {
+      "file": "print_revision02/deliverables/projection/Exact_surface_data.npz",
+      "bytes": 750819,
+      "sha256": "39006c0160a9876c2f0fad3f61b31e3a7d3eec5dfd020bced11bc8ac3e354b41"
+    },
+    {
+      "file": "print_revision02/deliverables/projection/Glazing_coverage_mask.png",
+      "bytes": 6075,
+      "sha256": "738a3fd40493dc5ac2e23b45410552262bca7b8e250660fd02a75d0b09a74909"
+    },
+    {
+      "file": "print_revision02/deliverables/projection/HangingLoops_coverage_mask.png",
+      "bytes": 4170,
+      "sha256": "24251878a2c3469ad829ab139c5882b0bdb3738d802d8bad74647fecc56294d1"
+    },
+    {
+      "file": "print_revision02/deliverables/projection/Height_0_01mm.png",
+      "bytes": 107933,
+      "sha256": "f2baca90b4ad207210c517e4961463cf3706e6a860a973d7c620154b0252c14e"
+    },
+    {
+      "file": "print_revision02/deliverables/projection/Inherited_calibration_points_1_100.json",
+      "bytes": 1826,
+      "sha256": "697d22c70d50507d601c79813d53fe221798dacce7cf5680ac595c2a7f24732a"
+    },
+    {
+      "file": "print_revision02/deliverables/projection/Normal_world_Zup.png",
+      "bytes": 135313,
+      "sha256": "c47d35e8b9e6f629e828cd1cb5500083c675e6c27f5ea8da458b999577e6da13"
+    },
+    {
+      "file": "print_revision02/deliverables/projection/Opaque_coverage_mask.png",
+      "bytes": 6740,
+      "sha256": "63f299866384cf05b55a1c4f9950bd10c578f6b60ccfa12ea7d43e1fe3080fad"
+    },
+    {
+      "file": "print_revision02/deliverables/projection/Projection_Coordinate_Contract.json",
+      "bytes": 26064,
+      "sha256": "11ec3fb88f88a12c6f7b005f614efb8957a7d2b00928e1bedb1afeb6de188564"
+    },
+    {
+      "file": "print_revision02/deliverables/projection/Top_visible_material_ids.png",
+      "bytes": 8445,
+      "sha256": "f19c3908c39cc2886e09dfa755a876420961bd69023a764dc9bcc8eb26dd4e6f"
+    },
+    {
+      "file": "print_revision02/deliverables/File_SHA256.json",
+      "bytes": 6889,
+      "sha256": "859d29fa337c58d0c8e699f5a75ad67211f138074c55adab8d3ae24e88e50c9e"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/Annotated_13_Stop_Room_Map.png",
+      "bytes": 266649,
+      "sha256": "165e91d576cb462977842348513c95ddeb9edc95200ce05af63334dc3a9105d0"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/assembly_1_100/Excluded_From_Highlights_Opaque_Receiver_Mask.png",
+      "bytes": 100477,
+      "sha256": "818633def5410c0d9f416fba2121816a79b08c044aac7c5e41001c38b8caa08e"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/assembly_1_100/Highlight_Stop_IDs_uint8.png",
+      "bytes": 177024,
+      "sha256": "f1d63d801402445b4faadb652d1e23e9d35c367c3e84fa04c81b91f326462ea6"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/assembly_1_100/pending_office_candidates/Candidate_All_Three_Offices_Receiver_Mask.png",
+      "bytes": 16156,
+      "sha256": "dc49c105df46669c8464f0cae345f908e1da5a69c64503e6861a9c215099afa2"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/assembly_1_100/pending_office_candidates/Candidate_Office_124_Receiver_Mask.png",
+      "bytes": 10474,
+      "sha256": "fd43cedb7138c8561804cbcadee918b9dc16aeb4e36503ee0318a565fc8a6b73"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/assembly_1_100/pending_office_candidates/Candidate_Office_125_Receiver_Mask.png",
+      "bytes": 11393,
+      "sha256": "2686fd7c9a77719fd92320e24b032b9e4c14a4d8b3e98284c5c8653861b935a5"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/assembly_1_100/pending_office_candidates/Candidate_Office_126_Receiver_Mask.png",
+      "bytes": 11240,
+      "sha256": "bccf718fb217ec132b6d748af08a0ecaa0a77d6a83e9ebe5bdbd329d7db6e648"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/assembly_1_100/Selected_Reference_Receiver_Mask.png",
+      "bytes": 114708,
+      "sha256": "4a5bee0b70b51f6fbc47bf69cff041e838183daea947eb9e0c931ece358f7feb"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/assembly_1_100/Stop_Atlas_Reference.png",
+      "bytes": 95149,
+      "sha256": "2aad75a6d1cd45b764b10f25f3687db6b3994e1e643578a900acd0ce0e4dc29f"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/assembly_1_100/stop_masks/HS01_Reference_Receiver_Mask.png",
+      "bytes": 13377,
+      "sha256": "69f82b99a13dc9a61098e32e475d227b53bc400b8db6155a6b867d92b621e5e8"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/assembly_1_100/stop_masks/HS02_Reference_Receiver_Mask.png",
+      "bytes": 11898,
+      "sha256": "c5efdac859ae561d9ca89e22a312be348f053577688cfe87290b94dfd5f1a0ae"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/assembly_1_100/stop_masks/HS03_Reference_Receiver_Mask.png",
+      "bytes": 39586,
+      "sha256": "02616274fb6742f19efeed85eb8d3ad3be8396df50a40478dedc83063285c7c1"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/assembly_1_100/stop_masks/HS04_Reference_Receiver_Mask.png",
+      "bytes": 11351,
+      "sha256": "4d68a30f25103ac495d13e6b3bafe2776f1fb4b32da7f290e8736444ad680de3"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/assembly_1_100/stop_masks/HS05_Reference_Receiver_Mask.png",
+      "bytes": 14892,
+      "sha256": "c64803ade63184f706ed6533a657a2e24ab18c569b7cc94c812aa7409fc049b7"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/assembly_1_100/stop_masks/HS06_Reference_Receiver_Mask.png",
+      "bytes": 21714,
+      "sha256": "53b1ba39fd2aac53e63860b56269c58a4675243eaaaef46e905c70c6ba179f4f"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/assembly_1_100/stop_masks/HS07_Reference_Receiver_Mask.png",
+      "bytes": 26471,
+      "sha256": "e9b5bd8335e729e845ca9a7f3e8177e1cd069076682c241164123dfb972d94b3"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/assembly_1_100/stop_masks/HS08_Reference_Receiver_Mask.png",
+      "bytes": 18425,
+      "sha256": "dcc610d191028103df3a6d5e5447fcda3f69c44a51a1aa0d3bacb13c4e94b977"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/assembly_1_100/stop_masks/HS09_Reference_Receiver_Mask.png",
+      "bytes": 17323,
+      "sha256": "3bef1b10eef393404509e7fc32d24d2192bd4ed20a3e0feb54f3eeae0cc4c0b8"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/assembly_1_100/stop_masks/HS10_Reference_Receiver_Mask.png",
+      "bytes": 14220,
+      "sha256": "e7d641c683bf864bce7d3f19f390d8b9fcfe3521843aebfa912e0c11feac3259"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/assembly_1_100/stop_masks/HS11_PENDING_EMPTY_Mask.png",
+      "bytes": 8216,
+      "sha256": "eb310f5f583f65b5e198e490ca98865dcb4c610a65791ada1b4fbd4206e4ef73"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/assembly_1_100/stop_masks/HS12_Reference_Receiver_Mask.png",
+      "bytes": 10777,
+      "sha256": "41d32f21a93d057c599bf16010ffdb62e68bb432d67efb7a55724f7768555590"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/assembly_1_100/stop_masks/HS13_Reference_Receiver_Mask.png",
+      "bytes": 13291,
+      "sha256": "e72a67b63f45f28b1711ac2f83affe7519a9a45d4ec4fc6dde5e5f0418dab848"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/assembly_1_100/Stop_Selection_Manifest.json",
+      "bytes": 509697,
+      "sha256": "298e2f5de6e78c6b88b3e0d719ca0458d4e17473e1e4224e38beeddf6381ffd6"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/copy/Authoritative_Original_User_Copy.json",
+      "bytes": 4552,
+      "sha256": "295e5af94a4096d02c88dd7d53c344765d051feb61f0b040e4e3a8867a16e7c5"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/copy/Copy_Change_Note.json",
+      "bytes": 1415,
+      "sha256": "86bb161564e34810d31ef952c4a4d3ec5a5973af0cf7a95b9116f12ed915b569"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/copy/Usable_13_Stop_Copy.json",
+      "bytes": 4931,
+      "sha256": "0fe578ee9627dfbe7b01fff7d9f5cfa75d6f90f3ad48d847579f0fd9524d8e4f"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/copy/Usable_13_Stop_Copy.txt",
+      "bytes": 4487,
+      "sha256": "c8fe6d2b40472c35d87f78043ddbf767204448bfdca69cdc59c75f0b666e2336"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/Final_Scope_QA.json",
+      "bytes": 6987,
+      "sha256": "b66fa332276a892a50c2ed87521028edfd76eaff9b86703d0d6eb24475082ee2"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/Focused_Questions.json",
+      "bytes": 988,
+      "sha256": "6914857d45529289950fa88527c1fd8574171ad5948a4e9bf4d3418acdf0d7fd"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/Preservation_and_Selection_QA.json",
+      "bytes": 624,
+      "sha256": "fba9dfb792db06ad038a0dcb9944d2ce5d82bb306001715d75ca4111149e40a2"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/README.txt",
+      "bytes": 2984,
+      "sha256": "83bb6a042d9e6813a2a48c0701e26db80f45f938afc3881148f35aade39cf51e"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/sample_1_250/Excluded_From_Highlights_Opaque_Receiver_Mask.png",
+      "bytes": 93821,
+      "sha256": "adf53711e945d593dbe6d2d76609c82421419d2ea34bd4752882d80d7a900fb8"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/sample_1_250/Highlight_Stop_IDs_uint8.png",
+      "bytes": 176778,
+      "sha256": "0cc49023e293093f59a98a9f69d1e07f5b330b4c71a17ae7f294f5d46b4b438a"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/sample_1_250/pending_office_candidates/Candidate_All_Three_Offices_Receiver_Mask.png",
+      "bytes": 21794,
+      "sha256": "315d63071ae67c71f433562db42d9a28534d00f5967078d2b3972885add4e734"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/sample_1_250/pending_office_candidates/Candidate_Office_124_Receiver_Mask.png",
+      "bytes": 12460,
+      "sha256": "36485f08fe3ef996d14739ab0969ad6173df2498a80ec0f96acaed2d86cacaa0"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/sample_1_250/pending_office_candidates/Candidate_Office_125_Receiver_Mask.png",
+      "bytes": 13143,
+      "sha256": "43178a756ad30096aae9ccb38985c2326378186ef9bf9eefee6aaa3214b511ed"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/sample_1_250/pending_office_candidates/Candidate_Office_126_Receiver_Mask.png",
+      "bytes": 12720,
+      "sha256": "7f16428d25d64262d4d794647c62d992e3379ab0e2c526b3aa96dd67ee51c6a3"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/sample_1_250/Selected_Reference_Receiver_Mask.png",
+      "bytes": 115550,
+      "sha256": "3c222ae69309838ba10b00e16be729b9f725c5a237dc7a118b32c936c2d736ae"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/sample_1_250/Stop_Atlas_Reference.png",
+      "bytes": 92602,
+      "sha256": "e41358ee746d867a59c48300aa381b0287cddcd21d4d24f3cce178a872076c0b"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/sample_1_250/stop_masks/HS01_Reference_Receiver_Mask.png",
+      "bytes": 19978,
+      "sha256": "b16d6394a28ff0c6bc430f5da29662f148db7f1f8d04028bde1bea4b0ab56f78"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/sample_1_250/stop_masks/HS02_Reference_Receiver_Mask.png",
+      "bytes": 15161,
+      "sha256": "cbf8882a4c13eca250f3b98296f8f65a8cf1f31a6cb5b77f6700d45844a9e689"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/sample_1_250/stop_masks/HS03_Reference_Receiver_Mask.png",
+      "bytes": 32380,
+      "sha256": "2fb67aacca0b906d7afd00cdb0413c2320cc80d18f8626351bcd70eb42a3e826"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/sample_1_250/stop_masks/HS04_Reference_Receiver_Mask.png",
+      "bytes": 15681,
+      "sha256": "0628025aeda93567a5e58e8174c4df0347cba2ad0a576c35e4e2e0317ec09558"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/sample_1_250/stop_masks/HS05_Reference_Receiver_Mask.png",
+      "bytes": 15571,
+      "sha256": "2725e792ea81e33742e8943c36a8a04316f115a6c8519c548ef06d3ddb4681c8"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/sample_1_250/stop_masks/HS06_Reference_Receiver_Mask.png",
+      "bytes": 17388,
+      "sha256": "34915ea233204b64af6c67f16224c99a6d7da431f462c14b30b9a118eb43303b"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/sample_1_250/stop_masks/HS07_Reference_Receiver_Mask.png",
+      "bytes": 23228,
+      "sha256": "fd0ef2093417a4e288444bc29af2132300a7122b3b3500a4927e7652b68b9780"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/sample_1_250/stop_masks/HS08_Reference_Receiver_Mask.png",
+      "bytes": 18791,
+      "sha256": "ad17069468a89c11ac8cd7ef3e8ea9dfa4ca3b7c30d12c914b1a10232c3aeafb"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/sample_1_250/stop_masks/HS09_Reference_Receiver_Mask.png",
+      "bytes": 17875,
+      "sha256": "943a9e56b5606857b5f3c0345b27a225b7480f8cd52215b7de6ea77757d1aff7"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/sample_1_250/stop_masks/HS10_Reference_Receiver_Mask.png",
+      "bytes": 14443,
+      "sha256": "de0a59c027202c98307c6f393cac003eacc1049fade1cf9688d6243ae056746a"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/sample_1_250/stop_masks/HS11_PENDING_EMPTY_Mask.png",
+      "bytes": 8216,
+      "sha256": "eb310f5f583f65b5e198e490ca98865dcb4c610a65791ada1b4fbd4206e4ef73"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/sample_1_250/stop_masks/HS12_Reference_Receiver_Mask.png",
+      "bytes": 11716,
+      "sha256": "160593d1aeed80dae729a7cde3167ca4cfb2cd55afa3a14bf4b137a841bbb78d"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/sample_1_250/stop_masks/HS13_Reference_Receiver_Mask.png",
+      "bytes": 12442,
+      "sha256": "6838ffa11bb89aa0dcadc9ff0248bb35a9777a36f93c890170d1def83d3b94b3"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/sample_1_250/Stop_Selection_Manifest.json",
+      "bytes": 573193,
+      "sha256": "08e7183baa58e23fec410a38f9e68ac8add4edc4273893304ff74e0c72e0f0ec"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/Source_Evidence_and_Identity_Notes.json",
+      "bytes": 3406,
+      "sha256": "a9690b842b464f11275c6f1197b4381ebdab3bf5f6bc5223f6b8d31f63a88c3a"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/Stop_Room_Summary.csv",
+      "bytes": 3520,
+      "sha256": "449f7c360f8d422ba622a0185995b5773c04bf1414bbb174a1bf44475f8d39aa"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/Stop_Surface_Selection.csv",
+      "bytes": 1769992,
+      "sha256": "197222c6c07411302f1a9937b7d6259d3137aba7544f2393dc7de0fa8cee9728"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/Top_Visible_Reference_Stop_IDs_uint8.png",
+      "bytes": 11499,
+      "sha256": "145aed49ef2734b53fb46996671e13d725f2dc4efff4548de199cd06cf9f205d"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/deliverables/File_SHA256.json",
+      "bytes": 7224,
+      "sha256": "6dc543b11109267795f782c9ec5c79f27df04a7bbb05817edecf8070fc9dac0c"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/packages/CampusCenter_P02_UV01_H01_13_Stop_Reference_and_Copy.zip",
+      "bytes": 1609345,
+      "sha256": "2b4a13f7cf7390e9dc0a48cdb0df2d752e5c69d7b0095c8dd525d039a3e1b3bd"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/packages/Package_Index.json",
+      "bytes": 573,
+      "sha256": "54d43325834058492bcd03a8983b471aa3f7da4fdbde7f3d960de6181679033d"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H01/FINAL_H01_SCOPE_AND_COPY_HANDOFF.json",
+      "bytes": 39968,
+      "sha256": "b1a44e4e7271fa0047edd03fd6b9878bd6643ba13d7f99838e86db15f621cc59"
+    },
+    {
+      "file": "native_architecture_components.json",
+      "bytes": 3106515,
+      "sha256": "775154a0132a6d84f10ae77a1f93868c547434187e4375bd57ce91b9573c6fcf"
+    },
+    {
+      "file": "<external-original>/model_geometry.json",
+      "bytes": 1356975,
+      "sha256": "b13b2b709f4652cf8c778ebf0dc8b711a7492c6c16a3c012db07654759a409cd"
+    },
+    {
+      "file": "actor_meshes/0604_StaticMeshActor_1508.npz",
+      "bytes": 1493,
+      "sha256": "29882e1b7639db05e9a2866774035e61801f1b30c4727065e08fa34ecce0478d"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/Actual_UV_Chart_Boundary_Comparisons.png",
+      "bytes": 46004,
+      "sha256": "6f99f7a74e694b720f89291185ed106c158edb220cc48a2b189b7ab043ddac3e"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/Annotated_H02_13_Stop_Room_Map.png",
+      "bytes": 269468,
+      "sha256": "1a6feabf88b84e43ad3f70a52da9e4a7aa3e98d33883cae6071d96c29058cd26"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/Approval_and_Changes.json",
+      "bytes": 1202,
+      "sha256": "a3908e46562f214355fe82d80c0f9c44df1ded68f8cc955db2c718501eee68c1"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/Boundary_And_Office_Difference_Diagnostic.png",
+      "bytes": 111654,
+      "sha256": "33f6ab19834eb3b8ac114218c99aa44aa1dd19ad4e430b0e010b9963232d2d70"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/Boundary_and_Office_Selection_QA.json",
+      "bytes": 7418,
+      "sha256": "673c4d7fa4223fd33fdc9cce978eac227baa68b8ad85ec45579895a5e223b89b"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/Boundary_Ownership_Contract.json",
+      "bytes": 5184,
+      "sha256": "6c582350061f37195fca91a338cfcd0fae521aa5f43f24a62342c38252db93a0"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/File_SHA256_Manifest.json",
+      "bytes": 6546,
+      "sha256": "29243891808486b416be37234d3d9e6d22c129b301683f471aacf738549d7c52"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/Final_Package_QA.json",
+      "bytes": 6763,
+      "sha256": "2eab5d439395237f95d3f34cdc7f7e69a26640b46687e883783d94cc8c743a29"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/Hall_Face_Clipping_Register.csv",
+      "bytes": 711578,
+      "sha256": "845fc19904198f3b3677ea9778c9276d360557822735a8bea28852623ce5004b"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/Mask_Generation_QA.json",
+      "bytes": 3333,
+      "sha256": "a59404f74e915254730cad99892fe40fda371a3351b7eba2bc79c5830856b2f0"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/README.txt",
+      "bytes": 5498,
+      "sha256": "7838d726f284f153acd0f87ef90279b7086a03aff737eb6388754c3b4c310731"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/Source_Preservation_Hashes.json",
+      "bytes": 53925,
+      "sha256": "b47199ee0c4d28d1e77cef625fb73f0cf2e0487a7f3e8169f4fcb76f22d1f4ef"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/Stop_Room_Summary.csv",
+      "bytes": 2310,
+      "sha256": "7de7e12ccceab5610221fb24899c4dd4bb3af52da428a3794430ad7dd3fa780b"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/Stop_Surface_Pixel_Coverage.csv",
+      "bytes": 1425330,
+      "sha256": "3a94feec7149ccd7933cfe3b89aecefebb0ae46a047bf36d53a01d347fa5811e"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/Top_Visible_H02_Stop_IDs_uint8.png",
+      "bytes": 13499,
+      "sha256": "c41459ea6cff423a3b2f232792bdcdcb6e613c3293e52f48693a9d507de8da47"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/Visual_Reference_QA.json",
+      "bytes": 1089,
+      "sha256": "81fa5de59410822bdc85e82dffafa2f9c0d38f9569c1b86220cae7045b0832e9"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/assembly_1_100/Excluded_From_Highlights_Opaque_Receiver_Mask.png",
+      "bytes": 103352,
+      "sha256": "a7b4c24d5a9de4435ac2355a372cb778fbbef1c1fb9ee4d9f2e2e94da2774231"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/assembly_1_100/Highlight_Stop_IDs_uint8.png",
+      "bytes": 179044,
+      "sha256": "975d0cfabfd72ffcb9ccbf1fb1e9b8a43af11f0d3f355e7677256560ec9c4d44"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/assembly_1_100/Selected_Receiver_Mask.png",
+      "bytes": 114744,
+      "sha256": "8c4130aec58905d0993cc29812f882e2e640a5b18ad47b3db6acaf6ff76adb8f"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/assembly_1_100/Stop_Atlas_Reference.png",
+      "bytes": 88658,
+      "sha256": "fa634653281bab9b2f37dedee23e25ae2a4a6da7c0dba5a421bb2c70c096b96d"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/assembly_1_100/Stop_Selection_Manifest.json",
+      "bytes": 2732660,
+      "sha256": "5c2098ac2652144b260072bebd19a2fd5fe250662c7d218aeac6b93520e4ee00"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/copy/Authoritative_Original_User_Copy.json",
+      "bytes": 4552,
+      "sha256": "295e5af94a4096d02c88dd7d53c344765d051feb61f0b040e4e3a8867a16e7c5"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/copy/Copy_Change_Note.json",
+      "bytes": 1415,
+      "sha256": "86bb161564e34810d31ef952c4a4d3ec5a5973af0cf7a95b9116f12ed915b569"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/copy/Usable_13_Stop_Copy.json",
+      "bytes": 4931,
+      "sha256": "0fe578ee9627dfbe7b01fff7d9f5cfa75d6f90f3ad48d847579f0fd9524d8e4f"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/copy/Usable_13_Stop_Copy.txt",
+      "bytes": 4487,
+      "sha256": "c8fe6d2b40472c35d87f78043ddbf767204448bfdca69cdc59c75f0b666e2336"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/sample_1_250/Excluded_From_Highlights_Opaque_Receiver_Mask.png",
+      "bytes": 91902,
+      "sha256": "a79ae692d29314eecd0afbfc627a0db8b8486303931443e613dbaa6444c324d7"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/sample_1_250/Highlight_Stop_IDs_uint8.png",
+      "bytes": 180945,
+      "sha256": "aef61fa28c5f74f0f127e88429d77c682e470f36556ef681179e47d1ca60d430"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/sample_1_250/Selected_Receiver_Mask.png",
+      "bytes": 118774,
+      "sha256": "de9d01ce7d0733bf5e25e4fcc1550110fbc8f4a57b1d8116fa4dc8adfe1de04b"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/sample_1_250/Stop_Atlas_Reference.png",
+      "bytes": 88445,
+      "sha256": "0b8522524d6ca4edbed13e9d185017853041bbfa02d2f9c680eb6f96f85de28c"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/sample_1_250/Stop_Selection_Manifest.json",
+      "bytes": 3089392,
+      "sha256": "134d0c8f03d23f3b51239bad8e47ad50b7bb8afd7bce33ee8e5fbef2e977fe9e"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/assembly_1_100/stop_masks/HS01_Receiver_Mask.png",
+      "bytes": 13377,
+      "sha256": "69f82b99a13dc9a61098e32e475d227b53bc400b8db6155a6b867d92b621e5e8"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/assembly_1_100/stop_masks/HS02_Receiver_Mask.png",
+      "bytes": 11898,
+      "sha256": "c5efdac859ae561d9ca89e22a312be348f053577688cfe87290b94dfd5f1a0ae"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/assembly_1_100/stop_masks/HS03_Receiver_Mask.png",
+      "bytes": 39586,
+      "sha256": "02616274fb6742f19efeed85eb8d3ad3be8396df50a40478dedc83063285c7c1"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/assembly_1_100/stop_masks/HS04_Receiver_Mask.png",
+      "bytes": 11351,
+      "sha256": "4d68a30f25103ac495d13e6b3bafe2776f1fb4b32da7f290e8736444ad680de3"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/assembly_1_100/stop_masks/HS05_Receiver_Mask.png",
+      "bytes": 14892,
+      "sha256": "c64803ade63184f706ed6533a657a2e24ab18c569b7cc94c812aa7409fc049b7"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/assembly_1_100/stop_masks/HS06_Receiver_Mask.png",
+      "bytes": 18870,
+      "sha256": "4503e68c92e45196091508d838dfc748b8ae1324e5b89ddbb9aeb8a27aef2d45"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/assembly_1_100/stop_masks/HS07_Receiver_Mask.png",
+      "bytes": 26471,
+      "sha256": "e9b5bd8335e729e845ca9a7f3e8177e1cd069076682c241164123dfb972d94b3"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/assembly_1_100/stop_masks/HS08_Receiver_Mask.png",
+      "bytes": 18425,
+      "sha256": "dcc610d191028103df3a6d5e5447fcda3f69c44a51a1aa0d3bacb13c4e94b977"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/assembly_1_100/stop_masks/HS09_Receiver_Mask.png",
+      "bytes": 17323,
+      "sha256": "3bef1b10eef393404509e7fc32d24d2192bd4ed20a3e0feb54f3eeae0cc4c0b8"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/assembly_1_100/stop_masks/HS10_Receiver_Mask.png",
+      "bytes": 10675,
+      "sha256": "efa09b8a62b279002c3352b173df9ca0e7ff4ef899a7387b8a9ab3f91f167f41"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/assembly_1_100/stop_masks/HS11_Receiver_Mask.png",
+      "bytes": 16156,
+      "sha256": "dc49c105df46669c8464f0cae345f908e1da5a69c64503e6861a9c215099afa2"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/assembly_1_100/stop_masks/HS12_Receiver_Mask.png",
+      "bytes": 10777,
+      "sha256": "41d32f21a93d057c599bf16010ffdb62e68bb432d67efb7a55724f7768555590"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/assembly_1_100/stop_masks/HS13_Receiver_Mask.png",
+      "bytes": 13291,
+      "sha256": "e72a67b63f45f28b1711ac2f83affe7519a9a45d4ec4fc6dde5e5f0418dab848"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/sample_1_250/stop_masks/HS01_Receiver_Mask.png",
+      "bytes": 19978,
+      "sha256": "b16d6394a28ff0c6bc430f5da29662f148db7f1f8d04028bde1bea4b0ab56f78"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/sample_1_250/stop_masks/HS02_Receiver_Mask.png",
+      "bytes": 15161,
+      "sha256": "cbf8882a4c13eca250f3b98296f8f65a8cf1f31a6cb5b77f6700d45844a9e689"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/sample_1_250/stop_masks/HS03_Receiver_Mask.png",
+      "bytes": 32380,
+      "sha256": "2fb67aacca0b906d7afd00cdb0413c2320cc80d18f8626351bcd70eb42a3e826"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/sample_1_250/stop_masks/HS04_Receiver_Mask.png",
+      "bytes": 15681,
+      "sha256": "0628025aeda93567a5e58e8174c4df0347cba2ad0a576c35e4e2e0317ec09558"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/sample_1_250/stop_masks/HS05_Receiver_Mask.png",
+      "bytes": 15571,
+      "sha256": "2725e792ea81e33742e8943c36a8a04316f115a6c8519c548ef06d3ddb4681c8"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/sample_1_250/stop_masks/HS06_Receiver_Mask.png",
+      "bytes": 15618,
+      "sha256": "84a790c7d842254b4af625201f658e70b79adba6421563974e7210fa27c05814"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/sample_1_250/stop_masks/HS07_Receiver_Mask.png",
+      "bytes": 23228,
+      "sha256": "fd0ef2093417a4e288444bc29af2132300a7122b3b3500a4927e7652b68b9780"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/sample_1_250/stop_masks/HS08_Receiver_Mask.png",
+      "bytes": 18791,
+      "sha256": "ad17069468a89c11ac8cd7ef3e8ea9dfa4ca3b7c30d12c914b1a10232c3aeafb"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/sample_1_250/stop_masks/HS09_Receiver_Mask.png",
+      "bytes": 17875,
+      "sha256": "943a9e56b5606857b5f3c0345b27a225b7480f8cd52215b7de6ea77757d1aff7"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/sample_1_250/stop_masks/HS10_Receiver_Mask.png",
+      "bytes": 10847,
+      "sha256": "52e05701eeb6d9ce6540ce5f87cbb106ea889f8e6404f27912e78be4df658234"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/sample_1_250/stop_masks/HS11_Receiver_Mask.png",
+      "bytes": 21794,
+      "sha256": "315d63071ae67c71f433562db42d9a28534d00f5967078d2b3972885add4e734"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/sample_1_250/stop_masks/HS12_Receiver_Mask.png",
+      "bytes": 11716,
+      "sha256": "160593d1aeed80dae729a7cde3167ca4cfb2cd55afa3a14bf4b137a841bbb78d"
+    },
+    {
+      "file": "madmapper_p02/highlight_scope_H02/deliverables/sample_1_250/stop_masks/HS13_Receiver_Mask.png",
+      "bytes": 12442,
+      "sha256": "6838ffa11bb89aa0dcadc9ff0248bb35a9777a36f93c890170d1def83d3b94b3"
+    }
+  ],
+  "audit_read_only": true,
+  "original_geometry_UV_project_or_media_writes": false
+}

@@ -1,0 +1,54 @@
+{
+  "count": 7,
+  "inputs": [
+    {
+      "file": "madmapper_ripple_R03/whole_model/Whole_Native_Obstacle_And_Ownership_Grid.npz",
+      "production_sha256": "0463f76370ce6aa0df2ba52902e5c31acaf272295251c7c1d3f990e2cc5004df",
+      "bundle_sha256": "0463f76370ce6aa0df2ba52902e5c31acaf272295251c7c1d3f990e2cc5004df",
+      "bytes": 48662,
+      "role": "Frozen compact geometry/aperture input; generation code for re-derivation included."
+    },
+    {
+      "file": "madmapper_production_P01/navigation/obstacles.npy",
+      "production_sha256": "f0adda3214d0a4518ee81304478126d429e59d650dd5ca579acbbe3c2d1148f0",
+      "bundle_sha256": "f0adda3214d0a4518ee81304478126d429e59d650dd5ca579acbbe3c2d1148f0",
+      "bytes": 5513984,
+      "role": "Frozen compact geometry/aperture input; generation code for re-derivation included."
+    },
+    {
+      "file": "madmapper_production_P01/navigation/origin.npy",
+      "production_sha256": "a6f0bbd7ceba1559a03f01e6d1fb1a9052ba43d887197d6e2b470b05f235d4d4",
+      "bundle_sha256": "a6f0bbd7ceba1559a03f01e6d1fb1a9052ba43d887197d6e2b470b05f235d4d4",
+      "bytes": 144,
+      "role": "Frozen compact geometry/aperture input; generation code for re-derivation included."
+    },
+    {
+      "file": "madmapper_production_P01/navigation/Navigation_Contract.json",
+      "production_sha256": "9f020c375d4d80c369a4d805ddcfff8d592e539f8fad2d9cabcc39488e56f6e6",
+      "bundle_sha256": "5bb3ef0bc26d4878eff865ec0b12929b4e65f84c7396c6dd2941c5eb098db174",
+      "bytes": 10654,
+      "role": "Frozen compact geometry/aperture input; generation code for re-derivation included."
+    },
+    {
+      "file": "madmapper_highlight_H03/world_clipped/deliverables/World_Clipped_Mask_Manifest.json",
+      "production_sha256": "f5076e14124a37ed305da28677e9a4f5f91d2fdcb09f215bbe9af1039fbfd3f8",
+      "bundle_sha256": "f5076e14124a37ed305da28677e9a4f5f91d2fdcb09f215bbe9af1039fbfd3f8",
+      "bytes": 20520,
+      "role": "Frozen compact geometry/aperture input; generation code for re-derivation included."
+    },
+    {
+      "file": "madmapper_infinity_rooms_R02/cache/Infinity_Room_Apertures_And_Depth.npz",
+      "production_sha256": "a0580ae2014b0f469eb8db70e5b7a3b86a7bb0f4275539880a4a0f06c0ba83b1",
+      "bundle_sha256": "a0580ae2014b0f469eb8db70e5b7a3b86a7bb0f4275539880a4a0f06c0ba83b1",
+      "bytes": 415385,
+      "role": "Frozen compact geometry/aperture input; generation code for re-derivation included."
+    },
+    {
+      "file": "madmapper_infinity_rooms_R02/cache/Infinity_Geometry_And_View_Contract.json",
+      "production_sha256": "669e0644fe47985d1096984d549c582801bccd04ad5ee40b6d019ede69ffe347",
+      "bundle_sha256": "669e0644fe47985d1096984d549c582801bccd04ad5ee40b6d019ede69ffe347",
+      "bytes": 14054,
+      "role": "Frozen compact geometry/aperture input; generation code for re-derivation included."
+    }
+  ]
+}

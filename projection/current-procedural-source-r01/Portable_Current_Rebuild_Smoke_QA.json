@@ -1,0 +1,139 @@
+{
+  "status": "PASS: portable entrypoint and actual current geometry generation verified",
+  "preparation": "run_rebuild.py --download --receiver-zip <published kit> --prepare-only in new empty workspace",
+  "published_receivers_SHA256_verified": true,
+  "declared_source_input_checks": {
+    "files": 1425,
+    "production_scripts_original_and_portable": 26,
+    "original_script_hash_comparison_read_only": true
+  },
+  "fresh_navigation_arrays": {
+    "obstacles.npy": {
+      "shape": [
+        2076,
+        2656
+      ],
+      "dtype": "bool",
+      "array_SHA256": "dd95f9bf61343f2931ee8fb8aff0837ba132d666b8ee7d750763970aad34172d",
+      "exact_match": true
+    },
+    "origin.npy": {
+      "shape": [
+        2
+      ],
+      "dtype": "float64",
+      "array_SHA256": "e3862f0cae04c3585319b578b40697757d102a9f0cddf6e1e3f06908ca88c1c9",
+      "exact_match": true
+    }
+  },
+  "fresh_Infinity_aperture_arrays": {
+    "owner": {
+      "shape": [
+        989,
+        1320
+      ],
+      "dtype": "int16",
+      "array_SHA256": "60342b49d46131c36e8a1813d81c1efe76cdd5f3ff91100a5c8e159d85a2915e",
+      "exact_match": true
+    },
+    "aperture": {
+      "shape": [
+        989,
+        1320
+      ],
+      "dtype": "bool",
+      "array_SHA256": "cc95fa4005ec9d46e6544969fdfa3017d42784cb6a6deeb01744564612acf579",
+      "exact_match": true
+    },
+    "wall_depth": {
+      "shape": [
+        989,
+        1320
+      ],
+      "dtype": "float32",
+      "array_SHA256": "8c7286e69f1036c511b05475e0537de579228c3fa9e51a70a8ec1d82e629cded",
+      "exact_match": true
+    },
+    "wall_axis": {
+      "shape": [
+        989,
+        1320
+      ],
+      "dtype": "uint8",
+      "array_SHA256": "8f5650ce1fe24e24e11555d9e3e2c1edd05555c6ef8fec6abaa396d1b924be7d",
+      "exact_match": true
+    },
+    "edge_distance": {
+      "shape": [
+        989,
+        1320
+      ],
+      "dtype": "float32",
+      "array_SHA256": "2836724258345aa562c2016c9171b348d75497815ce4493a45d138f593078c40",
+      "exact_match": true
+    },
+    "protected": {
+      "shape": [
+        989,
+        1320
+      ],
+      "dtype": "bool",
+      "array_SHA256": "0757f7a2943a464b58c591dd9648230380014632ac286fbe07fffc9887c056bb",
+      "exact_match": true
+    },
+    "full_obstacles": {
+      "shape": [
+        989,
+        1320
+      ],
+      "dtype": "bool",
+      "array_SHA256": "cf5bca19d2fcaa4e688bebe6e02f8db4b49848a7710c5ac79c9cfa2c1e11c87a",
+      "exact_match": true
+    },
+    "physical": {
+      "shape": [
+        989,
+        1320
+      ],
+      "dtype": "bool",
+      "array_SHA256": "f6c085d365c94af38cfae5ffa46406a21c65712838aa81a7514f1c5880cd95c9",
+      "exact_match": true
+    },
+    "origin": {
+      "shape": [
+        2
+      ],
+      "dtype": "float64",
+      "array_SHA256": "aa612dc1933f7ce45655ba6339509ee866d637fcf7bc6bdb63b0d14286c1db63",
+      "exact_match": true
+    },
+    "pitch": {
+      "shape": [],
+      "dtype": "float64",
+      "array_SHA256": "4cfa5b42ca669328764e67cd9a34bb8f90b16ed7ca8d85e8443783d7ccce15ed",
+      "exact_match": true
+    }
+  },
+  "fresh_region_parameters_and_camera_match_locked_reference": true,
+  "fresh_Infinity_keyframes": [
+    0,
+    120,
+    240,
+    360,
+    479
+  ],
+  "fresh_R04_transfer_keyframes": [
+    0,
+    60,
+    120,
+    240,
+    400,
+    640,
+    879
+  ],
+  "R04_short_real_Gym_solve_float32_state_SHA256": "ca09f6abf5acc5d2e4371fcefb644ca3294a07b107e3184d92c542fb9b69aa59",
+  "full64second_solve_rerun": false,
+  "full880_or480_frame_movie_encode_rerun": false,
+  "original_files_written": false,
+  "dependency_installation_or_print_job": false
+}

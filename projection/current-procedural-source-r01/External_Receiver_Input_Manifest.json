@@ -1,0 +1,34 @@
+{
+  "repository": "mikeymcfish/CampusCenter",
+  "frozen_commit": "74081e3fb86e879085c371853f66fc34f70053a6",
+  "receivers": [
+    {
+      "file": "madmapper_p02/deliverables/assembly_1_100/CampusCenter_P02_Assembly_1_100_UV01.obj",
+      "bytes": 15971501,
+      "sha256": "5fb3d64faebe846255f84b4e4f2be832070fec649ea99a1005d69f0c802db45f",
+      "git_blob_sha": "eb46d299f99840859e7f472ff2bdc2232c9d899b",
+      "url": "https://raw.githubusercontent.com/mikeymcfish/CampusCenter/74081e3fb86e879085c371853f66fc34f70053a6/projection/p02-madmapper-uv01/assembly_1_100/CampusCenter_P02_Assembly_1_100_UV01.obj"
+    },
+    {
+      "file": "madmapper_hybrid_UV02/deliverables/CampusCenter_P02plusP03B3_Assembly_1_100_UV02.obj",
+      "bytes": 16613878,
+      "sha256": "b949784cbb3f833d10d82fdd48d469ac3fac1b8ac723f7cc08588ca633a59fba",
+      "archive_entry": "Reference_Receiver/CampusCenter_P02plusP03B3_Assembly_1_100_UV02.obj",
+      "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-ripple-r04-black-thin-staggered-atlas-20261006/CampusCenter_UV02_Ripple_R04_Keyframes_Receiver_and_QA.zip"
+    },
+    {
+      "file": "madmapper_hybrid_UV02/deliverables/CampusCenter_P02_Assembly_1_100_UV01.mtl",
+      "bytes": 275,
+      "sha256": "8f71eea8b37df7d0705cdfa9f69afde3d0fbde5cd8e524e04ae4b4f88de3c715",
+      "archive_entry": "Reference_Receiver/CampusCenter_P02_Assembly_1_100_UV01.mtl",
+      "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-ripple-r04-black-thin-staggered-atlas-20261006/CampusCenter_UV02_Ripple_R04_Keyframes_Receiver_and_QA.zip"
+    }
+  ],
+  "archive": {
+    "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-ripple-r04-black-thin-staggered-atlas-20261006/CampusCenter_UV02_Ripple_R04_Keyframes_Receiver_and_QA.zip",
+    "bytes": 9802072,
+    "sha256": "a44a71da3c9d080978d7404b0141aea6e8679e04a09f072458cacf6d0accd97d"
+  },
+  "resolver": "resolve_public_inputs.py",
+  "no_revision_substitution": true
+}

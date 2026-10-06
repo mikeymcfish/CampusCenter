@@ -1,0 +1,48 @@
+{
+  "published_commit": "74081e3fb86e879085c371853f66fc34f70053a6",
+  "verified_public_git_UV01": {
+    "path": "projection/p02-madmapper-uv01/assembly_1_100/CampusCenter_P02_Assembly_1_100_UV01.obj",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "eb46d299f99840859e7f472ff2bdc2232c9d899b",
+    "size": 15971501,
+    "url": "https://api.github.com/repos/mikeymcfish/CampusCenter/git/blobs/eb46d299f99840859e7f472ff2bdc2232c9d899b"
+  },
+  "R04_release_assets": {
+    "tag": "campuscenter-ripple-r04-black-thin-staggered-atlas-20261006",
+    "tag_commit": "7a0f40b1b20665598bc02fd50bacd35ede88c792",
+    "release_url": "https://github.com/mikeymcfish/CampusCenter/releases/tag/campuscenter-ripple-r04-black-thin-staggered-atlas-20261006",
+    "downloads": [
+      {
+        "file": "Ripple_R04_Black_Thin_Staggered_Connected_UV02_1_100_4096_Lossless_PNG.mov",
+        "bytes": 375159817,
+        "sha256": "615d32c42cddba4b7d4ce71a1c0168ed2d7db340a72ee490c32826bb5a225506",
+        "role": "UV02 projection atlas",
+        "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-ripple-r04-black-thin-staggered-atlas-20261006/Ripple_R04_Black_Thin_Staggered_Connected_UV02_1_100_4096_Lossless_PNG.mov"
+      },
+      {
+        "file": "Ripple_R04_Black_Thin_Staggered_Connected_44s_Mapped_1024_Lossless_Reference.mov",
+        "bytes": 155515150,
+        "sha256": "3ba30a882ae941609e21e451998713df9d8c77392e975f71a743bb1e588a7116",
+        "role": "Mapped CAMERA lossless reference; not atlas input",
+        "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-ripple-r04-black-thin-staggered-atlas-20261006/Ripple_R04_Black_Thin_Staggered_Connected_44s_Mapped_1024_Lossless_Reference.mov"
+      },
+      {
+        "file": "CampusCenter_UV02_Ripple_R04_Keyframes_Receiver_and_QA.zip",
+        "bytes": 9802072,
+        "sha256": "a44a71da3c9d080978d7404b0141aea6e8679e04a09f072458cacf6d0accd97d",
+        "role": "Exact receiver, unchanged keyframes, geometry grid and source-limit QA; movies supplied separately",
+        "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-ripple-r04-black-thin-staggered-atlas-20261006/CampusCenter_UV02_Ripple_R04_Keyframes_Receiver_and_QA.zip"
+      },
+      {
+        "file": "PUBLIC_DOWNLOAD_MANIFEST.json",
+        "bytes": 837,
+        "sha256": "ec18e39917c3965d2eacbaa14a8012620b103d247eaa424f8c661203a4108167",
+        "role": "Public asset checksums",
+        "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-ripple-r04-black-thin-staggered-atlas-20261006/PUBLIC_DOWNLOAD_MANIFEST.json"
+      }
+    ]
+  },
+  "native_mesh_inputs_and_solver_scripts_not_found_in_git_tree": [],
+  "verified_tree_not_truncated": true
+}

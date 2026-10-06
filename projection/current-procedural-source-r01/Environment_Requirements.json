@@ -1,0 +1,53 @@
+{
+  "production_Python": "3.12.14",
+  "Python_architecture": "64bit CPython on Windows",
+  "numpy": "2.3.5",
+  "Pillow": "12.3.0",
+  "minimum_rebuild_dependencies": "requirements-solver-render.txt; native domain derivation additionally needsrequirements-native-domain-extraction.txt",
+  "geometry_dependencies": {
+    "trimesh_distribution_version": null,
+    "trimesh_version_metadata": "Vendoredversion.py is empty and installed package metadata was not retained. Do not infer a PyPI version.",
+    "trimesh_python_sources": 114,
+    "trimesh_source_tree_SHA256": "39e3a9aaa2350fddd0da3d0bf183b71474c45473eed0b5f2d9c264dad5130591",
+    "manifold3d_distribution_version": null,
+    "manifold3d_module_SHA256": "c125eb38360d2cf965f0c499053c758e42bf89ad287214834792a17b2e491257",
+    "manifold3d_module_platform": "CPython3.12Windowsx64",
+    "fresh_native_grid_rebuild_exactly_matches_accepted_domains": true,
+    "third_party_binaries_bundled": false,
+    "requirements_native_are_unpinned_due_to_missing_original_distribution_labels": true,
+    "guard": "Regenerated56domain arrays must match bundled locked references before solving; verification fails on drift."
+  },
+  "FFmpeg_production_version": "ffmpeg version 2024-05-02-git-71669f2ad5-full_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers",
+  "FFmpeg_production_executable_SHA256": "cbd68cc7fb402866a3e76ccc6a4ce19b82fb48b9e4e018bc0e1e376ca086cefe",
+  "FFmpeg_needed_codecs": [
+    "libx264",
+    "png",
+    "hap(optionalhistoricalR03)",
+    "snappy(optionalhistoricalR03)"
+  ],
+  "FFmpeg_path": "SetFFMPEGandFFPROBEor pass--ffmpeg/--ffprobe; no fixedmachine drive needed.",
+  "Blender_optional_native_preview": {
+    "version": "5.0.0",
+    "build_hash": "a37564c4df7a",
+    "required_for_solver_or_atlas": false,
+    "render": "Factoryscene,CyclesCPU,4samples,sRGBStandard,Emission1,blackworld,dither0,orthographic+Z"
+  },
+  "RAM_and_disk": "Recommend16GBRAM and at least20GBfree scratch space forR04;64second storedstates use11,309,315,668bytes before frames/movies. No cachedstate/frame files included.",
+  "exact_byte_reproduction_limits": [
+    "MOV/H264/PNGcontainer/file hashes may vary withFFmpeg,x264,zlib/Pillow versions. Compare decodedpixels and numericalstate/domain checks.",
+    "Full64second solver and880frame encoder were not rerun during this source-backup task; deterministicsource/input audits,shortnumericreplay and existingfullproductionQA were used.",
+    "Native library distribution release labels cannot be reconstructed from retainedmetadata; fingerprints and fresh exactgrid verification are supplied."
+  ],
+  "no_install_or_print_actions_performed": true,
+  "Infinity_R02": {
+    "fps": 20,
+    "frames": 480,
+    "seconds": 24,
+    "RAM_and_disk": "Same NumPy/Pillow environment; approximately1GB additional scratch; full frame caches excluded.",
+    "native_preview_seed": 0,
+    "native_preview_use_animated_seed": false,
+    "native_preview_samples": 4,
+    "front_view_assumption": "South negativeY, fixed eye348.25,-600,850mm; target348.25,252.875,12mm;42degreeHFOV.",
+    "full480frame_reencoding_for_backup_verification": false
+  }
+}

@@ -1,0 +1,790 @@
+{
+  "revision": "AcceptedR04 numerical configuration",
+  "random_seed": null,
+  "randomness": "No PRNG; deterministic source selection, component order and source timing. Explicit accepted77events supplied.",
+  "grid_pitch_model_mm": 0.5,
+  "fps": 20,
+  "substeps_per_frame": 4,
+  "dt_seconds": 0.0125,
+  "wave_speed_model_mm_per_second": 25,
+  "velocity_damping_per_second": 0.8,
+  "solve_duration_seconds": 64,
+  "stored_states": 1281,
+  "render_duration_seconds": 44,
+  "rendered_frames": 880,
+  "component_count": 56,
+  "impulse_width_model_mm": 3,
+  "impulse_peak_velocity_strength": 8,
+  "impulse_support_radius_sigma": 4,
+  "impulse_zero_sum_correction": "Subtract float64 sum residual at source cell",
+  "source_order_rule": "Gym first, then deterministically choose the farthest remaining reference location from the previous one;0.60s between reference zones,0.0375s offset for additional disconnected pockets. Labels locate sources only; no label flux barriers.",
+  "source_spatial_order_reference_codes": [
+    999,
+    104,
+    127,
+    100,
+    129,
+    103,
+    128,
+    101,
+    119,
+    102,
+    120,
+    105,
+    125,
+    108,
+    126,
+    0,
+    124,
+    109,
+    122,
+    106,
+    118,
+    111,
+    115,
+    110,
+    117,
+    130,
+    112,
+    121,
+    113,
+    116,
+    123,
+    114
+  ],
+  "source_events": [
+    {
+      "component": "Connected_B001",
+      "reference_owner": 0,
+      "point_model_mm": [
+        308.75,
+        78.25
+      ],
+      "time_seconds": 9.75
+    },
+    {
+      "component": "Connected_B001",
+      "reference_owner": 101,
+      "point_model_mm": [
+        596.25,
+        215.25
+      ],
+      "time_seconds": 4.95
+    },
+    {
+      "component": "Connected_B001",
+      "reference_owner": 102,
+      "point_model_mm": [
+        477.75,
+        228.75
+      ],
+      "time_seconds": 6.15
+    },
+    {
+      "component": "Connected_B001",
+      "reference_owner": 103,
+      "point_model_mm": [
+        594.75,
+        113.75
+      ],
+      "time_seconds": 3.75
+    },
+    {
+      "component": "Connected_B001",
+      "reference_owner": 105,
+      "point_model_mm": [
+        476.75,
+        105.25
+      ],
+      "time_seconds": 7.3500000000000005
+    },
+    {
+      "component": "Connected_B001",
+      "reference_owner": 106,
+      "point_model_mm": [
+        373.75,
+        179.25
+      ],
+      "time_seconds": 12.15
+    },
+    {
+      "component": "Connected_B001",
+      "reference_owner": 110,
+      "point_model_mm": [
+        281.25,
+        179.75
+      ],
+      "time_seconds": 14.55
+    },
+    {
+      "component": "Connected_B001",
+      "reference_owner": 111,
+      "point_model_mm": [
+        339.25,
+        141.75
+      ],
+      "time_seconds": 13.350000000000001
+    },
+    {
+      "component": "Connected_B001",
+      "reference_owner": 112,
+      "point_model_mm": [
+        281.25,
+        151.75
+      ],
+      "time_seconds": 16.35
+    },
+    {
+      "component": "Connected_B001",
+      "reference_owner": 113,
+      "point_model_mm": [
+        253.75,
+        152.25
+      ],
+      "time_seconds": 17.55
+    },
+    {
+      "component": "Connected_B001",
+      "reference_owner": 123,
+      "point_model_mm": [
+        205.75,
+        216.75
+      ],
+      "time_seconds": 18.75
+    },
+    {
+      "component": "Connected_B001",
+      "reference_owner": 129,
+      "point_model_mm": [
+        61.75,
+        358.25
+      ],
+      "time_seconds": 3.1500000000000004
+    },
+    {
+      "component": "Connected_B001",
+      "reference_owner": 130,
+      "point_model_mm": [
+        163.25,
+        322.25
+      ],
+      "time_seconds": 15.75
+    },
+    {
+      "component": "Connected_B002",
+      "reference_owner": 0,
+      "point_model_mm": [
+        254.75,
+        188.25
+      ],
+      "time_seconds": 9.787500000000001
+    },
+    {
+      "component": "Connected_B002",
+      "reference_owner": 123,
+      "point_model_mm": [
+        214.25,
+        353.25
+      ],
+      "time_seconds": 18.7875
+    },
+    {
+      "component": "Connected_B002",
+      "reference_owner": 999,
+      "point_model_mm": [
+        322.75,
+        349.75
+      ],
+      "time_seconds": 0.75
+    },
+    {
+      "component": "Connected_B003",
+      "reference_owner": 108,
+      "point_model_mm": [
+        404.25,
+        74.75
+      ],
+      "time_seconds": 8.55
+    },
+    {
+      "component": "Connected_B004",
+      "reference_owner": 0,
+      "point_model_mm": [
+        63.75,
+        133.25
+      ],
+      "time_seconds": 9.825000000000001
+    },
+    {
+      "component": "Connected_B004",
+      "reference_owner": 114,
+      "point_model_mm": [
+        142.25,
+        129.25
+      ],
+      "time_seconds": 19.35
+    },
+    {
+      "component": "Connected_B004",
+      "reference_owner": 115,
+      "point_model_mm": [
+        80.75,
+        165.25
+      ],
+      "time_seconds": 13.950000000000001
+    },
+    {
+      "component": "Connected_B004",
+      "reference_owner": 118,
+      "point_model_mm": [
+        63.75,
+        143.25
+      ],
+      "time_seconds": 12.75
+    },
+    {
+      "component": "Connected_B004",
+      "reference_owner": 119,
+      "point_model_mm": [
+        47.25,
+        139.25
+      ],
+      "time_seconds": 5.550000000000001
+    },
+    {
+      "component": "Connected_B004",
+      "reference_owner": 120,
+      "point_model_mm": [
+        63.75,
+        131.25
+      ],
+      "time_seconds": 6.75
+    },
+    {
+      "component": "Connected_B005",
+      "reference_owner": 122,
+      "point_model_mm": [
+        108.75,
+        292.75
+      ],
+      "time_seconds": 11.55
+    },
+    {
+      "component": "Connected_B006",
+      "reference_owner": 121,
+      "point_model_mm": [
+        109.25,
+        227.25
+      ],
+      "time_seconds": 16.95
+    },
+    {
+      "component": "Connected_B007",
+      "reference_owner": 0,
+      "point_model_mm": [
+        532.25,
+        351.75
+      ],
+      "time_seconds": 9.8625
+    },
+    {
+      "component": "Connected_B008",
+      "reference_owner": 117,
+      "point_model_mm": [
+        81.25,
+        130.25
+      ],
+      "time_seconds": 15.15
+    },
+    {
+      "component": "Connected_B009",
+      "reference_owner": 0,
+      "point_model_mm": [
+        30.25,
+        284.25
+      ],
+      "time_seconds": 9.9
+    },
+    {
+      "component": "Connected_B010",
+      "reference_owner": 0,
+      "point_model_mm": [
+        30.25,
+        218.75
+      ],
+      "time_seconds": 9.9375
+    },
+    {
+      "component": "Connected_B011",
+      "reference_owner": 116,
+      "point_model_mm": [
+        116.75,
+        130.25
+      ],
+      "time_seconds": 18.150000000000002
+    },
+    {
+      "component": "Connected_B012",
+      "reference_owner": 125,
+      "point_model_mm": [
+        122.75,
+        399.75
+      ],
+      "time_seconds": 7.95
+    },
+    {
+      "component": "Connected_B013",
+      "reference_owner": 0,
+      "point_model_mm": [
+        559.25,
+        15.25
+      ],
+      "time_seconds": 9.975000000000001
+    },
+    {
+      "component": "Connected_B014",
+      "reference_owner": 0,
+      "point_model_mm": [
+        590.75,
+        59.25
+      ],
+      "time_seconds": 9.75
+    },
+    {
+      "component": "Connected_B014",
+      "reference_owner": 104,
+      "point_model_mm": [
+        604.75,
+        53.25
+      ],
+      "time_seconds": 1.35
+    },
+    {
+      "component": "Connected_B015",
+      "reference_owner": 0,
+      "point_model_mm": [
+        13.25,
+        265.75
+      ],
+      "time_seconds": 9.787500000000001
+    },
+    {
+      "component": "Connected_B016",
+      "reference_owner": 0,
+      "point_model_mm": [
+        184.25,
+        129.75
+      ],
+      "time_seconds": 9.825000000000001
+    },
+    {
+      "component": "Connected_B017",
+      "reference_owner": 120,
+      "point_model_mm": [
+        36.75,
+        114.25
+      ],
+      "time_seconds": 6.7875000000000005
+    },
+    {
+      "component": "Connected_B018",
+      "reference_owner": 100,
+      "point_model_mm": [
+        645.75,
+        145.75
+      ],
+      "time_seconds": 2.5500000000000003
+    },
+    {
+      "component": "Connected_B019",
+      "reference_owner": 0,
+      "point_model_mm": [
+        336.25,
+        121.25
+      ],
+      "time_seconds": 9.8625
+    },
+    {
+      "component": "Connected_B019",
+      "reference_owner": 109,
+      "point_model_mm": [
+        334.25,
+        102.25
+      ],
+      "time_seconds": 10.950000000000001
+    },
+    {
+      "component": "Connected_B020",
+      "reference_owner": 127,
+      "point_model_mm": [
+        74.75,
+        391.25
+      ],
+      "time_seconds": 1.9500000000000002
+    },
+    {
+      "component": "Connected_B021",
+      "reference_owner": 124,
+      "point_model_mm": [
+        139.75,
+        359.25
+      ],
+      "time_seconds": 10.350000000000001
+    },
+    {
+      "component": "Connected_B022",
+      "reference_owner": 126,
+      "point_model_mm": [
+        107.75,
+        359.25
+      ],
+      "time_seconds": 9.15
+    },
+    {
+      "component": "Connected_B023",
+      "reference_owner": 128,
+      "point_model_mm": [
+        84.25,
+        355.25
+      ],
+      "time_seconds": 4.3500000000000005
+    },
+    {
+      "component": "Connected_B024",
+      "reference_owner": 114,
+      "point_model_mm": [
+        149.75,
+        145.75
+      ],
+      "time_seconds": 19.387500000000003
+    },
+    {
+      "component": "Connected_B025",
+      "reference_owner": 0,
+      "point_model_mm": [
+        326.75,
+        498.25
+      ],
+      "time_seconds": 9.9
+    },
+    {
+      "component": "Connected_B026",
+      "reference_owner": 0,
+      "point_model_mm": [
+        210.75,
+        462.25
+      ],
+      "time_seconds": 9.9375
+    },
+    {
+      "component": "Connected_B027",
+      "reference_owner": 123,
+      "point_model_mm": [
+        207.75,
+        235.25
+      ],
+      "time_seconds": 18.825
+    },
+    {
+      "component": "Connected_B028",
+      "reference_owner": 123,
+      "point_model_mm": [
+        207.75,
+        259.75
+      ],
+      "time_seconds": 18.8625
+    },
+    {
+      "component": "Connected_B029",
+      "reference_owner": 125,
+      "point_model_mm": [
+        99.25,
+        400.25
+      ],
+      "time_seconds": 7.987500000000001
+    },
+    {
+      "component": "Connected_B030",
+      "reference_owner": 127,
+      "point_model_mm": [
+        74.75,
+        413.75
+      ],
+      "time_seconds": 1.9875
+    },
+    {
+      "component": "Connected_B031",
+      "reference_owner": 124,
+      "point_model_mm": [
+        137.25,
+        376.25
+      ],
+      "time_seconds": 10.387500000000001
+    },
+    {
+      "component": "Connected_B032",
+      "reference_owner": 126,
+      "point_model_mm": [
+        108.75,
+        376.25
+      ],
+      "time_seconds": 9.1875
+    },
+    {
+      "component": "Connected_B033",
+      "reference_owner": 129,
+      "point_model_mm": [
+        63.75,
+        410.75
+      ],
+      "time_seconds": 3.1875
+    },
+    {
+      "component": "Connected_B034",
+      "reference_owner": 129,
+      "point_model_mm": [
+        63.75,
+        401.75
+      ],
+      "time_seconds": 3.225
+    },
+    {
+      "component": "Connected_B035",
+      "reference_owner": 127,
+      "point_model_mm": [
+        87.25,
+        376.25
+      ],
+      "time_seconds": 2.025
+    },
+    {
+      "component": "Connected_B036",
+      "reference_owner": 129,
+      "point_model_mm": [
+        63.75,
+        392.25
+      ],
+      "time_seconds": 3.2625
+    },
+    {
+      "component": "Connected_B037",
+      "reference_owner": 0,
+      "point_model_mm": [
+        183.75,
+        94.75
+      ],
+      "time_seconds": 9.975000000000001
+    },
+    {
+      "component": "Connected_B038",
+      "reference_owner": 0,
+      "point_model_mm": [
+        181.25,
+        421.25
+      ],
+      "time_seconds": 9.75
+    },
+    {
+      "component": "Connected_B039",
+      "reference_owner": 0,
+      "point_model_mm": [
+        661.75,
+        144.25
+      ],
+      "time_seconds": 9.787500000000001
+    },
+    {
+      "component": "Connected_B040",
+      "reference_owner": 102,
+      "point_model_mm": [
+        491.25,
+        331.75
+      ],
+      "time_seconds": 6.1875
+    },
+    {
+      "component": "Connected_B041",
+      "reference_owner": 0,
+      "point_model_mm": [
+        163.75,
+        420.75
+      ],
+      "time_seconds": 9.825000000000001
+    },
+    {
+      "component": "Connected_B042",
+      "reference_owner": 129,
+      "point_model_mm": [
+        28.75,
+        344.75
+      ],
+      "time_seconds": 3.3000000000000003
+    },
+    {
+      "component": "Connected_B043",
+      "reference_owner": 0,
+      "point_model_mm": [
+        199.75,
+        420.75
+      ],
+      "time_seconds": 9.8625
+    },
+    {
+      "component": "Connected_B044",
+      "reference_owner": 113,
+      "point_model_mm": [
+        256.75,
+        92.75
+      ],
+      "time_seconds": 17.587500000000002
+    },
+    {
+      "component": "Connected_B045",
+      "reference_owner": 129,
+      "point_model_mm": [
+        54.25,
+        351.25
+      ],
+      "time_seconds": 3.3375000000000004
+    },
+    {
+      "component": "Connected_B046",
+      "reference_owner": 0,
+      "point_model_mm": [
+        302.25,
+        79.75
+      ],
+      "time_seconds": 9.9
+    },
+    {
+      "component": "Connected_B047",
+      "reference_owner": 128,
+      "point_model_mm": [
+        72.25,
+        350.25
+      ],
+      "time_seconds": 4.3875
+    },
+    {
+      "component": "Connected_B048",
+      "reference_owner": 129,
+      "point_model_mm": [
+        64.75,
+        351.25
+      ],
+      "time_seconds": 3.375
+    },
+    {
+      "component": "Connected_B049",
+      "reference_owner": 121,
+      "point_model_mm": [
+        52.25,
+        188.25
+      ],
+      "time_seconds": 16.9875
+    },
+    {
+      "component": "Connected_B050",
+      "reference_owner": 129,
+      "point_model_mm": [
+        16.75,
+        344.75
+      ],
+      "time_seconds": 3.1500000000000004
+    },
+    {
+      "component": "Connected_B051",
+      "reference_owner": 0,
+      "point_model_mm": [
+        542.25,
+        14.25
+      ],
+      "time_seconds": 9.9375
+    },
+    {
+      "component": "Connected_B052",
+      "reference_owner": 0,
+      "point_model_mm": [
+        475.75,
+        24.75
+      ],
+      "time_seconds": 9.975000000000001
+    },
+    {
+      "component": "Connected_B053",
+      "reference_owner": 0,
+      "point_model_mm": [
+        154.75,
+        424.75
+      ],
+      "time_seconds": 9.75
+    },
+    {
+      "component": "Connected_B054",
+      "reference_owner": 129,
+      "point_model_mm": [
+        31.75,
+        344.75
+      ],
+      "time_seconds": 3.1875
+    },
+    {
+      "component": "Connected_B055",
+      "reference_owner": 0,
+      "point_model_mm": [
+        193.25,
+        89.25
+      ],
+      "time_seconds": 9.787500000000001
+    },
+    {
+      "component": "Connected_B056",
+      "reference_owner": 0,
+      "point_model_mm": [
+        667.25,
+        133.25
+      ],
+      "time_seconds": 9.825000000000001
+    }
+  ],
+  "height_state_precision": "float64 solver, float32 stored states",
+  "atlas_resolution": [
+    4096,
+    4096
+  ],
+  "crest_RGB": [
+    40,
+    235,
+    248
+  ],
+  "background_RGB": [
+    0,
+    0,
+    0
+  ],
+  "ridge_half_width_model_mm": 0.85,
+  "ridge_full_support_model_mm": 1.7,
+  "positive_height_quiet_threshold_model_mm": 7e-05,
+  "ridge_amplitude_denominator_model_mm": 0.0003,
+  "ridge_amplitude_power": 0.5,
+  "atlas_floor_z_ceiling_model_mm": 5.4,
+  "mapped_view_size": [
+    1024,
+    786
+  ],
+  "mapped_reduce_filter": "PillowBOX",
+  "world_axes_scale": "FrozenUV02 numeric1:100 modelmm,+Zup,+Ynorth,original origin",
+  "canvas_model_mm": [
+    726.25,
+    557.45361328125
+  ],
+  "canvas_center_model_mm": [
+    348.25,
+    252.875
+  ],
+  "top_reference_size": [
+    2048,
+    1572
+  ],
+  "no_fade_or_bloom": true
+}

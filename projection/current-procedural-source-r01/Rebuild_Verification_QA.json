@@ -1,0 +1,171 @@
+{
+  "status": "PASS: source/input resolution, exact timing and numerical smoke checks",
+  "checks": {
+    "Native_Geometry_Input_SHA256.json": {
+      "count": 1284,
+      "all_files_and_SHA256_match": true,
+      "object_pickle_arrays": false
+    },
+    "Locked_Domain_Input_SHA256.json": {
+      "count": 56,
+      "all_files_and_SHA256_match": true,
+      "object_pickle_arrays": false
+    },
+    "source_schedule": {
+      "events": 77,
+      "actual_production_rule_reexecuted": true,
+      "matches_all_accepted_points_owners_components_and_times_exactly": true,
+      "random_seed": null
+    },
+    "synthetic_reflection_and_isolation": {
+      "inter_basin_transfer_max_abs_height_mm": 0.0,
+      "barrier_cells_height_and_velocity_exact_zero": true,
+      "edge_flux_at_walls_exact_zero_by_no_connection": true,
+      "returning_closed_wall_probe_amplitude_mm": 0.8074203133583069,
+      "reflection_probe_passed": true,
+      "CFL_number": 0.625,
+      "2D_stability_limit": 0.7071067811865475,
+      "solver_method": "Symplectic damped height-field wave equation; symmetric finite-volume neighbour flux. Removed domain neighbour means no flow / reflecting Neumann wall, not a post-render mask.",
+      "full_liquid_flow_splashes_or_overtopping_simulated": false
+    },
+    "short_real_Gym_solve": {
+      "component": "Connected_B002",
+      "seconds": 3,
+      "substeps": 240,
+      "height_nonzero": true,
+      "finite": true,
+      "float32_state_SHA256": "ca09f6abf5acc5d2e4371fcefb644ca3294a07b107e3184d92c542fb9b69aa59",
+      "accepted_production_frame60_float32_bit_identical": true
+    },
+    "world_cache": {
+      "rebuilt_from_published_exact_UV01": true,
+      "arrays": {
+        "x": {
+          "shape": [
+            4096,
+            4096
+          ],
+          "dtype": "uint16",
+          "accepted_production_array_exact_match": true
+        },
+        "y": {
+          "shape": [
+            4096,
+            4096
+          ],
+          "dtype": "uint16",
+          "accepted_production_array_exact_match": true
+        },
+        "z": {
+          "shape": [
+            4096,
+            4096
+          ],
+          "dtype": "uint16",
+          "accepted_production_array_exact_match": true
+        },
+        "light": {
+          "shape": [
+            4096,
+            4096
+          ],
+          "dtype": "uint8",
+          "accepted_production_array_exact_match": true
+        },
+        "up": {
+          "shape": [
+            4096,
+            4096
+          ],
+          "dtype": "uint8",
+          "accepted_production_array_exact_match": true
+        },
+        "valid": {
+          "shape": [
+            4096,
+            4096
+          ],
+          "dtype": "uint8",
+          "accepted_production_array_exact_match": true
+        }
+      }
+    },
+    "hybrid_top_cache": {
+      "rebuilt_from_published_exact_UV01_and_UV02": true,
+      "arrays": {
+        "height": {
+          "shape": [
+            1572,
+            2048
+          ],
+          "dtype": "float32",
+          "accepted_production_array_exact_match": true
+        },
+        "u": {
+          "shape": [
+            1572,
+            2048
+          ],
+          "dtype": "float32",
+          "accepted_production_array_exact_match": true
+        },
+        "v": {
+          "shape": [
+            1572,
+            2048
+          ],
+          "dtype": "float32",
+          "accepted_production_array_exact_match": true
+        },
+        "material": {
+          "shape": [
+            1572,
+            2048
+          ],
+          "dtype": "uint8",
+          "accepted_production_array_exact_match": true
+        }
+      }
+    },
+    "accepted_R04_transfer_keyframes": [
+      {
+        "frame": 0,
+        "raw_atlas_pixels_identical": true,
+        "mapped_pixels_identical": true
+      },
+      {
+        "frame": 60,
+        "raw_atlas_pixels_identical": true,
+        "mapped_pixels_identical": true
+      },
+      {
+        "frame": 120,
+        "raw_atlas_pixels_identical": true,
+        "mapped_pixels_identical": true
+      },
+      {
+        "frame": 240,
+        "raw_atlas_pixels_identical": true,
+        "mapped_pixels_identical": true
+      },
+      {
+        "frame": 400,
+        "raw_atlas_pixels_identical": true,
+        "mapped_pixels_identical": true
+      },
+      {
+        "frame": 640,
+        "raw_atlas_pixels_identical": true,
+        "mapped_pixels_identical": true
+      },
+      {
+        "frame": 879,
+        "raw_atlas_pixels_identical": true,
+        "mapped_pixels_identical": true
+      }
+    ]
+  },
+  "full64second_simulation_rerun": false,
+  "full880frame_movie_encoding_rerun": false,
+  "physical_projection_or_MadMapper_playback_verified": false
+}
