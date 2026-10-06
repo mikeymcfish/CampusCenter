@@ -1,0 +1,5 @@
+Use the exact CampusCenter_P02_Assembly_1_100_UV01.obj supplied in the 1:100 tour static package. Add the HAP .mov as movie media and assign it to the whole model using its original UVs. Full 4096 square atlas; do not crop or adjust UVs. All regions use one shared texture. Disable extra lighting; choose Loop playback. The AllIntra .mp4 is a compact test alternative; it is also an atlas, not a camera preview. The Frame_*_Mapped_Preview.png files are camera-reference previews only. This movie uses the whole floor receiver including corridors and non-tour rooms; it is not limited to the 13 spotlights. The animated field is world-continuous across reused faces/charts. Source geometry, origin, scale and UVs are unchanged. Single +Z normal projector/view assumption; calibrate actual projector. No physical projection or MadMapper runtime test claimed. 1:100 model only.
+
+Official codec/load references:
+https://docs.madmapper.com/madmapper/6/3.-media/media-formats-and-video-codecs
+https://docs.madmapper.com/madmapper/6/3.-media/media-bin

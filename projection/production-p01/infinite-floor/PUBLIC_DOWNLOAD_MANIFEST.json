@@ -1,0 +1,21 @@
+[
+  {
+    "file": "Infinite_Floor_P02_UV01_1_100_4096_HAP.mov",
+    "bytes": 203925514,
+    "sha256": "6635c7d573bce9e373c10c1222400fb2edb72413f8c712046d802b4b89dec660",
+    "role": "Primary HAP UV atlas movie"
+  },
+  {
+    "file": "Infinite_Floor_P02_UV01_1_100_4096_AllIntra.mp4",
+    "bytes": 199613242,
+    "sha256": "12892ed5946fdabfa1b7c0c500092850529790e2685dda4c9f553799c7e944cc",
+    "role": "Large all-intra MP4 UV atlas test alternative; not compact camera preview"
+  },
+  {
+    "file": "CampusCenter_P02_UV01_P01_Infinite_Floor_Keyframes_and_QA_1_100.zip",
+    "bytes": 30251412,
+    "sha256": "643618e2d47490ca1388f322cf3d872017eabee6cb033f4939ebe786e55f8a20",
+    "role": "Atlas keyframes, mapped/native-emission previews, import instructions and QA",
+    "producer_package_sha256": "23eddde2bc677a72422de3fe0c8f2b439369aa2e701d5ebea2f396c4725f8083"
+  }
+]
