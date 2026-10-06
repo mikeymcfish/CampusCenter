@@ -1,0 +1,15 @@
+newmtl Opaque
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd ../Tour_Student_Commons_P02_UV01_250_Atlas_8192.png
+
+newmtl Glazing
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd ../Tour_Student_Commons_P02_UV01_250_Atlas_8192.png

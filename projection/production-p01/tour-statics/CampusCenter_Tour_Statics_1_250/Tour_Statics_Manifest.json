@@ -1,0 +1,171 @@
+{
+  "revision": "Production P01 static tour samples",
+  "model": "CampusCenter_P02_Sample_1_250_UV01",
+  "scale": 250,
+  "examples": [
+    {
+      "official_title": "The Student Commons",
+      "official_body_verbatim": "The Student Commons is the vibrant heart of the Campus Center, giving students a comfortable place to gather, study, relax, and connect around its welcoming fireplace. The space reflects King’s belief that a strong sense of belonging supports both personal growth and meaningful learning.",
+      "stop_id_metadata_only": "HS03",
+      "model_scale_denominator": 250,
+      "atlas_path": "Tour_Student_Commons_P02_UV01_250_Atlas_8192.png",
+      "atlas_sha256": "5937ad0e3c9fc9ae2a8e1323f5253c80cc013781698befd8adf528a079c47cc7",
+      "source_OBJ": "CampusCenter_P02_Sample_1_250_UV01.obj",
+      "source_OBJ_sha256": "ea3ece475b4a386cb3fac71a95f3e9701c8ca40211ee5580aad58e7b0cfcd5dd",
+      "source_H02_stop_mask_sha256": "2fb67aacca0b906d7afd00cdb0413c2320cc80d18f8626351bcd70eb42a3e826",
+      "selected_surface_texels": 396077,
+      "caption_surface_texels": 695387,
+      "all_title_and_copy_typed_from_authoritative_copy": true,
+      "copy_wrap_reconstructs_exact_original": true,
+      "room_numbers_or_diagnostic_labels_in_presentation_texture": false,
+      "caption_world_bounds_1_100_mm": [
+        [
+          235.0,
+          231.0
+        ],
+        [
+          448.0,
+          451.0
+        ]
+      ],
+      "caption_world_physical_mm": [
+        [
+          94.0,
+          92.4
+        ],
+        [
+          179.2,
+          180.4
+        ]
+      ],
+      "caption_rectangle_on_actual_gym_floor_with_inset": true,
+      "caption_orientation": "World +Y is top; readable in normal +Z preview; original UV chart rotation handled through original triangle UVs",
+      "lighting": "Consistent world light direction; height-based furniture top/side colours; geometry-derived contact shade; reapply with Emission to avoid double lighting",
+      "geometry_UV_or_origin_changes": [],
+      "physical_projection_tested": false
+    },
+    {
+      "official_title": "Innovation Lab",
+      "official_body_verbatim": "The Innovation Lab is a flexible learning environment where ideas can move from imagination to prototype through designing, building, testing, and rethinking. In this space, Students collaborate across disciplines, use emerging tools and technologies, and develop the creative confidence and perseverance needed to solve real-world problems.",
+      "stop_id_metadata_only": "HS07",
+      "model_scale_denominator": 250,
+      "atlas_path": "Tour_Innovation_Lab_P02_UV01_250_Atlas_8192.png",
+      "atlas_sha256": "6c746b17ba12edb047b5e9085a3bd00e352fb1c4cc85050211997bca27a53e23",
+      "source_OBJ": "CampusCenter_P02_Sample_1_250_UV01.obj",
+      "source_OBJ_sha256": "ea3ece475b4a386cb3fac71a95f3e9701c8ca40211ee5580aad58e7b0cfcd5dd",
+      "source_H02_stop_mask_sha256": "fd0ef2093417a4e288444bc29af2132300a7122b3b3500a4927e7652b68b9780",
+      "selected_surface_texels": 504942,
+      "caption_surface_texels": 695387,
+      "all_title_and_copy_typed_from_authoritative_copy": true,
+      "copy_wrap_reconstructs_exact_original": true,
+      "room_numbers_or_diagnostic_labels_in_presentation_texture": false,
+      "caption_world_bounds_1_100_mm": [
+        [
+          235.0,
+          231.0
+        ],
+        [
+          448.0,
+          451.0
+        ]
+      ],
+      "caption_world_physical_mm": [
+        [
+          94.0,
+          92.4
+        ],
+        [
+          179.2,
+          180.4
+        ]
+      ],
+      "caption_rectangle_on_actual_gym_floor_with_inset": true,
+      "caption_orientation": "World +Y is top; readable in normal +Z preview; original UV chart rotation handled through original triangle UVs",
+      "lighting": "Consistent world light direction; height-based furniture top/side colours; geometry-derived contact shade; reapply with Emission to avoid double lighting",
+      "geometry_UV_or_origin_changes": [],
+      "physical_projection_tested": false
+    },
+    {
+      "official_title": "ASPIRE Seminar Room",
+      "official_body_verbatim": "The Advanced Science Program for Independent Research and Engineering (ASPIRE) Seminar Room supports King’s advanced student researchers as they investigate complex questions, analyze evidence, and present original scientific work. It is a space for deep inquiry, mentorship, collaboration, and the kind of high-level research experience that prepares students to contribute confidently beyond King.",
+      "stop_id_metadata_only": "HS08",
+      "model_scale_denominator": 250,
+      "atlas_path": "Tour_ASPIRE_Seminar_Room_P02_UV01_250_Atlas_8192.png",
+      "atlas_sha256": "ce95e15d34f28e06856d2c66b5e19aa166d7fc5595fc0f825831c02b1fffe36d",
+      "source_OBJ": "CampusCenter_P02_Sample_1_250_UV01.obj",
+      "source_OBJ_sha256": "ea3ece475b4a386cb3fac71a95f3e9701c8ca40211ee5580aad58e7b0cfcd5dd",
+      "source_H02_stop_mask_sha256": "ad17069468a89c11ac8cd7ef3e8ea9dfa4ca3b7c30d12c914b1a10232c3aeafb",
+      "selected_surface_texels": 579785,
+      "caption_surface_texels": 695387,
+      "all_title_and_copy_typed_from_authoritative_copy": true,
+      "copy_wrap_reconstructs_exact_original": true,
+      "room_numbers_or_diagnostic_labels_in_presentation_texture": false,
+      "caption_world_bounds_1_100_mm": [
+        [
+          235.0,
+          231.0
+        ],
+        [
+          448.0,
+          451.0
+        ]
+      ],
+      "caption_world_physical_mm": [
+        [
+          94.0,
+          92.4
+        ],
+        [
+          179.2,
+          180.4
+        ]
+      ],
+      "caption_rectangle_on_actual_gym_floor_with_inset": true,
+      "caption_orientation": "World +Y is top; readable in normal +Z preview; original UV chart rotation handled through original triangle UVs",
+      "lighting": "Consistent world light direction; height-based furniture top/side colours; geometry-derived contact shade; reapply with Emission to avoid double lighting",
+      "geometry_UV_or_origin_changes": [],
+      "physical_projection_tested": false
+    },
+    {
+      "official_title": "The Cafe",
+      "official_body_verbatim": "The Cafe is designed as a natural gathering place where students, faculty, and visitors can connect and recharge. More than a place to grab something to eat, it supports the relationships and informal conversations that strengthen King’s collaborative and caring community.",
+      "stop_id_metadata_only": "HS02",
+      "model_scale_denominator": 250,
+      "atlas_path": "Tour_Cafe_P02_UV01_250_Atlas_8192.png",
+      "atlas_sha256": "7a36ae9af0422d9f30041d3408fd1a648d306ed9ac7d5a6c1e5ac3a44848bc70",
+      "source_OBJ": "CampusCenter_P02_Sample_1_250_UV01.obj",
+      "source_OBJ_sha256": "ea3ece475b4a386cb3fac71a95f3e9701c8ca40211ee5580aad58e7b0cfcd5dd",
+      "source_H02_stop_mask_sha256": "cbf8882a4c13eca250f3b98296f8f65a8cf1f31a6cb5b77f6700d45844a9e689",
+      "selected_surface_texels": 560570,
+      "caption_surface_texels": 695387,
+      "all_title_and_copy_typed_from_authoritative_copy": true,
+      "copy_wrap_reconstructs_exact_original": true,
+      "room_numbers_or_diagnostic_labels_in_presentation_texture": false,
+      "caption_world_bounds_1_100_mm": [
+        [
+          235.0,
+          231.0
+        ],
+        [
+          448.0,
+          451.0
+        ]
+      ],
+      "caption_world_physical_mm": [
+        [
+          94.0,
+          92.4
+        ],
+        [
+          179.2,
+          180.4
+        ]
+      ],
+      "caption_rectangle_on_actual_gym_floor_with_inset": true,
+      "caption_orientation": "World +Y is top; readable in normal +Z preview; original UV chart rotation handled through original triangle UVs",
+      "lighting": "Consistent world light direction; height-based furniture top/side colours; geometry-derived contact shade; reapply with Emission to avoid double lighting",
+      "geometry_UV_or_origin_changes": [],
+      "physical_projection_tested": false
+    }
+  ]
+}

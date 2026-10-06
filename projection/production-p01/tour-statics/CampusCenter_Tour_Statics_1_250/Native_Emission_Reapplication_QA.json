@@ -1,0 +1,54 @@
+{
+  "status": "PASS",
+  "native_Blender_version": "5.0.0",
+  "fresh_factory_scene_and_OBJ_import": true,
+  "source_OBJ_sha256": "ea3ece475b4a386cb3fac71a95f3e9701c8ca40211ee5580aad58e7b0cfcd5dd",
+  "geometry_UV_origin_changes": [],
+  "import_checks": [
+    {
+      "part": "Glazing",
+      "triangles": 708,
+      "coordinate_error_mm": 9.130859382366907e-06,
+      "UV_error": 2.9802221912511584e-08,
+      "identity_world_transform": true
+    },
+    {
+      "part": "Opaque",
+      "triangles": 66412,
+      "coordinate_error_mm": 1.4989062492531957e-05,
+      "UV_error": 2.9802321499516893e-08,
+      "identity_world_transform": true
+    }
+  ],
+  "no_second_light_pass": true,
+  "lights_in_scene": 0,
+  "shader": "Emission strength1; sRGB input; Standard view; nearest sampling",
+  "projector_assumption": "Orthographic +Z normal floor view; hidden walls not claimed",
+  "rendered_atlases": [
+    {
+      "atlas": "Tour_Student_Commons_P02_UV01_250_Atlas_8192.png",
+      "atlas_sha256": "5937ad0e3c9fc9ae2a8e1323f5253c80cc013781698befd8adf528a079c47cc7",
+      "native_emission_preview": "Tour_Student_Commons_P02_UV01_250_Native_Emission_Preview.png",
+      "all_mesh_parts_share_one_atlas": true
+    },
+    {
+      "atlas": "Tour_Innovation_Lab_P02_UV01_250_Atlas_8192.png",
+      "atlas_sha256": "6c746b17ba12edb047b5e9085a3bd00e352fb1c4cc85050211997bca27a53e23",
+      "native_emission_preview": "Tour_Innovation_Lab_P02_UV01_250_Native_Emission_Preview.png",
+      "all_mesh_parts_share_one_atlas": true
+    },
+    {
+      "atlas": "Tour_ASPIRE_Seminar_Room_P02_UV01_250_Atlas_8192.png",
+      "atlas_sha256": "ce95e15d34f28e06856d2c66b5e19aa166d7fc5595fc0f825831c02b1fffe36d",
+      "native_emission_preview": "Tour_ASPIRE_Seminar_Room_P02_UV01_250_Native_Emission_Preview.png",
+      "all_mesh_parts_share_one_atlas": true
+    },
+    {
+      "atlas": "Tour_Cafe_P02_UV01_250_Atlas_8192.png",
+      "atlas_sha256": "7a36ae9af0422d9f30041d3408fd1a648d306ed9ac7d5a6c1e5ac3a44848bc70",
+      "native_emission_preview": "Tour_Cafe_P02_UV01_250_Native_Emission_Preview.png",
+      "all_mesh_parts_share_one_atlas": true
+    }
+  ],
+  "physical_projection_tested": false
+}

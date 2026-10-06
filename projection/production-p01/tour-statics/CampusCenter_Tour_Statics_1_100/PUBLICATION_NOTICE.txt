@@ -1,0 +1,1 @@
+Public copy removes private source paths from Tour_Statics_Manifest.json and regenerates hashes. All model/atlas/preview bytes are unchanged. Original producer ZIP is preserved. Physical projection and MadMapper playback are untested.

@@ -1,0 +1,14 @@
+{
+  "files_verified": 317,
+  "all_source_P02_UV01_H01_H02_files_unchanged": true,
+  "changed_files": [],
+  "all_four_atlases_created": true,
+  "room_selection_outside_H02_or_gym": 0,
+  "all_copy_verbatim": true,
+  "caption_rectangles_inside_gym": true,
+  "room_number_labels_in_presentation": false,
+  "all_PNGs_decoded_and_verified": 20,
+  "native_emission_reapplication_QA": "Native_Emission_Reapplication_QA.json",
+  "visual_review": "Mapped text upright and legible; all four room fixtures distinct; no diagnostic labels in presentation atlases",
+  "exact_source_OBJ_copy_included": true
+}

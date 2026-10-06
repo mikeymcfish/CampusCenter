@@ -1,0 +1,50 @@
+CampusCenter - Tour static test images - Production P01
+
+This folder matches the included Model/CampusCenter_P02_Sample_1_250_UV01.obj, physical 1:250.
+OBJ numeric coordinates are millimetres, right-handed Z up. The OBJ is an
+exact byte copy of the frozen P02 UV01 source. No vertices, faces, corner
+UVs, world origin or physical scale changed. The copied MTL points all
+three named regions to the Student Commons atlas as a convenient default;
+the source MTL is unchanged. Independent material slots are not required.
+
+Load and test
+1. Use the included exact OBJ for the MadMapper 3D surface, retaining its
+   original UV coordinates and established physical registration.
+2. Add one *_Atlas_8192.png to the Media Bin and assign it as the texture
+   for the complete model. Use the full image, without crop, stretch or
+   UV adjustment. All model regions share this one atlas; glass and loops
+   have black atlas regions. Leave additional shading disabled.
+3. Test Student Commons, Innovation Lab, ASPIRE and Cafe by switching the
+   atlas media. Use the labelled *_Mapped_Preview.png and the actual native
+   *_Native_Emission_Preview.png to check placement and text orientation.
+   Those preview files and *_Gym_Caption_Reference.png are NOT atlases.
+4. Keep nearest/point sampling when available. The atlas is 8192 square;
+   import it at native resolution. Do not add a second light/shadow pass.
+5. Calibrate the 3D surface to the actual model and projector. This delivery
+   assumes a single projector approximately normal to the floor plane from
+   +Z. It does not claim physical projection or hidden-wall illumination.
+
+The four named rooms use their approved H02 masks. Titles and body copy
+are typed verbatim from the authoritative copy, entirely within the gym
+floor with a physical inset. There are no room numbers or diagnostic labels
+in presentation textures. The title/body are upright toward world +Y.
+Furniture tops and sides use contrasting colours, one fixed light direction,
+and geometry-derived contact shading. All other rooms remain black.
+
+This is specifically the 250 scale. A different physical scale requires
+its own UV01 OBJ and atlas package; the 1:250 sample is a print adaptation
+with a distinct atlas, not a uniformly shrunken assembly.
+
+QA: fresh native Blender OBJ import rechecked exact mesh coordinates and
+UVs, reapplied every atlas to all parts with one shared Emission shader,
+and rendered without lights. Independent world-to-original-UV raster previews
+also verify the caption inset and placement. Original source/H01/H02 hashes
+are retained in the handoff. Source copying and MTL presentation binding
+do not modify the original model files.
+
+No MadMapper project, cue programming, software installation, print job,
+GitHub push or unrelated cleanup is performed by this delivery.
+Library saving remains blocked on its existing route and was not retried.
+
+Official MadMapper Media Bin instructions:
+https://docs.madmapper.com/madmapper/6/3.-media/media-bin
