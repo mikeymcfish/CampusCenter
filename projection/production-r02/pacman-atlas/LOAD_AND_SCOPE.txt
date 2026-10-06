@@ -1,0 +1,9 @@
+PacMan R02: single main character, matched hybrid UV02, physical 1:100
+
+Use only the P02plusP03B3 UV02 receiver for five P02 tiles plus P03 B3. All parts share the full 8192-square atlas. Add PNG_Atlas_Sequence as an image folder at 20fps and loop, or test the identical LosslessPNG MOV container. Disable additional lighting. Nearest sampling is recommended; bilinear texel support was also included in the conservative collision budget. Real projector blur has not been measured. Native mapped previews are camera reference views and are not playback atlases. No MadMapper project/cues are supplied.
+
+One yellow main actor with a moving mouth and eye follows one continuous 96-second closed route. No simultaneous actors, portals or cross-wall jumps. Native walls, glazing, tabletops and overhangs within the actor clearance slab remain blocked. Genuinely overhead geometry is ignored; water physics uses different near-floor leg obstacles. The restored fireplace was added to and passed the full continuous route collision recheck.
+
+The route visits all 24 accessible room-reference floor selections, including only a small entrance area for Locker121, and 11 of 13 H02 selections. ASPIRE and Collaboration remain excluded because their actual barriers do not admit this readable character with clearance. The preserved room reference labels are earlier coarse selections, not a new R29 semantic room-boundary audit.
+
+Body diameter2.6mm, halo diameter2.9mm; formal texel-support radius1.85mm. Continuous formal clearance >=0.33078mm. At a full-model effective width1024px the body is about3.67px across; real projector recognisability is not claimed. Caption paging is only a separately documented proposal: no approved copy or old presentation media was rewritten. All older P02 UV01 and P01 files remain available unchanged.

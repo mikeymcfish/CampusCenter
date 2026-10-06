@@ -1,5 +1,7 @@
 # Current deliverables
 
+[Pac-Man R02 UV02 raw atlas test](projection/production-r02/pacman-atlas/README.md) includes checksum-verified reassembly of the unchanged lossless movie.
+
 [Pac-Man R02 compact single-actor camera preview](projection/production-r02/pacman-viewing/README.md) is available with printed-model route exclusions and proof.
 
 [Matched UV02 R02 Commons/Ripple atlas tests](projection/production-r02/atlas-tests/README.md) are available with their limited scope and import instructions.

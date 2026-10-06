@@ -1,0 +1,32 @@
+[
+  {
+    "file": "PacMan_R02_SingleActor_UV02_1_100_8192_LosslessPNG.mov.part001",
+    "bytes": 1900000000,
+    "sha256": "04752ac8c815fe66ead47017e2500d6d37a1f842ccc1f8ce2e4a0c7ecb356a98",
+    "role": "Lossless UV atlas MOV byte-part 1/2; join both before opening"
+  },
+  {
+    "file": "PacMan_R02_SingleActor_UV02_1_100_8192_LosslessPNG.mov.part002",
+    "bytes": 1891677592,
+    "sha256": "e452a0f878c8852595fc1387a5706e60b714022a1e7c037b8962e94d487a5ad5",
+    "role": "Lossless UV atlas MOV byte-part 2/2; join both before opening"
+  },
+  {
+    "file": "RAW_ATLAS_JOIN_MANIFEST.json",
+    "bytes": 793,
+    "sha256": "d75ff4768032951528000256c59332dbb7ebeb308c403c8e2dda9841d97f1a4d",
+    "role": "Ordered parts and original MOV checksum"
+  },
+  {
+    "file": "Join_PacMan_R02_Atlas.py",
+    "bytes": 1231,
+    "sha256": "2f4ccf5f5290e2e34162d175d922370dda2c393b94b7a3290bb7c2ae16f1b9a7",
+    "role": "Python3 checksum-verifying movie reassembly script"
+  },
+  {
+    "file": "CampusCenter_UV02_PacMan_R02_SingleActor_Keyframes_Route_And_QA.zip",
+    "bytes": 19074858,
+    "sha256": "1e4923cbbd4bd8fe30b16c486312699741847c8bb6ca8aa96cfb1428f0ccb03e",
+    "role": "Raw atlas keyframes, validated continuous route, native mapping and barrier QA"
+  }
+]

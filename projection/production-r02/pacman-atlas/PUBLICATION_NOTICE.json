@@ -1,0 +1,101 @@
+{
+  "original_package_sha256": "ce589fe375b6aef9dc443ff16b064ae5db6391441cf4af7d9e9f6a9c4a7ae469",
+  "changes": "Private JSON provenance reduced to basenames; atlas/keyframe/route/image bytes unchanged. Full movie is separate byte-parts, not included here.",
+  "files": [
+    {
+      "file": "ASPIRE_Collaboration_Actual_Barrier_Detail.png",
+      "bytes": 44700,
+      "sha256": "80d6e2b0e29226728a6ec107c2748d6e982b39505fc249ef992f556adf2f082c"
+    },
+    {
+      "file": "Continuous_Polygon_Barrier_Capacity_QA.json",
+      "bytes": 3311,
+      "sha256": "dc41c8faccfd2c0822a07e15cfa0213aa54bf869b3f5ebaac0acee60ea0cd500"
+    },
+    {
+      "file": "EXCLUSIONS_AND_DIAGRAM.txt",
+      "bytes": 1035,
+      "sha256": "3cea99d4a3b16de5fd928b32d66bc63e56d6a54bd7447e99b059205fab45ec9d"
+    },
+    {
+      "file": "Fireplace_Continuous_Route_Recheck.json",
+      "bytes": 1158,
+      "sha256": "335a685368f94ba7e5c55877dbcaf0f354c381bbb54ce5b56036800ba30b9c23"
+    },
+    {
+      "file": "LOAD_AND_SCOPE.txt",
+      "bytes": 1839,
+      "sha256": "31114effa938105cfbd5e57a120ce6ac07e24c81c12feaf8db195d9eda5da99d"
+    },
+    {
+      "file": "Native_Hybrid_Media_Reapplication_QA.json",
+      "bytes": 2349,
+      "sha256": "30c1c83dde20cd588bb332d1048ca260b1c98f1c682aac0e0e0a95307da1e676"
+    },
+    {
+      "file": "PacMan_R02_Frame_0000_Atlas_8192.png",
+      "bytes": 1974810,
+      "sha256": "d45d3aa62eb97f0bd4adf913e06c35eb63737d0b6aa04b0d306ba1de3117cb31"
+    },
+    {
+      "file": "PacMan_R02_Frame_0000_Native_Mapped_Preview.png",
+      "bytes": 3175498,
+      "sha256": "0e9aa44a1f915b5599cde0c28d4ba04d12b7c049f1b3dff15bc908fcb13e3b18"
+    },
+    {
+      "file": "PacMan_R02_Frame_0480_Atlas_8192.png",
+      "bytes": 1974778,
+      "sha256": "bb7f18ab593c16505210bcb188e58d262a81068e5bda6ff16ca055f62c66eb4c"
+    },
+    {
+      "file": "PacMan_R02_Frame_0480_Native_Mapped_Preview.png",
+      "bytes": 3175792,
+      "sha256": "55f94c7b85d304c20635125b83fc2a809fd7e7d7b8f6b3d0a29048714524c3df"
+    },
+    {
+      "file": "PacMan_R02_Frame_0960_Atlas_8192.png",
+      "bytes": 1974768,
+      "sha256": "23fd52165b189a84a93d12556aeed32fcff76e06e80b48656a4d777f1e5ed20d"
+    },
+    {
+      "file": "PacMan_R02_Frame_0960_Native_Mapped_Preview.png",
+      "bytes": 3175722,
+      "sha256": "dd6b9870f3d13efaab848e5e28e0155e4fdf6aea5be16feb556ac6a0198868aa"
+    },
+    {
+      "file": "PacMan_R02_Frame_1440_Atlas_8192.png",
+      "bytes": 1974835,
+      "sha256": "fccac4f3dc80a4097bda176da1d65c991098ad2929e87a1489ab20151eb98fb7"
+    },
+    {
+      "file": "PacMan_R02_Frame_1440_Native_Mapped_Preview.png",
+      "bytes": 3176176,
+      "sha256": "386ad0b232d1c6b936a3712de138eb7f656014246b05d68d7da6fb2115900142"
+    },
+    {
+      "file": "Remaining_Barriers_Actual_Geometry_Audit.json",
+      "bytes": 2174408,
+      "sha256": "e3c2809e25c7a10cfb8eebb433b08d1106ead4ed233502605ae7a854f74b725f"
+    },
+    {
+      "file": "Single_Actor_Animation_QA.json",
+      "bytes": 2733,
+      "sha256": "69868a8582249462ac4e93f21c041ddf6bb531c9b079379a9af19b083f4dff36"
+    },
+    {
+      "file": "Single_Character_Route_Map.png",
+      "bytes": 73353,
+      "sha256": "a072697ab69f9ffd1cb02997697884f1b7d9fb6498d209af4e90563d179fabfe"
+    },
+    {
+      "file": "Single_Character_Validated_Hybrid_Route.json",
+      "bytes": 737807,
+      "sha256": "aba143ba58f86b0dd54841109e3ec65b1b06dee0c85cd6b609a5400e3b6c8f99"
+    },
+    {
+      "file": "Single_Character_Validated_Route.json",
+      "bytes": 737668,
+      "sha256": "8a200ffbe0534fa5c648f113443d740aa2ca46e9526ba3ea1d03f308a5789640"
+    }
+  ]
+}
