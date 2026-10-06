@@ -495,6 +495,27 @@
           "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-infinity-rooms-r02-atlas-20261006/PUBLIC_DOWNLOAD_MANIFEST.json"
         }
       ]
+    },
+    {
+      "tag": "campuscenter-current-procedural-source-r01-20261006",
+      "tag_commit": "585732d91c7d81dbfd40a7e0c196ad57cc8517b3",
+      "release_url": "https://github.com/mikeymcfish/CampusCenter/releases/tag/campuscenter-current-procedural-source-r01-20261006",
+      "downloads": [
+        {
+          "file": "CampusCenter_Ripple_R04_Infinity_R02_Procedural_Source_And_Rebuild_R01.zip",
+          "bytes": 43853723,
+          "sha256": "5d49d0c7952940e88a1e407aedbd72783f1dc24697d596c6e1a27b81ff639889",
+          "role": "Exact editable generation code, compact geometry inputs, hashes/rebuild docs; full movies/clean-machine install untested",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-current-procedural-source-r01-20261006/CampusCenter_Ripple_R04_Infinity_R02_Procedural_Source_And_Rebuild_R01.zip"
+        },
+        {
+          "file": "PUBLIC_DOWNLOAD_MANIFEST.json",
+          "bytes": 348,
+          "sha256": "999aee9251f3d5fa86f53672cceeffbe9a69b328a0afe26ec1f8ea0101b6091f",
+          "role": "Public asset checksums",
+          "url": "https://github.com/mikeymcfish/CampusCenter/releases/download/campuscenter-current-procedural-source-r01-20261006/PUBLIC_DOWNLOAD_MANIFEST.json"
+        }
+      ]
     }
   ],
   "PacMan_original_movie": {
