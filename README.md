@@ -1,5 +1,7 @@
 # Current deliverables
 
+[Pac-Man R02 compact single-actor camera preview](projection/production-r02/pacman-viewing/README.md) is available with printed-model route exclusions and proof.
+
 [Matched UV02 R02 Commons/Ripple atlas tests](projection/production-r02/atlas-tests/README.md) are available with their limited scope and import instructions.
 
 [Two compact R02 viewing previews](projection/production-r02/viewing-previews/README.md) are available for immediate review. Camera views are not projection atlas inputs.

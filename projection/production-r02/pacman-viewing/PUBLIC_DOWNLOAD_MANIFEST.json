@@ -1,0 +1,14 @@
+[
+  {
+    "file": "PacMan_R02_SingleActor_Mapped_1024_Viewing_Preview.mp4",
+    "bytes": 892695,
+    "sha256": "64cfbbc01286f1cd4dcd32d7d712cc4976b030def820133bcefae663634918d4",
+    "role": "Compact mapped CAMERA viewing preview; not a UV atlas input"
+  },
+  {
+    "file": "CampusCenter_UV02_PacMan_R02_Compact_Viewing_And_Barrier_Proof.zip",
+    "bytes": 1964819,
+    "sha256": "33a5f71491a31dab24e512fcc2708ce765da161af0b71ced7446b0e3dfda84c8",
+    "role": "Compact viewing, route/barrier proof and reviewed frames"
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "status": "PASS: compact mapped-camera preview encoded from actual atlas movie through unchanged receiver triangle UVs",
+  "file": "PacMan_R02_SingleActor_Mapped_1024_Viewing_Preview.mp4",
+  "bytes": 892695,
+  "sha256": "64cfbbc01286f1cd4dcd32d7d712cc4976b030def820133bcefae663634918d4",
+  "width": 1024,
+  "height": 846,
+  "model_view_width_px": 1024,
+  "fps": 20,
+  "frames": 1920,
+  "duration_seconds": 96.0,
+  "source_atlas_movie": "PacMan_R02_SingleActor_UV02_1_100_8192_LosslessPNG.mov",
+  "raw_atlas_playback_file": false,
+  "projection_reference": "Unchanged +Z orthographic contract including actual restored fireplace visibility; exact UV lookup; nearest texture sampling",
+  "scope": "One actor; reachable selections only; no forced passages",
+  "physical_projector_readability_or_MadMapper_playback_verified": false,
+  "visual_review_pending": false,
+  "all_preview_frames_decoded": true,
+  "codec_probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1024,
+        "height": 846,
+        "r_frame_rate": "20/1",
+        "duration": "96.000000",
+        "nb_read_frames": "1920"
+      }
+    ]
+  },
+  "decoded_preview_frames_visually_reviewed_seconds": [
+    0,
+    24,
+    48,
+    72
+  ],
+  "source_frame_data": "PNG_Atlas_Sequence",
+  "source_frame_data_note": "Mapped preview samples the exact indexed PNG sequence. The large raw-atlas movie copies those same PNG frames losslessly; this preview is a separate camera view, not a projector atlas.",
+  "body_diameter_model_mm": 2.6,
+  "body_diameter_at_1024_model_view_px": 3.6659552495697074,
+  "review_limits": "The actor is small in the full-model 1024 view. Physical projector recognisability and MadMapper playback remain untested.",
+  "continuous_size_exclusion_proof": "Continuous_Polygon_Barrier_Capacity_QA.json"
+}

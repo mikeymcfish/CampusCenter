@@ -1,0 +1,71 @@
+{
+  "original_package_sha256": "ff84b1fea053715d1741929f5f73d3e00679f297b9a7597cba24152ad118f98f",
+  "changes": "Private JSON provenance paths reduced to basenames; image/video bytes and saved route evidence unchanged.",
+  "files": [
+    {
+      "file": "deliverables/PacMan_R02_SingleActor_Mapped_1024_Viewing_Preview.mp4",
+      "bytes": 892695,
+      "sha256": "64cfbbc01286f1cd4dcd32d7d712cc4976b030def820133bcefae663634918d4"
+    },
+    {
+      "file": "deliverables/Pacman_Compact_Mapped_Preview_QA.json",
+      "bytes": 1862,
+      "sha256": "f1f3eaaa178f47135851a23f009ab81e1b50d7a611129463bec3ecc2fbdfb8c3"
+    },
+    {
+      "file": "compact_review/READ_ME_VIEWING_AND_SCOPE.txt",
+      "bytes": 1784,
+      "sha256": "ac3827b284691e172685fef014afe3107017439610014bb5e874cde3abb8aa76"
+    },
+    {
+      "file": "compact_review/Protected_Source_Preservation_QA.json",
+      "bytes": 83,
+      "sha256": "e882da313c0d5f08cf833e940770e9410ab8e8abb6393b1a057c54fa832e44a6"
+    },
+    {
+      "file": "hybrid_receiver_review/Continuous_Polygon_Barrier_Capacity_QA.json",
+      "bytes": 3311,
+      "sha256": "dc41c8faccfd2c0822a07e15cfa0213aa54bf869b3f5ebaac0acee60ea0cd500"
+    },
+    {
+      "file": "hybrid_receiver_review/Fireplace_Continuous_Route_Recheck.json",
+      "bytes": 1158,
+      "sha256": "335a685368f94ba7e5c55877dbcaf0f354c381bbb54ce5b56036800ba30b9c23"
+    },
+    {
+      "file": "route_review/ASPIRE_Collaboration_Actual_Barrier_Detail.png",
+      "bytes": 44700,
+      "sha256": "80d6e2b0e29226728a6ec107c2748d6e982b39505fc249ef992f556adf2f082c"
+    },
+    {
+      "file": "route_review/Single_Character_Route_Map.png",
+      "bytes": 73353,
+      "sha256": "a072697ab69f9ffd1cb02997697884f1b7d9fb6498d209af4e90563d179fabfe"
+    },
+    {
+      "file": "deliverables/Single_Actor_Animation_QA.json",
+      "bytes": 2733,
+      "sha256": "69868a8582249462ac4e93f21c041ddf6bb531c9b079379a9af19b083f4dff36"
+    },
+    {
+      "file": "compact_review/Mapped_00s.png",
+      "bytes": 257200,
+      "sha256": "aea9edf96e25faf05ca5dd65e78f7282f737934991c353eafa92b675fc5983df"
+    },
+    {
+      "file": "compact_review/Mapped_24s.png",
+      "bytes": 257705,
+      "sha256": "c7bf4688650304f86f794de3f99fa2e4f899d21bad93ac03b2d3e1afbf939b18"
+    },
+    {
+      "file": "compact_review/Mapped_48s.png",
+      "bytes": 257749,
+      "sha256": "b2a66477446c32d5dee4d2d1e843cbe15c87c9c93ce31cdffc5c1cf7adea06a4"
+    },
+    {
+      "file": "compact_review/Mapped_72s.png",
+      "bytes": 257445,
+      "sha256": "58ac1d3f66b8a96c9f937568108665d10007e2f9de0c85d5ebb11c243e21b344"
+    }
+  ]
+}
